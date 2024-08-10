@@ -1,7 +1,7 @@
 ---
 title: "Efficient & Budget-Friendly TopMate C302 Cooler for Computers: In-Depth Analysis"
-date: 2024-08-02 20:32:52
-updated: 2024-08-05 10:59:57
+date: 2024-08-09T00:43:51.658Z
+updated: 2024-08-10T00:43:51.658Z
 categories:
   - BestProducts
 description: "This Article Describes Efficient & Budget-Friendly TopMate C302 Cooler for Computers: In-Depth Analysis"
@@ -15,6 +15,13 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 ## Mobvoi TicWatch E2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/-dRjCnwIPDxbCDgfGwje3jmPIVc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_HeroSquare-7e25ae1c0a8f461dbfc03047ae303254.jpg)
 
  Lifewire / Andrew Hayward
@@ -39,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Mobvoi TicWatch E2
 
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/m6uN8BF7na_BgK7uG5tlTXJUVGE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_HeroSquare-7e25ae1c0a8f461dbfc03047ae303254.jpg)
@@ -71,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## **Design and Comfort: Nondescript, but the screen is great**
 
  The TicWatch E2 is a big, beefy smartwatch, with a 1.39-inch circular display surrounded by a black plastic bezel. There's a bit of detail in there, including a circular pattern on the fixed bezel and some slope to the lugs that attach to the bands, but it's all the same color and matte texture. Physically, the TicWatch E2 just doesn't stand out very much at all.
@@ -109,10 +122,16 @@ Lifewire / Andrew Hayward
 
  We found this out the hard way, as our TicWatch E2 wouldn't pull any power from the cable in the days following our initial charge. We ordered a replacement watch and quickly experienced the same issue again. Ultimately, we realized that a less-powerful 5W charger—like the tiny charging blocks that ship with iPhones—was needed, and our third charging cable ultimately did the trick. That's a bit ridiculous, however, and Mobvoi could've avoided the problem altogether by just tossing a small power brick into the box.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/qqjgkoPMGLDcHiZ42FTOqRzF8qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_02-53f95b3090b84e4f8d439ed6e82d9adf.jpg)
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## **Software and Key Features: The budget feature set**
 
  The TicWatch E2 currently runs Wear OS 2.6, which is the latest version, and Google's smartwatch interface has gradually gotten smoother and more useful over the years. It's not as eye-catching or intuitive as Apple's watchOS 5, but the E2's included watch faces look nice and there are many more available to download from the Play Store, not to mention a solid array of wearable apps.
@@ -125,12 +144,18 @@ Lifewire / Andrew Hayward
 
  One odd note is that it automatically tracked a couple of phantom runs during our everyday usage, which was perplexing. Maybe we were walking a little faster than usual for a moment, but that shouldn't have triggered a tracking session. It was never an issue with other smartwatches we've used.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Price: It's cheap, but with issues**
 
  Wear OS watches vary widely in price, ranging up to several hundred dollars for fashion-centric or ruggedized models, but the TicWatch E2 is definitely one of the cheapest at $160\. It's also cheaper than the Fitbit Versa ($180) and quite a bit less than the Samsung Galaxy Watch ($330 plus) and Apple Watch Series 4 ($399 plus).
 
  However, given the wide array of Wear OS devices, it's not difficult to find other models priced below $200\. For example, many of Fossil's Wear OS watches are selling at a significant discount these days. It all depends on what you're looking for, but as noted throughout, we had some real issues with the TicWatch E2\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/9AwcHkOXajzxG-qrrj2oxg7pXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mobvoi-vs-FitbitVersa-Comparison-e61e0b7a3458412994b974ef05f13a17-cd600ab4f2934bef80fbe7323ff63495.jpg)
 
 Lifewire / Andrew Hayward
@@ -155,6 +180,9 @@ Lifewire / Andrew Hayward
 * [Samsung Galaxy Watch](https://www.lifewire.com/samsung-galaxy-watch-review-4769740)
 * [Fitbit Versa 2](https://www.lifewire.com/fitbit-versa-2-review-4797556)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  TicWatch E2

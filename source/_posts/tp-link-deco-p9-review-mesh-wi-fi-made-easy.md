@@ -1,7 +1,7 @@
 ---
 title: "TP-Link Deco P9 Review: Mesh Wi-Fi Made Easy"
-date: 2024-08-03 18:47:57
-updated: 2024-08-05 12:35:57
+date: 2024-08-09T00:43:52.007Z
+updated: 2024-08-10T00:43:52.007Z
 categories:
   - BestProducts
 description: "This Article Describes TP-Link Deco P9 Review: Mesh Wi-Fi Made Easy"
@@ -34,6 +34,9 @@ Lifewire / Rebecca Isaacs
 
 3
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Colossal Order Cities: Skylines
 
 ![Cities: Skylines](https://www.lifewire.com/thmb/deA72Y6zrzAaLylUgU38BHiLoT4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_HeroSquare-99df9b5cb412430ea9648e87a9af3ab1.jpg)
@@ -56,10 +59,16 @@ Lifewire / Rebecca Isaacs
 
  When I was a kid, I tried my hand at SimCity 3000, and learned the hard way that I was not good at that kind of city-building game. So when I saw Cities: Skylines promise a more modern take on city-building, I picked it up. Years later, I can finally redeem myself and build a modern city from the ground up thanks to this sandbox city-builder game. At first, it was rough, but in my twenty hours of gameplay, I had a fun experience. Read on for the verdict to see how it stacked up with our list of the[best city-building games](https://www.lifewire.com/games-console-reviews-4102640) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Cities: Skylines](https://www.lifewire.com/thmb/WU7CbhbZ2iqnmzSxasaW_HLw7WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_05-6834bf27f720404a860b40ec9f311711.jpg)
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Plot: A sandbox for you to play in**
 
  If you wanted Cities:Skylines to have a plot, you are not in luck. Since it’s a sandbox city-building game, the base game’s sole goal is to allow you the freedom to build a city from scratch without any scenario restrictions. This removal of a plot is both refreshing and a curse. Two hours in, and I was having a blast building up roads and commercial areas; a couple hours later, and I could feel the itch to start a new map. There are no real scenarios, without real stakes, which later in the game presented a major problem for me.
@@ -70,10 +79,16 @@ Lifewire / Rebecca Isaacs
 
  The game’s menu will let you know which scenarios are associated with each expansion or content pack, so you’ll know what to pick up should you want a specific scenario. While I’m sure this will add hours of gameplay and offer a more challenging experience, I only tested out the base game for Cities:Skylines—though the option of natural disasters would make this pleasantville-like city-builder.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Cities: Skylines](https://www.lifewire.com/thmb/588X3UAailg5Hybxdvxqw8a_G-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_02-04c0ef53b3cf4183ae1388ed1216c2e6.jpg)
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Gameplay** :**Tough learning curve**
 
  At first, I couldn’t figure out Cities: Skylines. I wanted to love the game because it was a city-builder that was solely there to act as a sandbox. As I began to play it, though, I realized I had no idea how to play this game. Sure, you could build roads as well as residential and commercial areas, but ensuring the taxes associated with these properties turn into profit turned out to be really hard for me. A few tries later, and I decided that I needed to turn to YouTube to see how to start the game.
@@ -106,12 +121,18 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Not bad**
 
  Cities: Skylines will put you back around $30, which isn’t too bad. However, the issue I take with it being $30 is that it’s only for the base game. You won’t get the extra features of the expansions or content packs unless you can land a Steam sale. For a base game that doesn’t come with any scenarios other than the basic sandbox with a handful of maps, it’s a little frustrating. However, if you’re like me and can spend hours in sandbox games, then the price shouldn’t worry you too much.
 
  For a base game that doesn’t come with any scenarios other than the basic sandbox with a handful of maps, it’s a little frustrating.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Competition: Other city-builders**
 
  Cities: Skylines is a regular city-building game. It doesn’t come with any wild sci-fi fantasy themes, like 2018’s science-fiction city-builder[Surviving Mars](https://store.steampowered.com/app/464920/Surviving%5FMars/) (view on Steam). In a similar vein to Surviving Mars, though, Cities: Skylines focuses on creating a city-state from scratch. Because it lacks the multitude of scenarios Surviving Mars has to offer, you’ll ultimately have to decide which you prefer: science fiction sized dust storms on a planet just now ready for colonization, or a plain green cityscape ready to be molded into a thriving metropolis. If you want a plain city-building game, then Cities: Skylines might be more geared toward your taste.

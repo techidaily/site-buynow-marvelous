@@ -1,7 +1,7 @@
 ---
 title: "Transforming Offices with Style: The Power and Efficiency of the X-Chair X4 Executive Chair Explored"
-date: 2024-08-02 19:35:19
-updated: 2024-08-05 11:15:35
+date: 2024-08-09T00:43:45.366Z
+updated: 2024-08-10T00:43:45.366Z
 categories:
   - BestProducts
 description: "This Article Describes Transforming Offices with Style: The Power and Efficiency of the X-Chair X4 Executive Chair Explored"
@@ -13,6 +13,18 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
 4.5
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Corsair One Pro
 
 ![Corsair One Pro](https://www.lifewire.com/thmb/MdMyEisZSvVsqkH0ADmlQTl86-k=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Corsair-One-Pro-Desktop-Computer-1-18b604776a364414be0d3f42d78f93cb.jpg)
@@ -39,8 +51,14 @@ Lifewire / Jonno Hill
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Corsair One Pro
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair One Pro](https://www.lifewire.com/thmb/bAGUctxOJ12bRS1igxDea_7Ukpw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Corsair-One-Pro-Desktop-Computer-1-18b604776a364414be0d3f42d78f93cb.jpg)
 
 Lifewire / Jonno Hill
@@ -76,6 +94,9 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Design** :**Beautiful and compact**
 
  The first thing I noticed about the Corsair One Pro when taking it out of the box was how small it was, and I was already anticipating a small PC. The 12 Liter case measures just 7.8 x 6.9 x 14.9 inches (HWD)—absolutely minuscule by gaming desktop standards. They also manage to do all this without making the case look like a cheesy aesthetic nightmare designed by an 11-year-old with a Mountain Dew Code Red addiction. A feat, I know. Hats off to Corsair for designing a PC for adults.
@@ -94,6 +115,9 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance** : **Solid for gaming, but limited RAM for video editing**
 
  The Corsair One Pro that I tested featured an Intel Core i7-7700k processor, 32GB of RAM, a 480GB[M.2 NVMe drive](https://www.lifewire.com/what-is-m2-833453) , a 2TB HDD, and an Nvidia GTX GeForce 1080 Ti graphics card. I’m a fan of almost everything about this hardware configuration except for the RAM. It’s certainly enough memory if you don’t do much beyond gaming and web browsing, but it’s quite limiting for any creative applications like video editing and motion graphics.
@@ -116,10 +140,16 @@ Lifewire / Jonno Hill
 
  Corsair Link is capable of monitoring CPU, GPU, motherboard, and SSD temperatures and reports on fan speeds as well. Beyond this, you can configure settings of the subtle blue LED strips on the exterior of the case from here, toggling settings like light patterns and brightness.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair One Pro](https://www.lifewire.com/thmb/wD8iDgpKfKl5SxrOM7HcPorqmgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Corsair-One-Pro-Desktop-Computer-5-d413b11c28bb49e0baada954e10dcb3a.jpg)
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: A premium, but a deserved one**
 
  The Corsair One Pro as configured can be found online for between $1700-$1900, which is a pretty great deal for this system. I put together a comparable build on PCPartPicker and despite cutting a few corners still ended up at around $1600 all-in. A $100-300 premium for a well-built, compact desktop like this is incredibly reasonable by any measure.

@@ -1,7 +1,7 @@
 ---
 title: "Expert Review: How Close Is the DJI Phantom 4 Pro V2.0 to Reaching Drone Perfection?"
-date: 2024-08-03 16:35:34
-updated: 2024-08-06 11:48:33
+date: 2024-08-09T00:43:41.964Z
+updated: 2024-08-10T00:43:41.964Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Review: How Close Is the DJI Phantom 4 Pro V2.0 to Reaching Drone Perfection?"
@@ -13,8 +13,14 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 
 4.7
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## ASUS ROG Zephyrus G14
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/HKRp7DosmTWd6-tDN_T5Xim0FHM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Asus-Zephyrus-G14-Laptop-1-0c79bc44ec9d4b908614464513fff4ba.jpg)
 
 Lifewire / Andy Zahn
@@ -40,6 +46,9 @@ Lifewire / Andy Zahn
 
 ## ASUS ROG Zephyrus G14
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/d6Jx1iTN6v3IBRBliZFXUcAGKnY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Asus-Zephyrus-G14-Laptop-1-0c79bc44ec9d4b908614464513fff4ba.jpg)
 
 Lifewire / Andy Zahn
@@ -70,6 +79,9 @@ Lifewire / Andy Zahn
 
  The Asus Zephyrus G14 is remarkably restrained as gaming products go, aside from the sci-fi keyboard font and a few conspicuous design elements. There’s no RGB or glowing red[LEDs](https://www.lifewire.com/what-does-led-stand-for-4153820) , though if you opt for the more expensive model the rear of the screen features a programmable LED dot display. It’s thin and light and incredibly portable given the power packed inside. Its 14-inch size is an excellent middle ground between portability and ease of use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/TuyIrZyRQl2CL5ySEh17guSvz5Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Zephyrus-G14-Laptop-2-e8dfe2e6de5f44fb86856d5041a60446.jpg)
 
  Lifewire / Andy Zahn
@@ -86,6 +98,9 @@ Lifewire / Andy Zahn
 
  It’s worth noting that the G14 lacks a built-in webcam, which may be a dealbreaker for some who need to use Zoom or streaming services like Twitch. However, there are advantages to this exclusion in terms of privacy. A lack of a webcam negates the security risk inherent in such devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## **Setup Process: Numerous and necessary updates**
 
  Starting up the Zephyrus G14, I was greeted by the typical Windows 10 installation process which was as streamlined and straightforward as usual. I took extra time to fine-tune my privacy settings here, as Windows tends to be pretty invasive in terms of privacy by default. Next, it was necessary to run a number of updates to get everything running at 100%. Every component from the keyboard to the screen to the operating system needed an update, and this process took some time.
@@ -94,6 +109,9 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## **Display: Fast and vibrant**
 
  With the Zephyrus G14, you have the option of either a 1080p 120-hertz display or a 4K 60-hertz display. I tested the 1080p model, and it’s definitely the one I would recommend for most people. The 4K version will technically be superior for color accuracy and resolution, but on a 14-inch display 1080p looks crisp and clear, and I found that this panel renders colors with remarkable accuracy and clarity. It looks great, and the 120-hertz refresh rate is awesome. It’s primarily useful for games, but even if you’re browsing the web or editing photos, it has a noticeable positive impact on the experience of using the laptop.
@@ -106,6 +124,9 @@ Lifewire / Andy Zahn
 
  In my GFXBench tests it was able to achieve a 120fps average framerate in the Aztec Ruins DirectX 12 High Tier 1440p test. This performance was reflected in the variety of demanding video games I played on the Zephyrus G14.[World of Tanks](https://www.lifewire.com/world-of-tanks-812290) and Dota 2 were easily able to deliver well over 120fps at max settings, as was Star Wars: Squadrons. Doom: Eternal also ran smoothly at ultra-nightmare graphics settings. This is a laptop capable of handling pretty much anything you can throw at it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/szuTe29U4JfgzZfQV8XZ2pZ60nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Zephyrus-G14-Laptop-7-9b5bffe7a0484c9b938043315427258a.jpg)
 
  Lifewire / Andy Zahn
@@ -120,6 +141,9 @@ Lifewire / Andy Zahn
 
  In my PCMark 10 Work 2.0 test the Zephyrus G14 achieved an impressive score of 5292\. In practice, the G14 is as awesome a tool for productivity and creative work as it is for gaming. The fast processor, SSD, and large quantity of RAM make everything from web browsing to editing spreadsheets feel snappy and responsive. Its powerful[GPU](https://www.lifewire.com/what-is-a-video-card-2618161) makes it a competent tool for photographers, videographers, and other creative types on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Audio: Impressive sound quality**
 
  Built-in speakers rarely stand out for their stellar performance, but those in the Zephyrus G14 surprised me with their high-quality output. My go-to audio track for testing speakers is 2Cellos Thunderstruck, and the G14 did a remarkable job of reproducing accurate highs and mids with this track. Bass performance was merely OK - acceptable, but not particularly great. Overall, whether playing games, watching movies, or listening to music, the G14 is quite capable of standing on its own without extra speakers or headphones. Part of this audio excellence is thanks to the integration of[Dolby Atmos technology](https://www.lifewire.com/dolby-atmos-cinema-to-home-theater-1847278) , which also benefits audio performance when listening through connected devices in addition to the built-in speakers.
@@ -128,6 +152,9 @@ Lifewire / Andy Zahn
 
  The Zephyrus G14 features[Wi-Fi 6](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) technology capable of keeping up with even the fastest Wi-Fi network. I never experienced issues with connectivity or network speed while using it, and[Bluetooth 5.0](https://www.lifewire.com/bluetooth-5-4160255) support is a welcome feature.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/uSsMTVv6efSRZLuQbZDZlgFYxFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Zephyrus-G14-Laptop-7-c1d1545335834e72b7ddb599eff8da9c.jpg)
 
  Lifewire / Andy Zahn
@@ -144,6 +171,9 @@ Lifewire / Andy Zahn
 
  Given its performance and portability, the Zephyrus G14 delivers remarkable value despite a somewhat premium $1500 price tag. That’s certainly a lot of money, but not so much for a gaming laptop with so few significant compromises. At this price point, you’d be hard-pressed to find a better bargain.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Asus Zephyrus G14 vs. Razer Blade 15**
 
  For a little bit more money the Razer Blade 15 offers a higher-end experience. It features a 9th generation core i7 processor, though the base model packs a less powerful Nvidia GTX 1660 Ti graphics card. It also features a 4K, 60-hertz, 15-inch display, and an RGB backlit keyboard. It’s certainly an attractive alternative, though I’d give the edge to the Asus, it being slightly cheaper, more portable, and sporting a more powerful GPU with a higher refresh rate display.

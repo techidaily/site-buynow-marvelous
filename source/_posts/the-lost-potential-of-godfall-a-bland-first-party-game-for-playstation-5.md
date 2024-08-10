@@ -1,7 +1,7 @@
 ---
 title: The Lost Potential of Godfall, a Bland First-Party Game for PlayStation 5
-date: 2024-08-05 11:33:16
-updated: 2024-08-08 11:50:45
+date: 2024-08-09T00:43:34.763Z
+updated: 2024-08-10T00:43:34.763Z
 categories:
   - BestProducts
 description: This Article Describes The Lost Potential of Godfall, a Bland First-Party Game for PlayStation 5
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/k4GOeKiSjTnDRlIBf9_Zp9BRpIE=/400x300/fi
 
 ## Audew Portable Air Compressor Pump
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Audew Portable Air Compressor Pump](https://www.lifewire.com/thmb/cFdj6kL0x5ji7kWglykgMkpAMoM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Audew-Tire-Inflator_HeroSquare-918a4d5f24ed473594c14775a3110898.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -37,6 +40,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Audew Portable Air Compressor Pump
 
 ![Audew Portable Air Compressor Pump](https://www.lifewire.com/thmb/oqYlb0kfEKI_L1jXrcVUnxqWgy0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Audew-Tire-Inflator_HeroSquare-918a4d5f24ed473594c14775a3110898.jpg)
@@ -63,6 +69,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design and Features: Easy enough for anyone**
 
  The most convenient thing about the Audew portable air compressor is that all its essential components are integrated into one unit. Hose, compressor, and power cord are all together and assembled. All you have to do is connect it to power and then a tire.
@@ -97,6 +106,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Fast filling for the road**
 
  To put the portable tire inflator through its paces, we took it road tripping through the American Mountain West for several days. We stopped at gas stations and rest stops along the way to simulate real-life situations where you’d be using it on the go.
@@ -115,10 +127,16 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Great for budget hawks**
 
  The list price for the Audew Portable Air Compressor Pump is about $32 on Amazon, making it one of the most budget-friendly portable tire inflators out there. However, if you shop around, it’s very easy to find it cheaper, making it an even more attractive deal.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Audew Portable Air Compressor Pump vs. Jaco SmartPro Digital Tire Inflator**
 
  If you’re willing to spend a little extra money on your portable air compressor, the Jaco SmartPro Digital Tire Inflator has many of the benefits of the Audew, with some enhancements thrown in.

@@ -1,7 +1,7 @@
 ---
 title: Evaluating the TP-Link AV1300 for Wi-Fi Coverage Expansion – Surprisingly Weak Results
-date: 2024-08-04 13:39:30
-updated: 2024-08-07 12:32:43
+date: 2024-08-09T00:43:40.787Z
+updated: 2024-08-10T00:43:40.787Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating the TP-Link AV1300 for Wi-Fi Coverage Expansion – Surprisingly Weak Results
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/-CCYcSX0T5AUV71rvhcL3EXRYU0=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Flexispot Theodore Standing Desk
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/j-bZzQrKEa5BwuAv26jY6OgzXS8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
@@ -36,6 +39,9 @@ Lifewire / Rebecca Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Flexispot Theodore Standing Desk
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/DtKuV5cnXF6F_hZWcmPDMzPTFDY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
@@ -64,6 +70,9 @@ Lifewire / Rebecca Isaacs
 
  Cue the Flexispot Theodore Standing Desk. The Flexispot was the answer to everything I needed in my workspace: classy; modern; and completely adjustable. After a week of testing, it’s safe to say I’ve never been so madly in love with a piece of furniture.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design: Mixing the old with the new
 
  This standing desk’s design and aesthetic gave me an executive feel when I set it up. First things first—it’s really heavy, clocking in at around 100 pounds if the packaging is to be believed. I can’t recommend handling the box by yourself, and, had I tried that myself, I would have probably been squished trying to haul it up two flights of stairs.
@@ -72,6 +81,9 @@ Lifewire / Rebecca Isaacs
 
  The wooden veneer immediately caught my eye. Named after the famous Theodore Roosevelt, this desk incorporates a wooden walnut veneer to give its classic look. It’s this American design, along with rustic knobs on the sole drawer, that give it a timeless look that can complement any home. Even better were the two USB ports that were incorporated beside the buttons for raising and lowering the desk.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/du2Ec4SmWWkaWQQCKbMuR4NiBUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_02-4a15245115084875b6ac05ba8f4c6a53.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -90,6 +102,9 @@ Lifewire / Rebecca Isaacs
 
 Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Controls: Tap a button
 
  If I got tired of sitting, usually with a cat on my lap, I could easily convert this into a standing desk thanks to two buttons that raise and lower the desk through motorized controls. While it was a little noisy, the noise doesn’t seem atypical for any standing desk models on the market. I stopped the desk when it rose to conform to my height of 5 feet, 8 inches, but the desk can go up to nearly 50 inches for people who need the extra height.
@@ -110,6 +125,9 @@ Lifewire / Rebecca Isaacs
 
 Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FlexiSpot Theodore vs. Rain Design iLevel 2 Laptop Stand
 
  Let’s say that perhaps a standing desk you’re thinking about investing in a[standing desk converter](https://www.lifewire.com/best-standing-desks-5118383) like the Rain Design iLevel 2 Laptop Stand. At around $51, it seems like it would be a no-brainer to go for the cost-effective option here.
@@ -124,6 +142,10 @@ Lifewire / Rebecca Isaacs
 
  The complete height adjustability and the complimentary USB ports on the Flexispot Theodore Standing Desk are perfect for any home that wants to retain a classic look while getting a major modern upgrade. With the small storage drawer, it’s the perfect standing desk to complete any home office.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [CumulusPRO Standing Desk Mat](https://www.lifewire.com/cumuluspro-standing-desk-mat-review-4775314)

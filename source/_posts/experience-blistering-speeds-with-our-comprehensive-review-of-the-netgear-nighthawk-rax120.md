@@ -1,7 +1,7 @@
 ---
 title: Experience Blistering Speeds with Our Comprehensive Review of the Netgear Nighthawk RAX120
-date: 2024-08-06 22:10:12
-updated: 2024-08-07 11:33:12
+date: 2024-08-09T00:43:54.710Z
+updated: 2024-08-10T00:43:54.710Z
 categories:
   - BestProducts
 description: This Article Describes Experience Blistering Speeds with Our Comprehensive Review of the Netgear Nighthawk RAX120
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
 
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/hov7MSNSt061CRmYtUqLocuVn_Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
@@ -41,6 +44,9 @@ Lifewire / Yoona Wagener
 
 ## Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/svytmcXYUcatZ6Kem2-kQisPZks=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
 
 Lifewire / Yoona Wagener
@@ -67,6 +73,9 @@ Lifewire / Yoona Wagener
 
  We used this tri-band router and observed various aspects starting with the setup process, software ease of use, and performance power when performing typical streaming and browsing activities.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/q6eQHVPL_nzfI20_HhRY5seg85c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-3-3baf530c5df54c9c903579053d19c25c.jpg)
 
  Lifewire / Yoona Wagener
@@ -79,10 +88,16 @@ Lifewire / Yoona Wagener
 
  All the ports are easy to locate at the back of the device. These include four[LAN](https://www.lifewire.com/what-is-lan-4684071) ports, one WAN port, and one[USB 3.0](https://www.lifewire.com/what-is-usb-3-0-2626038) and one USB 2.0 port. You’ll also find the power button and DC power input in the same row.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/GsN851fjmzxtWs6ShQfaWQtEPok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-2-b6366698f8d14745a5027973d8657745.jpg)
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Setup Process: Simple, with a few bumps in the road**
 
  Unboxing the Nighthawk X6 R8000, we were reminded several times to download the companion Nighthawk[mobile app](https://www.lifewire.com/what-are-apps-1616114) to complete the setup process. There is a sticker on top of the router with a[QR code](https://www.lifewire.com/scan-qr-codes-on-smartphone-4154658) that the app can use to detect the router and launches a quick setup process, but we couldn’t get this code to register. Instead, we went to the App Store and manually downloaded the mobile app.
@@ -95,6 +110,9 @@ Lifewire / Yoona Wagener
 
  Overall, minus the hitch that tacked on an additional 10-15 minutes of troubleshooting, we found the guided setup to be straightforward, quick, and easy to follow.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/kHfwPJF-cpnSAITo_i4moZ2Jnw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-4-1d3586d798cf44a9b219c9fd885069b3.jpg)
 
  Lifewire / Yoona Wagener
@@ -109,6 +127,9 @@ Lifewire / Yoona Wagener
 
  The Nighthawk X6 R8000 also comes with Dynamic Quality of Service (QoS) technology, which is another tool for managing bandwidth by allocating signals in specific directions and based on your priorities. Netgear says that users who like to game and stream video (and have combined download and upload speeds of less than 300Mbps) could garner enhanced performance by enabling this feature, which you can do from the web interface—but not the app.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Network Performance: Fast, but sometimes underwhelming**
 
  Using the Nighthawk app’s built-in speed test feature, which uses the Ookla SpeedTest technology, the best download speed registered at 95Mbps right after we set up the router. More typically, the output was around 88-95Mbps at varying points in the day.
@@ -135,6 +156,9 @@ Lifewire / Yoona Wagener
 
  In this respect, the Nighthawk X6 R8000 is equally friendly to the general user who doesn't want to delve into the technical deep end as well as the more tech-savvy customer who does.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: A bit steep**
 
  The Nighthawk X6 R8000 has a list price of $270, which certainly places it in the high-end tier of wireless routers. And while it’s not the most expensive tri-band router on the market, your decision to make this investment could come down to factors like how large your home is, how many devices you’re working with, and how fast your internet service plan is. The tri-band Wi-Fi technology is impressive, and there are many attractive features: an intuitive and low-effort app, built-in security with Netgear Armor, as well as a detailed level of control over managing how everyone in the family spends their screen time, but there are equally capable as less expensive options on the market.

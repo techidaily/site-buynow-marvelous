@@ -1,7 +1,7 @@
 ---
 title: "Expert Review of the Budget-Friendly Apeman C450 Dash Camera: Is It Worth Your Money?"
-date: 2024-08-06 19:43:48
-updated: 2024-08-08 10:38:38
+date: 2024-08-09T00:43:46.843Z
+updated: 2024-08-10T00:43:46.843Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Review of the Budget-Friendly Apeman C450 Dash Camera: Is It Worth Your Money?"
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mobvoi TicWatch E2
 
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/m6uN8BF7na_BgK7uG5tlTXJUVGE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_HeroSquare-7e25ae1c0a8f461dbfc03047ae303254.jpg)
@@ -89,6 +92,13 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## **Performance: Sometimes fine, sometimes not**
 
  Unsurprisingly, this discount smartwatch doesn't come with the latest and greatest tech inside. The Mobvoi TicWatch E2 uses the Qualcomm Snapdragon Wear 2100 chip, which debuted in 2016 and has since been replaced by the speedier Snapdragon Wear 3100\. That's the chip you'll see in most of today's Wear OS watches, but not this one.
@@ -101,6 +111,9 @@ Lifewire / Andrew Hayward
 
  Frustratingly, the phone also lost its connection to our phone (the Samsung Galaxy S10) on a semi-regular basis. We would try to access the Google Assistant and get an error message at times, as it couldn't connect to Google, or get a chunk of late-arriving notifications after the watch reconnected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery: Solid uptime, but watch out for charging hitches**
 
  Mobvoi advertises 48-hour battery life, but that needs an asterisk next to it: you'll only come close to that mark if the always-on screen is disabled and you're not heavily using the GPS for fitness tracking. The always-on screen saps a fair bit of battery life, and you probably won't get deep into a second day on a single charge. With modest usage and the screen off when you're not looking at it, however, you should safely be able to skip the charger every other night.
@@ -109,10 +122,16 @@ Lifewire / Andrew Hayward
 
  We found this out the hard way, as our TicWatch E2 wouldn't pull any power from the cable in the days following our initial charge. We ordered a replacement watch and quickly experienced the same issue again. Ultimately, we realized that a less-powerful 5W charger—like the tiny charging blocks that ship with iPhones—was needed, and our third charging cable ultimately did the trick. That's a bit ridiculous, however, and Mobvoi could've avoided the problem altogether by just tossing a small power brick into the box.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/qqjgkoPMGLDcHiZ42FTOqRzF8qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_02-53f95b3090b84e4f8d439ed6e82d9adf.jpg)
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software and Key Features: The budget feature set**
 
  The TicWatch E2 currently runs Wear OS 2.6, which is the latest version, and Google's smartwatch interface has gradually gotten smoother and more useful over the years. It's not as eye-catching or intuitive as Apple's watchOS 5, but the E2's included watch faces look nice and there are many more available to download from the Play Store, not to mention a solid array of wearable apps.
@@ -125,6 +144,14 @@ Lifewire / Andrew Hayward
 
  One odd note is that it automatically tracked a couple of phantom runs during our everyday usage, which was perplexing. Maybe we were walking a little faster than usual for a moment, but that shouldn't have triggered a tracking session. It was never an issue with other smartwatches we've used.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **Price: It's cheap, but with issues**
 
  Wear OS watches vary widely in price, ranging up to several hundred dollars for fashion-centric or ruggedized models, but the TicWatch E2 is definitely one of the cheapest at $160\. It's also cheaper than the Fitbit Versa ($180) and quite a bit less than the Samsung Galaxy Watch ($330 plus) and Apple Watch Series 4 ($399 plus).
@@ -135,6 +162,9 @@ Lifewire / Andrew Hayward
 
 Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **TicWatch E2 vs. Fitbit Versa**
 
  The TicWatch E2 and Fitbit Versa are two of the most notable current options when it comes to fitness-centered smartwatches that won’t break the bank. We prefer the larger screen and visual design of the TicWatch, although the slim build of the Fitbit Versa is better for fitness needs.
@@ -155,6 +185,9 @@ Lifewire / Andrew Hayward
 * [Samsung Galaxy Watch](https://www.lifewire.com/samsung-galaxy-watch-review-4769740)
 * [Fitbit Versa 2](https://www.lifewire.com/fitbit-versa-2-review-4797556)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  TicWatch E2

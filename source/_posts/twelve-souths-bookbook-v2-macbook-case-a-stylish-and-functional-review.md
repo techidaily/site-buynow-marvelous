@@ -1,7 +1,7 @@
 ---
 title: "Twelve South's BookBook V2 MacBook Case: A Stylish and Functional Review"
-date: 2024-08-02 14:31:28
-updated: 2024-08-05 10:26:26
+date: 2024-08-09T00:43:31.728Z
+updated: 2024-08-10T00:43:31.728Z
 categories:
   - BestProducts
 description: "This Article Describes Twelve South's BookBook V2 MacBook Case: A Stylish and Functional Review"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Blueear Bluetooth Beanie Hat
 
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/doY_zCxSysBLDibywXLN58DqFNo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_HeroSquare-d9847be4cedf4a279be58a3ffe96bd06.jpg)
@@ -64,10 +67,16 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
  If you moderate your expectations, the Blueear Bluetooth Beanie Hat is worth considering. It’s not an amazing hat nor a powerhouse audio experience, but it’s a reasonable compromise of fashion and utility. Its discreet appearance makes a good accessory for a winter outfit, and the sound produced by the[speakers](https://www.lifewire.com/all-about-speakers-4125129) is good enough to justify the price tag.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/IcCCPdp0TK1sbRWzr9VsPydtSLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_05-73c2b4a42b6b43f48ac4d02283d02657.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Simple and discreet**
 
  The idea behind this Bluetooth beanie is very simple and effective. Take a beanie and stitch up some inexpensive Bluetooth speakers in the seam. The speakers are inserted in a little pouch over each ear. Once the cap is on, you can push the speakers around so they fit your head precisely. You’ll have to adjust the speakers every time you put the beanie on, which gets annoying after a while.
@@ -96,6 +105,18 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
  Switching between paired devices isn’t quite as seamless as we’ve seen in[Bluetooth earbuds](https://www.lifewire.com/best-wireless-earbuds-4140480) like the[AirPods](https://www.lifewire.com/apple-airpods-review-4589511) and[PowerBeats Pro](https://www.lifewire.com/beats-powerbeats-pro-review-4694361) . During our testing phase, it generally took about one minute to switch from a Mac to an iPhone. It took even longer from an iPhone to a Mac since you have to route the audio manually.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/vDgOpMTjzx4rXxlDNddSrWYNiDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_06-ea3ea611fbf8423e9221af228b7c37e4.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
@@ -104,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
  The control panel sewed into the band sits over your left ear. This is an odd place for it for right handed people, requiring them to reach across their torso and face to use it with their dominant hand. Nevertheless, the controls are easy and complete. Controls include volume, pause, play, previous and next track. It only takes a few minutes of using the cap to learn its controls effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Battery Life: Good, but not as advertised**
 
  Blueear claims a full battery will yield eight hours of listening time from this Bluetooth beanie. However, we never got past six hours of continuous use during our testing phase. That’s more than enough juice to get you through an autumn hike or a winter evening night out, but if you’re going to be outside all day and want your tunes the whole time, you’ll probably want to invest in a pair of heavy-duty wireless earbuds like the Powerbeats Pro.
@@ -116,14 +140,23 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
  This Bluetooth beanie is made of 100% acrylic fibers. It’s not as comfortable as you might expect by looking at it. When we tested the product, it felt dry and scratchy and caused mild chafing around the ears and neck. Nothing that will leave a mark or cause blisters, but enough that you’ll never forget you’re wearing the hat.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Sound Quality: Decent sound from inexpensive speakers**
 
  The quality of the sound generated by this Bluetooth beanie is listenable, but won’t likely forget that you’re listening by way of tiny speakers in a $15 beanie. The volume is adequate to drown out outside noises, but not overpowering even at max volume. Since these are speakers, and not[earbuds](https://www.lifewire.com/best-earbuds-4045320) or headphones, they don’t deliver the immersive audio experience that you’d expect from Bluetooth earbuds like the AirPods.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Price: Inexpensive enough to take a chance on**
 
  All of the small foibles of this Bluetooth beanie are forgivable because it’s not an expensive product. Depending on the color you get, expect to pay between $15 and $25, with grey being the most expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Blueear Bluetooth Beanie Hat vs. Rotibox Bluetooth Beanie Hat**
 
  We tested this wireless beanie side by side with the Rotibox Bluetooth Beanie Hat and the two are about comparable in design and function. But the Rotibox is a good deal more comfortable, and it produces better sound. The best thing Blueear has going for it is that it’s the least expensive wireless music beanie we reviewed.

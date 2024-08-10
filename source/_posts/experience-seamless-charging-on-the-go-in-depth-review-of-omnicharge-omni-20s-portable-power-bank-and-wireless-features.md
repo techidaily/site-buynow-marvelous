@@ -1,7 +1,7 @@
 ---
 title: "Experience Seamless Charging On-the-Go: In-Depth Review of Omnicharge Omni 20'S Portable Power Bank & Wireless Features"
-date: 2024-08-05 20:28:56
-updated: 2024-08-07 10:49:21
+date: 2024-08-09T00:43:54.721Z
+updated: 2024-08-10T00:43:54.721Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Seamless Charging On-the-Go: In-Depth Review of Omnicharge Omni 20'S Portable Power Bank & Wireless Features"
@@ -40,8 +40,15 @@ Lifewire / Jeremy Laukkonen
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## APC 600VA UPS BE600M1 Battery Backup
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![APC Back-UPS Battery Backup & Surge Protector with USB Charger](https://www.lifewire.com/thmb/FsLpJPrek0LDocpkloen4zKAWyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_APC-UPS-600VA-Battery-Backup-Surge-Protector-1-e25fa239705945188d327ef0c206a563.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -67,10 +74,16 @@ Lifewire / Jeremy Laukkonen
 
  I’ve had an APC Back-UPS BGE90M powering the modem and router in my office for years, so I was able to slot the more powerful BE600M1 in its place for testing purposes. Over the course of a couple weeks, I tested how well it handles daily use, simulated brownouts and power outages, and stress-tested the unit by plugging in my powerful desktop computer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![APC Back-UPS Battery Backup & Surge Protector with USB Charger](https://www.lifewire.com/thmb/rfXARyL8E9PAWJHOjbbtNsRimXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/APC-UPS-600VA-Battery-Backup-Surge-Protector-3-b5efa0458d28459ca14dfad45ed4f2c0.jpg)
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design:** **Compact vertical design doesn’t get in the way**
 
  The APC Back-UPS BE600M1 has the same toaster-like form factor as the older BGE90M that I’ve been using for years and a matte black finish unlike the semi-gloss white finish of the older unit. It’s taller than it is wide, and longer than it is tall, with all the power outlets arranged in a row on top. The power button and single USB port are also on top, albeit on a slightly lower level than the outlets.
@@ -107,6 +120,9 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery: Good capacity for the size**
 
  This is a 330 watt/600VA UPS, but those numbers all refer to the ability of the UPS to put out power, not the storage capacity when the power goes out. The actual battery in this device is rated at 66 Volt-Amp-Hours, and you can get a replacement from APC that’s rated at a slightly higher 78 Volt-Amp-Hours.
@@ -125,6 +141,9 @@ Lifewire / Jeremy Laukkonen
 
  If you have a high-end PC, you can probably count on this unit to keep you powered up enough to quickly save your work and power down.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Charging Speed: Slow at best**
 
  Some UPS battery backups don’t come with USB ports at all, so it’s definitely a plus that the BE600M1 has one. However, it isn’t really anything to be excited about. It’s just a standard USB A port that’s only capable of putting out 1.5A, so it’s pretty sluggish when it comes to charging devices. Some devices may even fail to charge at all when powered up, due to consuming power at a faster rate than the port can supply, although I didn’t run into that particular problem myself.
@@ -135,6 +154,9 @@ Lifewire / Jeremy Laukkonen
 
  With an MSRP of $75 and actual pricing that is typically much lower, the APC Back-UPS BE600M1 represents a fairly good value. This unit is usually available in the $40 to $60 range, and it’s a fantastic deal at the low end of that scale. You can find slightly cheaper units that provide a similar amount of backup power, but not with this many outlets and a USB charging port.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **APC BE600M1 vs. Cyberpower CP685AVRG**
 
  With an MSRP of $80, and typically selling for around $70, the Cyberpower CP685AVRG is a direct competitor of the APC BE600M1\. It has a totally different form factor, being squat and taking up much more desk space, but it does have slots on the back that allow you to wall mount it if you prefer.

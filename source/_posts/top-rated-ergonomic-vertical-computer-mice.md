@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ergonomic Vertical Computer Mice
-date: 2024-08-05 16:53:36
-updated: 2024-08-07 12:49:19
+date: 2024-08-09T00:43:28.674Z
+updated: 2024-08-10T00:43:28.674Z
 categories:
   - BestProducts
 description: This Article Describes Top Rated Ergonomic Vertical Computer Mice
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/ioL8F-cFZKDYYRvWMdxK3t9HP5I=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## New Bee LC-B41 Bluetooth Earpiece
 
 ![New Bee LC-B41](https://www.lifewire.com/thmb/xwUsYAgIVW9583_9I35ND4f0SsQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewBee_BluetoothHeadsets_LCB41_HeroSquare-2ff9227981ee4cce88d0dccaf0bae6c7.jpg)
@@ -66,12 +69,18 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Design: Small and inconspicuous**
 
  The New Bee is relatively small, measuring a little over two inches in length and about 0.6 inches wide. It comes in three different colors: black, white, or gold. The exterior finish is glossy, and it has silver trim that gets thicker at the rounded off bottom portion of the headset. Overall, this headset looks more like a typical electronic device than some of the other units I’ve tested.
 
  There are three hard button controls on the New Bee, which are ideally located for the easiest possible access. On one side sits a physical on and off slider switch, and the other side has a volume control switch. The brand name “New Bee” is printed along the front of the glossy surface, and you press on the front glossy surface of the headset to answer and end calls. Since the call button is so large, it’s easier to answer a call while you’re performing other tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Comfort: Wears well for long periods**
 
  The New Bee LC-41 is lightweight and comfortable to wear for long time periods, but it’s more comfortable without the addition of the ear hook. If you’re not partaking in heavy activity, the New Bee stays in the ear pretty well, but if you’re going to the gym or going for a run, you’ll want the added support of the ear hook.
@@ -100,10 +109,17 @@ Lifewire / Erika Rawes
 
  New Bee features HD voice and CVC (clear voice capture) 6.0 noise cancellation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## **Price: A budget headset under $20**
 
  The price tag is insanely affordable. You can buy the New Bee LC-41 headset for around $17, which is an excellent value considering the battery life and all of the included accessories.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **New Bee LC-41 vs. Jabra Steel**
 
  The[Jabra Steel](https://www.lifewire.com/jabra-steel-review-4843475) headset costs around four times the price of the New Bee, and it offers some advantages like water, shock, and dust resistance. The Jabra is designed for those who need a durable, rugged headset for the outdoors, and it comes with a five-year limited warranty.
@@ -116,6 +132,10 @@ Lifewire / Erika Rawes
 
  The New Bee LC-41 isn’t perfect, but because it offers so much for so little, most people will be happy with the device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  LC-B41 Bluetooth Earpiece

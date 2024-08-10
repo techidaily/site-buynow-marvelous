@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Tablet Technology - A Deep Dive Into the Capabilities of The Samsung Galaxy Tab S4
-date: 2024-08-06 13:50:48
-updated: 2024-08-07 11:23:12
+date: 2024-08-09T00:43:32.315Z
+updated: 2024-08-10T00:43:32.315Z
 categories:
   - BestProducts
 description: This Article Describes Revolutionary Tablet Technology - A Deep Dive Into the Capabilities of The Samsung Galaxy Tab S4
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/SKBzbW3M9cP9PJV_qf5PRLUfhPo=/400x300/fi
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung QN55Q60RAFXZA 55-Inch Smart 4K UHD TV
 
 ![Samsung QN55Q60RAFXZA Smart TV](https://www.lifewire.com/thmb/3wvRd5fdYGaWCbby7QCdqre1xeg=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_SmartTVs_QN55Q60RAFXZA_HeroSquare-b61680537acf4bb8b90cef3343e76e8d.jpg)
@@ -38,6 +41,14 @@ Lifewire / Bill Loguidice
 
 4.5
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung QN55Q60RAFXZA 55-Inch Smart 4K UHD TV
 
 ![Samsung QN55Q60RAFXZA Smart TV](https://www.lifewire.com/thmb/Uk2902wqEKeVUjk27nqGMWb7vYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_SmartTVs_QN55Q60RAFXZA_HeroSquare-b61680537acf4bb8b90cef3343e76e8d.jpg)
@@ -84,6 +95,9 @@ Lifewire / Bill Loguidice
 
  All of the rest of the inputs and outputs are located in a recessed area on the far left rear of the unit. Starting from the bottom up, the ports are: ANT IN, EX-LINK, LAN, HDMI IN 1, HDMI IN 2, HDMI IN 3, HDMI IN 4 (ARC), DIGITAL AUTO OUT (OPTICAL), USB (HDD 5V 1A), and USB (5V 0.5A). While having all of those port options is great, arguably the most important are the four HDMI inputs, which go a long way towards accommodating the many set-top boxes, consoles, and other devices in the average home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Setup Process: Well-packaged with step-by-step instructions**
 
  Our shipping box was damaged and the internal styrofoam busted up, but fortunately the TV inside was fine. This packaging damage did make the base unstable, however, so keep that in mind if the base styrofoam is not a solid piece anymore.
@@ -128,6 +142,9 @@ Lifewire / Bill Loguidice
 
  Lifewire / Bill Loguidice
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## **Image Quality: Spectacular color and resolution**
 
  Image quality is the one area that Samsung focuses on in their marketing of this TV, and with good reason. Even with not touching any of the default settings, the picture quality, and color, regardless of source or content, was uniformly excellent.
@@ -140,6 +157,9 @@ Lifewire / Bill Loguidice
 
  Even at extreme viewing angles, and certainly any practical angle, the picture remained clear, with little-to-no noticeable color or contrast washout. There are few practical scenarios that we can envision that this TV would not provide an excellent viewing experience, regardless of where you’re seated.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Audio Quality: Serviceable sound**
 
  As expected, even at its non-budget price point, sound quality is merely serviceable on the QN55Q60RAFXZA. If you want sound quality to match your picture quality, you’re going to have to invest in a similarly excellent surround sound system. With that said, even with its volume set to 100, the sound from the downfiring speakers on the QN55Q60RAFXZA is well-defined and clear with no noticeable hissing or popping.
@@ -150,6 +170,9 @@ Lifewire / Bill Loguidice
 
  Even at extreme viewing angles, and certainly any practical angle, the picture remained clear, with little-to-no noticeable color or contrast washout.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Lots of options built-in**
 
  Samsung’s Smart Hub, which is based on Tizen, is a surprisingly robust operating system for the QN55Q60RAFXZA. It features a wide range of apps, and even games, to the point where you may not even need any external media boxes like a[Roku](https://www.lifewire.com/what-is-a-roku-4142216) or[Apple TV](https://www.lifewire.com/what-is-apple-tv-1994193) . Of course, external media boxes like a Roku, and in particular an Apple TV, do offer more app and content options overall, but you’ll still find almost all of the top apps and then some on Smart Hub, including Netflix, Apple TV+, Google Play, Sling TV, Amazon Prime Video, Disney+, Spotify, and SiriusXM.
@@ -164,6 +187,9 @@ Lifewire / Bill Loguidice
 
  Finally, thanks to its Apple Airplay 2 support, the QN55Q60RAFXZA makes an excellent Screen Mirroring and audio target. Simply select Samsung Q60 Series on your recent Apple mobile device and your content plays on the QN55Q60RAFXZA. In our testing, the connection happened quickly and playback was smooth.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Worth the price if you value picture quality**
 
  At $999.99, the QN55Q60RAFXZA is not one of the cheaper 55 inch TV options. With that said, you also don’t have to worry about build or picture quality. With its HDR10 and HDR10+ support and ability to support billions of colors, you’ll get superior color reproduction when paired with the right content. The only negative is that the QN55Q60RAFXZA does not have Dolby Vision support, a color format that many other competitive sets do feature. For most people, however, HDR10 and HDR10+ support is all that really matters, so the lack of Dolby Vision is not as much of a deal-breaker as it could be. Nevertheless, it’s something to keep in mind when comparison shopping at this price point.

@@ -1,7 +1,7 @@
 ---
 title: Beginner's Ultra-Durable Aquatic Photography Gear
-date: 2024-08-05 16:58:14
-updated: 2024-08-07 11:24:16
+date: 2024-08-09T00:43:43.639Z
+updated: 2024-08-10T00:43:43.639Z
 categories:
   - BestProducts
 description: This Article Describes Beginner's Ultra-Durable Aquatic Photography Gear
@@ -15,10 +15,16 @@ thumbnail: https://www.lifewire.com/thmb/llm6rdNTU_Rs0gq5fRtDIr23-Ng=/400x300/fi
 
  We recommend buying the[Fujifilm Instax Mini 11](https://www.amazon.com/dp/B085286JCJ?linkCode=ogi&th=1&ascsubtag=6753002%7Cn12478a107f3648588d94d063fc7da8f321%7C&tag=lifewire-onsite-prod-20) since it's a great deal and easy to use. We also like the[Polaroid Now I-Type Instant Camera](https://www.amazon.com/dp/B08W9LHG4N?linkCode=ogi&th=1&ascsubtag=6753002%7Cn12478a107f3648588d94d063fc7da8f321%7C&tag=lifewire-onsite-prod-20) because it offers full-size prints and that classic Polaroid look.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why Trust Us
 
  I've been a freelance writer and photographer since 2017 and have shot everything from street scenes to sports. I've used brands from Nikon to Canon and beyond, mirrorless and DSLR systems, and shot analog film. My professional photo clients include universities, local businesses, and people who need a good headshot. As a writer, I've also researched various tech products to compile best-of lists, from DSLRs to photo printers to camera straps—[John Bogna](https://www.lifewire.com/john-bogna-5705941) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Just Buy This
 
 [Fujifilm Instax Mini 11 Instant Camera](https://www.amazon.com/dp/B08527W1MF?tag=lifewire-onsite-prod-20&ascsubtag=6753002%7Cn12478a107f3648588d94d063fc7da8f321%7CB08527W1MF)
@@ -117,6 +123,9 @@ Lifewire/John Bogna
 
  Considering these factors, I tested each camera in multiple situations, from indoor portrait shoots to bright daylight to dusk.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Instant Cameras We Tested
 
 * Canon IVY CLIQ 2
@@ -150,6 +159,9 @@ Lifewire/John Bogna
 
 [The Best Tech Gifts Under $50](https://www.lifewire.com/best-gifts-under-50-8385339)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Look For
 
  When shopping for an affordable instant film camera, there are a few things you'll want:
@@ -162,12 +174,18 @@ Lifewire/John Bogna
 
  Few things are more painful than your camera dying in the middle of a shoot. Since these cameras don't have many high-tech features, the battery lasts quite a while after each charge. The Fuji Instax uses AA batteries, which also last long but must be removed to avoid corrosion if you store the camera away. Get a model with a rechargeable battery to avoid the hassle of dealing with AAs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Film Quality
 
  You don't buy an instant film camera for tack-sharp detail and perfect color — you buy it for the old-school look. Instant film prints have a dreamy quality, high-contrast and low-detail look that feels more like 35mm film than a digital snap.
 
  You'll want to consider the price of each type of film, as some will be more expensive than others and add to the overall price of whatever camera you select. If you're working on a budget, find a film that delivers the look you want without costing too much per shot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Controls and Ergonomics
 
  Look for a lightweight camera with controls that are easy to access when taking a photo and a design that won't get in the way. The shutter button should be unobtrusive and easy to reach, as should any other relevant controls like the flash switch or self-timer.

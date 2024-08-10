@@ -1,7 +1,7 @@
 ---
 title: Performance and Portability Combined - The Lenovo ThinkPad X1 Nano Reviewed
-date: 2024-08-04 23:48:15
-updated: 2024-08-05 10:41:48
+date: 2024-08-09T00:43:42.079Z
+updated: 2024-08-10T00:43:42.079Z
 categories:
   - BestProducts
 description: This Article Describes Performance and Portability Combined - The Lenovo ThinkPad X1 Nano Reviewed
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 
 ## TP-Link Deco P9 Hybrid Mesh WiFi System
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![TP-Link Deco](https://www.lifewire.com/thmb/mwnSZX-y0iHxAEP3l5ftTT9udk4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_TP-Link-Deco-P9-Mesh-Wifi-1-23cc25aa00f3430b83ff0340b920773a.jpg)
 
 Lifewire / Andy Zahn
@@ -67,6 +70,9 @@ Lifewire / Andy Zahn
 
  It’s not perfect though; the solid plastic walls of the router nodes trap heat, so the system gets quite hot. I had my three units running for a few weeks, and though it was never actually dangerous, it was worrying, and a device that overheats may experience a decreased lifespan.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TP-Link Deco](https://www.lifewire.com/thmb/hQrZfiOB9gvTAZ0DCbazOfIA5Mo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-Deco-P9-Mesh-Wifi-3-8aced2245e2243509bc5a32a6dca49cc.jpg)
 
  Lifewire / Andy Zahn
@@ -79,6 +85,9 @@ Lifewire / Andy Zahn
 
  The only hiccup occurred when I set up the third and final unit. For some reason this caused the second unit to disconnect. Fortunately, the troubleshooting menu built into the app helped me to quickly solve the issue. Overall, this was one of the most painless network setup processes I have ever encountered.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![TP-Link Deco](https://www.lifewire.com/thmb/nzwt5K19xY4baIDcJC9aglOpo9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-Deco-P9-Mesh-Wifi-2-a1c339e4cb31445982c06a96f7b9e290.jpg)
 
  Lifewire / Andy Zahn
@@ -93,6 +102,10 @@ Lifewire / Andy Zahn
 
  I found the network to be quite reliable, except for on a few occasions where my internet connection would cut out for a minute or two. This was very infrequent, and not a major issue, but it was rather annoying when this bug did occur. It uses a dynamic combination of 5Ghz and 2.4Ghz networks to create a single seamless Wi-Fi connection that automatically determines the fastest and most efficient connection for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## **Software: Easy to use app**
 
  The TP-Link Deco app is streamlined and easy to use. Its home screen provides you with a list of currently connected devices, and it tracks your history of previously connected devices. It also tells how much data is uploading and downloading in real time, and gives you the option of giving an individual device priority.
@@ -103,10 +116,16 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Good value for mesh Wi-Fi**
 
  With an MSRP of $229, the Deco P9 provides a robust three-node[mesh Wi-Fi network](https://www.lifewire.com/what-is-a-mesh-network-4842178) at a very reasonable price point. Though it’s pricier than your average ISP-provided router, if you have a large, multi-story home it’s certainly worth the extra expense. For buildings with very thick walls, the powerline signal transmission capability of the Deco P9 adds a whole extra level of value to the system.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **TP-Link Deco P9 vs. Razer Portal**
 
  The TP-Link Deco P9 is great for large homes in neighbors without too many competing for Wi-Fi networks. However, the Razer Portal is a better choice if you’re looking for top performance in an area with a lot of interference from your neighbor's routers. It’s also significantly cheaper and can be used on its own or expanded into a mesh network with additional units. It’s worth noting, though, that the Deco P9 has a much slimmer profile than the Razer Portal, and is easier to place on a table or shelf.
@@ -117,6 +136,9 @@ Lifewire / Andy Zahn
 
  The TP-Link Deco P9 might be the least troublesome router to set up and control that I have ever used. On top of that, this mesh network is large and powerful enough to provide strong and consistent internet throughout even the largest homes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Deco P9 Hybrid Mesh WiFi System

@@ -1,7 +1,7 @@
 ---
 title: Top Microsoft Office Substitutes
-date: 2024-08-03 12:25:37
-updated: 2024-08-06 10:37:27
+date: 2024-08-09T00:43:39.288Z
+updated: 2024-08-10T00:43:39.288Z
 categories:
   - BestProducts
 description: This Article Describes Top Microsoft Office Substitutes
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
 ## Microsoft Flight Simulator X: Gold Edition
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/-o00S2NMqAuV6ju2tL_3_pNbMMk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_HeroSquare-ff9662e0ea894d8e8964aa8b64e9af9f.jpg)
 
  Lifewire / Zach Sweat
@@ -37,6 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
 3.8
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Microsoft Flight Simulator X: Gold Edition
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/qdqiCl5ARAuMH7mtUAu6szKbUM0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_HeroSquare-ff9662e0ea894d8e8964aa8b64e9af9f.jpg)
@@ -93,6 +99,9 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Gameplay: Dated, but still solid**
 
  Given that FSX is now quite old, the gameplay still holds up for the most part, but feels somewhat dated in certain areas. Because this game comes complete with all the original content and expansions, there’s a daunting amount of content to sift through, which keeps replayability high.
@@ -115,10 +124,16 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
  The addition of a HOTAS also really adds to the experience and immersion of the game, and we highly recommend picking one up if you can. During our testing, the Thrustmaster T16000M FCS paired quite nicely with FSX and allowed us to custom tailor controls to our liking. The ability to pilot your virtual aircraft with somewhat realistic peripherals definitely adds a nice level of detail to the gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/oUI0sMg_D0Wrf9Maq7QACUvz4sI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_04-a52be5fb83e54c04acfc68a9b28af39d-2c15555da01247beb7532ce91594646d.jpg)
 
 Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Graphics: Like traveling back in time**
 
  It’s no surprise that a game made all the way back in 2006 feels old when it comes to graphics. You won’t be impressed by the lackluster textures, lighting effects or animations in FSX if you’ve never played it in the past.
@@ -131,6 +146,9 @@ Lifewire / Zach Sweat
 
  Aircraft textures on the outside are perhaps the highlight of this area, but the ground, buildings, cockpit, and controls don’t exactly look amazing. You can, however, download some mods to add HD resolutions to things that will help remedy this, and they’re pretty easy to install.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Cheap unless you want the DLC**
 
  So with a 13-year-old game like FSX, you’d expect the price to be quite low, right? While FSX can typically be found for around $25 on Steam, and you can frequently find it on sale for just $5\. This gets you the Gold Edition that includes all the original content and the Acceleration expansion. So for the price, it’s pretty fair—especially considering how many hundreds of hours you can get from the base game.
@@ -155,6 +173,9 @@ Lifewire / Zach Sweat
 
  It’s crazy to think that a game that’s over a decade old is still relevant today, but FSX is one of those legendary titles that keeps chugging along. If you can handle the outdated graphics and controls, it will easily bring you hundreds of hours of entertainment.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Minecraft](https://www.lifewire.com/minecraft-review-4777049)

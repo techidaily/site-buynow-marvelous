@@ -1,7 +1,7 @@
 ---
 title: Analyzing Compact Cameras that Offer Good Value for Money – VIXIA HF R800
-date: 2024-08-07 22:58:20
-updated: 2024-08-08 11:18:32
+date: 2024-08-09T00:44:06.200Z
+updated: 2024-08-10T00:44:06.200Z
 categories:
   - BestProducts
 description: This Article Describes Analyzing Compact Cameras that Offer Good Value for Money – VIXIA HF R800
@@ -13,8 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/YJI-mWWhZkYZxcMZ-u59tvxo_Sg=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## CubeFit TerraMat Standing Desk Mat
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![CubeFit TerraMat Standing Desk Mat](https://www.lifewire.com/thmb/o0Z8EbUF6UT2FOn9dchQPduiVwo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Cubefit-Terramat-1-20ac600dd86d48c7a53a3ec4e3a1b127.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -40,6 +46,9 @@ Lifewire / Rebecca Isaacs
 
 ## CubeFit TerraMat Standing Desk Mat
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![CubeFit TerraMat Standing Desk Mat](https://www.lifewire.com/thmb/9CVAFnK8V-ehyXb2suCiPISl_Fw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Cubefit-Terramat-1-20ac600dd86d48c7a53a3ec4e3a1b127.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -71,6 +80,9 @@ Lifewire / Rebecca Isaacs
 
  The TerraMat was designed to maximize the desk workout without stepping away from your work.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![CubeFit TerraMat Standing Desk Mat](https://www.lifewire.com/thmb/bYv2ZieoCmljIagyQ74L0uCskZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cubefit-Terramat-3-26ac3668958d4c0e926e3d3e643b6486.jpg)
 
  Lifewire / Rebecca Isaacs
@@ -89,10 +101,17 @@ Lifewire / Rebecca Isaacs
 
  We recommend you don’t use the TerraMat with high heels and unstable shoes. Such directions make sense. After all, the mat was designed for low-soled shoes and bare feet. We highly recommend giving the pressure peaks a try sans shoes since using it while wearing heels defeats the purpose of having a mat that can stretch leg muscles. We also noticed that the TerraMat shows dirt rather easily. It’s simple to spot clean it (simply use a wet paper towel and the marks go away), but wear and tear will be noticeable as time goes on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## **Price: Perfect for the basics**
 
  At around $90 on Amazon, the TerraMat is one of the priciest standing desk mats out on the market. However, factoring in the various activities you can do and the sturdy surface, the price feels more reasonable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## **CubeFit TerraMat vs. Ergohead Standing Desk Mat**
 
  We decided to compare the TerraMat against the Ergohead for two reasons: price and the various surface features. In terms of price, the TerraMat and the Ergohead are very similar. The TerraMat retails for around $90, while the Ergohead will cost around $80\.

@@ -1,7 +1,7 @@
 ---
 title: "Compact & Compatible: MoKo's Versatile Foldable Bluetooth Portable Keyboard"
-date: 2024-08-05 19:14:42
-updated: 2024-08-07 10:36:31
+date: 2024-08-09T00:43:49.223Z
+updated: 2024-08-10T00:43:49.223Z
 categories:
   - BestProducts
 description: "This Article Describes Compact & Compatible: MoKo's Versatile Foldable Bluetooth Portable Keyboard"
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## MoKo Universal Foldable Keyboard
 
 [View On Amazon](https://www.amazon.com/MoKo-Universal-Ultra-Thin-Bluetooth-Compatible/dp/B01EHSLFAY/?tag=lifewire-onsite-prod-20&ascsubtag=4780289%7Cn5042862dc88b4247855b5214c266875a05%7CB01EHSLFAY)
@@ -63,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Design: Small, Compact, and Light
 
  Unlike traditional, full-size ergonomic keyboards, the MoKo is small—hardly larger than your hand when folded down to its collapsed size. Extended out, it’s only about a foot in length. It’s perfect for tossing in a purse, backpack,[laptop bag](https://www.lifewire.com/best-laptop-bags-to-buy-4072282) , or pocket and taking along on any commute or adventure. Better yet, thanks to a convenient magnet along the edges of the frame, there’s no fear of it accidentally opening up and being damaged in transit. The soft-grip back not only offers additional protection but also ensures that it’s not likely to shift on any surface upon which you’re typing. With these combined features, it’s a wonderful little travel companion.
@@ -87,14 +93,23 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  The MoKo is small—hardly larger than your hand when folded down to its collapsed size.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Battery: Plenty of Juice for Work
 
  The battery life of the MoKo is easy to fall in love with. The MoKo’s charge time is just under two hours and it can support up to 40 hours of uninterrupted work or 30 days of standby time. One added bonus of the keyboard being rechargeable was that we weren’t dependent upon having batteries when the keyboard inevitably ran out of charge. It also has the added benefit of entering a battery-saving mode after sitting idle for 30 minutes, so if you walk away and forget about it, it won’t continue to run out its charge. Reconnecting is easy, too. Simply press any key and, within 30 seconds or less, it’s ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Price: Highly Affordable
 
  Travel-size ergonomic keyboards generally retail for anywhere from $20-$50\. The MoKo retails for around $27 on Amazon. With its low price point, compact build, excellent portability, and great battery life, it’s well worth the price for commuters and frequent flyers who have limited space.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![MoKo Universal Foldable Bluetooth Keyboard](https://www.lifewire.com/thmb/_ZZ5LMz0jlm5vldVU2UTdDoXbeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Moko_ErgoKeyboards_2LW4147386_05-fc37bb4154314025a1a1bfae6c6f5e24.jpg)
 
  Lifewire / Emily Isaacs
@@ -113,6 +128,14 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  The MoKo Universal Foldable Bluetooth Keyboard is an ultra-thin, split keyboard that packs plenty of bang for your buck. Its U-shaped ergonomic design is comfortable, and with a battery life of up to 40 hours of continuous use or 30 days of standby time make it a great choice for commuters or frequent travelers.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Universal Foldable Keyboard

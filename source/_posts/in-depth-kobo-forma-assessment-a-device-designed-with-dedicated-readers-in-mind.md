@@ -1,7 +1,7 @@
 ---
 title: "In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind"
-date: 2024-08-06 21:29:50
-updated: 2024-08-08 10:16:40
+date: 2024-08-09T00:43:46.423Z
+updated: 2024-08-10T00:43:46.423Z
 categories:
   - BestProducts
 description: "This Article Describes In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Roku Express
 
  What We Like
@@ -34,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Roku Express
 
 [View On Amazon $28](https://www.amazon.com/dp/B07WVFCVJN?tag=lifewire-onsite-prod-20&ascsubtag=4843482%7Cn6750f600d9b249fab0a1ade20b4f782c20%7CB07WVFCVJN)
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Lifewire/Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Small and easy to position**
 
  The Roku Express is a small package consisting of a palm-sized remote and the actual streaming box, which is half that size. It comes along with a power brick and micro USB to power the box, a battery for the remote, a two-foot HDMI cable, and an adhesive strip to stick your box to, say, the bottom of your television.
@@ -93,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Lifewire/Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## **Software: One of the easiest to navigate**
 
  Roku Express runs with the same Roku interface as its more expensive cousins, and it’s well-loved for a reason. Compared to Fire TV, Chromecast, and[Apple TV](https://www.lifewire.com/what-is-apple-tv-1994193) , Roku has the widest selection of apps available, and it doesn’t favor one streaming service over another.
@@ -105,12 +117,18 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  An interesting software perk from Roku that its competition doesn’t offer is its mobile app. You can use it as a remote for your Roku device, and that’s great, but more interestingly, you can also plug in your headphones and have the audio stream to your phone. If you like to stay up late and watch TV while your spouse sleeps, this is a great feature to have on hand.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Price: Highly affordable**
 
  The Roku Express is only $30, but it’s easy to find it for even cheaper in physical stores and even online during sales seasons. It’s not hard to nab it for $25 or less.
 
  For only $10 to $20 more, you get a faster experience and more functionality out of Roku’s other offerings, so if you can afford it, the Premiere and Streaming Stick+ are the better value. As we move forward,[4K](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) streaming is becoming the new standard, so it’s worth it to upgrade from the Express’s 1080p resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Roku Express](https://www.lifewire.com/thmb/xRjJqzIOYJAHEemk7NGlxVNl6wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Roku_03-1b5930c20109404082b05511fae6aa5c.jpg)
 
  Lifewire/Emily Ramirez

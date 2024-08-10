@@ -1,7 +1,7 @@
 ---
 title: "'Torment: Tides of Numenera' - An Epic Adventure in Science Fiction Role-Playing Game Worldbuilding"
-date: 2024-08-06 11:58:49
-updated: 2024-08-08 11:29:35
+date: 2024-08-09T00:44:06.000Z
+updated: 2024-08-10T00:44:06.000Z
 categories:
   - BestProducts
 description: "This Article Describes 'Torment: Tides of Numenera' - An Epic Adventure in Science Fiction Role-Playing Game Worldbuilding"
@@ -37,8 +37,14 @@ Lifewire / Thomas Hindmarch
 
 3.4
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mohawk Games Offworld Trading Company
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/iiFooF4dDeVcP3L3UfgO6Uv4jso=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4145806_Offworld-Hero-Shot-e2bcf25749f14c0cb98b6c6e4743d630.jpg)
 
 Lifewire / Thomas Hindmarch
@@ -64,20 +70,32 @@ Lifewire / Thomas Hindmarch
 
  Your eventual goal is to eliminate all other players from the game, by buying a majority share of stock in their companies and staging a hostile takeover. At the same time, you must keep your profits high and debt low, to make it infeasibly expensive for other players to buy some of your own stock. Along the way, you can seize control of various useful commodities, buy and sell resources on an open market, and use underworld contacts to sabotage your opponents.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/d_YtN6HUMwxC62jqMOnJl6csGzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-2-13a8624d0ff64b5c95cc1b640598737f.jpg)
 
  Lifewire / Thomas Hindmarch
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Setup Process: A short, painless installation**
 
  Offworld Trading Company can be purchased for your PC via digital storefronts, with its multiplayer available as a free-to-play service. Simply pay your money and wait for it to finish.
 
  At this point, you can spend a surprising amount of money on the game by grabbing all its expansions at once. However, you’d do better to try the base game first, just to make sure you’re interested before you go all in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/lOC0APAKrRycWJJCB5UAbnwuLtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-5-4c671b58f2944c249dc9529f0ceb477d.jpg)
 
  Lifewire / Thomas Hindmarch
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## **Plot: Welcome to the new gold rush**
 
  It’s the distant future, and several different economic blocs have come to Mars to capitalize on its newly available resources. As one of these corporations, ranging from a couple of obsessed scientists to a surprisingly sarcastic all-robot team, you race to stake your claims, open mines, acquire materials, and turn those materials into facilities and a solid profit. It’s all delivered with the gleeful matter-of-fact immorality of a PG-rated Gordon Gecko, through a handful of signature characters of varying degrees of eccentricity.
@@ -118,6 +136,9 @@ Lifewire / Thomas Hindmarch
 
  Lifewire / Thomas Hindmarch
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Graphics: Simple, but effective**
 
  You don’t actually see much in Offworld Trading Company. It’s all flying drones and Martian landscapes, viewed from an omniscient perspective. It’s actually nice to look at, more so than it needed to be.
@@ -128,6 +149,9 @@ Lifewire / Thomas Hindmarch
 
  Lifewire / Thomas Hindmarch
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## **Price: Cheap to start, potentially expensive if you get involved**
 
  Offworld Trading Company’s multiplayer mode is free-to-play as of February 28th, 2019\. You can buy the deluxe edition from[Steam](https://www.lifewire.com/what-is-steam-4177380) or Stardock for $39.99, or a standard edition with a few less bells and whistles for $29.99; a deep-discount bundle on Steam which includes multiple downloadable content packs is currently $55.40.

@@ -1,7 +1,7 @@
 ---
 title: Leading Vertical Computer Mice of 2024 Reviewed for Maximum Productivity
-date: 2024-08-06 16:12:40
-updated: 2024-08-07 10:56:32
+date: 2024-08-09T00:43:46.471Z
+updated: 2024-08-10T00:43:46.471Z
 categories:
   - BestProducts
 description: This Article Describes Leading Vertical Computer Mice of 2024 Reviewed for Maximum Productivity
@@ -13,8 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/ioL8F-cFZKDYYRvWMdxK3t9HP5I=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## CubeFit TerraMat Standing Desk Mat
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![CubeFit TerraMat Standing Desk Mat](https://www.lifewire.com/thmb/o0Z8EbUF6UT2FOn9dchQPduiVwo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Cubefit-Terramat-1-20ac600dd86d48c7a53a3ec4e3a1b127.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -61,6 +67,9 @@ Lifewire / Rebecca Isaacs
 
  Standing desk mats are a vital home and workplace accessory if you also own a standing desk. A well-molded one can help relieve pressure on knees and joints, and avoid future back problems. One such desk mat is CubeFit’s TerraMat. Over the course of a week, we used it for a total of 21 hours. We found it to be well-spaced and comfortable, with a design that made it easy to slide under a desk and lots of ways to stay active.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![CubeFit TerraMat Standing Desk Mat](https://www.lifewire.com/thmb/-lWKKX-37QxEqesUB_hq23oF-Nc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cubefit-Terramat-2-fb291af5328e4b9f8198bda860bb4126.jpg)
 
  Lifewire / Rebecca Isaacs
@@ -71,6 +80,9 @@ Lifewire / Rebecca Isaacs
 
  The TerraMat was designed to maximize the desk workout without stepping away from your work.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![CubeFit TerraMat Standing Desk Mat](https://www.lifewire.com/thmb/bYv2ZieoCmljIagyQ74L0uCskZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cubefit-Terramat-3-26ac3668958d4c0e926e3d3e643b6486.jpg)
 
  Lifewire / Rebecca Isaacs
@@ -93,6 +105,9 @@ Lifewire / Rebecca Isaacs
 
  At around $90 on Amazon, the TerraMat is one of the priciest standing desk mats out on the market. However, factoring in the various activities you can do and the sturdy surface, the price feels more reasonable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **CubeFit TerraMat vs. Ergohead Standing Desk Mat**
 
  We decided to compare the TerraMat against the Ergohead for two reasons: price and the various surface features. In terms of price, the TerraMat and the Ergohead are very similar. The TerraMat retails for around $90, while the Ergohead will cost around $80\.
@@ -109,6 +124,9 @@ Lifewire / Rebecca Isaacs
 
  Overall, the CubeFit TerraMat is a really nice mat capable of working out the lower body without overdoing it. We especially liked the extra stretching features such as the balance beam to strengthen the core. Despite the relatively high price, the TerraMat is a solid investment for any office.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  TerraMat Standing Desk Mat

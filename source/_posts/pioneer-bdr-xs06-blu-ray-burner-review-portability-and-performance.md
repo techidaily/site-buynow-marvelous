@@ -1,7 +1,7 @@
 ---
 title: "Pioneer BDR-XS06 Blu-Ray Burner Review: Portability and Performance"
-date: 2024-08-04 12:47:54
-updated: 2024-08-06 10:44:24
+date: 2024-08-09T00:43:41.600Z
+updated: 2024-08-10T00:43:41.600Z
 categories:
   - BestProducts
 description: "This Article Describes Pioneer BDR-XS06 Blu-Ray Burner Review: Portability and Performance"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Blueear Bluetooth Beanie Hat
 
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/doY_zCxSysBLDibywXLN58DqFNo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_HeroSquare-d9847be4cedf4a279be58a3ffe96bd06.jpg)
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Blueear Bluetooth Beanie Hat
 
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/AjDXKp_HcU3-156-Y8LLC7h-Ppc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_HeroSquare-d9847be4cedf4a279be58a3ffe96bd06.jpg)
@@ -84,10 +90,16 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  The Bluetooth range is listed as the standard 10m, or about 30 feet. We found that to be generally accurate so long as you have a direct line of sight to the phone or computer it’s paired to. If walls and other objects get in the way, the range drops sharply.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/3aVPDXCbn533gdsOOMrbCMHgUo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_02-39d07d95367d404e8e36d49ecd0f6aaa.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Just like any other Bluetooth device**
 
  Anyone familiar with pairing Bluetooth devices shouldn’t run into many problems setting up this beanie. All you have to do is hold the play button down for three seconds to make it discoverable on the device you want to pair it with. The hat will show up as “Magic Hat” on your list of available Bluetooth devices.
@@ -100,10 +112,16 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Controls: Awkward but easy**
 
  The control panel sewed into the band sits over your left ear. This is an odd place for it for right handed people, requiring them to reach across their torso and face to use it with their dominant hand. Nevertheless, the controls are easy and complete. Controls include volume, pause, play, previous and next track. It only takes a few minutes of using the cap to learn its controls effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery Life: Good, but not as advertised**
 
  Blueear claims a full battery will yield eight hours of listening time from this Bluetooth beanie. However, we never got past six hours of continuous use during our testing phase. That’s more than enough juice to get you through an autumn hike or a winter evening night out, but if you’re going to be outside all day and want your tunes the whole time, you’ll probably want to invest in a pair of heavy-duty wireless earbuds like the Powerbeats Pro.
@@ -124,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  All of the small foibles of this Bluetooth beanie are forgivable because it’s not an expensive product. Depending on the color you get, expect to pay between $15 and $25, with grey being the most expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Blueear Bluetooth Beanie Hat vs. Rotibox Bluetooth Beanie Hat**
 
  We tested this wireless beanie side by side with the Rotibox Bluetooth Beanie Hat and the two are about comparable in design and function. But the Rotibox is a good deal more comfortable, and it produces better sound. The best thing Blueear has going for it is that it’s the least expensive wireless music beanie we reviewed.
@@ -136,6 +157,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  However, if you’re interested in an average beanie and decent sound at a bargain basement price, it’s a good pick. It’s a fashionable beanie that goes well with your winter wardrobe, and the Bluetooth speakers provide enough utility to make it more than a novelty.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Bluetooth Beanie Hat

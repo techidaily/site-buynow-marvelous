@@ -1,7 +1,7 @@
 ---
 title: Professional Xp-Pen Artist 16 Pro Touchscreen Graphic Tablet Comprehensive Evaluation
-date: 2024-08-04 11:43:15
-updated: 2024-08-07 11:14:16
+date: 2024-08-09T00:43:34.151Z
+updated: 2024-08-10T00:43:34.151Z
 categories:
   - BestProducts
 description: This Article Describes Professional Xp-Pen Artist 16 Pro Touchscreen Graphic Tablet Comprehensive Evaluation
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## EA Sports FIFA 19
 
 ![FIFA 19](https://www.lifewire.com/thmb/Jate27nttThF1V4flPTGhANQC3I=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4042353_HeroSquare-342d7f655d31496183465b50d3863959.jpg)
@@ -40,6 +43,9 @@ Lifewire / Eric Watson
 
 ## EA Sports FIFA 19
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![FIFA 19](https://www.lifewire.com/thmb/ePhU7YgLTE5VosGRgAP1buzgKiA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4042353_HeroSquare-342d7f655d31496183465b50d3863959.jpg)
 
 Lifewire / Eric Watson
@@ -69,6 +75,10 @@ Lifewire / Eric Watson
 
  Lifewire / Eric Watson
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## **Setup Process: Doesn’t get simpler**
 
  Getting the game ready is just a matter of putting in that disc or doing a digital download from the[PlayStation Store](https://www.lifewire.com/playstation-store-for-pc-2792967) . It doesn’t get much easier than that.
@@ -101,6 +111,9 @@ Lifewire / Eric Watson
 
  Lifewire / Eric Watson
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## **Plot: Three stories in one**
 
  FIFA was the original home of the RPG-like campaign when The Journey debuted in FIFA 17\. FIFA 19 represents the third and final act of Alex Hunter’s story. Hunter is already a superstar, achieving his dream of signing with Real Madrid while dealing with drama involving a new manager and the surge of fame that threatens his personal life and his career.
@@ -111,12 +124,18 @@ Lifewire / Eric Watson
 
  The Journey strikes an excellent balance between cutscenes, player choices, customization, training mini-games, and actual matches. Training mini-games are effective teaching tools for learning fundamentals and skills, such as passing, crossing, and sliding tackles. Earning high grades on these training sessions, as well as achieving objectives and high player ratings during games earns skills points and stat boosts, with each character having their own skill tree and skillset to improve upon. It’s a robust, lengthy, enjoyable story campaign, and a benchmark for how other sports games should tackle this emerging gameplay mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Graphics: A triumph on and off the field**
 
  The default camera is so far zoomed out in FIFA 19 that any player model inconsistencies aren’t as noticeable as other sports games. Yet the models, faces, and animations still look great, and the action shows up well during instant replays and highlights. The one model that doesn’t look as smooth is the goalkeeper. It looks too much like jerking from one animation to the next, without the appearance of how a human body would realistically react and move.
 
  We were enamored with the sleek, simple, and effective menu designs. Navigating around FIFA 19’s gameplay modes is a breeze, and the same design philosophy extends to individual modes, like squad builder, and when opening card packs for quick sells or transfers. FIFA is not only one of the most attractive sports games on the field, but it’s also one of the most well designed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FIFA 19](https://www.lifewire.com/thmb/6o7jjFOM8KteaD2aDPNctgl5mso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4042353-03-ab635a5bdd964320936a809132c90715.jpg)
 
  Lifewire / Eric Watson
@@ -133,6 +152,9 @@ Lifewire / Eric Watson
 
  FIFA 19 launched with a full $60 price tag, though almost a year later you can typically find it on sale for around $30\. Each mode, from Ultimate Team to Champions League and The Journey, is a complete package featuring several different leagues and over 700 teams from around the world. There’s an exhaustive amount of content with a satisfying level of progression for skills and players, even if you never venture online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **FIFA 19 vs. Pro Evolution Soccer**
 
  With[Pro Evolution Soccer’s](https://www.konami.com/wepes/2019/us/en-us/) loss of the UEFA Champions League license to FIFA 19 this year, the age-old rivalry, one of the last remaining among big sports video game series, rests firmly in FIFA’s favor. PES is still a decent soccer simulator with impressive ball and player physics, but FIFA has been steadily improving in this area, along with much deeper and more interesting gameplay modes, such as The Journey. As a final coup, FIFA 19 has added the National Women’s Soccer League as an entire gameplay mode as a free update this summer. Any game that lets us play as and alongside Alex Morgan and Megan Rapinoe is the clear winner.
@@ -143,6 +165,9 @@ Lifewire / Eric Watson
 
  Most sports games rely on obvious familiarity and love of the sport to get the most out of the simulation; FIFA 19 is just plain fun for anyone thanks to easy to learn controls, realistic physics, attentive AI, and a smooth difficulty curve. The third Journey arc is a solid conclusion to the Alex Hunter story, offering a three-in-one campaign with multiple dramatic arcs and plenty of opportunities for choices and skill progression, while the inclusion of the Champions League is a delicious cherry on top.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  FIFA 19

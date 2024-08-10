@@ -1,7 +1,7 @@
 ---
 title: Audio Quality with ATH-M50x Examined
-date: 2024-08-04 11:36:30
-updated: 2024-08-07 10:22:38
+date: 2024-08-09T00:44:11.707Z
+updated: 2024-08-10T00:44:11.707Z
 categories:
   - BestProducts
 description: This Article Describes Audio Quality with ATH-M50x Examined
@@ -13,8 +13,16 @@ thumbnail: https://www.lifewire.com/thmb/kNDkWTFDJr02m4G8mfbX1eRAG5M=/400x300/fi
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LG 24LH4830-PU 24-Inch Smart LED TV
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![LG 24LH4830 Smart TV](https://www.lifewire.com/thmb/IpK6_UxcqS0p7W3OZXFcL1iUptk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4061017-LGElectronics24LH4830-PU24-InchSmartLEDTV2016Model-HeroSquare-2a3c1c2685b547faa6a95debb91fd718.jpg)
 
 Lifewire / Sandra Stafford
@@ -63,6 +71,9 @@ Lifewire / Sandra Stafford
 
  With all the buzz about the biggest, best TVs on the market, it can be difficult to find anyone talking about smaller options like the LG 24-inch LH4830.[Smart TVs](https://www.lifewire.com/what-is-a-smart-tv-4140172) at this budget price point don’t offer as many features as larger, more expensive televisions, but all of that functionality is wasted if the TV won’t fit into your space. I tested the LH4830 for weeks in my cramped kitchen to see if a little TV like the LH4830 could still add a lot of value and compared it to other TVs on our list of the best cheap TVs.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## **Design: Decidedly minimalist**
 
  There is nothing flashy about the LG 24-inch LH4830\. Half-inch bezels on three sides of the screen create a clean, modern shape that stops just short of being boxy. Edge to edge panels aren’t an option at this price point, where a costly design would cut into more meaningful additions, like better resolution or speakers.
@@ -73,6 +84,9 @@ Lifewire / Sandra Stafford
 
  Lifewire / Sandra Stafford
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Use your new TV in minutes**
 
  There are only a few on-screen prompts to follow to set up the LH4830, so it shouldn’t take longer than a minute or two. Scanning for channels takes several minutes, but[cord cutters](https://www.lifewire.com/cable-tv-alternatives-save-money-4138322) will be ready to use their TV almost immediately.
@@ -101,14 +115,23 @@ Lifewire / Sandra Stafford
 
  Lifewire / Sandra Stafford
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Apps: LG Content Store could use more robust selection**
 
  After setup, the LH4830 goes automatically to the LG Content Store. The LG Content Store does have apps like Netflix and YouTube, but the selection other than those is seriously limited. Other LG televisions do have access to the Hulu app, so we assume that it will be added to this one in a later update, but if Hulu is a must, then this is not the right choice. As a secondary television, the loss of Hulu isn't a big deal. The television is compatible with[Roku and Apple TV](https://www.lifewire.com/best-devices-to-buy-for-streaming-tv-4061016) , though, so you can work around the lack of app support.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![LG 24LH4830 Smart TV](https://www.lifewire.com/thmb/gUelIOzwsKr5o2f2yWumqzKIomI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4061017-LGElectronics24LH4830-PU24-InchSmartLEDTV2016Model-03-3f829dc8cb05440ea4c8cf67f706694f.jpg)
 
  Lifewire / Sandra Stafford
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Price: Competitively priced for its features**
 
  A look at the competition of smart TVs under 24 inches shows that the LH4830 is fairly priced for what it offers. For around $140, it's a well-made smart TV running on a very stable operating system. The wide-angle panel and small size allow it to be effectively used in a great variety of small spaces, and on a screen this size it doesn't make sense to pay for much better quality.
@@ -125,6 +148,9 @@ Lifewire / Sandra Stafford
 
  The LG 24LH4830 brings a lot of functionality to an undersized part of the TV market. With a wide viewing panel that shows bright, true color no matter where you are in the living room, it’s the perfect choice for TVs that need to fit into small spaces.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  24LH4830-PU 24-Inch Smart LED TV
