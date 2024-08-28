@@ -1,0 +1,194 @@
+---
+title: "Vanguard Alta Pro Review: Full-Featured, Full-Size Tripod"
+date: 2024-08-27T10:50:42.651Z
+updated: 2024-08-28T10:50:42.651Z
+categories:
+  - BestProducts
+description: "This Article Describes Vanguard Alta Pro Review: Full-Featured, Full-Size Tripod"
+excerpt: "This Article Describes Vanguard Alta Pro Review: Full-Featured, Full-Size Tripod"
+thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c542de5a35365804c9b914df05.jpg
+---
+
+## Ergodriven Topo Mat Review: A Step Towards a Comfortable and Healthy Office Life with the Best Standing Desk Accessory
+
+4.6
+
+## Ergodriven Topo Standing Desk Mat
+
+![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/7cIUA6lXw6TjIJrsjBKdKRuOvps=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Ergodriven-Topo-Comfort-Mat-1-ccd96f7c454945c3b974a2f5cba4fe79.jpg)
+
+Lifewire / Rebecca Isaacs
+
+ What We Like
+
+* Power wedges provide circulation for calves and hamstrings
+* Slick bottom—easily move between sitting and standing
+
+ What We Don't Like
+
+* Shows dirt easily
+* Basic massage mound in the middle
+* Expensive
+
+ While pricey, the Ergodriven Topo standing desk mat comes with great features like wedges for calf and hamstring stretching, making it a solid office investment.
+
+[View On Amazon $99](https://www.amazon.com/Ergodriven-Not-Flat-Anti-Fatigue-Calculated-Must-Have/dp/B00V3TO9EK/?tag=lifewire-onsite-prod-20&ascsubtag=4775310%7Cn915a9e38dc0349c7bf58e56fac1a735710%7CB00V3TO9EK)
+
+4.6
+
+## Ergodriven Topo Standing Desk Mat
+
+![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/GZTKidZtByl51GvkYiB-jNjEjbE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Ergodriven-Topo-Comfort-Mat-1-ccd96f7c454945c3b974a2f5cba4fe79.jpg)
+
+Lifewire / Rebecca Isaacs
+
+[View On Amazon $99](https://www.amazon.com/Ergodriven-Not-Flat-Anti-Fatigue-Calculated-Must-Have/dp/B00V3TO9EK/?tag=lifewire-onsite-prod-20&ascsubtag=4775310%7Cn915a9e38dc0349c7bf58e56fac1a735710%7CB00V3TO9EK)
+
+ in this article
+
+ Expand
+
+* [Design](https://www.lifewire.com/#toc-design-simply-modern)
+* [Performance](https://www.lifewire.com/#toc-performance-flawed-but-still-solid)
+* [Price](https://www.lifewire.com/#toc-price-pretty-steep-for-a-mat)
+* [Competition](https://www.lifewire.com/#toc-topo-ergodriven-vs-cubefit-terramat)
+* [Final Verdict](https://www.lifewire.com/#toc-final-verdict)
+* [Specs](https://www.lifewire.com/#toc-full-spec)
+
+ _We purchased the Ergodriven Topo Standing Desk Mat so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
+
+ A standing desk isn’t complete without a standing desk mat, at least not if you value your comfort. We tried out the Topo by Ergodriven Standing Desk Mat, testing it for comfort, design, and performance. We decided to test it for a few hours a day over the course of a week to see how it worked.
+
+![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/KYfJPJ0jHZhmy15IUeGxDL8kmRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ergodriven-Topo-Comfort-Mat-2-547d9823c4ac47cbb5a360040866172a.jpg)
+
+ Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Design: Simply modern**
+
+ At 26.2 inches by 29 inches (LW), the Topo is a fairly wide mat, giving the user lots of berth to shift around. It comes with two power wedges in the back with calf-stretching inclines in the front that end up going 2.7 inches high, though the bottom platform of the mat is much thinner. It also comes with a massage mound in the center of the mat. For the most part, we liked the mat, but placing the massage mound in the center we felt was detrimental for standing space.
+
+![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/0MLp0JKyXodrqDxUdun30XlUicQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ergodriven-Topo-Comfort-Mat-3-5e85cbed72974e018684fe954f0ddf1b-75abe4f41eba41c3b202cdf74fbf3caa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Performance: Flawed, but still solid**
+
+ As we previously stated, one of the features of this mat is the massage mound in the center. When we first stepped onto the mat, we really disliked how we couldn’t shift without bumping the massage mound. It’s a great feature if you want to change your ankle stances or relieve your foot pain. However, if you’re standing on the mat for extended hours at a time, your feet are stuck off to the sides and you really can’t shift around as time progresses.
+
+ For the most part, we liked the mat, but placing the massage mound in the center, we felt was detrimental for standing space.
+
+ That said, other features of the mat are spectacular. The front wedges are designed to stretch your calves. When we used them throughout the day, they really helped to relieve the tightness from extended standing periods. Though we did feel they were a steeper incline than other mats we’ve recently tested.
+
+ Another great feature is the rear power wedges. While technically it’s one large wedge, there’s a small groove you can rest your heel to change up your stretches as the day passes by. It’s steeper than other models we tested. The steeper incline was better in many ways because it gave us a more intense hamstring stretch. It was a great way to get the blood circulating.
+
+ While technically it’s one large wedge, there’s a small groove in which you can rest your heel to change up your stretches as the day passes by.
+
+ We also liked how the mat slides around on various surfaces, but it’s not too slippery. We hauled it around to various offices with tile and carpet. Each time we set it down, we could push it under the desk with ease if we needed to sit for extended lengths of time and pull it out just as easily when we wanted to stand.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+## **Price: Pretty steep for a mat**
+
+ At around $100 on Amazon, the Topo is in the higher price range for a standing desk mat. We could find models that don’t have the massage mound in the center, however, the steep power wedges in the back make it a reasonable investment for anyone who really wants to stretch out their legs.
+
+ For a standing desk mat with some exercise features, the Ergodriven Topo is a fairly decent choice.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Topo Ergodriven vs. CubeFit TerraMat**
+
+ We decided to compare the Ergodriven Topo against CubeFit’s TerraMat. Price-wise, they’re very similar, retailing around $100\. They also come with massage mounds and various power wedges. However, the TerraMat has more features on the mat itself, including a balance bar and plantar mounds off to the sides, as well as a massage mound in the front. None of the actual features are located in the TerraMat’s center, unlike the Topo mat.
+
+ While the TerraMat may have more features for you, it also shows more dirt, which we found was a large turnoff, especially since you’re encouraged to use these mats sans shoes. We really didn’t like putting our feet onto a clearly dirty mat. The Ergodriven mat hides dirt and slides more easily across the floor than the TerraMat. If you prefer a mat that hides the dirt, but still comes with the main stretching features, we recommend the Ergodriven. However, if you want all the bells and whistles to a standing desk mat, we think the TerraMat would be the better choice.
+
+[CubeFit TerraMat Standing Desk Mat Review](https://www.lifewire.com/cubefit-terramat-review-4775307)
+
+ Final Verdict
+
+**Pricey, but solid for the features.**
+
+ For a standing desk mat with some exercise features, the Ergodriven Topo is a fairly decent choice. While we think there are other, better mats out there, but the Topo does hide dirt better, and the deep rear wedges stretch the hamstrings more than most other models on the market. If you want a solid stretch, then the Ergodriven Topo is the best choice for you.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Specs
+
+* Product Name  Topo Standing Desk Mat
+* Product Brand  Ergodriven
+* MPN  000101FBA\_9103
+* Price  $99.00
+* Product Dimensions  26.2 x 29 x 2.7 in.
+* Warranty  Seven Years
+* Connectivity Options  None
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-radar-alert-devices-get-all-you-need-to-know-about-the-s55-as-per-our-latest-google-search-expertise/"><u>'Top Rated Radar Alert Devices': Get All You Need to Know About The S55 – As Per Our Latest Google Search Expertise</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-fast-track-vimeo-content/"><u>[New] 2024 Approved  Strategies to Fast-Track Vimeo Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-aspect-ratio-preferences-on-facebook-vids/"><u>[New] In 2024, Aspect Ratio Preferences on Facebook Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-method-for-modifying-fish-vocal-patterns/"><u>[Updated] Streamlined Method for Modifying Fish Vocal Patterns</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-types-of-facebook-video-aspect-ratios-for-2024/"><u>[Updated] Types of Facebook Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-youtube-tagging-for-content-visibility/"><u>2024 Approved  Mastering YouTube Tagging for Content Visibility</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-cozy-adventure-through-minecrafts-campfire-tales-the-ultimate-skin-pack-guide/"><u>A Cozy Adventure Through Minecraft's Campfire Tales - The Ultimate Skin Pack Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-step-by-step-printer-driver-setup-for-multiple-windows-versions/"><u>Brother MFC-7360N: Step by Step Printer Driver Setup for Multiple Windows Versions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-cyberpower-cp6review-the-reliable-foundational-backup-power-system/"><u>Evaluating Cyberpower CP6#Review - The Reliable Foundational Backup Power System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evolve2-your-professional-sound-companion-for-the-workplace/"><u>Evolve2: Your Professional Sound Companion for the Workplace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-novice-to-pro-comprehensive-steps-to-enhancing-photos-using-macs-preview-software/"><u>From Novice to Pro: Comprehensive Steps to Enhancing Photos Using Mac's Preview Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/heimvision-a80s-is-this-basic-light-therapy-alarm-clock-a-game-changer-for-your-mornings/"><u>HeimVision A80S – Is This Basic Light Therapy Alarm Clock a Game Changer for Your Mornings?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-as-a-tool-for-grammar-and-spelling-checks/"><u>How Reliable Is ChatGPT as a Tool for Grammar and Spelling Checks?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 11 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>In 2024, Unleash the Potential  Effective PIP Use on Microsoft Edge Browser</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-secret-to-flawless-video-spin-guide-and-tips/"><u>In 2024, YouTube's Secret to Flawless Video Spin (Guide & Tips)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-new-amazon-fire-hd-8-a-budget-friendly-tablet-worth-every-penny/"><u>In-Depth Analysis of the New Amazon Fire HD 8 : A Budget-Friendly Tablet Worth Every Penny</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/key-insights-preparing-for-the-perfect-fitness-tracker-acquisition/"><u>Key Insights: Preparing for the Perfect Fitness Tracker Acquisition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kids-holy-stone-remote-control-race-car-showdown-a-complete-family-entertainment-guide/"><u>Kids' Holy Stone Remote Control Race Car Showdown: A Complete Family Entertainment Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-flight-in-depth-review-of-the-premier-dji-air-2s-drone-model/"><u>Mastering Flight: In-Depth Review of the Premier DJI Air 2S Drone Model.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-fitness-tracking-an-expert-guide-to-garmin-vivosmart-4s-features-from-energy-levels-to-stress-monitoring/"><u>Maximizing Fitness Tracking: An Expert Guide to Garmin Vivosmart 4'S Features, From Energy Levels to Stress Monitoring</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-assessment-not-quite-the-premier-choice/"><u>Motorola Edge+ Assessment: Not Quite the Premier Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-book-13-analysis-mini-marvel-unleashed/"><u>Razer Book 13 Analysis: Mini Marvel Unleashed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-yakuza-like-a-dragon-top-recommendation-for-jrpg-fans/"><u>Review of Yakuza: Like a Dragon – Top Recommendation for JRPG Fans</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/softbox-mastery-the-ultimate-guide-to-lights-of-2024/"><u>SoftBox Mastery - The Ultimate Guide to Lights of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-up-your-home-automation-game-the-new-amazon-echo-show-10-gen-3-moves-and-interacts-like-never-before-review-inside/"><u>Step Up Your Home Automation Game: The New Amazon Echo Show 10 (Gen 3) Moves & Interacts Like Never Before! Review Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-advantages-and-disadvantages-of-using-chatgpt-for-crafting-written-art/"><u>The Advantages and Disadvantages of Using ChatGPT for Crafting Written Art</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-huion-kamvas-gt-191-reviewed-big-beautiful-design-meets-high-performance-in-graphic-artistry/"><u>The Huion Kamvas GT-191 Reviewed: Big, Beautiful Design Meets High Performance in Graphic Artistry</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-acer-chromebook-r-11-combining-elegance-with-mobility/"><u>The Ultimate Review of the Acer Chromebook R 11 - Combining Elegance with Mobility</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-new-features-of-apples-bookstore-app/"><u>Unboxing the New Features of Apple's Bookstore App</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-latest-iteration-of-apples-economical-ipad-8th-gen-a-step-towards-superior-performance/"><u>Unveiling the Latest Iteration of Apple's Economical iPad (8Th Gen) - A Step Towards Superior Performance</u></a></li>
+</ul></div>

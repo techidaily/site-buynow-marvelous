@@ -1,0 +1,213 @@
+---
+title: "Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance"
+date: 2024-08-27T10:47:30.848Z
+updated: 2024-08-28T10:47:30.848Z
+categories:
+  - BestProducts
+description: "This Article Describes Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance"
+excerpt: "This Article Describes Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance"
+thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9b35474b3c5a660491ebe0a3.png
+---
+
+## Expert Review of the M MOOC 1000A Ultimate Car Jumper: Features and Performance at Peak Capacity
+
+4.2
+
+## M MOOCK Car Jump Starter
+
+![M Moock 1000A Peak 18000mAh Car Jump Starte](https://www.lifewire.com/thmb/KCvyWCCSvwCtAvcRekce_ETLqRE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Aickar_JumpStarter_4LW4140286_HeroSquare-0eb4274af8f64008b1e98e3623623d4a.jpg)
+
+ Lifewire / Tony Mitera
+
+ What We Like
+
+* Very strong output current for jump starts
+* Simple yet sturdy carrying case
+* Ability to charge laptops
+* Bright flashlight
+
+ What We Don't Like
+
+* Flashlight beam is narrow and hard to use while setting up
+* Jumper cables are a bit too short
+
+ Bottom Line
+
+ For most people, between its features and its performance, the M MOOCK 1000A Peak 18000mAh Car Jump Starter is a great option with a few minor flaws.
+
+[View On Amazon](https://www.amazon.com/dp/B01J5G8PF6?tag=lifewire-onsite-prod-20&ascsubtag=4784187%7Cn5b3e21016e6a46bd90a6c5a5191206c707%7C)
+
+4.2
+
+## M MOOCK Car Jump Starter
+
+![M Moock 1000A Peak 18000mAh Car Jump Starte](https://www.lifewire.com/thmb/9HsjvcJhUjJuGMXLaAGh2B_0bAw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Aickar_JumpStarter_4LW4140286_HeroSquare-0eb4274af8f64008b1e98e3623623d4a.jpg)
+
+ Lifewire / Tony Mitera
+
+[View On Amazon](https://www.amazon.com/dp/B01J5G8PF6?tag=lifewire-onsite-prod-20&ascsubtag=4784187%7Cn5b3e21016e6a46bd90a6c5a5191206c707%7C)
+
+ in this article
+
+ Expand
+
+* [Design](https://review-au.sjv.io/wqnrq3)
+* [Setup Process](https://engwe.pxf.io/jrkzrn)
+* [Performance](https://copa.sjv.io/6eoowq)
+* [Key Features](https://aligracehair.sjv.io/y209r3)
+* [Price](https://copa.sjv.io/6eoowq)
+* [Competition](https://mushroom-supplies.sjv.io/gmegme)
+* [Final Verdict](https://bluettide.pxf.io/ekmjb2)
+* [Specs](https://turtlebeacheu.sjv.io/1r0r59)
+
+ _We purchased the M MOOCK 1000A Peak 18000mAh Car Jump Starter so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
+
+ The M MOOCK 1000A Peak 18000mAh Car Jump Starter is one of the more sophisticated options in the jump starter market, especially in terms of presentation. It comes in a zippered, faux-leather case with elastic netting pouches to contain the unit and its accessories. To see how much substance was behind the style, it was tested against a 2011 Hyundai Elantra with a depleted battery to see if it could bring it back to life.
+
+ Aickar rebranded as M Moock during our testing period. Despite the brand name switch, the jump starter is functionally identical.
+
+ Lifewire / Tony Mitera
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+## **Design: A rugged unit, a generous accessory kit, and a sturdy case to keep it all in**
+
+ As mentioned, the M MOOCK's case packs a lot of style, but it's not just flash—it also provides a convenient place to keep everything together. The jump starter unit itself is thin but long, so the case ends up being a relatively large square. You can stash it under a seat without any issue, but it won't fit in most glove boxes.
+
+ The main unit's a red and black plastic case that contains all the important parts at one end of it. On one surface are the power button and battery status indicator, which shows the unit’s charge level when the unit's on. The two DC power ports live on another surface and allow you to charge a laptop. Finally, on the very top, there's the unit's own charging port, two USB charging ports, a flashlight, and the jump starter module port which is hidden behind a rubber cover.
+
+ Positioning the M MOOCK to jump start a car is a little more difficult than it needs to be.
+
+ The accessory kit that comes with the unit is full-bodied. The main piece is the jump starter module which has the two jumper clamps coming off a plastic module that plugs into the unit. To charge the unit you can choose to use either a wall charger for home use or a power port charger for use within a running vehicle. Finally, a set of laptop port adapters and a short DC cable to use with them can be used to[charge your laptop](https://www.lifewire.com/overcharging-laptop-battery-causes-life-span-to-decrease-2378126) or similar device.
+
+## **Setup Process: It takes time to find a spot just right to set up for a jump**
+
+ Positioning the MOOCK to jump start a car is a little more difficult than it needs to be. Plugging the jumper cable module into the unit and turning it on is the easy part. Due to the short length of the cables, however, it's difficult to get them connected while also keeping the unit secure in the engine bay. Thankfully once you find that Goldilocks spot, the terminal clamps are on the small side and easy to attach, even if the area around the clamping location is cramped.
+
+ Lifewire / Tony Mitera
+
+ To charge other devices there’s a lot less fuss involved. You simply need to plug the device into the USB or DC power port and turn the unit on. A Micro USB cable is provided, so if you have a device that uses a more modern charging port, you'll want to put an extra cable for it in the MOOCK case as well.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+## **Performance: A nice jolt of power to start even the most drained of vehicles**
+
+ Assuming you’ve carefully placed the M MOOCK in a spot where it can securely clamp onto the battery yet not fall out of the engine bay, you’ll find that the unit does a good job of jump starting a car. The test vehicle had a battery depleted down to 10V, and while the vehicle did momentarily struggle to start initially, it started just fine after double-checking the connections. It’s hard to say if that initial struggle was due to the unit’s relatively lower start and peak output currents, or if it truly just boiled down to a connectivity issue.
+
+An inexpensive option considering what it can do.
+
+ Plug a phone into the 5V/2A USB port and you’ll find that it delivers a charge rate of 1,200mAh, fast enough to rapidly top off even the thirstiest phones. For example, the Samsung Galaxy S10 would charge it from fully depleted to full in just over three hours. With the unit’s 18,000mAh capacity you could, in theory, do that repeatedly, but it's recommended to leave at least 50 percent of the unit’s battery for jump starts.
+
+Lifewire / Tony Mitera
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Key Features: A bright flashlight, but in a decidedly narrow band**
+
+ The built-in flashlight in the M MOOCK Jump Starter puts out a lot of light but only in a relatively narrow band. Luckily, the full unit's basically handheld and therefore it's easy to point the flashlight at what you need. Once you start connecting cables it becomes much harder to aim the light properly. The flashlight can also be set to rapidly blink to draw attention to your situation, or to blink in the standard pattern for “SOS” to really drive home the fact that you need assistance.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## **Price: Some of the best value to be found in jump starters**
+
+ You can pick up this model for about $70, which makes the M MOOCK Jump Starter an inexpensive option considering what it can do. The case doesn’t feel like it can take too much of a beating, but protects the starter well, and the included accessory kit is generously provisioned.
+
+ Lifewire / Tony Mitera
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## **Competition: A good showing against close competition**
+
+**_DBPOWER 600A Peak 18000mAh Portable Car Jump Starter_ :** Despite the high quality of the DBPOWER, the M MOOCK 1000A Peak 18000mAh Car Jump Starter is still a better choice. It provides slightly better output current, which is important for reliable jump starts, and yet it's also slightly less expensive. You can’t go wrong either way, but the MOOCK unit has just the slightest edge.
+
+[DBPOWER 600A Car Jump Starter Review](https://www.lifewire.com/dbpower-djs50-jump-starter-review-4783966)
+
+ **_Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter_ :** Depending on how important laptop charging is to you, the Beatit BT-D11 is worth a look. It can’t charge a laptop, but it's in a slightly smaller case and costs slightly less. The Beatit BT-D11 unit also has a mere 50 amps greater jumping start output current, which ultimately makes it a slightly better choice if you don't need a laptop charger.
+
+[Beatit BT-D11 Portable Car Jump Starter Review](https://www.lifewire.com/beatit-bt-d11-jump-starter-review-4784128)
+
+ Want to take a look at more options? Check out our guide to the[best portable jump starters](https://www.lifewire.com/best-portable-jump-starters-4140286) .
+
+ Final Verdict
+
+A good choice with just a few nagging flaws.
+
+ The M Moock 1000A Peak 18000mAh Car Jump Starter is a surprisingly solid choice in jump starters. It has few glaring flaws, and the ones that it does have (like the short cables) just make it marginally more difficult to use, as opposed to being true deal breakers. That said, there are other units available on the market that share some or all the same features but have fewer drawbacks. Overall, the unit's successful but flawed, yet very reliable when you need it most.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Specs
+
+* Product Name  Car Jump Starter
+* Product Brand  M MOOCK
+* MPN  MK1000
+* Price  $70.00
+* Weight  1.4 lbs.
+* Product Dimensions  8.7 x 3.4 x 1.1 in.
+* Capacity  18,000mAh
+* Power Input  15V/1A (provided by included wall charger or power port charger)
+* Jumping Peak Output Current  800A
+* Jumping Start Output Current  350A
+* Additional Power Output  USB: 2 ports; 5V/1A, 5V/2A; DC: 2 ports; 19V/3.5A, 12V/10A
+* Warranty  1 year
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>[New] In 2024, Pro Tips for Pioneering Board Use in Webinars  Android, iPhone & Windows Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>[New] Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-chorus-of-creators-guidelines-for-sharing-sounds-online-for-2024/"><u>[Updated] Chorus of Creators  Guidelines for Sharing Sounds Online for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro-for-2024/"><u>Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-barriers-learn-these-30-social-acronyms-fast/"><u>Breaking Down Barriers: Learn These 30 Social Acronyms Fast</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diminishing-displays-dysfunctions-pro-7/"><u>Diminishing Displays Dysfunctions (Pro 7)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhance-engagement-sharing-videos-on-instagram/"><u>Enhance Engagement  Sharing Videos on Instagram</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-media-creation-skills-with-windows-movie-maker-windows-8-edition/"><u>Enhancing Media Creation Skills with Windows Movie Maker (Windows 8 Edition)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fire-tablet-or-ipad-how-to-decide-on-the-perfect-device-for-your-needs/"><u>Fire Tablet or iPad – How to Decide on the Perfect Device for Your Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-more-for-less-unbeatable-performance-of-lgs-economical-smart-tv-model-24lh4830/"><u>Get More for Less: Unbeatable Performance of LG's Economical Smart TV, Model 24LH4830</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hear-today-sound-tomorrow-a-look-at-paww-audio-triad/"><u>Hear Today, Sound Tomorrow: A Look at Paww Audio Triad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hours-of-gaming-made-easy-the-ultimate-mavix-m9-gaming-chair-assessment/"><u>Hours of Gaming Made Easy: The Ultimate Mavix M9 Gaming Chair Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-cream-of-the-crop-roku-bargains-on-prime-day-extravaganza/"><u>Hunt for the Cream of the Crop Roku Bargains on Prime Day Extravaganza</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immerse-yourself-with-the-lg-c9-65-inch-oled-masterpiece-an-in-depth-guide-to-its-breathtaking-display-and-advanced-technology-for-tv-connoisseurs/"><u>Immerse Yourself with the LG C9 65-Inch OLED Masterpiece: An In-Depth Guide to Its Breathtaking Display and Advanced Technology for TV Connoisseurs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficientuseofyourwebcamforrecording/"><u>In 2024, EfficientUseOfYourWebcamForRecording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-guide-to-top-16-free-video-enthusiasts/"><u>In 2024, Essential Guide to Top 16 Free Video Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-access-to-the-finest-ae-templates-all-free/"><u>In 2024, Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-happy-enrollment-and-logout-flowchart/"><u>In 2024, Happy Enrollment & Logout Flowchart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-samsungutation-studio-features/"><u>In 2024, In-Depth Look at Samsung'utation Studio Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-rating-of-the-sumind-bt70b-fm-transmitter/"><u>In-Depth Analysis and Rating of the Sumind BT70B FM Transmitter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-corsair-one-pro-the-ultimate-gamers-workstation/"><u>In-Depth Analysis of Corsair ONE PRO: The Ultimate Gamer's Workstation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-gaomon-pd1560-digital-drawing-pad-for-artists-and-designers/"><u>In-Depth Analysis of the Gaomon PD1560 Digital Drawing Pad for Artists and Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x1-nano-assessment-the-ultimate-compact-workhorse/"><u>In-Depth Lenovo ThinkPad X1 Nano Assessment - The Ultimate Compact Workhorse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-ring-video-doorbell-pro-assessment-intelligently-advanced-features-explored/"><u>In-Depth Ring Video Doorbell Pro Assessment: Intelligently Advanced Features Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-star-wars-squadrons-game-analysis-engrossing-galactic-battles-await/"><u>In-Depth Star Wars Squadrons Game Analysis - Engrossing Galactic Battles Await!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-samsung-ru7300-55-smart-led-tv-with-4k-resolution-justifying-its-sleek-curved-display-a-thorough-review/"><u>Is Samsung RU7300 55 Smart LED TV with 4K Resolution Justifying Its Sleek, Curved Display? A Thorough Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kobo-clara-hd-unveiled-a-must-have-gadget-for-avid-readers-in-transit/"><u>Kobo Clara HD Unveiled: A Must-Have Gadget for Avid Readers in Transit</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kodak-pixpro-fz53-zoom-lens-for-the-frugal-shooter/"><u>Kodak PIXPRO FZ53 Zoom Lens for the Frugal Shooter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-multitasking-on-the-samsung-galaxy-tab-s6-a-look-at-its-s-pen-functionality-and-dex-mode-features/"><u>Mastering Multitasking on the Samsung Galaxy Tab S6: A Look at Its S Pen Functionality & DeX Mode Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-blog-revenue-with-effective-use-of-buyselladscom-services/"><u>Maximizing Blog Revenue with Effective Use of BuySellAds.com Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mysteries-of-ufos-through-aminys-lens/"><u>Mysteries of UFOs Through Aminy’s Lens</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison/"><u>New In 2024, Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premiering-a-fun-filled-tv-series-for-kids-us-premiere-during-iconic-awards-cerem/"><u>Premiering a Fun-Filled TV Series for Kids – US Premiere During Iconic Awards Cerem</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco X5 Pro | Dr.fone</u></a></li>
+</ul></div>
