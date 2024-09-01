@@ -1,7 +1,7 @@
 ---
 title: "A Year with Steam Deck & Rouges: My Insights After a Decade of Gaming"
-date: 2024-08-26 15:18:54
-updated: 2024-08-29 10:16:21
+date: 2024-08-31T17:30:29.010Z
+updated: 2024-09-01T17:30:29.010Z
 tags:
   - games
   - tv
@@ -41,6 +41,9 @@ Steam
 
  SteamOS isn't perfect either. I have experienced weird glitches and issues after multiple updates, slow download speeds over Wi-Fi, and I have to jump through multiple hoops to make non-Steam games work. But at the end of the day, I strongly prefer SteamOS to Windows as my OS of choice on a gaming-centric handheld.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  When It Comes to Power and Battery Management, It's a Tie
 
  When it comes to power, the ROG Ally is a beast that runs circles around the Steam Deck. That said, I'm still impressed with the level of performance my Steam Deck can deliver with its max [TDP](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/) pegged at 15W. Also, while the Ally is quite potent for a handheld, it needs at least 12W-13W to show its muscles, while the Deck can run less demanding games with less than 10W of power.
@@ -53,10 +56,17 @@ Steam
 
  The ROG Ally's [battery life is dismal](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), and I hope that the ROG Ally X [delivers on its promise](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision) and packs a much larger cell than the 40Wh found in the OG Ally.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  The ROG Ally Has Better Build Quality, Controls, and Ergonomics
 
 ![Steam Deck vs ROG Ally laying next to each other.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/steam-deck-vs-rog-ally-controls-and-design.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 Goran Damnjanovic / How-To Geek
 
  The build quality is fantastic on both my Deck and Ally. They're both well-built machines that I have had zero issues with up until this point. I've opened both the Deck and Ally multiple times, and reassembling them always went smoothly.
@@ -73,6 +83,9 @@ Goran Damnjanovic / How-To Geek
 
  But I can play games on my Ally for hours on end while lying down without even feeling a trace of wrist discomfort, let alone pain, making the ROG Ally a winner of this round. Sure, the Deck looks nicer and has those sweet dual trackpads, but its weight, combined with the way I use my gaming handhelds, results in it landing just behind the Ally in terms of ergonomics.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  The Game Compatibility Trophy Goes to the ROG Ally
 
 ![Steam Game Library with assorted titles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52781464329_36035301f1_o.jpg) 
@@ -85,6 +98,10 @@ Jason Fitzpatrick / How-To Geek
 
  On the Steam Deck the process of installing and playing games is pretty straightforward most of the time as well, unless you want to play a non-Steam game. In that case, you have to visit Desktop Mode, [install third-party launchers such as Heroic](https://youtube-blog.techidaily.com/n-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/), and sometimes even run Konsole or find your way through the system to apply some fixes, update Proton, or perform some other procedure needed to make a game run at all, which can be a huge pain. At least the process of setting up your emulators with EmuDeck is pretty painless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Extra Features and Docked Mode: Another Tie
 
 ![Steam Deck hooked to a dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/dc58cf90.png) 
@@ -103,6 +120,9 @@ Valve
 
  Local game streaming with Moonlight and Sunshine works better on my Ally. Despite [disabling the 2.4GHz band](https://extra-information.techidaily.com/new-boosting-skypes-performance-with-advanced-zoom-functionalities/) on my router, which resulted in a massive improvement in download speeds and overall network stability on my Deck, I can still notice occasional stuttering when streaming games. Conversely, I experience almost no stuttering on the Ally. There might be a dropped frame or two in the first few minutes, but it's smooth sailing all around after that. This, coupled with the fact that I can stream at 120 frames per second to my Ally, makes it a better device for local game streaming. The situation is probably better on the Deck OLED since it comes with a Wi-Fi 6E module and you can stream at 90fps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Rog Ally Is My Favorite, With One Exception
 
  The ROG Ally is my personal favorite. Sure, the Windows experience is subpar, but nowadays, I rarely have to leave Armoury Crate except to install games. It's still janky and annoying when I do, but not as much as it was in the first couple of months of owning the device when I had to constantly navigate around Windows [to tweak and optimize stuff](https://extra-lessons.techidaily.com/easier-than-ever-simplified-hdr-photography-insights/) for a better gaming experience.
@@ -131,3 +151,63 @@ Valve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fbs-viral-anthems-list-crafting-your-number-one-song/"><u>[New] 2024 Approved  FB's Viral Anthems List  Crafting Your Number One Song</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-impact-with-every-second-in-a-youtube-short/"><u>[New] 2024 Approved  Maximizing Impact with Every Second in a YouTube Short</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[New] In 2024, From Novice to Expert  Perfecting Mac Audio with Audacity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-digital-pioneer-how-jake-paul-mastered-youtube/"><u>[New] The Digital Pioneer  How Jake Paul Mastered Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[Updated] How To Acquire Standardized Thumbnails From Youtube  Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-engaging-videos-with-7-free-premium-soundscapes/"><u>[Updated] In 2024, Craft Engaging Videos with 7 Free, Premium Soundscapes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-premier-career-boosting-classes-on-linkedin-platform/"><u>2024'S Premier Career-Boosting Classes on LinkedIn Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-deep-dive-into-the-acoustic-excellence-of-flexus-200/"><u>A Deep Dive Into the Acoustic Excellence of Flexus 200</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-echo-show-10-third-generation-an-unmatched-portable-smart-display-for-your-home/"><u>Amazon Echo Show 10 (Third Generation) - An Unmatched Portable Smart Display for Your Home</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-kindle-paperwhite-2018-book-reviewers-pick-unveiling-a-revolutionary-approach-to-digital-books/"><u>Amazon Kindle Paperwhite (2018) Book Reviewer's Pick: Unveiling a Revolutionary Approach to Digital Books</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-essential-eargasm-soundproof-plugs/"><u>Audiophile's Essential: Eargasm Soundproof Plugs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/benchmark-breakdown-apple-mac-mini-m1-202n-reviews-arm-innovation-triumphs-over-competition/"><u>Benchmark Breakdown: Apple Mac Mini (M1, 202N) Reviews – ARM Innovation Triumphs Over Competition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-sites-with-public-domain-game-soundtracks-for-2024/"><u>Best Sites with Public Domain Game Soundtracks for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-home-connectivity-a-comprehensive-review-of-the-amplifi-hd-mesh-router-array/"><u>Boost Your Home Connectivity: A Comprehensive Review of the Amplifi HD Mesh Router Array</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-conscious-pet-owners-rejoice-petcubes-affordable-hd-cam/"><u>Budget-Conscious Pet Owners Rejoice - Petcube’s Affordable HD Cam!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/changing-tides-in-smart-casting-how-chromecast-with-google-tv-stacks-up-against-competitors/"><u>Changing Tides in Smart Casting: How Chromecast with Google TV Stacks Up Against Competitors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cheap-ssl-certs-balancing-cost-and-safety/"><u>Cheap SSL Certs: Balancing Cost & Safety</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-factors-behind-the-popularity-and-success-of-the-wii-u/"><u>Discovering Factors Behind the Popularity and Success of the Wii U</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-robustness-in-boses-soundsport-tech/"><u>Discovering the Robustness in Bose's SoundSport Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-best-router-range-extenders-of-2022/"><u>Expert Picks: The Best Router Range Extenders of 202ˈ#2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-unforeseen-thrills-of-yokus-island-express-an-immersive-review/"><u>Exploring the Unforeseen Thrills of Yoku's Island Express - An Immersive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-inspire-hr-247-wearable-review-your-ultimate-personal-fitness-companion/"><u>Fitbit Inspire HR 24/7 Wearable Review: Your Ultimate Personal Fitness Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-tablet-processors-influence-your-choice-in-picks-and-pans/"><u>How Tablet Processors Influence Your Choice in Picks and Pans</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-find-x7-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Find X7 Ultra Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>How to Reset a Locked Poco X6 Pro Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hp-omen-obelisk-top-notch-performance-at-unbeatable-prices-comprehensive-review/"><u>HP Omen Obelisk - Top Notch Performance at Unbeatable Prices: Comprehensive Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-and-handling-encounter-with-a-fake-chatgpt-scam-website/"><u>Identifying and Handling Encounter with a Fake ChatGPT Scam Website</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-samsung-galaxy-note-9-unveiled-as-the-premier-phablet-experience/"><u>In-Depth Analysis: Samsung Galaxy Note 9 Unveiled as the Premier Phablet Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-garmin-vivosmart-4-understanding-improved-energy-levels-and-modern-stress-management-tools/"><u>In-Depth Look at Garmin Vivosmart 4: Understanding Improved Energy Levels and Modern Stress Management Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovations-examined-the-b550-xts-voice-control-system/"><u>Innovations Examined: The B550-XT's Voice Control System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-escort-ix-radar-detector-unveiled-the-self-learning-car-safety-device-on-the-road/"><u>Innovative Escort iX Radar Detector Unveiled: The Self-Learning Car Safety Device on the Road</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ion-audio-tailgater-plus-assessment-seamless-hours-of-enhanced-audio-experience-instantly-activated/"><u>ION Audio Tailgater Plus Assessment - Seamless Hours of Enhanced Audio Experience Instantly Activated</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-ps5-worth-it-4-reasons-why-you-should-buy-one/"><u>Is the PS5 Worth It? 4 Reasons Why You Should Buy One</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-thinkpad-x12-detachable-review-good-2-in-1-great-keyboard/"><u>Lenovo ThinkPad X12 Detachable Review: Good 2-in-1, Great Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-a-glitchy-windows-10-taskbar/"><u>Mastering Quick Fixes for a Glitchy Windows 10 Taskbar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-gpt-interactions-for-physical-training/"><u>Optimize GPT Interactions for Physical Training</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pros-and-cons-of-monterey-on-my-mac/"><u>Pros and Cons of Monterey on My Mac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-portable-amazon-basics-tablet-support-always-ready-when-you-are/"><u>Review of Portable Amazon Basics Tablet Support: Always Ready When You Are</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-powerful-5-way-airflow-technology-in-havits-laptop-cooler-keep-your-device-cool-while-gaming-or-streaming/"><u>Reviewing the Powerful 5-Way Airflow Technology in HAVIT's Laptop Cooler: Keep Your Device Cool While Gaming or Streaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-unihertz-atom-xl-unveiling-the-strength-and-efficiency-of-this-tiny-tech-marvel/"><u>Reviewing the Unihertz Atom XL: Unveiling the Strength and Efficiency of This Tiny Tech Marvel</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-insight-navigating-through-features-and-performance-of-the-tcl-32s325-2019-a-user-friendly-roku-smart-tv-review/"><u>Tech Insight: Navigating Through Features and Performance of the TCL 32S325 (2019) - A User-Friendly Roku Smart TV Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-guide-to-using-kobo-libra-h2o-waterproof-ereader-with-a-touch-free-page-turning-experience/"><u>The Complete Guide to Using Kobo Libra H2O: Waterproof eReader with a Touch-Free Page Turning Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-economical-path-to-skype-calls-as-mp3-files-for-2024/"><u>The Economical Path to Skype Calls as MP3 Files for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-latest-and-greatest-in-depth-review-of-the-7gen-amazon-kindle-paperwhite-for-bibliophiles/"><u>The Latest and Greatest: In-Depth Review of the 7Gen Amazon Kindle Paperwhite for Bibliophiles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-app-compatible-netatmo-weather-station-a-review-of-elegance-and-functionality/"><u>The Ultimate App-Compatible Netatmo Weather Station: A Review of Elegance & Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-best-ipad-ever-why-the-2018-apple-pro-model-outshines-others-on-amazon/"><u>The Ultimate Guide to the Best iPad Ever – Why the 2018 Apple Pro Model Outshines Others on Amazon!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-and-reviewing-google-maps-on-your-iphone/"><u>The Ultimate Guide to Using and Reviewing Google Maps on Your iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/too-old-for-ios-time-for-an-update/"><u>Too Old for iOS: Time for an Update?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-a-gaming-system/"><u>Top 5 Essential Factors to Evaluate When Purchasing a Gaming System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-bedtime-routines-an-in-depth-review-of-the-ihome-zenergy-therapy-device/"><u>Transform Bedtime Routines: An In-Depth Review of the IHome Zenergy Therapy Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-versatile-omnicharge-omni-20-with-qi-technology-for-ultimate-portability/"><u>Unboxing and Testing: The Versatile Omnicharge Omni 20 with Qi Technology for Ultimate Portability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lg-k51-high-end-style-hindered-by-a-torpid-processing-unit/"><u>Unveiling The LG K51: High-End Style Hindered By a Torpid Processing Unit</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-most-sought-after-game-systems/"><u>Unveiling the Most Sought-After Game Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vizio-wi-fi-woes-learn-how-to-troubleshoot-and-restore-connection-easily/"><u>Vizio Wi-Fi Woes? Learn How to Troubleshoot & Restore Connection Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+</ul></div>

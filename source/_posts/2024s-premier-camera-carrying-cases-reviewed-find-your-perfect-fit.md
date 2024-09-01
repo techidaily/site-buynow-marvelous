@@ -1,7 +1,7 @@
 ---
 title: "2024'S Premier Camera Carrying Cases Reviewed: Find Your Perfect Fit!"
-date: 2024-08-26 13:50:51
-updated: 2024-08-29 10:35:34
+date: 2024-08-31T17:25:53.713Z
+updated: 2024-09-01T17:25:53.713Z
 tags:
   - buying-guides
 categories:
@@ -121,8 +121,14 @@ _Tarion_
 
 ![Tarion Camera Backpack TB-S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tarion-camera-backpack-tb-s.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 Best Budget Camera Bag
 
 #####  Tarion Camera Backpack TB-S
@@ -133,10 +139,16 @@ The Tarion TB-S is a great budget-friendly option for beginner photographers, of
 
 [$36 at Amazon](https://www.amazon.com/dp/B08SBR83TF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-camera-bags%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Camera Bag for Travel: [Peak Design Everyday Backpack V2 20L](https://amazon.com/dp/B07ZTQ7VJ9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-camera-bags%2F&asc%5Fcampaign=Commerce) 
 
 ![A man showing the contents of his Peak Design Everyday Backpack V2 20L.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/peak-design-everyday-backpack-v2-20l.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Peak Design_
 
 | Pros                                  | Cons                                 |
@@ -162,6 +174,9 @@ _Peak Design_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Best Camera Bag for Travel
 
 #####  Peak Design Everyday Backpack V2 20L
@@ -198,6 +213,9 @@ _Billingham_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 Best Over-Shoulder Camera Bag
 
 #####  Billingham Hadley Pro 2020
@@ -206,6 +224,9 @@ The Billingham Hadley Pro 2020 is a premium, handcrafted shoulder bag known for 
 
 [$348 at Amazon](https://www.amazon.com/dp/B07VLTNB3V?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-camera-bags%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&cuid=UUhtgUeUpU2004451&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBillingham-Hadley-Pro-2020-Camera-Bag-Burgandy-Chocolate%2F2849691560%3Ffrom%3D%252Fsearch) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Leather Camera Bag: [MegaGear Torres Mini](https://amazon.com/dp/B076ZRBQDP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-camera-bags%2F&asc%5Fcampaign=Commerce) 
 
 ![A MegaGear Torres Mini camera bag next to a canon camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/megagear-torres-mini.png) 
@@ -240,8 +261,14 @@ The stylish Torres Mini from MegaGear is a stylish messenger bag made with genui
 
 [$87 at Amazon](https://www.amazon.com/Megagear-Genuine-Messenger-Mirrorless-MG1329/dp/B076ZRBQDP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-camera-bags%2F&asc%5Fcampaign=Commerce) [See at MegaGear](https://www.megagear.com/products/genuine-leather-vertical-camera-messenger-bag-for-mirrorless-instant-and-dslr-cameras-black) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What's the difference between a camera bag and a backpack?
 
  Essentially, the main difference is how they are carried. A backpack obviously goes on the back, while a camera bag is usually held in the hand or slung over a shoulder. 
@@ -260,6 +287,9 @@ The stylish Torres Mini from MegaGear is a stylish messenger bag made with genui
 
  However, while a good safeguarding camera bag is essential, it’s also important to take care of your expensive equipment yourself. Treat your camera and lenses with care, and always put the lens cap on during storage. Put a lens hood on whenever possible, and be gentle when placing your bag on the ground.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Are camera bags allowed on planes?
 
  Yes, camera bags are generally allowed on planes. That is provided the bag falls within the airline’s carry-on size and weight limitations. If you are lugging around a lot of gear, you may incur fees in order to be allowed your camera bag onboard. 
@@ -280,3 +310,63 @@ The stylish Torres Mini from MegaGear is a stylish messenger bag made with genui
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-hero5-black-meets-hero5-session-a-visual-verdict/"><u>[New] Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[New] How To Join Someone’s Live on TikTok as a Guest</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-core-components-for-transformative-facebook-advertisements-for-2024/"><u>[Updated] Core Components for Transformative Facebook Advertisements for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-uploading-youtube-shorts-on-devices/"><u>[Updated] Mastering the Art of Uploading YouTube Shorts on Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-youtube-editors-toolkit-for-post-publish-adjustments/"><u>[Updated] The Complete YouTube Editor's Toolkit for Post-Publish Adjustments</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-unboxing-logitechs-professional-4k-pro-webcam/"><u>[Updated] Ultimate Unboxing  Logitech's Professional 4K Pro Webcam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs/"><u>2024 Approved  Metaverse Comedy  The Art & Science of Creating Viral Online Laughs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-the-flaws-and-wonders-of-cyberpunk-2n77-review/"><u>Balancing the Flaws and Wonders of Cyberpunk 2N77 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-iphones-for-gamers-ranking-top-devices-for-mobile-gaming-excellence/"><u>Best iPhones for Gamers: Ranking Top Devices for Mobile Gaming Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/biking-directions/"><u>Biking Directions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/caixuns-big-screen-marvel-in-depth-analysis-of-the-budget-friendly-75-inch-4k-smart-tv-experience/"><u>Caixun's Big Screen Marvel: In-Depth Analysis of the Budget-Friendly 75-Inch 4K Smart TV Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/canon-vixia-hf-r800-camcorder-review-modest-price-average-video/"><u>Canon VIXIA HF R800 Camcorder Review: Modest Price, Average Video</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-google-maps-app-on-ios-devices/"><u>Comprehensive Analysis: Google Maps App on iOS Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-solving-realtek-hd-graphics-card-drivers-problems/"><u>Comprehensive Guide: Solving Realtek HD Graphics Card Drivers Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-petsafe-automatic-feeder-a-smart-choice-for-your-pets-dietary-management/"><u>Comprehensive Review of the PetSafe Automatic Feeder: A Smart Choice for Your Pet's Dietary Management</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-uniden-r3-radar-detector-analysis-durable-and-extended-detection-capability/"><u>Comprehensive Uniden R3 Radar Detector Analysis – Durable & Extended Detection Capability</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/designing-professional-youtube-editors-workflow-for-2024/"><u>Designing Professional YouTube Editors' Workflow for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/diving-into-fortnites-latest-adventure-comprehensive-insights-for-a-brand-new-season/"><u>Diving Into Fortnite's Latest Adventure: Comprehensive Insights for a Brand-New Season</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-rankings-for-personal-weather-gadgets-whats-hot-in-2-groghty-2024/"><u>Elite Rankings for Personal Weather Gadgets - What's Hot in 2 Groghty, 2024!</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-visual-coherence-integrating-this-pc-icon/"><u>Enhance Visual Coherence: Integrating 'This PC' Icon</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-fitness-routine-with-garmin-vivoactive-3-exercise-and-enjoy-quality-sound/"><u>Enhancing Your Fitness Routine with Garmin Vivoactive 3: Exercise and Enjoy Quality Sound</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-qualcomm-chipset-usb-driver-software-packages-supports-windows-11-to-7-os/"><u>Essential [Qualcomm Chipset] USB Driver Software Packages - Supports Windows 11 to 7 OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-virtual-universe-in-depth-analysis-of-the-vive-cosmos-top-contender-in-a-crowded-market/"><u>Experience the Virtual Universe: In-Depth Analysis of the Vive Cosmos - Top Contender in a Crowded Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fashion-forward-and-fitness-ready-an-in-depth-look-at-the-amazfit-gts-performance/"><u>Fashion-Forward & Fitness-Ready: An In-Depth Look at the Amazfit GTS Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/galaxy-tab-s3s-worth-in-todays-market-an-in-depth-product-assessment/"><u>Galaxy Tab S3's Worth in Today's Market: An In-Depth Product Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hc-wxf991-camcorder-a-new-era-in-video-clarity/"><u>HC-WXF991 Camcorder: A New Era in Video Clarity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-showdown-iphone-15-pro-against-pro-max-unveiled/"><u>Head-to-Head Showdown: IPhone 15 Pro Against Pro Max Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-90-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor 90 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-rectangular-channels-a-is-width-times-depth-and-p-is-the-sum-of-all-sides-in-contact-with-water/"><u>In Rectangular Channels, A Is Width Times Depth and P Is the Sum of All Sides in Contact with Water</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-virtual-machine-performance-with-six-windows-tricks/"><u>Jumpstart Your Virtual Machine Performance with Six Windows Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kobo-forma-unveiled-taking-reading-seriously-with-advanced-ereader-technology/"><u>Kobo Forma Unveiled: Taking Reading Seriously with Advanced eReader Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-k92-5g-evaluation-assessing-the-value-beyond-just-5g-capabilities/"><u>LG K92 5G Evaluation: Assessing the Value Beyond Just 5G Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-immersion-with-oculus-quest-2-exceptional-value-for-vr-enthusiasts/"><u>Next-Level Immersion with Oculus Quest 2: Exceptional Value for VR Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-delay-just-playtime-in-epic-battle-royale/"><u>No Delay, Just Playtime in Epic Battle Royale</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oculus-quest-2-evaluation-seamless-superior-vr-fun-without-breaking-your-budget/"><u>Oculus Quest 2 Evaluation: Seamless, Superior VR Fun without Breaking Your Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-practicality-in-the-lenovo-ideapad-130s-review-power-boundaries-and-usability-breakthroughs/"><u>Performance Vs. Practicality in the Lenovo IdeaPad 130S Review: Power Boundaries and Usability Breakthroughs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premier-pro-basketball-gaming-in-nba-2k19/"><u>Premier Pro-Basketball Gaming in NBA 2K19</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-book-one-evaluation-portable-powerhouse-performance-exposed/"><u>Razer Book One Evaluation: Portable Powerhouse Performance Exposed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-holy-stone-remote-control-toy-racecar-perfect-family-entertainment/"><u>Review of Holy Stone Remote Control Toy Racecar - Perfect Family Entertainment</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/series-4-apple-watch-a-glimpse-into-cutting-edge-wearable-technology-reviewed/"><u>Series 4 Apple Watch: A Glimpse Into Cutting-Edge Wearable Technology Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/spectacular-bargain-tech-the-arcshell-ar-5-tested-superb-functionality-unbeatable-cost/"><u>Spectacular Bargain Tech: The Arcshell AR- 5 Tested - Superb Functionality, Unbeatable Cost</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/taking-your-book-habit-to-new-heights-with-kobo-forma-a-focused-review-for-the-avid-reader/"><u>Taking Your Book Habit to New Heights with Kobo Forma - A Focused Review for the Avid Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-improved-experience-with-apple-watch-series-4-our-comprehensive-review/"><u>The Improved Experience with Apple Watch Series 4 – Our Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-travel-companion-unraveling-the-benefits-and-features-of-the-audew-portable-compressor/"><u>The Perfect Travel Companion: Unraveling the Benefits and Features of the Audew Portable Compressor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-solution-to-overheating-exploring-the-efficiency-of-the-havit-5-laptop-chiller-innovative-gaming-accessory-reviewed/"><u>The Ultimate Solution to Overheating: Exploring the Efficiency of the HAVIT 5 Laptop Chiller - Innovative Gaming Accessory Reviewed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tiny-turntable-thick-impact-the-lx310bt-review/"><u>Tiny Turntable, Thick Impact: The LX310BT Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-computing-the-revolutionary-imac-featuring-apples-m1-technology/"><u>Transforming Computing: The Revolutionary iMac Featuring Apple's M1 Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-oculus-quest-2-top-tier-virtual-reality-for-a-steal-of-a-deal/"><u>Unboxing & Testing the Oculus Quest 2 - Top-Tier Virtual Reality for a Steal of a Deal!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-creativity-with-anthropics-smart-photo-editor-a-detailed-review-for-photographers/"><u>Unlocking Creativity with Anthropics Smart Photo Editor: A Detailed Review for Photographers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-value-discover-if-chatgpt-plus-membership-is-worth-your-time-and-why-you-should-enroll-today/"><u>Unlocking the Value: Discover If ChatGPT Plus Membership Is Worth Your Time and Why You Should Enroll Today!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-a-thorough-review-of-the-amazonbasics-high-security-micro-cut-paper-destroyer-with-12-sheet-capacity/"><u>Unveiling the Secrets: A Thorough Review of the AmazonBasics High-Security, Micro Cut Paper Destroyer with 12 Sheet Capacity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-movie-magic-made-simple-a-step-by-step-guide-for-2024/"><u>Updated Movie Magic Made Simple A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/withings-move-critique-how-an-old-school-style-meets-new-age-technology/"><u>Withings Move Critique: How an Old-School Style Meets New Age Technology</u></a></li>
+</ul></div>

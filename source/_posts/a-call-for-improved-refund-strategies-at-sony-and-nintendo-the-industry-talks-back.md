@@ -1,7 +1,7 @@
 ---
 title: "A Call for Improved Refund Strategies at Sony and Nintendo: The Industry Talks Back"
-date: 2024-08-28 23:15:20
-updated: 2024-08-29 11:27:31
+date: 2024-08-31T17:30:27.744Z
+updated: 2024-09-01T17:30:27.744Z
 tags:
   - games
   - tv
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
  Which is a polite way of saying your only option is not to buy a broken or incorrect item in the first place! All sales are final, no refunds!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Other Platforms Handle Refunds
 
  The way Sony and Nintendo handle the issue of digital refunds is in stark contrast to their competition. Here's what Microsoft has to say about Xbox refunds:
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
  On PC, digital storefronts have similarly convenient refund policies. Steam offers automatic refunds for games that have been played for less than two hours and have been purchased in the last 14 days. I have also successfully refunded games in the past that had more than two hours of playtime by explaining that it was because of trying to get the game to work or another legitimate reason to have more than two hours on the clock. However, anything outside of the eligibility window is at Valve's discretion. Also, in case you didn't know, if you bought a game shortly before it went on sale, you can ask for a refund and then re-buy the game at the new lower price! The [Epic Games Store refund policy](https://www.epicgames.com/site/en-US/store-refund-policy) is almost exactly the same, so both Steam and EGS are virtually on par when it comes to refunds.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why This Will Be Good for You, Sony & Nintendo
 
  I don't have any special insights into the reasons that neither Sony nor Nintendo offer similar refund policies to the rest of the industry. Perhaps they're afraid of it being abused, or maybe their dominant position in the gaming market means they don't have to care about offering consumer-friendly policies, unless compelled by local laws.
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
  Letting players get automatic refunds using the 14 day, two-hour rule is a small price to pay if it makes it more likely that people will hit that buy button in the first place. Perhaps even more important than that, it's a simple way to generate goodwill from your customer base.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ##  What We Want From Your Refund Policy
 
  The good news is that other companies have paved the way, so you don't even have to reinvent the wheel. Give us a 14-day window, with a playtime limit to automatically refund unwanted purchases. Let us refund games that have just gone on sale, or have become part of a subscription service within a certain window of the purchase. Alternatively, or perhaps even better, let us trial games without having to pay for the privilege. Game trials are more likely to lead to a purchase, so it makes no sense to me why this would be a subscription value-add. It benefits both the platform and the developer, without having to develop separate demos.
@@ -81,3 +90,74 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-sustaining-an-engaged-online-community-the-facebook-way/"><u>[New] 2024 Approved  Sustaining an Engaged Online Community  The Facebook Way</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-content-for-successful-instagram-story-segments/"><u>[New] Crafting Content for Successful Instagram Story Segments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>[New] In 2024, An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-live-stream-to-instagram-from-obs/"><u>[New] In 2024, Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-pixel-perfect-memes-with-kinemaster/"><u>[New] Pixel Perfect Memes with KineMaster</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-android-and-ios-tech-record-google-meet/"><u>[Updated] 2024 Approved  Essential Android & iOS Tech  Record Google Meet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-highlight-harmony-the-top-business-tactics-for-insta-for-2024/"><u>[Updated] Highlight Harmony  The Top Business Tactics for Insta for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-logitech-4k-pro-webcam-complete-specifications-and-features/"><u>[Updated] In 2024, Logitech 4K Pro Webcam  Complete Specifications & Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>[Updated] In 2024, Secure Storage  Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-time-lapse-screen-recorders-for-2024/"><u>[Updated] Top 5 Time-Lapse Screen Recorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>[Updated] Unleash the Potential  A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-potential-angular-video-editing-on-your-android-device/"><u>[Updated] Unlocking Potential  Angular Video Editing on Your Android Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-inject-photos-with-focal-spread-outer-radius-adobe-psx/"><u>2024 Approved  Inject Photos with Focal Spread Outer Radius Adobe PSX</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-godfall-how-sony-missed-the-mark-on-its-exclusive-platform-game/"><u>A Critical Look at Godfall: How Sony Missed the Mark on Its Exclusive Platform Game</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-11x-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 11X 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-durable-omoton-t1-desk-mounted-tablet-holder-comprehensive-assessment/"><u>Affordable and Durable Omoton T1 Desk Mounted Tablet Holder - Comprehensive Assessment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-networks-an-effective-choice-for-enhanced-coverage/"><u>Are Wi-Fi Mesh Networks an Effective Choice for Enhanced Coverage?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-hulu-why-it-excels-as-a-service/"><u>Assessing Hulu: Why It Excels as a Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-build-and-speed-of-netgears-powerline-1200-when-substantial-architecture-impacts-network-efficiency/"><u>Assessing The Build And Speed Of Netgear's Powerline 1200: When Substantial Architecture Impacts Network Efficiency</u></a></li>
+<li><a href="https://ai-video.techidaily.com/breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/catch-your-favorite-tunes-on-a-budget-with-karaoke-usa-exceptional-entertainment-under-150/"><u>Catch Your Favorite Tunes on a Budget with Karaoke USA - Exceptional Entertainment Under $150</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-synology-rt2/"><u>Comprehensive Evaluation of Synology RT2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-list-of-professional-scanners-for-docs-and-photos/"><u>Discover the Elite List of Professional Scanners for Docs & Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-cutting-edge-internet-surfing-and-media-streaming-on-the-cost-effective-lenovo-tab-m10-hd-2020/"><u>Dive Into Cutting-Edge Internet Surfing and Media Streaming on the Cost-Effective Lenovo Tab M10 HD (2020)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/epic-viking-journey-unveiled-a-comprehensive-assassins-creed-valhalla-game-review/"><u>Epic Viking Journey Unveiled: A Comprehensive Assassin's Creed: Valhalla Game Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-knack-assessment-standout-gaming-persona-meets-lackluster-adventure/"><u>Exclusive Knack Assessment: Standout Gaming Persona Meets Lackluster Adventure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-most-advanced-weather-watching-tools-of-2e24/"><u>Expert Picks: The Most Advanced Weather Watching Tools of 2E24</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-imperator-rome-establishing-dominion-or-embracing-downfall/"><u>Exploring 'Imperator: Rome': Establishing Dominion or Embracing Downfall</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-enchanting-world-of-minecrafts-campfire-tales-skins-a-comprehensive-review/"><u>Exploring the Enchanting World of Minecraft's Campfire Tales Skins - A Comprehensive Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y200e-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y200e 5G?</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-securely-archive-device-drivers-in-windows-11-and-10-environments/"><u>How to Securely Archive Device Drivers in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/identifying-points-for-mobile-device-update/"><u>Identifying Points for Mobile Device Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersed-tube-tunnel-construction/"><u>Immersed Tube Tunnel Construction</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-c22-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia C22 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-find-n3-flip-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Find N3 Flip Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-garmin-forerunner-945-top-tier-smartwatch-for-athletes/"><u>In-Depth Analysis of the Garmin Forerunner 945: Top-Tier Smartwatch for Athletes</u></a></li>
+<li><a href="https://windows11.techidaily.com/manual-antivirus-checks-finding-unseen-threats/"><u>Manual Antivirus Checks: Finding Unseen Threats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-silent-sounds-garagebands-volume-control-magic/"><u>Mastering Silent Sounds  Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-fongo-voip-offerings-an-expert-canadian-service-guide/"><u>Navigating Fongo VoIP Offerings - An Expert Canadian Service Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-benefits-and-limitations-of-pidgin-as-an-im-client/"><u>Navigating Through the Benefits & Limitations of Pidgin as an IM Client</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-best-online-tech-education-offerings-of-2/"><u>Navigating Through the Best Online Tech Education Offerings of 2</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-5-best-free-wmv-video-joiners/"><u>New In 2024, Top 5 Best Free WMV Video Joiners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-gen-excellence-a-review-of-visuals-in-x-plane-11-global-simulator/"><u>Next-Gen Excellence: A Review of Visuals in X-Plane 11 Global Simulator</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-nubia-z50-ultra-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010838266-rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/readers-guide-to-understanding-the-kobo-clara-colour-an-extensive-review-and-comparison/"><u>Readers' Guide to Understanding the Kobo Clara Colour: An Extensive Review and Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/shooting-and-laughter-in-plants-vs-zombies-neighborville-a-comprehensive-guide/"><u>Shooting and Laughter in 'Plants Vs. Zombies' Neighborville - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-dsc-w800-review/"><u>Sony DSC-W800 Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sound-symphony-music-within-whatsapp-statuses/"><u>Sound Symphony  Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/test-ride-discover-the-simplified-controls-of-mods-latest-foldable-scooter-bike/"><u>Test Ride: Discover the Simplified Controls of Mod's Latest Foldable Scooter Bike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-rated-battery-pack-review-travel-with-confidence-using-dbpower-600a-mains-charger/"><u>The Best Rated Battery Pack Review – Travel with Confidence Using DBPower 600A Mains Charger</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-future-of-gaming-awaits-dive-into-the-revolutionary-phillips-evonia-49-curved-oled-display/"><u>The Future of Gaming Awaits: Dive Into the Revolutionary Phillips Evonia 49 Curved OLED Display</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-budget-friendly-and-convergent-tech-marvel/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA: Budget-Friendly and Convergent Tech Marvel</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-look-at-huawei-p2086-pro-review-outstanding-imaging-toolset-on-an-alright-phone/"><u>The Ultimate Look at Huawei P20#86-Pro Review: Outstanding Imaging Toolset on an Alright Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-games-for-your-steam-deck/"><u>Top 10 Must-Play Games for Your Steam Deck</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-insight-on-flexispots-theodore-desk-a-perfect-blend-of-style-and-ergonomics-in-office-spaces/"><u>Top Rated Insight on Flexispot's Theodore Desk – A Perfect Blend of Style & Ergonomics in Office Spaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-vr-gaming-experiences-on-pc-android-and-iphone-20162017/"><u>Top-Ranked VR Gaming Experiences on PC, Android & iPhone (2016/2017)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-j5-tactical-v1-pro-the-top-choice-for-durable-and-miniaturized-illumination/"><u>Ultimate Guide to the J5 Tactical V1-Pro - The Top Choice for Durable and Miniaturized Illumination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-features-move-to-ios-15-now/"><u>Unlocking Features: Move to iOS 15 Now</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally-for-2024/"><u>Unveiling the Secrets  An Overview of Using EZ Grabber Professionally for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-why-oneplus-9-fails-the-calculus-of-quality/"><u>Unveiling the Truth: Why OnePlus 9 Fails the Calculus of Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/upside-down-laptop-screen-troubles-heres-how-to-set-it-right/"><u>Upside Down Laptop Screen Troubles? Here's How to Set It Right</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vanguard-alta-pro-review-full-featured-full-size-tripod/"><u>Vanguard Alta Pro Review: Full-Featured, Full-Size Tripod</u></a></li>
+</ul></div>

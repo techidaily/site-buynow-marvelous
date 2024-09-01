@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-08-26 22:39:11
-updated: 2024-08-29 10:26:28
+date: 2024-08-31T17:29:02.877Z
+updated: 2024-09-01T17:29:02.877Z
 tags:
   - games
   - tv
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 Ismar Hrnjicevic / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  Check the Power Cables
 
  This and the following step require you to touch your computer's internal power cables. Make sure that your computer is off so that you don't get hurt, and be aware that [static electricity can damage your computer parts](https://youtube-blog.techidaily.com/is-filmora-certified-creative-program-and-how-to-become-an-fcc-in-2024/) if incorrectly handled.
@@ -51,6 +54,9 @@ Ismar Hrnjicevic / How-To Geek
 
  If you have a transparent side panel, you can visually inspect it to see if all power supply cables are plugged in. If they aren't, shut off the computer, turn off the power supply, and remove the side panel. Find an unoccupied and appropriate power connector from your power supply, gently plug it into the graphics card until it clicks, and that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reseat the Graphics Card
 
  Yes, you read that right—you want to _reseat_ the graphics card, not _reset_ it. This means that you should take the graphics card out of your computer and then slide it back in. If your graphics card's connectors (the gold-plated pins on the bottom) aren't making full contact with the ones on your motherboard, it can cause all sorts of issues.
@@ -65,6 +71,10 @@ Jason Fitzpatrick / How-To Geek
 
  After that, push the graphics card back in until you feel it click into place, put your side panel back on, reconnect the cables, flip the switch on your power supply, and boot your PC again.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ##  Fully Uninstall Old Graphics Drivers Before Installing New Ones
 
  If you upgraded from one graphics card to another, you must do a [clean driver install](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/) if you want the card to work correctly. That's because leftover bits of code stay in Windows, even if you uninstalled the old drivers using conventional methods. The leftover code can cause issues with how the operating system utilizes the graphics card.
@@ -83,16 +93,25 @@ Jason Fitzpatrick / How-To Geek
 
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  You can check what BIOS your graphics card has through AMD or NVIDIA software, but it might not tell you the full version. For instance, AMD doesn't show the last few numbers that identify your exact graphics card model. Instead, download and install [GPU-Z](https://www.techpowerup.com/gpuz/). It'll tell you the BIOS version under the "Graphics Card" tab, which you can check against [TechPowerUp's repository](https://www.techpowerup.com/) by selecting your graphics card model. If it's a match, that's great, but if not, you'll have to download and [flash the stock BIOS](https://appuals.com/how-to-flash-the-bios-on-an-amd-gpu/).
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  Try Running a Different Game
 
  Certain PC games can be poorly optimized or just won't play ball with your particular graphics card. When that happens, your graphics card can't run the game at its full potential. If you're the type of person who only plays one or two games, you should be sure to test the graphics card in a few other games too.
 
  So, open up your dusty Steam library and download a few recent triple-A titles. If your graphics card has great FPS in those titles, it's the original game that's at fault and not your graphics card.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Play Around With Windows Settings
 
  As far as gaming goes, Windows is a lot better than it used to be. Still, some features can mess with how your computer operates, the most notorious of which is [Game Mode](https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/). Microsoft has fixed and improved Game Mode over the years, but it can still cause issues, especially in older titles.
@@ -119,3 +138,49 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-breaking-into-youtubes-top-100-with-effective-seo/"><u>[New] 2024 Approved  Breaking Into YouTube's Top 100 With Effective SEO</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevating-engagement-optimal-size-and-ratio-on-youtube/"><u>[New] In 2024, Elevating Engagement  Optimal Size & Ratio on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>[New] In 2024, Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lg-digital-cinema-31mu97-b-4k-monitor-review/"><u>[Updated] LG Digital Cinema 31MU97-B 4K Monitor Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-short-frame-gatherer-top-lapses-for-2024/"><u>[Updated] Premier Short Frame Gatherer - Top Lapses for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-creative-youtube-video-reaction-ideas-you-should-know/"><u>10 Best Creative YouTube Video Reaction Ideas You Should Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beat-blend-technology-video-and-music-merge-on-w11-platforms/"><u>2024 Approved  Beat-Blend Technology  Video & Music Merge on W11 Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-srts-most-effective-upgrades-for-macwindows/"><u>2024 Approved  SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-tech-marvel-motorola-one-the-budget-friendly-iphone-lookalike/"><u>Affordable Tech Marvel: Motorola One - The Budget-Friendly iPhone Lookalike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/authentic-basketball-action-awaits-you-in-nba-2k19/"><u>Authentic Basketball Action Awaits You in NBA 2K19</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/avoid-keyword-stuffing-instead-aim-for-a-natural-flow-of-words-that-feels-conversational-while-still-incorporating-crucial-search-terms/"><u>Avoid Keyword Stuffing; Instead, Aim for a Natural Flow of Words that Feels Conversational While Still Incorporating Crucial Search Terms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-buys-for-your-digital-chime-preferences-in-snapchat/"><u>Best Buys for Your Digital Chime Preferences in SnapChat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-wireless-network-extenders-of-the-year-2024/"><u>Best Wireless Network Extenders of the Year 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-performance-and-portability-the-lenovo-thinkpad-x1-nano-notebook-examination/"><u>Breaking Down Performance and Portability: The Lenovo ThinkPad X1 Nano Notebook Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-prowess-explored-evaluating-the-stylish-and-powerful-dell-alienware-aurora-r9-gaming-system/"><u>Cutting-Edge Prowess Explored: Evaluating the Stylish and Powerful Dell Alienware Aurora R9 Gaming System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-insight-on-the-rugged-cat-s42-device-superior-protection-meets-subdued-pace/"><u>Detailed Insight on the Rugged CAT S42 Device: Superior Protection Meets Subdued Pace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-superior-tech-with-apples-groundbreaking-m1-202prise-a-must-read-arm-pc-review/"><u>Discover Superior Tech with Apple's Groundbreaking (M1, 202Prise) - A Must-Read ARM PC Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-highest-ranked-key-trackers-of-this-year-your-comprehensive-review/"><u>Discover the Highest-Ranked Key Trackers of This Year - Your Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/escort-ix-review-an-intelligent-radar-detector-that-learns-as-you-drive/"><u>Escort iX Review: An Intelligent Radar Detector that Learns as You Drive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-mapmyride-stack-up-a-detailed-cycling-route-review/"><u>How Does MapMyRide Stack Up? A Detailed Cycling Route Review</u></a></li>
+<li><a href="https://ai-video.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versain-2024/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa,In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-migliori-8-rippers-gratuiti-per-dvd-su-macos-il-tuo-riferimento-completo/"><u>I Migliori 8 Rippers Gratuiti per DVD Su macOS: Il Tuo Riferimento Completo</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c12-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-dell-alienware-aurora-r9-assessment-a-revolutionary-approach-to-modern-gaming-systems/"><u>In-Depth Dell Alienware Aurora R9 Assessment: A Revolutionary Approach to Modern Gaming Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactively-testing-the-arlo-network-for-home-safety-solutions/"><u>Interactively Testing the Arlo Network for Home Safety Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/must-take-online-workshops-from-linkedin-learnings-2024-lineup/"><u>Must-Take Online Workshops From LinkedIn Learning's 2024 Lineup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/next-evaluation-diverse-solutions/"><u>Next Evaluation  Diverse Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/opulent-sound-experience-beoplay-h8i-unveiled/"><u>Opulent Sound Experience: Beoplay H8i Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/owc-mercury-pro-assessment-the-pinnacle-of-solid-state-drive-excellence-and-efficiency/"><u>OWC Mercury Pro Assessment: The Pinnacle of Solid State Drive Excellence and Efficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-fujitsu-scansnap-ix1es-performance-in-home-offices-and-smbs/"><u>Review of the Fujitsu ScanSnap iX1e's Performance in Home Offices and SMBs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tap-into-a-world-of-possibangs-with-oodles-exclusive-complimentary-local-marketplace/"><u>Tap Into a World of Possibangs with Oodle's Exclusive Complimentary Local Marketplace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-ios-15-adoption/"><u>The Ultimate Guide to iOS 15 Adoption</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mighty-linksys-ea9500-gateway-revolutionizing-home-networks-with-clever-tech/"><u>The Ultimate Guide to the Mighty Linksys EA9500 Gateway - Revolutionizing Home Networks with Clever Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thermopro-tp67-analysis-cost-effective-yet-inconsistent-performance/"><u>ThermoPro TP67 Analysis: Cost-Effective Yet Inconsistent Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-on-finties-secure-carrying-case-for-macbook-airpro-13-inch-balancing-protection-with-price/"><u>Top Review on Fintie's Secure Carrying Case for MacBook Air/Pro (13-Inch): Balancing Protection with Price</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-the-finest-steam-deck-experiences-of-202n/"><u>Ultimate List: The Finest Steam Deck Experiences of 202N</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-antop-at-127-exceptional-style-meets-superior-free-tv-broadcasting/"><u>Unveiling the Antop AT-127 - Exceptional Style Meets Superior Free TV Broadcasting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-of-beantechs-bitwatch-s1-plus-a-compelling-budget-smartwatch-assessment/"><u>Unveiling the Potential of Beantech's Bitwatch S1 Plus: A Compelling Budget Smartwatch Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-and-endurance-an-in-depth-look-at-the-anker-super-bright-outdoor-flashlight/"><u>Unveiling the Power and Endurance: An In-Depth Look at the Anker Super Bright Outdoor Flashlight</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audio-free-editing-excising-sound-from-mov-media-on-windowsmac-for-2024/"><u>Updated Audio-Free Editing Excising Sound From MOV Media on Windows/Mac for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722961258045-wacom-intuos-3-drivers-download-in-windows-work-100/"><u>Wacom Intuos 3 Drivers Download in Windows - [Work 100%%]</u></a></li>
+</ul></div>

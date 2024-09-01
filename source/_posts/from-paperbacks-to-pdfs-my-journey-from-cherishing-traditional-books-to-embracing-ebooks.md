@@ -1,7 +1,7 @@
 ---
 title: "From Paperbacks to PDFs: My Journey From Cherishing Traditional Books to Embracing eBooks"
-date: 2024-08-27 21:22:43
-updated: 2024-08-29 12:52:11
+date: 2024-08-31T17:29:44.541Z
+updated: 2024-09-01T17:29:44.541Z
 tags:
   - games
   - tv
@@ -59,10 +59,17 @@ Hannah Stryker / How-To Geek
 
  I still have to be selective in my titles with ebooks, but I have some leeway in what I can get. As a member of Amazon's Prime service, I get a [free newly published ebook each month](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50iplus-drfone-by-drfone-virtual-android/). The [average cost of an ebook](https://automateed.com/average-ebook-price/) ranges from $1 to $3, with more established authors calling for $6 to $10 for their latest work. This means I can potentially get 2 to 3 ebooks for the cost of one paperback novel. I know which one I prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  I Can Customize My Text Delivery
 
 ![An eReader.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53125212620_0f222a0c93_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek  
   
  I always like flicking through a paperback to see what the words are like inside. Sometimes, however, a book's font might be jarring and off-putting. In such a case, no matter how good the story is, I'll decide not to buy the book. With an ebook, I can adjust the text size, font style, and even the layout in some cases.
@@ -73,12 +80,18 @@ Joe Robinson / How-To Geek
 
 ![An ebook on a cellphone screen with a blurred Kindle in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060858.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
 [According to Stephen King](https://www.goodreads.com/quotes/312517-if-you-want-to-be-a-writer-you-must-do), to be a good writer, one has to read a lot and write a lot. That's why, when I read, I usually do it with a dictionary nearby to look up words I don't understand. It helps me get a better grasp of the English language and also helps me learn new things every day.
 
  With an ebook, I don't have to fetch a dictionary, as most eReader software has some sort of built-in dictionary that allows the reader to highlight a word or phrase and get a definition for it. This is uniquely useful when you're trying to figure out what a word means and don't have the time to go find a dictionary to look it up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ##  I Consume Less Paper
 
 ![A slightly open Galaxy Z Fold 5 on a bookshelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-slightly-open-galaxy-z-fold-5-on-a-bookshelf.jpg) 
@@ -87,12 +100,18 @@ Bertel King / How-To Geek
 
  The world is dealing with a looming environmental disaster, and we can prevent it by conserving trees. While I love reading paper books, and they still hold a special place in my heart, I don't think destroying the planet for my hobby is fair. Ebooks are all electronic, and while they still consume power, they [cause less overall environmental damage](https://ecobravo.co.uk/blogs/blog/7-surprisingly-amazing-environmental-benefits-of-e-books). I've learned how much my actions could hurt the planet, so I'm taking this stand to reduce it by just a little.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Accessibility and Comfort Features
 
  I mentioned setting my text size and style earlier, but ebooks also allow for many other features that improve accessibility and ease of use. For example, I could keep a cookbook open to a particular page without worrying about spilling anything on it and obliterating the recipe.
 
  I also enjoy reading at night before bed. With most eReaders, a backlight helps with letting me see the words while I go through the story. It also means that I don't have to disturb anyone else by leaving a light on or using a tiny flashlight, which may potentially damage my eyesight.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I'm Not Saying You Should But...
 
  People should always have the choice to decide what they want to do. I appreciate physical books a lot. I still have some of my original collection, although it's much diminished since I shifted to an e-library. Still, the benefits that ebooks offer can't be understated. As much as I love paper books, ebooks have proven to me that they're worth it.
@@ -111,3 +130,55 @@ Bertel King / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel-for-2024/"><u>[New] Beginning Basics  The Ultimate Guide to Starting a Reviews-Centric YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/anking-the-most-effortlessly-successful-youtube-content-for-2024/"><u>[New] Ranking the Most Effortlessly Successful YouTube Content for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-professional-video-editing-mastery-of-strikethrough-annotations/"><u>[Updated] 2024 Approved  Professional Video Editing  Mastery of Strikethrough Annotations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-your-channels-earning-potential-through-trailers/"><u>[Updated] Maximizing Your Channel's Earning Potential Through Trailers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-cheap-vr-headsets-from-china/"><u>2024 Approved  Cheap VR Headsets From China?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieve-your-fitness-goals-using-the-versatile-fitbit-versa-3-equipped-with-built-in-gps-and-comprehensive-wellness-apps/"><u>Achieve Your Fitness Goals Using the Versatile Fitbit Versa 3 - Equipped with Built-In GPS & Comprehensive Wellness Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/amazing-savings-alert-premier-tribit-audio-gear-at-unbeatable-prices-this-prime-day/"><u>Amazing Savings Alert! Premier Tribit Audio Gear at Unbeatable Prices This Prime Day</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-kindle-paperwhite-2018-review-a-leap-forward-for-digital-reading/"><u>Amazon Kindle Paperwhite 2018 Review - A Leap Forward for Digital Reading</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazonbasics-flat-tv-antenna-review/"><u>AmazonBasics Flat TV Antenna Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/binge-eating-disorder/"><u>Binge Eating Disorder;</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-the-quiet-barrier-effective-techniques-for-restoring-your-laptops-audio-output/"><u>Breaking the Quiet Barrier: Effective Techniques for Restoring Your Laptop's Audio Output</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-between-google-assistant-and-alexa-a-comprehensive-guide/"><u>Choosing Between Google Assistant and Alexa - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-rca-video-doorbell-camera-for-modern-homes/"><u>Comprehensive Evaluation of the RCA Video Doorbell Camera for Modern Homes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-how-does-the-google-pixel-4a-stack-up-against-other-smartphones/"><u>Comprehensive Guide: How Does the Google Pixel 4a Stack Up Against Other Smartphones?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-differences-how-ipad-pro-stands-against-microsofts-surface-pro/"><u>Decoding the Differences: How iPad Pro Stands Against Microsoft's Surface Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-and-driver-download-for-techkey-usb-bluetooth-adapter-works-with-win10-win7-win8/"><u>Easy Installation Guide & Driver Download for Techkey USB Bluetooth Adapter - Works with Win10, Win7, Win8</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-revolutionary-lenovo-thinkpad-x1-fold-stunning-features-and-slight-shortcomeings/"><u>Evaluating the Revolutionary Lenovo ThinkPad X1 Fold: Stunning Features and Slight Shortcomeings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exemplar-elevation-elite-tripod-examination/"><u>Exemplar Elevation: Elite Tripod Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-ergohead-standing-pad-for-extended-use-at-your-workspace-what-you-need-to-know/"><u>Expert Review of Ergohead Standing Pad for Extended Use at Your Workspace: What You Need to Know</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-high-flying-entertainment-at-home-with-the-syma-107g-mini-rc-helicopter-a-cost-effective-way-to-fly/"><u>Explore High-Flying Entertainment at Home with the Syma 107G Mini RC Helicopter: A Cost-Effective Way to Fly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-wi-fi-mesh-connectivity-alternatives/"><u>Exploring Wi-Fi Mesh Connectivity Alternatives</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fresh-release-of-80211n-wi-fi-networking-drivers-optimized-for-windows-111087-free-download/"><u>Fresh Release of 802.11N Wi-Fi Networking Drivers, Optimized for Windows 11/10/8/7 - Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-bluetooth-adaptor-drivers-for-your-windows-device/"><u>Get the Most Recent Bluetooth Adaptor Drivers for Your Windows Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-to-know-the-newly-launched-cycwagen-e-bike-with-a-comprehensive-interactive-review/"><u>Get to Know The Newly Launched CycWagen E-Bike with a Comprehensive, Interactive Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-12-mini-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 12 mini Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-and-save-voices-on-iphone-efficiently/"><u>How to Record & Save Voices on iPhone Efficiently</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-logitech-c615-webcam-analysis-balancing-cost-and-quality/"><u>In-Depth Logitech C615 Webcam Analysis - Balancing Cost & Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/journey-in-style-canons-powershot-g9x-mark-ii-reviewed/"><u>Journey in Style – Canon's PowerShot G9X Mark II Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-mesh-wireless-routers-ultimate-guide-to-the-2024-market-bestsellers/"><u>Leading Mesh Wireless Routers: Ultimate Guide to the 2024 Market Bestsellers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mobvoi-ticwatch-e2-assessment-affordable-yet-disappointing-value/"><u>Mobvoi TicWatch E2 Assessment: Affordable Yet Disappointing Value</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-highlights-for-the-smart-and-stunning-un65ru8000fxza-from-samsungs-repertoire/"><u>Review Highlights for the Smart and Stunning UN65RU8000FXZA From Samsung's Repertoire</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionizing-mac-data-recovery-intuitive-interface-superior-results/"><u>Revolutionizing Mac Data Recovery - Intuitive Interface, Superior Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/small-code-improvements-or-big-leaps-in-functionality/"><u>Small Code Improvements or Big Leaps in Functionality?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-resolution-for-ralink-rt3290-driver-compatibility-in-windows-1187-environments/"><u>Step-by-Step Resolution for Ralink RT3290 Driver Compatibility in Windows 11/8/7 Environments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-showdown-which-is-better-for-you-the-reliable-galaxy-s10plus-or-the-cutting-edge-s20/"><u>Tech Showdown: Which Is Better for You - The Reliable Galaxy S10+ or the Cutting-Edge S20?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-guide-to-the-google-pixelbook-go-masterful-execution-challenging-price-tag/"><u>The Complete Guide to the Google Pixelbook Go - Masterful Execution, Challenging Price Tag</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-operating-and-installing-your-blink-4w-outdoor-security-camera/"><u>The Definitive Guide to Operating and Installing Your Blink 4W Outdoor Security Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-true-cost-of-innovation-evaluating-the-samsung-un65nu8000fxzas-performance-and-worthiness/"><u>The True Cost of Innovation: Evaluating the Samsung UN65NU8000FXZA's Performance and Worthiness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essentials-smart-tips-when-shopping-for-pre-owned-apple-tablets/"><u>Top 5 Essentials: Smart Tips When Shopping for Pre-Owned Apple Tablets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-alternatives-to-microsoft-office-the-ultimate-guide/"><u>Top Alternatives to Microsoft Office : The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-leading-external-blu-ray-drives-in-the-market-2024-edition/"><u>Top Picks: Leading External Blu-Ray Drives in the Market - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-exterior-disc-players-the-ultimate-guide-to-2024s-best-optical-drives/"><u>Top Rated Exterior Disc Players - The Ultimate Guide to 2024'S Best Optical Drives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-traits-for-high-performance-gaming-devices/"><u>Top Traits for High-Performance Gaming Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-resolve-parse-errors-in-your-android-project-with-these-8-strategies/"><u>Troubleshoot and Resolve Parse Errors in Your Android Project with These 8 Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-portable-ourlink-u631-mini-wi-fi-stick-for-fast-and-secure-internet-access/"><u>Ultra-Portable Ourlink U631 Mini Wi-Fi Stick for Fast and Secure Internet Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-core-gaming-keyboard-features/"><u>Unveiling Core Gaming Keyboard Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubes-everlasting-titles-with-millions-of-viewers-for-2024/"><u>YouTube's Everlasting Titles with Millions of Viewers for 2024</u></a></li>
+</ul></div>

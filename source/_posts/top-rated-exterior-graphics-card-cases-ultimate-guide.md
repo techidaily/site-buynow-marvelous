@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Exterior Graphics Card Cases: Ultimate Guide"
-date: 2024-08-28 19:15:46
-updated: 2024-08-29 10:21:17
+date: 2024-08-31T17:25:31.913Z
+updated: 2024-09-01T17:25:31.913Z
 tags:
   - buying-guides
 categories:
@@ -97,6 +97,9 @@ Aside from extra connectivity, the Razer Core X offers everything one might need
 
 [See at Amazon](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B08J5J8C1H/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  Best Budget External GPU Enclosure: [Akitio Node Titan](https://www.akitio.com/expansion/node-titan) 
 
 ![Akitio Node Titan Against a light blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/akitio-node-titan-featured.png) 
@@ -119,6 +122,9 @@ _Akitio_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget External GPU Enclosure
 
 #####  AKiTiO Node Titan
@@ -150,8 +156,16 @@ _Sonnet_
 
 ![Sonnet eGPU Breakaway Box 750ex front side photo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/sonnet-egpu-breakaway-box-750ex-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Best External GPU Enclosure for Laptops
 
 #####  Sonnet eGPU Breakaway Box 750ex
@@ -160,6 +174,9 @@ The Sonnet eGPU Breakaway Box 750ex includes a powerful PSU, support for dual sl
 
 [See at Amazon](https://www.amazon.com/Sonnet-eGPU-Breakaway-Box-750ex/dp/B08Q755RQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ##  Best External GPU Enclosure for Gaming: [Razer Core X Chroma](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B07Q78VMPW/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
 ![Razer Core X Chroma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-chroma.png) 
@@ -185,6 +202,9 @@ _Razer_
 
 ![Razer Core X Chroma RGB eGPU Enclosure Front Side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-chroma-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best External GPU Enclosure for Gaming
@@ -229,18 +249,30 @@ Instead of being an empty eGPU box, the Gigabyte AORUS RTX 4090 Gaming Box packs
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Are external GPUs and eGPUs the same?
 
  External GPUs and eGPUs are the same. The two terms are used interchangeably for external graphics cards that you can hook to a PC. They can be custom designs that you cannot upgrade with a new GPU, such as ASUS’ XG Mobile products, or they can be regular GPUs housed inside eGPU enclosures. eGPU enclosures are housings inside which you can slot an external GPU. eGPU enclosures can come with a pre-installed GPU, but in most cases, you have to provide the GPU yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How do I connect an external GPU to my laptop or MacBook?
 
  eGPU enclosures use [Thunderbolt 3](https://extra-support.techidaily.com/new-quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/) standard to connect to laptops and Intel-based MacBooks. To connect an external GPU to your laptop or MacBook, plug a Thunderbolt cable into two Thunderbolt ports located on the eGPU enclosure and on your laptop or Intel-based Macbook.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can I use an internal GPU as an external one?
 
  You can. As long as the enclosure can fit it, you can use any desktop-class internal GPU with an external GPU enclosure.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Do all GPUs work with all CPUs?
 
  Most modern GPUs work with every x86 CPU. That said, make sure that your CPU and GPU are somewhat similar in power to avoid [creating a bottleneck](https://tech-recovery.techidaily.com/troubleshooting-windows-11-what-to-do-if-your-system-fails-to-shut-down/) on either side.
@@ -259,3 +291,53 @@ Instead of being an empty eGPU box, the Gigabyte AORUS RTX 4090 Gaming Box packs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-convenient-methods-for-recording-playtime-footage/"><u>[New] Convenient Methods for Recording Playtime Footage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-fostering-fandom-creating-jujutsu-kaisen-content-for-tiktok/"><u>[New] Fostering Fandom  Creating Jujutsu Kaisen Content for TikTok</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expert-strategies-for-effective-gopro-time-lapse-footage/"><u>[New] In 2024, Expert Strategies for Effective GoPro Time-Lapse Footage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-hotfirebox-screenshot-extensions/"><u>[New] In 2024, HotFirebox Screenshot Extensions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-muting-unwanted-noise-obs-audio-solution/"><u>[New] In 2024, Muting Unwanted Noise  OBS Audio Solution</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-infinite-snaps-ensuring-a-lasting-snapchat-connection-for-2024/"><u>[New] Infinite Snaps  Ensuring a Lasting Snapchat Connection for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-up-your-podcast-game-with-expert-guidance-on-zooming-into-quality/"><u>[New] Step Up Your Podcast Game with Expert Guidance on Zooming Into Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-android-and-ios-leading-titles-mimicking-playstation-games/"><u>[Updated] 2024 Approved  Android & iOS  Leading Titles Mimicking PlayStation Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-wildlife-documentary-contenders-hero5-black-vs-sj7-for-2024/"><u>[Updated] Wildlife Documentary Contenders  Hero5 Black Vs SJ7 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aesthetic-windowscape-top-picks-for-stunning-laptop-screen-designs-for-2024/"><u>Aesthetic Windowscape  Top Picks for Stunning Laptop Screen Designs for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-a-comprehensive-review-of-the-arcshell-ar-5/"><u>Affordable Excellence: A Comprehensive Review of the Arcshell AR-5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capturing-clarity-on-camera-an-insightful-review-of-google-pixel-6/"><u>Capturing Clarity on Camera? An Insightful Review of Google Pixel 6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/clearstreams-eclipse-antenna-review-impressive-functionality-packaged-in-ultimate-ease-of-use/"><u>ClearStream's Eclipse Antenna Review: Impressive Functionality Packaged in Ultimate Ease of Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-dbpower-600a-18000mah-capacity-rechargeable-battery-pack-expert-review/"><u>Comprehensive DBPower 600A, 18000mAh Capacity Rechargeable Battery Pack - Expert Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-samsungs-latest-tablet-galaxy-tab-s7-tailored-for-true-android-admirers/"><u>Comprehensive Review of Samsung's Latest Tablet, Galaxy Tab S7 – Tailored for True Android Admirers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-effective-linkedin-learning-classes-for-a-successful-year-ahead/"><u>Discover the Most Effective LinkedIn Learning Classes for a Successful Year Ahead</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-enhancements-for-terria-pros-for-2024/"><u>Essential Enhancements for Terria Pros for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-forerunner-45-for-dedicated-runners/"><u>Garmin Forerunner 45 for Dedicated Runners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hear-the-world-spend-less-revealing-paww-series-3-wonders/"><u>Hear the World, Spend Less: Revealing Paww Series 3 Wonders</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-2-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 2 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-shop-smart-the-ultimate-list-of-reliable-phone-retailers/"><u>How to Shop Smart: The Ultimate List of Reliable Phone Retailers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-s23-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel S23 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>In 2024, A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-15-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 15 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quicktime-stop-screen-recording-guide/"><u>In 2024, Quicktime Stop Screen Recording (Guide)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-languages-through-visual-narratives/"><u>Learning Languages Through Visual Narratives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/macbook-showdown-identifying-key-distinctions-between-air-and-pro-models/"><u>MacBook Showdown: Identifying Key Distinctions Between Air and Pro Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/most-advanced-combo-of-cable-modems-and-routers-market/"><u>Most Advanced Combo of Cable Modems & Routers Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-power-dynamics-within-tropico-6-steering-a-fictional-paradise/"><u>Navigating Power Dynamics Within Tropico 6: Steering a Fictional Paradise</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portability-meets-precision-the-ideal-blend-of-functionality-in-sabrents-mini-travel-mouse-for-seamless-navigation/"><u>Portability Meets Precision: The Ideal Blend of Functionality in Sabrent's Mini Travel Mouse for Seamless Navigation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/spectrum-of-autonomous-flight-machines-for-2024/"><u>Spectrum of Autonomous Flight Machines for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-budget-tp-link-wireless-repeater-re200-reviewed-is-it-a-steal/"><u>The Best Budget TP-Link Wireless Repeater (RE200) Reviewed – Is It a Steal?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-comprehensive-review-of-the-linksys-ac1900-top-choice-in-home-and-office-routers/"><u>The Comprehensive Review of the Linksys AC1900 – Top Choice in Home and Office Routers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-cycwagens-latest-innovation-an-exclusive-test-drive-of-the-electric-cargo-e-bike/"><u>The Ultimate Guide to CycWagen's Latest Innovation - An Exclusive Test Drive of the Electric Cargo E-Bike</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-virtual-reality-archivists-handbook-for-game-recordings/"><u>The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-f25-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo F25 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-combo-cable-modem-and-router-models/"><u>Top-Rated Combo Cable Modem and Router Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-htpc-systems-a-comprehensive-guide/"><u>Top-Rated HTPC Systems : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tough-and-stylish-sunbritetv-55/"><u>Tough & Stylish SunBriteTV 55</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-home-security-on-a-shoestring-the-remobell-doorbell-reviewed/"><u>Transforming Home Security on a Shoestring – The RemoBell Doorbell Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-endless-communication-try-tango-for-zero-cost-talks-and-texts/"><u>Unlock Endless Communication - Try Tango for Zero Cost Talks and Texts!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-mystery-of-vyncs-links-user-experience-and-subscriptions/"><u>Unraveling the Mystery of Vyncs Link's User Experience & Subscriptions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-oneplus-8t-a-rapid-device-with-cameras-needing-improvement/"><u>Unveiling the OnePlus 8T: A Rapid Device with Cameras Needing Improvement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vyncs-tracking-tool-evaluation-dependable-software-with-puzzling-membership-options/"><u>Vyncs Tracking Tool Evaluation: Dependable Software with Puzzling Membership Options</u></a></li>
+</ul></div>

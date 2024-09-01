@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-08-27 13:48:24
-updated: 2024-08-29 12:24:15
+date: 2024-08-31T17:29:42.074Z
+updated: 2024-09-01T17:29:42.074Z
 tags:
   - games
   - tv
@@ -39,17 +39,26 @@ Tim Brookes / How-To Geek
 
  Now, however, gamers often use the term "walking simulator" for titles that are true games. For example, _Death Stranding_ is as much a game as _Skyrim_ but because the main game mechanic is traversal and overcoming obstacles and enemies on your route, it's erroneously dubbed a walking sim. If you're interested in true walking simulators, our friends over at GameRant have a great list of the [best walking simulators that everyone should play](https://gamerant.com/best-walking-simulators/). 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Simulation
 
  This is a tricky one, because simulation is something that happens on a spectrum. At the most extreme end, you get pure simulators such as _Microsoft Flight Simulator_ which tries to be a serious and true digital reproduction of what flying a plane is really like. Generally, pure simulations like these allow you to learn the real world skills you'd need to actually do the thing in real life.
 
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 _Microsoft Flight Simulator 2020_  
 Tim Brookes / How-To Geek
 
  However, people in the gaming world throw this word around a little liberally. There's the tongue-in-cheek stuff like _Surgeon Simulator_ where the joke is that it's the opposite of a simulator, but then there's a fuzzy area where some games that have a veneer of realism are referred to as simulators as well. Add to this, that simulation fidelity can vary and games often have very simplified simulations of some things in service of gameplay, and not realism, and it's easy to apply the term where it doesn't belong.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Isometric
 
  "Isometric" games use a special 2D projection angle to create the impression of 3D spaces. Many classical CRPGs and tactical strategy games used this perspective before the advent of true 3D graphics. In one way or another, this term has become attached to those genres, even to games with non-isometric viewpoints, such as top-down titles.
@@ -60,6 +69,9 @@ Interplay/Bethesda Softworks
 
  The silliest use I've seen myself is in reference to _Baldur's Gate 3,_which is a true 3D game, with a movable camera that can be moved from a top-down perspective all the way down to an over-the-shoulder view. So it's not isometric in any sense of the word. To be even more pedantic, many "isometric" games from the classic gaming era weren't isometric either. The first _Fallout_ game, for example, was trimetric.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  RPG
 
  Role-Playing Games (RPGs) are a popular genre of game you can find in both tabletop, video game, and live-action formats. Players assume the role of a character in a fictional setting, and then explore that world, making choices, and pursuing quests and goals. These games are built on a game rules framework, such as [Dungeons & Dragons](https://dnd.wizards.com/) or [GURPS](https://www.sjgames.com/gurps/).
@@ -77,6 +89,9 @@ Tim Brookes / How-To Geek
 
 ![Helldivers 2 by Arrowhead Game Studios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/helldivers2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 _Helldivers 2_  
 Arrowhead Game Studios
 
@@ -102,12 +117,18 @@ Arrowhead Game Studios
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
 
 [Ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) is a graphics rendering technique that simulates how light in the real world interacts with objects. It's the closest we've come to truly photorealistic graphics, but plenty of people can't tell when something is an example of ray tracing or not. There's a misconception that any reflections in a game that look realistic means the game has ray tracing, but that's simply not true. To muddy things even more, ray tracing can be applied selectively to global lights like the sun, to local light, to reflections, and to shadows. For example, many games with ray tracing on current-generation consoles have ray-traced shadows, but not reflections. Yet many players think the reflections are ray-traced. Here's a tip: ray-traced reflections usually reflect objects that are not currently visible on-screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Indie Games
 
  I saved the best for last, since it's becoming unclear what the actual meaning of "Indie" game is. Traditionally, an indie game is an independent game. This means the studio that developed the game is not owned by a publisher or parent company. There is no creative control or interference from outside the developer, such as financiers or shareholders.
@@ -130,3 +151,39 @@ Cianna Garrison / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-understanding-facebook-reels-and-their-production-techniques/"><u>[New] 2024 Approved  Understanding Facebook Reels and Their Production Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-15-luts-to-perfect-gopro-cinematic-shots/"><u>[New] Prime 15 LUTs to Perfect GoPro Cinematic Shots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foundations-first-what-to-invest-in-for-youtubing-for-2024/"><u>[Updated] Foundations First  What To Invest In for YouTubing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[Updated] In 2024, Stream Success Starts Here  Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/1716187062170-updated-mastering-instagrams-latest-trends-reels-and-stories-for-2024/"><u>[Updated] Mastering Instagram’s Latest Trends  Reels & Stories for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-charismatic-charm-of-moving-text-on-screen/"><u>2024 Approved  Charismatic Charm of Moving Text on Screen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-the-maze-of-srt-to-xml-ssa-ttml-conversions/"><u>2024 Approved  Navigating the Maze of SRT-to-XML, SSA, TTML Conversions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-iphones-for-gamers-ranking-top-devices-for-mobile-gaming-excellence/"><u>Best iPhones for Gamers: Ranking Top Devices for Mobile Gaming Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-petsafe-automatic-feeder-a-smart-choice-for-your-pets-dietary-management/"><u>Comprehensive Review of the PetSafe Automatic Feeder: A Smart Choice for Your Pet's Dietary Management</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/dealing-with-disconnected-live-video-sessions-on-facebook/"><u>Dealing with Disconnected LIVE Video Sessions on Facebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-fitness-routine-with-garmin-vivoactive-3-exercise-and-enjoy-quality-sound/"><u>Enhancing Your Fitness Routine with Garmin Vivoactive 3: Exercise and Enjoy Quality Sound</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-reliable-mirari-child-sized-wake-up-buddy/"><u>Expert Insights on the Reliable Mirari Child-Sized Wake-Up Buddy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fashion-forward-and-fitness-ready-an-in-depth-look-at-the-amazfit-gts-performance/"><u>Fashion-Forward & Fitness-Ready: An In-Depth Look at the Amazfit GTS Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/galaxy-tab-s3s-worth-in-todays-market-an-in-depth-product-assessment/"><u>Galaxy Tab S3's Worth in Today's Market: An In-Depth Product Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/guide-sharing-your-xbox-one-game-library-with-pals/"><u>Guide: Sharing Your Xbox One Game Library with Pals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hc-wxf991-camcorder-a-new-era-in-video-clarity/"><u>HC-WXF991 Camcorder: A New Era in Video Clarity</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-rectangular-channels-a-is-width-times-depth-and-p-is-the-sum-of-all-sides-in-contact-with-water/"><u>In Rectangular Channels, A Is Width Times Depth and P Is the Sum of All Sides in Contact with Water</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kobo-forma-unveiled-taking-reading-seriously-with-advanced-ereader-technology/"><u>Kobo Forma Unveiled: Taking Reading Seriously with Advanced eReader Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-immersion-with-oculus-quest-2-exceptional-value-for-vr-enthusiasts/"><u>Next-Level Immersion with Oculus Quest 2: Exceptional Value for VR Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-book-one-evaluation-portable-powerhouse-performance-exposed/"><u>Razer Book One Evaluation: Portable Powerhouse Performance Exposed</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-paper-jams-and-misprints-on-windows-10/"><u>Resolve Paper Jams & Misprints on Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-holy-stone-remote-control-toy-racecar-perfect-family-entertainment/"><u>Review of Holy Stone Remote Control Toy Racecar - Perfect Family Entertainment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-troubleshooting-unlocking-and-accessing-blocked-game-files/"><u>Steam Troubleshooting: Unlocking and Accessing Blocked Game Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/taking-your-book-habit-to-new-heights-with-kobo-forma-a-focused-review-for-the-avid-reader/"><u>Taking Your Book Habit to New Heights with Kobo Forma - A Focused Review for the Avid Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-power-surge-discovering-the-enhanced-capabilities-of-the-apple-macbook-pro-m1-202-cuinty-thorough-evaluation/"><u>The Power Surge: Discovering the Enhanced Capabilities of the Apple MacBook Pro (M1, 202 Cuinty) - Thorough Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tiny-turntable-thick-impact-the-lx310bt-review/"><u>Tiny Turntable, Thick Impact: The LX310BT Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-x100-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo X100 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-computing-the-revolutionary-imac-featuring-apples-m1-technology/"><u>Transforming Computing: The Revolutionary iMac Featuring Apple's M1 Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-value-discover-if-chatgpt-plus-membership-is-worth-your-time-and-why-you-should-enroll-today/"><u>Unlocking the Value: Discover If ChatGPT Plus Membership Is Worth Your Time and Why You Should Enroll Today!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-a-thorough-review-of-the-amazonbasics-high-security-micro-cut-paper-destroyer-with-12-sheet-capacity/"><u>Unveiling the Secrets: A Thorough Review of the AmazonBasics High-Security, Micro Cut Paper Destroyer with 12 Sheet Capacity</u></a></li>
+</ul></div>
