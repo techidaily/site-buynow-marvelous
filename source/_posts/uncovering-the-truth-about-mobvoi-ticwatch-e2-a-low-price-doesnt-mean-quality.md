@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2024-08-31T17:32:43.401Z
-updated: 2024-09-01T17:32:43.401Z
+date: 2024-09-04T20:11:17.177Z
+updated: 2024-09-05T20:11:17.177Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -66,15 +66,18 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WPjeQmKmzof_KVFE5_fIwN92cXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_05-24f7f07146ae45cd86d2c5bdd4791ee5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  Unfortunately, some larger keyboards can trade wrist injuries for shoulder injuries as their users overreach for mice, which brings a whole new set of problems to the table. While it may be a bit of a space hog, and not a terribly sleek or attractive one at that, the Fellowes Microban Split Wired Keyboard has solved both of these issues. What’s more, its ergonomic split design is easy to use and surprisingly comfortable.
@@ -91,19 +94,23 @@ Lifewire / Emily Isaacs
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Connectivity: A wired connection for reliability**
 
@@ -112,7 +119,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: A budget-friendly ergonomic keyboard**
 
@@ -127,7 +137,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/9Ei30bgFst4sw8SynCxgEI_b-9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_04-eff22d3b32274568890dd291e56daab5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
@@ -146,7 +159,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

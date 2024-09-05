@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Exterior Graphics Card Cases: Ultimate Guide"
-date: 2024-08-31T17:25:31.913Z
-updated: 2024-09-01T17:25:31.913Z
+date: 2024-09-04T20:11:19.480Z
+updated: 2024-09-05T20:11:19.480Z
 tags:
   - buying-guides
 categories:
@@ -97,13 +97,16 @@ Aside from extra connectivity, the Razer Core X offers everything one might need
 
 [See at Amazon](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B08J5J8C1H/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  Best Budget External GPU Enclosure: [Akitio Node Titan](https://www.akitio.com/expansion/node-titan) 
 
 ![Akitio Node Titan Against a light blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/akitio-node-titan-featured.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Akitio_
 
 | Pros                 | Cons                                            |
@@ -123,7 +126,16 @@ _Akitio_
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Budget External GPU Enclosure
 
@@ -157,15 +169,13 @@ _Sonnet_
 ![Sonnet eGPU Breakaway Box 750ex front side photo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/sonnet-egpu-breakaway-box-750ex-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Best External GPU Enclosure for Laptops
 
 #####  Sonnet eGPU Breakaway Box 750ex
@@ -175,12 +185,27 @@ The Sonnet eGPU Breakaway Box 750ex includes a powerful PSU, support for dual sl
 [See at Amazon](https://www.amazon.com/Sonnet-eGPU-Breakaway-Box-750ex/dp/B08Q755RQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best External GPU Enclosure for Gaming: [Razer Core X Chroma](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B07Q78VMPW/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
 ![Razer Core X Chroma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-chroma.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Razer_
 
 | Pros                          | Cons     |
@@ -202,9 +227,6 @@ _Razer_
 
 ![Razer Core X Chroma RGB eGPU Enclosure Front Side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-chroma-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best External GPU Enclosure for Gaming
@@ -215,10 +237,22 @@ The Core X Chroma from Razer is a high-end eGPU enclosure that looks sleek, feat
 
 [See at Amazon](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B07Q78VMPW/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best External GPU: [Gigabyte AORUS RTX 4090 Gaming Box](https://www.gigabyte.com/Graphics-Card/GV-N4090IXEB-24GD#kf) 
 
 ![Gigabyte Aorus Gaming Box sitting on a gaming desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/gigabyte-aorus-gaming-box.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Gigabyte_
 
 | Pros                                | Cons                                                  |
@@ -250,28 +284,34 @@ Instead of being an empty eGPU box, the Gigabyte AORUS RTX 4090 Gaming Box packs
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Are external GPUs and eGPUs the same?
 
  External GPUs and eGPUs are the same. The two terms are used interchangeably for external graphics cards that you can hook to a PC. They can be custom designs that you cannot upgrade with a new GPU, such as ASUS’ XG Mobile products, or they can be regular GPUs housed inside eGPU enclosures. eGPU enclosures are housings inside which you can slot an external GPU. eGPU enclosures can come with a pre-installed GPU, but in most cases, you have to provide the GPU yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How do I connect an external GPU to my laptop or MacBook?
 
  eGPU enclosures use [Thunderbolt 3](https://extra-support.techidaily.com/new-quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/) standard to connect to laptops and Intel-based MacBooks. To connect an external GPU to your laptop or MacBook, plug a Thunderbolt cable into two Thunderbolt ports located on the eGPU enclosure and on your laptop or Intel-based Macbook.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can I use an internal GPU as an external one?
 
  You can. As long as the enclosure can fit it, you can use any desktop-class internal GPU with an external GPU enclosure.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Do all GPUs work with all CPUs?
 

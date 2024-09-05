@@ -1,7 +1,7 @@
 ---
 title: "Expert Picks: The Ultimate List of PC Gaming Joystick Devices"
-date: 2024-08-31T17:26:31.165Z
-updated: 2024-09-01T17:26:31.166Z
+date: 2024-09-04T20:11:20.905Z
+updated: 2024-09-05T20:11:20.905Z
 tags:
   - buying-guides
 categories:
@@ -84,6 +84,12 @@ Best PC Fight Stick
 
 [![Xbox controller next to mechanical keyboard on space mousepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52793170929_f470cfca02_o.jpg) Elizabeth Henges / How-To Geek Elizabeth Henges / Review Geek Elizabeth Henges / LifeSavvy](https://www.amazon.com/Xbox-Core-Controller-Carbon-Black-one/dp/B08DF248LD?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.amazon.com/Xbox-Core-Controller-Carbon-Black-one/dp/B08DF248LD?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
 | Pros               | Cons                                 |
@@ -102,9 +108,6 @@ Best PC Fight Stick
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 Best Overall PC Controller
 
 #####  Xbox Wireless Controller
@@ -115,13 +118,16 @@ A modern classic, the Xbox controller is practical, easy to use and reliable, ma
 
 [$46 at Amazon](https://www.amazon.com/Xbox-Core-Controller-Carbon-Black-one/dp/B08DF248LD?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fxbox%255Fseries%255Fxs%255Fwirel%2F-%2FA-80744784) [See at adorama](https://adorama.rfvk.net/c/156932/51926/1036?subId1=UUhtgUeUpU207719&subId2=ehtg&u=https%3A%2F%2Fwww.adorama.com%2Fxbqat00001.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Budget PC Controller: [8Bitdo Ultimate C 2.4g Wireless Controller](https://www.amazon.com/Ultimate-Wireless-Controller-Windows-PC-Raspberry/dp/B0C2V6JLNJ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
 ![8bitdo ultimate c 2.4g](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _8bitdo_
 
 | Pros                            | Cons                                                                            |
@@ -145,10 +151,19 @@ _8bitdo_
 ![8bitdo ultimate c 2.4g](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8bitdo-ultimate-c-2-4g.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget PC Controller
 
 #####  8Bitdo Ultimate C Wireless Controller
@@ -158,7 +173,10 @@ The 8bitDo Ultimate C Controller is one of the best budget PC controllers around
 [$30 at Amazon](https://www.amazon.com/dp/B0C2V6JLNJ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Premium PC Controller: [Xbox Elite Series 2](http://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
@@ -186,9 +204,6 @@ The 8bitDo Ultimate C Controller is one of the best budget PC controllers around
 
 ![xbox elite controller 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/xbox-elite-controller-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Premium Controller
@@ -205,6 +220,18 @@ The ultimate Xbox controller features adjustable tension thumbsticks, additional
 
 ![SCUF ENVISION 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/scuf-envision-01.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _SCUF_
 
 | Pros                                           | Cons                                      |
@@ -227,27 +254,19 @@ _SCUF_
 
 ![SCUF ENVISION](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/scuf-envision.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Wired PC Controller
 
@@ -264,7 +283,10 @@ Among the wired PC controllers, the SCUF ENVISION is a rare premium option. Supe
 [![8Bitdo Pro 2 wireless controller in hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52747881260_dc28f8fe69_o.jpg) Jordan Gloor / How-To Geek Jordan Gloor / Review Geek Jordan Gloor / LifeSavvy](https://www.amazon.com/Wireless-Bluetooth-Controller-Joysticks-Vibration/dp/B093B9F9HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [](https://www.amazon.com/Wireless-Bluetooth-Controller-Joysticks-Vibration/dp/B093B9F9HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
@@ -286,9 +308,6 @@ Among the wired PC controllers, the SCUF ENVISION is a rare premium option. Supe
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best PC Controller for Retro Gaming
 
 #####  8Bitdo Pro 2 Bluetooth Controller
@@ -323,8 +342,26 @@ _Thrustmaster_
 
 ![Thrustmaster USB T.16000M FCS 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/thrustmaster-usb-t-16000m-fcs-01.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best PC Controller for Flight Simulators
 
 #####  Thrustmaster T16000M FCS Flight Pack
@@ -333,15 +370,15 @@ A classic favorite that has stood the test of time, the Thrustmaster T16000M FCS
 
 [$260 at Amazon](https://www.amazon.com/Thrustmaster-T16000M-FCS-Flight-Pack/dp/B01N2PE8CZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best PC Fight Stick: [HORI Fighting Stick α](https://www.amazon.com/HORI-PlayStation-Fighting-Stick-Alpha-5/dp/B08NDVGXGB?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
 ![HORI Fighting Stick alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hori-fighting-stick-alpha.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _HORI_ 
 
@@ -366,12 +403,18 @@ _HORI_
 ![HORI Fighting Stick alpha 01-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hori-fighting-stick-alpha-01-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best PC Fight Stick
 

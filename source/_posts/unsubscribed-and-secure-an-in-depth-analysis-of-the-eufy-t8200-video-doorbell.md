@@ -1,7 +1,7 @@
 ---
 title: "Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
-date: 2024-08-31T17:32:49.949Z
-updated: 2024-09-01T17:32:49.949Z
+date: 2024-09-04T20:11:17.065Z
+updated: 2024-09-05T20:11:17.065Z
 categories:
   - BestProducts
 description: "This Article Describes Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
@@ -74,6 +74,12 @@ Lifewire / Jason Schneider
 
  Lifewire / Jason Schneider
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Slightly bulky with a couple of nice touches**
 
  The first thing you’ll notice about this laptop is just how large it is. That’s mostly to be expected, because it does sport a 15.6-inch display, meaning the chassis has to be at least that big. But the large, approximately 1-inch bezels around the screen make it pretty large, even considering the expected footprint.
@@ -83,7 +89,10 @@ Lifewire / Jason Schneider
  The hinge is actually two small contact points that roll into the laptop chassis, which feels dated when the laptop is open but makes it look interesting when it’s closed. The whole laptop is made of plastic, and measures right around one 1-inch thick, weighing in at almost 4.5 pounds. That’s a double-edged sword because while the laptop feels really sturdy and premium despite the plastic material, it isn’t terribly portable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: As seamless as a mobile device**
 
@@ -92,7 +101,10 @@ Lifewire / Jason Schneider
  The device first asks you to set your regions, then connect to a Wi-Fi network, then finally to sign into a Google account and set up permissions. From here it drops you basically immediately to the Chromebook home screen where you can either dive right in, or follow the popup tour given by Google. One thing I liked a lot about this was that Google gives you a short three-popup tour to start, then asks if you’d like to go deeper or just jump right into the machine yourself. This staged version of a device tour is a great way to let you, the user, tailor it to your preferences. This also makes it great for an older-aged tech user who might need a bit of hand-holding as they get to know their laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Display: Big, bright, and better than you might think**
 
@@ -103,7 +115,10 @@ Lifewire / Jason Schneider
  The whole laptop is made of plastic, and measures right around 1-inch thick, weighing in at almost 4.5 pounds.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Really solid, to a point**
 
@@ -122,16 +137,10 @@ Lifewire / Jason Schneider
  I am a little annoyed with the “search” key that Chromebooks placed where a caps lock key should be--resulting in a lot of accidental search callups. The trackpad also leaves a bit to be desired, requiring a firm, chunky press, and doesn’t support as many gestures as Windows or OSX.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Audio: An unexpected letdown**
 
@@ -148,7 +157,10 @@ Lifewire / Jason Schneider
  As far as ports go, there are the requisite AC power and 3.5mm headphone input ports, plus a full[HDMI output](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) for connecting an external monitor. There are also two USB 3.0 ports—one on each side—for increased data transfer speeds. I would have liked to see at least one[USB Type-C port](https://www.lifewire.com/usb-c-4149490) , as the mobile industry is heading decidedly in that direction, but it isn’t the end of the world. There’s also a full-sized SD card slot to help expand the storage of the device, which is important considering how little space is available on the device itself. Overall, this thing checks most of the boxes, though with the large chassis it would have been nice to have seen just a few more I/O options.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera: Grainy, but passable**
 
@@ -170,15 +182,24 @@ Lifewire / Jason Schneider
 
  That said, the Chromebook 15 runs so well, though likely only because of the lightweight operating system and limited app capabilities. Chrome OS is kind of like just using a Chrome window with a bunch of tabs on a regular PC. For most people, the OS is more than capable of handling most of your browsing needs. This Chromebook is a great example of how far you can push Chrome OS on a budget device, with a big bright screen for watching movies, too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Price: Really affordable with plenty to offer**
 
  The list price for this Acer Chromebook sits at just about $400 (MSRP), but most of the time you can find it on Amazon for between $150-$250\. I picked up my unit for about $185, and it tends to hover just around there.
 
  For the money, I can confidently say this laptop is worth the price, as long as you have the right applications in mind for it. If you want a cheap starter laptop, or a machine for an older family member that’s easy to use, but you don’t want to spend half a grand getting there, this is a great choice. I can’t say it’s quite as travel-friendly as some of the other budget laptops out there, due to the size and weight. But if you want an affordable machine that’s great for light productivity tasks, and is an excellent movie machine, then you should consider this.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Acer Chromebook 15 vs. Lenovo Chromebook S330 14**
 
  Lenovo’s entry into the large, budget Chromebook range brings a few different features into play. The most notable difference is the build—you’ll get a thinner, sleeker laptop with the Lenovo, including a much more premium-looking and -feeling keyboard, plus 64GB of storage and a lighter weight. However, you’ll sacrifice the Intel processor (the Lenovo sports a more dated chip from MediaTek) and the battery life isn’t quite as good. That package comes in at a little higher on the price scale, too.
@@ -189,9 +210,6 @@ Lifewire / Jason Schneider
 
  This is a great Chromebook with a lot of impressive things to offer. The bright screen has plenty of room for vibrant video viewing and multiple windows of productivity. The excellent battery life means you won’t be tethered to a desk, and the light, fast Chrome OS means it will take a lot to slow the Acer Chromebook 15 down. However, the limited onboard storage, bulky size and weight, and the lack of full app choices might limit you a bit too much. At the end of the day, at this price point, it’s perfect for light, basic use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Chromebook 15 CB3-532

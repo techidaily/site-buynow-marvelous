@@ -1,7 +1,7 @@
 ---
 title: Discovering the Joy of Low-Cost Drone Flight with Syma's S111G Model
-date: 2024-08-09T00:43:32.696Z
-updated: 2024-08-10T00:43:32.696Z
+date: 2024-09-04T20:09:44.323Z
+updated: 2024-09-05T20:09:44.323Z
 categories:
   - BestProducts
 description: This Article Describes Discovering the Joy of Low-Cost Drone Flight with Syma's S111G Model
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/QHpxan4iaLb1L9Y5hSim2jf1-2w=/400x300/fi
 
 ## Rexing V1 DashCam
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/uK2E64Wzmh1SC5wGVrVGSMMtQgk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
 
 Lifewire / Danny Chadwick
@@ -42,9 +39,6 @@ Lifewire / Danny Chadwick
 
 ## Rexing V1 DashCam
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/5zZ5bclZ7zJVo8nRB2Y33JNM3w4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
 
 Lifewire / Danny Chadwick
@@ -74,6 +68,12 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Fits perfectly on your windshield**
 
  The Rexing V1 Dashcam has a more distinctive form factor than other models we reviewed. Unlike many popular dashcam models, the V1 doesn’t resemble a point-and-shoot camera that hangs from your windshield. Rather, it’s angled to fit the curve of the glass. This makes for a more integrated, smooth look.
@@ -88,11 +88,14 @@ Lifewire / Danny Chadwick
 
  It also has an internal accelerometer that can detect the impact of an accident, as well as[GPS capabilities](https://www.lifewire.com/what-is-gps-how-it-works-4688647) . Unfortunately, it doesn’t come with all the necessary equipment to use the GPS feature—if you want to enable these, you have to buy the[Rexing GPS Logger](https://www.amazon.com/Rexing-GPS-Logger-V1-V1P/dp/B01AKH377A/?tag=lifewire-onsite-prod-20&ascsubtag=4770571%7Cn9eae1cd5706347139b8b83241f9d42ea10%7C) separately.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Danny Chadwick
 
 ## **Setup Process: Be sure that’s where you want to put it**
@@ -110,16 +113,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera Quality: Basic**
 
@@ -129,10 +126,25 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/9_1pHoEq74JWPJ8reothv8PeI8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_04-c5d42af8ddfa4296a6c6b1e8551edef6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Set it and forget it**
 
@@ -148,9 +160,6 @@ Lifewire / Danny Chadwick
 
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
@@ -172,7 +181,16 @@ Lifewire / Danny Chadwick
  There isn’t much to complain about with the Rexing V1 DashCam. Its innovative form factor combined with a wide array of video capture features and decent picture quality means you won’t have any buyer’s remorse if you choose this dashcam.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -203,3 +221,37 @@ Lifewire / Danny Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-elevating-web-visibility-with-close-up-techniques-for-2024/"><u>[Updated] Elevating Web Visibility with Close-Up Techniques for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-lunas-performance-breakdown-an-unanticipatedly-cohesive-streaming-platform-for-gamers/"><u>Amazon Luna's Performance Breakdown: An Unanticipatedly Cohesive Streaming Platform for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparative-insights-how-fitbit-sense-leads-in-comprehensive-health-monitoring-over-apples-offering/"><u>Comparative Insights: How Fitbit Sense Leads in Comprehensive Health Monitoring Over Apple's Offering</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-wireless-tv-excellence-with-the-antop-at-127-antenna-review/"><u>Discover Wireless TV Excellence with the Antop AT-127 Antenna Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters-for-2024/"><u>From Unsteady to Steady  Tips for Fixing GoPro Video Jitters for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/galaxys-most-entertaining-urban-project-mars-city-construction-sparks-cosmic-twisters/"><u>Galaxy's Most Entertaining Urban Project: Mars City Construction Sparks Cosmic Twisters!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/h20-audio-stream-waterproof-review-good-underwater-audio/"><u>H20 Audio Stream Waterproof Review: Good Underwater Audio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-7-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 7 Plus online without jailbreak</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715859771485-in-2024-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>In 2024, How to Minimize Stress in iPad Screen Recordings? Here's a Way!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing/"><u>In 2024, Perfect Every Frame  Windows 11 & StoryRemix Combo Guide to Video Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-pop-8-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Pop 8 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-samsung-galaxy-watch-active-2-boasting-improved-connectivity-and-insightful-features-relative-to-original-version/"><u>In-Depth Review of Samsung Galaxy Watch Active 2: Boasting Improved Connectivity & Insightful Features Relative to Original Version</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ion-tailgater-plus-review-hours-of-seamless-enhanced-audio-performance-in-your-vehicle/"><u>ION Tailgater Plus Review: Hours of Seamless, Enhanced Audio Performance in Your Vehicle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-gram-156-inch-2018-review-a-big-incredibly-light-laptop-that-lasts-and-lasts/"><u>LG Gram 15.6-Inch (2018) Review: A Big, Incredibly Light Laptop that Lasts and Lasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterpiece-display-with-brookstones-frame/"><u>Masterpiece Display with Brookstone's Frame</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-mobile-spectrum-elite-list-of-signal-boosters-dominating-2024/"><u>Navigate the Mobile Spectrum: Elite List of Signal Boosters Dominating 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-tablet-buying-decisions-with-these-8-critical-points/"><u>Navigating Tablet Buying Decisions with These 8 Critical Points</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-digital-pages-a-look-at-apple-books/"><u>Navigating the Digital Pages: A Look at Apple Books</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-5-best-imovie-replacements-for-windows-10/"><u>New Top 5 Best iMovie Replacements for Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/outstanding-and-budget-friendly-fossil-sports-watches-a-comprehensive-review/"><u>Outstanding & Budget-Friendly Fossil Sports Watches: A Comprehensive Review</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723052251129-regularly-back-up-wallet-data-and-store-private-keys-securely-offline-to-prevent-unauthorized-access/"><u>Regularly Back up Wallet Data and Store Private Keys Securely Offline to Prevent Unauthorized Access.</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Infinix</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/success-secrets-unveiled-the-journey-of-nintendos-revolutionary-wii-u/"><u>Success Secrets Unveiled: The Journey of Nintendo's Revolutionary Wii U</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elite-selection-of-uninterruptible-power-supplies-for-optimal-reliability/"><u>The Elite Selection of Uninterruptible Power Supplies for Optimal Reliability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860181372-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype-for-2024/"><u>The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype. For 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-professional-grade-art-tablets-for-designers-2024-selection/"><u>Top 5 Professional-Grade Art Tablets for Designers - 2024 Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-netatmo-weather-station-a-sleek-choice-for-app-companionship-and-climate-tracking/"><u>Top Review: Netatmo Weather Station – A Sleek Choice for App Companionship and Climate Tracking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-auditory-playscripts-collection/"><u>Ultimate Auditory Playscripts Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-strengths-of-the-long-range-capable-uniden-r3-a-reviewers-perspective/"><u>Uncovering the Strengths of the Long-Range Capable Uniden R3 - A Reviewer's Perspective</u></a></li>
+</ul></div>

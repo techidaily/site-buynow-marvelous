@@ -1,7 +1,7 @@
 ---
 title: Reviving Retro Gaming - Is It Time to Reboot Classics?
-date: 2024-08-31T17:29:07.729Z
-updated: 2024-09-01T17:29:07.729Z
+date: 2024-09-04T20:11:24.904Z
+updated: 2024-09-05T20:11:24.904Z
 tags:
   - games
   - tv
@@ -29,7 +29,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Remakes and remasters remain one of the more controversial topics in gaming. Reimagined classics can be a fantastic way to revitalize old games in theory, but a good chunk of them have been poorly received by fans new and old. This begs the question: should developers even bother remaking old games?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Game Remakes Bring Old Games to New Generations
 
@@ -46,15 +55,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A selection of PS4 disc games: Snowrunner, The Outer Wilds, Tony Hawk's Pro Skater 1+2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disc_games_ps4.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Of course, _Mafia_ isn't the only good remaster. Other examples include the recent _Resident Evil_ remakes ([_Resident Evil 4_ even added VR support](https://facebook.techidaily.com/alleged-shutdown-due-to-ethical-commerce-representation/)), the _Final Fantasy VII_ remake project, _Black Mesa_ (a third-party remake of _Half-Life_), _Tony Hawk's Pro Skater 1 + 2_, and _The Last of Us Part I_ and _II_. Video game reboots, like the 2016 _Doom_, deserve a shout-out, but reboots have few things in common with the originals.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Some Old Games Age Like Fine Wine
 
  But not every old game needs a remake. As long as you can launch the game on a modern console or PC, and the controls are reasonably intuitive and work with a modern controller (or keyboard and mouse), it's good enough.
@@ -66,7 +81,10 @@ Tim Brookes / How-To Geek
 ![Person's hands holding the Steam Deck and playing a game, with a fireplace in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52675437708_14622460f8_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Marcus Mears III / How-To Geek
 
@@ -75,7 +93,10 @@ Marcus Mears III / How-To Geek
  As long as a game is still playable, it doesn't necessarily need to be remade. I'd personally love to see some _Fallout_ remasters, but this has more to do with my appetite for _Fallout_ games than issues I have with the originals.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  When Remakes Go Wrong
 
@@ -89,6 +110,18 @@ Marcus Mears III / How-To Geek
 
  This seems to be happening with the upcoming [_Silent Hill 2_ remake](https://screenrant.com/silent-hill-2-remake-combat-bloober-team/). The _Final Fantasy VII Remake_ changed major parts of the story, but the changes were well-received and managed to give those who played the original an unexpected surprise.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Making Old Games Accessible is Key
 
  So many old games are stuck in limbo. They can't be played on modern hardware, but finding an original copy and hardware is also difficult. Nintendo games are especially bad in this regard; the list of retro games that the Switch supports is very short, so you're better off emulating them on a [PC](https://screen-recording.techidaily.com/new-how-to-blur-the-video-background-in-a-microsoft-teams-meeting-in-2024/), [Android phone](https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-your-social-media-footprint-upload-success-tips-for-stories/), or [iPhone](https://tech-revival.techidaily.com/no-budget-no-barrier-to-adventure-find-your-plan-with-these-7-free-apps/).
@@ -100,7 +133,10 @@ Marcus Mears III / How-To Geek
 ![A retro handheld game with Super Mario and Sonic on the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-retro-handheld-game-with-super-mario-and-sonic-on-the-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek
 

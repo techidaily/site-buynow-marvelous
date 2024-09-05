@@ -1,7 +1,7 @@
 ---
 title: "Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers"
-date: 2024-08-31T17:30:06.620Z
-updated: 2024-09-01T17:30:06.620Z
+date: 2024-09-04T20:11:25.812Z
+updated: 2024-09-05T20:11:25.812Z
 tags:
   - games
   - tv
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  If one of the thumbsticks on your Steam Deck develops stick drift, there are several solutions you can try to fix the issue. They range from the simple, like recalibrating the stick, to DIY adventures like opening your Deck and replacing the joystick module. Let’s go through them all.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Restart Your Steam Deck and Try Again
 
  The simplest fix you can try is to restart your [Steam Deck](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/) and then try playing the same game to see if that fixes your problem. If the problem persists, go through the control settings menu of the said game and make sure no options are set in such a way that can mess with the stick movement or sensitivity.
@@ -46,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ![Steam Deck Desktop Mode with the Application Launcher menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-02-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open Konsole, pull up the virtual keyboard by pressing the X button, type the following:
 
 thumbstick_cal
@@ -55,8 +58,10 @@ thumbstick_cal
 ![Steam Deck thumbstick recalibration tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now follow instructions to complete the calibration process. Firstly, let go of both sticks and press the A button. Next, tap the taskbar at the bottom of the desktop so that your cursor is out of focus of the Konsole window, and then rotate both joysticks 360 degrees two times, tap on the Konsole window to get back into focus, and press the A button again. That’s it.
 
@@ -69,23 +74,47 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Steam Deck calibration & advanced settings tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-04.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select the “Left Joystick Deadzone” option and press the Y button to test its deadzone. If your right stick is drifting, select the “Right Joystick” option instead, with the R1 button.
 
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
 
 ![Testing Steam Deck left joystick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-06.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In fact, I can drop the deadzone to about 5400 and still be fine. If you're noticing drift, you’ll most likely have to increase the deadzone above the default value of 8192\. The max value is set at 18000.
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
@@ -110,9 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If the stick’s still drifting around, it’s time to replace it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Replace the Thumbsticks on Your Steam Deck
 
  If nothing else works, you’ll have to replace the whole joystick module.
@@ -123,10 +149,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Steam Deck controller ID information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-09.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Now, once you have ordered the modules—I recommend ordering the whole Fix Kit if you don’t have appropriate tools already—follow [the iFixit video guide](https://www.youtube.com/watch?v=z5k6wOMtjzY) in case you own a Steam Deck LCD. And by that I mean follow it to the letter, to avoid any problems because the procedure can be a bit tricky to perform.
 
  If you own a Steam Deck OLED, check out [the guide for replacing the left module](https://www.ifixit.com/Guide/Steam+Deck+OLED+Left+Thumbstick+Replacement/168652), or [the guide for replacing the right one](https://www.ifixit.com/Guide/Steam+Deck+OLED+Right+Thumbstick+Replacement/168609), depending on which of the two thumbstick has drifting issues.

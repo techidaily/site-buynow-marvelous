@@ -1,7 +1,7 @@
 ---
 title: First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
-date: 2024-08-31T17:32:06.927Z
-updated: 2024-09-01T17:32:06.927Z
+date: 2024-09-04T20:11:17.794Z
+updated: 2024-09-05T20:11:17.794Z
 categories:
   - BestProducts
 description: This Article Describes First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
@@ -68,7 +68,10 @@ Lifewire / Erika Rawes
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: You can’t remove the band**
 
@@ -78,6 +81,12 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Comfort: You’ll forget you’re wearing it**
@@ -86,9 +95,6 @@ Lifewire / Erika Rawes
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Body battery and stress monitoring**
 
  The Garmin Vivosmart 4 performs exceptionally well in some areas and mediocre in others, making it a decent device for runners or everyday users who want a device to track their general health and wellness, but a not such great device for fitness buffs who want seamless and accurate workout tracking.
@@ -108,7 +114,10 @@ Lifewire / Erika Rawes
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
@@ -124,9 +133,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Battery: May last a full seven days**
 
  The battery is supposed to last for up to seven days, but the battery life depends largely on the features you use and how frequently you use the tracker. If you’re only passively tracking a few metrics, your battery might last a full week. If you’re constantly checking your heart rate, pulse ox, stress levels, sleep, and counting reps several times a day, your battery will not last that long. I got three and a half days of battery life when taking full advantage of the fitness tracker’s features.
@@ -134,12 +140,27 @@ Lifewire / Erika Rawes
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
  I found the Garmin Vivosmart 4 much more comfortable than the Fitbit Charge 3\. I also like the body battery and stress monitoring features in the Vivosmart 4\. On the other hand, the[Fitbit Charge 3](https://www.lifewire.com/fitbit-charge-3-review-5072527) has a more accurate heart monitor (according to testing). The Fitbit Charge 3 (view on[Amazon](https://www.amazon.com/dp/B07FTN21JL/?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7C) ) also offers a ton of workouts in its Fitbit app, and slightly more seamless activity tracking for weight training and high-intensity workouts. If you want a day-to-day fitness tracker to track your sleep, stress, and energy levels, the Vivosmart 4 is a great option. If you want a larger screen and easy tracking for activities like weight training and cycling, you may prefer the Fitbit Charge 3.
@@ -151,8 +172,10 @@ Lifewire / Erika Rawes
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

@@ -1,7 +1,7 @@
 ---
 title: "Q30 Soundcore Life: Comprehensive Affordable Headphone Insight"
-date: 2024-08-09T00:43:31.002Z
-updated: 2024-08-10T00:43:31.002Z
+date: 2024-09-04T20:06:53.212Z
+updated: 2024-09-05T20:06:53.212Z
 categories:
   - BestProducts
 description: "This Article Describes Q30 Soundcore Life: Comprehensive Affordable Headphone Insight"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
@@ -42,9 +39,6 @@ Lifewire / Jonno Hill
 
 ## HP Omen Obelisk
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
 Lifewire / Jonno Hill
@@ -78,7 +72,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
@@ -100,9 +97,6 @@ Lifewire / Jonno Hill
 
  The lighting system is also approachable and understated, giving a little bit of customizable flare without going too over the top. As you’ll see later in the software section, HP has made it very straightforward to tweak any of these settings to your satisfaction.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
  Lifewire / Jonno Hill
@@ -116,7 +110,10 @@ Lifewire / Jonno Hill
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -132,18 +129,26 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Just enough options**
 
  The HP OMEN Obelisk comes with the OMEN Command Center, which is used to manage your desktop as well as any other OMEN products such as headsets, keyboards, and mice. From here, you have the option to click on your desktop and start managing your PC or choose from one of the various other options such as rewards, coaching, remote play, and My Games (a game launcher).
@@ -160,16 +165,16 @@ Lifewire / Jonno Hill
 
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
  If you want something even smaller, and even more monolithic, the[Corsair One Pro](https://www.lifewire.com/corsair-one-pro-review-5072820) (see on[Corsair](https://www.corsair.com/us/en/Categories/Products/Systems/CORSAIR-ONE/CORSAIR-ONE-PRO-i180-Compact-Workstation-Grade-PC/p/CS-9040001-NA) ) manages to pack a high-end gaming rig in a minuscule 12-liter case, making even the HP OMEN seem large by comparison. It has a very solid construction and manages to fit water cooling for both the CPU and GPU inside its small frame.
@@ -182,6 +187,18 @@ Lifewire / Jonno Hill
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Omen Obelisk
@@ -216,3 +233,40 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-superstars-with-a-subscriber-base/"><u>[New] 2024 Approved  Superstars with a Subscriber Base</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-academic-history-lovers-guide-to-top-yt-content/"><u>[New] In 2024, Academic History Lovers' Guide to Top YT Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/humbnail-tactics-for-top-views-on-youtube-videos-for-2024/"><u>[New] Thumbnail Tactics for Top Views on YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-and-science-of-striking-youtube-live-images/"><u>[Updated] The Art and Science of Striking YouTube Live Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-8-most-reliable-screen-snappers/"><u>2024 Approved  8 Most Reliable Screen Snappers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-netatmo-weather-station-analysis-the-perfect-tech-gadget-for-modern-meteorologists/"><u>Comprehensive Netatmo Weather Station Analysis - The Perfect Tech Gadget for Modern Meteorologists</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-on-device-ai-insight-into-how-it-works-and-key-features/"><u>Demystifying On-Device AI: Insight Into How It Works & Key Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-ranking-the-worlds-best-pc-brands-to-watch/"><u>Discover the Elite: Ranking the World’s Best PC Brands to Watch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-shadowy-depths-in-our-comprehensive-bloodborne-review/"><u>Discovering the Shadowy Depths in Our Comprehensive Bloodborne Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-intel-optane-technology-drivers-on-windows-step-by-step-guide/"><u>Download and Install Intel Optane Technology Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-performance-switching-to-apples-ventura/"><u>Elevate Performance: Switching to Apple's Ventura</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-vonage-does-it-hold-the-crown-amongst-voip-providers-today/"><u>Evaluating Vonage - Does It Hold the Crown Amongst VoIP Providers Today?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ex6200-in-focus-detailed-insights-into-the-netgear-wireless-range-amplifier-a-key-player-in-home-networking-solutions/"><u>EX6200 in Focus: Detailed Insights Into the Netgear Wireless Range Amplifier - A Key Player in Home Networking Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/first-look-at-the-revolutionary-samsung-galaxy-s24-ultra-in-depth-analysis-by-gadget-experts/"><u>First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/harnessing-the-sun-with-aeiusny-portable-generators-how-their-pure-sine-wave-inverters-safeguard-your-medical-equipment/"><u>Harnessing the Sun with Aeiusny Portable Generators: How Their Pure Sine Wave Inverters Safeguard Your Medical Equipment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-cover-videos-demystified-what-everyone-should-know/"><u>In 2024, FB Cover Videos Demystified  What Everyone Should Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-smart-7-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Smart 7 Phones with/without a PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-unleashing-the-full-potential-of-the-samsung-galaxy-tab-s7plus-powerhouse/"><u>In-Depth Analysis: Unleashing the Full Potential of the Samsung Galaxy Tab S7+ Powerhouse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-workflow-with-quality-tech-superior-dell-monitor-elite-sound-isolation-earphones-and-exceptional-hd-webcam/"><u>Master Your Workflow with Quality Tech: Superior Dell Monitor, Elite Sound Isolation Earphones & Exceptional HD Webcam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-performance-the-advantages-of-the-expanded-screen-in-apples-iphone-12-pro-max-review/"><u>Maximizing Performance: The Advantages of the Expanded Screen in Apple's iPhone 12 Pro Max Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/photoscape-for-windows-free-photo-editor-review/"><u>PhotoScape for Windows Free Photo Editor Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revamping-your-devices-brain-laptop-cpu-for-improved-speed/"><u>Revamping Your Device’s Brain (Laptop CPU) for Improved Speed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-economical-amazonbasics-cross-cut-6-sheets-capacity-document-shredder/"><u>Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-express-review-premium-content-for-a-price-thats-easy-on-your-wallet/"><u>Roku Express Review: Premium Content for a Price That's Easy on Your Wallet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-choice-with-the-lg-24lh4830-tv-exceptional-quality-at-budget-friendly-prices/"><u>Smart Choice with the LG 24LH4830 TV - Exceptional Quality at Budget-Friendly Prices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlining-your-monetization-mastering-youtube-adsense-for-2024/"><u>Streamlining Your Monetization  Mastering YouTube AdSense for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-apple-watch-series-4-insights-elevating-the-gold-standard-further/"><u>Top Apple Watch Series 4 Insights: Elevating The Gold Standard Further</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-notch-performance-meets-pricey-tag-in-thermaltakes-massive-tm-notebook-cooler-review/"><u>Top-Notch Performance Meets Pricey Tag in Thermaltake's Massive TM Notebook Cooler Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/totobays-latest-wake-up-light-an-incredible-value-for-your-morning-routine-reviewed/"><u>Totobay's Latest Wake-Up Light: An Incredible Value for Your Morning Routine Reviewed!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/turning-tiktok-hits-into-mobile-ringtones-with-ease/"><u>Turning TikTok Hits Into Mobile Ringtones with Ease</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unihertz-atom-xl-analysis-the-miniature-durable-device-that-packs-big-performance/"><u>Unihertz Atom XL Analysis: The Miniature Durable Device That Packs Big Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-potential-of-home-coverage-with-the-netgear-orbi-rbs50y-a-detailed-review/"><u>Unlocking the Potential of Home Coverage with the Netgear Orbi RBS50Y - A Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-of-midlands-gxt1000vp4-for-precise-long-distance-calls/"><u>Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls</u></a></li>
+</ul></div>

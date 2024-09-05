@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Productivity with the Sabrent Compact Mouse - Precision Meets Cable-Free Portability
-date: 2024-08-09T00:43:30.786Z
-updated: 2024-08-10T00:43:30.786Z
+date: 2024-09-04T20:06:30.520Z
+updated: 2024-09-05T20:06:30.520Z
 categories:
   - BestProducts
 description: This Article Describes Enhance Your Productivity with the Sabrent Compact Mouse - Precision Meets Cable-Free Portability
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Sabrent Mini Travel USB Optical Mouse
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/NHk2GXtdpeJT9sEET7cl5b3Coq0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_HeroSquare-6ae9d6d299054d748f84492b5c31f033.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -70,8 +64,10 @@ Lifewire / Rebecca Isaacs
  Working on the go can prove difficult on a laptop, especially when you need to work on heavy-hitting projects requiring precision. Travel mice, or portable computer mice that can be packed and unpacked on the go, can alleviate much of the proverbial headache of working on PC-heavy tasks. For those who prefer their mouse have a cable, the Sabrent fits the bill. Using high definition precision technology, the tiny, three-year-old mouse is designed for those who want convenience and extreme precision in their work.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Basic**
 
@@ -87,20 +83,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The cable’s addition increases the size of the mouse, bringing the total measurements to 6.44 x 1.5x 2.44 inches (LWH). The Sabrent also comes with a mesh carrying bag, making it easy to pack up and take on the go without scratching it. One more perk: this mouse is adaptable to most[Windows](https://www.lifewire.com/windows-4781566) ,[Mac](https://www.lifewire.com/mac-backup-software-hardware-and-guides-2260931) , and[Linux](https://www.lifewire.com/software-and-apps-4781541) systems, so you can insert it into USB ports across multiple machines for fast use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Plug and play**
 
  Setting up the Sabrent proved simple and convenient. Expanding the cable and plugging it into the PC’s USB port allows the Sabrent to self-install. In under less than a minute, the plug and play features kick in. If you need to alter it to suit ambidextrous needs, you’ll need to head into the control panel of your PC to make the swap. Those requiring left-handed features will need to alter it. Once the software quickly installs, and you’re able to begin scrolling in no time.
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/mM3uSf3Y2pyayDyWJzP8_5uUya4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_05-04e025144b514674b109e77f79129d74.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Precise, but mildly problematic**
 
  The Sabrent boasts that it’s a high precision mini mouse, and in that regard, we have to agree. While 1200 dpi is minimal in comparison to some of the other heavy-hitting mice on the market, this mouse wasn’t designed to be used as a gaming mouse—it was designed in mind that you could take it and pack it on the go and get the job done.
@@ -109,6 +105,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/ZAK9csfHFEKVkNFSzE-Knbqabgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_03-c6a7b875505642c69218c2c6c3449e50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The buttons responded quickly and with ease as well. While the main and right buttons do click with some noise, the constant clacking won’t get on any nerves. The scroller isn’t loud, but it took us a couple rolls of the wheel before it shifted around without any resistance. This ultimately wasn’t a big deal, but it might need a little breaking in, so don’t give up on it straight away.
@@ -118,7 +120,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The cable length left something to be desired in a work PC, however. At 25 inches, it sounds like a dream come true, however, testing it on a standing desk where the PC tower is located further away from the keyboard and mouse we realized there was a problem. The length cable prevented us from shifting our grip on the mouse, and the tugging was a frustrating physical constraint. Laptop users won’t even notice the cable, but PC users may want to look for something a little more wireless.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Comfort: Too small**
 
@@ -128,13 +133,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Reasonable**
 
  At around $7, this is a great budget mouse. Essentially, the cost is for basic mouse features, and not for anything heavier or more taxing on a PC. If you’re looking for a travel mouse with more features, then expect to spend more. However, if accomplishing work tasks is solely your task then this is the perfect price point.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Sabrent Mini Travel Mouse vs. VicTsing Wireless Mouse**
 
  Because the mouse is so tiny, we also tested the[VicTsing Wireless Mouse](https://www.lifewire.com/victsing-wireless-mouse-review-4799129) (view on[Amazon](https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/?tag=lifewire-onsite-prod-20&ascsubtag=4799034%7Cn6493c6f4bf4b471ba05fab7dd162554120%7C) ) to get a feel as to which mouse is the better option for a portable, travel mouse. The answer turned out to be more complicated: whereas the Sabrent was more ideal for ambidextrous travel, the VicTsing Wireless Mouse was geared more for right-handed users who prefer adjustable and wireless features.
@@ -149,6 +163,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  While we constantly had to shift our grip on the tiny Sabrent mouse, we really liked its portability and fast, accurate movements. The cable proved to be difficult for desktop use, however, laptop users will enjoy the speeds that accompany the wired cable.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Mini Travel USB Optical Mouse
@@ -176,3 +202,46 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-10-royal-combat-showcases/"><u>[New] In 2024, Top 10 Royal Combat Showcases</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-optimizing-video-clarity-with-iphone-zoom/"><u>[New] Optimizing Video Clarity with iPhone Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlocking-audio-mp3-conversion-from-skype-no-price-for-2024/"><u>[New] Unlocking Audio  Mp3 Conversion From Skype, No Price for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-lava-blaze-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Lava Blaze Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-cutting-edge-technology-behind-the-ring-video-doorbell-pro/"><u>Analyzing the Cutting-Edge Technology Behind the Ring Video Doorbell Pro</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/beneath-the-surface-the-deeper-meanings-in-snapchat-symbols/"><u>Beneath the Surface  The Deeper Meanings in Snapchat Symbols</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-horizon-expert-techniques-in-drone-filmmaking-for-2024/"><u>Capturing the Horizon  Expert Techniques in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-convenience-redefined-the-all-in-one-echo-dot-3rd-gen-review-for-everyday-alexa-use/"><u>Compact Convenience Redefined - The All-in-One Echo Dot (3Rd Gen) Review for Everyday Alexa Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparative-review-ring-vs-nest-smart-doorbells/"><u>Comparative Review: Ring vs Nest Smart Doorbells</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-next-gen-mopping-and-vacuum-robot-powered-by-lidar/"><u>Comprehensive Guide to the Dreame Bot L10 Pro – Next-Gen Mopping and Vacuum Robot Powered by LiDAR</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-on-linkedins-luxury-plan-insights/"><u>Deciding on LinkedIn's Luxury Plan: Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/determining-if-apple-tv-fits-your-budget/"><u>Determining if Apple TV Fits Your Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-endurance-in-jabras-tough-buds/"><u>Evaluating Endurance in Jabra's Tough Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-travelers-dream-the-amazing-versatility-of-the-amazon-basics-tablet-stand/"><u>Evaluating the Traveler's Dream: The Amazing Versatility of the Amazon Basics Tablet Stand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-literary-bliss-with-the-2019-kindle-oasis-your-next-reading-companion/"><u>Experience Literary Bliss with the 2019 Kindle Oasis - Your Next Reading Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-control-and-mobility-the-ultimate-precision-gaming-with-a-cordless-sabrent-travel-mouse/"><u>Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-70-lite-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor 70 Lite 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersive-dying-light-co-op-adventure-first-person-parkour-and-survival-gameplay/"><u>Immersive Dying Light Co-Op Adventure: First-Person Parkour & Survival Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-yokus-island-express-unexpected-grand-adventure-encounters/"><u>In-Depth Look at Yoku's 'Island Express': Unexpected Grand Adventure Encounters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-exploring-the-arlo-digital-safety-network/"><u>Interactive Guide: Exploring the Arlo Digital Safety Network</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/marvels-avengers-an-in-depth-review-peaks-and-valleys-in-gameplay/"><u>Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meet-your-next-desktop-dream-machine-the-innovative-raspberry-pi-t-400-reviewed/"><u>Meet Your Next Desktop Dream Machine: The Innovative Raspberry Pi T 400 Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-escort-ix-gps-enabled-radar-detector-smart-learning-on-the-road/"><u>Review of the Escort iX GPS-Enabled Radar Detector - Smart Learning on the Road</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revive-your-cars-battery-with-ease-using-the-formidable-beatit-bt-d11-review/"><u>Revive Your Car's Battery with Ease Using the Formidable Beatit BT-D11 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-post-processing-workflow-with-free-darktable-software-on-macos-and-linux-systems/"><u>Revolutionize Your Post-Processing Workflow with Free Darktable Software on macOS & Linux Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sennheiser-professional-mobile-sound-system/"><u>Sennheiser Professional Mobile Sound System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sing-like-a-star-the-top-karaoke-devices-of-2024-revealed/"><u>Sing Like a Star: The Top Karaoke Devices of 2024 Revealed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-affordable-ssl-security-options/"><u>The Best Affordable SSL Security Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-perfecting-your-photography-skills-using-the-new-cutouts-in-ios-16-for-iphones/"><u>The Complete Guide to Perfecting Your Photography Skills Using the New Cutouts in iOS 16 for iPhones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-thinkpad-x1-titanium-yoga-exposed-why-this-top-of-the-line-2-in-1-is-a-must-have-for-die-hard-thinkpad-fans/"><u>The Lenovo ThinkPad X1 Titanium Yoga Exposed: Why This Top-of-the-Line 2-in-1 Is a Must-Have for Die-Hard ThinkPad Fans!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-jaco-smartpro-digital-tire-inflator-a-study-in-efficiency-and-strength/"><u>The Ultimate Guide to the Jaco SmartPro Digital Tire Inflator – A Study in Efficiency and Strength</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-performance-an-in-depth-look-at-the-apc-gaming-uninterruptible-power-supply/"><u>Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-truth-about-mobvoi-ticwatch-e2-a-low-price-doesnt-mean-quality/"><u>Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c55-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme C55 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unsubscribed-and-secure-an-in-depth-analysis-of-the-eufy-t8200-video-doorbell/"><u>Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-detailed-review-of-the-corsair-one-pro-gaming-desktop/"><u>Unveiling the Powerhouse - Detailed Review of the Corsair One Pro Gaming Desktop</u></a></li>
+</ul></div>

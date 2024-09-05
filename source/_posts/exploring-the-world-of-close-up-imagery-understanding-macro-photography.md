@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2024-08-27 11:25:42
-updated: 2024-08-29 10:38:28
+date: 2024-09-04T20:02:02.949Z
+updated: 2024-09-05T20:02:02.949Z
 tags:
   - games
   - tv
@@ -29,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  So, if you see a finely-detailed image of a tiny subject, but it's still something you can see with the naked eye, then you're almost certainly looking at macro photography.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Macro Lenses, Macro Smartphone Cameras, and Macro Compact Camera Modes
 
  While you can take any camera system and put it up as close as possible to a small subject, you may not get the result that you want. Macro photography requires a lens with a very short focal distance from the subject. That is, it needs to have the ability to focus on something that's very close to the lens. You can also get lenses that are essentially macro telephoto lenses, which can create that 1:1 reproduction ratio on the sensor while having the subject relatively far away from the lens, but that's not how a typical macro lens works.
@@ -37,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ![Sigma 105mm F2.8 EX DG OS HSM Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sigma-105mm-f2-8-ex-dg-os-hsm-macro-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Sigma 105mm F2.8 EX DG OS HSM Macro
 
 $525 $669 Save $144 
@@ -53,6 +65,12 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
  Finally, though they are rare to see these days, many compact dedicated digital cameras also have a "macro mode", but the results from this mode have never been great, and really don't let you get nearly as close to the subject as a true macro lens does.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Macro Photography Lighting Can Be a Challenge
 
  With their extremely short focal distances, and very shallow depth of field, macro photos often suffer from a lack of good lighting. Lighting is paramount in any sort of photography (it literally means the capture of light after all), but perhaps never more than with macro shots. This is why many macro lenses, and macro cameras on some phones have a built-in LED ring to light up the subject.
@@ -73,18 +91,36 @@ Sydney Louw Butler / How-To Geek
 
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 
  I will never, ever get tired of shooting photos of these teeny-tiny jumping spiders.
 
 ![Macro photo of jumping spider on a leaf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-jumping-spider-on-a-leaf.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-to Geek
 
  Or, perhaps my favorite shot ever of this grasshopper hiding in an outdoor potted plant.
 
 ![macro photo of a grasshopper taken with S21 Ultra smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Grasshopper-Macro-S21.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Butler/How-To Geek
 
 ---
@@ -105,3 +141,47 @@ Sydney Butler/How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-glee-and-gags-the-classic-vhs-of-a-goofy-adventure/"><u>[New] 'Glee and Gags' - The Classic VHS of A Goofy Adventure</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-5-key-aspects-to-consider-when-sizing-your-youtube-thumbnail/"><u>[New] In 2024, 5 Key Aspects to Consider When Sizing Your YouTube Thumbnail</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-top-choice-elite-videographer-tool-for-vimeo/"><u>[New] Top Choice  Elite Videographer Tool for Vimeo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-high-quality-video-grabs-by-leading-software/"><u>[Updated] 2024 Approved  High Quality Video Grabs by Leading Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pairing-video-cameras-with-desktop-captures-for-2024/"><u>[Updated] Pairing Video Cameras with Desktop Captures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-merits-of-sns-hdr-vs-its-industry-contenders/"><u>[Updated] The Merits of SNS HDR Vs. Its Industry Contenders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-series-of-animated-type-options/"><u>2024 Approved  Excellent Series of Animated Type Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-video-reversal-software/"><u>Best Free Video Reversal Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-for-transforming-your-profile-photo-on-major-social-platforms/"><u>How-To for Transforming Your Profile Photo on Major Social Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>Humor Hits  The Best Funny YouTube Short Ideas on the Block</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>In 2024, Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kodi-version-205-release-notes-discover-the-latest-updates-and-features/"><u>Kodi Version 20.5 Release Notes: Discover the Latest Updates and Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leveling-up-the-fun-in-gaming-without-chasing-full-completion/"><u>Leveling Up the Fun in Gaming without Chasing Full Completion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-formatting-techniques-understanding-how-to-apply-strikethrough-bold-and-italics-in-your-youtube-comments/"><u>Mastering Formatting Techniques: Understanding How to Apply Strikethrough, Bold, and Italics in Your YouTube Comments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-playtime-effective-strategies-for-increasing-ps5-storage-space-efficiently/"><u>Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/my-guide-to-preventing-post-gaming-session-discomfort-and-aches/"><u>My Guide to Preventing Post-Gaming Session Discomfort and Aches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-joy-con-controller-repair-guide-and-prevention-tips/"><u>Nintendo Switch Joy-Con Controller Repair Guide & Prevention Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-streaming-options-a-comprehensive-guide/"><u>Nintendo Switch Streaming Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pause-in-venu-sports-live-stream-broadcasting-understanding-the-temporary-hiatus/"><u>Pause in Venu Sports Live Stream Broadcasting: Understanding the Temporary Hiatus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/perfect-pairing-selecting-an-ideal-keyboard-for-your-steam-deck-adventure/"><u>Perfect Pairing: Selecting an Ideal Keyboard for Your Steam Deck Adventure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/physical-vs-digital-why-traditional-dvdblu-ray-rentals-still-reign-supreme/"><u>Physical vs Digital: Why Traditional DVD/Blu-Ray Rentals Still Reign Supreme</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portable-powerhouse-in-depth-review-of-bougervs-compact-12v-mini-fridge-the-ideal-travel-refrigerator/"><u>Portable Powerhouse: In-Depth Review of BougeRV's Compact 12V Mini Fridge - The Ideal Travel Refrigerator</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prime-video-drops-feature-why-you-cant-host-or-join-watch-parties-now/"><u>Prime Video Drops Feature: Why You Can't Host or Join Watch Parties Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalize-your-classic-ride-with-these-11-essential-technology-enhancements/"><u>Revitalize Your Classic Ride with These 11 Essential Technology Enhancements</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalizing-creativity-procreate-empowers-visual-artists-with-promising-possibilities/"><u>Revitalizing Creativity: Procreate Empowers Visual Artists with Promising Possibilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/say-goodbye-netflix-discontinues-local-download-feature-for-windows-users/"><u>Say Goodbye: Netflix Discontinues Local Download Feature for Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skip-windows-emulators-top-linux-gaming-stores-offering-officially-compatible-titles/"><u>Skip Windows Emulators: Top Linux Gaming Stores Offering Officially Compatible Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamline-gaming-capture-and-share-your-steam-gameplay-with-easy-screen-recording/"><u>Streamline Gaming: Capture and Share Your Steam Gameplay with Easy Screen Recording</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-rationale-behind-preserving-original-game-challenge-levels-from-start-to-finish/"><u>The Rationale Behind Preserving Original Game Challenge Levels From Start to Finish</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-tricks-for-optimized-iphone-photography-workflows-addressing-common-hurdles/"><u>Tips and Tricks for Optimized iPhone Photography Workflows: Addressing Common Hurdles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-advantages-why-choosing-comic-digitization-over-traditional-print/"><u>Top 6 Advantages: Why Choosing Comic Digitization Over Traditional Print</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-immediate-print-photo-devices/"><u>Top-Rated Immediate Print Photo Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ssl-problems-how-to-ensure-your-connection-is-safe-online/"><u>Troubleshooting SSL Problems – How to Ensure Your Connection Is Safe Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-enhancing-your-pc-gameplay-with-windows-11-tweaks/"><u>Ultimate Guide: Enhancing Your PC Gameplay with Windows 11 Tweaks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/uncovering-youtubes-top-viewed-comments-for-2024/"><u>Uncovering YouTube's Top Viewed Comments for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-superior-sound-discover-how-this-ultimate-spotify-client-enhancement-amps-up-your-music-experience/"><u>Unleash Superior Sound: Discover How This Ultimate Spotify Client Enhancement Amps Up Your Music Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-multitasking-with-windows-11-in-mac-os-using-parallels/"><u>Unlock Full Potential: Multitasking with Windows 11 in Mac OS Using Parallels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-nfl-sunday-tickets-at-no-charge-expert-tips-for-zero-expense/"><u>Unlocking NFL Sunday Tickets at No Charge – Expert Tips for Zero Expense</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-flyquest-edition-standing-desk-by-andaseat-a-review-of-innovative-design-and-functionality/"><u>Unveiling the FlyQuest Edition Standing Desk by AndaSeat: A Review of Innovative Design and Functionality</u></a></li>
+</ul></div>

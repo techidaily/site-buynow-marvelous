@@ -1,7 +1,7 @@
 ---
 title: $Price Tag Meets Power in Nikon SB-700
-date: 2024-08-31T17:31:15.553Z
-updated: 2024-09-01T17:31:15.553Z
+date: 2024-09-04T20:11:18.685Z
+updated: 2024-09-05T20:11:18.685Z
 categories:
   - BestProducts
 description: This Article Describes $Price Tag Meets Power in Nikon SB-700
@@ -89,16 +89,21 @@ Lifewire / Matthew S. Smith
 
  All the laptop’s ports are placed near the front of the chassis. You’ll have to deal with tangled cables more often than with a laptop that places most ports on the rear. I found this annoying when using an external mouse, as cables jutting from the laptop’s flanks often bumped my hand while playing games.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## What’s New: This one is special
 
  The Acer Predator Triton 300 SE has little in common with other Predator Triton or Helios models. A few common design elements can be found in the speaker grill, fans, and PreadtorSense software, but the design is otherwise distinct.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Display: Better than first glance
 
@@ -116,6 +121,12 @@ Lifewire / Matthew S. Smith
 
  There’s one downside: poor viewing angles. This is unusual in a modern laptop, though I’ve noticed this trait in many high-refresh laptop displays. I can’t give the Triton 300 SE too much flak for this given its otherwise excellent performance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance: Great for games, ok for everything else
 
  The Acer Predator Triton 300 SE’s most unusual feature is its Intel Core i7-11375H processor. It’s odd because it has just four cores (running eight threads) but is still sold as a top-tier component. The Core i7-11375H has higher minimum and maximum clock speeds than the comparable Intel Core i7-1165G7 found in thinner notebooks. The i7-11375H can clock as high as 5GHz. My review unit also had 16GB of RAM and a 512GB solid-state hard drive.
@@ -134,10 +145,6 @@ Lifewire / Matthew S. Smith
 
  For me, the Triton 300 SE is easily fast enough: it can handle most games at an average of 60 frames per second (fps), and often much higher, at 1080p resolution. I wouldn’t recommend the Triton 300 SE if you plan to use an external 1440p or 4K monitor, however. Pushing a higher pixel count will lead to sub-60fps performance in most demanding games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Productivity: All business
 
  The Acer Predator Triton 300 SE’s business-like design carries over to the keyboard and mouse. Key feel is good, with significant key travel and firm bottoming action, and the spacious layout will be comfortable for most users.
@@ -148,13 +155,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/IiMzYmVU-_I6PnObn0bkjyCzqUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-3-7cae0e5d13154048bbc93c40976706ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Matthew S. Smith
 
  The touchpad is about four inches wide and two and a half inches deep. That’s not bad for a gaming laptop, but average for a productivity machine, and it can feel cramped. It’s responsive and rejects any quick, unintended brush by a palm or thumb. It’s smooth when using multi-touch gestures like two-finger scroll or pinch-to-zoom.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Audio: Packing a punch
 
  This laptop packs a sonic punch. It has an upwards-facing speaker that provides clear, crisp sound in games, music, or podcasts. Maximum volume is loud enough to fill an office with music and overcome most ambient noise. There’s even a hint of bass that you’ll feel through your fingertips when the volume is cranked up.
@@ -163,6 +173,12 @@ Lifewire / Matthew S. Smith
 
  There are limits, of course. It isn’t loud enough to project impressive volume in a living room or kitchen. It can also sound muddy and confused when playing bass-forward music or the most frantic action games. Still, it’s an impressive set of speakers that will rarely leave you wanting for more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Network: Killer performance
 
  Downloading a big, hot new game can be a real hassle, especially over Wi-Fi, but the Triton 300 SE can help. It has Intel’s Killer Wi-Fi 6 AX1650 and let me tell you: this thing rips.
@@ -171,13 +187,16 @@ Lifewire / Matthew S. Smith
 
  This translated to excellent real-world results. I created a real-world stress test by downloading Cyberpunk 2077 on Steam while simultaneously downloading Metro Exodus on Epic. Surprisingly, both downloads averaged in excess of 25Mbps. I’m used to seeing numbers in the teens.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Camera: BYOW (Bring Your Own Webcam)
 
  Acer’s Predator Triton 300 SE straddles the line between entertainment and productivity in its design, but the camera falls short of its professional aspirations. It’s a tiny 720p pinhole camera that squeezes between the display and the top bezel. Video quality is grainy in all but the brightest rooms and uneven lighting can easily confuse it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Battery: Ouch
 
  It’s easy to pack the Acer Predator Triton 300 SE in a bag for travel, but keeping it charged is a different story. This is a powerful laptop yet, due to its size, it contains a modest 60 watt-hour battery. That would be fine in a laptop without discrete graphics, but this is a gaming laptop.
@@ -192,13 +211,13 @@ Lifewire / Matthew S. Smith
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/RSfl2dEVmErlvh3BUUFcxqsbt9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-2-c5eed4bfe7e44014952b5503566097d9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Matthew S. Smith
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Software: Planet what now?
 
@@ -213,7 +232,10 @@ Lifewire / Matthew S. Smith
  Acer sells the Predator Triton 300 SE for $1,400, and it sometimes sells for $1,350 at Best Buy. This is an outstanding price for a laptop packing Nvidia’s RTX 3060\. There’s only a few competitors with the RTX 3060, such as MSI’s GF65 Thin, that can be purchased for less right now. The MSI GF65 manages to undercut the Triton 300 SE by using an older Intel chip and just 8GB of RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Acer Predator Triton 300 SE vs. Asus ROG Zephyrus G14
 
@@ -234,7 +256,16 @@ Lifewire / Matthew S. Smith
  Acer’s Predator Triton 300 SE is an excellent value that has what gamers want: a great gaming experience and a quality display. Its short battery life and mediocre multi-core processor hold it back in everyday use, but the laptop’s competitive price makes these flaws easy to forgive.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -242,6 +273,12 @@ Lifewire / Matthew S. Smith
 * [Dell XPS 13 2-in-1 Laptop](https://www.lifewire.com/dell-xps-13-2-in-1-laptop-review-4795686)
 * [Microsoft Surface Laptop 2](https://www.lifewire.com/microsoft-surface-laptop-2-review-4779760)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Predator Triton 300 SE

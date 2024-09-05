@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2024-08-31T17:29:19.878Z
-updated: 2024-09-01T17:29:19.878Z
+date: 2024-09-04T20:11:25.106Z
+updated: 2024-09-05T20:11:25.106Z
 tags:
   - games
   - tv
@@ -44,7 +44,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Update History 
 
@@ -55,10 +58,19 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The PlayStation 4's update history page for World of Final Fantasy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-update-history-world-of-final-fantasy.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  A Fully Functional Web Browser 
 
  The PlayStation 5 technically has a browser for opening web pages, but it's extremely limited and difficult to access compared to the PS4 browser. You can only open the PS5 browser through links found in applications or by opening social media pages on your console. Furthermore, the browser's search bar is locked, meaning you can't access most websites through traditional means. There are ways to bypass this restriction and [freely use the PS5's hidden browser](https://win-solutions.techidaily.com/comprehensive-solutions-to-overcome-hearthstone-pc-game-crashing-problems/), but it's hardly worth the effort.
@@ -66,7 +78,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
 
@@ -79,7 +94,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4  USB Backup for PS5 Saves 
 
@@ -90,13 +108,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![PS5 Saved Data and Game App Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-saved-data-and-game-app-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  Why Is the PS5 Still Missing These Features? 
 
  With most of the important PS4 features having reached the PS5 through firmware updates, the remaining omissions don't seem important enough for Sony to bring back or were consciously removed for various reasons. There's still a chance that some of these missing features may return in the future, but it's unlikely.

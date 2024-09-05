@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2024-08-31T17:31:52.685Z
-updated: 2024-09-01T17:31:52.685Z
+date: 2024-09-04T20:11:18.021Z
+updated: 2024-09-05T20:11:18.021Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -71,6 +71,12 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
  The rear panel is entirely matte black plastic. It’s pretty basic, but you also won’t be staring at the back of your TV a whole lot either. On the left you’ll find the power cable all by its lonesome, with the rest of the inputs and ports on the right. These are split between a hub facing the right side of the unit, and another cluster that stick straight out the back. This might be annoying if you want to get the TV super close to a wall, but the main ports most people will be using are found on the right side anyway.
@@ -86,7 +92,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Stick to the on-screen instructions**
 
@@ -108,9 +117,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
  However, IPS panels are notoriously bad for black uniformity and backlight bleed, which can cause clouding around the edges. We found this to be the case on our XBR65X850F, and while not unusable, it’s probably not the best option for viewing in dark environments because of this. The TV does have solid gray uniformity however, with no dirty screen effect. This is a huge boon if you’re a big sports fan.
@@ -125,11 +131,14 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
@@ -137,7 +146,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: A bit sluggish but good enough**
 
@@ -154,7 +166,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Not bad for the size, but not the cheapest**
 
@@ -165,7 +180,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 

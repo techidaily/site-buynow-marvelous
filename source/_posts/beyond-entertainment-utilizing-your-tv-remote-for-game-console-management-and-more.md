@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2024-08-31T17:29:26.489Z
-updated: 2024-09-01T17:29:26.489Z
+date: 2024-09-04T20:11:25.217Z
+updated: 2024-09-05T20:11:25.217Z
 tags:
   - games
   - tv
@@ -33,6 +33,12 @@ Jordan Gloor / How-To Geek
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Ultimate Solution: HDMI-CEC
 
  HDMI Consumer Electronics Control, or HDMI-CEC for short, is essentially a single connection wire that can link multiple devices to one input, which can also be compartmentalized internally. In essence, it lets all your devices communicate with each other directly and respond to inputs from a single TV remote.
@@ -40,23 +46,26 @@ Jordan Gloor / How-To Geek
 ![Labelled HDMI inputs on the back of a television.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Set up HDMI-CEC on Your TV
 
@@ -66,16 +75,10 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use a TV Remote on a Console
 
  Using a TV remote on a console might initially seem a bit counter-intuitive since these machines already come packaged with a perfectly good controller. However, if your Xbox or PlayStation is a regular part of your media setup, it may be worth controlling it like you would a TV.
@@ -87,7 +90,10 @@ Jason Fitzpatrick / How-To Geek
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
@@ -103,6 +109,12 @@ Jason Fitzpatrick / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -112,7 +124,10 @@ Jason Fitzpatrick / How-To Geek
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 

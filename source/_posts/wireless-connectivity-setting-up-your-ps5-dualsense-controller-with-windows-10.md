@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10"
-date: 2024-08-31T17:30:25.262Z
-updated: 2024-09-01T17:30:25.262Z
+date: 2024-09-04T20:11:26.109Z
+updated: 2024-09-05T20:11:26.109Z
 tags:
   - games
   - tv
@@ -28,7 +28,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -49,7 +52,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
@@ -57,22 +63,34 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Pairing and Configuring a PS5 Controller for Steam
 
  Steam will often automatically recognize the DualSense controller and swap action and game control accordingly, but if something is not working correctly, there are a few easy ways to troubleshoot the issue.
@@ -89,26 +107,41 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Using a PS5 Controller for Non-Steam PC Games
 

@@ -1,7 +1,7 @@
 ---
 title: Discover How the Google Pixel 3 Reimagines What It Means to Use Android
-date: 2024-08-31T17:31:08.624Z
-updated: 2024-09-01T17:31:08.624Z
+date: 2024-09-04T20:11:18.802Z
+updated: 2024-09-05T20:11:18.802Z
 categories:
   - BestProducts
 description: This Article Describes Discover How the Google Pixel 3 Reimagines What It Means to Use Android
@@ -68,9 +68,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## **Design: Glimpsing an ugly future**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna looks something like what I would imagine a space prison to look like. It’s far larger than any of the other antennas that I tested, and during every step of the assembly I kept thinking to myself “well that part can’t possibly be necessary.” From the comically long antennas and giant metal grate, to the bulbous hollowed out spheres, there is a lot going on here.
@@ -80,7 +77,10 @@ Lifewire / Jonno Hill
  As you’ll see later though, this is because the ClearStream 2V Indoor/Outdoor HDTV Antenna doesn’t really care about looks. Everything is 100% about function. There are, however, a few little elements from a design perspective that help make the ClearStream a somewhat thoughtful device nonetheless. Once assembled, all the parts fit together nicely like a lego set.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup: Buckle up**
 
@@ -91,8 +91,10 @@ Lifewire / Jonno Hill
  Once the entire device is assembled, the real work begins in my opinion. Now you have to figure out how and where to mount this beast of an antenna. Antenna’s Direct has you covered here, including a hefty bracket and swiveling mast that will help you mount the antenna to just about anywhere with a flat surface that you don’t mind screwing some bolts into.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Top tier**
 
@@ -102,6 +104,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  In my channel acquisition test, the ClearStream managed 76 channels consistently, far and away the best result from any of the devices I tested. The worst antenna I tested picked up just 47 channels, and the second best, 69\. Needless to say, all the wires, cages, and bulbous plastic spheres are clearly doing something here, because this was the best result I saw.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Range: Extensive**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna is rated for up to 60 miles. These ratings are generally based on relatively unobstructed paths between the signal and your device. There is a lot less than 60 miles between me and my local TV broadcast source, but if the other results are any indication, the ClearStream has a fighting chance at living up to these claims.
@@ -109,7 +117,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![ClearStream 2V Indoor/Outdoor HDTV Antenna](https://www.lifewire.com/thmb/NoQoQy3-EFUpi1z9oMTpD2JGWHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_04-70f5a48ac9a347d286c71240b85cbc1c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
@@ -118,7 +129,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The ClearStream 2V Indoor/Outdoor HDTV Antenna has a list price of $120 and a 90-day rolling average price on Amazon of $83\. This is significantly more than any of the other antennas I tested, some of which could be had for around $25\. If you live far enough that you need a better performing antenna, however, it could easily be worth every penny. I would only caution buyers to make sure they really do need this performance before pulling the trigger on this very large antenna.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **ClearStream 2V Indoor/Outdoor HDTV Antenna vs 1byone Digital Amplified Indoor HD TV Antenna**
 
@@ -132,7 +146,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The ClearStream 2V Indoor/Outdoor HDTV Antenna isn’t the cheapest or best-looking antenna on the market, but it gets the job done better than any of the other antennas we tested. Buyers who know they need an antenna with better range and performance will find this to be a noticeable bump from cheaper indoor antennas.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

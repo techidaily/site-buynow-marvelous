@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2024-08-31T17:32:55.648Z
-updated: 2024-09-01T17:32:55.648Z
+date: 2024-09-04T20:11:16.981Z
+updated: 2024-09-05T20:11:16.981Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -66,12 +66,24 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Straight into the action**
 
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
 ## **Plot: A character torn between obligation and friendship**
@@ -87,13 +99,24 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Gameplay: Parkour and zombies galore**
 
@@ -109,15 +132,8 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -128,12 +144,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Competition: Other zombie and parkour games**
 
@@ -147,10 +178,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Dying Light

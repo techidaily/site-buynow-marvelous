@@ -1,7 +1,7 @@
 ---
 title: Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
-date: 2024-08-31T17:32:27.826Z
-updated: 2024-09-01T17:32:27.826Z
+date: 2024-09-04T20:11:17.437Z
+updated: 2024-09-05T20:11:17.437Z
 categories:
   - BestProducts
 description: This Article Describes Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
@@ -69,18 +69,12 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  The Luna app, both the Fire TV version and the web app version, is well-designed enough, without a whole lot to really stand out or impress. It functions as a basic interface to access all of the games that the service offers, including a Home screen that highlights games in various categories, a Library screen that lists every available game, and a Playlist page that provides easy access to games you have specifically chosen to place there.
@@ -91,6 +85,18 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  In addition to the offset analog sticks, the Luna controller also features a fairly standard array of buttons. A somewhat mushy directional pad sits below the left analog stick, and four familiar face buttons sit above the right stick. The triggers are fairly shallow but feel responsive, and shoulder buttons are easily accessed without moving your fingers off the triggers. In addition to the standard array, the Luna controller also includes a microphone button to access Alexa.
@@ -104,7 +110,10 @@ Lifewire / Jeremy Laukkonen
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Setup Process: Quick and easy
 
@@ -115,7 +124,10 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
@@ -156,7 +168,10 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
@@ -170,6 +185,12 @@ Lifewire / Jeremy Laukkonen
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
  Microsoft Game Pass Ultimate, which includes the xCloud streaming service, is the closest analog to Luna. They’re both monthly subscription services, and they both use a Netflix model where you can stream whatever you want, however much you want, whenever you want, without needing to actually buy the games.
@@ -189,7 +210,10 @@ Lifewire / Jeremy Laukkonen
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 

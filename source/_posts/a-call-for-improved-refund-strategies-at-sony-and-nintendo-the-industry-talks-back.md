@@ -1,7 +1,7 @@
 ---
 title: "A Call for Improved Refund Strategies at Sony and Nintendo: The Industry Talks Back"
-date: 2024-08-31T17:30:27.744Z
-updated: 2024-09-01T17:30:27.744Z
+date: 2024-09-04T20:11:26.145Z
+updated: 2024-09-05T20:11:26.145Z
 tags:
   - games
   - tv
@@ -40,7 +40,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  Which is a polite way of saying your only option is not to buy a broken or incorrect item in the first place! All sales are final, no refunds!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How Other Platforms Handle Refunds
 
@@ -55,7 +58,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  On PC, digital storefronts have similarly convenient refund policies. Steam offers automatic refunds for games that have been played for less than two hours and have been purchased in the last 14 days. I have also successfully refunded games in the past that had more than two hours of playtime by explaining that it was because of trying to get the game to work or another legitimate reason to have more than two hours on the clock. However, anything outside of the eligibility window is at Valve's discretion. Also, in case you didn't know, if you bought a game shortly before it went on sale, you can ask for a refund and then re-buy the game at the new lower price! The [Epic Games Store refund policy](https://www.epicgames.com/site/en-US/store-refund-policy) is almost exactly the same, so both Steam and EGS are virtually on par when it comes to refunds.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why This Will Be Good for You, Sony & Nintendo
 
@@ -66,7 +72,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  Letting players get automatic refunds using the 14 day, two-hour rule is a small price to pay if it makes it more likely that people will hit that buy button in the first place. Perhaps even more important than that, it's a simple way to generate goodwill from your customer base.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What We Want From Your Refund Policy
 

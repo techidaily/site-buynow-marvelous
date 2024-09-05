@@ -1,7 +1,7 @@
 ---
 title: Ultimate Selection of 2024'S Premium MicroSD Memory Cards - Expert Reviews and Ratings
-date: 2024-08-31T17:28:20.133Z
-updated: 2024-09-01T17:28:20.133Z
+date: 2024-09-04T20:11:23.774Z
+updated: 2024-09-05T20:11:23.774Z
 tags:
   - buying-guides
 categories:
@@ -93,14 +93,20 @@ If you need a single option for your microSD card, go for the Samsung Pro Plus. 
 [$40 at Amazon](https://www.amazon.com/dp/B0C1PRYPYX/?smid=ATVPDKIKX0DER&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [$60 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1762874-REG/samsung%5Fmb%5Fmd512sa%5Fam%5F512gb%5Fpro%5Fplus.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best High-Capacity microSD Card: [SanDisk Ultra 1.5TB microSDXC card](https://www.amazon.com/gp/product/B0CJMRW771/?smid=ATVPDKIKX0DER&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![sandisk ultra 1.5TB](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-ultra-1_5tb.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 SanDisk
 
@@ -119,11 +125,14 @@ SanDisk
 
 ![SanDisk Ultra 1.5TB](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-ultra-1_5tb.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best High-Capacity microSD Card
 
 #####  SanDisk Ultra microSDXC Card
@@ -134,13 +143,16 @@ The SanDisk Ultra is a reliable microSD card for everyday essential data storage
 
 [$110 at Amazon](https://www.amazon.com/gp/product/B0CJMRW771/?smid=ATVPDKIKX0DER&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [$110 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1792744-REG/sandisk%5Fsdsquac%5F1t50%5Fgn6ma%5F1%5F5tb%5Fultra%5Fuhs%5Fi%5Fmicrosd.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best microSD Card for Steam Deck: [Samsung Evo Select microSDXC Card](https://www.amazon.com/dp/B0CWPPMD8W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![samsung evo select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/samsung-evo-select.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Samsung
 
 | Pros               | Cons                           |
@@ -174,9 +186,6 @@ The Samsung Evo Select is an excellent companion for your Stream Deck. It can re
 
 ![sandisk extreme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-extreme_f.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 SanDisk
 
 | Pros                                          | Cons                                                            |
@@ -196,6 +205,12 @@ SanDisk
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best microSD Card for Nintendo Switch
 
 #####  SanDisk Extreme 
@@ -206,12 +221,27 @@ SanDisk Extreme’s fast transfer speeds ensure quick game loading and a smooth 
 
 [$26 at Amazon](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter-dp-B09X7CRKRZ/dp/B09X7CRKRZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1692705-REG/sandisk%5Fsdsqxav%5F256g%5Fan6ma%5F256gb%5Fextreme%5Fuhs%5Fi%5Fmicrosd.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best microSD Card for Raspberry Pi: [Kingston Canvas Go Plus microSDXC card](https://www.bhphotovideo.com/c/product/1557869-REG/kingston%5Fsdcg3%5F128gbsp%5F128gb%5Fcanvas%5Fgo%5Fplus.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
 ![kingston canvas go plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/kingston-canvas-go-plus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Kingston
 
@@ -234,7 +264,10 @@ Kingston
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best microSD Card for Raspberry Pi
 
@@ -245,15 +278,15 @@ Thanks to its fantastic read and write speeds, the Kingston Canvas Go Plus is an
 [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1557869-REG/kingston%5Fsdcg3%5F128gbsp%5F128gb%5Fcanvas%5Fgo%5Fplus.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best microSD Card for Cameras: [SanDisk Extreme microSDXC card](https://www.amazon.com/gp/product/B09X7CRKRZ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![sandisk extreme 512gb](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-extreme-512gb.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 SanDisk
 
 | Pros                                         | Cons                     |
@@ -272,14 +305,8 @@ SanDisk
 
 ![sandisk-extreme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/sandisk-extreme.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Best microSD Card for Cameras
 
 #####  SanDisk Extreme 
@@ -291,7 +318,10 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 [$26 at Amazon](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter-dp-B09X7CRKRZ/dp/B09X7CRKRZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1692705-REG/sandisk%5Fsdsqxav%5F256g%5Fan6ma%5F256gb%5Fextreme%5Fuhs%5Fi%5Fmicrosd.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
@@ -307,6 +337,12 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 
  Read and write speeds are [important for microSD and SD cards](https://some-approaches.techidaily.com/updated-total-takeover-of-powerdirector-with-our-2024-review/) because they impact how quickly you can access the content stored on them or store fresh content. For example, your camera will struggle to record 4K video on a card without a fast writing speed. As cameras often have very little onboard storage, the captured photos and videos are transferred to the microSD and [SD cards](https://facebook-video-content.techidaily.com/2024-approved-what-lurks-behind-the-curtain-of-missing-video-suggestions/) in real time. Similarly, without faster read speeds, your portable gaming console won’t be able to quickly load the apps and games on the card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What do the microSD card classes mean?
 
  The [microSD card classes](https://screen-video-capture.techidaily.com/new-in-2024-high-quality-video-webcams-top-5-combos-with-sound/) refer to the card’s minimum sustained write speeds or random read/ write speeds. There are different card classes: Speed Class, UHS Speed Class, Video Speed Class, and Application Performance Class.
@@ -317,6 +353,12 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 
  Finally, the Application Performance Class tells a card’s ability to handle random read and write operations. These speeds are essential for how well an app loads or runs on a microSD card. The A1 class has a minimum 1500 IOPS random read speed and 500 IOPS random write speed. The A2 class has a minimum 4000 IOPS random read speed and 2000 IOPS random write speed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I format a microSD card?
 
  There are two main ways to format a microSD card. You can format it on either your PC/ [Mac](https://screen-mirror.techidaily.com/in-2024-best-3-nokia-c32-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/) or the device in which you are using the microSD card. However, it’s typically best to use the device for formatting, as that ensures you don’t mess up anything, and the microSD card works seamlessly with the device. To format the microSD card using the device, head over to the device settings and locate storage settings. The format or erase microSD card option is typically present in the storage settings. Remember to back up any existing data before formatting.

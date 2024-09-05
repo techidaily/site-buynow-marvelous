@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
-date: 2024-08-31T17:31:22.597Z
-updated: 2024-09-01T17:31:22.597Z
+date: 2024-09-04T20:11:18.553Z
+updated: 2024-09-05T20:11:18.553Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
@@ -71,7 +71,10 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Customizable and instinctive**
 
@@ -89,9 +92,6 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Quick-tips and syncing**
 
  The Fitbit Versa Lite is quick and easy to set up—the most involved part of the process is downloading the Fitbit app to your smartphone and connecting it to your watch. The Fitbit app is available for both iOS and Android platforms, and syncing it to the Versa Lite via Bluetooth is very straightforward.
@@ -100,14 +100,8 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/BD_8kRJ7n6qQdf5LY9rLKiYigTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-05-fac178f5e6b240c29ff8d1e1e4fcb96f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## **Comfort: Attractive and confident wearability**
 
  The Fitbit Versa Lite feels nice in your hands and on your wrist. The device is relatively lightweight at 1.41 ounces and the screen unit sits naturally on the back of your wrist. The Versa Lite comes with two wristbands, one small and one large, measuring four and 5.25 inches long. Both are a little less than an inch wide and are made of a smooth, soft polymer material which is very comfortable for extended periods of wear.
@@ -116,6 +110,12 @@ Lifewire / Todd Braylor
 
  Aesthetically, the Versa Lite's screen and wrist band are attractive and look sleek. You can confidently wear the Versa Lite in any professional setting—it's good-looking but not overly flashy. Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed and you might find yourself wanting to leave it on the bedside table instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Lean and effective**
 
  The Versa Lite uses an optical heart rate monitor which applies photoplethysmography (PPG) technology to measure your pulse and gauge your heart rate. This feature shines a rapidly-pulsating LED into your skin and measures how your blood flow affects the dispersion of light, producing a constant stream of heart rate data.
@@ -136,8 +136,20 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/97XADSG__Ti-9y6W9YfT6A-sRLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-04-a5baf62c5de749cb93986be2eab3ad2d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery Life: Days of activity**
 
  Fitbit promised four or more days of battery life for the Versa Lite, and they weren’t lying. The Versa Lite we tested lasted almost four and a half days before draining all the way down to zero. This made so many days of daily wear and daily runs seem hassle-free.
@@ -146,8 +158,26 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/NkHZ0M514IlrqowHF6M_QWHxgj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-06-be4c149f1dff4214acfe0fbc3a4d63e6-1-f6f110eb54e142c992dd3f613bdb9f28.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Key Features: Fitbit basics plus apps for any activity**
 
  Like all Fitbits, the Versa Lite keeps track of what the company calls their “Fitbit basics.” These are key activity metrics for any active lifestyle and make it super easy for you to keep track of your health and get motivated.
@@ -156,10 +186,6 @@ Lifewire / Todd Braylor
 
  A host of other smartwatch apps come standard with the Versa Lite, including alarms, a weather app, a stopwatch, a relaxation app that guides you through short mindfulness exercises, and the specific exercise apps mentioned above. As far as additional apps for the Versa Lite, this is it—the Lite Edition does not have the ability to add extra apps.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## **Price: A deal for under $200**
 
  Retailing for $159.95 and occasionally selling for less on sale, the Versa Lite is a price-conscious but solid piece of tech that prioritizes exercise. It's a great introduction to the smartwatch lifestyle with all the notifications you need to be connected and without an overwhelming amount of distractions.
@@ -183,7 +209,10 @@ Lifewire / Todd Braylor
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -191,9 +220,6 @@ Lifewire / Todd Braylor
 * [Fitbit Inspire HR](https://www.lifewire.com/fitbit-inspire-hr-review-4768656)
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Versa Lite

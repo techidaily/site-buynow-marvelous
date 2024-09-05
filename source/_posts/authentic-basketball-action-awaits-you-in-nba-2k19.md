@@ -1,7 +1,7 @@
 ---
 title: Authentic Basketball Action Awaits You in NBA 2K19
-date: 2024-08-27T10:56:38.209Z
-updated: 2024-08-28T10:56:38.209Z
+date: 2024-09-04T20:11:26.527Z
+updated: 2024-09-05T20:11:26.527Z
 categories:
   - BestProducts
 description: This Article Describes Authentic Basketball Action Awaits You in NBA 2K19
@@ -71,6 +71,12 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  It has two little flip-up stopper nubs at the bottom to hold your laptop in place, and they can be gradually adjusted to avoid having them stick up and press into your wrists while typing. Meanwhile, a pair of feet on the bottom of the pad flip out to elevate your laptop about an inch upward to improve air circulation.
@@ -82,7 +88,16 @@ Lifewire / Andrew Hayward
  The C302 has a little bit of accent lighting via a pair of blue lights beneath each fan, but it doesn’t emanate a significant glow, nor is it customizable in any way.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Setup Process: Plug and play
 
@@ -93,7 +108,10 @@ Lifewire / Andrew Hayward
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Performance: It makes a difference
 
@@ -109,9 +127,6 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
@@ -125,14 +140,13 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
 
  At $27, the Kootek Laptop Cooling Pad is a bit more robust. It gives you the ability to power the fans on and off—either the one large fan, or the group of four smaller fans around it—plus it runs a little quieter in use. The unit feels more durable overall, although the Kootek’s height adjustment system feels clunky, as you slide a hanging metal bar into plastic ridges to keep it upright. Kootek’s pad is larger and designed for laptops as large at 17 inches, but if you don’t need the extra size, the TopMate C302 gets the job done for less cash.
@@ -144,7 +158,10 @@ Lifewire / Andrew Hayward
  Durability questions aside, the TopMate C302 Laptop Cooling Pad ultimately worked about as well as the other, pricier pads I tested, helping to offset some of the heat generated by a very hot gaming laptop. If you’re concerned about long-term damage or performance degradation from an overheating laptop, the C302 is a cost-efficient way to help keep your notebook from reaching extreme heat peaks.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -152,6 +169,12 @@ Lifewire / Andrew Hayward
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C302 Laptop Cooling Pad

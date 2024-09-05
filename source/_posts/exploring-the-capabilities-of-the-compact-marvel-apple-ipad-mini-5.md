@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
-date: 2024-08-31T17:31:45.070Z
-updated: 2024-09-01T17:31:45.070Z
+date: 2024-09-04T20:11:18.165Z
+updated: 2024-09-05T20:11:18.165Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
@@ -75,6 +75,12 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -92,7 +98,10 @@ Lifewire / Andy Zahn
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Battery life: No worries**
 
@@ -100,9 +109,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -112,7 +118,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Autofocus: Blazing fast**
 
@@ -122,9 +131,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -141,6 +147,18 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -180,7 +198,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Big brand, big price tag**
 
@@ -188,6 +209,12 @@ Lifewire / Andy Zahn
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition: Dominating from the middle ground**
 
  Canon hasn’t tried to push any boundaries with the SX70 HS. Instead, it plays it safe and just does everything very well. Two of its main competitors in the superzoom arena, Panasonic and Nikon, offer intriguing alternatives by either cutting costs or offering groundbreaking technological advances.
@@ -210,9 +237,6 @@ Lifewire / Andy Zahn
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerShot SX70

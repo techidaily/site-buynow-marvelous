@@ -1,7 +1,7 @@
 ---
 title: Expert Assessment of Battery Operated Google Wireless Doorbells
-date: 2024-08-31T17:32:37.136Z
-updated: 2024-09-01T17:32:37.136Z
+date: 2024-09-04T20:11:17.278Z
+updated: 2024-09-05T20:11:17.278Z
 categories:
   - BestProducts
 description: This Article Describes Expert Assessment of Battery Operated Google Wireless Doorbells
@@ -70,6 +70,12 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design: Sleek and smart-looking
 
  The Fitbit Versa 3 resembles prior versions of the model, though with softer and more rounded edges meant to better contour to the wrist and offer faster response times, according to[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) . While the standard model that I tested came with a silicone infinity sport band, there are several fancier watch bands available, including a quick-release band—if you opt for a special edition. This would certainly be preferable to the basic black version I tested, which really does look like a sports watch rather than a “regular” watch.
@@ -80,9 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 
  This smartwatch is capable of storing five different watch faces, and while they’re easy to find, downloading a new face, just like all apps—took quite a while. The SPO2 watch face is compatible with the Versa 3, but you’ll have to pay for the Fitbit Premium app subscription to access this data in any meaningful way.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Comfort: Lightweight for all-day wear
 
  I found the Fitbit Versa 3 to be pleasantly lightweight and easy to wear for the whole day. Sleeping with it was never an issue, and the sleep mode setting was easy to turn on for uninterrupted sleep. Showering with the device was also uneventful, though I found that the side button was somehow turned on by contact with the water. I’m not sure how this bodes for swimming workouts with this device, which it’s supposed to be able to handle with its 50-meter water resistance.
@@ -91,11 +94,14 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/R_j7dFFwnlWoGyar6N0dYZREqIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-02-8b212782c0f245459f26ffaa0e2982e2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance: Accuracy slightly questionable
 
  In true Fitbit brand fashion, the Fitbit Versa 3 supports wellness in a big-picture way. There are over 20 different workout modes and several, such as running, elliptical exercise, swimming, biking, and aerobic workouts, are automatically detected.
@@ -109,19 +115,31 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/XaHqGkkkpkk1u4lozEYs71XuROc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-05-95e58759793b422db3ebd22cf177f2ba.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battery: Lasts for a solid six days
 
  Like the Fitbit Sense, the Fitbit Versa 3 is supposed to last for over six days on a single charge when the display is not set to “always on.” My experience yielded six days before the battery was critically low. This could be because I chose to download and use the Fitbit SPO2 watch face that measures blood oxygen saturation. Fitbit says this face could accelerate the need for charging. Otherwise, I used[GPS](https://www.lifewire.com/what-is-gps-how-it-works-4688647) for about 30 minutes each day and only streamed music via Spotify for 2 hours total.
 
  It charged from critically low to 100 percent in about 1.25 hours, which is in line with the 1-2 hour estimation by the manufacturer. A quick charge brought the device from 9 percent to 29 percent, which tracks with the claim that a 12-minute charge would bring it up to a full day of battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Software/Key Features: Wellness and convenience features reign
 
  The Fitbit Versa 3 runs on the Fitbit OS and benefits from several upgrades. The latest smart features include a built-in speaker and microphone, which Android users can use to respond to phone calls along with sending replies and emojis when the phone is nearby. Sadly, iPhone users can only answer or reject calls and view notifications.
@@ -139,7 +157,10 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 ![Fitbit Versa 3](https://www.lifewire.com/thmb/2f-G8JEK0Z63WAJEd2yrsI_9jDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Versa-3-03-00c26852cbc94711a4bb6660b02e2550.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Yoona Wagener
 
@@ -149,6 +170,18 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 
  The Versa 3 is also about $100 cheaper than the Fitbit Sense, which offers a few more wellness-tracking flourishes such as the ECG app and EDA responses. The smartwatch claims to offer similarly accurate heart rate monitoring and onboard GPS and some users will still benefit from the array of wellness-centric features like reminders to move, food and water tracking, guided breathing, and all the smart features the more costly Sense has too.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fitbit Versa 3 vs. Samsung Galaxy Watch Active2
 
  The Samsung Galaxy Watch Active2 is a close comparison to the Fitbit Versa 3\. If you opt for GPS and cellular connectivity, it will cost about $380 and above, but you’ll also get a slew of additional smart features that surpass the Versa 3\. You can take phone calls over Wi-Fi, control your camera, check social feeds, and listen to music on your run without your phone in your pocket.
@@ -165,9 +198,6 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 
  The Fitbit Versa 3 is a lightweight wearable that offers an attractive blend of fitness and wellness-tracking tools and connected features. New on-device GPS, enhanced heart-rate monitoring, music controls, and the companion app could provide some users an easy deep dive into wellness trends along with desirable customization power. Those looking for added motivation to stay active may find it in this comfortable and capable wearable.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Versa 3

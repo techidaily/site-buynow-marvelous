@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection: The Top PS5 Solid State Drives for Gaming Excellence"
-date: 2024-08-31T17:27:44.433Z
-updated: 2024-09-01T17:27:44.433Z
+date: 2024-09-04T20:11:22.831Z
+updated: 2024-09-05T20:11:22.831Z
 tags:
   - buying-guides
 categories:
@@ -85,6 +85,12 @@ Best External PS5 SSD
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best PS5 SSD Overall: [WD\_BLACK SN850X](https://www.amazon.com/WD%5FBLACK-SN850X-Internal-Gaming-Heatsink/dp/B0B7CPSN2K?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
 ![WD BLACK SN850X on pink background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/wd-black-sn850x.jpg) 
@@ -111,6 +117,12 @@ Western Digital
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best PS5 SSD Overall
 
 #####  WD SN850
@@ -122,7 +134,10 @@ The WDSN850X PS5 SSD brings express speeds to the PS5 at an affordable price.
 [$100 at Amazon](https://www.amazon.com/WD%5FBLACK-SN850X-Internal-Gaming-Heatsink/dp/B0B7CPSN2K?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Budget PS5 SSD: [Corsair MP600 PRO LPX](https://www.amazon.com/Corsair-MP600-NVMe-PCIe-Gen4/dp/B09Q2MW21F?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
@@ -148,11 +163,20 @@ Corsair
 
 ![Corsair MP600 PRO LPX 2TB SSD Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/corsair-mp600-pro-lpx-2tb-ssd-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget PS5 SSD
 
 #####  Corsair MP600 PRO LPX
@@ -163,16 +187,10 @@ Corsair's PS5 SSD is built specifically for the console, so you can enjoy fast s
 
 [$100 at Amazon](https://www.amazon.com/Corsair-MP600-NVMe-PCIe-Gen4/dp/B09Q2MW21F?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fcorsair__mp600_pro_l%2F6495944.p%3FskuId%3D6495944) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best 4TB PS5 SSD: [Sabrent 4TB Rocket 4 Plus SSD](https://www.amazon.com/4TB-SSD-Heatsink-PS5-SB-RKT4P-PSHS-4TB/dp/B09G2P4PYP?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
 ![Sabrent 4TB SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/71pphgvd7jl-_ac_sl1500-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sabrent
 
 | Pros                       | Cons               |
@@ -190,15 +208,13 @@ Sabrent
 ![sabrent rocket 4 plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/sabrent-rocket-4-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Best 4TB SSD
 
 #####  Sabrent 4TB Rocket 4 Plus M.2 Internal SSD
@@ -214,7 +230,10 @@ While the company may not be as popular as others on this list, the 4TB Rocket 4
 ![Firecuda SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/firecuda-ssd-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Seagate
 
@@ -236,6 +255,18 @@ Seagate
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Fast PS5 SSD
 
 #####  Seagate FireCuda 530
@@ -244,16 +275,10 @@ The Seagate FireCuda 530 is a blazing-fast SSD that will handle any PS5 game or 
 
 [$143 at Amazon](https://www.amazon.com/Seagate-FireCuda-Internal-Solid-State/dp/B0977LW48F?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-firecuda-530-4tb-internal-ssd-pcie-gen-4-x4-nvme-with-heatsink-for-ps5%2F6474701.p%3FskuId%3D6474701) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best 8TB PS5 SSD: [Addlink A95 8TB SSD](https://www.amazon.com/Addlink-Storage-Expansion-Maximum-Internal/dp/B0CJ2MN7NC?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
 ![Addlink A95 8TB SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/98919ff9-0296-418c-ada7-82ae5374-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Addlink
 
 | Pros                       | Cons      |
@@ -270,9 +295,6 @@ Addlink
 
 ![addlink s95](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/addlink-s95.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best 8TB SSD
@@ -283,6 +305,12 @@ The Addlink A95 8TB SSD costs a ton of money, but it's perfect for gamers with a
 
 [$940 at Amazon](https://www.amazon.com/Addlink-Storage-Expansion-Maximum-Internal/dp/B0CJ2MN7NC?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best External PS5 SSD: [WD\_Black P50 Game Drive](https://www.amazon.com/WD%5FBlack-Drive-Portable-External-Compatible/dp/B07YFGTDV4?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
 ![WD Black External SSD Dimensions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/WD-Black-External-SSD.jpg) 
@@ -308,12 +336,24 @@ Western Digital
 ![wd p50 ssd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/wd-p50-ssd.png) 
 
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best External PS5 SSD
 
@@ -323,15 +363,30 @@ The WD\_Black P50 Game Drive beats out the competition with incredibly fast spee
 
 [$315 at Amazon](https://www.amazon.com/WD%5FBlack-Drive-Portable-External-Compatible/dp/B07YFGTDV4?tag=hotoge-20&ascsubtag=UUhtgUeUpU208593&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F756323%2Fbest-ps5-ssd%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I install an SSD into a PS5?
 
  Installing an NVMe SSD into a PS5 is easy enough for just about anyone to accomplish...as long as you know your way around under your console's hood. Check out our full guide on[installing an NVMe drive in your PlayStation 5](https://youtube-video-recordings.techidaily.com/iphone-android-which-has-the-better-youtube-experience/) for more info.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What SSDs are compatible with a PS5?
 
  While many SSDs are compatible with the PS5, some form factors are not. To upgrade your console's storage, you'll want to look for an M.2 NVMe SSD [rather than a SATA alternative](https://techno-recovery.techidaily.com/accelerate-windows-1n-1-effective-solutions-for-enhancing-system-speed-and-responsiveness/). All drives featured in this roundup are compatible with the PlayStation 5.
@@ -345,12 +400,27 @@ The WD\_Black P50 Game Drive beats out the competition with incredibly fast spee
  The PS5 offers one SSD expansion slot with support for up to 8TB of storage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Can an external SSD play PS5 games?
 
  While it may surprise you, the answer is no, you cannot run PS5 games directly from an external SSD. You can store as many games on the external drive as it allows, but when you want to play them, you'll have to copy them to the PS5's internal storage first. Once the game files are copied, you can run the game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How many SSD slots does the PS5 have?
 
  There is one expansion SSD slot available inside the PS5\. You can also connect external SSDs using USB ports.

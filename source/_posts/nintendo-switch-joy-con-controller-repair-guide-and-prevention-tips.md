@@ -1,7 +1,7 @@
 ---
 title: Nintendo Switch Joy-Con Controller Repair Guide & Prevention Tips
-date: 2024-08-28 17:49:44
-updated: 2024-08-29 12:28:34
+date: 2024-09-04T20:04:22.962Z
+updated: 2024-09-05T20:04:22.962Z
 tags:
   - games
   - tv
@@ -31,6 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Joy-Con stick drift has plagued the Nintendo Switch since shortly after release. Having a controller register unwanted movement can ruin your aim and frustrate you when you're trying to relax and play some video games. Fortunately, there are a few things you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is Stick Drift?
 
  The term "stick drift" describes a problem that causes an analog control stick to register input when no force is applied. The stick may drift in a particular direction (for example, to the left), or it may drift in multiple directions depending on the last direction used. Drift may appear suddenly, over time, or seemingly disappear for a while before coming back again.
@@ -45,6 +51,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If the plus icon isn't in the center or there's a dot that seems to move erratically or "lean" in a particular direction, your Joy-Con is displaying signs of stick drift.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Causes Stick Drift?
 
  The main cause of stick drift of any kind, [including controllers from Microsoft and Sony](https://some-skills.techidaily.com/in-2024-top-10-list-elite-quality-4k-displays/), is wear and tear. Since the analog stick is a moving part, it's guaranteed to wear out eventually given enough usage.
@@ -63,6 +75,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Calibrate Nintendo Switch Joy-Con](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/calibrate_switch_joy_con.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also help mitigate the problem by calibrating controller dead zones within games. This will need to be done on a game-by-game basis and won't fix the issue at a system level, but by increasing the dead zone (the threshold by which an input is registered) you may be able to play some titles without drift appearing at all. Not all games allow you to modify this setting.
 
 ##  Fix 2: Use Nintendo's Joy-Con Repair Program
@@ -81,6 +105,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can then follow iFixit's own handy guide to fixing the [right Joy-Con](https://www.ifixit.com/Guide/Right+Joy-Con+Joystick+Replacement/113185) or [left Joy-Con](https://www.ifixit.com/Guide/Left+Joy-Con+Joystick+Replacement/113182). If you have a Switch Lite with integrated Joy-Con there are separate guides to follow for replacing the [right analog stick](https://www.ifixit.com/Guide/Nintendo+Switch+Lite+Right+Joystick+Replacement/137374) and [left analog stick](https://www.ifixit.com/Guide/Nintendo+Switch+Lite+Left+Joystick+Replacement/137385). You can also use these guides with parts you find for sale elsewhere on the web.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Alternatively, Buy a New Set
 
  Sometimes you need something right away, and if waiting for repairs to arrive or spare parts in the mail doesn't sound particularly appealing, you can always throw money at the problem instead. The [My Nintendo Store](https://www.nintendo.com/us/store/hardware/joy-con-and-controllers/) sells single neon blue, neon red, and gray Joy-Con for $39.99 and refurbished Joy-Con for $29.99\. You can get the full set for $79.99, and you'll have more color options available to you.
@@ -99,6 +135,12 @@ First-party Nintendo Joy-Con controllers in neon pink and neon green. Use the fu
 
  Unfortunately, many third-party controllers feature shoddy build quality and limited features. The HORI Split Pad Pro is comfortable but it lacks internal batteries, motion controls, and an infrared sensor, and it's also prone to drifting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Avoiding Stick Drift in the Future
 
  The easiest way to avoid stick drift is to never use your Switch, but this isn't a practical solution. Instead, keep a copy of your proof of purchase for any warranty claims you may need to make in the future and have fun with your console.
@@ -107,6 +149,12 @@ First-party Nintendo Joy-Con controllers in neon pink and neon green. Use the fu
 
 ![61drpi3cYUL._SL1258_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/61drpi3cyul-_sl1258_.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Nintendo Switch Pro Controller
 
 First-party Nintendo Switch Pro Controller for using your console in docked mode or when propped up in a static environment. The controller includes motion controls but lacks the infrared sensor found on the Joy-Con while providing a far more comfortable feel in the hand.
@@ -129,3 +177,38 @@ First-party Nintendo Switch Pro Controller for using your console in docked mode
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-weaving-individual-snaps-into-a-cohesive-tapestry/"><u>[New] 2024 Approved  Weaving Individual Snaps Into a Cohesive Tapestry</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-creativity-professional-insights-into-shooting-and-editing-stunning-slow-motion-content-for-instagram/"><u>[New] In 2024, Unleash Creativity  Professional Insights Into Shooting and Editing Stunning Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[Updated] 2024 Approved  A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-complete-examination-of-camstudios-capturing-features/"><u>[Updated] Complete Examination of CamStudio's Capturing Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024-ultimate-list-leading-pc-audio-solutions-for-gamers/"><u>2024 Ultimate List: Leading PC Audio Solutions for Gamers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-on-evaluating-your-sites-layout-before-final-upload/"><u>Comprehensive Guide on Evaluating Your Site's Layout Before Final Upload.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-netatmo-weather-station-analysis-the-perfect-tech-gadget-for-modern-meteorologists/"><u>Comprehensive Netatmo Weather Station Analysis - The Perfect Tech Gadget for Modern Meteorologists</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/develop-a-research-timeline/"><u>Develop a Research Timeline:</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-shadowy-depths-in-our-comprehensive-bloodborne-review/"><u>Discovering the Shadowy Depths in Our Comprehensive Bloodborne Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-performance-switching-to-apples-ventura/"><u>Elevate Performance: Switching to Apple's Ventura</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-travelers-dream-the-amazing-versatility-of-the-amazon-basics-tablet-stand/"><u>Evaluating the Traveler's Dream: The Amazing Versatility of the Amazon Basics Tablet Stand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-assessment-of-battery-operated-google-wireless-doorbells/"><u>Expert Assessment of Battery Operated Google Wireless Doorbells</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-90-lite-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor 90 Lite Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-premier-5-online-communities-ascending-beyond-twitter/"><u>In 2024, Premier 5 Online Communities Ascending Beyond Twitter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-strategies-to-combat-freezing-in-high-quality-mode/"><u>In 2024, Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-best-online-education-resources-with-our-expert-picks-for-top-notch-course-platforms/"><u>Navigate the Best Online Education Resources with Our Expert Picks for Top-Notch Course Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-preferred-6-web-linked-audiophone-extraction-devices/"><u>New 2024 Approved Preferred 6 Web-Linked Audiophone Extraction Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-economical-amazonbasics-cross-cut-6-sheets-capacity-document-shredder/"><u>Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-escort-ix-gps-enabled-radar-detector-smart-learning-on-the-road/"><u>Review of the Escort iX GPS-Enabled Radar Detector - Smart Learning on the Road</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-express-review-premium-content-for-a-price-thats-easy-on-your-wallet/"><u>Roku Express Review: Premium Content for a Price That's Easy on Your Wallet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-choice-with-the-lg-24lh4830-tv-exceptional-quality-at-budget-friendly-prices/"><u>Smart Choice with the LG 24LH4830 TV - Exceptional Quality at Budget-Friendly Prices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-thinkpad-x1-titanium-yoga-exposed-why-this-top-of-the-line-2-in-1-is-a-must-have-for-die-hard-thinkpad-fans/"><u>The Lenovo ThinkPad X1 Titanium Yoga Exposed: Why This Top-of-the-Line 2-in-1 Is a Must-Have for Die-Hard ThinkPad Fans!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-notch-performance-meets-pricey-tag-in-thermaltakes-massive-tm-notebook-cooler-review/"><u>Top-Notch Performance Meets Pricey Tag in Thermaltake's Massive TM Notebook Cooler Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/totobays-latest-wake-up-light-an-incredible-value-for-your-morning-routine-reviewed/"><u>Totobay's Latest Wake-Up Light: An Incredible Value for Your Morning Routine Reviewed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-truth-about-mobvoi-ticwatch-e2-a-low-price-doesnt-mean-quality/"><u>Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-potential-of-home-coverage-with-the-netgear-orbi-rbs50y-a-detailed-review/"><u>Unlocking the Potential of Home Coverage with the Netgear Orbi RBS50Y - A Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-detailed-review-of-the-corsair-one-pro-gaming-desktop/"><u>Unveiling the Powerhouse - Detailed Review of the Corsair One Pro Gaming Desktop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-viair-88p-compressor-exceptional-force-hindered-by-specific-drawbacks/"><u>Unveiling the Viair 88P Compressor: Exceptional Force Hindered by Specific Drawbacks</u></a></li>
+</ul></div>

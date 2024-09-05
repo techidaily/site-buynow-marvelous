@@ -1,7 +1,7 @@
 ---
 title: The University of Nebraska-Lincoln (UNL) State Quarter Mile
-date: 2024-08-31T17:27:15.255Z
-updated: 2024-09-01T17:27:15.255Z
+date: 2024-09-04T20:11:22.073Z
+updated: 2024-09-05T20:11:22.073Z
 tags:
   - buying-guides
 categories:
@@ -62,6 +62,18 @@ Best 4K TV for Movies
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best 4K TV Overall: [LG G3](https://www.amazon.com/dp/B0BVX2RLV2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![LG OLED Evo G3 TV at CES 2023.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/52605454204_aaf5413cba_o.jpg) 
@@ -87,10 +99,19 @@ Josh Hendrickson / How-To Geek
 
 ![lg-g3-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg-g3-small-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best 4K TV Overall
 
@@ -100,10 +121,28 @@ LG's OLED TVs have consistently ranked among the best TVs, and 2023's G3 is no e
 
 [See at Amazon](https://www.amazon.com/LG-65-Inch-Processor-AI-Powered-OLED65G3PUA/dp/B0BVX2RLV2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1752865-REG/lg%5Foled55g3pua%5Fg3%5F55%5F4k%5Fhdr.html/BI/22163/KBID/28708/SID/UUhtgUeUpU208713) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-55-class-g3-series-oled-4k-uhd-smart-webos-tv-with-one-wall-design%2F6535936.p%3FskuId%3D6535936) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Budget 4K TV: [Hisense U6H](https://www.amazon.com/dp/B0C6WLWQ5R/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![hisense u6k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/hisense-u6k_1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hisense
 
 | Pros                                        | Cons                         |
@@ -129,7 +168,10 @@ Hisense
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Budget 4K TV
 
@@ -139,9 +181,6 @@ The U6K from Hisense is an excellent value for money. It runs on the Google TV p
 
 [$598 at Amazon](https://www.amazon.com/dp/B0C6WLWQ5R/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhisense-65-inch-class-u6-series-4k-mini-led-uled-google-tv%2F6541866.p) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best 4K TV for Gaming: [LG C3](https://www.amazon.com/LG-65-Inch-Processor-AI-Powered-OLED65C3PUA/dp/B0BVXF72HV/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![lg c3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg_c3-1.jpg) 
@@ -181,15 +220,15 @@ The LG C3 shines as a 4K gaming TV. It is chockful of advanced gaming features, 
 
 [$1397 at Amazon](https://www.amazon.com/dp/B0BVXF72HV?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1757497-REG/lg%5Foled55c3pua%5Fc3%5F55%5F4k%5Fhdr.html/BI/22163/KBID/28708/SID/UUhtgUeUpU208713) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-55-class-c3-series-oled-4k-uhd-smart-webos-tv%2F6535933.p) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best 4K TV for Movies: [Sony A95L](https://www.amazon.com/dp/B0BYPT328K/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![sony a95l](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sony-a95l.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sony
 
@@ -215,14 +254,6 @@ Sony
 
 ![sony a95l](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sony-a95l.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best 4K TV for Movies
@@ -234,15 +265,26 @@ The Sony A95L delivers a fantastic movie-watching experience with its top-notch 
 [See at Amazon](https://www.amazon.com/Sony-QD-OLED-inch-BRAVIA-Ultra/dp/B0BYPT328K/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1755981-REG/sony%5Fxr55a95l%5F55%5Fbrv%5Fxr%5Fa95l.html/BI/22163/KBID/28708/SID/UUhtgUeUpU208713) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-55-class-bravia-xr-a95l-oled-4k-uhd-smart-google-tv%2F6553384.p%3FskuId%3D6553384%26utm_source%3Dfeed) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best 75-Inch 4K TV: [LG G3](https://www.amazon.com/dp/B0BVWYRK3G/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![LG LED Evo G3 Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52604666437_9c2ca8de2c_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -263,12 +305,24 @@ Hannah Stryker / How-To Geek
 ![lg-g3-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg-g3-small-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best 75-Inch 4K TV
 
@@ -282,13 +336,16 @@ If you want a 75-inch TV, there is no better option than the LG G3\. It has a sl
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What does 4K mean?
 
 [4K](https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a78-5g-without-puk-codes-by-drfone-android/) refers to the horizontal resolution of a display, and it's approximately 4,000 pixels. "K" in 4K stands for "kilo" (thousand). TVs featuring a 4K display are known as 4K TVs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### How many pixels are in a 4K TV?
 
  4K TVs have a resolution of 3840 x 2160, which is 82,94,400 pixels. It's exactly four times the pixel count of full-HD TVs (1920 x 1080).
@@ -297,9 +354,6 @@ If you want a 75-inch TV, there is no better option than the LG G3\. It has a sl
 
  You can [clean your 4K TV](https://facebook-record-videos.techidaily.com/new-in-2024-the-top-10-capture-cards-for-youtube-you-should-know/) with a microfiber cloth. Unfortunately, any abrasive materials or alcohol-based cleaner can damage the coating on the TV screen. But you can spray a little distilled water on the microfiber cloth for help if you encounter smudges or tough stains.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Do you need a 4K TV for a PS5 or Xbox Series X?
 
  Although you don't necessarily need a 4K TV to use a [PS5](https://www.amazon.com/PlayStation-5-Console/dp/B0BCNKKZ91?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) or [Xbox Series X](https://www.amazon.com/Xbox-X/dp/B08H75RTZ8?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) console, a 4K TV will allow you to enjoy video games in much crisper detail.

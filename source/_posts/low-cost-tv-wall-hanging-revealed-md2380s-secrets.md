@@ -1,7 +1,7 @@
 ---
 title: "Low-Cost TV Wall Hanging, Revealed: MD2380's Secrets"
-date: 2024-08-31T17:33:25.214Z
-updated: 2024-09-01T17:33:25.214Z
+date: 2024-09-04T20:11:16.492Z
+updated: 2024-09-05T20:11:16.492Z
 categories:
   - BestProducts
 description: "This Article Describes Low-Cost TV Wall Hanging, Revealed: MD2380's Secrets"
@@ -94,7 +94,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Read the manual first**
 
@@ -104,9 +107,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## **Mobile App: What sets it apart**
 
  What really sets the mini3 apart from other dashcams is its mobile app. The user manual instructs you to download the DDPai app before you use the camera for the first time. Once it’s on your phone and paired with your camera, the app’s “Camera” tab contains all the tools you need to watch the live feed, control the camera, review footage, and adjust settings—all the things that make a car cam useful.
@@ -122,7 +122,16 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera Quality: 4K video with incredible detail**
 
@@ -130,20 +139,26 @@ Lifewire / Danny Chadwick
 
  It can capture footage in 4K resolution as well as 1600p using an f/1.8 aperture that lets in more light.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Always there for you**
 
  Once it was installed and ready to go, we drove this dashcam through the cities, suburbs, mountains, forests, and red rocks of Utah. Because the camera is so well-hidden behind the rearview mirror, we often forgot it was there. But when we passed a particularly scenic lake or rock formation, it was natural to just reach down and push the remote button to snap a picture.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Surprising low for what you get**
 
  As of the time of this writing, you can pick up the DDPAI mini3 for about $130\. For what you get out of this camera, we think this is a great value. Similarly-priced models we tested don’t nearly match the quality and utility you get from the mini3.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition** :**DDPAI** **mini3 vs. Z-Edge Z3 Plus**
 
  We also tested the mini3 alongside the Z-Edge Z3 Plus, which is a similarly-priced dashcam with more of a focus on security.
@@ -160,6 +175,12 @@ Lifewire / Danny Chadwick
 
  If you’re a road-tripper, travel vlogger, or plugged-in social media user, then the DDPAI mini3 is made for you. Not only is this dashcam stylish and discreet, it also captures beautiful photos and video of your travels that are perfect for sharing or simply saving to revisit down the road.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apeman C450 Dashcam](https://www.lifewire.com/apeman-c450-review-4770598)
@@ -167,7 +188,10 @@ Lifewire / Danny Chadwick
 * [Anker Roav DashCam C1](https://www.lifewire.com/anker-roav-dashcam-c1-review-4773139)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

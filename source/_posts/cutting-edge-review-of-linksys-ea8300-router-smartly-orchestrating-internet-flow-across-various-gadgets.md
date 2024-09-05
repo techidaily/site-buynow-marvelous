@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Review of Linksys EA8300 Router: Smartly Orchestrating Internet Flow Across Various Gadgets"
-date: 2024-08-31T17:33:23.960Z
-updated: 2024-09-01T17:33:23.960Z
+date: 2024-09-04T20:11:16.531Z
+updated: 2024-09-05T20:11:16.531Z
 categories:
   - BestProducts
 description: "This Article Describes Cutting-Edge Review of Linksys EA8300 Router: Smartly Orchestrating Internet Flow Across Various Gadgets"
@@ -68,7 +68,16 @@ Lifewire / Erika Rawes
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: You can’t remove the band**
 
@@ -78,20 +87,26 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Comfort: You’ll forget you’re wearing it**
 
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## **Performance: Body battery and stress monitoring**
 
  The Garmin Vivosmart 4 performs exceptionally well in some areas and mediocre in others, making it a decent device for runners or everyday users who want a device to track their general health and wellness, but a not such great device for fitness buffs who want seamless and accurate workout tracking.
@@ -110,8 +125,20 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -122,13 +149,13 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Battery: May last a full seven days**
 
@@ -136,9 +163,6 @@ Lifewire / Erika Rawes
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
@@ -153,6 +177,12 @@ Lifewire / Erika Rawes
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Vivosmart 4

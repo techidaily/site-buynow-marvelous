@@ -1,7 +1,7 @@
 ---
 title: Leading Mirrorless Interchangeable Lens Options for Photographers - Ranked and Reviewed
-date: 2024-08-31T17:28:33.515Z
-updated: 2024-09-01T17:28:33.515Z
+date: 2024-09-04T20:11:24.099Z
+updated: 2024-09-05T20:11:24.099Z
 tags:
   - buying-guides
 categories:
@@ -96,15 +96,15 @@ A third party lens like the Tamron 17-28mm f/2.8 Di III RXD can be a great choic
 [See at Walmart](https://www.walmart.com/ip/Tamron-17-28mm-f-2-8-Di-III-RXD-Lens-for-Sony-E/684933854) [See at Amazon](https://www.amazon.com/dp/B07TP4YM1F?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Mirrorless Ultra-Wide-Angle Lens: [Fujinon XF 8-16mm f/2.8 R LM WR](https://amazon.com/dp/B07FQ83W5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) 
 
 ![A Fujinon XF 8-16mm f:2.8 R LM WR Ultrawide lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-8-16mm-f-2-8-r-lm-wr.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 _Fujifilm_
 
 | Pros                                 | Cons                    |
@@ -123,10 +123,25 @@ _Fujifilm_
 
 ![Fujinon XF 8-16mm f2.8 R LM WR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-8-16mm-f2-8-r-lm-wr.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Mirrorless Ultra-Wide-Angle Lens
 
@@ -138,6 +153,18 @@ The Fujinon XF 8-16mm f/2.8 R LM WR is an exceptional ultra-wide angle lens for 
 
 [$1499 at Amazon](https://amazon.com/dp/B07FQ83W5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/FUJIFILM-XF-8-16mm-f-2-8-R-LM-WR-Lens-16591570/210245570) 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Mirrorless Telephoto Lens: [Sigma 100-400mm F5-6.3 DG DN OS Contemporary](https://amazon.com/dp/B08BHPVZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) 
 
 ![A person's hand holding a Sigma 100-400mm F5-6.3 DG DN OS Contemporary lens mounted onto a camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sigma-100-400mm-f5-6-3-contemporary-dg-dn-os.jpg) 
@@ -163,13 +190,13 @@ _Sigma_
 
 ![Sigma 100-400mm F5-6.3 DG DN OS Contemporary](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sigma-100-400mm-f5-6-3-dg-dn-os-contemporary-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Mirrorless Telephoto Lens
 
@@ -179,13 +206,16 @@ The Sigma 100-400mm F5-6.3 DG DN OS Contemporary is an excellent telephoto lens 
 
 [See at Amazon](https://www.amazon.com/dp/B08BHPVZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Sigma-100-400mm-f-5-6-3-DG-DN-OS-Contemporary-Lens-for-Sony-E/729957648) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Mirrorless Portrait Lens: [Sony FE 85mm f/1.8](https://www.walmart.com/ip/Sony-FE-85mm-f-1-8-Lens-SEL85F18/376142797) 
 
 ![Sony SEL85F18 85mm F:1.8-22](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-sel85f18-85mm-f-1-8-22.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 _Sony_
 
 | Pros                        | Cons                                                           |
@@ -218,16 +248,21 @@ The Sony FE 85mm f/1.8 is an affordable 85mm lens that's an excellent choice for
 [See at Walmart](https://www.walmart.com/ip/Sony-FE-85mm-f-1-8-Lens-SEL85F18/376142797) [$598 at Amazon](https://www.amazon.com/dp/B07XF2HBKK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at adorama](https://adorama.rfvk.net/c/156932/51926/1036?subId1=UUhtgUeUpU2003286&subId2=ehtg&u=https%3A%2F%2Fwww.adorama.com%2Fiso8518.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Mirrorless Macro Lens: [Fujinon XF 80mm f/2.8 R LM OIS WR Macro](https://www.walmart.com/ip/Fujifilm-Fujinon-XF-Macro-Lens-80-mm-f-2-8-R-LM-OIS-WR-X-Mount-Series-X-A10-X-A5-X-A7-X-E3-X-H1-X-S10-X-T100-X-T20-X-T200-X-T3-X-T30-X-T4/935289588) 
 
 ![A CLOSE UP OF WATER DROPLETS ON THE Fujinon XF 80mm f2.8 R LM OIS WR Macro lens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-80mm-f2-8-r-lm-ois-wr-macro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Fujifilm_
 
 | Pros                                       | Cons          |
@@ -261,15 +296,24 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 
 [See at Walmart](https://www.walmart.com/ip/Fujifilm-Fujinon-XF-Macro-Lens-80-mm-f-2-8-R-LM-OIS-WR-X-Mount-Series-X-A10-X-A5-X-A7-X-E3-X-H1-X-S10-X-T100-X-T20-X-T200-X-T3-X-T30-X-T4/935289588) [$1199 at Amazon](https://www.amazon.com/dp/B0759GMLVP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at adorama](https://adorama.rfvk.net/c/156932/51926/1036?subId1=UUhtgUeUpU2003286&subId2=ehtg&u=https%3A%2F%2Fwww.adorama.com%2Fifj80xf.html) 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Can I use a mirrorless lens with my DSLR camera?
 
  Mirrorless lenses are designed specifically for mirrorless cameras. So, you can't use them on your old DSLR. However, the good news is your DSLR lenses will fit your mirrorless camera with the correct adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Is there one photography lens I can use for all types of photos?
 
  Even in these technologically advanced times, there is no one-size-fits-all solution. The closest you will get is something like the [Sigma 18-300mm F3.5-6.3 DC Macro OS HSM](https://amazon.com/dp/B00NJ9K52W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce). It can cover a lot of genres, but you do have to suffer some optical trade-offs, especially at the extreme ends of the zoom range.
@@ -277,16 +321,21 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
  Professionals and enthusiasts tend to look toward the “Holy Trinity” to cover just about everything they need. The Holy Trinity is a set of three high-quality zoom lenses that cover a wide range of focal lengths. It typically includes a wide-angle zoom, a standard zoom, and a telephoto zoom.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What type of lens should I use for street photography?
 
  A 35mm with a wide aperture is the classic choice. Or you can opt for a wider 24 or 28mm, while others prefer the more compressed perspective the ‘nifty fifty’ 50mm provides. However, budding street photographers have [other considerations](https://fox-http.techidaily.com/2024-approved-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/) when hoping to capture some memorable street-life photos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What type of lens should I use for nature photos?
 
  For sweeping landscapes, you’ll want a wide-angle or even an ultra-wide-angle lens to get everything you want in the frame. However, a standard 24-70mm zoom lens is probably sufficient for capturing landscapes and images where you want some closer detail. But for capturing distant wildlife, you’ll need a good telephoto lens.

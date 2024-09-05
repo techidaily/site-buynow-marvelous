@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Handheld Gamepad Controllers for On-the-Go Players
-date: 2024-08-31T17:27:24.436Z
-updated: 2024-09-01T17:27:24.436Z
+date: 2024-09-04T20:11:22.299Z
+updated: 2024-09-05T20:11:22.299Z
 tags:
   - buying-guides
 categories:
@@ -84,9 +84,6 @@ The GameSir G8 Galileo essentially took the best parts of a console controller a
 
 [$80 at Amazon](https://www.amazon.com/GameSir-Galileo-Controller-Android-Gamepad-Joysticks/dp/B0CSXVQ3NZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at GameSir](https://www.gamesir.hk/products/gamesir-g8-galileo) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Budget Mobile Gaming Controller: [8Bitdo Pro 2](https://www.amazon.com/dp/B0CSPH1JYV?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![8Bitdo Pro 2 wireless controller in hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52747881260_dc28f8fe69_o.jpg) 
@@ -108,10 +105,19 @@ Jordan Gloor / How-To Geek Jordan Gloor / Review Geek Jordan Gloor / LifeSavvy
 ![8bitdo pro 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-pro-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget Mobile Gaming Controller
 
 #####  8Bitdo Pro 2
@@ -120,21 +126,10 @@ Not only is the 8Bitdo Pro 2 a fantastic budget pick, it's also one of the best 
 
 [$50 at Amazon](https://www.amazon.com/dp/B0CSPH1JYV?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F8bitdo-pro-2-bluetooth-gamepad-gray%2F6475678.p%3FskuId%3D6475678) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  Best Mobile Gaming Controller for iPhone: [Backbone One (2nd Gen)](https://www.amazon.com/BACKBONE-Mobile-Gaming-Controller-Android-iOS/dp/B0CCT2LWT8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jason Montoya / How-To Geek
 
 | Pros                                             | Cons                  |
@@ -153,9 +148,6 @@ Jason Montoya / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Best Mobile Gaming Controller for iPhone
 
 #####  Backbone One (2nd Gen)
@@ -165,15 +157,15 @@ Good-feeling buttons, large triggers, and rounded edges, the Backbone One is a c
 [$100 at Amazon](https://www.amazon.com/BACKBONE-Mobile-Gaming-Controller-Android-iOS/dp/B0CCT2LWT8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbackbone-one-usb-c-mobile-gaming-controller-for-iphone-15-series-and-android-2nd-generation-black%2F6558725.p%3FskuId%3D6558725) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Mobile Gaming Controller for Android: [Razer Kishi V2](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
 | Pros                                          | Cons                   |
@@ -190,11 +182,14 @@ Bertel King / How-To Geek
 
 ![razer kishi v2 connected to android device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/razer-kishi-v2-connected-to-android-device.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Mobile Gaming Controller for Android
 
 #####  Razer Kishi V2
@@ -207,12 +202,30 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What controllers work with my mobile device?
 
  For controllers, it's on a case-by-case basis. Some controllers, like the GameSir G8 Galileo, support both Android and iOS. Others, like the Razer Kishi V2, have separate models configured for both operating systems.
 
  What's important is that you read the fine print and double-check the controller supports your operating system and version.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can I use a PS5 controller with my phone?
 
  Yes, on Android and iOS! To connect a PS5 controller to your phone (or tablet):
@@ -223,6 +236,12 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
  Alternatively, you can connect your PS5 controller via USB-C cable and directly connect to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can I use an Xbox Core controller with my phone?
 
  Yes! Just like with PS5 controllers, the Xbox Core controller is supported by Android and iOS:
@@ -233,6 +252,12 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
  As with the PS5 controller, you can go for a direct connection too, using a USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Will phone controllers also work with tablets?
 
  It depends on the controller. What you're looking for is a phone controller that connects wirelessly, by Bluetooth, or one that allows you to directly connect via the USB port on the tablet. The 8Bitdo Pro 2, for example, has Bluetooth and can connect to devices using a cable.

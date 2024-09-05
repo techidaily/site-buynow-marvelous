@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
-date: 2024-08-31T17:31:30.393Z
-updated: 2024-09-01T17:31:30.393Z
+date: 2024-09-04T20:11:18.413Z
+updated: 2024-09-05T20:11:18.413Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
@@ -65,9 +65,6 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
@@ -80,29 +77,15 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Bill Thomas
 
@@ -116,6 +99,12 @@ Key features:
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -124,6 +113,18 @@ Key features:
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -134,13 +135,13 @@ Key features:
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Bill Thomas
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Software: No frills
 
@@ -152,6 +153,12 @@ Key features:
 
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Price: It pays for itself
 
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
@@ -173,7 +180,10 @@ Key features:
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

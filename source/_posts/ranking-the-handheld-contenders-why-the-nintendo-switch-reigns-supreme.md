@@ -1,7 +1,7 @@
 ---
 title: "Ranking the Handheld Contenders: Why the Nintendo Switch Reigns Supreme"
-date: 2024-08-27T10:56:26.734Z
-updated: 2024-08-28T10:56:26.734Z
+date: 2024-09-04T20:11:26.733Z
+updated: 2024-09-05T20:11:26.733Z
 categories:
   - BestProducts
 description: "This Article Describes Ranking the Handheld Contenders: Why the Nintendo Switch Reigns Supreme"
@@ -65,9 +65,6 @@ Lifewire / Emily Isaacs
 
  What better way to celebrate both of their birthdays than by bringing both titles together for a self-contained wombo-combo celebrating their 40th and 35th anniversaries respectively? I put the handheld to the test for three weeks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Design: Retro, bold look & feel
 
  From the moment you pick up and pop open the box, the design oozes old-school cool and nostalgia. It’s a special edition release—and it feels like it. Intentionally stylized black and gold packaging, which resembles the retro feel of the 1980s Game & Watch classic titles, is a familiar and warm return to an era.
@@ -80,6 +77,12 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/RGM_gLdIp2jvsVG5LhRKLVw0nho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_04-f94be735a5644020b52656e67a6c0465.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Emily Isaacs
 
  Nintendo Game & Watch: Super Mario Bros. arrives in a small package that is lovingly designed in the Game & Watch family feel. In addition to the instructional care packet, it also includes a charging cable. Some long-time Nintendo fans may be inclined to keep the box, due to the Game & Watch’s collectible nature.
@@ -90,11 +93,14 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/IzTLcGKhslJLE9YpMMkMKBV1BME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_03-5ca824e25f85464a83c9187541b0f059.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gameplay: Challenging, but fun
 
  The Game & Watch: Super Mario Bros. is preloaded with Super Mario Bros., Super Mario Bros. 2 (also known as The Lost Levels), and Ball_,_ the foremost title in the Game & Watch series. Also included are 35 hidden interactions, which make the standard Watch mode a joy as well.
@@ -115,13 +121,13 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/PvTcnsQLDp7SFCPIeHreGfS-dgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_05-01b731a5406d4cbfa37be90277c6e89b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Price: Great value for the price
 
@@ -129,6 +135,12 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/Te3HyEg18zLT9zKT-eZuFtev8So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_02-6af770f871344e16ad3f45320d46d52a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Emily Isaacs
 
  For anyone looking to bring the Game & Watch home, they should be aware that while it brings the three included classic titles to life in a fun, exciting way, the Game & Watch doesn't add anything new to the Nintendo family. It caters to long-time Nintendo lovers and collectors, more than anything else.
@@ -148,8 +160,16 @@ Lifewire / Emily Isaacs
  The Nintendo Game & Watch: Super Mario Bros. is a throwback to an older, simpler era of gaming that packs a wallop of a punch, bringing the challenge of the original Super Mario games and the original Game & Watch Ball title while making them accessible to a whole new generation of players. While we do wish Nintendo had included additional titles—who doesn’t want_more_ classic options when these are so fun—it’s no showstopper for enjoying this product.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -158,7 +178,16 @@ Lifewire / Emily Isaacs
 * [PlayStation 4 Pro](https://www.lifewire.com/playstation-4-pro-review-4707193)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Dual Nature of Nixplay W15A Frame Designs
-date: 2024-08-09T00:43:31.207Z
-updated: 2024-08-10T00:43:31.207Z
+date: 2024-09-04T20:07:15.598Z
+updated: 2024-09-05T20:07:15.598Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Dual Nature of Nixplay W15A Frame Designs
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/Ns5Q0bR4U3Q70rEi8o9aV136NQ0=/400x300/fi
 
 ## Pioneer BDR-XD05B Blu-ray Burner
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/criWlDbpC_WTmf9GyQYLoo2NOvM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_HeroSquare-7488fe2dd07248ca99020859f82cefaf.jpg)
 
 Lifewire / Scott Gercken
@@ -41,9 +38,6 @@ Lifewire / Scott Gercken
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Pioneer BDR-XD05B Blu-ray Burner
 
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/nC_G9Nr8iQMb-lVdoUhQTXWP5lo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_HeroSquare-7488fe2dd07248ca99020859f82cefaf.jpg)
@@ -73,9 +67,6 @@ Lifewire / Scott Gercken
 
  Check out our buyers guide for more information on what you should look for in an optical drive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Feels a little flimsy**
 
  The Pioneer BDR-XD05B[Blu-ray Burner](https://www.lifewire.com/best-desktop-blu-ray-drives-832423) is a sleek, small black drive. It’s a tiny 5.12” square by .5” tall with a black cover and a metal bottom. The clamshell case opens to 65 degrees, so it’s easy to slide a disc onto the spindle. The button to open the clamshell is on the front left of the drive, and there’s a blue LED indicator that lights up when the drive is plugged into a power source. The drive comes with an unusually shaped USB cord, with a male micro-B USB 3.0 on one side and two USB A male ends on the other. One is designed to power the drive and one is for data transfer. The back of the drive has both a micro-B USB 3.0 port and a DC power port as a second option for powering it. The Pioneer BDR-XD05B Blu-ray Burner’s look is minimalist, black with just a small gray Blu-ray logo on the top.
@@ -86,11 +77,14 @@ Lifewire / Scott Gercken
 
  One of the benefits of a typical clamshell, top-loading drive is that there’s a physical button to press that opens the drive, a simple mechanism that will pop the top even when it’s unplugged. That feature alone might make the wobbly top worth it, but it doesn’t work that way on this drive—the top won’t open unless you plug the drive into a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/fUaHdcy3m2p6xK0x76rqvkRIi1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_03-c61c4933818c4874b8edcadfca341ca9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Scott Gercken
 
 ## **Setup Process: Some baffling software issues**
@@ -103,8 +97,26 @@ Lifewire / Scott Gercken
 
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/xaXRYsi71hFhblhSiQT18pmQ2Mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_02-5138fb74431a40c1b0cbb76c30bc6350.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Scott Gercken
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Good for an inexpensive Blu-ray burner**
 
  We did two tests to see check the burner’s performance. First, we ripped a 37GB Blu-ray copy of_Die Hard_ to check the burner’s read speed for a commercial Blu-ray. Using the program MakeMKV, it took 70 minutes to make a copy.
@@ -113,6 +125,12 @@ Lifewire / Scott Gercken
 
  Noise was never a problem with this drive. Auto Quiet mode adjusts media discs to a slower speed so it’s quieter, and with both data and movie discs we didn’t notice any noise loud enough to be a bother.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Image Quality: Don’t watch Blu-rays on this drive**
 
  We tested watching Blu-rays on the Pioneer BDR-XD05B on a Macbook Pro(it’s not designed to work with a TV). The image quality was ok, but it wasn’t close to what you’d get on a[HD TV](https://www.lifewire.com/best-tvs-to-buy-4061107) with a dedicated[Blu-ray player](https://www.lifewire.com/best-blu-ray-players-1846400) .
@@ -120,16 +138,15 @@ Lifewire / Scott Gercken
  We also connected the computer to an HD TV through the HDMI drive and didn’t get the 1080p we expected. Instead, the resolution was stuck at 726p and the image quality was terrible, worse than a DVD. The Blu-ray image was extremely noisy and filled with huge pixels. If you want to watch movies, don’t use this drive, except maybe to make yourself more appreciative of your Blu-ray player.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Sound Quality: Seriously, don’t watch Blu-rays on this drive**
 
  We think that the best reason to watch a Blu-ray isn’t the sharp[HD image](https://www.lifewire.com/what-you-need-to-see-hd-1847338) but the depth of sound this format can produce. But you don’t get any of that when you watch a Blu-ray using the Pioneer BDR-XD05B, because you have to watch it on a computer with computer speakers. It didn’t get any better when we connected the computer to the TV via HDMI—the sound remained flat and muddy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Basic useful software**
 
  Like we wrote above, the included software was a mess to install, with windows popping up all over the place. The included software is called “CyberLink Media Suite 10.” It includes PowerDVD 14, Power2Go 8, and PowerDirector 14 LE. PowerDVD 14 is an app for playing Blu-rays and DVD’s on your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) . Power2Go 8 is a burning tool, and it has some system recovery tools, too. Powerdirector 14 LE is a movie editing app. All-in-all, this is a pretty useful, basic suite of software without anything that especially stands out. It gets the job done, and that’s what matters.
@@ -140,6 +157,12 @@ Lifewire / Scott Gercken
 
  With an MSRP of $100, The Pioneer BDR-XD05B is one of the least expensive Blu-ray burners on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition: Performs well in this price range**
 
 **_MthsTec Slim External Blu-ray Drive_ :** Looks great at about the same price as the Pioneer BDR-XD05B, $119 MSRP, but there’s no website and no good information from the brand. It makes us wonder about customer service and quality. Try as we might, we couldn’t find any documentation about Blu-ray burning capabilities.
@@ -158,18 +181,6 @@ Lifewire / Scott Gercken
 
  On one hand, the Pioneer BDR-XD05B is a light, portable Blu-ray burner with decent performance at a low cost. On the other hand, it also feels flimsy and has a smudge-magnet finish. It’s a solid performer in its price range, but there are other portable Blu-ray burners without these faults (albeit generally for more cash).
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  BDR-XD05B Blu-ray Burner
@@ -201,3 +212,48 @@ Lifewire / Scott Gercken
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[New] Analytics Mastery  Measuring Success on Your Instagram Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-androids-power-for-pause-how-to-create-amazing-time-lagged-footage-for-2024/"><u>[Updated] Android's Power for Pause  How to Create Amazing Time-Lagged Footage for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-epicurean-education-recipe-film-making/"><u>[Updated] Epicurean Education  Recipe Film-Making</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-comprehensive-motion-dynamics-synopsis/"><u>2024 Approved  Comprehensive Motion Dynamics Synopsis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-iphone-sound-archive-voice-memo-tips-and-tricks/"><u>2024 Approved  IPhone Sound Archive  Voice Memo Tips & Tricks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/3-gratis-methoden-zum-umwandeln-von-mts-dateien-in-das-mp4-format/"><u>3 Gratis Methoden Zum Umwandeln Von MTS-Dateien in Das MP4 Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-bluetooth-fm-transmitter-2023-reviews-car-compatibility-and-performance/"><u>Best Bluetooth FM Transmitter (2023 Reviews) - Car Compatibility & Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-uniden-r3-radar-detector-review-quality-craftsmanship-and-extended-detection-capability/"><u>Comprehensive Uniden R3 Radar Detector Review: Quality Craftsmanship and Extended Detection Capability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/eight-crucial-tips-before-investing-in-your-new-tablet/"><u>Eight Crucial Tips Before Investing in Your New Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723080810015-explore-the-latest-in-smartwear-the-amazfit-helio-rings-cost-and-features-released/"><u>Explore the Latest in Smartwear: The Amazfit Helio Ring's Cost & Features Released!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gemini-15-how-one-million-tokens-reshape-the-future-of-cryptocurrency/"><u>Gemini 1.5: How One Million Tokens Reshape the Future of Cryptocurrency</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/guide-to-moving-epub-files-from-nook-to-sony-ereader-for-enhanced-reading-experience/"><u>Guide to Moving ePUB Files From Nook to Sony eReader for Enhanced Reading Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-moto-g24-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Moto G24 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-mastering-youtube-screens-final-touches/"><u>In 2024, Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mobvoi-ticwatch-pro-3-gps-review/"><u>Mobvoi TicWatch Pro 3 GPS Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-hid-keyboard-installation-and-driver-updates-made-simple/"><u>Quick-Fix HID Keyboard Installation & Driver Updates Made Simple</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revamping-outdoor-illumination-a-comprehensive-review-of-the-energizing-romer-flashlight/"><u>Revamping Outdoor Illumination: A Comprehensive Review of the Energizing Romer Flashlight</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-your-ride-with-simplified-hawki-mechanics/"><u>Revive Your Ride with Simplified Hawki Mechanics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-evolution-of-color-formats-from-rgb-to-srgb/"><u>The Evolution of Color Formats  From Rgb to Srgb</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thermaltake-massive-tm-laptop-cooling-pad-review-perk-packed-but-pricey/"><u>Thermaltake Massive TM Laptop Cooling Pad Review: Perk-Packed But Pricey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-alternative-editors-beyond-youtubes-limits-for-2024/"><u>Top 5 Alternative Editors  Beyond Youtube's Limits for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-exterior-graphics-card-cases-ultimate-guide/"><u>Top Rated Exterior Graphics Card Cases: Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-internal-solid-state-drives/"><u>Top Rated Internal Solid State Drives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-portable-televisions-your-comprehensive-guide/"><u>Top Rated Portable Televisions : Your Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-desktop-computers-for-mac-enthusiasts/"><u>Top-Ranking Desktop Computers for Mac Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-ipad-air-enhancements-and-gadgets-the-ultimate-list/"><u>Top-Rated iPad Air Enhancements and Gadgets: The Ultimate List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-iphone-charger-options-a-comprehensive-guide/"><u>Top-Rated iPhone Charger Options : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-samsung-galaxy-s22plus-protective-covers/"><u>Top-Rated Samsung Galaxy S22+ Protective Covers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-samsung-galaxy-s24-display-shields-ultimate-selection/"><u>Top-Rated Samsung Galaxy S24 Display Shields - Ultimate Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-scanner-models-dominating-the-market/"><u>Top-Rated Scanner Models Dominating the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-ac-units-expert-picks/"><u>Top-Rated Smart AC Units: Expert Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-standing-desk-models-the-ultimate-selection/"><u>Top-Rated Standing Desk Models: The Ultimate Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-xbox-series-x-gaming-headsets/"><u>Top-Rated Xbox Series X Gaming Headsets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-fastest-ssds-for-gamers/"><u>Ultimate Guide to Choosing the Fastest SSDs for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-selecting-the-ideal-waterproof-photography-gadgets/"><u>Ultimate Guide: Selecting the Ideal Waterproof Photography Gadgets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-the-leading-laptop-chillers-reviewed/"><u>Ultimate Guide: The Leading Laptop Chillers Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-premium-vr-earpieces-for-enhanced-immersion-2024-edition/"><u>Ultimate List of Premium VR Earpieces for Enhanced Immersion - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-apple-ipad-models-dominating-2024-expert-reviews-and-comparisons/"><u>Ultimate Selection of Apple iPad Models Dominating 2024: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-windows-10-photos-explore-these-8-amazing-alternatives/"><u>Updated Ditch Windows 10 Photos Explore These 8 Amazing Alternatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrade-your-internet-speed-using-the-netgear-nighthawk-x6s-range-extender/"><u>Upgrade Your Internet Speed Using the Netgear Nighthawk X6S Range Extender</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wildwood-lake-park/"><u>Wildwood Lake Park</u></a></li>
+</ul></div>

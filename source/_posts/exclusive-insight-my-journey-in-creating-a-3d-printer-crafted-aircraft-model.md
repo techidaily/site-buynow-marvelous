@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model"
-date: 2024-08-31T17:29:36.650Z
-updated: 2024-09-01T17:29:36.650Z
+date: 2024-09-04T20:11:25.374Z
+updated: 2024-09-05T20:11:25.374Z
 tags:
   - games
   - tv
@@ -30,7 +30,10 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  This is where I personally want to start my 3D-printed aircraft adventures, because I want to get a feel for printing the fuselages of planes, and seeing how it all works before adding control surfaces and such. There are awesome popular glider designs like the [Stable Flyer VI](https://www.printables.com/model/408967-stable-flyer-vi-small-toy-glider) and the [Super Stratos](https://www.thingiverse.com/thing:97803/files) which you can print in no time at all. Many of these are print-in-place and don't need assembly either.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Printable Planes
 
@@ -41,8 +44,10 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  CNC Kitchen has this great video of how they printed and built a plane using 3D Print Labs, so you can check out the whole process.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Printing My First Glider
 
@@ -51,7 +56,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![A yellow 3D printed glider inside a 3D Printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-inside-a-3d-printer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 
@@ -60,7 +74,10 @@ Sydney Louw Butler / How-To Geek
 ![A yellow 3D printed glider held in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-held-in-a-person-s-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 

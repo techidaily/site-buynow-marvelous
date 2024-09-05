@@ -1,7 +1,7 @@
 ---
 title: "From Paperbacks to PDFs: My Journey From Cherishing Traditional Books to Embracing eBooks"
-date: 2024-08-31T17:29:44.541Z
-updated: 2024-09-01T17:29:44.541Z
+date: 2024-09-04T20:11:25.489Z
+updated: 2024-09-05T20:11:25.489Z
 tags:
   - games
   - tv
@@ -33,10 +33,22 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
  What's more, there are ebook apps that readers can install on their phones. Apps like Kindle Reader allow a free and simple way to consume ebooks without even buying specialized reader hardware. Since I already read on my phone, this is relatively easy (although I prefer the feel of an eReader). You can even [open EPUB files on Windows](https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-plus-by-drfone-ios/) if you're so inclined.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I Can Get a Book When I Want It
 
 ![A Kobo Clara 2E eReader sitting on a pile of books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_4125-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lydia Pike / How-To Geek
 
  I remember reading a particular novel once and finishing it at the start of a weekend. Bookstores were closed, and the earliest I'd get the next installment was two days away. Now, I don't have to wait, and ebooks make it much easier to consume longer series.
@@ -53,35 +65,43 @@ Hannah Stryker / How-To Geek
 
  Some might say that this gives away the physical copy of a book, but it's easier to carry a single eReader up six flights of stairs than it is to card over 200 books the same distance. While I appreciate a good hardcover book as much as the next person, my back is different from what it was a decade ago, so I'll stick to my ebooks for the foreseeable future.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Efficient Spending on My Hobby
 
  Reading can be an expensive hobby if you opt for physical books. The [average cost of a paperback](https://www.slj.com/story/slj-average-book-prices-2023-follett-baker-taylor) is between $8 and $10, and a hardcover book could range between $16 and $25 per copy. Naturally, this means I am limited in what I can afford, and I have to be more selective in my title choices.
 
  I still have to be selective in my titles with ebooks, but I have some leeway in what I can get. As a member of Amazon's Prime service, I get a [free newly published ebook each month](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50iplus-drfone-by-drfone-virtual-android/). The [average cost of an ebook](https://automateed.com/average-ebook-price/) ranges from $1 to $3, with more established authors calling for $6 to $10 for their latest work. This means I can potentially get 2 to 3 ebooks for the cost of one paperback novel. I know which one I prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  I Can Customize My Text Delivery
 
 ![An eReader.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53125212620_0f222a0c93_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek  
   
  I always like flicking through a paperback to see what the words are like inside. Sometimes, however, a book's font might be jarring and off-putting. In such a case, no matter how good the story is, I'll decide not to buy the book. With an ebook, I can adjust the text size, font style, and even the layout in some cases.
 
  This gives me the power as the reader to choose how I read my text. For many people, this means better accessibility and even the use of fonts that help with dyslexia. In my case, that could mean changing the font to Comic Sans if I wanted to and not having to worry about being a minority that can't have the book printed in a font they enjoy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Dictionary At My Fingertips
 
 ![An ebook on a cellphone screen with a blurred Kindle in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060858.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
@@ -89,9 +109,6 @@ Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
  With an ebook, I don't have to fetch a dictionary, as most eReader software has some sort of built-in dictionary that allows the reader to highlight a word or phrase and get a definition for it. This is uniquely useful when you're trying to figure out what a word means and don't have the time to go find a dictionary to look it up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  I Consume Less Paper
 
 ![A slightly open Galaxy Z Fold 5 on a bookshelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-slightly-open-galaxy-z-fold-5-on-a-bookshelf.jpg) 
@@ -101,7 +118,16 @@ Bertel King / How-To Geek
  The world is dealing with a looming environmental disaster, and we can prevent it by conserving trees. While I love reading paper books, and they still hold a special place in my heart, I don't think destroying the planet for my hobby is fair. Ebooks are all electronic, and while they still consume power, they [cause less overall environmental damage](https://ecobravo.co.uk/blogs/blog/7-surprisingly-amazing-environmental-benefits-of-e-books). I've learned how much my actions could hurt the planet, so I'm taking this stand to reduce it by just a little.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Accessibility and Comfort Features
 
@@ -109,9 +135,6 @@ Bertel King / How-To Geek
 
  I also enjoy reading at night before bed. With most eReaders, a backlight helps with letting me see the words while I go through the story. It also means that I don't have to disturb anyone else by leaving a light on or using a tiny flashlight, which may potentially damage my eyesight.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I'm Not Saying You Should But...
 
  People should always have the choice to decide what they want to do. I appreciate physical books a lot. I still have some of my original collection, although it's much diminished since I shifted to an e-library. Still, the benefits that ebooks offer can't be understated. As much as I love paper books, ebooks have proven to me that they're worth it.

@@ -1,7 +1,7 @@
 ---
 title: "Meet Your Next Desktop Dream Machine: The Innovative Raspberry Pi T 400 Reviewed"
-date: 2024-08-31T17:32:54.383Z
-updated: 2024-09-01T17:32:54.383Z
+date: 2024-09-04T20:11:17.003Z
+updated: 2024-09-05T20:11:17.003Z
 categories:
   - BestProducts
 description: "This Article Describes Meet Your Next Desktop Dream Machine: The Innovative Raspberry Pi T 400 Reviewed"
@@ -70,6 +70,12 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Big, bulky, and basic, with a filtered pass-through**
 
  Extollo won’t win any awards for the basic, blocky design of the LANSocket 1500 adapters. They’re big, plastic, white, and take up a lot of space. That’s somewhat mediated by the inclusion of a pass-through electrical socket, which is a really nice touch.
@@ -87,7 +93,10 @@ Lifewire / Jeremy Laukkonen
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Pain-free plug and play**
 
@@ -101,17 +110,32 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/BvO_NJ8pdby7NqO2Fq-orJ_NbFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-02-40358222569c4a55b4d04e7aadf01af7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Connectivity: MIMO with beamforming**
 
  The Extollo LANSocket 1500 powerline adapters use the HomePlug AV2 specification, which includes support for[multi-in, multi-out (MIMO)](https://www.lifewire.com/mimo-wifi-routers-818332) with beamforming, which increases both speed and the allowable distance between adapters. This is a significant improvement over the HomePlug AV specification, which is slower and requires you to place your adapters more closely together.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
 ## **Network Performance: Blazing fast and low latency**
@@ -126,14 +150,19 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/s7sBTQQEDT14u1i6nHyeA6O4hEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-05-d60cab3cba9446c1b398076a39432b70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Runs on an embedded Linux distribution**
 
@@ -149,18 +178,12 @@ No advertising on the website.
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Wins on transfer speeds with some security concerns**
 
  The LANSocket 1500 adapters compare very favorably to the competition in terms of transfer speed and latency. They do come with the added concern over security, due to the fact that they run on embedded Linux, but that’s easy enough to deal with if you have a firewalled router.
@@ -183,9 +206,6 @@ No advertising on the website.
 
  The Extollo LANSocket 1500 checks all the right boxes, with some of the highest speeds on the market, a pass-through electrical socket, and a decent price. The high speeds and low latency make this kit a good choice if you need to connect a game console, and the extra memory allowed by the use of Linux really helps out if you stream a lot of video, just be wary of security considerations.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  LANSocket 1500 Powerline Adapter

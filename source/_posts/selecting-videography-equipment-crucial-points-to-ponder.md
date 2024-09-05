@@ -1,7 +1,7 @@
 ---
 title: "Selecting Videography Equipment: Crucial Points to Ponder"
-date: 2024-08-09T00:43:32.928Z
-updated: 2024-08-10T00:43:32.928Z
+date: 2024-09-04T20:10:08.214Z
+updated: 2024-09-05T20:10:08.214Z
 categories:
   - BestProducts
 description: "This Article Describes Selecting Videography Equipment: Crucial Points to Ponder"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/uk1o4WlK-bsMCk1tgtC5d79QMNM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
 
 Lifewire / Jonno Hill
@@ -42,10 +39,6 @@ Lifewire / Jonno Hill
 
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/UOD6afkRh-xS-Dh1-iagOeoOSdY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
 
 Lifewire / Jonno Hill
@@ -71,7 +64,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Punching above the price point**
 
@@ -85,9 +81,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Features & Functionality: Full suite manual control**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master has a lot of different options that will make it an attractive option for manual shooters. But before we dive into all the things it does well, let’s talk about what you_won’t_ find in this flash. The most notable omission is TTL. For the uninitiated, Through The Lens (TTL) is a metering mode that lets a flash unit fire a series of infrared bursts and evaluates the actual light coming through the lens to determine how much power to deliver when taking a photo. It’s very handy to have for beginners and event photographers, but by no means essential for many other types of users.
@@ -109,7 +102,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup: A lot of reading before use**
 
@@ -125,6 +121,12 @@ Lifewire / Jonno Hill
 
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Significant savings for manual users**
 
  Buyers that need a lot of manual control for complex flash setups will be very pleased with what the get for the approximately $60 the YN560 IV costs. It sits at a price that’s a fraction of its TTL-enabled Canon and Nikon counterparts, but twice that of even simpler options. Do you need all the functionality that the YN560 IV offers? Are you willing to troubleshoot a bit with returns to make sure you get good, non-defective units? If the answer to those questions is yes, this is definitely the flash for you.
@@ -132,7 +134,16 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Yongnuo YN560 IV Wireless Flash Speedlite Master vs Neewer TT560 Flash Speedlite**
 
@@ -148,12 +159,24 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
 * [Nikon D3400](https://www.lifewire.com/nikon-d3400-review-4776644)
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  YN560 IV Wireless Flash Speedlite Master
@@ -185,3 +208,42 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>[New] 2024 Approved  Embrace the Art of Timelapses  A Comprehensive iPad Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-key-steps-to-enhance-real-time-sports-viewership/"><u>[New] In 2024, Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-transform-your-presence-advanced-tricks-for-live-video-graphics/"><u>[Updated] 2024 Approved  Transform Your Presence  Advanced Tricks for Live Video Graphics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-short-vid-star-spotlight-check/"><u>[Updated] Short Vid Star Spotlight Check</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stepwise-guide-to-transform-youtube-clips-into-animated-gifs/"><u>2024 Approved  Stepwise Guide to Transform Youtube Clips Into Animated GIFs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-buyers-guide-to-selecting-superior-smart-speakers-for-enhanced-home-automation/"><u>A Buyer's Guide to Selecting Superior Smart Speakers for Enhanced Home Automation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-kid-safe-racing-adventure-comprehensive-review-of-holy-stone-rc-car-toy/"><u>A Kid-Safe Racing Adventure: Comprehensive Review of Holy Stone RC Car Toy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/active-and-focused-with-the-cubefit-terramat-standing-exercise-mat-reviewed/"><u>Active and Focused with the CubeFit TerraMat Standing Exercise Mat Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/building-utopias-an-in-depth-look-at-city-creation-in-cities-skylines/"><u>Building Utopias: An In-Depth Look at City Creation in Cities: Skylines</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capturing-glimpses-auras-digital-frames-revolutionize-viewing/"><u>Capturing Glimpses: Aura's Digital Frames Revolutionize Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cat-s4-2nd-generation-reviewed-unmatched-protection-vs-limited-speed-potential/"><u>CAT S4 2Nd Generation Reviewed: Unmatched Protection vs Limited Speed Potential</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-the-best-sound-an-in-depth-analysis-of-google-nest-audio-and-apple-homepod/"><u>Choosing the Best Sound: An In-Depth Analysis of Google Nest Audio and Apple HomePod</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-advantages-and-disadvantages-of-pidgin-im-service/"><u>Evaluating the Advantages and Disadvantages of Pidgin IM Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-enhanced-performance-with-the-jaco-smartpro-digital-tire-inflator-a-detailed-appraisal-of-power-and-portability/"><u>Experience Enhanced Performance with the Jaco SmartPro Digital Tire Inflator: A Detailed Appraisal of Power & Portability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-high-capacity-efficient-energy-storage-of-the-apc-back-ups-pro-1500va-featuring-multiple-outlets-and-battery-swapping-options/"><u>Exploring the High Capacity, Efficient Energy Storage of the APC Back-UPS Pro 1500VA - Featuring Multiple Outlets and Battery Swapping Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-support-explained-what-it-offers/"><u>Facebook Support Explained: What It Offers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fl55amoor-review-of-the-winegard-flatwave-solid-performance-questionable-pricing/"><u>FL55amoor Review of the Winegard FlatWave - Solid Performance, Questionable Pricing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-basic-to-bold-invest-in-excellent-cam-add-ons/"><u>From Basic to Bold  Invest in Excellent Cam Add-Ons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kitty-kicks-a-cat-tastic-playtime/"><u>Kitty Kicks: A Cat-Tastic Playtime</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-connectivity-with-anker-usb-30-superspeed-hub-in-depth-review/"><u>Maximizing Connectivity with Anker USB 3.0 SuperSpeed Hub - In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/modern-upgrades-wrapped-in-a-classic-appeal-a-detailed-look-at-the-samsung-galaxy-watch3/"><u>Modern Upgrades Wrapped in a Classic Appeal: A Detailed Look at the Samsung Galaxy Watch3</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-5g-ace-showcase-unmatched-5g-speed-and-enduring-battery-life-reviewed/"><u>Motorola One 5G Ace Showcase: Unmatched 5G Speed and Enduring Battery Life Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-to-the-finest-sites-with-top-picks-for-movie-preview-viewing/"><u>Navigate to the Finest Sites with Top Picks for Movie Preview Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-choices-in-modern-gaming-hardware-of/"><u>Navigating the Best Choices in Modern Gaming Hardware Of</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcpx-not-your-cup-of-tea-discover-10-exceptional-video-editing-alternatives/"><u>New In 2024, FCPX Not Your Cup of Tea? Discover 10 Exceptional Video Editing Alternatives</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-revolutionize-your-animations/"><u>New Revolutionize Your Animations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-of-1byones-high-performance-digital-indoor-tv-antenna-stretching-budgets-further-than-ever/"><u>The Definitive Review of 1Byone's High-Performance Digital Indoor TV Antenna – Stretching Budgets Further Than Ever!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elite-picks-choosing-the-finest-vertical-mice-on-the-market/"><u>The Elite Picks: Choosing the Finest Vertical Mice on the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-using-the-lenovo-tab-p11-pro-our-detailed-review/"><u>The Pros and Cons of Using the Lenovo Tab P11 Pro - Our Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-top-5-exceptional-netgear-routers-to-upgrade-to/"><u>The Top 5 Exceptional Netgear Routers to Upgrade To</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-assessment-of-lensdirects-protective-eyewear-against-blue-light-with-tailored-prescription-options/"><u>The Ultimate Assessment of LensDirect’s Protective Eyewear Against Blue Light with Tailored Prescription Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-garmin-vivosmart-4s-body-battery-and-stress-analysis-features-reviewed/"><u>The Ultimate Guide to Understanding Garmin Vivosmart 4'S Body Battery and Stress Analysis Features - Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncover-if-applecareplus-offers-worthwhile-benefits-to-consumers/"><u>Uncover if AppleCare+ Offers Worthwhile Benefits to Consumers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-of-oneplus-8t-exceptional-speed-meets-disappointing-cameras/"><u>Unveiling the Pros and Cons of OnePlus 8T - Exceptional Speed Meets Disappointing Cameras</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "2024'S Ultimate Selection: High-Performance SD Memory Cards for Professional Camera Gear"
-date: 2024-08-31T17:27:09.102Z
-updated: 2024-09-01T17:27:09.102Z
+date: 2024-09-04T20:11:21.910Z
+updated: 2024-09-05T20:11:21.910Z
 tags:
   - buying-guides
 categories:
@@ -72,16 +72,10 @@ Best Micro SD Card For Cameras
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best SD Card for Cameras Overall: [Lexar Professional 2000x](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942) 
 
@@ -89,6 +83,18 @@ Best Micro SD Card For Cameras
 
 [![Lexar Professional SD on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/lexar-2000x-2.jpg) Lexar](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942) 
 
 | Pros                                                        | Cons                      |
@@ -112,6 +118,12 @@ Best Micro SD Card For Cameras
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best SD Card For Cameras Overall
 
 #####  Lexar 64GB Professional 2000x UHS-II SDXC
@@ -124,9 +136,6 @@ Lexar offers pro-level speed and performance for a very affordable price.
 
 [![Transcend SD card on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/transcend-sd.jpg) Transcend](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 [](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                   | Cons                            |
@@ -143,7 +152,10 @@ Lexar offers pro-level speed and performance for a very affordable price.
 ![Transcend TS32GSDC700S 32GB](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/transcend-ts32gsdc700s-32gb.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
@@ -155,9 +167,6 @@ A powerful SD card for photographers on a budget, the V90 can stand toe-to-toe w
 
 [See at amazon](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best SD Card for Cameras Under $25: [SanDisk Extreme Pro 64GB UHS-I](https://www.amazon.com/dp/B07H9J1YXN?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 ![A SanDisk Extreme Pro 64GB UHS-I SD card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/background-1.jpg) 
@@ -176,8 +185,32 @@ A powerful SD card for photographers on a budget, the V90 can stand toe-to-toe w
 
 ![SanDisk 64GB Extreme PRO](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/sandisk-64gb-extreme-pro.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best SD Card for Cameras Under $25
 
 #####  SanDisk 64GB Extreme PRO SDXC UHS-I Card
@@ -190,6 +223,12 @@ SanDisk offers a workhorse SD memory card that will keep up with whatever you th
 
 ![A SanDisk 1TB Extreme PRO SDXC UHS-II memory card submerging in water](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sandisk-1tb-extreme-pro-sdxc-uhs-ii.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 SanDisk
 
 | Pros                                                   | Cons     |
@@ -226,9 +265,6 @@ The SanDisk 1TB Extreme Pro SDXC UHS-II is a fast, high-capacity SD card for pro
 
 [![Kingston Canvas React](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Kingston-Canvas-React.jpg) Kingston](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 [](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                           | Cons                                             |
@@ -247,11 +283,14 @@ The SanDisk 1TB Extreme Pro SDXC UHS-II is a fast, high-capacity SD card for pro
 
 ![kingston 32gb](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/kingston-32gb.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Micro SD Card For Cameras
 
 #####  Kingston 128GB microSDXC Canvas React Plus Micro SD Card
@@ -261,41 +300,53 @@ Need a microSD for your camera? Kingston has a high-storage, high-speed card tha
 [See at amazon](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How do you format an SD card for a camera?
 
  The best way to format your SD card is generally on the camera itself. See our guide on[safely formatting SD cards for your camera](https://facebook-videos.techidaily.com/updated-2024-approved-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/) for a full walkthrough.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How do I transfer photos from an SD card?
 
  Perhaps the easiest and most efficient way to transfer photos from an SD card to a Mac or Windows PC is with an[SD card reader](https://www.amazon.com/SanDisk-Extreme-UHS-II-Reader-SDDR-409-G46/dp/B078JTMDWH?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce). However, you can also wirelessly transfer photos to your smartphone or computer using an app like[SnapBridge](https://snapbridge.nikon.com/) for Nikon or[FUJIFILM Camera Remote](https://app.fujifilm-dsc.com/en/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Does formatting an SD card wipe it?
 
  Yes,[formatting your SD card will wipe its memory](https://youtube-blog.techidaily.com/aster-youtube-sound-playback-variations-for-2024/). Be sure you have backups of the photos you want before going through with the formatting process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What does the 'SD' in SD card stand for?
 
  Coined by the[SD Association](https://www.sdcard.org/), "SD" stands for "Secure Digital."
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How do I transfer data from an SD card?
 
  One of the easiest ways to transfer data to a computer or another SD card is with an[SD card reader](https://www.amazon.com/SanDisk-Extreme-UHS-II-Reader-SDDR-409-G46/dp/B078JTMDWH?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce). Connect the SD card, copy its contents to a folder on your desktop or in your[cloud storage service](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/), then connect the new SD card and paste the files to it. You can also use third-party apps like [Files To SD Card or USB Drive](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205942/https://play.google.com/store/apps/details?id=cz.bukacek.filestosdcard&hl=en%5FUS&gl=US) for Android.

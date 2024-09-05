@@ -1,7 +1,7 @@
 ---
 title: Discovering the Shadowy Depths in Our Comprehensive Bloodborne Review
-date: 2024-08-31T17:32:24.397Z
-updated: 2024-09-01T17:32:24.397Z
+date: 2024-09-04T20:11:17.502Z
+updated: 2024-09-05T20:11:17.502Z
 categories:
   - BestProducts
 description: This Article Describes Discovering the Shadowy Depths in Our Comprehensive Bloodborne Review
@@ -83,11 +83,20 @@ Lifewire / Jordan Provost
 
 ![Ipad Pro 11-Inch](https://www.lifewire.com/thmb/TpucPEgB2OHgSplLwk2Q6sbI6Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_5-a6f20cf2b7b84caf8a6290fcb5e9fb5f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## **Accessories: Useful for productivity**
 
  The two main attachments everyone should consider when purchasing an iPad Pro are the Apple Pencil and the Smart Keyboard Folio. The Apple Pencil is a powerful tool for artists and note takers, and the revised model includes a double-tap feature so you can quickly switch between brush styles and utilize functions usually locked off to the more PC-focused professional drawing tablets. Previous Apple Pencil users will be glad to know that it charges with a magnetic pad on the side of the device, and not awkwardly through the port at the bottom like previous models.
@@ -108,8 +117,20 @@ Lifewire / Jordan Provost
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/GV44W9kKlQd3SXT_XaWI-tjo6Cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_6-2bcb5b2009154c92931411045a9b6ddc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Display: Rich colors and smooth motion**
 
  Apple is well known for its gorgeous screens, and the iPad Pro absolutely delivers. The display is what Apple is calling ‘Liquid Retina’, an upgraded version of the technology that drives the screen on the iPhone XR. Wonderfully rich color reproduction, crisp text can be found across all of Apple’s proprietary apps and third-party optimized software. Reading articles and watching video content on streaming services is wonderful, and it even fares well amidst glare from sunlight. It’s still an LCD screen though, so OLED tablets will still have better-looking blacks and richer, more saturated colors. Fortunately for Apple, there aren’t many of those in the market.
@@ -130,13 +151,13 @@ Lifewire / Jordan Provost
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/KXfYew06x6vujxu5asiFMPptK_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_1-a6ce9e62649048d7a20596066576c2c5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Productivity: Not a laptop replacement just yet**
 
@@ -151,8 +172,10 @@ Lifewire / Jordan Provost
  Outside of that, you can’t connect some external drives, Thunderbolt devices or use a mouse. Split View is also certainly a compromise to professionals used to using more than three programs at once.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Audio: Thunderous sound**
 
@@ -166,13 +189,19 @@ Lifewire / Jordan Provost
 
 ![IPad- Pro 11 Inch](https://www.lifewire.com/thmb/D-1-WC_wIDqzRZLb8mDOgpjal6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_3-e425a67865fc461fb805e648294dadf8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera: A decent backup**
 
@@ -184,9 +213,6 @@ Lifewire / Jordan Provost
 
  Take a peek at some of the[best camera apps](https://www.lifewire.com/best-iphone-camera-apps-4176231) you can download.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery: All-day usage**
 
  This is an all-day device, and should last you roughly around 10 hours of regular use, as per our testing. We spent almost a full working day pushing it using Split View to draft articles, with some Procreate drawing and Netflix streaming in between, and the iPad Pro clocked out at around 9 hours. However, we found some apps like Google Docs drain the battery more than most, so it varies depending on your workflow. Much like the Apple Watch, if you’re not a power user this tablet could last you a number of days before needing a fresh charge.
@@ -196,7 +222,10 @@ Lifewire / Jordan Provost
  Lifewire / Jordan Provost
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: The best yet**
 
@@ -207,7 +236,10 @@ Lifewire / Jordan Provost
  iOS 12 is by far and away the best version of the operating system yet, but there are still some blatant compromises that eat away at the possibility of the iPad Pro being a laptop replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Well worth the money if you can justify it**
 
@@ -215,9 +247,6 @@ Lifewire / Jordan Provost
 
  Luckily, the 11-inch iPad Pro is such a revolutionary upgrade on most tablets that you do truly get what you pay for here. The A12X Bionic puts it leagues ahead of the competition, making it the most powerful productivity machine for professional creatives on the market. There is nothing really competing at this price range beyond.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Hard to beat**
 
  Nothing can really compete as far as power is concerned when it comes to the iPad Pro, so you’re mostly looking at compromises with certain benefits. The Samsung Galaxy Tab S4 doesn’t suffer from the same locked off functionality of iOS 12 with its Android architecture and has a better AMOLED screen. It also comes packaged with a stylus, which mitigates some of the cost of the Apple Pencil if you find a stylus necessary. This device retails at $649.99, making it more affordable than the iPad. The Microsoft Surface Pro 6 is another option, and may be a better fit for replacing your laptop than the iPad, with its fully functional Windows 10 OS, but it’s still costly at $799\. You could always roll back to the early 2018 9.7-inch iPad if you want to save some money. This will set you back $329 and cover most of your bases, but you’ll miss out on updates like Face ID, the sleek new design, and accessories.
@@ -230,12 +259,30 @@ Lifewire / Jordan Provost
 
  With utterly seamless navigation and playback, fantastic speakers and world-class accessories and performance, this is a beautifully designed piece of hardware. Unfortunately, whilst the power is there, it is held back by its own operating system, forcing you into busywork or compromising missteps. It cannot replace your laptop just yet, but it may well make it redundant based on your use case.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple iPad 10.2-inch (7th Generation)](https://www.lifewire.com/apple-ipad-10-2-inch-7th-generation-review-4772313)
 * [Microsoft Surface Go](https://www.lifewire.com/microsoft-surface-go-review-4690827)
 * [Apple iPad Mini (2019)](https://www.lifewire.com/apple-ipad-mini-2019-review-4688991)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  iPad Pro 11-Inch (2018)

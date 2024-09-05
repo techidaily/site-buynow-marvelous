@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Protective Covers for Google Pixel 9
-date: 2024-08-31T17:26:50.016Z
-updated: 2024-09-01T17:26:50.016Z
+date: 2024-09-04T20:11:21.430Z
+updated: 2024-09-05T20:11:21.430Z
 tags:
   - buying-guides
 categories:
@@ -103,7 +103,10 @@ The QUAD Lock MAG Pixel 9 Case offers robust protection and supports an active l
 [See at QUAD Lock](https://www.quadlockcase.com/collections/cases/products/case-all-pixel-devices?variant=44394736648363) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Budget Google Pixel 9 Case: [Spigen Rugged Armor Pixel 9 Case](https://www.amazon.com/Spigen-Rugged-Designed-Military-Grade-Protection/dp/B0CWS88S43/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004979&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-google-pixel-9-cases%2F&asc%5Fcampaign=Commerce) 
 
@@ -126,11 +129,14 @@ The QUAD Lock MAG Pixel 9 Case offers robust protection and supports an active l
 
 ![Spigen Rugged Armor TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spigen-rugged-armor-tag.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget Google Pixel 9 Case
 
 #####  Spigen Rugged Armor Pixel 9 Case
@@ -161,12 +167,10 @@ Best Budget Google Pixel 9 Case
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Google Pixel 9 Wallet Case
 
@@ -174,16 +178,10 @@ Best Google Pixel 9 Wallet Case
 
 [$43 at Amazon](https://www.amazon.com/TORRO-Leather-Compatible-Google-Pixel/dp/B0D8LDVDSS/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004979&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-google-pixel-9-cases%2F&asc%5Fcampaign=Commerce) [See at Torro](https://torro.co.uk/products/google-pixel-9-leather-wallet-case) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best Rugged Google Pixel 9 Case: [OTTERBOX Defender Series Pro Pixel 9 Case](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004979/https://www.otterbox.com/en-us/rugged-google-pixel-9-and-google-pixel-9-pro-case-black/77-95594.html) 
 
 ![OTTERBOX Defender Pro Pixel 9 Case on a gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/otterbox-defender-pro-pixel-9-case.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 | Pros                                     | Cons   |
 | ---------------------------------------- | ------ |
 | Robust all-round protection              | Pricey |
@@ -202,10 +200,19 @@ Best Google Pixel 9 Wallet Case
 ![Otterbox Defender Series Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/otterbox-defender-series-pro.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Rugged Google Pixel 9 Case
 
 #####  OTTERBOX Defender Series Pro
@@ -214,12 +221,33 @@ The Otterbox Defender Series Pro is a rugged, military-grade phone case that del
 
 [See at OtterBox](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004979/https://www.otterbox.com/en-us/rugged-google-pixel-9-and-google-pixel-9-pro-case-black/77-95594.html) 
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Clear Google Pixel 9 Case: [Caseology Capella Kickstand Clear Case](https://www.amazon.com/Caseology-Capella-Kickstand-Google-Military/dp/B0CW4MP8W1?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004979&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-google-pixel-9-cases%2F&asc%5Fcampaign=Commerce) 
 
 ![Caseology Capella Kickstand Case on a gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/caseology-capella-kickstand-case.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 | Pros                            | Cons                   |
 | ------------------------------- | ---------------------- |
@@ -238,11 +266,25 @@ The Otterbox Defender Series Pro is a rugged, military-grade phone case that del
 
 ![Caseology Capella Kickstand TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/caseology-capella-kickstand-tag.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Clear Google Pixel 9 Case
 
@@ -251,15 +293,21 @@ Best Clear Google Pixel 9 Case
 [$24 at Amazon](https://www.amazon.com/Caseology-Capella-Kickstand-Google-Military/dp/B0CW4MP8W1?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004979&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-google-pixel-9-cases%2F&asc%5Fcampaign=Commerce) [See at Caseology](https://www.caseologycases.com/products/pixel-9-9-pro-case-capella-kickstand?variant=41521520967754) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Thin Google Pixel 9 Case: [dBrand Google Pixel 9 Case](https://dbrand.com/shop/grip/google-pixel-9-cases) 
 
 ![dBrand Pixel 9 Grip Case on a gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dbrand-pixel-9-grip-case.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 | Pros                                              | Cons         |
 | ------------------------------------------------- | ------------ |
 | Grippy, thin profile Made for Google product      | No kickstand |
@@ -277,11 +325,14 @@ Best Clear Google Pixel 9 Case
 
 ![dBrand Pixel 9 Grip Case on a transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dbrand-pixel-9-grip-case-pfp.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Best Thin Google Pixel 9 Case
 
 #####  dBrand Google Pixel 9 Case
@@ -292,9 +343,6 @@ Best Thin Google Pixel 9 Case
 
 ![Mous Limitless 5.0 Google Pixel 9 Case on a gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mous-limitless-5-0-google-pixel-9-case.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 | Pros                                  | Cons                  |
 | ------------------------------------- | --------------------- |
 | Simple yet premium leather case       | No built-in kickstand |
@@ -312,6 +360,18 @@ Best Thin Google Pixel 9 Case
 
 ![Mous Limitless 5.0 TAG-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mous-limitless-5-0-tag-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Leather Google Pixel 9 Case
@@ -321,13 +381,13 @@ Best Leather Google Pixel 9 Case
 [See at Mous](https://www.mous.co/products/limitless-5-0-magsafe-compatible-phone-case-black%5Fleather) [$70 at Amazon](https://www.amazon.com/Mous-Google-Pixel-MagSafe-Compatible/dp/B0D9MBJNQV/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004979&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-google-pixel-9-cases%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### What is the difference between the Google Pixel 9 and Google Pixel 9 Pro?
 
  The Pixel 9 Pro and the Pixel 9 share certain similarities, but also differ in several ways. For instance, while the Pixel 9 Pro starts at $999, weighs 199 grams, and has 16GB RAM, the Pixel 9 starts at $799, weighs 198 grams, and has 12GB RAM.
@@ -340,6 +400,18 @@ Best Leather Google Pixel 9 Case
 
  The Pixel 9 Pro and the Pixel 9 both have the same physical dimensions, including button, port, and camera placements. So, yes, you can use the Pixel 9 Pro case on your Pixel 9.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I clean my Google Pixel case?
 
  You can clean your Google Pixel case in different ways depending on the material it is made from. For plastic, a microfiber cloth and a few drops of water with a little soap should suffice. For leather, you can use a leather cleaner and a leather milk/balm to coat it thereafter.

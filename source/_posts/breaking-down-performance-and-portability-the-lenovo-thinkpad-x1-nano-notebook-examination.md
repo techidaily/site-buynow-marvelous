@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Performance and Portability: The Lenovo ThinkPad X1 Nano Notebook Examination"
-date: 2024-08-27T10:56:40.712Z
-updated: 2024-08-28T10:56:40.712Z
+date: 2024-09-04T20:11:26.486Z
+updated: 2024-09-05T20:11:26.486Z
 categories:
   - BestProducts
 description: "This Article Describes Breaking Down Performance and Portability: The Lenovo ThinkPad X1 Nano Notebook Examination"
@@ -75,7 +75,10 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design and Features: It’s flippin’ nice**
 
@@ -102,12 +105,24 @@ Lifewire / Andrew Hayward
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/AFQh-ERthm-g0pAMcnQlyA2Rjgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_bent_02-3dfd0720309d4d12beb5ae695a007aa1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Display: Small, but strong**
 
@@ -115,6 +130,12 @@ Lifewire / Andrew Hayward
 
  It also acts like an extra-large tablet screen since it’s a touchscreen with 10 points of interaction. It felt just as responsive as any tablet we’ve used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: It does what it can**
 
  You really can’t pit the Chromebook Flip against pricier Windows and Mac laptops in terms of sheer processing power because Chromebooks aren’t built to be beasts. But they don’t really need to be: the highest quality of graphics processing it’ll need to handle are mobile-quality games, since the Chromebook Flip can run Android apps from the Play Store, and you’re not able to download high-end games from Steam or the Epic Games Store.
@@ -129,12 +150,30 @@ Lifewire / Andrew Hayward
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/7B1-43v0GHPcS2HESabWT97_XPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_Keyboard_03-8bc37c7c2d0243bb8ed1fa10e338374f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 ## **Audio: Sounds fine**
 
  The tiny speaker grates on the left and right side of the Chromebook Flip don’t look too promising, but the playback quality was better than expected. Music output isn’t big and bold, but it’s pretty clear and it can get loud without getting too muddled. Video playback via YouTube and Netflix was sometimes too quiet at full volume, however.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Network: No complaints here**
 
  The Chromebook Flip has dual-band Wi-Fi that can connect to both 2.4Ghz and 5Ghz networks, and we had no issues with either during our testing. We went online at a home network and a Starbucks Google network alike, and things were routinely speedy. On the home network, we saw speeds of about 33Mbps and upload speeds in excess of 10Mbps—essentially the same as we’ve seen with[other laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) and[smartphones](https://www.lifewire.com/best-smartphones-4043781) .
@@ -149,9 +188,6 @@ Lifewire / Andrew Hayward
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/VR5Y-1tDILHowNSeA408pnLVtgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_closed_04-bde5ec8f988c4bb49e4019f95cc47c31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 ## **Software: It’s definitely different**
@@ -175,13 +211,13 @@ Lifewire / Andrew Hayward
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/NHrMPSrgOWsOuCEYg0M-STQUfsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Air-v-Surface-Comparison-a255967a27e14762b5c2ad9c442df77f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Asus Chromebook Flip C302CA vs. Apple MacBook Air**
 
  On paper, these laptops shouldn’t be comparable. At $1,099 or more, the MacBook Air is one of the most polished and premium ultraportable laptops you can buy today. The perks are obvious: it has a sleek and refined build, the brighter and higher-resolution 13.3-inch display is gorgeous, and the touchpad is excellent. It also runs macOS, a more robust operating system that still manages to be easy to use.
@@ -196,9 +232,6 @@ Lifewire / Andrew Hayward
 
  Just as the recent crop of cheap, strong mid-range phones has made many flagship smartphones seem excessive and unnecessary, the Asus Chromebook Flip C302CA does much the same for laptops. This is a seriously impressive and versatile notebook without any major deficiencies, and it’s priced at just $499—less than half the price of the cheapest Apple laptop right now.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Chromebook Flip C302CA-DHM4

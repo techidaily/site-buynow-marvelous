@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Cardio Trackers: The Ultimate Heart Rate Monitor Selection"
-date: 2024-08-31T17:28:49.942Z
-updated: 2024-09-01T17:28:49.942Z
+date: 2024-09-04T20:11:24.515Z
+updated: 2024-09-05T20:11:24.515Z
 tags:
   - buying-guides
 categories:
@@ -64,6 +64,12 @@ Best Finger Heart Rate Monitor
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Heart Rate Monitor Overall: [Polar H10](https://www.amazon.com/Polar-Heart-Rate-Monitor-Women/dp/B07PM54P4N?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Polar-Heart-Rate-Monitor-Women/dp/B07PM54P4N?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
@@ -92,12 +98,18 @@ Best Finger Heart Rate Monitor
 ![21ZmeI-hxsL._SL160_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/21zmei-hxsl-_sl160_-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Heart Rate Monitor Overall
 
@@ -109,12 +121,30 @@ The Polar H10 is an excellent go-to heart rate monitor with superior accuracy, i
 
 [$81 at Amazon](https://www.amazon.com/Polar-Heart-Rate-Monitor-Women/dp/B07PM54P4N?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Budget Heart Rate Monitor: [Polar H9](https://www.amazon.com/dp/B08411CZYL?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/dp/B08411CZYL?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
 [![Person putting on Polar H9 heart sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/Polar-H9.jpg) Polar](https://www.amazon.com/dp/B08411CZYL?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.amazon.com/dp/B08411CZYL?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                          | Cons                                    |
@@ -134,7 +164,10 @@ The Polar H10 is an excellent go-to heart rate monitor with superior accuracy, i
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Budget Heart Rate Monitor
 
@@ -144,15 +177,18 @@ If you're shopping on a budget and need something reliable, the Polar H9 is a gr
 
 [$65 at Amazon](https://www.amazon.com/dp/B08411CZYL?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  Best Heart Rate Monitor Watch: [Garmin Venu SQ2](https://www.amazon.com/Garmin-Smartwatch-All-Day-Monitoring-Long-Lasting/dp/B0B5VVNJBF?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Garmin-Smartwatch-All-Day-Monitoring-Long-Lasting/dp/B0B5VVNJBF?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
 [![Garmin Venu SQ2 heart rate graphic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/garmin-venu-SQ-2.jpg) Garmin](https://www.amazon.com/Garmin-Smartwatch-All-Day-Monitoring-Long-Lasting/dp/B0B5VVNJBF?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.amazon.com/Garmin-Smartwatch-All-Day-Monitoring-Long-Lasting/dp/B0B5VVNJBF?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                                       | Cons                           |
@@ -189,9 +225,6 @@ Garmin's Venu SQ 2 is a great smartwatch for monitoring your heart rate thanks t
 
 [![Garmin HRM Pro Plus on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/garmin-HRM-Pro-Plus.jpg) Garmin](https://www.amazon.com/Garmin-HRM-Pro-Captures-Dynamics-Transmits/dp/B0B3PNFK9H?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 [](https://www.amazon.com/Garmin-HRM-Pro-Captures-Dynamics-Transmits/dp/B0B3PNFK9H?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                     | Cons                           |
@@ -215,13 +248,13 @@ Garmin's Venu SQ 2 is a great smartwatch for monitoring your heart rate thanks t
 ![41RCqq0AFZL._SL160_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41rcqq0afzl-_sl160_-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Best Heart Rate Monitor Chest Strap
 
 #####  Garmin HRM-Pro Plus
@@ -230,15 +263,18 @@ The Garmin HRM-Pro Plus offers incredible accuracy to help keep tabs on your hea
 
 [See at Amazon](https://www.amazon.com/Garmin-HRM-Pro-Captures-Dynamics-Transmits/dp/B0B3PNFK9H?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) [Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU202596%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fgarmin%255Fheart%255Frate%255Fmo%252F-%252FA-87416303) [Crutchfield](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.crutchfield.com%2FI-rNARc1EZK%2Fp_1501311800%2FGarmin-HRM-Pro-Plus.html) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Finger Heart Rate Monitor: [Innovo Deluxe iP900AP](https://www.amazon.com/Innovo-Fingertip-Oximeter-Plethysmograph-Perfusion/dp/B07YVGZPRZ?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Innovo-Fingertip-Oximeter-Plethysmograph-Perfusion/dp/B07YVGZPRZ?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
 [![Reading on Innovo Deluxe iP900AP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/Innovo-Deluxe-iP900-AP-2.jpg) Innovo](https://www.amazon.com/Innovo-Fingertip-Oximeter-Plethysmograph-Perfusion/dp/B07YVGZPRZ?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [](https://www.amazon.com/Innovo-Fingertip-Oximeter-Plethysmograph-Perfusion/dp/B07YVGZPRZ?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                             | Cons                                    |
@@ -260,13 +296,13 @@ The Garmin HRM-Pro Plus offers incredible accuracy to help keep tabs on your hea
 ![41PMC0srZ6L._SL160_-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41pmc0srz6l-_sl160_-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Best Finger Heart Rate Monitor
 
 #####  Innovo Deluxe iP900AP
@@ -275,9 +311,6 @@ With its color display, speedy performance, and support for both heart rate and 
 
 [$35 at Amazon](https://www.amazon.com/Innovo-Fingertip-Oximeter-Plethysmograph-Perfusion/dp/B07YVGZPRZ?tag=htg-v2-26t1ki4-20&ascsubtag=UUhtgUeUpU202596&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F874395%2Fbest-heart-rate-monitors%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## FAQ
 
 ### How do I read a heart monitor's results?
@@ -289,12 +322,21 @@ With its color display, speedy performance, and support for both heart rate and 
  Heart rate monitors can be incredibly convenient tools to have in your arsenal. It's important to know how fast your heart beats during workouts, while resting, and while you're sleeping. However, with most heart monitors, you'll only want to use them for simple reference and not as medical devices. They may be as accurate as your doctor's tool to record your heart rate, but you shouldn't use them to diagnose yourself or make any assumptions about larger issues with your body.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How does a heart monitor work?
 
  With chest strap heart monitors, built-in electrode sensors detect your heart's electrical activity as it beats, recording each instance and reporting it back in beats per minute (BPM). Other heart rate monitors like smartwatches and fitness bands use photoplethysmography (PPG) technology. It's essentially a light source that, instead of detecting electrical activity, looks for minor changes in your skin resulting from blood flow, representing your heart rate. That's why it's always important to fit such devices as tightly as you can to your body without causing discomfort, in order to ensure the most accurate recordings.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How accurate are heart rate monitors in smartwatches?
 
  Smartwatches don't look for the same electrical activity as medical-grade heart rate monitors. Instead, they use light to look for differences in your skin that result from blood flow so that a loose-fitting watch could pose a serious risk for an inaccurate assessment of your heart rate. Similarly, even if you fit the watch snuggly, the light can't identify each heartbeat with the level of accuracy as something that uses electricity due to physical limitations. Smartwatches are fine for reference, but they should never be used as medical devices.

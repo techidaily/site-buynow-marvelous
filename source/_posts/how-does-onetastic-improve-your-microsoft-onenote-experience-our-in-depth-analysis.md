@@ -1,7 +1,7 @@
 ---
 title: How Does Onetastic Improve Your Microsoft OneNote Experience? Our In-Depth Analysis
-date: 2024-08-09T00:43:32.131Z
-updated: 2024-08-10T00:43:32.131Z
+date: 2024-09-04T20:08:49.000Z
+updated: 2024-09-05T20:08:49.000Z
 categories:
   - BestProducts
 description: This Article Describes How Does Onetastic Improve Your Microsoft OneNote Experience? Our In-Depth Analysis
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/WI8sOnryW8KQ73L8lgXo5dlvQGQ=/400x300/fi
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Microsoft Xbox One Elite Series 2 Controller
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/425lsqo6i1_7Vzb3ebrBxtVPgfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
 Lifewire / Zach Sweat
@@ -43,9 +37,6 @@ Lifewire / Zach Sweat
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
@@ -78,7 +69,10 @@ Lifewire / Zach Sweat
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Dark, sturdy, and feature-packed**
 
@@ -106,8 +100,20 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Comfort: Hefty, but darn comfy**
 
  The original Elite was perhaps the most comfortable controller I’ve ever used, so with the Series 2, I had high hopes in this department. Thanks to some clever but subtle changes by the Microsoft team, this controller is even better.
@@ -124,9 +130,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process and Software: Bluetooth, at long last**
 
  One of our biggest gripes with the original Elite controller was that it lacked Bluetooth functionality despite its premium price tag. Seeing how the much cheaper ONE S variant included this, it was even more frustrating. Thankfully, Microsoft listened to our collective rants and added Bluetooth to the Series 2, which drastically improves the number of devices it can be used with.
@@ -147,8 +150,26 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -172,7 +193,10 @@ Lifewire / Zach Sweat
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Like buying a brand new console**
 
@@ -182,16 +206,10 @@ Lifewire / Zach Sweat
 
  The argument could be made that considering you get a Bluetooth controller capable of working on XB1 and PC, a charging dock and a nice little case to keep it all together, the cost isn’t awful. But if you want all of those things for less, you can grab an S controller, dock and case for far, far less.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
  Since the Elite controller really is in a league of its own, the biggest competitor to it is the first generation, which can still be purchased from a number of retailers. We’re going to quickly compare the two to see which might be best for you.
@@ -238,3 +256,54 @@ Lifewire / Zach Sweat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-top-speed-solutions-for-sluggish-android-videos-for-2024/"><u>[New] Top Speed Solutions for Sluggish Android Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>[Updated] 2024 Approved  Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sow-seeds-of-smile-inducing-images/"><u>[Updated] 2024 Approved  Sow Seeds of Smile-Inducing Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-visual-vanguard-the-top-videoviral-tweets/"><u>[Updated] 2024 Approved  Visual Vanguard  The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-bring-your-vision-to-life-youtube-trailers-using-filmoras-magic/"><u>[Updated] Bring Your Vision to Life  YouTube Trailers Using Filmora's Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-essential-insights-on-asmr-videos/"><u>[Updated] In 2024, Essential Insights on ASMR Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-perfect-for-every-task-our-choice-in-8-5k-displays/"><u>[Updated] In 2024, Perfect for Every Task  Our Choice in 8 5K Displays</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-pet-surveillance-petcubes-top-hd-camera-choice/"><u>Affordable Pet Surveillance: Petcube's Top HD Camera Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-choice-exceptional-earphones-of-2024/"><u>Audiophiles' Choice - Exceptional Earphones of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-functionality-and-style-a-comprehensive-look-at-the-iphone-se-2e-2020/"><u>Balancing Functionality and Style - A Comprehensive Look at the iPhone SE (2E) 2020</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/battery-powered-nest-doorbell-comprehensive-google-reviews-and-insights/"><u>Battery-Powered Nest Doorbell: Comprehensive Google Reviews and Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-prime-day-ever-score-amazing-deals-on-all-your-favorite-apple-products/"><u>Best Prime Day Ever: Score Amazing Deals on All Your Favorite Apple Products.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capturing-life-in-4k-with-wxf991/"><u>Capturing Life in 4K with WXF991</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-fitbit-charge-6-features-and-performance/"><u>Comprehensive Analysis of the Fitbit Charge 6: Features & Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-budget-friendly-fitbit-versa-smartwatch/"><u>Comprehensive Guide to the Budget-Friendly Fitbit Versa Smartwatch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-compact-and-powerful-raspberry-pi-section-1-advanced-problem-on-hydraulic-radius-in-non-circular-channels/"><u>Comprehensive Review of the Compact and Powerful Raspberry Pi # Section 1: Advanced Problem on Hydraulic Radius in Non-Circular Channels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-large-screened-acer-chromebook-15-impressive-device/"><u>Comprehensive Review of the Large-Screened Acer Chromebook 15 - Impressive Device!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-roku-the-zenith-of-streaming-and-sound/"><u>Cutting-Edge Roku: The Zenith of Streaming & Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/durable-child-friendly-cameras-for-waterplay/"><u>Durable Child-Friendly Cameras for Waterplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevating-flight-precision-a-closer-look-at-djis-phantom-4-pro-v2-the-quest-for-unmatched-aerial-mastery/"><u>Elevating Flight Precision: A Closer Look at DJI's Phantom 4 Pro V.2 - The Quest for Unmatched Aerial Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-skills-to-develop-for-thumbnail-designers/"><u>Essential Skills to Develop for Thumbnail Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evolution-in-travel-meet-the-flexible-tripod-12/"><u>Evolution in Travel - Meet the Flexible Tripod 12</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-msi-pro-mp16n-e2-your-next-ultimate-mobile-monitor/"><u>Explore the MSI PRO MP16n E2 – Your Next Ultimate Mobile Monitor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-a-fresh-environment-in-depth-analysis-of-watch-dogs-legion/"><u>Exploring a Fresh Environment: In-Depth Analysis of Watch Dogs: Legion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-wildlife-of-capcoms-epic-adventure-monster-hunter-world-reviewed/"><u>Exploring the Wildlife of Capcom's Epic Adventure - Monster Hunter: World Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-review-samsung-galaxy-s24-ultra-against-s23-ultra-features-and-performance/"><u>Head-to-Head Review: Samsung Galaxy S24 Ultra Against S23 Ultra Features and Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-def-excellence-with-logitech-c920-pro-hd-camera-in-depth-analysis/"><u>High-Def Excellence with Logitech C920 Pro HD Camera - In-Depth Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c210-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C210 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-90-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor 90 Phone Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-spin-into-popularity-the-art-of-video-reversal-on-instagram/"><u>In 2024, Spin Into Popularity  The Art of Video Reversal on Instagram</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-zte-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your ZTE Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-comparison-of-gaming-capabilities-discover-the-best-iphone-for-players/"><u>In-Depth Comparison of Gaming Capabilities – Discover the Best iPhone for Players!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-barnes-and-noble-nook-glowlight-3-for-enjoyable-reading-at-night/"><u>In-Depth Review of the Barnes & Noble Nook GlowLight 3 for Enjoyable Reading at Night</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-verdict-on-the-xp-pen-artist-16-pro-a-detailed-drawing-tablet-assessment/"><u>The Definitive Verdict on the XP-Pen Artist 16 Pro: A Detailed Drawing Tablet Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elder-scrolls-v-skyrim-on-the-nintendo-switch-an-unparalleled-rpg-journey/"><u>The Elder Scrolls V: Skyrim on the Nintendo Switch – An Unparalleled RPG Journey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-jacobs-smartpro-digital-tire-inflator-a-compact-high-potency-tool-reviewed/"><u>The Ultimate Guide to the Jacobs SmartPro Digital Tire Inflator: A Compact, High-Potency Tool Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essential-factors-to-assess-when-selecting-your-ideal-fitness-tracker/"><u>Top 5 Essential Factors to Assess When Selecting Your Ideal Fitness Tracker</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-apple-discounts-on-prime-day-save-big/"><u>Top Apple Discounts on Prime Day - Save Big</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-assessment-the-best-all-purpose-laptop-chiller-from-kooteks-collection/"><u>Ultimate Assessment: The Best All-Purpose Laptop Chiller From Kootek's Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722979937479-ultimate-guide-to-choosing-your-next-computer-apples-powerhouse-imac-reviewed/"><u>Ultimate Guide to Choosing Your Next Computer: Apple's Powerhouse iMac Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-best-wireless-trackers-of-2024/"><u>Ultimate Guide to the Best Wireless Trackers of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-twelve-souths-bookbook-v2-for-macbook-expert-review-and-unboxing/"><u>Ultimate Guide: Twelve South's BookBook V2 for MacBook - Expert Review & Unboxing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-lg-gram-17-notebook-top-performance-in-an-ultra-thin-frame/"><u>Unpacking the LG Gram 17 Notebook: Top Performance in an Ultra-Thin Frame</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-2024s-most-economical-smartphone-contract-options/"><u>Unveiling 2024'S Most Economical Smartphone Contract Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-review-of-samsungs-qn55q6f-ultra-hd-smart-tv/"><u>Unveiling the Benefits: A Review of Samsung's QN55Q6F Ultra HD Smart TV</u></a></li>
+</ul></div>

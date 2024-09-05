@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Sun with Aeiusny Portable Generators: How Their Pure Sine Wave Inverters Safeguard Your Medical Equipment"
-date: 2024-08-31T17:32:16.389Z
-updated: 2024-09-01T17:32:16.389Z
+date: 2024-09-04T20:11:17.648Z
+updated: 2024-09-05T20:11:17.648Z
 categories:
   - BestProducts
 description: "This Article Describes Harnessing the Sun with Aeiusny Portable Generators: How Their Pure Sine Wave Inverters Safeguard Your Medical Equipment"
@@ -62,19 +62,12 @@ Lifewire / Rebecca Isaacs
 
  A poor computer chair may lead to backaches, pains, and a whole mess of skeletal and muscular issues. When I began to have these symptoms, I decided it was time for a change to my chair, and got the Mavix M9 Gaming Chair for review. After over 20 hours of testing, it’s safe to say that I’ve found my favorite piece of gaming equipment.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Design: A gamer’s dream
 
  The M9 comes in four different color options, but to play it safe with my pets, I chose to get it in the sleek black option. In fact, those with pets will want to take note, as my first impression of the chair was that while most of it was black leather, the Dynamic Variable Lumbar support consisted of multilayered nylon, mesh material. It’s great for gamers’ backs—but can collect pet hair if your furry friends decide the M9 is a great place to snooze.
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/tSFIFAR8G-C5W7DBBLPJ5GiE3EM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_03-8842478b07bd4585ba7f1843afcd29dc.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
  Despite this mesh exterior, the M9 chair is incredibly sleek and modern and adds style to any modern gaming setup. This is not only because of the mesh support but the rest of the chair is upholstered in beautiful, smooth leather. The logo on the headrest stands out, but it’s not really a detriment to the overall design of the chair.
@@ -82,7 +75,10 @@ Lifewire / Rebecca Isaacs
  At 56 x 26 x 22.75 inches (HWD), the chair has a wide seat for spreading out and comes with an optional headrest. Even the wheels are prepped for hours of gameplay and come with a locking feature to ensure stability.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Comfort: It’s all in the ergonomics
 
@@ -109,7 +105,10 @@ Lifewire / Rebecca Isaacs
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/WWvjEhKERcoOvm-8u1GtzfLuV7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_05-91c5a721612e45cbbdc432ec9ab67e4b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
@@ -120,7 +119,10 @@ Lifewire / Rebecca Isaacs
  Only want to go back a few degrees? You can adjust that thanks to the levers underneath the chair seat. This feature also helped relieve my back when I started feeling like I’d been sitting in the chair too long. It’s a great, relaxing addition.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Price: Hits the wallet hard
 
@@ -128,11 +130,14 @@ Lifewire / Rebecca Isaacs
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/_eJYTViir2syGINJQq7Fxl1ofHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_04-d42bbf02273f4d0aa7c25351b201dc2c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Mavix M9 vs. XChair X4 Chair
 
  While the M9 is the most expensive option available in a series of gaming chairs from Mavix, the X4 Executive Office Chair by XChair is the highest tier office chair. So, it makes sense to compare them since they’re both geared for the work and play setting. Their prices are different, with the X4 costing around $1,200 before adding customizable options.
@@ -145,12 +150,30 @@ Lifewire / Rebecca Isaacs
 
  While it can’t really be customized outside of cosmetic options, the M9 gaming chair is a solid, easy way to enjoy any gaming hobby without worrying about backaches. The reclining technology and the locking wheels are especially nice bonuses. The price may seem a little high, but it’s a worthy investment for any gamer.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [FicMax Ergonomic Gaming Chair](https://www.lifewire.com/ficmax-ergonomic-gaming-chair-review-4771068)
 * [X Rocker 51396 Pro Series Pedestal 2.1 Gaming Chair](https://www.lifewire.com/x-rocker-51396-pro-series-pedestal-2-1-gaming-chair-review-4771021)
 * [Homall Executive Swivel Chair](https://www.lifewire.com/homall-executive-swivel-chair-review-4589356)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  M9 Gaming Chair

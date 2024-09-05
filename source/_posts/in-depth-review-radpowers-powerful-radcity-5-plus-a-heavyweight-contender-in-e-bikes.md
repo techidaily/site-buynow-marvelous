@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review: RadPower's Powerful RadCity 5 Plus - A Heavyweight Contender in E-Bikes"
-date: 2024-08-09T00:43:33.455Z
-updated: 2024-08-10T00:43:33.455Z
+date: 2024-09-04T20:11:02.406Z
+updated: 2024-09-05T20:11:02.406Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Review: RadPower's Powerful RadCity 5 Plus - A Heavyweight Contender in E-Bikes"
@@ -37,9 +37,6 @@ Lifewire / Gannon Burgett
 
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/srDs47vmZPXcVAqFGXrMcO_CJi8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
 
 Lifewire / Gannon Burgett
@@ -63,9 +60,6 @@ Lifewire / Gannon Burgett
 
  For this review, I put SunBrite’s 55-inch Veranda 4K TV to the test to see how well it would hold up to in the chilliest of environments. Over the course of 30 hours of on-and-off use throughout the month of January, I took notes of the TV’s strengths and weaknesses and have summarized my thoughts below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Bulky, but durable**
 
  From a distance, the SunBrite 55-inch Veranda outdoor TV doesn’t look much different than your average LED television. Aside from being slightly bulkier due to its protective shell, the TV, from the front and side, looks nearly identical to any TV you’d see inside.
@@ -76,13 +70,28 @@ Lifewire / Gannon Burgett
 
  As you would expect, this frame does add notable bulk to the TV, but at 47 pounds, it still doesn’t weigh much more than TVs from just a few years back.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/rdbdKiGTwmhltgpXlFZprX8UxRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_06_Horiz-077a34626106476491659d025e498885.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Durability: Come hell or high water**
 
  Ultimately, testing the durability of the SunBrite 55 Veranda is something only time will be able to prove. However, after more than a month of near-daily use (and abuse), I’ve struggled to find anything this TV can’t handle, even in the chilling winters of northern Michigan.
@@ -99,15 +108,15 @@ Lifewire / Gannon Burgett
 
  The good news is there are some smaller devices now that you could easily plug into the TV and house right inside the water-resistant compartment, such as a[Google Chromecast](https://www.lifewire.com/set-up-google-chromecast-5323335) or[Amazon Fire TV Stick](https://www.lifewire.com/amazon-fire-tv-4152887) . It’s worth noting that the all-metal frame the TV is housed in, definitely impacts the wireless range of such devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/OXDu2alZGi-BU3sWsISvhfwGSDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_11_Horiz-b20abbf925284d3fb1936ceb762e3fe1.jpg)
 
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Image and Audio Quality: Good, but not great**
 
@@ -129,6 +138,18 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Not cheap, but worth it**
 
  At $2,000, the SunBrite 55-inch Veranda is much more expensive than your standard 55-inch 4K HDR TV—even ones that outperform it in the audio, visual, and software departments. However, as far as outdoor TVs are concerned, it’s one of the more reasonably-priced options available while still being able to take on the elements.
@@ -136,7 +157,10 @@ Lifewire / Gannon Burgett
  For better or worse, its $2,000 price is roughly middle-of-the-line as far as outdoor TVs go and if you have the cash to spare, I can guarantee it’ll be a worthwhile luxury purchase if you enjoy spending your time outside in the sun (or snow, in my case).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **SunBriteTV 55-inch Veranda vs Sealoc Lanai LG 7-series**
 
@@ -153,7 +177,16 @@ Lifewire / Gannon Burgett
  Overall, the SunBrite 55 Veranda is a fantastic outdoor TV that seems to withstand nearly anything you can throw at it (both literally and metaphorically). Sure, the price is absurd compared to a standard 4K HDR TV, but an outdoor TV takes extra work to prepare for the elements and that extra time and material comes with a cost.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -185,3 +218,42 @@ Lifewire / Gannon Burgett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-complete-manual-for-instagram-selfies/"><u>[New] 2024 Approved  The Complete Manual for Instagram Selfies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-16-steps-to-successfully-livestream-and-save-money-on-education-platforms/"><u>[Updated] 2024 Approved  16 Steps to Successfully Livestream and Save Money on Education Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[Updated] 2024 Approved  Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-modern-spin-on-a-beloved-franchise-unpacking-the-latest-ratchet-and-clank-game/"><u>A Modern Spin on a Beloved Franchise - Unpacking the Latest Ratchet & Clank Game</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-peak-windows-11-performance-with-these-adjustments/"><u>Achieve Peak Windows 11 Performance with These Adjustments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-ultra-hd-viewing-with-the-lg-um7300-49-tv-a-detailed-review/"><u>Affordable Ultra HD Viewing with the LG UM7300 49 TV - A Detailed Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16-preview-discover-its-projected-price-point-release-dates-device-support-and-exciting-features-ahead/"><u>Android 16 Preview - Discover Its Projected Price Point, Release Dates, Device Support, and Exciting Features Ahead</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boosting-visibility-igtv-and-facebook-connection-techniques-for-2024/"><u>Boosting Visibility  IGTV & Facebook Connection Techniques for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-a-sound-companion-how-google-nest-audio-stands-up-to-apples-homepod/"><u>Choosing a Sound Companion: How Google Nest Audio Stands Up to Apple's HomePod</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-the-right-exercise-band-for-your-goals-best-picks/"><u>Choosing the Right Exercise Band for Your Goals - Best Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-petsafes-innovative-automatic-pet-food-dispenser-ensuring-healthy-weight-in-pets/"><u>Comprehensive Review: PetSafe's Innovative Automatic Pet Food Dispenser Ensuring Healthy Weight in Pets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-superior-tech-with-apples-groundbreaking-m1-202prise-a-must-read-arm-pc-review/"><u>Discover Superior Tech with Apple's Groundbreaking (M1, 202Prise) - A Must-Read ARM PC Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-highest-ranked-key-trackers-of-this-year-your-comprehensive-review/"><u>Discover the Highest-Ranked Key Trackers of This Year - Your Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-robust-apc-back-ups-pro-nv1500-unmatched-energy-backup-with-plenty-of-outlets-and-hot-swappable-cells-for-seamless-power-continuity/"><u>Evaluating the Robust APC Back-UPS Pro Nv1500: Unmatched Energy Backup with Plenty of Outlets and Hot Swappable Cells for Seamless Power Continuity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-enhanced-convenience-with-mods-innovative-easy-sidecar-electric-bike/"><u>Experience Enhanced Convenience with Mod's Innovative Easy Sidecar Electric Bike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-charge-3-a-timeless-choice-for-health-enthusiasts-reviewed/"><u>Fitbit Charge 3: A Timeless Choice for Health Enthusiasts Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-venu-review-a-smart-247-fitness-and-health-tracking-companion/"><u>Garmin Venu Review: A Smart 24/7 Fitness and Health-Tracking Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-upgrade-a-macbook-pro-with-an-ssd/"><u>How to Upgrade a MacBook Pro With an SSD</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-xs-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone XS Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-xbox-one-x-the-reigning-champion-in-modern-consoles/"><u>In-Depth Analysis: Xbox One X - The Reigning Champion in Modern Consoles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-photos-the-ultimate-guide-to-using-and-reviewing-anthropicss-smart-editing-tool/"><u>Master Your Photos: The Ultimate Guide to Using and Reviewing Anthropics's Smart Editing Tool</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/minecraft-tales-by-the-campfire-costume-collection-an-expert-review-and-insightful-ratings/"><u>Minecraft 'Tales by the Campfire' Costume Collection - An Expert Review and Insightful Ratings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-your-way-from-windows-10-to-11-successfully/"><u>Navigating Your Way From Windows 10 To 11 Successfully</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-omegle-reinstated-guide-to-regaining-profile-approval-status/"><u>New In 2024, Omegle Reinstated Guide to Regaining Profile Approval Status</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/owc-mercury-pro-assessment-the-pinnacle-of-solid-state-drive-excellence-and-efficiency/"><u>OWC Mercury Pro Assessment: The Pinnacle of Solid State Drive Excellence and Efficiency</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionary-connectivity-awaits-explore-the-newly-launched-apple-iphone/"><u>Revolutionary Connectivity Awaits – Explore the Newly Launched Apple iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-ai-photo-cutting-master/"><u>Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tap-into-a-world-of-possibangs-with-oodles-exclusive-complimentary-local-marketplace/"><u>Tap Into a World of Possibangs with Oodle's Exclusive Complimentary Local Marketplace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-essential-device-checklist-for-beachside-chill/"><u>The Essential Device Checklist for Beachside Chill</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-top-of-the-line-body-cam-guide-best-picks-to-watch-out-for/"><u>The Top-of-the-Line Body Cam Guide - Best Picks to Watch Out For</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mighty-linksys-ea9500-gateway-revolutionizing-home-networks-with-clever-tech/"><u>The Ultimate Guide to the Mighty Linksys EA9500 Gateway - Revolutionizing Home Networks with Clever Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-for-extended-range-routers-best-options-available/"><u>Top Picks for Extended Range Routers - Best Options Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-wired-headphones-2024-edition/"><u>Top-Tier Wired Headphones, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-affordable-digital-delights-with-the-2020-lenovo-tab-m10-hd-a-review-for-budget-tech-enthusiasts/"><u>Unlock Affordable Digital Delights with The 2020 Lenovo Tab M10 HD: A Review for Budget Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-antop-at-127-exceptional-style-meets-superior-free-tv-broadcasting/"><u>Unveiling the Antop AT-127 - Exceptional Style Meets Superior Free TV Broadcasting</u></a></li>
+</ul></div>

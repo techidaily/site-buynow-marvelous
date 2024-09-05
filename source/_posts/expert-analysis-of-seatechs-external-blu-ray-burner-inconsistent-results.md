@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of SeaTech's External Blu-Ray Burner: Inconsistent Results"
-date: 2024-08-27T10:56:17.844Z
-updated: 2024-08-28T10:56:17.844Z
+date: 2024-09-04T20:11:26.857Z
+updated: 2024-09-05T20:11:26.857Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis of SeaTech's External Blu-Ray Burner: Inconsistent Results"
@@ -63,9 +63,6 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -74,9 +71,6 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  It has two little flip-up stopper nubs at the bottom to hold your laptop in place, and they can be gradually adjusted to avoid having them stick up and press into your wrists while typing. Meanwhile, a pair of feet on the bottom of the pad flip out to elevate your laptop about an inch upward to improve air circulation.
@@ -94,12 +88,24 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/xhFp_B4P4BG8gb4dtJAGBbXPAlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_05-4ce850d84f4a4e1d931588e23f39cb82.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Performance: It makes a difference
 
@@ -116,7 +122,10 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
@@ -125,7 +134,10 @@ Lifewire / Andrew Hayward
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Price: It’s very affordable
 
@@ -133,8 +145,26 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
 
  At $27, the Kootek Laptop Cooling Pad is a bit more robust. It gives you the ability to power the fans on and off—either the one large fan, or the group of four smaller fans around it—plus it runs a little quieter in use. The unit feels more durable overall, although the Kootek’s height adjustment system feels clunky, as you slide a hanging metal bar into plastic ridges to keep it upright. Kootek’s pad is larger and designed for laptops as large at 17 inches, but if you don’t need the extra size, the TopMate C302 gets the job done for less cash.

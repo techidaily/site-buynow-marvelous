@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking TKL Mechanical Keyboard Picks: A Buyer's Guide"
-date: 2024-08-31T17:26:43.207Z
-updated: 2024-09-01T17:26:43.207Z
+date: 2024-09-04T20:11:21.222Z
+updated: 2024-09-05T20:11:21.222Z
 tags:
   - buying-guides
 categories:
@@ -64,13 +64,16 @@ Best TKL Keyboard for Mac
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best TKL Keyboard Overall: [SteelSeries Apex Pro TKL](https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/dp/B07TBGQ6P7?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![SteelSeries Apex Pro TKL on a gaming desk with red and pink lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/steelseries-pro-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _SteelSeries_
 
 | Pros                          | Cons      |
@@ -90,8 +93,20 @@ _SteelSeries_
 
 ![apex pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apex-pro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best TKL Keyboard Overall
 
 #####  SteelSeries Apex Pro TKL Wireless
@@ -107,7 +122,10 @@ Offering adjustable switches, built-in OLED display, and a premium wrist rest, t
 ![The HyperX Origins Core TKL on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/hyperx-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _HyperX_
 
@@ -128,8 +146,10 @@ _HyperX_
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Budget TKL Keyboard
 
@@ -141,10 +161,22 @@ Built with a premium aluminum body and support for the HyperX NGENUITY Software,
 
 [$69 at Amazon](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best TKL Keyboard for Gaming: [Razer Huntsman V2 TKL](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Razer Huntsman V2 TKL on a gaming desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/razer-huntsman-v2-tkl-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Razer_
 
 | Pros                     | Cons                |
@@ -163,14 +195,8 @@ _Razer_
 
 ![huntsman V2 TKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/huntsman-v2-tkl.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Best TKL Keyboard for Gaming
 
 #####  Razer Huntsman V2 TKL
@@ -181,13 +207,16 @@ The Huntsman V2 TKL offers a great polling rate for improved latency, reliable c
 
 [$92 at Amazon](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Wireless TKL Keyboard: [Logitech G915 Lightspeed](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Logitech G915 TKL on a grey desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/logitech-g915-tkl-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 _Logitech_
 
 | Pros                                   | Cons                                |
@@ -205,12 +234,24 @@ _Logitech_
 ![logitech G915 TKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/logitech-g915-tkl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Wireless TKL Keyboard
 
@@ -222,15 +263,15 @@ Wireless keyboards don’t get much better than this. The G915 TKL is a compact,
 
 [$150 at Amazon](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best TKL Keyboard for Mac: [Keychron K8 Wireless Mechanical Keyboard](https://www.amazon.com/gp/product/B0869J8XD9?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Keychron K8 on a white desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/keychron-k8-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Keychron_
 
@@ -263,7 +304,10 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What is a TKL keyboard?
 
@@ -277,9 +321,6 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
  Yes, TKL keyboards are good for programming, as they typically offer all the keys needed for the majority of programming languages. They’re also compact and easy to carry from one workstation to the next.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Are TKL keyboards good for gaming?
 
  Yes, TKL keyboards are good for gaming, as they free up space on your desktop for larger mouse movements. However, if you like to play MMOs and program your skills to the numpad, you might want to stick with a traditional keyboard.

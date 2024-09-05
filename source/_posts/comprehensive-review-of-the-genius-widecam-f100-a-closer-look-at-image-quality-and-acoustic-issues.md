@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
-date: 2024-08-31T17:31:34.185Z
-updated: 2024-09-01T17:31:34.185Z
+date: 2024-09-04T20:11:18.342Z
+updated: 2024-09-05T20:11:18.342Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
@@ -62,6 +62,18 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -73,12 +85,24 @@ Lifewire / Erika Rawes
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
@@ -97,7 +121,10 @@ Lifewire / Erika Rawes
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
@@ -110,7 +137,10 @@ Lifewire / Erika Rawes
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Mid-range**
 
@@ -118,11 +148,14 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -133,10 +166,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127

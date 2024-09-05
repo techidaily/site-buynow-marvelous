@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye: No More Watch Parties on Amazon's Prime Video Platform"
-date: 2024-08-31T17:30:02.114Z
-updated: 2024-09-01T17:30:02.114Z
+date: 2024-09-04T20:11:25.733Z
+updated: 2024-09-05T20:11:25.733Z
 tags:
   - games
   - tv
@@ -113,5 +113,8 @@ The COVID-19 pandemic and subsequent lockdowns kicked off a wave of remote watch
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

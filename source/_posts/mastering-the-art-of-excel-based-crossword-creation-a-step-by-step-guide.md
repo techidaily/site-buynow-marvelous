@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide"
-date: 2024-08-31T17:29:50.681Z
-updated: 2024-09-01T17:29:50.681Z
+date: 2024-09-04T20:11:25.579Z
+updated: 2024-09-05T20:11:25.579Z
 tags:
   - games
   - tv
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel grid with 'All Borders' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/all-borders-on-grid.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step 2: Add Your Words
 
  You're now ready to add your words. You can either choose to follow a theme or use random words. I tend to find that following a theme makes things a bit more difficult as you add your words, especially if you have a large grid, so I prefer to create a general knowledge puzzle.
@@ -49,7 +46,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel sheet with a crossword grid and some words added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-words-in-crossword.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Every Word Must Cross
 
@@ -59,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  In my experience, the most challenging part of this process is making the crossword symmetrical—but it's worth it. In the end, you'll have an aesthetically pleasing and professional crossword. You can aim for one line of symmetry (such as the left matching the right), or two lines of symmetry (by making the top mirror the bottom, and the left mirror the right). In my example, I'm going to use two. Start in the top-left corner with a long word downwards and a long word across, and then mirror that structure in the top-right corner. Then, do the same in the bottom corners. Now, any time you add a word stemming from one corner, mirror it in all four corners.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ###  But Don't Add Words for the Sake Of It
 
  Making your crossword symmetrical and trying to fill your grid with as many words as possible can tempt you into squeezing in words that you know, deep down, you're not happy with. Writing a crossword often involves taking two steps forward and one step back—don't be afraid to re-craft an area of your puzzle so that you're completely happy with the outcome.
@@ -79,7 +76,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  As you add your words, think ahead about how you might lure your solver to guess them. Ask yourself, "How will I tantalize my quizzer with a clever clue?"—and if you can't answer that question, choose another word. Another way to approach this is to use words with more than one meaning, which will give you more flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step 3: Black Out Empty Squares
 
@@ -90,15 +90,15 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step 4: Add Your Numbers
 
  In order to link your clues to your words, you now need to add numbers. Starting in the top-left corner and working along each row, type a number in front of the first letter of each new word (whether horizontal or vertical). On my crossword, I'll start with "Desperation" and add the number "1" to the "D." Then, moving along the top row, I'll add the number "2" to the letter "S" in "Saga."
@@ -106,10 +106,19 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 5: Write Your Clues
 
  You now need to craft your clues to the words you've chosen. Start with the "Across" clues, and then do the "Down" clues using the numbers you added in the previous step. You should also add the number of letters in the word to your clue so your solver can consider solutions without having to look back and forth between the clues and the grid. Here's what my clues for "Dispensable" and "Performance" (my first two horizontal words on the top row) will look like:
@@ -117,16 +126,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel sheet with two crossword clues typed underneath the main grid. Each clue has a square reference number, a hint, and the number of letters in brackets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-clues.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  ​​​As well as single-word synonym-type clues like those used above, you can vary the types of hints you offer:
 
@@ -139,7 +142,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  As you create your clues, strike a balance between challenging and achievable. You want your solver to have to think (sometimes outside the box), but you don't want them to lose motivation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step 6: Remove the Words
 
@@ -153,6 +159,18 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 7: Test Your Puzzle
 
  Your final step is to make sure everything works. [Save your work as a PDF](https://win-able.techidaily.com/how-to-solve-game-lag-and-skipping-frames-in-modern-warfare-ii-cod/) to secure the formatting, and print the crossword to complete it by hand, having your computer next to you so you can make any necessary adjustments to your clues as you go.

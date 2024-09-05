@@ -1,7 +1,7 @@
 ---
 title: "A Year with Steam Deck & Rouges: My Insights After a Decade of Gaming"
-date: 2024-08-31T17:30:29.010Z
-updated: 2024-09-01T17:30:29.010Z
+date: 2024-09-04T20:11:26.170Z
+updated: 2024-09-05T20:11:26.170Z
 tags:
   - games
   - tv
@@ -42,7 +42,16 @@ Steam
  SteamOS isn't perfect either. I have experienced weird glitches and issues after multiple updates, slow download speeds over Wi-Fi, and I have to jump through multiple hoops to make non-Steam games work. But at the end of the day, I strongly prefer SteamOS to Windows as my OS of choice on a gaming-centric handheld.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  When It Comes to Power and Battery Management, It's a Tie
 
@@ -57,16 +66,15 @@ Steam
  The ROG Ally's [battery life is dismal](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), and I hope that the ROG Ally X [delivers on its promise](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision) and packs a much larger cell than the 40Wh found in the OG Ally.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The ROG Ally Has Better Build Quality, Controls, and Ergonomics
 
 ![Steam Deck vs ROG Ally laying next to each other.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/steam-deck-vs-rog-ally-controls-and-design.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Goran Damnjanovic / How-To Geek
 
  The build quality is fantastic on both my Deck and Ally. They're both well-built machines that I have had zero issues with up until this point. I've opened both the Deck and Ally multiple times, and reassembling them always went smoothly.
@@ -83,13 +91,16 @@ Goran Damnjanovic / How-To Geek
 
  But I can play games on my Ally for hours on end while lying down without even feeling a trace of wrist discomfort, let alone pain, making the ROG Ally a winner of this round. Sure, the Deck looks nicer and has those sweet dual trackpads, but its weight, combined with the way I use my gaming handhelds, results in it landing just behind the Ally in terms of ergonomics.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  The Game Compatibility Trophy Goes to the ROG Ally
 
 ![Steam Game Library with assorted titles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52781464329_36035301f1_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  This is one area where I have a clear winner. While the Windows-on-handheld experience is less than stellar, at least you know that you'll be able to play any PC game you want (as long as the Ally has enough oomph). Better still, I can seamlessly mod games on the Ally, I just need to hook a keyboard and mouse so I don't pull my hair out while doing it.
@@ -99,13 +110,21 @@ Jason Fitzpatrick / How-To Geek
  On the Steam Deck the process of installing and playing games is pretty straightforward most of the time as well, unless you want to play a non-Steam game. In that case, you have to visit Desktop Mode, [install third-party launchers such as Heroic](https://youtube-blog.techidaily.com/n-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/), and sometimes even run Konsole or find your way through the system to apply some fixes, update Proton, or perform some other procedure needed to make a game run at all, which can be a huge pain. At least the process of setting up your emulators with EmuDeck is pretty painless.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Extra Features and Docked Mode: Another Tie
 
 ![Steam Deck hooked to a dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/dc58cf90.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Valve
 
  I rarely use my Deck and Ally docked, but when I do, they both work great when paired with the cheap dock I own. I've had no issues with docked mode, but you should note that a number of ROG Ally owners report not being able to use the 30W power profile when docked. I also have had no issues when using these handhelds with a mouse [or keyboard](https://driver-error.techidaily.com/unleashing-potential-in-windows-10-with-lenovo/). They work great with wired, Bluetooth, and 2.4GHz wireless peripherals.
@@ -121,7 +140,10 @@ Valve
  Local game streaming with Moonlight and Sunshine works better on my Ally. Despite [disabling the 2.4GHz band](https://extra-information.techidaily.com/new-boosting-skypes-performance-with-advanced-zoom-functionalities/) on my router, which resulted in a massive improvement in download speeds and overall network stability on my Deck, I can still notice occasional stuttering when streaming games. Conversely, I experience almost no stuttering on the Ally. There might be a dropped frame or two in the first few minutes, but it's smooth sailing all around after that. This, coupled with the fact that I can stream at 120 frames per second to my Ally, makes it a better device for local game streaming. The situation is probably better on the Deck OLED since it comes with a Wi-Fi 6E module and you can stream at 90fps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Rog Ally Is My Favorite, With One Exception
 

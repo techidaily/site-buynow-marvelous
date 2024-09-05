@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Performance of the CAT S42 Smartphone: Strong Defenses, Limited Speed Capabilities"
-date: 2024-08-09T00:43:30.822Z
-updated: 2024-08-10T00:43:30.822Z
+date: 2024-09-04T20:06:34.210Z
+updated: 2024-09-05T20:06:34.210Z
 categories:
   - BestProducts
 description: "This Article Describes Evaluating the Performance of the CAT S42 Smartphone: Strong Defenses, Limited Speed Capabilities"
@@ -41,9 +41,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
@@ -70,9 +67,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -81,6 +75,12 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Comfort: You’ll forget you’re wearing it**
@@ -90,7 +90,10 @@ Lifewire / Erika Rawes
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Body battery and stress monitoring**
 
@@ -108,13 +111,16 @@ Lifewire / Erika Rawes
 
  Overall, the Garmin Vivosmart 4 is capable of providing an abundance of useful data, but it requires a bit more effort on the part of the user to obtain this information. If you do things like add a custom stride length, edit any activities that didn’t track accurately, track hydration and weight goals, use the female health features, and pair the Garmin Connect app with the My Fitness Pal app, you can get a comprehensive health and fitness tracking experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -125,10 +131,19 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Battery: May last a full seven days**
 
@@ -141,7 +156,10 @@ Lifewire / Erika Rawes
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -153,9 +171,6 @@ Lifewire / Erika Rawes
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Vivosmart 4
@@ -196,3 +211,53 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/3-ways-add-captions-to-instagram-videos/"><u>[3 Ways] Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-echoes-of-collaboration-tiktok-duet-hits/"><u>[New] In 2024, Echoes of Collaboration  TikTok Duet Hits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-resource-for-adding-dynamic-gifs-to-discord-conversations-for-2024/"><u>[New] The Ultimate Resource for Adding Dynamic GIFs to Discord Conversations for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>[Updated] 2024 Approved  Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras/"><u>[Updated] Perfect Your IGTV Shooting Skills  Tips for Smartphone/DSLR Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-low-cost-full-hd-cameras-for-stunts/"><u>[Updated] Prime Low-Cost Full HD Cameras for Stunts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-list-free-virtual-meetings-plus-shared-screens-for-2024/"><u>[Updated] The Ultimate List  FREE Virtual Meetings + Shared Screens for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-archival-artwork-creative-commons-haven/"><u>2024 Approved  Archival Artwork  Creative Commons Haven</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/connecting-generations-or-fragmenting-them/"><u>Connecting Generations or Fragmenting Them?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critical-8-learning-points-for-nintendo-elevating-the-joy-of-the-switch-gaming-system/"><u>Critical 8 Learning Points for Nintendo: Elevating the Joy of the Switch Gaming System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demystifying-live-service-games-how-do-they-divide-opinions/"><u>Demystifying Live Service Games: How Do They Divide Opinions?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-hidden-features-unlocking-vpn-capabilities-on-your-apple-tv/"><u>Discover Hidden Features: Unlocking VPN Capabilities on Your Apple TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-joy-of-enhanced-gameplay-with-paddle-controllers/"><u>Discover the Joy of Enhanced Gameplay with Paddle Controllers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/do-these-7-key-elements-make-spotify-premium-a-valuable-investment/"><u>Do These 7 Key Elements Make Spotify Premium a Valuable Investment?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dramatic-channel-reduction-fubotv-drops-19-key-discovery-networks/"><u>Dramatic Channel Reduction: FuboTV Drops 19 Key Discovery Networks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-change-discover-what-makes-me-cherish-this-newly-launched-gaming-controller/"><u>Embracing Change: Discover What Makes Me Cherish This Newly Launched Gaming Controller</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-strategy-why-classic-turn-based-titles-like-chess-and-baldurs-gate-lete-gaming/"><u>Embracing Strategy: Why Classic Turn-Based Titles Like Chess and Baldur's Gate Lete Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enjoy-streaming-on-the-go-with-verizons-latest-package-no-more-ads-includes-netflix-and-amcplus/"><u>Enjoy Streaming on the Go with Verizon's Latest Package: No More Ads, Includes Netflix & AMC+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-offer-alert-score-20-off-on-plexs-unlimited-subscription-limited-time-only/"><u>Exclusive Offer Alert: Score 20%% Off on Plex's Unlimited Subscription - Limited Time Only!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-high-quality-audio-with-tidals-newly-discounted-hifi-music-streaming-service/"><u>Experience High-Quality Audio with Tidal's Newly Discounted HiFi Music Streaming Service</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zip-to-sub-transforming-compressed-texts-to-srt-format-for-2024/"><u>From Zip to Sub  Transforming Compressed Texts to SRT Format for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/geeks-rejoice-a-guide-to-finding-rare-collectibles-in-the-aisles-of-second-hand-shops/"><u>Geeks Rejoice: A Guide to Finding Rare Collectibles in the Aisles of Second-Hand Shops</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/improve-your-youtube-playlist-experience-using-our-proven-tips-and-hacks/"><u>Improve Your YouTube Playlist Experience Using Our Proven Tips and Hacks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audible-annotations-choosing-the-top-speech-to-text-apps/"><u>In 2024, Audible Annotations  Choosing the Top Speech-to-Text Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>In 2024, Boosting Engagement  Tailoring Backgrounds on Google Meet Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 7?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elevate-your-ios-experience-top-5-ps2-simulators/"><u>In 2024, Elevate Your iOS Experience  Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enhancing-experience-best-audio-sources-for-unpack-videos/"><u>In 2024, Enhancing Experience  Best Audio Sources for Unpack Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y36-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y36 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/join-the-fun-discover-how-couch-co-op-video-games-can-engage-casual-gamers/"><u>Join the Fun! Discover How Couch Co-Op Video Games Can Engage Casual Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kindle-vs-kobo-showdown-an-in-depth-analysis-of-two-top-electronic-readers/"><u>Kindle Vs. Kobo Showdown: An In-Depth Analysis of Two Top Electronic Readers.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kodi-version-205-release-notes-discover-the-latest-updates-and-features/"><u>Kodi Version 20.5 Release Notes: Discover the Latest Updates and Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leveling-up-the-fun-in-gaming-without-chasing-full-completion/"><u>Leveling Up the Fun in Gaming without Chasing Full Completion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-formatting-techniques-understanding-how-to-apply-strikethrough-bold-and-italics-in-your-youtube-comments/"><u>Mastering Formatting Techniques: Understanding How to Apply Strikethrough, Bold, and Italics in Your YouTube Comments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-playtime-effective-strategies-for-increasing-ps5-storage-space-efficiently/"><u>Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/my-guide-to-preventing-post-gaming-session-discomfort-and-aches/"><u>My Guide to Preventing Post-Gaming Session Discomfort and Aches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-device-removal-in-google-home-a-comprehensive-guide/"><u>Navigating Device Removal in Google Home: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-joy-con-controller-repair-guide-and-prevention-tips/"><u>Nintendo Switch Joy-Con Controller Repair Guide & Prevention Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-streaming-options-a-comprehensive-guide/"><u>Nintendo Switch Streaming Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pause-in-venu-sports-live-stream-broadcasting-understanding-the-temporary-hiatus/"><u>Pause in Venu Sports Live Stream Broadcasting: Understanding the Temporary Hiatus</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-assassins-creed-odyssey-how-to-stop-your-game-from-freezing/"><u>Troubleshooting Assassin's Creed Odyssey: How to Stop Your Game From Freezing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ial-quickly-convert-youtube-audio-to-mp3-on-mac/"><u>Tutorial  Quickly Convert YouTube Audio to MP3 on Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-overwatch-lags-and-hitches-effective-methods-for-a-smooth-playthrough/"><u>Winning Over Overwatch Lags & Hitches: Effective Methods for a Smooth Playthrough</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-08-31T17:29:42.074Z
-updated: 2024-09-01T17:29:42.074Z
+date: 2024-09-04T20:11:25.447Z
+updated: 2024-09-05T20:11:25.447Z
 tags:
   - games
   - tv
@@ -40,7 +40,10 @@ Tim Brookes / How-To Geek
  Now, however, gamers often use the term "walking simulator" for titles that are true games. For example, _Death Stranding_ is as much a game as _Skyrim_ but because the main game mechanic is traversal and overcoming obstacles and enemies on your route, it's erroneously dubbed a walking sim. If you're interested in true walking simulators, our friends over at GameRant have a great list of the [best walking simulators that everyone should play](https://gamerant.com/best-walking-simulators/). 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Simulation
 
@@ -48,16 +51,22 @@ Tim Brookes / How-To Geek
 
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 _Microsoft Flight Simulator 2020_  
 Tim Brookes / How-To Geek
 
  However, people in the gaming world throw this word around a little liberally. There's the tongue-in-cheek stuff like _Surgeon Simulator_ where the joke is that it's the opposite of a simulator, but then there's a fuzzy area where some games that have a veneer of realism are referred to as simulators as well. Add to this, that simulation fidelity can vary and games often have very simplified simulations of some things in service of gameplay, and not realism, and it's easy to apply the term where it doesn't belong.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Isometric
 
@@ -70,7 +79,16 @@ Interplay/Bethesda Softworks
  The silliest use I've seen myself is in reference to _Baldur's Gate 3,_which is a true 3D game, with a movable camera that can be moved from a top-down perspective all the way down to an over-the-shoulder view. So it's not isometric in any sense of the word. To be even more pedantic, many "isometric" games from the classic gaming era weren't isometric either. The first _Fallout_ game, for example, was trimetric.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  RPG
 
@@ -90,7 +108,16 @@ Tim Brookes / How-To Geek
 ![Helldivers 2 by Arrowhead Game Studios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/helldivers2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _Helldivers 2_  
 Arrowhead Game Studios
@@ -107,6 +134,12 @@ Arrowhead Game Studios
 
  Frame rate issues happen for a number of reasons, but they are related to the performance of your computer. For example, if a game scene is too complex, your game may appear to slow down and become choppy. If it's not caused by a network issue, then your game isn't "lagging."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Downloading (Yes, Really)
 
  I hope this isn't too widespread, but I've personally witnessed people refer to installing a game from a disc as "downloading" in a discussion on whether modern consoles can install and play games without an internet connection. They can, by the way.
@@ -118,7 +151,10 @@ Arrowhead Game Studios
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
@@ -127,7 +163,10 @@ Cianna Garrison / How-To Geek
 [Ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) is a graphics rendering technique that simulates how light in the real world interacts with objects. It's the closest we've come to truly photorealistic graphics, but plenty of people can't tell when something is an example of ray tracing or not. There's a misconception that any reflections in a game that look realistic means the game has ray tracing, but that's simply not true. To muddy things even more, ray tracing can be applied selectively to global lights like the sun, to local light, to reflections, and to shadows. For example, many games with ray tracing on current-generation consoles have ray-traced shadows, but not reflections. Yet many players think the reflections are ray-traced. Here's a tip: ray-traced reflections usually reflect objects that are not currently visible on-screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Indie Games
 

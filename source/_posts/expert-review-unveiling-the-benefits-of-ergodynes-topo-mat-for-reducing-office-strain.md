@@ -1,7 +1,7 @@
 ---
 title: "Expert Review: Unveiling the Benefits of Ergodyne's Topo Mat for Reducing Office Strain"
-date: 2024-08-31T17:33:22.665Z
-updated: 2024-09-01T17:33:22.665Z
+date: 2024-09-04T20:11:16.549Z
+updated: 2024-09-05T20:11:16.549Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Review: Unveiling the Benefits of Ergodyne's Topo Mat for Reducing Office Strain"
@@ -72,7 +72,10 @@ Lifewire / Andy Zahn
  Most[Microsoft Surface](https://www.lifewire.com/microsoft-surface-series-4163521) products tend to be high end and expensive, but the Surface Laptop Go bucks this stereotype by offering an attractive and competent laptop at an affordable price point. This is a premium quality ultrabook designed to go head to head with the MacBook Air and other ultraportable laptops, but for a lot less money. I put it to the test for 20 hours, evaluating its design, screen quality, performance, battery life, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Sleek and beautiful**
 
@@ -80,9 +83,6 @@ Lifewire / Andy Zahn
 
 ![Microsoft Surface Laptop Go](https://www.lifewire.com/thmb/DZ-_Yk02QL0fYrm0o3TDO7zXv3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_Surface_Laptop_Go_05-e2623904845848a3841272c93ab139f1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
  The keyboard and trackpad really steal the show here, as they are exceptionally high quality for a laptop in this price range. The keyboard is quiet and tactile with soft, almost luxurious keycaps. I was able to write this review on it quite comfortably. The trackpad is one of the best I’ve seen on a laptop of this size. It’s large, easy to use, and compares very well to the top-notch trackpads on the[Dell XPS 13](https://www.lifewire.com/dell-xps-13-9370-review-4779836) . For navigation, the Surface Laptop Go also has a touchscreen, which I found to be responsive and accurate.
@@ -91,9 +91,6 @@ Lifewire / Andy Zahn
 
  Port selection is rather limited, with a[USB-C](https://www.lifewire.com/usb-c-4149490) port, a USB-A port, a 3.5mm audio jack, and a Surface Connect port which is used for power but can also be used to connect to a Surface Dock. This is really the bare minimum for I/O, and was one of the most frustrating issues for me when using the device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Display: Ideal for productivity**
 
  The 12.4-inch display on the Surface Laptop Go seems larger than the size would suggest, thanks to its 3:2 aspect ratio. Because of that aspect ratio, this laptop is purpose-built for productivity. In fact, it was the ideal device for typing out this article. The 1536x1024 resolution is quite sharp, and colors are sharp and accurate with great contrast. Due to the 3:2 aspect ratio, you get black bars on the top and bottom when watching movies and shows, but they still look great due to the quality of the screen.
@@ -103,7 +100,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Speakers: Loud and proud**
 
@@ -111,11 +111,6 @@ Lifewire / Andy Zahn
 
  Bass was underwhelming, but that’s really to be expected in any laptop, particularly one with this form factor. It still provided a pleasant listening experience for both rock and classical music and provided excellent audio for watching movies and shows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## **Camera: Low quality**
 
  Cameras on laptops are never very good, but the one on the Surface Laptop Go is particularly poor. It’s only capable of 720p, but it’s not the low resolution itself that really lets it down. Even in decent lighting conditions the video and still images produced by this camera are extremely grainy and low quality so it’s not a great option even for[Zoom](https://www.lifewire.com/what-is-zoom-and-how-does-it-work-4800476) meetings.
@@ -130,12 +125,21 @@ The powerful video editing program for your Windows PC</a>
 
 ![Microsoft Surface Laptop Go](https://www.lifewire.com/thmb/dzb-7fUK5xGots6oe-9ZhkMnnTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_Surface_Laptop_Go_07-3d9500befc3a4b50baf014cc571210a5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
  Another limiting factor is the storage capacity of the Surface Laptop Go. The configuration I tested only had 128GB of space on its solid-state drive, and the maximum configuration only comes with 256GB. You’re not going to be storing a lot of data locally on this machine forcing you to resort to cloud storage most of the time.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Connectivity: Modern hardware**
 
@@ -149,6 +153,12 @@ The powerful video editing program for your Windows PC</a>
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: A decision to make**
 
  The Surface Laptop Go ships with[Windows 10](https://www.lifewire.com/windows-10-2626217) in[S mode](https://www.lifewire.com/what-is-windows-10-s-4173113#:~:text=Windows%2010%20in%20S%20mode%20can%20only%20run%20Windows%20apps,and%20potentially%20longer%20battery%20life.) . This means that the device gains an extra degree of security, but also that it’s limited to apps available in the Windows Store. However, you can take the computer out of S mode to use a fully-functional version of Windows 10\. However, think carefully before doing so because there’s no going back.
@@ -157,6 +167,12 @@ The powerful video editing program for your Windows PC</a>
 
  In terms of bloatware, the laptop came with a few pre-installed apps: a Microsoft Office trial, Adobe Photoshop Express, and a few other odds and ends. However, it’s all easily removed if you so choose, and doesn’t really get in the way.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Reasonable Value**
 
  With an MSRP of $549, the Surface Laptop Go offers high-end build quality at a mid-range price point. It’s hard to find a laptop in this price range that looks this good and is so eminently usable. Of course, that price might be higher depending upon the configuration you go with.
@@ -164,7 +180,10 @@ The powerful video editing program for your Windows PC</a>
 ![Microsoft Surface Laptop Go](https://www.lifewire.com/thmb/_QEntMJEPlaXArgv2l576Qnr7MU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_Surface_Laptop_Go_04-21f4f7c4d0f54436bb1449bf36a42460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
@@ -188,8 +207,10 @@ The powerful video editing program for your Windows PC</a>
 * [Google Pixelbook Go](https://www.lifewire.com/google-pixelbook-go-review-4797012)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

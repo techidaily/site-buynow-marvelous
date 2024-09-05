@@ -1,7 +1,7 @@
 ---
 title: Evaluating Endurance in Jabra's Tough Buds
-date: 2024-08-31T17:33:10.952Z
-updated: 2024-09-01T17:33:10.952Z
+date: 2024-09-04T20:11:16.727Z
+updated: 2024-09-05T20:11:16.727Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating Endurance in Jabra's Tough Buds
@@ -70,10 +70,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## **Design: Lightweight and straightforward**
 
  Smart TVs range in size, typically starting from 32 inches and reaching all the way up to 85 inches and beyond. If you can’t accommodate or don’t want a really large television, the TCL 50-inch Roku TV offers a decent middle ground that will appeal to shoppers who want an apartment or dorm-friendly TV without sacrificing quality.
@@ -88,9 +84,6 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/cT13RJhaMjC05v7eMym3vtM8M0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_05-70fc23cf6c2b4a13ac9d46f9372010ef.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Yoona Wagener
 
 ## **Setup Process** :**Up and running in minutes**
@@ -104,7 +97,10 @@ Lifewire / Yoona Wagener
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Image Quality: Clear and vivid without any tweaking**
 
@@ -124,6 +120,18 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/Lv4B9e6LaJSHW7NSl-Braa2vnmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_03-b8155781e440420aa0c6c2bf19f9fe6a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Yoona Wagener
 
 ## **Audio Quality: Solid but not spellbinding**
@@ -139,7 +147,16 @@ Lifewire / Yoona Wagener
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Intuitive and streamlined**
 
@@ -149,10 +166,28 @@ Lifewire / Yoona Wagener
 
  While the remote doesn’t come with a built-in speaker, the free Roku app does offer a voice-assistant feature. It’s best when completing a general search for a show or actor or for launching a particular app. If you have a Google Assistant or Amazon Alexa enabled device, this Roku TV will support them, and they offer a generally better experience than using the Roku app voice remote function.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: A great bargain on a budget**
 
  If you don’t want to spend a fortune on a 4K TV, but you want to get as much value as possible, the TCL 50S425 50-inch Roku TV is a compelling option. It retails for $350, which situates it in the growing and competitive class of 4K TVs under $500\. In the TCL 4-Series alone you have several other models to consider that all share the same specifications except for size. The larger 55-inch TCL Roku TV retails for just $30 more than the 50-inch version and features a larger screen size of 54.6 inches. It may not seem considerable, but if you’re limited with space, the extra width and height (five and two inches, respectively) can actually feel like a pretty massive difference. And if you opt for a smaller display and a lower price tag, the 43-inch TCL Roku TV retails for about $280, but you’re sacrificing 7 inches of display.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **TCL 50S425 50-inch Roku TV (2019) vs. Toshiba 55LF711U20 55-inch Fire TV Edition**
 
  The TCL 50-inch Roku TV is not without external competitors either. The Toshiba 55LF711U20 55-inch Fire TV Edition retails for about $100 more and runs on the Fire OS, which stands toe-to-toe with the Roku platform with access to over 500,000 shows and movies. The Toshiba Fire TV comes with an Alexa-enabled remote, an edge for shoppers who want the ease of a voice assistant built right into the remote. But the Roku TV supports both[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) and[Amazon Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) as well as voice control through the Roku[mobile app](https://www.lifewire.com/what-are-apps-1616114) .
@@ -170,7 +205,10 @@ Lifewire / Yoona Wagener
  The TCL 50S425 50-inch Roku TV is a smart 4K TV that possesses many merits: an appealing price point, excellent 4K HDR picture quality, a size profile that won’t overwhelm small rooms or apartments, and an easy-to-use interface that requires little fuss. You may find better 4K picture and audio quality in a higher-end model, but this TV offers a welcome smart TV upgrade at a price that won’t empty your pockets.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -178,9 +216,6 @@ Lifewire / Yoona Wagener
 * [Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/insignia-ns-43df710na19-fire-tv-edition-review-4770716)
 * [LG 27UD58-B 27-Inch 4K UHD IPS Monitor](https://www.lifewire.com/lg-27ud58-b27-inch-4k-uhd-ips-monitor-review-4778916)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  50S425 50-inch 4K Smart LED Roku TV

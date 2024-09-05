@@ -1,7 +1,7 @@
 ---
 title: "Sturdy & Cost-Effective: Cheetah Arms TV Rating Guide"
-date: 2024-08-09T00:43:31.650Z
-updated: 2024-08-10T00:43:31.650Z
+date: 2024-09-04T20:08:00.291Z
+updated: 2024-09-05T20:08:00.291Z
 categories:
   - BestProducts
 description: "This Article Describes Sturdy & Cost-Effective: Cheetah Arms TV Rating Guide"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ## AmazonBasics Ultra-Thin Antenna
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/rS-RQyeAxU8gdzYheTg1qi5PFEY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
 
 Lifewire / Erika Rawes
@@ -40,14 +37,8 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## AmazonBasics Ultra-Thin Antenna
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
 
 Lifewire / Erika Rawes
@@ -87,14 +78,22 @@ Lifewire / Erika Rawes
 
  Next, you change your TV to the correct input (usually TV, antenna, or Coax). Then, go to your TV’s menus and start the auto-programming process, which[scans for available channels](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) . The process takes a few minutes, and sometimes your TV won’t start to locate channels until about halfway through the auto-programming process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Almost two dozen channels (in a rural area)**
 
  So many things[affect an antenna’s performance](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) —location, household electronics, tree cover, tower location, and more. The antenna displays channels of high quality. However, sometimes the channels would take a few seconds to load, and other times, I’d see a pixelated effect when I first changed the channel that would clear up after a few seconds. Once the picture was fully loaded, it was in clear high definition. The antenna is capable of displaying a clear HD picture, so I couldn’t tell the difference between the antenna’s picture and the picture from streaming services like Hulu or Netflix.
@@ -104,7 +103,10 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Range: 35 miles**
 
@@ -114,17 +116,38 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
  The Antop AT-127 (see[online](https://www.lowes.com/pd/ANTOP-Omni-Directional-Indoor-HD-UHF-VHF-TV-Antenna/1000503257?) ) is a 40-mile range antenna that sells for around $35\. It’s one of the better-looking antennas I’ve seen, as it’s reversible with faux light wood and dark wood sides. Unlike the AmazonBasics antenna, the Antop comes with a stand, and it has an easy-push connector for faster setup. These features go some ways towards justifying the Antop's higher price tag.
@@ -136,7 +159,10 @@ Lifewire / Erika Rawes
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -169,3 +195,57 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-enhanced-visual-splendor-adding-filters-to-media-pc-and-mobile/"><u>[New] Enhanced Visual Splendor  Adding Filters to Media (PC & Mobile)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-innovative-shots-with-purpose-top-20-ideas-for-inspiration/"><u>[New] In 2024, Innovative Shots with Purpose  Top 20 Ideas for Inspiration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-advanced-guide-to-virtual-backgrounds-in-videography-for-2024/"><u>[Updated] Advanced Guide to Virtual Backgrounds in Videography for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-novelty-the-leading-five-new-features-unraveled-for-2024/"><u>[Updated] Facebook's Novelty  The Leading Five New Features Unraveled for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-riches-301-safe-and-highest-earning-strategies/"><u>[Updated] In 2024, Instagram Riches 301  Safe and Highest Earning Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-key-to-online-success-mastering-backlink-construction/"><u>[Updated] The Key to Online Success  Mastering Backlink Construction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ad-funded-vlc-media-player-introducing-free-streaming-with-supporting-ads/"><u>Ad-Funded VLC Media Player: Introducing Free Streaming with Supporting Ads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-uninterrupted-wi-fi-speed-with-the-g309-lightspeed-your-solution-to-seamless-internet/"><u>Affordable, Uninterrupted Wi-Fi Speed with the G309 LIGHTSPEED: Your Solution to Seamless Internet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/avoid-scams-tips-on-purchasing-authentic-nintendo-switch-user-accounts/"><u>Avoid Scams: Tips on Purchasing Authentic Nintendo Switch User Accounts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-gaming-10-mind-blowing-alternatives-where-doom-thrives/"><u>Beyond Gaming: 10 Mind-Blowing Alternatives Where DOOM Thrives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-absent-physxloaderdll-file-quick-solutions-and-tips/"><u>Fixing the Absent PhysXLoader.dll File - Quick Solutions and Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S21 FE 5G (2023) Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lenovo-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lenovo?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-escapades-top-5-playstation-vr-titles-to-excite-gamers/"><u>In 2024, Immersive Escapades  Top 5 PlayStation VR Titles to Excite Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-srt-insertion-a-complete-guide-to-mp4-improvement/"><u>In 2024, Mastering SRT Insertion  A Complete Guide to MP4 Improvement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prodigious-android-collages-editors-picks-revealed/"><u>In 2024, Prodigious Android Collages  Editor's Picks Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/investing-in-success-budget-for-youtube-growth/"><u>Investing in Success  Budget for YouTube Growth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kodi-version-205-release-notes-discover-the-latest-updates-and-features/"><u>Kodi Version 20.5 Release Notes: Discover the Latest Updates and Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leveling-up-the-fun-in-gaming-without-chasing-full-completion/"><u>Leveling Up the Fun in Gaming without Chasing Full Completion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-formatting-techniques-understanding-how-to-apply-strikethrough-bold-and-italics-in-your-youtube-comments/"><u>Mastering Formatting Techniques: Understanding How to Apply Strikethrough, Bold, and Italics in Your YouTube Comments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-playtime-effective-strategies-for-increasing-ps5-storage-space-efficiently/"><u>Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/my-guide-to-preventing-post-gaming-session-discomfort-and-aches/"><u>My Guide to Preventing Post-Gaming Session Discomfort and Aches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-joy-con-controller-repair-guide-and-prevention-tips/"><u>Nintendo Switch Joy-Con Controller Repair Guide & Prevention Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-streaming-options-a-comprehensive-guide/"><u>Nintendo Switch Streaming Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pause-in-venu-sports-live-stream-broadcasting-understanding-the-temporary-hiatus/"><u>Pause in Venu Sports Live Stream Broadcasting: Understanding the Temporary Hiatus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/perfect-pairing-selecting-an-ideal-keyboard-for-your-steam-deck-adventure/"><u>Perfect Pairing: Selecting an Ideal Keyboard for Your Steam Deck Adventure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/physical-vs-digital-why-traditional-dvdblu-ray-rentals-still-reign-supreme/"><u>Physical vs Digital: Why Traditional DVD/Blu-Ray Rentals Still Reign Supreme</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portable-powerhouse-in-depth-review-of-bougervs-compact-12v-mini-fridge-the-ideal-travel-refrigerator/"><u>Portable Powerhouse: In-Depth Review of BougeRV's Compact 12V Mini Fridge - The Ideal Travel Refrigerator</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prime-video-drops-feature-why-you-cant-host-or-join-watch-parties-now/"><u>Prime Video Drops Feature: Why You Can't Host or Join Watch Parties Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalize-your-classic-ride-with-these-11-essential-technology-enhancements/"><u>Revitalize Your Classic Ride with These 11 Essential Technology Enhancements</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalizing-creativity-procreate-empowers-visual-artists-with-promising-possibilities/"><u>Revitalizing Creativity: Procreate Empowers Visual Artists with Promising Possibilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-virtual-meetups-leveraging-chatgpt-for-efficient-teamwork/"><u>Revolutionizing Virtual Meetups: Leveraging ChatGPT for Efficient Teamwork</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/say-goodbye-netflix-discontinues-local-download-feature-for-windows-users/"><u>Say Goodbye: Netflix Discontinues Local Download Feature for Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/share-tiktok-videos-to-facebook-in-quick-easy-steps-for-2024/"><u>Share TikTok Videos to Facebook in Quick Easy Steps for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skip-windows-emulators-top-linux-gaming-stores-offering-officially-compatible-titles/"><u>Skip Windows Emulators: Top Linux Gaming Stores Offering Officially Compatible Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamline-gaming-capture-and-share-your-steam-gameplay-with-easy-screen-recording/"><u>Streamline Gaming: Capture and Share Your Steam Gameplay with Easy Screen Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-strategies-softwares-versus-hardware-harmony-in-2024/"><u>Streamline Strategies  Softwares Versus Hardware Harmony, In 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-rationale-behind-preserving-original-game-challenge-levels-from-start-to-finish/"><u>The Rationale Behind Preserving Original Game Challenge Levels From Start to Finish</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-advantages-why-choosing-comic-digitization-over-traditional-print/"><u>Top 6 Advantages: Why Choosing Comic Digitization Over Traditional Print</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-immediate-print-photo-devices/"><u>Top-Rated Immediate Print Photo Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-enhancing-your-pc-gameplay-with-windows-11-tweaks/"><u>Ultimate Guide: Enhancing Your PC Gameplay with Windows 11 Tweaks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-superior-sound-discover-how-this-ultimate-spotify-client-enhancement-amps-up-your-music-experience/"><u>Unleash Superior Sound: Discover How This Ultimate Spotify Client Enhancement Amps Up Your Music Experience</u></a></li>
+<li><a href="https://techidaily.com/unlock-enhanced-coding-assistance-in-notepad-on-windows-11-with-innovative-ai-technology/"><u>Unlock Enhanced Coding Assistance in Notepad on Windows 11 with Innovative AI Technology!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-nfl-sunday-tickets-at-no-charge-expert-tips-for-zero-expense/"><u>Unlocking NFL Sunday Tickets at No Charge – Expert Tips for Zero Expense</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unravel-the-mystery-of-reversed-videos-on-snapchat-for-2024/"><u>Unravel the Mystery of Reversed Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-flyquest-edition-standing-desk-by-andaseat-a-review-of-innovative-design-and-functionality/"><u>Unveiling the FlyQuest Edition Standing Desk by AndaSeat: A Review of Innovative Design and Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-why-your-smart-tvs-data-collection-extends-far-beyond-streamed-programming/"><u>Unveiling the Truth - Why Your Smart TV's Data Collection Extends Far Beyond Streamed Programming</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unmarked-and-unbeatable-top-free-video-editing-software/"><u>Updated 2024 Approved Unmarked and Unbeatable Top Free Video Editing Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrade-your-mobile-photography-game-to-crystal-clear-quality-with-the-newly-released-insta360-tiny-go-3-now-featuring-4k-video-capture/"><u>Upgrade Your Mobile Photography Game to Crystal-Clear Quality with the Newly Released Insta360 Tiny Go 3 - Now Featuring 4K Video Capture</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-flash-cart-systems-excel-over-emulators-in-classic-video-game-playing/"><u>Why Flash Cart Systems Excel Over Emulators in Classic Video Game Playing</u></a></li>
+</ul></div>

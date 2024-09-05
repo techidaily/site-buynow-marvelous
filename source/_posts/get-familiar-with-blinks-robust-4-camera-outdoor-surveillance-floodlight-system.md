@@ -1,7 +1,7 @@
 ---
 title: Get Familiar with Blink's Robust 4-Camera Outdoor Surveillance Floodlight System
-date: 2024-08-27T10:56:20.248Z
-updated: 2024-08-28T10:56:20.248Z
+date: 2024-09-04T20:11:26.818Z
+updated: 2024-09-05T20:11:26.818Z
 categories:
   - BestProducts
 description: This Article Describes Get Familiar with Blink's Robust 4-Camera Outdoor Surveillance Floodlight System
@@ -74,9 +74,6 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Features: It’s flippin’ nice**
 
  Just as Chromebooks are conceptually designed as budget laptops, the Asus Chromebook Flip is physically built like a budget MacBook. It has the same kind of minimal aesthetic, albeit not to quite the same level of premium visual polish. From the hinge design to the materials and tiny nuances, the Chromebook Flip doesn’t look like a $1,000 laptop.
@@ -101,9 +98,6 @@ Lifewire / Andrew Hayward
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/AFQh-ERthm-g0pAMcnQlyA2Rjgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_bent_02-3dfd0720309d4d12beb5ae695a007aa1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 ## **Display: Small, but strong**
@@ -112,9 +106,6 @@ Lifewire / Andrew Hayward
 
  It also acts like an extra-large tablet screen since it’s a touchscreen with 10 points of interaction. It felt just as responsive as any tablet we’ve used.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: It does what it can**
 
  You really can’t pit the Chromebook Flip against pricier Windows and Mac laptops in terms of sheer processing power because Chromebooks aren’t built to be beasts. But they don’t really need to be: the highest quality of graphics processing it’ll need to handle are mobile-quality games, since the Chromebook Flip can run Android apps from the Play Store, and you’re not able to download high-end games from Steam or the Epic Games Store.
@@ -129,16 +120,36 @@ Lifewire / Andrew Hayward
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/7B1-43v0GHPcS2HESabWT97_XPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_Keyboard_03-8bc37c7c2d0243bb8ed1fa10e338374f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Audio: Sounds fine**
 
  The tiny speaker grates on the left and right side of the Chromebook Flip don’t look too promising, but the playback quality was better than expected. Music output isn’t big and bold, but it’s pretty clear and it can get loud without getting too muddled. Video playback via YouTube and Netflix was sometimes too quiet at full volume, however.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Network: No complaints here**
 
  The Chromebook Flip has dual-band Wi-Fi that can connect to both 2.4Ghz and 5Ghz networks, and we had no issues with either during our testing. We went online at a home network and a Starbucks Google network alike, and things were routinely speedy. On the home network, we saw speeds of about 33Mbps and upload speeds in excess of 10Mbps—essentially the same as we’ve seen with[other laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) and[smartphones](https://www.lifewire.com/best-smartphones-4043781) .
@@ -153,14 +164,13 @@ Lifewire / Andrew Hayward
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/VR5Y-1tDILHowNSeA408pnLVtgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_closed_04-bde5ec8f988c4bb49e4019f95cc47c31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: It’s definitely different**
 
@@ -174,6 +184,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Luckily, the Chromebook’s reputation as an online-only device isn’t true. For example, Google Docs can be used offline, you can view and edit photos, watch locally-stored media, and play games that don’t require an online connection. It’s really not that different in approach to other PCs, but the overall feel and flow of the experience varies in some key ways.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: It feels like a steal**
 
  Here’s where the Asus Chromebook Flip really makes its biggest impact. As mentioned, it’s a capable computer for most everyday tasks, it has a very good screen, and the battery life is stellar. Best of all, it’s priced at $499, although you can find it for a little bit less (we’re seeing it around $400-450 lately). There are cheaper Chromebooks out there that skimp on features and functionality, such as skipping the convertible hinge or touch functionality, or using a lower-end processor. You can spend a lot less and still get a solid laptop.
@@ -182,11 +198,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/NHrMPSrgOWsOuCEYg0M-STQUfsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Air-v-Surface-Comparison-a255967a27e14762b5c2ad9c442df77f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Asus Chromebook Flip C302CA vs. Apple MacBook Air**
 
  On paper, these laptops shouldn’t be comparable. At $1,099 or more, the MacBook Air is one of the most polished and premium ultraportable laptops you can buy today. The perks are obvious: it has a sleek and refined build, the brighter and higher-resolution 13.3-inch display is gorgeous, and the touchpad is excellent. It also runs macOS, a more robust operating system that still manages to be easy to use.
@@ -201,6 +220,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Just as the recent crop of cheap, strong mid-range phones has made many flagship smartphones seem excessive and unnecessary, the Asus Chromebook Flip C302CA does much the same for laptops. This is a seriously impressive and versatile notebook without any major deficiencies, and it’s priced at just $499—less than half the price of the cheapest Apple laptop right now.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Chromebook Flip C302CA-DHM4

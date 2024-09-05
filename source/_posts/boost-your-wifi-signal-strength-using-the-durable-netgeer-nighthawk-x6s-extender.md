@@ -1,7 +1,7 @@
 ---
 title: Boost Your WiFi Signal Strength Using the Durable Netgeer Nighthawk X6S Extender
-date: 2024-08-31T17:31:35.509Z
-updated: 2024-09-01T17:31:35.509Z
+date: 2024-09-04T20:11:18.320Z
+updated: 2024-09-05T20:11:18.320Z
 categories:
   - BestProducts
 description: This Article Describes Boost Your WiFi Signal Strength Using the Durable Netgeer Nighthawk X6S Extender
@@ -67,7 +67,10 @@ Lifewire / Andrew Hayward
  Available on its own for $49 or with a battery pack and carrying case for $129, the Elite Strap is a major improvement and worthwhile pickup for anyone who doesn’t love the original fit. I tested the latter configuration with the integrated battery pack and included case.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Design: A more supportive strap
 
@@ -77,6 +80,18 @@ Lifewire / Andrew Hayward
 
 ![Oculus Quest 2 Elite Strap With Battery and Carrying Case](https://www.lifewire.com/thmb/g-QXyXCZitYdlr7F5TWDuzllhuY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus_Quest_2_Elite_Strap_02-83833091dfde4b3b9e2253177901bb66.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  Unlike the[PlayStation VR’s strap](https://www.lifewire.com/playstation-vr-4157636) , for example, the Quest 2 Elite Strap’s fit wheel doesn’t lock into place and make you press a button to release it from your head when you want out. Instead, you can gradually adjust it until the headset feels snug but comfortable, and freely tighten or loosen it as needed. It stays put.
@@ -90,7 +105,10 @@ Lifewire / Andrew Hayward
  Meanwhile, the included carrying case in this bundle is large enough to fit the entire headset with the Elite Strap, as well as the two Oculus Touch controllers and the charger. The large pill-shaped design is non-traditional for a gadget case, looking like light grey sweatpants and with a wool-like felt texture. The case can be a little awkward to unzip, but it’s functional and roomy enough to hold everything, even if it doesn’t look nearly as cool as what it holds.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Setup Process: Snap it on
 
@@ -102,9 +120,6 @@ Lifewire / Andrew Hayward
 
  Once it’s secured, simply plug the USB-C cable on the side of the Elite Strap into the Quest 2 visor, as this adds power from the battery pack into your total supply. Now you’ll charge the entire headset via the USB-C port beneath the dial on the Elite Strap, which provides power to both the visor and strap batteries.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Comfort: Effective and adjustable
 
  Comfort is one of the driving forces behind the creation of the Elite Strap, and a major reason anyone would consider paying $49 or more for a different strap. Some people might find the Oculus Quest 2’s strap to be perfectly fine, but in my own testing, it was just tolerable: The headset felt heavy and was never as securely fastened in place as I wanted it to be. It was a big step down from the original Quest’s solid, rubberized plastic strap.
@@ -116,9 +131,10 @@ Lifewire / Andrew Hayward
 ![Oculus Quest 2 Elite Strap With Battery and Carrying Case](https://www.lifewire.com/thmb/v5qFVd_vGEfVkRoTgyxHCnpNO7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus_Quest_2_Elite_Strap_04-6b671f2308db4225b4f355d0abd12f2d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
@@ -132,9 +148,6 @@ Lifewire / Andrew Hayward
 
  Granted, there are DIY options out there for boosting the Quest 2’s battery life, including plugging in a portable power bank and either sticking it into your pocket or otherwise affixing it to your body or headset. Depending on the size of the power bank, you could get significantly more uptime from that kind of solution and at a lower cost—but that’s more hassle and it’s a less elegant solution than the official option here.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Not cheap, but it’s worth it
 
  After spending $299 on a VR headset, some might bristle at spending another $49 for a different strap—or $129 for that strap, double the battery life, and a case. However, if the Quest 2’s standard strap isn’t meeting your needs, then the Elite Strap is well worth the extra cash.
@@ -145,6 +158,12 @@ Lifewire / Andrew Hayward
 
 ![Oculus Quest 2 Elite Strap With Battery and Carrying Case](https://www.lifewire.com/thmb/edSGh2YZZ5OIkwkHbEJnwtUjfGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus_Quest_2_Elite_Strap_05-e018715e02944614b51af8a2cb98f055.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  The case is nice to have, and given that the original official Oculus Quest case sold for $40 on its own, this bundle doesn’t feel overpriced by comparison. Buying the Oculus Quest 2 headset plus this bundle comes out to nearly the same price as buying the original Quest headset ($399) plus its carrying case back when, but now you get double the battery life along with the myriad enhancements of the core Quest 2 hardware.
@@ -159,15 +178,18 @@ Lifewire / Andrew Hayward
 
  If your Oculus Quest 2 doesn’t quite fit right, pick up the Elite Strap. It’s a much better-designed strap that securely and comfortably keeps the VR headset in place during use, and is well worth the extra cash. True, you might grimace at the thought of spending more money on something that should’ve come with the standard headset, but the improved experience should ultimately outweigh that frustration. The bundle with the battery pack and carrying case adds further value and is worthwhile if you’re keen on longer play sessions or not needing to charge the headset as often, but the Elite Strap itself is the most essential add-on in this set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Oculus Quest 2](https://www.lifewire.com/oculus-quest-2-review-5092839)
 * [Oculus Rift Headset and Controllers](https://www.lifewire.com/oculus-rift-review-4690370)
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Quest 2 Elite Strap with Battery and Carrying Case

@@ -1,7 +1,7 @@
 ---
 title: "Leap Into Modernity: Upgrading From Windows 7 To 10"
-date: 2024-08-09T00:43:33.507Z
-updated: 2024-08-10T00:43:33.507Z
+date: 2024-09-04T20:11:07.587Z
+updated: 2024-09-05T20:11:07.587Z
 categories:
   - BestProducts
 description: "This Article Describes Leap Into Modernity: Upgrading From Windows 7 To 10"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ## Canon PowerShot SX70
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 Lifewire / Andy Zahn
@@ -79,7 +76,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Built to last, great to use**
 
@@ -136,11 +136,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
@@ -157,8 +156,10 @@ No advertising on the website.
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Video Quality: A mixed bag**
 
@@ -185,7 +186,10 @@ No advertising on the website.
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Big brand, big price tag**
 
@@ -193,9 +197,6 @@ No advertising on the website.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Dominating from the middle ground**
 
  Canon hasn’t tried to push any boundaries with the SX70 HS. Instead, it plays it safe and just does everything very well. Two of its main competitors in the superzoom arena, Panasonic and Nikon, offer intriguing alternatives by either cutting costs or offering groundbreaking technological advances.
@@ -213,7 +214,10 @@ No advertising on the website.
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -222,7 +226,10 @@ No advertising on the website.
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -257,3 +264,68 @@ No advertising on the website.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>[New] 2024 Approved  From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[New] 2024 Approved  Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-8-free-and-online-facebook-link-downloaders/"><u>[New] 8 Free And Online Facebook Link Downloaders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-action-and-adventure-with-ions-pro-3-camera-insight/"><u>[New] Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-aerial-angle-appraisal-overlook/"><u>[New] Aerial Angle Appraisal Overlook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprelevant-listings-best-free-tools-to-watch-webm-videos/"><u>[New] Comprelevant Listings  Best Free Tools to Watch WebM Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-strategies-for-premium-picture-acquisition-gratis/"><u>[New] Proven Strategies for Premium Picture Acquisition Gratis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-stepwise-guide-to-convert-vimeo-media-to-mp3/"><u>[New] Stepwise Guide to Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-alternative-film-choices-ranked-7-1/"><u>[Updated] 2024 Approved  Alternative Film Choices  Ranked #7-1</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-boost-your-farming-skills-with-stardews-top-7-mods/"><u>[Updated] 2024 Approved  Boost Your Farming Skills with Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-boost-your-iphone-imagery-with-light-tricks/"><u>[Updated] 2024 Approved  Boost Your IPhone Imagery With Light Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-flashcapture-quick-image-hold-manual/"><u>[Updated] 2024 Approved  FlashCapture  Quick Image Hold Manual</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-innovative-approaches-to-integrating-vocal-elements-into-video-storytelling/"><u>[Updated] 2024 Approved  Innovative Approaches to Integrating Vocal Elements Into Video Storytelling</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-complete-annihilation-of-youtube-shorts-accessibility-for-2024/"><u>[Updated] Complete Annihilation of YouTube Shorts Accessibility for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-decades-leading-guide-to-budget-friendly-recorders-for-2024/"><u>[Updated] Decade's Leading Guide to Budget-Friendly Recorders for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>[Updated] Premier Choices  The 5 Foremost Webcams for Live Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-affordable-360-degree-cameras/"><u>[Updated] Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-exclusive-insights-11s-best-sound-devices-review/"><u>2024 Approved  Exclusive Insights  #11'S Best Sound Devices Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-zoom-strategy-for-videoleap-videos/"><u>2024 Approved  The Ultimate Zoom Strategy for Videoleap Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-the-flaws-and-wonders-of-cyberpunk-2n77-review/"><u>Balancing the Flaws and Wonders of Cyberpunk 2N77 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-iphones-for-gamers-ranking-top-devices-for-mobile-gaming-excellence/"><u>Best iPhones for Gamers: Ranking Top Devices for Mobile Gaming Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/caixuns-big-screen-marvel-in-depth-analysis-of-the-budget-friendly-75-inch-4k-smart-tv-experience/"><u>Caixun's Big Screen Marvel: In-Depth Analysis of the Budget-Friendly 75-Inch 4K Smart TV Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/canon-vixia-hf-r800-camcorder-review-modest-price-average-video/"><u>Canon VIXIA HF R800 Camcorder Review: Modest Price, Average Video</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-google-maps-app-on-ios-devices/"><u>Comprehensive Analysis: Google Maps App on iOS Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-petsafe-automatic-feeder-a-smart-choice-for-your-pets-dietary-management/"><u>Comprehensive Review of the PetSafe Automatic Feeder: A Smart Choice for Your Pet's Dietary Management</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-uniden-r3-radar-detector-analysis-durable-and-extended-detection-capability/"><u>Comprehensive Uniden R3 Radar Detector Analysis – Durable & Extended Detection Capability</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-facilitee-des-dvd-proteges-gratuite-un-logiciel-pour-debloquer-la-contenu-video/"><u>Conversion Facilitee Des DVD-Proteges Gratuite - Un Logiciel Pour Débloquer La Contenu Vidéo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/diving-into-fortnites-latest-adventure-comprehensive-insights-for-a-brand-new-season/"><u>Diving Into Fortnite's Latest Adventure: Comprehensive Insights for a Brand-New Season</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-rankings-for-personal-weather-gadgets-whats-hot-in-2-groghty-2024/"><u>Elite Rankings for Personal Weather Gadgets - What's Hot in 2 Groghty, 2024!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-fitness-routine-with-garmin-vivoactive-3-exercise-and-enjoy-quality-sound/"><u>Enhancing Your Fitness Routine with Garmin Vivoactive 3: Exercise and Enjoy Quality Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-virtual-universe-in-depth-analysis-of-the-vive-cosmos-top-contender-in-a-crowded-market/"><u>Experience the Virtual Universe: In-Depth Analysis of the Vive Cosmos - Top Contender in a Crowded Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/galaxy-tab-s3s-worth-in-todays-market-an-in-depth-product-assessment/"><u>Galaxy Tab S3's Worth in Today's Market: An In-Depth Product Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-showdown-iphone-15-pro-against-pro-max-unveiled/"><u>Head-to-Head Showdown: IPhone 15 Pro Against Pro Max Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-t2-pro-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>In 2024, From Novice to Pro  An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-smooth-privacy-tear-away-facial-features/"><u>In 2024, Smooth Privacy  Tear Away Facial Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kobo-forma-unveiled-taking-reading-seriously-with-advanced-ereader-technology/"><u>Kobo Forma Unveiled: Taking Reading Seriously with Advanced eReader Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-k92-5g-evaluation-assessing-the-value-beyond-just-5g-capabilities/"><u>LG K92 5G Evaluation: Assessing the Value Beyond Just 5G Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-immersion-with-oculus-quest-2-exceptional-value-for-vr-enthusiasts/"><u>Next-Level Immersion with Oculus Quest 2: Exceptional Value for VR Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oculus-quest-2-evaluation-seamless-superior-vr-fun-without-breaking-your-budget/"><u>Oculus Quest 2 Evaluation: Seamless, Superior VR Fun without Breaking Your Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-practicality-in-the-lenovo-ideapad-130s-review-power-boundaries-and-usability-breakthroughs/"><u>Performance Vs. Practicality in the Lenovo IdeaPad 130S Review: Power Boundaries and Usability Breakthroughs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premier-pro-basketball-gaming-in-nba-2k19/"><u>Premier Pro-Basketball Gaming in NBA 2K19</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-book-one-evaluation-portable-powerhouse-performance-exposed/"><u>Razer Book One Evaluation: Portable Powerhouse Performance Exposed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-holy-stone-remote-control-toy-racecar-perfect-family-entertainment/"><u>Review of Holy Stone Remote Control Toy Racecar - Perfect Family Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-the-all-in-one-max-360-escort-device-top-features-benefits-and-how-it-works/"><u>Review: The All-in-One Max 360 Escort Device - Top Features, Benefits and How It Works</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revolutionize-your-social-media-experience-with-top-fire-browser-extensions-for-facebook-2023-for-2024/"><u>Revolutionize Your Social Media Experience with Top Fire-Browser Extensions for Facebook, 2023 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sapphire-gpu-drivers-update-and-download-options-for-windows-users/"><u>Sapphire GPU Drivers Update & Download Options for Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/spectacular-bargain-tech-the-arcshell-ar-5-tested-superb-functionality-unbeatable-cost/"><u>Spectacular Bargain Tech: The Arcshell AR- 5 Tested - Superb Functionality, Unbeatable Cost</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/superior-converter-mp4-to-facebook-for-2024/"><u>Superior Converter  MP4 to Facebook for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-improved-experience-with-apple-watch-series-4-our-comprehensive-review/"><u>The Improved Experience with Apple Watch Series 4 – Our Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-travel-companion-unraveling-the-benefits-and-features-of-the-audew-portable-compressor/"><u>The Perfect Travel Companion: Unraveling the Benefits and Features of the Audew Portable Compressor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-solution-to-overheating-exploring-the-efficiency-of-the-havit-5-laptop-chiller-innovative-gaming-accessory-reviewed/"><u>The Ultimate Solution to Overheating: Exploring the Efficiency of the HAVIT 5 Laptop Chiller - Innovative Gaming Accessory Reviewed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tiny-turntable-thick-impact-the-lx310bt-review/"><u>Tiny Turntable, Thick Impact: The LX310BT Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-computing-the-revolutionary-imac-featuring-apples-m1-technology/"><u>Transforming Computing: The Revolutionary iMac Featuring Apple's M1 Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-oculus-quest-2-top-tier-virtual-reality-for-a-steal-of-a-deal/"><u>Unboxing & Testing the Oculus Quest 2 - Top-Tier Virtual Reality for a Steal of a Deal!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-creativity-with-anthropics-smart-photo-editor-a-detailed-review-for-photographers/"><u>Unlocking Creativity with Anthropics Smart Photo Editor: A Detailed Review for Photographers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-value-discover-if-chatgpt-plus-membership-is-worth-your-time-and-why-you-should-enroll-today/"><u>Unlocking the Value: Discover If ChatGPT Plus Membership Is Worth Your Time and Why You Should Enroll Today!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-the-art-of-custom-ringtone-creation/"><u>Updated Mastering the Art of Custom Ringtone Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-shouldnt-overlook-chatgpt-plus-even-as-gpt-4-goes-gratis-6-key-reasons-explained/"><u>Why You Shouldn't Overlook ChatGPT Plus Even As GPT-4 Goes Gratis - 6 Key Reasons Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/withings-move-critique-how-an-old-school-style-meets-new-age-technology/"><u>Withings Move Critique: How an Old-School Style Meets New Age Technology</u></a></li>
+</ul></div>

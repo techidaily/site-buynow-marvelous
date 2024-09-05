@@ -1,7 +1,7 @@
 ---
 title: Why the 7-Year-Old's Old Console Beats Modern Smartphones in Video Game Battles
-date: 2024-08-31T17:30:22.610Z
-updated: 2024-09-01T17:30:22.610Z
+date: 2024-09-04T20:11:26.072Z
+updated: 2024-09-05T20:11:26.072Z
 tags:
   - games
   - tv
@@ -27,12 +27,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Setting aside issues like thermals and battery drain, modern phones kick sand in the face of the ancient components in the Nintendo Switch without a doubt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Switch Software Can’t Be Beat
 
 ![Nintendo Switch game cards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/game_carts.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
@@ -43,33 +52,39 @@ Tim Brookes / How-To Geek
  That's before we get to the quality of Nintendo's first-party games, and honestly, I like my Switch more because of the third-party games in my collection. Even when a game exists both for my phone and my Switch, such as _Alien: Isolation_, I prefer to play it on the Switch even if the graphics might be worse. Developers seem to do a better job optimizing games for a fixed platform like the Switch than for the millions of Android handset variants out there. Each with their own GPU and CPU combinations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Nintendo’s Mobile Control Solution Still Rocks
 
 ![Person on the beach playing a game on Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/person-on-the-beach-playing-a-game-on-nintendo-switch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image-photo/girl-playing-game-on-handheld-console-2268730757) / Shutterstock
 
  The worst part of playing games on a phone is having to deal with touch controls. Of course, now you can easily connect any sort of gamepad to your phone, but I have yet to find a solution that's anywhere near as good as the Switch. The Joy Cons may have had some quality issues in the early days, but the actual design is ingenious. They have a permanent place to slot in. They maintain the console's flat profile, and they work immediately when you need them, without messing around with Bluetooth settings or USB cables.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Your Switch Games Will Always Work
 
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I love gaming on my iPad, but I will always bear a grudge for the collection of premium iPad games I bought that no longer work because Apple decided to drop support for 32-bit games. It's not just big changes like this that render mobile games I paid for worthless. Any developer that doesn't keep updating their games to support newer iOS versions runs the risk of the game ceasing to work. This leads to a situation where a game that was working just fine yesterday, might stop working tomorrow after an OS update, even though it's still the same hardware.
 
  That's not something that will happen with the Switch. System software updates have to remain compatible with previously-released games. So I can rest assured that all of the games that I've bought for my Switch will keep working as long as the Switch is still functional, even if the developers have long stopped patching it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Switch Proved Specs Aren't Everything
 
  I had a [Rog Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) for a while, and it's a beast of a machine that blows the Nintendo Switch out of the water. Likewise, the Valve Steam Deck is not far off having a handheld PlayStation 4\. However, compared to the Switch, these systems are severely unbalanced. By favoring high-performance, they tend to compromise on size, battery life, and temperature.
@@ -77,7 +92,10 @@ Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image
 ![ROG Ally Next to OELD Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Butler / How-To Geek
 

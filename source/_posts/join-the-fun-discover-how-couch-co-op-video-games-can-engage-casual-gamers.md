@@ -1,7 +1,7 @@
 ---
 title: Join the Fun! Discover How Couch Co-Op Video Games Can Engage Casual Gamers
-date: 2024-08-27 20:58:14
-updated: 2024-08-29 10:17:36
+date: 2024-09-04T20:04:14.179Z
+updated: 2024-09-05T20:04:14.179Z
 tags:
   - games
   - tv
@@ -88,6 +88,12 @@ _Halo_ was one of the first titles that not only proved that first-person shoote
 
 **Play it on:** Xbox, Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8 _Diablo IV_ 
 
 _Diablo_ is a legendary action RPG that’s all about collecting loot, leveling up, and experimenting with different play styles. 2023’s _Diablo IV_ is the latest installment in the series, and we’d recommend starting there since the game is set to receive support for many years to come. That said, _Diablo III_ is still worth a shot and also includes couch co-op.
@@ -96,6 +102,12 @@ _Diablo_ is a legendary action RPG that’s all about collecting loot, leveling 
 
 **Play it on:** Xbox, PlayStation 4/5
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 _Borderlands_ 
 
 _Borderlands_ is a looter shooter in the same vein as _Diablo_, albeit from a first-person perspective. Pick a class, team up in split-screen (or online), and head out blasting everything in sight. The game’s leveling and loot systems keep you engaged, with heaps of upgrades and procedurally generated guns, armor, grenades, and more to continually surprise you.
@@ -104,6 +116,12 @@ _Borderlands_ is a looter shooter in the same vein as _Diablo_, albeit from a fi
 
 **Play it on:** Xbox 360/Xbox, PlayStation 3/4/5, Nintendo Switch, Windows, Linux, Mac
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 _Terraria_ 
 
 _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also happens to have compelling local co-op play. Unlike _Minecraft_, _Terraria_’s 2D perspective makes it feel like a more accessible game to newcomers. It’s easy to pick up, and easy to get other people sucked into the world.
@@ -112,6 +130,12 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
 
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows, Linux, Mac
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11 _Minecraft Dungeons_ 
 
  The _Minecraft_ universe has spawned several spin-offs, but none are as compelling as _Minecraft Dungeons_, a top-down dungeon-crawling RPG. It’s a highly accessible hack-and-slash adventure game with procedurally-generated levels and endless loot drops.
@@ -120,6 +144,18 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
 
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12 _Golf with Your Friends_ 
 
  Though golf is technically a competitive game, it can feel more like a pastime than a truly competitive sport. _Golf with your Friends_ continues the tradition of surprisingly compelling golf video games, offering “crazy golf” style courses that are just perfect for hanging out.
@@ -128,6 +164,12 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
 
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows, Mac, Linux
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 13 _Quake_ (and _Quake II_) 
 
  Both _Quake_ and _Quake II_ have received re-releases for modern platforms, and split-screen local play is arguably one of the best upgrades. Not only can you play competitive deathmatch modes like this, but you can also run through the campaigns.
@@ -162,3 +204,70 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-plotting-the-perfect-tiktok-outro-journey/"><u>[New] 2024 Approved  Plotting the Perfect TikTok Outro Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>[New] Boost Your Imagery  Title Placement Techniques on Video Clips with Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-digital-detective-work-cracking-the-code-to-live-streams-for-2024/"><u>[New] Digital Detective Work  Cracking the Code to Live Streams for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-comprehensive-analysis-bublcams-360-vision/"><u>[New] In 2024, Comprehensive Analysis  Bublcam's 360 Vision</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>[New] In 2024, The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pioneering-rpgs-rogelikes-and-their-descendants/"><u>[Updated] 2024 Approved  Pioneering RPGs  Rogelikes & Their Descendants</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-breakdown-of-sharex-scrutiny-and-substitutes/"><u>[Updated] Breakdown of ShareX  Scrutiny & Substitutes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-clear-screening-for-focused-online-participation/"><u>[Updated] Clear Screening for Focused Online Participation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-innovating-for-success-metaverse-sales-strategies/"><u>[Updated] In 2024, Innovating for Success  Metaverse Sales Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pawsome-playtime-12-android-titles-to-try-now/"><u>[Updated] In 2024, Pawsome Playtime  12 Android Titles to Try Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2023s-most-secure-authentication-devices-a-comprehensive-review/"><u>2023'S Most Secure Authentication Devices: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-selection-high-performance-sd-memory-cards-for-professional-camera-gear/"><u>2024'S Ultimate Selection: High-Performance SD Memory Cards for Professional Camera Gear</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combat-fake-texts-with-gptzero-expert-tips-on-identifying-ais-hand-in-writing/"><u>Combat Fake Texts with GPTZero: Expert Tips on Identifying AI's Hand in Writing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-macbook-selection-for-2eplustplusrplusy-expert-reviews-and-rankings/"><u>Discover the Ultimate MacBook Selection for 2E+t+r+y - Expert Reviews & Rankings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/driving-into-the-future-mercedes-voice-and-chatgpt-fusion/"><u>Driving Into the Future: Mercedes Voice & ChatGPT Fusion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ethereal-editing-in-extended-frame-rate/"><u>Ethereal Editing in Extended Frame Rate</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-75-screens-elite-tv-choices-for-a-stunning-viewing-experience/"><u>Exploring the Best 75 Screens: Elite TV Choices for a Stunning Viewing Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-regular-are-youtube-monetization-payments-in-2024/"><u>How Regular Are YouTube Monetization Payments, In 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-hot-40-by-drfone-android/"><u>How to Bypass FRP from Infinix Hot 40?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ideal-family-cellphone-packages-the-5-finest-choices/"><u>Ideal Family Cellphone Packages: The 5 Finest Choices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-realme-gt-neo-5-se-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme GT Neo 5 SE Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>In 2024, Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-power-boards-compatible-with-ps5/"><u>Innovative Power Boards: Compatible with PS5</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-new-realms-todays-vr-tomorrows-trials/"><u>Navigating New Realms  Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>Swift Cinematic Skills  The Quickest 5 DIY Hacks for Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-earning-trajectory-of-youtube-star-pewdopeep-for-2024/"><u>The Earning Trajectory of YouTube Star PewDoPeep for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-economical-and-high-quality-headphone-picks-for-2n34/"><u>The Most Economical and High-Quality Headphone Picks for 2N34!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-university-of-nebraska-lincoln-unl-state-quarter-mile/"><u>The University of Nebraska-Lincoln (UNL) State Quarter Mile</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-the-ultimate-guide-to-the-finest-11-inch-ipad-air-protectors/"><u>Top Picks: The Ultimate Guide to the Finest 11-Inch iPad Air Protectors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-the-ultimate-guide-to-the-most-exceptional-mirrorless-camera-lenses/"><u>Top Picks: The Ultimate Guide to the Most Exceptional Mirrorless Camera Lenses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-unmissable-savings-on-amazon-prime-day-2023/"><u>Top Picks: Unmissable Savings on Amazon Prime Day 2023</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-quality-turntables-you-cant-miss/"><u>Top Quality Turntables You Can't Miss</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-gear-for-the-latest-samsung-galaxy-s23-your-ultimate-guide/"><u>Top Rated Protective Gear for the Latest Samsung Galaxy S23: Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-plug-devices/"><u>Top Rated Smart Plug Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-xbox-series-x-and-series-s-peripherals-for-enhanced-gaming/"><u>Top Rated Xbox Series X & Series S Peripherals for Enhanced Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-recommended-gopro-gadgets-and-extras/"><u>Top Recommended GoPro Gadgets and Extras</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-recommended-steam-deck-and-rog-ally-docks-your-ultimate-guide/"><u>Top Recommended Steam Deck & ROG Ally Docks : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-tablets-a-buyers-guide-to-the-finest-apple-ipads/"><u>Top-Ranked Tablets : A Buyer's Guide to the Finest Apple iPads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-widescreen-displays-ultimate-choices/"><u>Top-Ranked Widescreen Displays: Ultimate Choices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-2024-home-cinema-sound-and-vision-setups/"><u>Top-Ranking 2024 Home Cinema Sound & Vision Setups</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-gaming-seating-solutions-a-comprehensive-guide/"><u>Top-Ranking Gaming Seating Solutions : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-roku-streaming-devices-a-comprehensive-guide/"><u>Top-Ranking Roku Streaming Devices : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-automatic-cleaners-the-leading-robotic-vacuum-models-in-2/"><u>Top-Rated Automatic Cleaners: The Leading Robotic Vacuum Models in 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-bass-boosting-subwoofers-a-comprehensive-review/"><u>Top-Rated Bass Boosting Subwoofers : A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-bluetooth-sound-adapters-a-comprehensive-guide/"><u>Top-Rated Bluetooth Sound Adapters : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-boom-microphones-a-comprehensive-guide/"><u>Top-Rated Boom Microphones : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-handheld-gamepad-controllers-for-on-the-go-players/"><u>Top-Rated Handheld Gamepad Controllers for On-the-Go Players</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-photography-gear-for-optimal-shoots/"><u>Top-Rated Photography Gear for Optimal Shoots</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-powerline-network-converters-the-ultimate-selection-for-2nd4/"><u>Top-Rated Powerline Network Converters: The Ultimate Selection for 2nD4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-steam-deck-stands-and-mounts-2023-edition/"><u>Top-Rated Steam Deck Stands & Mounts - 2023 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-ultimate-laptop-picks-for-2/"><u>Top-Rated Ultimate Laptop Picks for 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-2023-guide-leading-innovative-smart-home-products/"><u>Ultimate 2023 Guide: Leading Innovative Smart Home Products</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-defense-exclusive-picks-for-the-finest-samsung-galaxy-s23-ultra-cases/"><u>Ultimate Defense: Exclusive Picks for the Finest Samsung Galaxy S23 Ultra Cases</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-network-attached-storage-nas-device-for-your-needs/"><u>Ultimate Guide to Choosing the Perfect Network Attached Storage (NAS) Device for Your Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-premier-linux-notebooks-of-2er-year-2023/"><u>Ultimate Guide to the Premier Linux Notebooks of 2Er Year 2023</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-nintendo-switch-upgrades-for-gamers/"><u>Ultimate Guide: Leading Nintendo Switch Upgrades for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-2024s-premium-microsd-memory-cards-expert-reviews-and-ratings/"><u>Ultimate Selection of 2024'S Premium MicroSD Memory Cards - Expert Reviews and Ratings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-the-leading-smart-glasses-innovations-unveiled/"><u>Ultimate Selection: The Leading Smart Glasses Innovations Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-shortcut-tactics-for-optimal-voice-input-on-win-11/"><u>Ultimate Shortcut Tactics for Optimal Voice Input on Win 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-elite-gamers-choice-premier-headsets-of-2024/"><u>Unveiling the Elite Gamers' Choice: Premier Headsets of 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Review: Experience Endless High-Quality Sound with Ion Audio Tailgater Plus"
-date: 2024-08-27T10:56:23.457Z
-updated: 2024-08-28T10:56:23.457Z
+date: 2024-09-04T20:11:26.776Z
+updated: 2024-09-05T20:11:26.776Z
 categories:
   - BestProducts
 description: "This Article Describes Review: Experience Endless High-Quality Sound with Ion Audio Tailgater Plus"
@@ -74,9 +74,6 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## **Design and Features: It’s flippin’ nice**
 
  Just as Chromebooks are conceptually designed as budget laptops, the Asus Chromebook Flip is physically built like a budget MacBook. It has the same kind of minimal aesthetic, albeit not to quite the same level of premium visual polish. From the hinge design to the materials and tiny nuances, the Chromebook Flip doesn’t look like a $1,000 laptop.
@@ -102,7 +99,16 @@ Lifewire / Andrew Hayward
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/AFQh-ERthm-g0pAMcnQlyA2Rjgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_bent_02-3dfd0720309d4d12beb5ae695a007aa1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
@@ -112,6 +118,12 @@ Lifewire / Andrew Hayward
 
  It also acts like an extra-large tablet screen since it’s a touchscreen with 10 points of interaction. It felt just as responsive as any tablet we’ve used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: It does what it can**
 
  You really can’t pit the Chromebook Flip against pricier Windows and Mac laptops in terms of sheer processing power because Chromebooks aren’t built to be beasts. But they don’t really need to be: the highest quality of graphics processing it’ll need to handle are mobile-quality games, since the Chromebook Flip can run Android apps from the Play Store, and you’re not able to download high-end games from Steam or the Epic Games Store.
@@ -128,14 +140,16 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Audio: Sounds fine**
 
  The tiny speaker grates on the left and right side of the Chromebook Flip don’t look too promising, but the playback quality was better than expected. Music output isn’t big and bold, but it’s pretty clear and it can get loud without getting too muddled. Video playback via YouTube and Netflix was sometimes too quiet at full volume, however.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Network: No complaints here**
 
  The Chromebook Flip has dual-band Wi-Fi that can connect to both 2.4Ghz and 5Ghz networks, and we had no issues with either during our testing. We went online at a home network and a Starbucks Google network alike, and things were routinely speedy. On the home network, we saw speeds of about 33Mbps and upload speeds in excess of 10Mbps—essentially the same as we’ve seen with[other laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) and[smartphones](https://www.lifewire.com/best-smartphones-4043781) .
@@ -150,10 +164,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/VR5Y-1tDILHowNSeA408pnLVtgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_closed_04-bde5ec8f988c4bb49e4019f95cc47c31.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: It’s definitely different**
 
@@ -167,9 +190,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Luckily, the Chromebook’s reputation as an online-only device isn’t true. For example, Google Docs can be used offline, you can view and edit photos, watch locally-stored media, and play games that don’t require an online connection. It’s really not that different in approach to other PCs, but the overall feel and flow of the experience varies in some key ways.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: It feels like a steal**
 
  Here’s where the Asus Chromebook Flip really makes its biggest impact. As mentioned, it’s a capable computer for most everyday tasks, it has a very good screen, and the battery life is stellar. Best of all, it’s priced at $499, although you can find it for a little bit less (we’re seeing it around $400-450 lately). There are cheaper Chromebooks out there that skimp on features and functionality, such as skipping the convertible hinge or touch functionality, or using a lower-end processor. You can spend a lot less and still get a solid laptop.
@@ -179,7 +199,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/NHrMPSrgOWsOuCEYg0M-STQUfsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Air-v-Surface-Comparison-a255967a27e14762b5c2ad9c442df77f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
@@ -198,7 +221,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Just as the recent crop of cheap, strong mid-range phones has made many flagship smartphones seem excessive and unnecessary, the Asus Chromebook Flip C302CA does much the same for laptops. This is a seriously impressive and versatile notebook without any major deficiencies, and it’s priced at just $499—less than half the price of the cheapest Apple laptop right now.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

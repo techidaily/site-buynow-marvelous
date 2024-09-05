@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Wireless Headphones : A Comprehensive Guide"
-date: 2024-08-31T17:26:23.266Z
-updated: 2024-09-01T17:26:23.266Z
+date: 2024-09-04T20:11:20.724Z
+updated: 2024-09-05T20:11:20.724Z
 tags:
   - buying-guides
 categories:
@@ -82,14 +82,26 @@ Best Noise Cancelling Wireless Earbuds
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Wireless Earbuds Overall: [Bose QuietComfort Ultra Wireless Noise Cancelling Earbuds](https://www.amazon.com/Bose-QuietComfort-Cancelling-World-Class-Cancellation-dp-B0CD2FSRDD/dp/B0CD2FSRDD?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
 ![Bose QuietComfort Ultra Earbuds next to their charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/bose-quietcomfort-ultra-earbuds-next-to-their-charging-case.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -112,10 +124,25 @@ Tyler Hayes / How-To Geek
 
 ![Bose QuietComfort Ultra Wireless](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bose-quietcomfort-ultra-wireless.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Wireless Earbuds Overall
 
@@ -153,6 +180,12 @@ Soundcore
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget Wireless Earbuds
 
 #####  Anker Soundcore Liberty 4 NC Wireless Earbuds
@@ -161,13 +194,16 @@ The Soundcore by Anker Liberty 4 NC Wireless Earbuds are the perfect budget wire
 
 [$100 at Amazon](https://www.amazon.com/soundcore-Cancelling-Reduction-Environment-Bluetooth-dp-B0BZV4QFP8/dp/B0BZV4QFP8?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Wireless Earbuds Under $50: [Moondrop Space Travel](https://www.amazon.com/Moondrop-Space-Travel-TWS-Earphone/dp/B0CKW5JY9Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
 ![moondrop space travel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/moondrop-space-travel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Moondrop
 
 | Pros                                    | Cons                    |
@@ -198,10 +234,22 @@ The Moondrop Space Travel true wireless earbuds look and sound so good that you'
 
 [$25 at Amazon](https://www.amazon.com/Moondrop-Space-Travel-TWS-Earphone/dp/B0CKW5JY9Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Wireless Earbuds for iPhone: [Apple AirPods Pro (2nd Generation)](https://www.amazon.com/dp/B0CHWRXH8B?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
 ![Apple AirPods Pro 2nd Gen sitting on the back of the iPhone 14 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/airpods-pro-2nd-gen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 | Pros                                                       | Cons                        |
@@ -238,17 +286,10 @@ It may not look like much has changed with the second-generation Apple AirPods P
 
 [$192 at Amazon](https://www.amazon.com/dp/B0CHWRXH8B?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-airpods-pro-2nd-generation-with-magsafe-case-usbc-white%2F6447382.p%3FskuId%3D6447382) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Wireless Earbuds for Android: [Samsung Galaxy Buds 2 Pro](https://www.amazon.com/SAMSUNG-Bluetooth-Cancelling-Conversation-Resistant/dp/B0B2SFVRC2?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
 ![The inside angle of the left Galaxy Buds2 Pro bud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-buds-2-pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
 | Pros                                           | Cons                                           |
@@ -271,13 +312,19 @@ Hannah Stryker / How-To Geek
 ![Samsung Galaxy Buds2 Pro 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/samsung-galaxy-buds2-pro-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Best Wireless Earbuds for Android
 
 #####  Samsung Galaxy Buds 2 Pro
@@ -288,17 +335,21 @@ Most Samsung Galaxy S24 owners will be very happy with the Galaxy Buds2 Pro. The
 
 [$140 at Amazon](https://www.amazon.com/SAMSUNG-Bluetooth-Cancelling-Conversation-Resistant/dp/B0B2SFVRC2?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung__galaxy_buds%2F6510542.p%3FskuId%3D6510542) [See at Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmobile%2Faudio%2Fheadphones%2Fgalaxy-buds2-pro-white-sm-r510nzwaxar%2F) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ##  Best Wireless Earbuds for Workouts: [Jabra Elite 8 Active](https://www.amazon.com/Jabra-Elite-Active-Comfortable-Cancellation/dp/B0CB9563MB/?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
 ![Jabra Elite 8 Active in blue showing the ear tip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/jabra-elite-8-active-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -321,14 +372,8 @@ Tyler Hayes / How-To Geek
 
 ![Jabra Elite 8 Active](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/jabra-elite-8-active.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Wireless Earbuds for Workouts
 
 #####  Jabra Elite 8 Active
@@ -339,12 +384,21 @@ The Jabra Elite 8 Active can handle anything you throw at them, with IP68 dust a
 
 [$150 at Amazon](https://www.amazon.com/Jabra-Elite-Active-Comfortable-Cancellation/dp/B0CB9563MB/?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Noise Cancelling Wireless Earbuds: [Sony WF-1000XM5](https://www.amazon.com/Sony-WF-1000XM5-Bluetooth-Canceling-Headphones/dp/B0C33XXS56?tag=hotoge-20&ascsubtag=UUhtgUeUpU207726&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772140%2Fbest-wireless-earbuds%2F&asc%5Fcampaign=Commerce) 
 
 ![Sony WF-1000XM5 earbuds inside and out of its charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sony-wf-1000xm5-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -369,6 +423,12 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Noise Cancelling Wireless Earbuds
 
 #####  Sony WF-1000XM5
