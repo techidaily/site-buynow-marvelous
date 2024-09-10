@@ -1,7 +1,7 @@
 ---
 title: "Prime Day's Finest: Hunt Down the Ultimate Apple Bargains!"
-date: 2024-08-09T00:43:36.844Z
-updated: 2024-08-10T00:43:36.844Z
+date: 2024-09-09T07:02:22.875Z
+updated: 2024-09-10T07:02:22.875Z
 categories:
   - BestProducts
 description: "This Article Describes Prime Day's Finest: Hunt Down the Ultimate Apple Bargains!"
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/Hagf4IpRh30OapEN21WY2crMw1g=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Emily Isaacs
 
  What We Like
@@ -42,10 +48,6 @@ Lifewire / Emily Isaacs
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Kinesis Freestyle2 Blue
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
@@ -74,11 +76,10 @@ Lifewire / Emily Isaacs
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design and Features: Freestyle2 breaks the mold**
 
@@ -86,6 +87,18 @@ No advertising on the website.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac breaks free of these norms by using a split, modular design that features two keyboard halves, one for each hand, connected via a 9 or 20-inch cable depending upon the chosen model. These pieces were designed with comfort in mind. They may be used separately or connected with a pivot tether at the top of the two halves. This allows you the opportunity to customize your setup and maximize your comfort, whether that’s by placing the halves closer together or further apart.
@@ -96,23 +109,28 @@ No advertising on the website.
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## **Features: Efficient hotkeys once you get used to them**
 
  Better than its modular design are the easy-to-use hotkeys on the left-hand side of the keyboard. These make it simple to copy, paste, cut, go back or forward in a browser, or even switch between the keyboard’s connected devices smoothly and efficiently. They take a little getting used to but once you get the hang of it using them is a breeze.
@@ -121,28 +139,36 @@ No advertising on the website.
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Excellent for the features**
 
  Full-size ergonomic keyboards tend to retail anywhere from $50 to $200, depending on the features involved. Generally retailing for about $100 on Amazon, the Freestyle2 sits comfortably at the front of this curve. While $100 may seem expensive for a keyboard, consider the features involved. Its travel-friendly build, adjustable setup options, extended battery life, and ability to switch quickly and smoothly between multiple connected devices make it an excellent choice for the features.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
  Not all keyboards are created equal, and while the split, modular design offered by the Kinesis Freestyle2 Blue creates wonderful customization options, there’s something to be said for having a full keyboard. For Apple users willing to take a leap into Microsoft products, the Microsoft Sculpt Ergonomic Keyboard shines through as an excellent option.
@@ -161,9 +187,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Freestyle2 Blue
@@ -195,3 +218,45 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-gpu-narrative-radeons-recent-revolution/"><u>[New] 2024 Approved GPU Narrative Radeon's Recent Revolution</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essential-manual-for-youtube-to-gif-conversion-online/"><u>[New] 2024 Approved The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-captivating-snaps-with-snapchats-colorful-cartoon-lens/"><u>[New] Captivating Snaps with Snapchat’s Colorful Cartoon Lens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dissecting-deceptive-accounts-in-your-ad-audience/"><u>[New] Dissecting Deceptive Accounts in Your Ad Audience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ips-for-seamlessly-adding-youtube-to-your-gslides-deck/"><u>[New] Tips for Seamlessly Adding YouTube to Your GSlides Deck</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-6-devices-for-flawless-film-translation/"><u>[New] Ultimate 6 Devices for Flawless Film Translation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-assembling-a-youtube-music-playlist/"><u>[Updated] 2024 Approved The Art of Assembling a YouTube Music Playlist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-new-potentials-with-macos-11-big-sur/"><u>2024 Approved Unlocking New Potentials with macOS 11 Big Sur</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722877208183-apples-latest-mystery-in-depth-rumors-on-design-specs-and-when-you-can-get-your-hands-on-the-apple-ring/"><u>Apple's Latest Mystery: In-Depth Rumors on Design, Specs, and When You Can Get Your Hands On The Apple Ring</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/create-eerie-concoctions-with-our-awkward-potion-recipe-for-minecraft-players/"><u>Create Eerie Concoctions with Our Awkward Potion Recipe for Minecraft Players</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expand-your-minecraft-experience-with-innovative-add-ons-not-just-your-typical-mods/"><u>Expand Your Minecraft Experience with Innovative Add-Ons - Not Just Your Typical Mods!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-quality-in-modern-pc-gaming-even-with-launcher-setup-challenges/"><u>Experience Unmatched Quality in Modern PC Gaming, Even with Launcher Setup Challenges</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-reasons-for-delaying-anticipation-the-case-against-ps6-before-2027/"><u>Exploring Reasons for Delaying Anticipation: The Case Against PS6 Before 2027</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-possibility-is-4k-streaming-through-ota-channels-a-reality-or-myth/"><u>Exploring the Possibility: Is 4K Streaming Through OTA Channels a Reality or Myth?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-streaming-to-shiny-discs-embracing-the-resurgence-of-compact-disc-listening/"><u>From Streaming to Shiny Discs: Embracing the Resurgence of Compact Disc Listening</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gaming-sounds-better-with-speakers-a-deep-dive-into-my-preference/"><u>Gaming Sounds Better with Speakers: A Deep Dive Into My Preference</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-film-enthusiasts-maintain-the-love-for-tangible-media-amidst-digital-streaming-surge/"><u>How Film Enthusiasts Maintain the Love for Tangible Media Amidst Digital Streaming Surge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-learning-soldering-proved-surprisingly-practical-and-valuable/"><u>How Learning Soldering Proved Surprisingly Practical and Valuable</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-fold-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Fold Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g13-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G13 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-your-headline-for-job-searches/"><u>In 2024, Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-travel-through-time-on-instagram-the-reverse-video-guide/"><u>In 2024, Travel Through Time on Instagram The Reverse Video Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-8k-resolution-a-future-possibility-for-playstation-5-and-xbox-series-x-consoles/"><u>Is 8K Resolution a Future Possibility for PlayStation 5 and Xbox Series X Consoles?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-spotify-premiums-pricing-justified-examining-its-essential-7-attributes/"><u>Is Spotify Premium's Pricing Justified? Examining Its Essential 7 Attributes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/loss-of-content-how-fubotvs-removal-of-19-discovery-channels-affects-viewers/"><u>Loss of Content: How FuboTV's Removal of 19 Discovery Channels Affects Viewers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-gaming-essential-advice-after-purchasing-a-steam-deck/"><u>Maximize Your Gaming: Essential Advice After Purchasing a Steam Deck</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meta-quest-2-endures-at-unchanged-price-of-199/"><u>Meta Quest 2 Endures At Unchanged Price of $199</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/my-journey-into-3d-photography-printing-a-step-by-step-guide/"><u>My Journey Into 3D Photography Printing - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-update-in-vlc-player-access-to-premium-content-via-supportive-advertising/"><u>New Update in VLC Player - Access to Premium Content Via Supportive Advertising</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/precision-playbacks-mastering-4-methods-of-recording-on-xbox/"><u>Precision Playbacks Mastering 4 Methods of Recording on Xbox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-my-streaming-joy-returning-to-hulu-with-disneypluss-integration/"><u>Rediscovering My Streaming Joy: Returning to Hulu with Disney+'s Integration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/remembering-the-sweet-days-of-dial-up-the-surprising-aspects-we-wont-admit-to-missing/"><u>Remembering the Sweet Days of Dial-Up: The Surprising Aspects We Won't Admit to Missing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-razer-firefly-v2-pro-elevate-your-gameplay-with-high-quality-led-illuminated-gaming-mouse-pad/"><u>Review of Razer Firefly V2 Pro: Elevate Your Gameplay with High-Quality LED-Illuminated Gaming Mouse Pad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviving-fmv-games-uncover-a-selection-of-iconic-vintage-and-contemporary-hits/"><u>Reviving FMV Games: Uncover a Selection of Iconic Vintage & Contemporary Hits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-security-breach-over-15k-users-compromised-by-password-recycling/"><u>Roku Security Breach: Over 15K Users Compromised by Password Recycling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-companion-tp-links-all-in-one-portable-wifi-hub/"><u>The Ultimate Travel Companion: TP-Link's All-in-One Portable WiFi Hub</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-correcting-ntfs-file-system-errors-in-windows-10-best-practices-covered/"><u>Troubleshooting & Correcting NTFS File System Errors in Windows 10 – Best Practices Covered</u></a></li>
+</ul></div>

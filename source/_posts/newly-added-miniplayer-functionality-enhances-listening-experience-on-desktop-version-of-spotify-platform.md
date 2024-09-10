@@ -1,7 +1,7 @@
 ---
 title: Newly Added Miniplayer Functionality Enhances Listening Experience on Desktop Version of Spotify Platform
-date: 2024-09-04T20:11:25.632Z
-updated: 2024-09-05T20:11:25.632Z
+date: 2024-09-09T07:03:37.371Z
+updated: 2024-09-10T07:03:37.371Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-hero-1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Newly Added Miniplayer Functionality Enhances Listening Experience on Desktop Version of Spotify Platform
 
 It's long overdue, but Spotify now offers a miniplayer for desktop users. The resizeable miniplayer floats over other applications on your desktop, providing music and podcast controls without distracting you from other tasks. You can even watch podcast videos in the miniplayer!
@@ -85,16 +91,3 @@ Close
 <li><a href="https://buynow-marvelous.techidaily.com/unveiling-vive-cosmos-potential-quality-virtual-reality-gear-in-a-tough-market/"><u>Unveiling Vive Cosmos' Potential: Quality Virtual Reality Gear in a Tough Market</u></a></li>
 <li><a href="https://buynow-marvelous.techidaily.com/why-audible-trials-are-a-sound-investment-for-book-lovers/"><u>Why Audible Trials Are a Sound Investment for Book Lovers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

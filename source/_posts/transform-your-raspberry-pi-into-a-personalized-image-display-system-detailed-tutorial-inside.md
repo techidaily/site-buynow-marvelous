@@ -1,7 +1,7 @@
 ---
 title: Transform Your Raspberry Pi Into a Personalized Image Display System - Detailed Tutorial Inside
-date: 2024-09-04T20:02:25.760Z
-updated: 2024-09-05T20:02:25.760Z
+date: 2024-09-09T07:03:38.466Z
+updated: 2024-09-10T07:03:38.466Z
 tags:
   - games
   - tv
@@ -13,6 +13,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Transform Your Raspberry Pi Into a Personalized Image Display System - Detailed Tutorial Inside
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Build Your Own Slideshow Machine](https://tech-haven.techidaily.com/unlocking-new-possibilities-on-your-iphone-by-using-chatgpt-alongside-siri/)
@@ -23,6 +29,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unlock the joy of DIY electronics and showcase your favorite photos by crafting your own slideshow machine with a Raspberry Pi. Creating your own digital photo frame is cheaper than retail options and doesn't require uploading personal photos to a cloud storage service.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Build Your Own Slideshow Machine
 
  By building your slideshow machine (digital photo frame), you'll learn new skills and save money compared to buying pre-made products. Not only is the hardware most likely cheaper, but there are no subscription fees for storing photos in a cloud service. Speaking of: the DIY version is also great for privacy, as you can keep all the photos stored locally.
@@ -30,36 +48,42 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the practical reasons aren't enough, you'll also get the satisfaction of creating a personalized device that does exactly what you want it to do. Building a slideshow machine with a Raspberry Pi is a rewarding DIY project, and we'll show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Choosing the Right Tools
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Selecting the Perfect Raspberry Pi Model
 
  The most important part of this project is [choosing the right Raspberry Pi](https://extra-hints.techidaily.com/top-10-guidelines-for-breaking-through-cover-art/). For this project, the Raspberry Pi 4 Model B is a great choice, as it is a powerful device at an affordable price. However, if you can't get your hands on an RPi 4, a Raspberry Pi 3 Model B+ will work well for slideshows, though you'll lose some power and performance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Some Sort of Display or Projector
 
  Next, you'll need something to display the photos on. Depending on your situation, you could go for a projector or a display. A [small 10-inch monitor](https://www.amazon.com/Monitor-Raspberry-Speakers-Display-Computer/dp/B0CR2YY37K/ref=sr%5F1%5F4?crid=ZH9VD71QTRD&dib=eyJ2IjoiMSJ9.OG2RHNsy3Fo5zvkK9nMW3pdAUDeDpGC9wilwEUmEHlRBJWJGUeEbu6rnu5twP7VnxAusRJ14lny7G7qx-dYTsYApxGVThaKFcsJW-S-MBP4H%5FxNaro5l7isc5mWiiGWD-NJhIXp5scdtfS%5FHpH5TQqT9DawyNnPOp3ePauF-yO5Zptdcebtc-IoqE2U6PE1ZOBbYaCA69quovnmiWxiP1dJg%5FSxz6OekxdvDtgBLROM.VTKtB6vO4vDX6HpNogfLSZIcPmKPz6dIvNB6gfWJGN0&dib%5Ftag=se&keywords=10%2Binch%2Bmonitor&qid=1717098172&sprefix=10%2Binch%2B%2Caps%2C97&sr=8-4&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003208&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-turned-a-raspberry-pi-into-a-private-slideshow-machine-heres-how%2F&asc%5Fcampaign=Evergreen) would be a great choice if you're trying to create your own digital photo frame. There are also plenty of [affordable projectors](https://www.amazon.com/Projector-Video-Projector-Multimedia-Compatible-Smartphone/dp/B07MTCMHZX/ref=sr%5F1%5F6?crid=3E28BOUMDSHP4&dib=eyJ2IjoiMSJ9.gyotn6s9zDatEztLHmbFN1HOX3zuiMlCrEbcYnAJTJUZK53qV9wlM%5FlnFprinkxrt9o4QoJ33sCvUDihngwOzN%5FksWGMLfSUFdB6QaRBM9c0qPG%5Fv1eZAdsSFUrxEzGMhuGZRrE9WGI6r1opgwfKBL4gDJVX8%5FLuueu-7aCxKU8J4atonAzCUmEIyjgw%5FGMLOIhLIjlx3F8GZqAwxTl7-6QOyULDH1W70fNGql4rcfg.2QzQDxeLafbtufVavgkcsVeaMOYH3EwBs8G2XYCI9TU&dib%5Ftag=se&keywords=projector&qid=1717098219&sprefix=projector%2Caps%2C104&sr=8-6&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003208&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-turned-a-raspberry-pi-into-a-private-slideshow-machine-heres-how%2F&asc%5Fcampaign=Evergreen) to choose from if you want to display photos for a party.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Essential Software to Get Started
 
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Building Your Slideshow Machine
 
@@ -205,24 +229,12 @@ sudo sh ~/lightdm-changer.sh
 
  Once the script restarts the login screen (LightDM), you'll be logged out. From here, select "Slideshow" from the session menu and log in. When you log in, your slideshow will commence.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Customizing Your Slideshow
 
  The slideshow script looks for images inside the "Pictures" folder on the Pi. To load up images, simply play JPGs and PNGs directly into "Pictures."
 
 ![The location of picture files for the slideshow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-pictures-in-file-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you wish to customize your slideshow, start by opening up the script that handles the slideshow on your Pi.
 
 sudo nano /usr/share/xsessions/start-slideshow.sh
@@ -231,18 +243,6 @@ sudo nano /usr/share/xsessions/start-slideshow.sh
 
 ![The Pi slideshow is in motion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-in-motion.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To disable randomization, find the command below in the script:
 
 feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Pictures/

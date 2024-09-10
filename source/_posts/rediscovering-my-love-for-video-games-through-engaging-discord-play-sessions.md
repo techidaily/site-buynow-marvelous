@@ -1,7 +1,7 @@
 ---
 title: Rediscovering My Love for Video Games Through Engaging Discord Play Sessions
-date: 2024-09-04T20:02:14.358Z
-updated: 2024-09-05T20:02:14.358Z
+date: 2024-09-09T07:03:38.303Z
+updated: 2024-09-10T07:03:38.303Z
 tags:
   - games
   - tv
@@ -11,8 +11,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-hand-holding-a-smartphone-with-the-discord-logo-on-the-screen-and-in-the-background-screens-with-discord-games.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Rediscovering My Love for Video Games Through Engaging Discord Play Sessions
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Yes, Discord Has Games](https://fox-blue.techidaily.com/new-2024-approved-revamping-your-mobile-melodies-an-expert-iphone-ringtone-guide/)
@@ -21,21 +33,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Want a casual game that you can play while you chat with your friends? Love classical tabletop or board games and are tired of debating which games you and your friends are going to play? Discord has you covered. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Yes, Discord Has Games
 
  Discord, the ever-popular [voice chat and messaging app favored by gamers](https://extra-lessons.techidaily.com/best-of-the-best-ultimate-list-of-gopro-casings-for-2024/), also has its own games. They’re integrated directly into the client itself—no extra software required. All you need to do is join a voice channel and click the rocket ship icon. It’ll say “Start an Activity” when you hover over it. Alternatively, you can click "Choose an Activity."
 
 ![Click the rocket ship icon or click 'Choose an Activity'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/click-1-of-hte-three-options.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From there, just pick a game. If you want to join an ongoing activity or game, click the voice channel name, then click “Join Activity.”
 
  They're free, can be [run on a potato](https://tiktok-videos.techidaily.com/transform-your-tiktok-avatar-instruction-manual-for-change/), and don't need to be downloaded. That means almost any of your friends will be able to play—the games even work on your phone. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Discord Games Let You Socialize
 
@@ -47,36 +77,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Skyrim giant about the smush the player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240506212557_1.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Discord games solve those problems. Most of them are very similar to conventional board games, like Scrabble, Texas Hold Em’, or Chess. We’re able to sit down and have a real conversation. Discord's games are just entertaining enough to "Give us something to do" without being so distracting that we can't actually focus on the conversation.
 
 ![Letter League on Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/letter-league.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It comes with all the joys of "old fashioned" tabletop games, like arguments about whether limeade is better than lemonade (limeade is better), or whether water is wet or not. There is just something nice about the kind of casual banter that happens when you aren't too distracted by a game. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Games Does Discord Have?
 
  Discord has 20 games at the time of writing. They're typically inspired by classic games you're probably familiar with:

@@ -1,7 +1,7 @@
 ---
 title: "Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive"
-date: 2024-09-04T20:02:16.822Z
-updated: 2024-09-05T20:02:16.822Z
+date: 2024-09-09T07:03:38.341Z
+updated: 2024-09-10T07:03:38.341Z
 tags:
   - games
   - tv
@@ -11,8 +11,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7b5406862c612e4d87ad3713.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Highlights
 
 * Keypads that connect to gaming controllers have a clever design but impede on grip and sacrifice controller comfort.
@@ -21,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  As the range of games available on consoles expands to include genres previously exclusive to PC, many couch gamers are seeking to add a Bluetooth keyboard to their arsenal. One popular option is a keypad that plugs into the bottom of your controller, but are these gadgets as nifty as they appear?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Controllers Weren't Designed with Keypads In Mind
 
  For the past two months, I’ve been using one of these keypads: the [MoKo Keyboard for PS5 controllers](https://www.amazon.com/MoKo-Controller-Backlight-Playstation-Accessories/dp/B0BMKTNKNS/ref=sr%5F1%5F3?crid=2APOSQFJEH4VP&dib=eyJ2IjoiMSJ9.Sfef8D7Q9tOqt-sKBOaHmwtnSh4OO7BUl2oNLmBW5Qbblm8qBYmpCnMpBcAPvFIRJHJyMqemyVvG2%5F44hEdthApdtQL%5FOtuWiLLO1SbYFR97ZxpebDnGIBk8h2EFpXxSVJp2XGded10f5Qx6p7TcUIdMYJcDD4DF7UsT77Co6791MbnPVyFIoCsXCfae2CA7-J9kwJAIwc2Q0-xSRBbSFpk4PIKfwpxegAlbXLUiPmw.jDI0mEqr0f1gl8CrJP0b9ne%5FViVjkdvjFAiT6nMSyys&dib%5Ftag=se&keywords=ps5+controller+keyboard&qid=1718389982&sprefix=ps5+controllerkeybo%2Caps%2C88&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003653&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-tested-a-mini-controller-keyboard-so-you-dont-have-to%2F&asc%5Fcampaign=Evergreen), which Amazon lists as its “Overall Pick” among many near-identical offerings. The add-on is clever in concept and aesthetic, filling the gap between grips with an easy-to-access keyboard.
@@ -40,10 +58,10 @@ Tim Rattray / How-To Geek
  It didn’t need to be this way. The DualSense’s speaker is located below its touchpad and therefore isn’t obfuscated by this device. While this won’t seem like an important flaw to many gamers, it makes the keypad feel distractingly cheap every time sounds are played (something common for _Final Fantasy XIV_, the most popular game that benefits from a Bluetooth keyboard).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Not Entirely Useless
 
@@ -54,10 +72,16 @@ Tim Rattray / How-To Geek
 ![Bottom of a clip-on controller keypad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6259.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Rattray / How-To Geek
 
@@ -66,10 +90,10 @@ Tim Rattray / How-To Geek
  Lastly, it’s neat that the keys light up in case you’re gaming in the dark, something applicable to me as I game on [an OLED television](https://youtube-webster.techidaily.com/-views-via-strategic-tagging-tactics/) so the darker the room the better.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Stick to Standard Bluetooth Keyboards
 

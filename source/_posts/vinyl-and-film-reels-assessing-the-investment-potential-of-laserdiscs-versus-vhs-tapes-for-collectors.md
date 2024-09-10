@@ -1,7 +1,7 @@
 ---
 title: "Vinyl and Film Reels: Assessing the Investment Potential of LaserDiscs Versus VHS Tapes for Collectors"
-date: 2024-09-04T20:02:37.720Z
-updated: 2024-09-05T20:02:37.720Z
+date: 2024-09-09T07:03:38.619Z
+updated: 2024-09-10T07:03:38.619Z
 tags:
   - games
   - tv
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 ## Vinyl and Film Reels: Assessing the Investment Potential of LaserDiscs Versus VHS Tapes for Collectors
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Quality and Format Differences](https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/)
@@ -29,21 +35,15 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  LaserDisc is a higher quality format than VHS, period. LaserDisc offered almost twice as many horizontal lines of detail than VHS, so there really is no comparison. However, with LaserDisc you'll have to flip the disc over partway through most films. Like me, you probably have rose-tinted memories of what VHS looked like, but if you head to YouTube and look at digitized VHS recordings, you'll soon realize we could barely see what was going on. While LDs are still short of DVDs in quality, on the right equipment it can still look great.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Longevity and Durability
 
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
 
@@ -56,52 +56,46 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
  One thing I do worry about is the longevity of the actual players, since LDs will eventually break down when the lasers don't work anymore, and VHS players are mechanically complex and were unreliable even when new. Well, at least the mainstream models my family could afford were. Whether there will be any way to play these media decades from now is debatable.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Rarity and Availability
 
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Packaging and Artwork
 
 ![A NIghtmare Before Christmas Laserdisc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-nightmare-before-christmas-laserdisc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Erman Gunes / Shutterstock.com](https://www.shutterstock.com/image-photo/ankara-turkey-january-19-2023-old-2251853805)
 
  The truth about vinyl records is that the perceived "quality" advantage it has over digital music [doesn't have a basis in reality](https://www.youtube.com/watch?v=lzRvSWPZQYk), but I feel many people collect them because the shape and size of vinyl records lends itself to amazing packaging and artwork. Similarly, there's just no comparison to how beautiful LDs can be as objects, even if you never play them. From this perspective, they are highly collectible.
 
  VHS tapes, on the other hand, are ugly and spartan. Of course, that's just my opinion, but in this category I just find no merit to them at all.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Cost
 
  Oddly enough, as I was looking for prices on both VHS players and LD players, it seems that things more or less even out. As for the prices of the media, LDs seem quite a bit more expensive. However, I'd hazard to say that if the LD is in good condition it's probably worth the additional asking price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Cultural and Historical Significance
 
@@ -111,6 +105,12 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  There's no winner here, other than LD being the better option for preservation if no newer media of that content exists.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Community and Fandom
 
  You'd think that LaserDisc would have a more intense fandom, but as a crude metric, consider that [r/VHS](https://www.reddit.com/r/VHS/) has over 60K members, while [r/LaserDisc](https://www.reddit.com/r/LaserDisc/) has a hair under 10K members. There are, of course, forums and groups dedicated to both media all over the web, but the size of the VHS community did surprise me a little.

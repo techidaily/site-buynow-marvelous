@@ -1,7 +1,7 @@
 ---
 title: "Understanding My Preference: Why I Refrain From Modifying Game Difficulty Prior to Play"
-date: 2024-09-04T20:02:27.048Z
-updated: 2024-09-05T20:02:27.048Z
+date: 2024-09-09T07:03:38.484Z
+updated: 2024-09-10T07:03:38.484Z
 tags:
   - games
   - tv
@@ -11,8 +11,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding My Preference: Why I Refrain From Modifying Game Difficulty Prior to Play
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Normal difficulty is usually the intended experience designed by developers for balanced gameplay.
@@ -21,25 +33,31 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  The challenge of video games is a huge part of the appeal, but there are some players who only consider the hardest difficulty level even worth their time. That's definitely not me, and in fact, I'd go as far as saying that starting your games on "hard" might make gaming less enjoyable overall. Here's why I play on the default difficulty setting when starting a new game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Normal Is (Normally) the Intended Experience
 
  Games are built around a specific balanced difficulty level. In other words, most of the time, the "normal" difficulty level is what the [whole game is designed around](https://location-social.techidaily.com/in-2024-does-honor-90-gt-have-find-my-friends-drfone-by-drfone-virtual-android/). Often, in the difficulty settings, the game will outright say something like "the intended experience" or something to that effect. Perhaps the most notable exception are some games such as Halo 4, where the "Heroic" difficulty level is how the game was intended. By not experiencing the game on normal difficulty, I feel like I'm not really in a position to judge the game and whether it's well-balanced or fun.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can’t Predict the Difficulty Curve
 
  All games have a difficulty curve, which teaches you the game, and then ramps up the difficulty as you progress. So, if you're a [veteran gamer](https://screen-mirror.techidaily.com/a-guide-realme-c53-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/), chances are "normal" will feel far too easy at the outset. However, you don't know how hard the game will be at the end. If the game is initially at a challenging level for you on hard mode, then it's likely to become too hard as you progress along the curve. So you shouldn't judge the challenge of a game too soon, or assume you have to start on a hard mode to get the right level of challenge for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Modern Games Let You Change Difficulty on the Fly
 
@@ -48,20 +66,20 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Of course, you could make the same argument about starting on hard and then toning it down later, which is fair, but I think psychologically it feels better to turn things up later, rather than hit a brick wall and have to move things back down to normal again with your tail between your legs.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Plenty of Developers Don’t Know How to Increase Difficulty
 
  One of the biggest reasons by far I rarely start games on higher difficulty levels, is that few developers seem to know how to scale difficulty properly. For many games, increased difficulty levels simply mean that enemies become bullet sponges, or there are just more of them, or your character is nerfed in some way. That's not a true increase in difficulty. Games that introduce new varieties of enemies, make enemies smarter, or introduce new mechanics that increase the challenge are worth exploring harder levels for, but those that just give you a sort of "normal+" mode are rarely more fun to play.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Harder Difficulties Are More Fun in Future Playthroughs
 

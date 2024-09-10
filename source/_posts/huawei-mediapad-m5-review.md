@@ -1,7 +1,7 @@
 ---
 title: Huawei MediaPad M5 Review
-date: 2024-09-04T20:11:16.630Z
-updated: 2024-09-05T20:11:16.630Z
+date: 2024-09-09T07:03:28.785Z
+updated: 2024-09-10T07:03:28.785Z
 categories:
   - BestProducts
 description: This Article Describes Huawei MediaPad M5 Review
@@ -13,6 +13,18 @@ thumbnail: https://www.lifewire.com/thmb/CVT_-DqC-CCcWUC0wkIrzlX6Heo=/400x300/fi
 
 4.7
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Wi-Fi
 
 ![Google Wifi](https://www.lifewire.com/thmb/4K2wVNigAa4JDeUzs8KCYZW_A4Q=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4139748-5-5c91046146e0fb0001f8d0fa.jpg)
@@ -41,6 +53,12 @@ Lifewire / Rui Yang
 
 ![Google Wifi](https://www.lifewire.com/thmb/1JG-edlMJWoUUvDsH0-3Y-yiDAY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4139748-5-5c91046146e0fb0001f8d0fa.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Rui Yang
 
 [View On Amazon $140](https://www.amazon.com/Google-Wifi-system-set-replacement/dp/B01MAW2294/ref=sr%5F1%5F1%5Fsspa?psc=1%2F&tag=lifewire-onsite-prod-20&ascsubtag=4589445%7Cn93fab60e589d4935aa0f1658838638d208%7CB01MAW2294) [View On Walmart $140](https://www.walmart.com/ip/Google-Wifi-3-Pack/157933144)
@@ -74,10 +92,10 @@ Lifewire / Rui Yang
  The Google Wifi might just be one of the best wireless routers on the market, and it’s hard to think of someone we wouldn’t recommend it to.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup: Quick and easy**
 
@@ -90,19 +108,13 @@ Lifewire / Rui Yang
 ![Google Wifi](https://www.lifewire.com/thmb/qytl4iFlphzC_PEngQcnmNQ08nU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4139748-3-5c91043c46e0fb0001770142.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Rui Yang
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Network admin for everyone**
 
  One thing that typically holds people back from really taking control over their networks is software. Having to dig through_ipconfig_ to find your network gateway, typing that into your web browser, then having to deal with the complicated backend isn’t our idea of a good time. But, that’s why the Google Wifi app is so noteworthy.
@@ -117,19 +129,13 @@ Lifewire / Rui Yang
 
 ![Google Wifi](https://www.lifewire.com/thmb/9S7E-N_VashUpOWO5ZRp4ig5Fmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4139748-1-5c9104a7c9e77c0001e11e05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rui Yang
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Connectivity: Limited, but modern**
 
@@ -141,6 +147,12 @@ Lifewire / Rui Yang
 
  For instance, if you have several Google Wifi points set up throughout your home, you can walk around your house watching a YouTube video on your iPad, and Google Wifi will automatically shift to provide a wireless signal from whichever node is closest. You’ll never be interrupted and you don’t need to do anything manually, everything happens automatically behind the scenes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Network performance: Unrivaled reliability**
 
  We’ve been using the Google Wifi for about six months at the time of this writing, and we’re not exaggerating when we say we haven’t run into a single problem with dropped connections or slowdown in our time using this router. There were a couple of times a single node went down, but thanks to the color-coded LEDs, we were able to tell right away. And, that’s basically the crux of what the Google Wifi provides: unrivaled reliability.
@@ -156,10 +168,10 @@ Lifewire / Rui Yang
  Google Wifi doesn’t support MU-MIMO, (or Multi-user, multiple input, multiple output,) but due to the nature of the mesh network, it almost doesn’t matter. Unless you’re doing heavy networking over a wireless connection, Google Wifi is going to be more than fast enough for everyday workloads. Which is all we can ask for in a router marketed to the average user.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Ahead of the curve**
 
@@ -167,6 +179,12 @@ Lifewire / Rui Yang
 
  Compared to most other mesh routers, Google Wifi provides tons of performance and more individual nodes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Google Wifi vs. Netgear Orbi**
 
  The Google Wifi doesn’t exist in a vacuum, and the Netgear Orbi may be the closest to claiming Google’s crown over the mesh Wi-Fi kingdom. The Netgear Orbi comes with one router and one satellite, as opposed to the Google Wifi’s three nodes, and will set you back about $320.

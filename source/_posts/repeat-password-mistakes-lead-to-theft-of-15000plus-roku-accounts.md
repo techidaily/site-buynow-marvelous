@@ -1,7 +1,7 @@
 ---
 title: Repeat Password Mistakes Lead to Theft of 15,000+ Roku Accounts
-date: 2024-09-04T20:11:25.718Z
-updated: 2024-09-05T20:11:25.718Z
+date: 2024-09-09T07:03:37.454Z
+updated: 2024-09-10T07:03:37.454Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/18.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Repeat Password Mistakes Lead to Theft of 15,000+ Roku Accounts
 
 In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%203-8-2024.pdf), Roku says that hackers hijacked over 15,000 user accounts and utilized customers' saved credit card information. However, Roku's security was not compromised in this breach. This is a case of customers reusing old passwords.
@@ -105,16 +111,3 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
 <li><a href="https://buynow-marvelous.techidaily.com/which-reigns-supreme-evaluating-the-pros-and-cons-of-apple-tv-4k-versus-roku-ultra/"><u>Which Reigns Supreme? Evaluating the Pros and Cons of Apple TV 4K Versus Roku Ultra</u></a></li>
 <li><a href="https://buynow-marvelous.techidaily.com/yokus-island-adventure-exploring-the-surprising-twists-of-an-epic-journey/"><u>Yoku's Island Adventure: Exploring the Surprising Twists of an Epic Journey</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

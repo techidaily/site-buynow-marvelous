@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model"
-date: 2024-09-04T20:11:25.374Z
-updated: 2024-09-05T20:11:25.374Z
+date: 2024-09-09T07:03:37.140Z
+updated: 2024-09-10T07:03:37.140Z
 tags:
   - games
   - tv
@@ -11,16 +11,34 @@ categories:
 thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2ff78bc2a59c4da0244a5a39.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model
 
 I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, but never got around to it. Now that I have a 3D printer, I wondered how much of these craft I can just make myself, and it turns out pretty much the whole thing!
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3D Printing Is Revolutionizing the RC World
 
  Serious RC aircraft people have always made their own planes, but they would carve the models by hand from light wood types or from blocks of foam. To be sure, people still do that today, but the introduction of 3D printers has opened a whole new avenue for enthusiasts to make their own craft. It also makes it easier to modify commercial RC craft, or to replace parts that may no longer be available.
 
  You don't have to be a canny CAD user either, since many talented tinkerers will simply make their 3D printing files available online for free, or for a fee. All you have to do is print the parts out, add additional components such as the motors, speed controllers, etc., and then glue them all together. If all goes well you should be soaring through the sky in no time, or at least having a "fun" time crashing without knowing why.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Printable Gliders
 
  There are two types of gliders in question here. There's the traditional RC glider, which either has no motor, or only uses its motor to get up to altitude, but from there it shuts off and glides while under remote control. Printing a glider is at least as complex as a printing an RC plane, it's just the design aspects that differ. Of course, gliders have much longer wings than regular planes, so that may add additional complexity in how many wing sections you'll print and assemble, but otherwise it's just a special type of RC plane.
@@ -29,12 +47,6 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 
  This is where I personally want to start my 3D-printed aircraft adventures, because I want to get a feel for printing the fuselages of planes, and seeing how it all works before adding control surfaces and such. There are awesome popular glider designs like the [Stable Flyer VI](https://www.printables.com/model/408967-stable-flyer-vi-small-toy-glider) and the [Super Stratos](https://www.thingiverse.com/thing:97803/files) which you can print in no time at all. Many of these are print-in-place and don't need assembly either.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Printable Planes
 
  When it comes to proper RC planes, it seems the options are also endless. You can definitely go find some free model files, print it out, add your own electronics, and have a flying machine for not much money. However, there are also professional outfits that sell kits which include 3D printer files, and detailed manuals on how to put the whole thing together, as well as which parts you need. At 3D Lab Print, for example, you can buy [RC plane plans](https://3dlabprint.com/product-category/printable-airplanes/) and some of these kits also include the correct filament you'll need to complete the build.
@@ -44,10 +56,10 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  CNC Kitchen has this great video of how they printed and built a plane using 3D Print Labs, so you can check out the whole process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Printing My First Glider
 
@@ -56,16 +68,16 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 ![A yellow 3D printed glider inside a 3D Printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-inside-a-3d-printer.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 
@@ -74,10 +86,10 @@ Sydney Louw Butler / How-To Geek
 ![A yellow 3D printed glider held in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-held-in-a-person-s-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 

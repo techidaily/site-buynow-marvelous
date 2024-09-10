@@ -1,7 +1,7 @@
 ---
 title: Leading Innovative Smart Showers on the Market
-date: 2024-09-04T20:11:20.297Z
-updated: 2024-09-05T20:11:20.297Z
+date: 2024-09-09T07:03:32.224Z
+updated: 2024-09-10T07:03:32.224Z
 tags:
   - buying-guides
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52607457179_619dcceceb_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leading Innovative Smart Showers on the Market
 
 ###### [Read update](https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-spark-10c-device-sim-by-drfone-android/) 
@@ -17,6 +23,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Showering is an essential everyday act in polite society. A good shower can invigorate us when we wake up and provide a great way to relax at the end of a long day. So why not add a bit of luxury to your shower time by investing in a smart shower?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  UPDATE: 01/31/2024
 
  We've reviewed our recommendations and these are still the best smart showers you can buy.
@@ -24,11 +36,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [](https://www.amazon.com/dp/B01MY07CZG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/31jlrat8mal-_sl160_.jpg)  
 #####  Moen TS3302TB Smart Shower 2-Outlet Digital Shower Controller  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Smart Shower Overall  
 [See at amazon](https://www.amazon.com/dp/B01MY07CZG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/hai-Installation-Charcoal-2-5-GPM/dp/B0BKK5LMPP?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41fcwjjaetl-_sl160_.jpg)  
 #####  Hai Smart Shower Head  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Smart Shower for Tracking Water Usage  
 [See at amazon](https://www.amazon.com/hai-Installation-Charcoal-2-5-GPM/dp/B0BKK5LMPP?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
@@ -39,6 +63,18 @@ Best Smart Shower Complete Kit
 * [](https://www.amazon.com/Showerhead-Bluetooth-Rechargeable-Portable-K-28238-GKA-CP/dp/B08SHKWB3Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41nt9ms-cdl-_sl160_.jpg)  
 #####  KOHLER Moxie Alexa Enabled Showerhead  
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Smart Shower for Alexa  
 [See at amazon](https://www.amazon.com/Showerhead-Bluetooth-Rechargeable-Portable-K-28238-GKA-CP/dp/B08SHKWB3Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/GROHE-29137000-Grohtherm-Smartcontrol-Thermostatic/dp/B085LW5TXL?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
@@ -68,12 +104,6 @@ Best Smart Shower for Custom Sprays
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Smart Shower Overall: [Moen TS3302TB Smart Shower Controller](https://www.amazon.com/dp/B01MY07CZG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Moen Smart Shower Controller in shower](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/moen-smart-shower.jpg) 
@@ -101,10 +131,10 @@ Moen
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Smart Shower Overall
 
@@ -114,6 +144,12 @@ The Moen TS3302TB Smart Shower works with Alexa and Google Assistant, and enable
 
 [See at amazon](https://www.amazon.com/dp/B01MY07CZG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Smart Shower for Tracking Water Usage: [Hai Smart Shower Head](https://www.amazon.com/hai-Installation-Charcoal-2-5-GPM/dp/B0BKK5LMPP?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Hai smart shower on pink and yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/Hai-smart-shower-head.jpg) 
@@ -138,8 +174,20 @@ Hai
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41fcwjjaetl-_sl160_.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Smart Shower for Tracking Water Usage
 
 #####  Hai Smart Shower Head 
@@ -149,10 +197,10 @@ Track your water usage on your smartphone and set limits on your water consumpti
 [See at amazon](https://www.amazon.com/hai-Installation-Charcoal-2-5-GPM/dp/B0BKK5LMPP?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Smart Shower Complete Kit: [Moen TS3304BL U Shower Controller with U Shower Valve](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
@@ -180,12 +228,6 @@ Meon
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Smart Shower Complete Kit
 
 #####  Moen TS3304BL U Shower Controller with S3104 U Shower Valve
@@ -194,22 +236,22 @@ Enjoy the benefits of a complete smart shower setup, including voice and app con
 
 [See at amazon](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Smart Shower for Alexa: [Kohler Moxie Alexa Enabled Showerhead](https://www.amazon.com/Showerhead-Bluetooth-Rechargeable-Portable-K-28238-GKA-CP/dp/B08SHKWB3Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Person setting up Kohler smart shower](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/kohler-moxie-smart-shower-head.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Kohler
 
 | Pros                                         | Cons                                                         |
@@ -231,19 +273,13 @@ Kohler
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41nt9ms-cdl-_sl160_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Smart Shower for Alexa
 
 #####  KOHLER Moxie Alexa Enabled Showerhead 
@@ -252,12 +288,6 @@ With its magnetic IPX7 waterproof Alexa enabled Bluetooth speaker, the Kohler Mo
 
 [See at amazon](https://www.amazon.com/Showerhead-Bluetooth-Rechargeable-Portable-K-28238-GKA-CP/dp/B08SHKWB3Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Smart Shower for Custom Spray Settings: [Grohe Grohtherm Smart Thermostatic Trim with Control Module](https://www.amazon.com/GROHE-29137000-Grohtherm-Smartcontrol-Thermostatic/dp/B085LW5TXL?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Grohe thermo controller on grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/grohe-smart-shower-head.jpg) 
@@ -282,19 +312,13 @@ Grohe
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41ib62grhyl-_sl160_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Smart Shower for Custom Sprays 
 

@@ -1,7 +1,7 @@
 ---
 title: "Why I Swapped the Feel of Real Books for Digital Reading: A Look at 8 Factors That Influenced Me"
-date: 2024-09-04T20:11:26.052Z
-updated: 2024-09-05T20:11:26.052Z
+date: 2024-09-09T07:03:37.760Z
+updated: 2024-09-10T07:03:37.760Z
 tags:
   - games
   - tv
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ## Why I Swapped the Feel of Real Books for Digital Reading: A Look at 8 Factors That Influenced Me
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Ebooks Are Convenient and Portable](https://sound-issues.techidaily.com/troubleshooting-turtle-beach-microphone-issues-a-complete-fix-guide/)
@@ -34,26 +40,20 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
  What's more, there are ebook apps that readers can install on their phones. Apps like Kindle Reader allow a free and simple way to consume ebooks without even buying specialized reader hardware. Since I already read on my phone, this is relatively easy (although I prefer the feel of an eReader). You can even [open EPUB files on Windows](https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-plus-by-drfone-ios/) if you're so inclined.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  I Can Get a Book When I Want It
 
 ![A Kobo Clara 2E eReader sitting on a pile of books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_4125-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lydia Pike / How-To Geek
 
@@ -65,28 +65,40 @@ Lydia Pike / How-To Geek
 
 ![A stack of Amazon boxes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53008501024_bdb4388b6a_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I've switched apartments several times in my life, and each time, I've had to spend a ton of money on moving boxes to cart my collection of novels, manuals, and technical textbooks around. Luckily, most of these are now available in ebook format, meaning I can get rid of the original texts and hold onto the information in ebook form.
 
  Some might say that this gives away the physical copy of a book, but it's easier to carry a single eReader up six flights of stairs than it is to card over 200 books the same distance. While I appreciate a good hardcover book as much as the next person, my back is different from what it was a decade ago, so I'll stick to my ebooks for the foreseeable future.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Efficient Spending on My Hobby
 
  Reading can be an expensive hobby if you opt for physical books. The [average cost of a paperback](https://www.slj.com/story/slj-average-book-prices-2023-follett-baker-taylor) is between $8 and $10, and a hardcover book could range between $16 and $25 per copy. Naturally, this means I am limited in what I can afford, and I have to be more selective in my title choices.
 
  I still have to be selective in my titles with ebooks, but I have some leeway in what I can get. As a member of Amazon's Prime service, I get a [free newly published ebook each month](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50iplus-drfone-by-drfone-virtual-android/). The [average cost of an ebook](https://automateed.com/average-ebook-price/) ranges from $1 to $3, with more established authors calling for $6 to $10 for their latest work. This means I can potentially get 2 to 3 ebooks for the cost of one paperback novel. I know which one I prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I Can Customize My Text Delivery
 
 ![An eReader.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53125212620_0f222a0c93_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek  
   
  I always like flicking through a paperback to see what the words are like inside. Sometimes, however, a book's font might be jarring and off-putting. In such a case, no matter how good the story is, I'll decide not to buy the book. With an ebook, I can adjust the text size, font style, and even the layout in some cases.
@@ -98,10 +110,16 @@ Joe Robinson / How-To Geek
 ![An ebook on a cellphone screen with a blurred Kindle in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060858.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
@@ -113,34 +131,22 @@ Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
 ![A slightly open Galaxy Z Fold 5 on a bookshelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-slightly-open-galaxy-z-fold-5-on-a-bookshelf.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  The world is dealing with a looming environmental disaster, and we can prevent it by conserving trees. While I love reading paper books, and they still hold a special place in my heart, I don't think destroying the planet for my hobby is fair. Ebooks are all electronic, and while they still consume power, they [cause less overall environmental damage](https://ecobravo.co.uk/blogs/blog/7-surprisingly-amazing-environmental-benefits-of-e-books). I've learned how much my actions could hurt the planet, so I'm taking this stand to reduce it by just a little.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Accessibility and Comfort Features
 
  I mentioned setting my text size and style earlier, but ebooks also allow for many other features that improve accessibility and ease of use. For example, I could keep a cookbook open to a particular page without worrying about spilling anything on it and obliterating the recipe.
 
  I also enjoy reading at night before bed. With most eReaders, a backlight helps with letting me see the words while I go through the story. It also means that I don't have to disturb anyone else by leaving a light on or using a tiny flashlight, which may potentially damage my eyesight.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I'm Not Saying You Should But...
 
  People should always have the choice to decide what they want to do. I appreciate physical books a lot. I still have some of my original collection, although it's much diminished since I shifted to an e-library. Still, the benefits that ebooks offer can't be understated. As much as I love paper books, ebooks have proven to me that they're worth it.

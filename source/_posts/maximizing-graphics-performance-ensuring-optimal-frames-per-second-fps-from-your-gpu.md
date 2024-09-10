@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-09-04T20:11:24.811Z
-updated: 2024-09-05T20:11:24.811Z
+date: 2024-09-09T07:03:36.615Z
+updated: 2024-09-10T07:03:36.615Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb80288c9b2f1c26ecf61a151.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU
 
 ### Quick Links
@@ -35,13 +41,31 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 ![The back of a computer with the graphics card I/O in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rsz_img20240205151519.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Check the Power Cables
 
@@ -53,10 +77,28 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A graphics card inside a computer iwth a missing 6-pin power supply cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_17h16_49.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek
 
  If you have a transparent side panel, you can visually inspect it to see if all power supply cables are plugged in. If they aren't, shut off the computer, turn off the power supply, and remove the side panel. Find an unoccupied and appropriate power connector from your power supply, gently plug it into the graphics card until it clicks, and that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reseat the Graphics Card
 
  Yes, you read that right—you want to _reseat_ the graphics card, not _reset_ it. This means that you should take the graphics card out of your computer and then slide it back in. If your graphics card's connectors (the gold-plated pins on the bottom) aren't making full contact with the ones on your motherboard, it can cause all sorts of issues.
@@ -65,70 +107,52 @@ Ismar Hrnjicevic / How-To Geek
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  Once you've made sure that everything is disconnected, pull the graphics card out completely. In some cases, dust and debris can get stuck in the PCIe slot on your motherboard, so make sure to [dust it with some compressed air](https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/) while you're at it.
 
  After that, push the graphics card back in until you feel it click into place, put your side panel back on, reconnect the cables, flip the switch on your power supply, and boot your PC again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fully Uninstall Old Graphics Drivers Before Installing New Ones
 
  If you upgraded from one graphics card to another, you must do a [clean driver install](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/) if you want the card to work correctly. That's because leftover bits of code stay in Windows, even if you uninstalled the old drivers using conventional methods. The leftover code can cause issues with how the operating system utilizes the graphics card.
 
  Thankfully, the solution is rather quick and painless. All you have to do is download and install [Display Driver Uninstaller (DDU)](https://www.guru3d.com/download/display-driver-uninstaller-download/), select your graphics card brand, and follow the on-screen prompts. When you're done, do a fresh installation of your graphics card drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check the In-Game Temperatures and Usage
 
 [Overheating](https://ios-unlock.techidaily.com/locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-by-drfone-ios/) doesn't just affect CPUs; it's a common problem with graphics cards as well. To [see if your graphics card is overheating](https://screen-video-capture.techidaily.com/new-election-excursions-best-gamified-democracy-sites/), turn on [your graphics card's performance overlay to monitor the GPU temperature](https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/) and play demanding games.
 
  If it's within the [graphics card's specs sheet](https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/), overheating probably isn't the issue. But if it _is_ overheating, it can cause the graphics card to slow down and consequently drop frames. To fix it, you should first check the [fans to see whether they're spinning](https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-xiaomi-by-fonelab-android-recover-contacts/). If they are, try boosting the fan to see if anything changes. If it's an older graphics card, you might have to tear the graphics card apart to change the thermal paste.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check the Graphics Card BIOS
 
  If you bought a used graphics card, there's always a small chance that the BIOS has been tampered with. For instance, miners typically use a modified BIOS to increase cryptocurrency yields. Custom firmware isn't necessarily bad, but it can change how your graphics card works.
 
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  You can check what BIOS your graphics card has through AMD or NVIDIA software, but it might not tell you the full version. For instance, AMD doesn't show the last few numbers that identify your exact graphics card model. Instead, download and install [GPU-Z](https://www.techpowerup.com/gpuz/). It'll tell you the BIOS version under the "Graphics Card" tab, which you can check against [TechPowerUp's repository](https://www.techpowerup.com/) by selecting your graphics card model. If it's a match, that's great, but if not, you'll have to download and [flash the stock BIOS](https://appuals.com/how-to-flash-the-bios-on-an-amd-gpu/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Try Running a Different Game
 
  Certain PC games can be poorly optimized or just won't play ball with your particular graphics card. When that happens, your graphics card can't run the game at its full potential. If you're the type of person who only plays one or two games, you should be sure to test the graphics card in a few other games too.
 
  So, open up your dusty Steam library and download a few recent triple-A titles. If your graphics card has great FPS in those titles, it's the original game that's at fault and not your graphics card.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Play Around With Windows Settings
 
  As far as gaming goes, Windows is a lot better than it used to be. Still, some features can mess with how your computer operates, the most notorious of which is [Game Mode](https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/). Microsoft has fixed and improved Game Mode over the years, but it can still cause issues, especially in older titles.

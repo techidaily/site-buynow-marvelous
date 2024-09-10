@@ -1,7 +1,7 @@
 ---
 title: Experience Comfort And Style With Our Detailed Analysis Of The X-Chair X4 Office Masterpiece
-date: 2024-08-09T00:43:36.412Z
-updated: 2024-08-10T00:43:36.412Z
+date: 2024-09-09T07:01:36.101Z
+updated: 2024-09-10T07:01:36.101Z
 categories:
   - BestProducts
 description: This Article Describes Experience Comfort And Style With Our Detailed Analysis Of The X-Chair X4 Office Masterpiece
@@ -9,17 +9,32 @@ excerpt: This Article Describes Experience Comfort And Style With Our Detailed A
 thumbnail: https://www.lifewire.com/thmb/xyb4aaKjvkMgwAwH0Nds6Ympg7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X4_Chair_HeroSquare-19c2733ecb4b44e09b379888a662d20a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience Effortless Surveillance with the Z-Edge Z3 Plus: An Economical and Intuitive Choice for Safety on the Road
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Z-Edge Z3 Plus Dashcam
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Z-Edge Z3 Plus Dashcam](https://www.lifewire.com/thmb/OL3QdFJ2E8lLE0w3IGyxR-rAD4Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW406226_HeroSquare-b7e0d530ed9948eda68372d2984bbdc2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Danny Chadwick
 
  What We Like
@@ -39,10 +54,22 @@ Lifewire / Danny Chadwick
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Z-Edge Z3 Plus Dashcam
 
 ![Z-Edge Z3 Plus Dashcam](https://www.lifewire.com/thmb/sE7fZzxcPjZXohzroVqLVr5l4qs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW406226_HeroSquare-b7e0d530ed9948eda68372d2984bbdc2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Danny Chadwick
 
 [View On Amazon](https://www.amazon.com/dp/B07DW7W51T/?tag=lifewire-onsite-prod-20&ascsubtag=4770582%7Cn71152a6f6b7242f1815da90e8e97d54a08%7CB07DW7W51T) [View On Walmart](https://www.walmart.com/ip/Z-EDGE-Z3-Plus-1440P-A12-Chipset-3-Inch-Screen-Dash-Cam/213396513)
@@ -68,9 +95,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Small but solid**
 
  If you didn’t know this device was a dashcam, you could be forgiven for mistaking it for a point-and-shoot camera. It has a three-inch screen, and while that is small by the standards of today’s mobile devices, it’s a great size for your windshield. All the indicator lights and icons fit nicely on the screen and you only need to glance at it briefly while you drive to see that it’s recording.
@@ -107,9 +131,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Camera Quality: Beyond high definition**
 
  The Z3 Plus has outstanding recording abilities for a camera this size and can capture footage up to 2560 x 1440 resolution. However, this will fill up your camera quite fast, so you can set it as low as 720p if you don’t need super high-resolution footage. You can also adjust the frame rate to 30 and 60 frames per second (for resolutions exceeding 1920 x 1080, only 30 fps is available).
@@ -130,16 +151,10 @@ Lifewire / Danny Chadwick
 
  We did experience one strange glitch at the end of our testing—a couple of minutes after we had boxed up the Z3 Plus and put it away, we noticed loud, rapid beeping coming from the box. We took the Z3 Plus back out and it was frozen on the power-up screen. We couldn’t get it to turn off (or stop beeping) until the battery died a few minutes later. The camera appeared to work fine after that and we weren’t able to replicate the problem, but it was something of an alarming glitch from such a new device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Fair price for a fair product**
 
  As of the time of this writing, you can pick up this dashcam from Z-Edge for between $120 and $140, which seems like a good value to us. Given its features, tools, and image quality, it’s a fair price for a useful and reliable device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Competition: Z-Edge Z3 Plus vs. Apeman C450 Dash Camera**
 
  We tested the Z3 Plus alongside the Apeman C450 Series A dashcam. The two are comparable in size and function, but the Apeman is a more budget-friendly model that costs around $50\. We definitely noticed a difference when it comes to the construction quality, image resolution, clarity of the user manual, and overall experience—the Z3 Plus was superior in almost every way.
@@ -157,7 +172,16 @@ Lifewire / Danny Chadwick
  The Z-Edge Z3 Plus is easy to set up, intuitive to use, captures clear video footage for a reasonable price. We would like to have seen a second mounting option to the suction cup and a longer-lasting battery, but those are minor quibbles in light of this device’s reliable performance.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -190,3 +214,61 @@ Lifewire / Danny Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-secure-your-videos-with-free-image-savers/"><u>[New] 2024 Approved Secure Your Videos with FREE Image Savers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-end-your-videos-professionally-with-these-free-tools-top-6/"><u>[New] End Your Videos Professionally with These Free Tools (Top 6)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-art-and-science-of-writing-smart-slug-lines/"><u>[New] In 2024, The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-writing-across-the-spectrum-8-film-categories/"><u>[Updated] 2024 Approved Best Writing Across the Spectrum 8 Film Categories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-tv-screen-scenes-with-ease-your-ultimate-guide/"><u>[Updated] Capturing TV Screen Scenes with Ease - Your Ultimate Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-mp4webm-clip-conversion/"><u>[Updated] In 2024, Twitter MP4/WebM Clip Conversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-resolving-common-windows-11-photo-app-problems/"><u>[Updated] Resolving Common Windows 11 Photo App Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-troubleshooting-obs-full-screen-malfunction/"><u>[Updated] Troubleshooting OBS Full Screen Malfunction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-directory-of-cost-free-online-resources-for-superior-vector-graphics/"><u>2024 Approved Leading Directory of Cost-Free Online Resources for Superior Vector Graphics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-advanced-monoprice-graphic-tablet-assessment-for-creative-professionals/"><u>Affordable and Advanced Monoprice Graphic Tablet Assessment for Creative Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-capabilities-of-stanleys-5-in-1-jobsite-compact-the-j5c09-model/"><u>Analyzing the Capabilities of Stanley's 5-in-1 Jobsite Compact: The J5C09 Model</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assassins-creed-valhalla-a-riveting-saga-of-viking-quests-in-a-historical-setting/"><u>Assassin's Creed Valhalla - A Riveting Saga of Viking Quests in a Historical Setting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-ax6600-zenwifi-xt8-mesh-wi-fi-system-examined-enhanced-connectivity-performance-reviewed/"><u>ASUS AX6600 ZenWiFi XT8 Mesh Wi-Fi System Examined - Enhanced Connectivity Performance Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-the-ultimate-liquid-cooler-mo-ra-iv-600-packed-with-9-big-fans-and-weighs-over-35lbs-at-just-600/"><u>Beat the Heat: The Ultimate Liquid Cooler MO-RA IV 600, Packed with 9 Big Fans & Weighs over 35Lbs at Just $600</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-alternatives-to-apples-max-headphones/"><u>Budget-Friendly Alternatives to Apple's Max Headphones?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/chucklechain-master-the-art-of-memes-at-home-for-2024/"><u>ChuckleChain Master the Art of Memes at Home for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-the-tp-link-av2000-adapter-fast-connectivity-with-design-room-for-improvement/"><u>Comprehensive Assessment of the TP-Link AV2000 Adapter: Fast Connectivity with Design Room for Improvement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-elgoog-website-evaluation-the-definitive-reflection/"><u>Comprehensive ElgooG Website Evaluation: The Definitive Reflection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-nook-glowlight-4-tablet-e-reader-review/"><u>Comprehensive Nook GlowLight 4 Tablet E-Reader Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-intriguing-movie-summaries/"><u>Creating Intriguing Movie Summaries</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-speaker-malfunctions-a-step-by-step-fix/"><u>Diagnosing and Repairing Windows 11 Speaker Malfunctions – A Step-by-Step Fix</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-steam-deck-mastery-essential-games-you-cant-miss-in-202pressure/"><u>Discover Steam Deck Mastery: Essential Games You Can't Miss in 202Pressure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-what-sets-the-apple-watch-series-9-apart-in-our-complete-review/"><u>Discover What Sets the Apple Watch Series 9 Apart in Our Complete Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-steps-for-gopro-hero5-timelapse-cinematography/"><u>Essential Steps for GoPro Hero5 Timelapse Cinematography</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-aeiusys-portable-solar-generator-and-pure-sine-wave-technology-suitable-for-medical-apparatus/"><u>Expert Insight on Aeiusy's Portable Solar Generator and Pure Sine Wave Technology Suitable for Medical Apparatus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-cost-effective-microsoft-surface-go-a-device-with-an-ambiguous-purpose/"><u>Exploring the Cost-Effective Microsoft Surface Go - A Device with an Ambiguous Purpose?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-frame-drops-a-guide-to-smoother-playthroughs-in-code-veam/"><u>Fixing Frame Drops: A Guide to Smoother Playthroughs in Code Veam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-dirty-exploring-the-lenovo-9-inch-nook-tablet/"><u>Get Your Hands Dirty: Exploring the Lenovo 9-Inch Nook Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-on-chromecast-the-new-contender-in-streaming-devices-beyond-firetv/"><u>Google TV on Chromecast – The New Contender in Streaming Devices Beyond FireTV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-sony-xperia-5-v-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Sony Xperia 5 V Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a23-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-visual-communication-title-and-caption-overlays-on-video-clips-via-photos/"><u>In 2024, Mastering Visual Communication Title & Caption Overlays on Video Clips via Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-capture-module-for-iphone-24-year/"><u>In 2024, Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazon-lunas-impressive-cloud-gaming-performance/"><u>In-Depth Analysis of Amazon Luna's Impressive Cloud Gaming Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovo-ideapad-assessment-robust-construction-and-simple-performance/"><u>Lenovo IdeaPad Assessment: Robust Construction & Simple Performance</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mach-deine-alten-vhs-aufnahmen-wieder-lebendig-umfassende-anleitung-zum-konvertieren-auf-pcdvd/"><u>Mach Deine Alten VHS-Aufnahmen Wieder Lebendig – Umfassende Anleitung Zum Konvertieren Auf PC/DVD</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/philips-hf3505-wake-up-light-review-revolutionizing-morning-routines-with-gentle-awakening-technology/"><u>Philips HF3505 Wake-Up Light Review: Revolutionizing Morning Routines with Gentle Awakening Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-assessment-stunning-aesthetics-and-cutting-edge-features/"><u>Samsung Galaxy Watch Assessment: Stunning Aesthetics & Cutting-Edge Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skyrim-on-nintendo-switch-a-deep-dive-into-an-enchanting-rpg-experience/"><u>Skyrim on Nintendo Switch: A Deep Dive Into an Enchanting RPG Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/soundscapes-elevated-discover-rokus-enhanced-experience/"><u>Soundscapes Elevated: Discover Roku's Enhanced Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-navigating-the-bios-settings-of-your-windows-11-pc/"><u>Step-by-Step Guide: Navigating the BIOS Settings of Your Windows 11 PC</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g24-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G24 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-revolutionary-lenovo-thinkpad-x1-nano-unveiled-comprehensive-review-for-tech-enthusiasts/"><u>The Revolutionary Lenovo ThinkPad X1 Nano Unveiled: Comprehensive Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-an-apple-watch-a-look-at-series-9/"><u>The Ultimate Guide to Choosing an Apple Watch - A Look at Series 9</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-hot-30i-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Hot 30i to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-on-the-dreame-bot-l10-pro-revolutionizing-cleaning-with-advanced-lidar-mapping-systems/"><u>Top Reviews on the Dreame Bot L10 Pro – Revolutionizing Cleaning with Advanced LiDAR Mapping Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-expanding-your-nes-classics-collection/"><u>Ultimate Guide: Expanding Your NES Classics Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-iphone-gadgets-and-extras-for-enhanced-use/"><u>Ultimate Selection of iPhone Gadgets & Extras for Enhanced Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-leading-usb-wi-fi-connectors/"><u>Ultimate Selection: Leading USB Wi-Fi Connectors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-value-proposition-is-the-high-priced-google-pixelbook-go-worth-it/"><u>Unpacking the Value Proposition: Is the High-Priced Google Pixelbook Go Worth It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-razer-book-one-pocket-sized-potential-and-prowess/"><u>Unraveling the Razer Book One - Pocket-Sized Potential and Prowess</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unsubscribed-success-comprehensive-eufy-t8200-video-doorbell-assessment/"><u>Unsubscribed Success: Comprehensive Eufy T8200 Video Doorbell Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lenovo-130s-navigating-through-constrained-processing-strength-and-remarkable-handling/"><u>Unveiling the Lenovo 130S: Navigating Through Constrained Processing Strength and Remarkable Handling</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vonage-reviewed-is-it-still-at-the-forefront-of-voip-solutions/"><u>Vonage Reviewed – Is It Still at the Forefront of VoIP Solutions?</u></a></li>
+</ul></div>

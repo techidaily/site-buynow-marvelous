@@ -1,7 +1,7 @@
 ---
 title: Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
-date: 2024-09-04T20:02:06.646Z
-updated: 2024-09-05T20:02:06.646Z
+date: 2024-09-09T07:03:38.205Z
+updated: 2024-09-10T07:03:38.205Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-xbox-series-x-defeated-in-a-boxing-ring.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
 
 ### Key Takeaways
@@ -21,6 +27,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  By some estimates, the PS5 is outselling both Xbox Series consoles by more than four times to one. Microsoft is now adopting a multi-platform strategy and bringing games to Sony’s platform. So what went wrong, and what happens next?
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How the Xbox 360 Won the West
 
  It was unthinkable that Microsoft could eventually find itself in last place during the Xbox 360’s heyday in the late 2000s. When titles like _Halo 3_ and _Gears of War_ dominated, Xbox rose to prominence as a household name not only in its home market of the US but in Europe and around the world (except for Japan). Over console's lifetime Microsoft managed to shift 84 million units.
@@ -45,18 +63,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unfortunately, this wouldn’t last.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Xbox One Gambled Everything on the Living Room (and Lost)
 
  The Xbox One was an unmitigated disaster for Microsoft. So much went wrong in such a short time that Sony’s brand-new PlayStation 4 was easily able to establish itself as the dominant platform shortly after release.
@@ -67,12 +73,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xbox One Kinect sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/b950b2b1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft
 
  Microsoft also had a bold plan for how game libraries would work on the Xbox One. The initial plan was to bind all games, including retail titles, to a user’s account. These games could be shared with up to 10 other people, and accessed from any Xbox without using the disc. Games could be transferred once per title if publishers allowed, and the console would need to connect to the internet once every 24 hours to check that licenses were still current.
@@ -86,10 +86,10 @@ Microsoft
  This isn’t to say that Microsoft was devoid of good ideas during this time. The Xbox One saw the introduction of a backward compatibility program, making nearly 200 Xbox 360 titles playable. Microsoft also introduced its wildly successful Game Pass subscription service in 2017.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Correcting Course With the Series X|S
 
@@ -98,10 +98,10 @@ Microsoft
 ![Xbox Series X and Xbox Series X consoles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/xbox-x-vs-s-resized.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy-27-december-2020-new-video-1882894459)_
 
@@ -119,6 +119,12 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
 
  It’s concerning to see some developers shy away from the Xbox as a release platform, even when Sony isn’t involved in exclusivity deals. The highest profile example is _Baldur’s Gate 3_ being delayed partly by [Series S complications](https://www.thegamer.com/baldurs-gate-3-xbox-release-this-year-no-split-screen-series-s/). It’s easy to see how smaller studios with limited time and budgets could prioritize platforms like PS5 and Switch first, then work on the Xbox port later.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Future of Xbox
 
  The good news is that Xbox still has a future. Microsoft held a [business update](https://www.ign.com/articles/xbox-vision-of-the-future) in early 2024 to assure fans that it is working on the next generation of Xbox hardware, and it reiterated that message at its June 2024 showcase. There will be another Xbox, but what that hardware looks like remains to be seen.
@@ -131,12 +137,6 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
 
 ![The start of a multiplayer match in Halo: Infinite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/halo_infinite.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Halo: Infinite_  
 Tim Brookes / How-To Geek
 
@@ -149,10 +149,16 @@ Tim Brookes / How-To Geek
  Whatever happens, it’s hard to see a future for the Xbox where the next piece of hardware isn’t radically different from what came before it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Microsoft Still Dominates Gaming
 

@@ -1,7 +1,7 @@
 ---
 title: Why the 7-Year-Old's Old Console Beats Modern Smartphones in Video Game Battles
-date: 2024-09-04T20:11:26.072Z
-updated: 2024-09-05T20:11:26.072Z
+date: 2024-09-09T07:03:37.779Z
+updated: 2024-09-10T07:03:37.779Z
 tags:
   - games
   - tv
@@ -11,8 +11,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-nintendo-switch-with-background-colors-divided-into-blue-and-green-matching-the-colors-of-the-joy-con.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why the 7-Year-Old's Old Console Beats Modern Smartphones in Video Game Battles
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Phone hardware surpasses the Switch, but the Switch library offers better games.
@@ -21,6 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When the Switch launched it was the most powerful handheld console in history, now even mid-range phones leave it in the dust. Yet, if you ask me what I actually want to play games on when on the go or in bed, I'm reaching for my Switch 100% of the time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Phone Hardware Is Light Years Ahead of Switch
 
  While my current S22 Ultra Samsung phone isn't at the cutting edge anymore, in terms of gaming horsepower it's far closer to something like an Xbox One than the Switch. There are plenty of mobile games that [look as good as home console games](https://apple-account.techidaily.com/how-to-unlock-iphone-6-when-we-dont-have-apple-id-or-password-by-drfone-ios/) these days, and if you're lucky enough to have something like an iPhone 15 Pro, you can even play the [latest AAA games](https://facebook-video-footage.techidaily.com/new-2024-approved-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/).
@@ -28,20 +46,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Setting aside issues like thermals and battery drain, modern phones kick sand in the face of the ancient components in the Nintendo Switch without a doubt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Switch Software Can’t Be Beat
 
 ![Nintendo Switch game cards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/game_carts.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
@@ -51,22 +81,10 @@ Tim Brookes / How-To Geek
 
  That's before we get to the quality of Nintendo's first-party games, and honestly, I like my Switch more because of the third-party games in my collection. Even when a game exists both for my phone and my Switch, such as _Alien: Isolation_, I prefer to play it on the Switch even if the graphics might be worse. Developers seem to do a better job optimizing games for a fixed platform like the Switch than for the millions of Android handset variants out there. Each with their own GPU and CPU combinations.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Nintendo’s Mobile Control Solution Still Rocks
 
 ![Person on the beach playing a game on Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/person-on-the-beach-playing-a-game-on-nintendo-switch.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image-photo/girl-playing-game-on-handheld-console-2268730757) / Shutterstock
 
  The worst part of playing games on a phone is having to deal with touch controls. Of course, now you can easily connect any sort of gamepad to your phone, but I have yet to find a solution that's anywhere near as good as the Switch. The Joy Cons may have had some quality issues in the early days, but the actual design is ingenious. They have a permanent place to slot in. They maintain the console's flat profile, and they work immediately when you need them, without messing around with Bluetooth settings or USB cables.
@@ -79,12 +97,6 @@ Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image
 
  That's not something that will happen with the Switch. System software updates have to remain compatible with previously-released games. So I can rest assured that all of the games that I've bought for my Switch will keep working as long as the Switch is still functional, even if the developers have long stopped patching it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Switch Proved Specs Aren't Everything
 
  I had a [Rog Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) for a while, and it's a beast of a machine that blows the Nintendo Switch out of the water. Likewise, the Valve Steam Deck is not far off having a handheld PlayStation 4\. However, compared to the Switch, these systems are severely unbalanced. By favoring high-performance, they tend to compromise on size, battery life, and temperature.
@@ -92,10 +104,10 @@ Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image
 ![ROG Ally Next to OELD Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Butler / How-To Geek
 

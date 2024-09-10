@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Revamps Xbox Game Pass: Introducing a 'Standard' Tier & Adjusted Pricing"
-date: 2024-09-04T20:11:25.619Z
-updated: 2024-09-05T20:11:25.619Z
+date: 2024-09-09T07:03:37.359Z
+updated: 2024-09-10T07:03:37.359Z
 tags:
   - games
   - tv
@@ -11,6 +11,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a77042379632f2075c2e5462803d44d042.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Microsoft Revamps Xbox Game Pass: Introducing a 'Standard' Tier & Adjusted Pricing
 
 Game Pass allows you to play many different Xbox and PC games for one monthly subscription. It has been one of the best deals in gaming, but now Microsoft is changing prices and overhauling its plans.
@@ -21,6 +33,12 @@ Game Pass allows you to play many different Xbox and PC games for one monthly su
 
 ![Comparison of Game Pass plans.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/plans.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  The price hike is especially bad for Game Pass Core, because the subscription is required for online play in most Xbox games. If you have an Xbox, and you want to online multiplayer, you now need to pay at least $75/year—there’s no cheaper alternative. The [12-month subscription cards are still $60](https://amazon.com/dp/B0CMZ42J5K?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004089&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmicrosoft-overhauls-game-pass%2F&asc%5Fcampaign=Short-Term) at most retailers, though, so now is a good time to stock up. Sony charges $80/year for online multiplayer with [PlayStation Plus Essential](https://store.playstation.com/en-us/product/IP9101-PPSA06916%5F00-PLUS1T12M0000000), and most PC games have free online multiplayer.
@@ -85,10 +103,3 @@ Microsoft
 <li><a href="https://tech-haven.techidaily.com/top-ai-innovations-every-entrepreneur-must-learn-about-today/"><u>Top AI Innovations Every Entrepreneur Must Learn About Today</u></a></li>
 <li><a href="https://buynow-marvelous.techidaily.com/whisker-wonders-games-galore/"><u>Whisker Wonders: Games Galore</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Techie Treasures: Top Budget-Friendly Gadgets From How-To Geek for the Festive Season of 2021"
-date: 2024-09-04T20:11:24.197Z
-updated: 2024-09-05T20:11:24.197Z
+date: 2024-09-09T07:03:36.019Z
+updated: 2024-09-10T07:03:36.019Z
 tags:
   - buying-guides
 categories:
@@ -27,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  \[commerce\_authority\_block\]
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Best Tech Gifts Under $100
 
  When buying a gift, it's the thought that counts. With a little research, you can find a lot of thoughtful tech gifts that your recipient has probably never even heard of! This guide lists our favorite fun (or just plain useful) tech gifts under $100.
@@ -34,20 +40,20 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
  We've cast a wide net here to find a little something for everyone, so you'll be able to pick the perfect gift no matter who you're buying for. Whether you're looking for toys, fitness gadgets, coffee mugs, or just cool smart home additions, we've got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Tamagotchi Pix: A Pet With No Mess
 
 ![child using Tamagotchi Pix](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/tamagotchi.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tamagotchi
 
@@ -59,12 +65,6 @@ Tamagotchi
 
 ![41bUvZ-tETS._SL500_-4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41buvz-tets-_sl500_-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Tamagotchi Pix
 
 A cute digital pet that can take pictures, play games, and just generally be adorable. 
@@ -75,6 +75,12 @@ A cute digital pet that can take pictures, play games, and just generally be ado
 
 ![Mario Kart Live kart on ground](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/mario-kart-live-circuit.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Nintendo
 
  An important note when it comes to this gift: Whoever you're looking to buy for will need a [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001/dp/B07VJRZ62R?tag=hotoge-20&ascsubtag=UUhtgUeUpU208331&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F761188%2Fbest-gifts-under-100%2F&asc%5Fcampaign=Short-Term) to use it. [Mario Kart Live](https://www.amazon.com/dp/B08H9KGMWK?tag=hotoge-20&ascsubtag=UUhtgUeUpU208331&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F761188%2Fbest-gifts-under-100%2F&asc%5Fcampaign=Short-Term) is not a standalone game!
@@ -92,10 +98,10 @@ Bring the magic of Mario Kart to life, with the help of a Nintendo Switch.
 [$110 at Amazon](https://www.amazon.com/dp/B08H9KGMWK) [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmario_kart_live_home%2F6414101.p%3FskuId%3D6414101) [Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU208331%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fmario%255Fkart%255Flive%255Fhome%252F-%252FA-80948303) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  PlayStation Classic: Tiny Nostalgia
 
@@ -112,10 +118,10 @@ Sony
 ![31a2JDQXLdL._SL500_-4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/31a2jdqxldl-_sl500_-4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  PlayStation Classic
 
@@ -128,10 +134,10 @@ Gaming for the discerning older gamer, or the retro-obsessed.
 ![Fitbit Inspire 2s on grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/fitbit-inspire-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Fitbit
 
@@ -143,6 +149,12 @@ Fitbit
 
 ![fitbit-2-logo-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/fitbit-2-logo-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Fitbit Inspire 2
 
 A fitness tracker for the heartrate, activity levels, and footsteps of fitness fanatics of any level. 
@@ -150,26 +162,20 @@ A fitness tracker for the heartrate, activity levels, and footsteps of fitness f
 [Shop Now](https://www.fitbit.com/global/us/products/trackers/inspire2?sku=418BKBK) 
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Fujifilm Instant Film Camera: Pictures on the Move
 
 ![instax mini instant camera on pink background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/instax-mini-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Instax
 
@@ -189,18 +195,6 @@ A quirky little camera for the budding photographer.
 
 [Shop Now](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ffujifilm-instax-mini-11-instant-film-camera-sky-blue%2F6400595.p%3FskuId%3D6400595) 
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ember Smart Mug: Keep that Coffee Hot
 
 ![person controlling ember mug temperature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ember-mug.jpg) 
@@ -215,6 +209,12 @@ Ember
 
 ![ember-mug-product-image-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ember-mug-product-image-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Ember Temperature Control Smart Mug
 
 $103 $130 Save $27 
@@ -240,16 +240,10 @@ Amazon
 ![51Of2RNTE1L._SL500_-12](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/51of2rnte1l-_sl500_-12.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Amazon Echo
 
@@ -261,18 +255,6 @@ A smart assistant and smart speaker in one stylish package.
 
 ![41W5ZYJXFUS._SL500_-5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41w5zyjxfus-_sl500_-5.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Amazon Echo Show 5
 
 A smart screen for the best tv shows, films, and even the chance to chat to family. 
@@ -283,6 +265,12 @@ A smart screen for the best tv shows, films, and even the chance to chat to fami
 
 ![Google Nest Hub on nightstand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/google-nest-hub.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  There are different smart home ecosystems available, and which items and apps are compatible depends on the hub someone has. If your giftee enjoys Google devices, then you'll want to buy them Nest smart home products.
@@ -304,10 +292,10 @@ A smart speaker from Google that'll make life easier and more musical. The Nest 
 ![nest-hub-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/nest-hub-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Google Nest Hub
 

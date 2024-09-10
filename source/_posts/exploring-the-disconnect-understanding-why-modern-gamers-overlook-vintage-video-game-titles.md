@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Disconnect: Understanding Why Modern Gamers Overlook Vintage Video Game Titles"
-date: 2024-09-04T20:02:01.665Z
-updated: 2024-09-05T20:02:01.665Z
+date: 2024-09-09T07:03:38.124Z
+updated: 2024-09-10T07:03:38.124Z
 tags:
   - games
   - tv
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
 ## Exploring the Disconnect: Understanding Why Modern Gamers Overlook Vintage Video Game Titles
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Poor Platform Availability](https://buynow-info.techidaily.com/experts-rate-the-poweradd-pilot-pro2-amplified-charging-capabilities-for-your-digital-world/)
@@ -30,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
  I grew up in the early 2000s playing games like _Call of Duty 2_ and _Need for Speed: Most Wanted_, but I also played older games like _Altered Beast_, _Doom_, and _Prince of Persia_. To my surprise, my younger brothers (aged 10 and 13) hadn't even heard of these games, so I asked them why.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Poor Platform Availability
 
@@ -49,18 +55,18 @@ Lucas Gouveia / How-To Geek | [Christos Film](https://www.shutterstock.com/en/im
 
  My younger brothers don't even know what an emulator is, or why they'd have to use one instead of downloading a game from a store, and that's a fair point. Regardless of how easy it is to emulate games now, it's still an extra step over just downloading and playing a game from Steam. Emulators also raise [legal and ethical considerations](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Old Games Can’t Compete With Modern Technology
 
  I initially thought that outdated graphics were the biggest reason today's kids don't like old games. While graphics are a factor, they're not the main one. Kids don't [care about ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) the same way adults do. My 10-year-old brother said he doesn't mind the pixelated graphics in old games at all; in fact, he loves simple graphics and prefers games like _Fortnite_, _Minecraft_, and _Roblox_ over the semi-realistic graphics found in games like _Forza Horizon 5_.
 
 ![A collage of boomer shooters consisting of Ion Fury, Quake, Duke Nukem 3D, and Doom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooter-hero.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 id Software/3D Realms
 
  My other brother, who is 13, said that while he doesn't like outdated graphics, the poor physics and game mechanics are the worst parts of old video games. I had him try _Burnout Paradise Remastered_, and he hates how clunky the cars feel. He couldn't get the hang of how to smash opponents' cars and where to find the new cars he had just unlocked. He also said that he couldn't find his way around the interface.
@@ -73,19 +79,19 @@ id Software/3D Realms
 
 ![A pile of retro game controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1065532730.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [robtek/Shutterstock.com](https://www.shutterstock.com/image-photo/taipei-taiwan-february-19-2018-pile-1065532730)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Kids Are Constantly Exposed to New Games
 
@@ -98,10 +104,10 @@ id Software/3D Realms
 ![An LED TV hanging on the wall of a living room, with a soccer player onscreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/LED-tv-living-room-soccer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Vasyl Shulga/Shutterstock.com](https://www.shutterstock.com/image-photo/3d-illustration-living-room-led-tv-728233795)_
 
@@ -113,20 +119,8 @@ _[Vasyl Shulga/Shutterstock.com](https://www.shutterstock.com/image-photo/3d-ill
 
 ![Roblox visible on a PC screen with LED backlight, keyboard, and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/roblox-visible-on-a-pc-screen-with-led-backlight-keyboard-and-mouse.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Cassiano Correia/Shutterstock.com](https://www.shutterstock.com/image-photo/curitiba-brazil-february-9-2021-roblox-1944605680)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Older Games Are to Blame, Too
 
  Old games don't randomly surge in popularity, and with so many newer games available, kids are unlikely to pick up something from the 90s. If we want younger gamers to be familiar with culturally significant games that we grew up with, it's on us to introduce them. Other than exposing my brothers to _Burnout Paradise_ recently, I admit that I haven't done my part, but I plan to change that.

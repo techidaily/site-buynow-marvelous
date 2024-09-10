@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Evolution of PC Gaming: Thriving Despite Initial Download Hassles"
-date: 2024-09-04T20:11:25.041Z
-updated: 2024-09-05T20:11:25.041Z
+date: 2024-09-09T07:03:36.832Z
+updated: 2024-09-10T07:03:36.832Z
 tags:
   - games
   - tv
@@ -11,8 +11,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ecfefae2f5882a90863822c25.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Ultimate Evolution of PC Gaming: Thriving Despite Initial Download Hassles
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Having so many game launchers on your PC is a new normal that PC gamers have come to accept but it leads to endless frustrations for gamers.
@@ -21,6 +33,18 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  The PC is the most popular gaming platform in the world, but things are far from perfect. A growing problem that's drawn the ire of many gamers over the past few years is the introduction of launchers which are required to buy, launch, and even update your games.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  There Are Too Many Launchers
 
  While typing this piece, I counted six game launchers on my PC: Steam, the Xbox app, GOG Galaxy, Epic Games Store, the EA app, and Ubisoft Connect or whatever it’s called this week. About a month ago, that number was seven, but I had to uninstall Battle.net to stop it from launching alongside the Xbox app.
@@ -29,18 +53,18 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
 ![Steam store showing a carousel of games including Cocoon and Cyberpunk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/steam-sc.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Valve
 
  Imagine having to use 10 different app stores on your smartphone, or 10 game stores on your PS5, Xbox, or Nintendo Switch because some apps and games are locked to certain stores. There would be riots. But when it comes to PC games, we’ve somehow come to accept that every major publisher using their own game launcher is normal. But it’s not.
 
  Not only is having a dozen game launchers on your PC far from normal, it also comes with a plethora of issues. Aside from Steam, GOG Galaxy, and to an extent the Xbox app (at least when it comes to stability and bugs, the functionality and back-end design of the Xbox app are two cans of worms I won’t open today), most PC game launchers as buggy as a rainforest floor and come with “features” that make using them anything but accessible, straightforward, or user-friendly.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Game Launchers Cause So Many Issues
 
  The reason why I deleted Battle.net was because it didn’t allow me to close it the regular way as long as the Xbox app was open (all the time in my case, since I’m subscribed to PC Game Pass). The cherry on the cake was that the app would show its head every single time I launched the Xbox app. Not only would it launch, but its window would also cover the Xbox app’s window, obscuring my view of the Xbox app and not allowing me to use it until I minimize or force close Battle.net.
@@ -59,12 +83,6 @@ Valve
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As for the Epic Games Store? This launcher is by far the worst-performing of the bunch. In fact, it’s so slow that I stopped opening it to claim free games a while ago and started opening the EGS in my browser instead (which runs radically faster). Epic’s launcher is yet another member of the group that loves logging me off every time I close it. This time, however, it’s even better because EGS constantly forgets my PC and thinks it’s a new machine. So, on top of having to log in, I also have to enter a four-digit code, with the email containing it sometimes taking ages to arrive.
 
  All those issues sometimes amalgamate, resulting in diabolic situations. I had purchased _Prince of Persia_ on EGS, meaning I sometimes have to log in to the EGS, wait for the email containing the [2FA](https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-pro-max-by-name-drfone-by-drfone-virtual-ios/) code to arrive, enter the 2FA code, wait for Ubisoft Connect to launch, log into it, allow it to update, and grant it another permission to launch the game. It’s no wonder I haven’t touched the game for weeks despite it hitting all the right buttons and being one of the best Metroidvanias of the last few years.
@@ -74,18 +92,18 @@ Valve
 ![Steam Store layout on an ultrawide monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-store-layout-on-an-ultrawide-monitor.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 This is what the Steam store looks like when I launch the Steam app in full screen mode on my ultrawide monitor. At least when I open Steam in the browser I can zoom in the web page...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  So What Can You Do About It?
 

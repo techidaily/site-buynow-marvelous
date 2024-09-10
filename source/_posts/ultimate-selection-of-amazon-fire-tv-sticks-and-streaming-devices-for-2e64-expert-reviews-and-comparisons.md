@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection of Amazon Fire TV Sticks and Streaming Devices for 2E64: Expert Reviews & Comparisons"
-date: 2024-09-04T20:11:24.696Z
-updated: 2024-09-05T20:11:24.696Z
+date: 2024-09-09T07:03:36.505Z
+updated: 2024-09-10T07:03:36.505Z
 tags:
   - buying-guides
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831313f94623bfe4b3f692f3df.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ultimate Selection of Amazon Fire TV Sticks and Streaming Devices for 2E64: Expert Reviews & Comparisons
 
 ###### [Read update](https://twitter-videos.techidaily.com/new-in-2024-simplifying-cross-platform-video-sharing-between-twitter-and-snapchat/) 
@@ -29,19 +41,43 @@ Best Amazon Fire TV Overall
 * [](https://www.amazon.com/dp/B08T6F8YBH?tag=htgprimedaysite-20)  
 ![amazon fire omni UHD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amazon-fire-omni-uhd.png)  
 #####  Amazon Fire TV Omni  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Amazon Fire TV Under $500  
 [$360 at Amazon](https://www.amazon.com/dp/B08T6F8YBH?tag=htgprimedaysite-20)
 * [](https://www.amazon.com/dp/B0CMDJ8TK3?tag=htgprimedaysite-20)  
 ![insignia F30](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/insignia-f30.png)  
 #####  Insignia F30  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Amazon Fire TV Under $300  
 [$170 at Amazon](https://www.amazon.com/dp/B0CMDJ8TK3?tag=htgprimedaysite-20)
 * [](https://www.amazon.com/dp/B0B7CLH7RW?tag=htgprimedaysite-20)  
 ![hisense u6Hf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/hisense-u6hf.png)  
 #####  Hisense U6HF  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Amazon Fire TV for Gaming  
 [$350 at Amazon](https://www.amazon.com/dp/B0B7CLH7RW?tag=htgprimedaysite-20)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What to Look for in an Amazon Fire TV in 2024
 
  Amazon's Fire TV platform is most commonly found on streaming devices, but a growing number of value-for-money televisions also use it. It puts content front and center, and Alexa's deep integration is helpful if you use voice controls to find TV shows and movies.
@@ -63,6 +99,12 @@ Best Amazon Fire TV for Gaming
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Amazon Fire TV Overall: [Amazon Fire TV Omni QLED](https://www.amazon.com/dp/B09N6Y5BTL?tag=htgprimedaysite-20) 
 
 [](https://www.amazon.com/dp/B09N6Y5BTL)
@@ -93,20 +135,8 @@ Best Amazon Fire TV for Gaming
 
 ![amazon fire omni QLED](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amazon-fire-omni-qled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Amazon Fire TV Overall
 
 #####  Amazon Fire TV Omni QLED
@@ -117,24 +147,12 @@ From excellent picture quality to hands-free Alexa support, the Amazon Fire TV O
 
 [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon%255F%255F75%255Fclass%255Fomn%2F6521170.p%3FskuId%3D6521170) [$410 at Amazon](https://www.amazon.com/dp/B09N6TPZ1K?tag=htgprimedaysite-20) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Amazon Fire TV Under $500: [Amazon Fire TV Omni](https://www.amazon.com/dp/B08T6F8YBH?tag=htgprimedaysite-20) 
 
 [](https://www.amazon.com/amazon-fire-tv-65-inch-omni-series-4k-smart-tv/dp/B08P3QVFMK)
 
 [![Amazon Fire TV Omni tv on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/amazon-fire-tv-omni.jpg) Amazon](https://www.amazon.com/amazon-fire-tv-65-inch-omni-series-4k-smart-tv/dp/B08P3QVFMK)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [](https://www.amazon.com/amazon-fire-tv-65-inch-omni-series-4k-smart-tv/dp/B08P3QVFMK) 
 
 | Pros                                            | Cons                                                 |
@@ -170,16 +188,10 @@ Amazon has produced the best Fire TV on the market in its first attempt at makin
 [$360 at Amazon](https://www.amazon.com/dp/B08T6F8YBH?tag=htgprimedaysite-20) 
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Amazon Fire TV Under $300: [Insignia F30 (43-inch)](https://www.amazon.com/dp/B0CMDJ8TK3?tag=htgprimedaysite-20) 
 
@@ -187,12 +199,6 @@ Amazon has produced the best Fire TV on the market in its first attempt at makin
 
 [![Insignia F30 on yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/insignia-f30.jpg) Insignia](https://www.amazon.com/Insignia-50-inch-Class-Smart-Fire/dp/B08X7K3H7K)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [](https://www.amazon.com/Insignia-50-inch-Class-Smart-Fire/dp/B08X7K3H7K) 
 
 | Pros                    | Cons                              |
@@ -223,12 +229,24 @@ The Insignia F30 is one of the better bargain Fire TVs on the market. It feature
 
 [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Finsigniatm%255F%255F43%255Fclass%2F6448758.p%3FskuId%3D6448758) [$170 at Amazon](https://www.amazon.com/dp/B0CMDJ8TK3?tag=htgprimedaysite-20) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Amazon Fire TV for Gaming: [Hisense U6HF](https://www.amazon.com/dp/B0B7CLH7RW?tag=htgprimedaysite-20) 
 
 [](https://www.amazon.com/dp/B0B7CLH7RW)
 
 [![Hisense U6HF on pink background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/Hisense-U6HF.jpg) Hisense](https://www.amazon.com/dp/B0B7CLH7RW)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.amazon.com/dp/B0B7CLH7RW) 
 
 | Pros                                                               | Cons                                      |
@@ -249,18 +267,24 @@ The Insignia F30 is one of the better bargain Fire TVs on the market. It feature
 ![hisense u6Hf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/hisense-u6hf.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Amazon Fire TV for Gaming
 
@@ -278,18 +302,6 @@ The Hisense U6HF offers a good gaming experience thanks to its low input lag, VR
 
 [![Amazon Fire TV Omni tv on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/amazon-fire-tv-omni.jpg) Amazon](https://www.amazon.com/dp/B09N6Y5BTL)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [](https://www.amazon.com/dp/B09N6Y5BTL) 
 
 | Pros                                          | Cons                                     |
@@ -311,10 +323,10 @@ The Hisense U6HF offers a good gaming experience thanks to its low input lag, VR
 ![amazon fire omni QLED](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amazon-fire-omni-qled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
@@ -329,10 +341,16 @@ From excellent picture quality to hands-free Alexa support, the Amazon Fire TV O
 [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon%255F%255F75%255Fclass%255Fomn%2F6521170.p%3FskuId%3D6521170) [$410 at Amazon](https://www.amazon.com/dp/B09N6TPZ1K?tag=htgprimedaysite-20) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
@@ -344,6 +362,12 @@ From excellent picture quality to hands-free Alexa support, the Amazon Fire TV O
 
  It's pretty easy to [reset your Amazon Fire TV](https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-gt-10-pro-by-drfone-android/). All you have to do is navigate to "Settings" and then choose "My Fire TV." You'll get the "Reset to Factory Defaults" option on the My Fire TV page. Remember, using this option will erase all your data from the Fire TV, including any apps or settings.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do you fix when an Amazon Fire TV is critically low on storage?
 
  Amazon Fire TVs typically come with 16GB of storage, out of which a few gigs are reserved for the operating system. So it's possible to encounter "low on storage" errors. You can fix these by [clearing the cache](https://extra-support.techidaily.com/updated-screen-savvy-starting-point-deciphering-display-standards/) for various downloaded apps, [deleting apps](https://some-techniques.techidaily.com/illustration-revolution-adding-depth-to-text-with-3d-for-2024/) that you don't use, and removing any [sideloaded files](https://eaxpv-info.techidaily.com/updated-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube-for-2024/) that you no longer need. You can also reset your Fire TV to start fresh, but it's the nuclear option.

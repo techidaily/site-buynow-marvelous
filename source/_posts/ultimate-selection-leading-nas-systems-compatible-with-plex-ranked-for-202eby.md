@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection: Leading NAS Systems Compatible with Plex, Ranked for 202Eby"
-date: 2024-09-04T20:11:21.819Z
-updated: 2024-09-05T20:11:21.819Z
+date: 2024-09-09T07:03:33.726Z
+updated: 2024-09-10T07:03:33.726Z
 tags:
   - buying-guides
 categories:
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  The best NAS devices for Plex make it easy to access your favorite media across a variety of devices. These four products offer you a great way to build your own server and upgrade your streaming game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  UPDATE: 06/20/2024
 
  We've reviewed our recommendations and have updated our pick for the best Mac NAS for Plex.
@@ -29,12 +35,24 @@ Best NAS for Plex Overall
 * [](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)  
 ![Terramaster-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/terramaster-1.png)  
 The Terramaster NAS on a white background.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  TerraMaster F2-223  
 Best Budget NAS for Plex  
 [See at Amazon](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/QNAP-TS-464-8G-US-High-Performance-Quad-core-Connectivity/dp/B0BQ5TWCL8?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)  
 ![QNAP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/qnap.png)  
 The QNAP TS-464 on a white background.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  QNAP TS-464  
 Best High-Capacity NAS for Plex  
 [$565 at Amazon](https://www.amazon.com/QNAP-TS-464-8G-US-High-Performance-Quad-core-Connectivity/dp/B0BQ5TWCL8?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)
@@ -59,16 +77,16 @@ Best Mac NAS for Plex
 
  To help you sift through the hundreds of options, here's a look at the best NAS devices for Plex. These run the gamut from affordable, entry-level devices to ultra-premium products designed for enthusiasts. They also span PC and Mac, ensuring there's a NAS setup for you regardless of your rig.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best NAS for Plex Overall: [Asustor AS5202T](https://www.amazon.com/Asustor-AS5202T-Inspired-Attached-Dual-Core/dp/B07PW9DV56?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
 ![Asustor AS5202T on desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/Asustor-AS5202T.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Asustor
 
 | Pros                              | Cons                                 |
@@ -91,10 +109,10 @@ Asustor
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best NAS for Plex Overall
 
@@ -106,22 +124,10 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 [$269 at Amazon](https://www.amazon.com/Asustor-AS5202T-Inspired-Attached-Dual-Core/dp/B07PW9DV56?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Budget NAS for Plex: [TerraMaster F2-223 Two-Bay NAS Storage](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
 ![Terramaster Lifestyle (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/terramaster-lifestyle-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Terramaster
 
 | Pros                          | Cons           |
@@ -139,13 +145,25 @@ Terramaster
 ![Terramaster-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/terramaster-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Budget NAS for Plex
 
 #####  TerraMaster F2-223
@@ -154,10 +172,22 @@ Clocking in at a great price, the TerraMaster F2-223 is ideal for Plex thanks to
 
 [See at Amazon](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best High-Capacity NAS for Plex: [QNAP TS-464-8G-US Four-Bay NAS](https://www.amazon.com/QNAP-TS-464-8G-US-High-Performance-Quad-core-Connectivity/dp/B0BQ5TWCL8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
 ![71DzS4Wr 5L._AC_SL1500 (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/71dzs4wr-5l-_ac_sl1500-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 QNAP
 
 | Pros                              | Cons            |
@@ -188,10 +218,10 @@ Plex users with a large (and growing) library will find the QNAP TS-464 to be a 
 [$565 at Amazon](https://www.amazon.com/QNAP-TS-464-8G-US-High-Performance-Quad-core-Connectivity/dp/B0BQ5TWCL8?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1741901-REG/qnap%5Fts%5F464%5F8g%5Fus%5Fts%5F464%5F4%5Fbay%5Fhigh%5Fperformance%5Fdesktop.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2001147) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Mac NAS for Plex: [Synology DiskStation DS423+](https://www.bhphotovideo.com/c/product/1757288-REG/synology%5Fdiskstation%5Fds423%5F4%5Fbay%5Fnas.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2001147) 
 
@@ -215,12 +245,6 @@ Synology
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Mac NAS for Plex
 
 #####  Synology DiskStation DS423+
@@ -229,39 +253,39 @@ The Synology DiskStation DS423+ not only works with Mac, but it offers four bays
 
 [$500 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1757288-REG/synology%5Fdiskstation%5Fds423%5F4%5Fbay%5Fnas.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2001147) 
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Plex?
 
  Plex is a streaming service that hosts a massive library of media and allows you to upload your own content. Essentially, it can be used to catalog all your favorite content in one place and streamline your streaming. Learn more about Plex with our [extensive overview](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How do I build a NAS for Plex?
 
  You'll first want to create a Plex account. Then, you'll need to hunt down a NAS that offers support for Plex. Here's a useful [spreadsheet](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit#gid=1274624273) provided by the company to help your search, though we'd recommend picking one of the four mentioned above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What is RAID?
 

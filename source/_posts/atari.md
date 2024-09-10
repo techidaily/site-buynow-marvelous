@@ -1,7 +1,7 @@
 ---
 title: Atari
-date: 2024-09-04T20:11:26.216Z
-updated: 2024-09-05T20:11:26.216Z
+date: 2024-09-09T07:03:37.927Z
+updated: 2024-09-10T07:03:37.927Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/atari-7800-plus-retro-gaming-console-packaging.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Atari
 
 Atari has unveiled the Atari 7800+, a remake of its retro home gaming console the Atari 7800, scheduled to arrive later in 2024 featuring backward compatibility and other perks.
@@ -23,6 +29,12 @@ Atari has unveiled the Atari 7800+, a remake of its retro home gaming console th
 
 ![Atari's CX78+ wireless gamepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/atari-cx78-plus-wireless-gamepad-three-quarters-view.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Atari
 
  Atari is offering some new game cartridges at launch, purchased separately at $30 a piece, including Bounty Bob Strikes Back, Asteroids Deluxe, modernized versions of Berzerk and its sequel Frenzy, Space Duel, etc. There are also multi-carts with collections of games like Armor Ambush, Star Strike, Astroblast, and Frogs & Flies. Another one bundles three classic Epyx Sports titles on one cartridge. If your collection of Atari 2600 and 7800 games is lying around somewhere, dust those cartridges off because the 7800+ will readily accept them.
@@ -31,6 +43,12 @@ Atari
 
 ![The packaging of Atari's CX40+ wireless joystick.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/atari-cx40-plus-wireless-joystick-packaging.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Atari
 
  In the same vein, the new 7800+ is a recreation of the Atari 7800 ProSystem, launched in 1986\. The original 7800 could run almost all Atari 7800 and 2600 cartridges, which was a major selling point—backward compatibility was more important after the video game crash of 1983\. Powered by a 1.79MHz chip, the original 7800 offered performance comparable to the Nintendo NES. It was bundled with the Pole Position II racing title and a joystick, sported significantly improved graphics over its predecessors, and featured digitally signed cartridges which enabled Atari to prevent low-quality games from being distributed. The 7800 was the first Atari home console designed by a third-party company, General Computer Corporation, and was discontinued six years later in 1992.
@@ -123,10 +141,3 @@ Atari
 <li><a href="https://tech-recovery.techidaily.com/what-are-device-drivers-solutions-to-fix-common-driver-issues-in-windows-os/"><u>What Are Device Drivers? Solutions to Fix Common Driver Issues in Windows OS</u></a></li>
 <li><a href="https://buynow-marvelous.techidaily.com/yokus-island-adventure-exploring-the-surprising-twists-of-an-epic-journey/"><u>Yoku's Island Adventure: Exploring the Surprising Twists of an Epic Journey</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

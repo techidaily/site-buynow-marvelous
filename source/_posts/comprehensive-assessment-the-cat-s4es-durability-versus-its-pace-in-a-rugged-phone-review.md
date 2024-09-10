@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review"
-date: 2024-09-04T20:11:17.978Z
-updated: 2024-09-05T20:11:17.978Z
+date: 2024-09-09T07:03:30.054Z
+updated: 2024-09-10T07:03:30.054Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Comprehensive Assessment: The Cat S4e's Durabil
 thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c763bbf782b71c474fcdd45b6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Insignia's Budget-Friendly Fire TV: Ultra HD, Alexa Integration Unveiled in Our Comprehensive Review
 
 4.2
@@ -17,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/o9wU_FcPVy3GE-O8U-CBBq5Z-vY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4135681-1-3cce4a8c20b848baa2594db3b20ec943.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
  What We Like
@@ -38,10 +50,22 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Insignia NS-43DF710NA19 43" 4K Fire TV
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/Zu1XJXI9ru8-HVTz9rG_PZoTkxw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4135681-1-3cce4a8c20b848baa2594db3b20ec943.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
 [View On Amazon](https://www.amazon.com/dp/B07FPQXN46/?tag=lifewire-onsite-prod-20&ascsubtag=4770716%7Cn56822f1b330c4edcad099084c88e727917%7CB07FPQXN46)
@@ -71,6 +95,12 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Thick body, thick bezel, but light enough for one person to handle**
 
  The Insignia NS-43DF710NA19 is thick and boxy, with a fairly wide bezel, and large feet that mount perpendicularly instead of angling like a lot of other inexpensive sets. It isn’t anything special to look at, but that’s to be expected from a budget line like Insignia. The good thing is that it’s fairly light, at less than 20 pounds, and the large feet make it quite steady.
@@ -89,12 +119,6 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: You’ll need a Phillips screwdriver and your Amazon password**
 
  Despite being a[43-inch class television](https://www.lifewire.com/best-43-inch-tvs-4588664) , the Insignia NS-43DF710NA19 is light enough for most people to handle and set up without any outside assistance. It’s even packed in a bag that has convenient handles, making it easy to lift up and out of the box and set carefully on a table for assembly.
@@ -129,19 +153,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/OfRGDj7hZY6nrkoT_HqDEM1S9Ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-2-8b38ffeb5ce44c0d9a6c7aa7f6dce4cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Ports: Full complement of digital and analog inputs and outputs**
 
@@ -155,14 +173,14 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/V97gOTfZ6Zys4aZv9gzGupbwRi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-3-b8a8cb21803f40ada92bf08de6ee6fc0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Built-in Fire TV with Alexa voice controls is snappy and responsive**
 
  The Insignia NS-43DF710NA19 is the Fire TV edition of this hardware. It also comes in a slightly different configuration that’s built on the Roku platform instead, but this one has Fire TV baked in with no option to switch.
@@ -177,16 +195,22 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
  You can ask Alexa to tune to specific channels, and the Fire TV interface has a section for over the air television channels, but the implementation is a little clumsy in its current incarnation.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Right in line with other 43-inch class smart TVs**
 
  The Insignia NS-43DF710NA19 has an MSRP of $299.99, but it’s typically available for around $249.99\. Priced at around $249.99, it’s right in the general neighborhood of other 43-inch class smart televisions, including other Fire TVs, sets built around Roku, and others with proprietary systems. There are a lot of decent options in the general $200 to $250 range, but this one is the best of the bunch if you’re firmly entrenched in Amazon’s ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Beats out other Fire TV models**
 
  Compared to previous 43-inch class televisions built on the Fire TV platform, the Insignia NS-43DF710NA19 is the clear winner. For example, the Toshiba 43LF421U19 is a 43-inch class set that’s also built on the Fire TV platform, and sells for about $299.99, but it’s worse than the Insignia in almost every category. It isn’t 4K or HDR-capable, the viewing angles are worse, colors aren’t as good, and the built-in Fire TV is sluggish compared to the Insignia unit that we tested.
@@ -202,10 +226,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  The Insignia NS-43DF710NA19 isn’t perfect, but it’s probably as close as you’ll get at this price point. This is definitely the UHD TV to own in the 43-inch class if you’re deep in the Amazon ecosystem and really want to go with Fire TV as your smart TV platform. It has great color reproduction, excellent viewing angles, and even decent sound from the onboard stereo speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

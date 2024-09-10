@@ -1,7 +1,7 @@
 ---
 title: "Canon SX420: The Ultimate Travel Camera with Max Zoom Capabilities"
-date: 2024-08-09T00:43:33.808Z
-updated: 2024-08-10T00:43:33.808Z
+date: 2024-09-09T06:56:56.595Z
+updated: 2024-09-10T06:56:56.595Z
 categories:
   - BestProducts
 description: "This Article Describes Canon SX420: The Ultimate Travel Camera with Max Zoom Capabilities"
@@ -13,11 +13,14 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Canon PowerShot SX70
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 Lifewire / Andy Zahn
@@ -43,15 +46,21 @@ Lifewire / Andy Zahn
 4.3
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Canon PowerShot SX70
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andy Zahn
 
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
@@ -96,9 +105,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
@@ -109,9 +115,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -120,6 +123,12 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -129,7 +138,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Photo Quality: Great colors, average resolution**
 
@@ -147,6 +159,12 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -176,7 +194,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Lots of options**
 
@@ -194,6 +215,18 @@ Lifewire / Andy Zahn
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition: Dominating from the middle ground**
 
  Canon hasn’t tried to push any boundaries with the SX70 HS. Instead, it plays it safe and just does everything very well. Two of its main competitors in the superzoom arena, Panasonic and Nikon, offer intriguing alternatives by either cutting costs or offering groundbreaking technological advances.
@@ -210,15 +243,18 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerShot SX70
@@ -252,3 +288,38 @@ Lifewire / Andy Zahn
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-step-up-your-mobile-filmmaking-with-these-9-must-have-tools/"><u>[New] In 2024, Step Up Your Mobile Filmmaking with These 9 Must-Have Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-evaluating-mr-beasts-monetary-world/"><u>[Updated] In 2024, Evaluating Mr. Beast's Monetary World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[Updated] In 2024, How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-quick-picture-viewer-on-windows-10/"><u>2024 Approved Ultimate Quick Picture Viewer on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-essential-warnings-before-choosing-ai-as-your-mental-health-companion/"><u>5 Essential Warnings Before Choosing AI as Your Mental Health Companion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers-for-2024/"><u>Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/collecting-nostalgia-a-comparison-of-laserdisc-vs-vhs-value-amongst-enthusiasts/"><u>Collecting Nostalgia: A Comparison of Laserdisc Vs. VHS Value Amongst Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-ebook-subscriptions-kobo-plus-vs-kindle-unlimited-which-one-wins/"><u>Comparing eBook Subscriptions: Kobo Plus Vs. Kindle Unlimited - Which One Wins?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/consistent-with-the-past-paramountplus-set-for-yet-another-increase-in-subscription-costs/"><u>Consistent with the Past: Paramount+ Set for Yet Another Increase in Subscription Costs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/creating-an-intimate-presentation-device-from-a-raspberry-pi-a-step-by-step-guide/"><u>Creating an Intimate Presentation Device From a Raspberry Pi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cut-the-price-by-half-uncover-this-secret-promo-and-enjoy-paramountplus-at-just-50/"><u>Cut the Price by Half: Uncover This Secret Promo and Enjoy Paramount+ at Just 50%!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decade-long-journey-through-manga-why-i-choose-tablets-over-ereaders/"><u>Decade-Long Journey Through Manga: Why I Choose Tablets Over eReaders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-websites-with-unrestricted-access-to-ebooks-and-comics-without-drm-protection/"><u>Discover The Leading Websites With Unrestricted Access To Ebooks & Comics Without DRM Protection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/effective-strategies-to-fool-netflix-into-believing-youre-watching-at-home/"><u>Effective Strategies to Fool Netflix Into Believing You're Watching at Home</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/end-of-an-era-planned-termination-of-redbox-rental-operations/"><u>End of an Era: Planned Termination of Redbox Rental Operations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-your-audio-editing-with-audacitys-latest-release-cloud-support-data-backups-and-cross-device-sync-available-in-update-35/"><u>Enhance Your Audio Editing with Audacity's Latest Release: Cloud Support, Data Backups, and Cross-Device Sync Available in Update 3.5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-your-pc-gaming-experience-with-controller-and-mouse-combo/"><u>Enhance Your PC Gaming Experience with Controller & Mouse Combo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-your-viewing-experience-rokus-latest-image-clarity-boost/"><u>Enhance Your Viewing Experience: Roku's Latest Image Clarity Boost</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/epic-gaming-experience-on-your-steam-deck-a-step-by-step-installation-guide/"><u>Epic Gaming Experience on Your Steam Deck: A Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/excellent-choices-of-podcast-listening-tools-on-apples-mobile-platform/"><u>Excellent Choices of Podcast Listening Tools on Apple's Mobile Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-causes-of-high-latency-tips-for-reducing-your-game-lag/"><u>Exploring the Causes of High Latency: Tips for Reducing Your Game Lag</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/free-flicks-with-ps-plus-a-guide-to-navigating-sonys-hidden-cinema-bonuses/"><u>Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-more-bang-for-your-buck-discover-the-ultimate-5-tips-to-utilize-apple-music-valuefully/"><u>Get More Bang for Your Buck - Discover the Ultimate 5 Tips to Utilize Apple Music Valuefully</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/go-the-extra-mile-with-a-portable-solar-lantern-ideal-for-wilderness-adventures-and-emergency-backups/"><u>Go the Extra Mile with a Portable Solar Lantern – Ideal for Wilderness Adventures & Emergency Backups</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-has-the-advancement-of-todays-televisions-impacted-classic-light-gun-video-games/"><u>How Has the Advancement of Today's Televisions Impacted Classic Light Gun Video Games?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-14-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 14 without Passcode</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-plain-definitions-in-storytelling-basics/"><u>In 2024, Plain Definitions in Storytelling Basics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/introducing-cooler-masters-new-fully-customizable-mk77n-a-revolutionary-mechanical-keyboard/"><u>Introducing Cooler Master's New Fully-Customizable MK77n: A Revolutionary Mechanical Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-libgdk-win32-20-0dll-missing-errors-in-windows-best-practices-and-tips/"><u>Overcoming libgdk-win32-2.0-0.dll Missing Errors in Windows – Best Practices and Tips</u></a></li>
+</ul></div>

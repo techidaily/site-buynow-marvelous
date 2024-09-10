@@ -1,7 +1,7 @@
 ---
 title: "Masterful Moves: Discover the Timeless Appeal of Turn-Based Games From Board to Virtual Worlds"
-date: 2024-09-04T20:02:08.042Z
-updated: 2024-09-05T20:02:08.042Z
+date: 2024-09-09T07:03:38.222Z
+updated: 2024-09-10T07:03:38.222Z
 tags:
   - games
   - tv
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
 ## Masterful Moves: Discover the Timeless Appeal of Turn-Based Games From Board to Virtual Worlds
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Turn-based games are not inferior to real-time games; they offer different strategic and narrative depth.
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  There's an odd sentiment in the video game world that turn-based games are inferior to real-time action games in various ways. This demonstrates multiple misunderstandings that wouldn't have happened if those people hadn't stopped to think about it first.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Real-Time Games Are Not “More Advanced” Than Turn-Based
 
  Games are designed with particular goals in mind, and real-time and turn-based designs each solve different problems. The type of game you're making dictates whether one or the other is the best way to go about things. It is true that technological limitations have made turn-based designs the only practical choice at certain points in time. Consoles like the NES simply could not process things quickly enough to have real-time gameplay in many cases. However, technological limitations are not the issue anymore!
@@ -30,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
  Chess is thousands of years old and has probably never been more popular, nor have we perfected playing of this seemingly infinite game. The word "obsolete" doesn't even apply to turn-based game design.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Human Brains Are the Bottleneck
 
@@ -42,42 +54,30 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
  However, if you're controlling a party of characters with hundreds of skills and move combinations, facing multiple opponents? There's just no way our ape brains can handle all of that in real time, even if we had enough fingers to press all the buttons. So games like _Baldur's Gate 3_, _Marvel's Midnight Suns_, and _XCOM_ will remain turn-based until we somehow upgrade our brains to do more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Turn-Based Games Offer More Depth
 
 ![The opening scene of Baldur's Gate 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/vlcsnap-2024-05-30-10h29m11s399.png) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Because turn-based games give us time to think, it means we can have games with much more strategic, tactical, and narrative depth. You can plan out your actions, or engage with complex challenges that go beyond simply hitting something with a bigger and bigger stick. When you're not on the clock, and you can take as long as you want to make your decisions, it's possible to ramp up the complexity far beyond what's possible in a real-time game.
 
  In real life, most decisions we make are not split-second, so there's an immense amount of enjoyment on offer from working your way through a satisfying, more cerebral experience. There's nothing wrong with a visceral button-masher, but you can't live on junk food alone!
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Turn-Based Games Can Be More Tense and Exciting Than Real-Time
 
@@ -85,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  There are also plenty of tense moments where you aren't sure if your carefully-planned actions will work out or not. If your opponents don't do what you were expecting on their turn, it could throw out your entire plan. I've definitely felt my heart rate go up hoping my human Chess opponent didn't realize I was doing where a game could go in any direction. Ironically, it sometimes takes a turn-based game to really make you think on your feet!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  There Will Always Be a Place for Turn-Based Games
 
  There will never be a time when turn-based games are replaced by some other game design type. Turn-based games may evolve and become more refined, but the core concept of taking your time, in turns, to make your move can never die. We'll never be so smart (or so dumb) that turn-based games have no place.

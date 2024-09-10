@@ -1,7 +1,7 @@
 ---
 title: "A Year with Steam Deck & Rouges: My Insights After a Decade of Gaming"
-date: 2024-09-04T20:11:26.170Z
-updated: 2024-09-05T20:11:26.170Z
+date: 2024-09-09T07:03:37.882Z
+updated: 2024-09-10T07:03:37.882Z
 tags:
   - games
   - tv
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ## A Year with Steam Deck & Rouges: My Insights After a Decade of Gaming
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * SteamOS offers a smooth gaming experience with Game Mode and controller optimization, outshining Windows on handhelds.
@@ -21,10 +27,22 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
  I've been using my Steam Deck since the tail end of 2022 and a ROG Ally since July 2023\. In that time I've used both enough to form some strong opinions. Here are my thoughts on the two handhelds, which I prefer, and the reasoning behind my decision.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Software-Wise, I Strongly Prefer SteamOS
 
 ![SteamOS on Steam Deck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/steamos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Steam
 
 [SteamOS](https://fox-blue.techidaily.com/2024-approved-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/) has come a long way from the janky OS found on the first wave of [Steam Machines](https://win11-tips.techidaily.com/essential-fix-guide-for-win1011s-corrupted-bin-errors/) to a proper Windows replacement for gaming purposes, with support for more than 10,000 games. I love it. I love Game Mode and the fact that a casual user doesn't have to switch to Desktop Mode even once because Steam Deck's Game Mode has everything you need to play your Steam games.
@@ -41,18 +59,6 @@ Steam
 
  SteamOS isn't perfect either. I have experienced weird glitches and issues after multiple updates, slow download speeds over Wi-Fi, and I have to jump through multiple hoops to make non-Steam games work. But at the end of the day, I strongly prefer SteamOS to Windows as my OS of choice on a gaming-centric handheld.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When It Comes to Power and Battery Management, It's a Tie
 
  When it comes to power, the ROG Ally is a beast that runs circles around the Steam Deck. That said, I'm still impressed with the level of performance my Steam Deck can deliver with its max [TDP](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/) pegged at 15W. Also, while the Ally is quite potent for a handheld, it needs at least 12W-13W to show its muscles, while the Deck can run less demanding games with less than 10W of power.
@@ -65,12 +71,6 @@ Steam
 
  The ROG Ally's [battery life is dismal](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), and I hope that the ROG Ally X [delivers on its promise](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision) and packs a much larger cell than the 40Wh found in the OG Ally.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The ROG Ally Has Better Build Quality, Controls, and Ergonomics
 
 ![Steam Deck vs ROG Ally laying next to each other.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/steam-deck-vs-rog-ally-controls-and-design.jpg) 
@@ -95,12 +95,6 @@ Goran Damnjanovic / How-To Geek
 
 ![Steam Game Library with assorted titles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52781464329_36035301f1_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  This is one area where I have a clear winner. While the Windows-on-handheld experience is less than stellar, at least you know that you'll be able to play any PC game you want (as long as the Ally has enough oomph). Better still, I can seamlessly mod games on the Ally, I just need to hook a keyboard and mouse so I don't pull my hair out while doing it.
@@ -110,20 +104,26 @@ Jason Fitzpatrick / How-To Geek
  On the Steam Deck the process of installing and playing games is pretty straightforward most of the time as well, unless you want to play a non-Steam game. In that case, you have to visit Desktop Mode, [install third-party launchers such as Heroic](https://youtube-blog.techidaily.com/n-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/), and sometimes even run Konsole or find your way through the system to apply some fixes, update Proton, or perform some other procedure needed to make a game run at all, which can be a huge pain. At least the process of setting up your emulators with EmuDeck is pretty painless.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Extra Features and Docked Mode: Another Tie
 
 ![Steam Deck hooked to a dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/dc58cf90.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Valve
 
@@ -140,10 +140,10 @@ Valve
  Local game streaming with Moonlight and Sunshine works better on my Ally. Despite [disabling the 2.4GHz band](https://extra-information.techidaily.com/new-boosting-skypes-performance-with-advanced-zoom-functionalities/) on my router, which resulted in a massive improvement in download speeds and overall network stability on my Deck, I can still notice occasional stuttering when streaming games. Conversely, I experience almost no stuttering on the Ally. There might be a dropped frame or two in the first few minutes, but it's smooth sailing all around after that. This, coupled with the fact that I can stream at 120 frames per second to my Ally, makes it a better device for local game streaming. The situation is probably better on the Deck OLED since it comes with a Wi-Fi 6E module and you can stream at 90fps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Rog Ally Is My Favorite, With One Exception
 

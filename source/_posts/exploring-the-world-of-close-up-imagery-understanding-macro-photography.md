@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2024-09-04T20:02:02.949Z
-updated: 2024-09-05T20:02:02.949Z
+date: 2024-09-09T07:03:38.143Z
+updated: 2024-09-10T07:03:38.143Z
 tags:
   - games
   - tv
@@ -11,8 +11,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497adc4a29c490c9f0b91ceeacb3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exploring the World of Close-Up Imagery: Understanding Macro Photography
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Macro photography involves extreme close-up photography of small subjects for detailed shots.
@@ -29,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  So, if you see a finely-detailed image of a tiny subject, but it's still something you can see with the naked eye, then you're almost certainly looking at macro photography.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Macro Lenses, Macro Smartphone Cameras, and Macro Compact Camera Modes
 
  While you can take any camera system and put it up as close as possible to a small subject, you may not get the result that you want. Macro photography requires a lens with a very short focal distance from the subject. That is, it needs to have the ability to focus on something that's very close to the lens. You can also get lenses that are essentially macro telephoto lenses, which can create that 1:1 reproduction ratio on the sensor while having the subject relatively far away from the lens, but that's not how a typical macro lens works.
@@ -44,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![Sigma 105mm F2.8 EX DG OS HSM Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sigma-105mm-f2-8-ex-dg-os-hsm-macro-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Sigma 105mm F2.8 EX DG OS HSM Macro
 
@@ -65,18 +77,18 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
  Finally, though they are rare to see these days, many compact dedicated digital cameras also have a "macro mode", but the results from this mode have never been great, and really don't let you get nearly as close to the subject as a true macro lens does.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Macro Photography Lighting Can Be a Challenge
 
  With their extremely short focal distances, and very shallow depth of field, macro photos often suffer from a lack of good lighting. Lighting is paramount in any sort of photography (it literally means the capture of light after all), but perhaps never more than with macro shots. This is why many macro lenses, and macro cameras on some phones have a built-in LED ring to light up the subject.
 
  Some of the most specialized (and expensive!) macro lenses are called ["probe" lenses](https://www.amazon.com/Venus-Laowa-24mm-14-Probe/dp/B07JYHGNHQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002766&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-is-macro-photography%2F&asc%5Fcampaign=Evergreen), which can be inserted into tight spaces such as the inside of a log or into crevices. These lenses almost always have built-in lights for the same reason. When I take macro photos with my phone, I often use a supplementary light, such as the flashlight from someone else's phone, or even a dedicated ring light. For natural outdoor lighting, it's all about the angle and letting direct or bouncing from the sun illuminate the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Best Subjects for Macro Photography
 
  One of the reasons I love taking macro photos is simply because the tiny world beneath our feet is so fascinating. The best subjects to shoot for macro photography are tiny plants and animals. Also, there's no reason why you can't film using macro lenses, although keeping a moving subject in focus can be quite a challenge.
@@ -92,10 +104,10 @@ Sydney Louw Butler / How-To Geek
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek
 
@@ -103,12 +115,6 @@ Sydney Louw Butler / How-To Geek
 
 ![Macro photo of jumping spider on a leaf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-jumping-spider-on-a-leaf.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler / How-to Geek
 
  Or, perhaps my favorite shot ever of this grasshopper hiding in an outdoor potted plant.
@@ -116,10 +122,10 @@ Sydney Louw Butler / How-to Geek
 ![macro photo of a grasshopper taken with S21 Ultra smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Grasshopper-Macro-S21.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Butler/How-To Geek
 

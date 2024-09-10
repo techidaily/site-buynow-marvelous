@@ -1,7 +1,7 @@
 ---
 title: "The CAT S42 Phone Tested: Exceptional Durability with a Trade-Off in Velocity"
-date: 2024-08-09T00:43:37.255Z
-updated: 2024-08-10T00:43:37.255Z
+date: 2024-09-09T07:03:05.836Z
+updated: 2024-09-10T07:03:05.836Z
 categories:
   - BestProducts
 description: "This Article Describes The CAT S42 Phone Tested: Exceptional Durability with a Trade-Off in Velocity"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes The CAT S42 Phone Tested: Exceptional Durabilit
 thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hardness Must Be Balanced with Biocompatibility to Prevent Damage to Opposing Teeth and Tissues
 
 The best smartwatches balance beauty and practicality, so you can proudly wear them whether working out or at the office.
@@ -99,7 +105,10 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 **TL;DR:** Sleek and stylish, the Samsung Galaxy Watch 6 has some great features provided you’re an Android phone owner. Its body composition tool is a particular highlight.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Why We Recommend This
 
@@ -132,7 +141,16 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 * **What do buyers think?** The Samsung Galaxy Watch 6 has over 3,900 ratings on Amazon, with 88% of those rating the watch either five or four stars. The overall average rating is 4.5 out of 5.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Easiest on the Budget
 
@@ -147,7 +165,10 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 **TL;DR:** More affordable than most Garmin watches, the Garmin Vivoactive 5 offers all the key features while not looking too sporty.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Why We Recommend This
 
@@ -182,12 +203,16 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 * **What do buyers think?** The Garmin Vivoactive 5 has over 1,800 ratings on Amazon, with 76% of them rating it five or four stars. Its average rating is 4.4 out of 5.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How We Test
 
@@ -203,9 +228,6 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 
  I used all the devices for several weeks, with some smartwatches used for months. I wore them daily while working, exercising, relaxing, and asleep.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Look For
 
  Buying a smartwatch involves finding the right balance between looks and practicality. Consider where you plan on wearing it, such as in the office or when walking, and plan accordingly.
@@ -219,16 +241,10 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 [The Best Fitness Trackers of 2024](https://www.lifewire.com/best-fitness-trackers-8656291)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Other Smartwatches We Reviewed
 
@@ -264,3 +280,41 @@ Tell us why!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[New] 2024 Approved Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>[Updated] 2024 Approved Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-motorola-edgeplus-bridging-mid-range-and-high-end-but-missing-key-marks/"><u>A Closer Look at the Motorola Edge+ - Bridging Mid-Range and High-End but Missing Key Marks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-the-user-friendly-netatmo-weather-station-for-tech-savvy-homeowners/"><u>A Comprehensive Review of the User-Friendly Netatmo Weather Station for Tech Savvy Homeowners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-cleaning-solutions-at-home-the-complete-rundown-of-the-dreame-bot-l1-0-pro-review/"><u>Advanced Cleaning Solutions at Home - The Complete Rundown of the Dreame Bot L1 0 Pro Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-ipad-102-inch-8th-generation-review-apples-most-affordable-ipad-is-better-than-ever/"><u>Apple iPad 10.2-Inch (8Th Generation) Review: Apple’s Most Affordable iPad Is Better Than Ever</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-right-moment-to-upgrade/"><u>Assessing the Right Moment to Upgrade</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/auditory-capture-techniques-for-professional-note-takers/"><u>Auditory Capture Techniques for Professional Note-Takers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blast-from-the-past-expert-insights-into-playing-super-mario-bros-on-the-timeless-nintendo-game-and-watch/"><u>Blast From the Past: Expert Insights Into Playing Super Mario Bros. On the Timeless Nintendo Game & Watch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-marvels-in-depth-analysis-of-caixuns-75-4k-android-tv/"><u>Budget Marvels: In-Depth Analysis of Caixun's 75 4K Android TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capture-life-in-detail-with-canons-42x-zoom-in-sx420/"><u>Capture Life in Detail with Canon's 42X Zoom in SX420</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-tablet-devices-based-on-central-processing-unit-capabilities/"><u>Comparing Tablet Devices Based on Central Processing Unit Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-netgear-ex3700-ac750-wireless-range-expander-evaluation/"><u>Comprehensive Netgear EX3700 AC750 Wireless Range Expander Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-moto-g-power-remarkable-durability-meets-impressive-power-management/"><u>Comprehensive Review of the Moto G Power - Remarkable Durability Meets Impressive Power Management</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-drive-samsung-galaxy-note20-ultra-5g-unboxed-and-analyzed/"><u>Comprehensive Test Drive: Samsung Galaxy Note20 Ultra 5G Unboxed & Analyzed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cyberpower-cp685avrg-unit-assessment-essential-uninterruptable-power-supply-successfully-performs/"><u>Cyberpower CP685AVRG Unit Assessment: Essential Uninterruptable Power Supply Successfully Performs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-appeal-a-critical-review-of-the-samsung-galaxy-tab-s3s-features/"><u>Decoding the Appeal - A Critical Review of the Samsung Galaxy Tab S3's Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-ai-experience-the-five-leading-ai-powered-prompt-generators-on-the-market/"><u>Elevate Your AI Experience: The Five Leading AI-Powered Prompt Generators on the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-bouncie-smart-gps-tracker-an-insightful-review-of-an-easy-to-use-and-economical-vehicle-tracking-solution/"><u>Evaluating Bouncie Smart GPS Tracker - An Insightful Review of an Easy-to-Use and Economical Vehicle Tracking Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-galaxy-note-9-a-comprehensive-guide-to-the-premier-large-display-smartphone/"><u>Expert Analysis of the Samsung Galaxy Note 9: A Comprehensive Guide to the Premier Large Display Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-sumind-bt70b-fm-transmitter-revolutionizing-your-cars-wireless-audio-experience/"><u>Expert Insights on the Sumind BT70B FM Transmitter - Revolutionizing Your Car's Wireless Audio Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-setup-for-high-quality-video-transmission/"><u>Expert Setup for High-Quality Video Transmission</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-thrills-of-teamwork-in-dying-lights-first-person-action-parkour-gameplay/"><u>Explore the Thrills of Teamwork in Dying Light's First-Person, Action Parkour Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-in-depth-look-at-synology-rt2600ac-for-long-distance-connectivity-and-family-safety-settings/"><u>Exploring the Features: In-Depth Look at Synology RT2600ac for Long Distance Connectivity and Family Safety Settings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fm-frequency-booster-cp2n-a-comprehensive-evaluation-of-the-criacr-bluetooth-device/"><u>FM Frequency Booster CP2N - A Comprehensive Evaluation of the Criacr Bluetooth Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-sealocus-coastal-silvers-slim-profile-and-4k-quality-transform-your-outdoor-entertainment-experience/"><u>How the Sealocus Coastal Silver's Slim Profile & 4K Quality Transform Your Outdoor Entertainment Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-magic-v2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Magic V2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-review-lensdirects-protective-optics-against-digital-screen-hazards/"><u>In-Depth Analysis and Review: LensDirect’s Protective Optics Against Digital Screen Hazards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-ergonomic-marvel-that-is-microsofts-sculpt-keyboard-great-bargain/"><u>In-Depth Analysis of the Ergonomic Marvel that Is Microsoft's Sculpt Keyboard - Great Bargain!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-renewed-classic-ratchet-and-clank/"><u>In-Depth Analysis of the Renewed Classic: Ratchet & Clank</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/losungshandbuch-fur-den-handbrake-fehler-unerledigte-dvd-einblendungen-beheben/"><u>Lösungshandbuch Für Den HandBrake-Fehler: Unerledigte DVD-Einblendungen Beheben</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>Mobile Streams on YouTube Less Than 1000 Subs? No Problem</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-motorola-edge-40-neo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Motorola Edge 40 Neo on Windows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading Under-Desk Footrests of 2024 to Enhance Ergonomics and Comfort
-date: 2024-09-04T20:11:20.084Z
-updated: 2024-09-05T20:11:20.084Z
+date: 2024-09-09T07:03:32.029Z
+updated: 2024-09-10T07:03:32.029Z
 tags:
   - buying-guides
 categories:
@@ -26,6 +26,18 @@ Best Budget Under-Desk Footrest
 * [](https://www.amazon.com/Humanscale-Ergonomic-Footrest-Experience-Adjustable/dp/B0BZ9N4XX5?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce)  
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41cedskaval-_sl160_.jpg)  
 #####  Humanscale FM 300  
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Adjustable Under-Desk Footrest  
 [$107 at Amazon](https://www.amazon.com/Humanscale-Ergonomic-Footrest-Experience-Adjustable/dp/B0BZ9N4XX5?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/MyPlace-Adjustable-Height-Foot-Under/dp/B09HJ6TQNK?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce)  
@@ -39,6 +51,12 @@ Best Heated Under-Desk Footrest
 Best Under-Desk Footrest For Shorter People  
 [See at amazon](https://www.amazon.com/VIVO-Ergonomic-Adjustable-Standing-STAND-FT01/dp/B0763RMV58?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What to Look for in an Under-Desk Footrest in 2024
 
  Spending more than a couple of hours at a desk can result in various areas of your body feeling uncomfortable. Not to mention, it's not very ergonomic to stay in a position that our bodies aren't designed to be in for prolonged periods of time. This can affect a person's overall [posture](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/).
@@ -62,6 +80,18 @@ Best Under-Desk Footrest For Shorter People
 
 ![Ergofoam footrest being used](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/ergofoam-footrest.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ergofoam
 
 | Pros                                 | Cons                          |
@@ -91,22 +121,16 @@ This under-desk footrest has two adjustable heights, designed with a soft foam t
 
 [See at amazon](https://www.amazon.com/ErgoFoam-Adjustable-Premium-Footrest-Comfortable/dp/B07PWT8X6K?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) [See at target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU227968%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fergofoam%255Fadjustable%255F%252F-%252FA-87762905) 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Budget Under-Desk Footrest: [StepLively](https://www.amazon.com/StepLively-Work-Ergonomic-Washable-Cover-Under-Footrest/dp/B0BL2G1G5D?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 ![Person using StepLively Footrest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/steplively.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 StepLively
 
 | Pros                         | Cons                    |
@@ -131,10 +155,10 @@ StepLively
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Budget Under-Desk Footrest
 
@@ -145,10 +169,10 @@ The StepLively footrest is great if you're on a budget. It comes in two length s
 [See at amazon](https://www.amazon.com/StepLively-Work-Ergonomic-Washable-Cover-Under-Footrest/dp/B0BL2G1G5D?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Adjustable Under-Desk Footrest: [Humanscale](https://www.amazon.com/Humanscale-Foot-Machine-Footrest-natural/dp/B000HVI1RG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
@@ -178,10 +202,10 @@ Humanscale
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Adjustable Under-Desk Footrest
 
@@ -194,27 +218,21 @@ Stylish, sturdy, and durable, the Humanscale is a solid footrest that can be adj
 [$107 at Amazon](https://www.amazon.com/Humanscale-Ergonomic-Footrest-Experience-Adjustable/dp/B0BZ9N4XX5?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Best Heated Under-Desk Footrest: [MyPlace](https://www.amazon.com/MyPlace-Adjustable-Height-Foot-Under/dp/B09HJ6TQNK?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 ![MyPlace heated footrest on pink and yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/myplace-footrest.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 MyPlace
 
 | Pros                              | Cons                                 |
@@ -235,12 +253,6 @@ MyPlace
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/419rdwt131l-_sl160_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Heated Under-Desk Footrest
@@ -251,21 +263,27 @@ With six height adjustments and a heated pad, the MyPlace footrest is ideal for 
 
 [See at amazon](https://www.amazon.com/MyPlace-Adjustable-Height-Foot-Under/dp/B09HJ6TQNK?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Under-Desk Footrest For Shorter People: [VIVO](https://www.amazon.com/VIVO-Ergonomic-Adjustable-Standing-STAND-FT01/dp/B0763RMV58?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 ![person using VIVO footrest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/vivo-footrest.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 VIVO
 
@@ -285,14 +303,14 @@ VIVO
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41m-cq7robl-_sl160_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Under-Desk Footrest For Shorter People
 
 #####  VIVO Footrest
@@ -301,22 +319,34 @@ This height adjustable platform is perfect for shorter people who need more vers
 
 [See at amazon](https://www.amazon.com/VIVO-Ergonomic-Adjustable-Standing-STAND-FT01/dp/B0763RMV58?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why should I get a footrest for under my desk?
 
 A footrest can help alleviate aches, pain, and fatigue that result from sitting at a desk for long periods of time. It allows you to maintain the correct posture and reduces strain on your legs and lower back.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is the best height for my under-desk footrest?
 
 The best height for an under-desk footrest depends on your height. It is generally advised to opt for a footrest that is between 2 and 5 inches in height. This allows you to rest your feet comfortably without strain, in a slightly downward position.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Do under-desk footrests help with posture?
 
 Yes, under-desk footrests can help with posture. They allow you to maintain a neutral position while sitting or standing at your desk, reducing the strain on your body and helping you maintain proper posture.
