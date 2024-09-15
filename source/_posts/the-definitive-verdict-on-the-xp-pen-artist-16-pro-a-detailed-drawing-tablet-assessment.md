@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Verdict on the XP-Pen Artist 16 Pro: A Detailed Drawing Tablet Assessment"
-date: 2024-08-09T00:43:39.847Z
-updated: 2024-08-10T00:43:39.847Z
+date: 2024-09-11T04:19:44.613Z
+updated: 2024-09-14T16:39:22.166Z
 categories:
   - BestProducts
 description: "This Article Describes The Definitive Verdict on the XP-Pen Artist 16 Pro: A Detailed Drawing Tablet Assessment"
@@ -38,14 +38,8 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 3
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Paradox Interactive Surviving Mars
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
 
  Lifewire / Rebecca Isaacs
@@ -67,11 +61,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -94,9 +83,6 @@ The powerful video editing program for your Windows PC</a>
 
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
 
  Lifewire / Rebecca Isaacs
@@ -126,8 +112,18 @@ The powerful video editing program for your Windows PC</a>
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Other city-building games**
 
  What makes Surviving Mars unique is that technically it is a city-[building game](https://www.lifewire.com/best-offline-building-games-4580415) , but instead of building bus lines, you have to build oxygen and water lines to ensure colony survival. However, just like city-building games, you are building infrastructure. If you’re solely focused on building up a city, Surviving Mars would be a great addition to your library, but so would[Cities: Skylines](https://store.steampowered.com/app/255710/Cities%5FSkylines/) (view on Steam). Both focus on creating a habitat from scratch—one just happens to be hundreds of thousands of miles away while the other could be in a tropical or a Midwestern climate.
@@ -141,8 +137,12 @@ The powerful video editing program for your Windows PC</a>
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Surviving Mars
@@ -155,14 +155,11 @@ The powerful video editing program for your Windows PC</a>
 * Graphics  HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM
 * Game Updates  Green Planet, Project Laika, Space Race, Colony Design Set, Marsvision Song Contest
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,3 +167,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discover-the-best-snapchat-video-edits-on-android-and-iphone/"><u>[New] 2024 Approved Discover the Best Snapchat Video Edits on Android and iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] In 2024, 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snappy-solutions-maintaining-a-vigorous-snapstreak/"><u>[Updated] In 2024, Snappy Solutions Maintaining a Vigorous Snapstreak</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-filming-timelapse-videography-on-ipad/"><u>[Updated] Unleashing Creativity Filming Timelapse Videography on iPad</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-gaming-yt-presence-a-hashtag-focused-manual-for-2024/"><u>Elevate Your Gaming YT Presence A Hashtag-Focused Manual for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-directors-cut-of-the-wasteland-ii-a-captivating-strategy-game-revue/"><u>Exploring The Director’s Cut of The Wasteland II - A Captivating Strategy Game Revue</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-evolution-of-a-gaming-legend-in-ratchet-and-clank-reboot/"><u>Exploring the Evolution of a Gaming Legend in 'Ratchet & Clank' Reboot</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hands-on-evaluation-of-the-latest-samsung-galaxy-budsplus/"><u>Hands-On Evaluation of the Latest Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-aeiusny-inverter-transforms-solar-energy-for-critical-hospital-equipment/"><u>How the Aeiusny Inverter Transforms Solar Energy for Critical Hospital Equipment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-k11x-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo K11x</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-sony-xperia-5-slim-profile-premium-costs/"><u>In-Depth Analysis of the Sony Xperia 5 - Slim Profile, Premium Costs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-truecaller-mobile-app-a-complete-guide/"><u>In-Depth Evaluation of the Truecaller Mobile App - A Complete Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-asuss-rt-ac68u-a-balance-of-speed-and-security-in-the-world-of-5g-wireless-routers/"><u>In-Depth Review of Asus's RT-AC68U: A Balance of Speed and Security in the World of 5G Wireless Routers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-fixes-for-persistent-wireless-adapter-or-ap-error-signals/"><u>Master the Fixes for Persistent Wireless Adapter or AP Error Signals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omplete-blueprint-for-exceptional-asmr-production-value/"><u>The Complete Blueprint for Exceptional ASMR Production Value</u></a></li>
+</ul></div>
+

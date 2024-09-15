@@ -1,7 +1,7 @@
 ---
 title: Top Microsoft Office Substitutes
-date: 2024-08-09T00:43:39.288Z
-updated: 2024-08-10T00:43:39.288Z
+date: 2024-09-09T12:41:27.860Z
+updated: 2024-09-14T18:52:39.404Z
 categories:
   - BestProducts
 description: This Article Describes Top Microsoft Office Substitutes
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
 ## Microsoft Flight Simulator X: Gold Edition
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/-o00S2NMqAuV6ju2tL_3_pNbMMk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_HeroSquare-ff9662e0ea894d8e8964aa8b64e9af9f.jpg)
 
  Lifewire / Zach Sweat
@@ -40,9 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
 3.8
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Microsoft Flight Simulator X: Gold Edition
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/qdqiCl5ARAuMH7mtUAu6szKbUM0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_HeroSquare-ff9662e0ea894d8e8964aa8b64e9af9f.jpg)
@@ -100,8 +94,12 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Dated, but still solid**
 
  Given that FSX is now quite old, the gameplay still holds up for the most part, but feels somewhat dated in certain areas. Because this game comes complete with all the original content and expansions, there’s a daunting amount of content to sift through, which keeps replayability high.
@@ -124,16 +122,10 @@ thumbnail: https://www.lifewire.com/thmb/MI-KH2-hRS_4mtHQnh89chqA4E0=/400x300/fi
 
  The addition of a HOTAS also really adds to the experience and immersion of the game, and we highly recommend picking one up if you can. During our testing, the Thrustmaster T16000M FCS paired quite nicely with FSX and allowed us to custom tailor controls to our liking. The ability to pilot your virtual aircraft with somewhat realistic peripherals definitely adds a nice level of detail to the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/oUI0sMg_D0Wrf9Maq7QACUvz4sI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_04-a52be5fb83e54c04acfc68a9b28af39d-2c15555da01247beb7532ce91594646d.jpg)
 
 Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Like traveling back in time**
 
  It’s no surprise that a game made all the way back in 2006 feels old when it comes to graphics. You won’t be impressed by the lackluster textures, lighting effects or animations in FSX if you’ve never played it in the past.
@@ -146,9 +138,6 @@ Lifewire / Zach Sweat
 
  Aircraft textures on the outside are perhaps the highlight of this area, but the ground, buildings, cockpit, and controls don’t exactly look amazing. You can, however, download some mods to add HD resolutions to things that will help remedy this, and they’re pretty easy to install.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Cheap unless you want the DLC**
 
  So with a 13-year-old game like FSX, you’d expect the price to be quite low, right? While FSX can typically be found for around $25 on Steam, and you can frequently find it on sale for just $5\. This gets you the Gold Edition that includes all the original content and the Acceleration expansion. So for the price, it’s pretty fair—especially considering how many hundreds of hours you can get from the base game.
@@ -156,6 +145,19 @@ Lifewire / Zach Sweat
  For Steam users, however, the game has an insane amount of DLC options. While most of these aren’t necessary to have, they can really add up if you’re someone who likes to have it all. Currently, the Steam version has almost $2,000 worth of DLC, but no one really needs to get all that to have a good time with FSX, so choose what you want, or simply enjoy the base game and download mods to supplement the content for free.
 
  We should also mention here that there are plans in place for FSX to finally get a true successor in the near future with Microsoft’s Flight Simulator 2020 just on the horizon, so it may be worth it to hold off.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Flight Simulator X vs. X-Plane 11 Global Flight Simulator**
 
@@ -174,8 +176,18 @@ Lifewire / Zach Sweat
  It’s crazy to think that a game that’s over a decade old is still relevant today, but FSX is one of those legendary titles that keeps chugging along. If you can handle the outdated graphics and controls, it will easily bring you hundreds of hours of entertainment.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Minecraft](https://www.lifewire.com/minecraft-review-4777049)
@@ -194,14 +206,11 @@ Lifewire / Zach Sweat
 * Genre  Simulator
 * ESRB rating  E
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -209,3 +218,23 @@ Lifewire / Zach Sweat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-5-best-ways-to-download-igtv-for-tech-enthusiasts/"><u>[New] Unveiling the 5 Best Ways to Download IGTV for Tech Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>[Updated] In 2024, From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetization-metrics-viewers-contribution-to-earnings/"><u>[Updated] Monetization Metrics Viewers' Contribution to Earnings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-for-6-trendy-mc-houses/"><u>Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-viewers-essential-guide-to-fantastic-template-based-yt-desc-writing/"><u>In 2024, Unlock Viewers Essential Guide to Fantastic Template-Based YT Desc Writing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-permission-based-saves-windows-edition/"><u>Navigating Through Permission-Based Saves: Windows Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-guide-troubleshoot-and-solve-fallout-3-crash-on-launch-2024-tactics/"><u>New Guide: Troubleshoot & Solve Fallout 3 Crash on Launch - 2024 Tactics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sky-high-quality-a-comprehensive-guide-to-the-dji-mavic-3-drone/"><u>Sky-High Quality: A Comprehensive Guide to the DJI Mavic 3 Drone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-ahead-resolving-battlefield-5s-crashing-issues-on-pc/"><u>Smooth Gaming Ahead - Resolving Battlefield 5'S Crashing Issues on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-enhancement-process-for-apples-intel-imac-models/"><u>Step-by-Step Enhancement Process for Apple's Intel iMac Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/taming-the-kitchen-madness-in-depth-critique-of-overcooked-2/"><u>Taming the Kitchen Madness: In-Depth Critique of Overcooked! 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-the-waters-unveiling-the-features-of-jackerys-innovative-ac-outlet-battery-pack/"><u>Testing the Waters: Unveiling the Features of Jackery's Innovative AC Outlet Battery Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-list-of-top-ranking-antivirus-applications-for-iphone-users/"><u>The Ultimate List of Top-Ranking Antivirus Applications for iPhone Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-nook-glowlight/"><u>The Ultimate Verdict on Nook GlowLight</u></a></li>
+</ul></div>
+

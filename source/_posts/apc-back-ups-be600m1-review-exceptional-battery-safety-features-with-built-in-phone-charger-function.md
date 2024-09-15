@@ -1,7 +1,7 @@
 ---
 title: APC Back-UPS BE600M1 Review - Exceptional Battery Safety Features with Built-In Phone Charger Function
-date: 2024-08-09T00:43:38.160Z
-updated: 2024-08-10T00:43:38.160Z
+date: 2024-09-09T22:34:49.487Z
+updated: 2024-09-14T19:49:15.104Z
 categories:
   - BestProducts
 description: This Article Describes APC Back-UPS BE600M1 Review - Exceptional Battery Safety Features with Built-In Phone Charger Function
@@ -13,15 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/6wth6CzRLPjcELs8n-eLSz0Zmy4=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rotibox Bluetooth Beanie Hat
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Rotibox Bluetooth Beanie Hat](https://www.lifewire.com/thmb/7ut-S_JgDzplaO4SAP9rlKRL6Nk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW4159779_HeroSquare-124249673db647c7b5cba84a7e22c6ed.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -44,14 +37,8 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Rotibox Bluetooth Beanie Hat
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rotibox Bluetooth Beanie Hat](https://www.lifewire.com/thmb/83FBg7yBH0_EvA6JSG6w2RTFWNs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW4159779_HeroSquare-124249673db647c7b5cba84a7e22c6ed.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -81,9 +68,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Design: Simple design in many flavors**
 
  Bluetooth beanies are about as basic as wearable tech gets. It’s a one-size-fits-all beanie that contains Bluetooth speakers over the ears. They’re convenient and useful in the winter time, because you won’t have to fumble around with[earbuds](https://www.lifewire.com/best-earbuds-4045320) under your hat or earmuffs.
@@ -93,6 +77,13 @@ Lifewire / Jeffrey Daniel Chadwick
  From the moment we opened the package, we had the beanie connected to an iPhone X in less than 30 seconds.
 
  This Bluetooth beanie has a range of about 30 feet from the device it’s paired with, the minimum range of any Bluetooth device. When we tested the device, we found that the connection remains strong in that range. In addition to the Bluetooth speakers, this beanie has a built-in microphone that allows you to take phone calls.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Easy pairing**
 
@@ -106,23 +97,31 @@ Lifewire / Jeffrey Daniel Chadwick
 
  A common problem we encountered when we tested the best Bluetooth beanies was the control panel being located over the left ear. A larger problem is that the buttons aren’t well-defined tactilely, so you’ll often hit pause when you wanted to skip to the next track. You’re generally better off just using your phone for things like volume and media selection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery Life: Six hours to dead, two and a half to full**
 
  Over a week’s time of testing this and other Bluetooth beanies, we found that you can expect it to yield about six hours of listening time on a full charge. The product description of this beanie claims that it takes two and a half hours to fully charge a dead battery, which turned out to be pretty accurate. This is the longest time to charge amongst the beanies we’ve tested, with others filling up in under an hour.
 
  Two annoying things about the battery: there’s no way to monitor how much juice you have left, and no audio warning that your battery is about to die. It just sputters and stops, a let down when you’re in the middle of_Eight Days a Week_ .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Comfort: Soft, warm, and easy on the skin**
 
  When we first put it on, we thought it was a cotton beanie instead of acrylic. It’s very soft and comfortable, in stark contrast with some other wireless beanies we reviewed that felt scratchy and itchy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Rotibox Bluetooth Beanie Hat](https://www.lifewire.com/thmb/I71qD6J5tFUNp3HOitn_R5OvVgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW4159779_05-c96732f03d7d4060b1b6ad5325fa2537.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jeffrey Daniel Chadwick
 
@@ -138,6 +137,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
  As far as Bluetooth beanies go, this product is on the higher end of the price scale. It’s $40, while competing beanies are closer to the $15 mark. However, it’s the most comfortable of the bunch and delivers the best sound quality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Rotibox Bluetooth Beanie Hat vs. Blueear Bluetooth Beanie Hat**
 
  We tested this wireless beanie simultaneously with the Blueear Bluetooth Beanie Hat. While both do a decent job delivering head warmth and music, the Rotibox delivers the overall best experience. Blueear offers lower prices, but the sound quality is significantly worse. While the SoundBot offers marginally better sound, it’s inconsistent in reliability and performance in other areas.
@@ -150,9 +156,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  This Bluetooth beanie delivers in the four most important categories: comfort, warmth, aesthetics, and audio quality. It’s not a perfect or powerhouse audio device, but it’s a good pick if you love music and being outdoors during winter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Bluetooth Beanie Hat
@@ -168,14 +171,11 @@ Lifewire / Jeffrey Daniel Chadwick
 * Warranty  1 Year
 * Bluetooth Spec  V4.1+EDR
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,3 +183,21 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-tips-for-quick-and-reliable-recording-of-presentations/"><u>[New] 2024 Approved Top Tips for Quick and Reliable Recording of Presentations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-is-broadcasting-facebook-videos-a-reality-yet/"><u>[Updated] In 2024, Is Broadcasting Facebook Videos a Reality Yet?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-superior-connectivity-offered-by-the-netgear-nighthawk-c7000-mesh-wifi-system/"><u>A Closer Look at the Superior Connectivity Offered by the Netgear Nighthawk C7000 Mesh WiFi System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-head-to-head-analysis-of-ipad-pro-versus-macbook-pro/"><u>A Head-to-Head Analysis of iPad Pro Versus MacBook Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effective-group-meetings-googles-top-solutions-4-for-2024/"><u>Effective Group Meetings Google's Top Solutions (#4) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-choices-in-gaming-cpus-maximize-your-performance/"><u>Elite Choices in Gaming CPUs: Maximize Your Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-expert-testing-of-tp-link-re505x-wifi-expander/"><u>Unveiling the Performance: Expert Testing of TP-Link RE505X WiFi Expander</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-a-comprehensive-review-of-the-alienware-aurora-r11-the-1-choice-for-gamers-2021-edition/"><u>Unveiling the Powerhouse: A Comprehensive Review of the Alienware Aurora R11 - The #1 Choice for Gamers, 2021 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-split-screen-video-apps-for-ios-and-android/"><u>Updated Best Split Screen Video Apps for iOS And Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/urban-armor-gears-macbook-pro-protector-a-comprehensive-durability-assessment/"><u>Urban Armor Gear's MacBook Pro Protector: A Comprehensive Durability Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-kootek-cooling-pad-is-a-must-have-accessory-based-on-user-reviews/"><u>Why the Kootek Cooling Pad Is a Must-Have Accessory Based on User Reviews</u></a></li>
+</ul></div>
+

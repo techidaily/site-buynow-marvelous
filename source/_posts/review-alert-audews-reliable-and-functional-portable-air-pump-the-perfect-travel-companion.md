@@ -1,7 +1,7 @@
 ---
 title: "Review Alert: Audew's Reliable and Functional Portable Air Pump – The Perfect Travel Companion"
-date: 2024-08-09T00:43:39.113Z
-updated: 2024-08-10T00:43:39.113Z
+date: 2024-09-13T01:52:41.052Z
+updated: 2024-09-15T12:32:39.203Z
 categories:
   - BestProducts
 description: "This Article Describes Review Alert: Audew's Reliable and Functional Portable Air Pump – The Perfect Travel Companion"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 ## Escort Passport S55
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
 
 Lifewire / Todd Braylor
@@ -40,14 +37,8 @@ Lifewire / Todd Braylor
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Escort Passport S55
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
 
 Lifewire / Todd Braylor
@@ -87,6 +78,19 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Range: Impressive detection**
 
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
@@ -94,8 +98,18 @@ Lifewire / Todd Braylor
  It reliably delivers on its promise of long-distance sensitivity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Not exactly enhanced**
 
  The S55 has different modes designed to adjust to specific frequency bands and sensitivity levels for city or highway driving. You can quickly customize the settings by using the included quick reference guide. You can also turn off specific frequency bands if they tend to give a lot of false alerts.
@@ -104,9 +118,6 @@ Lifewire / Todd Braylor
 
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: You get what you pay for**
 
  With an MSRP of $128, the Passport S55 is a low-end radar detector priced accordingly. More advanced radar detectors can easily be several hundred dollars more expensive, and the S55 is a good deal if you plan to use it primarily on the highway. Door-openers along the city and commercial roads will frequently trigger false alerts. You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
@@ -125,9 +136,6 @@ Lifewire / Todd Braylor
 
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Passport S55
@@ -148,11 +156,28 @@ Lifewire / Todd Braylor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-optimize-your-youtube-shorts-templates-effectively/"><u>[New] 2024 Approved How to Optimize Your YouTube Shorts Templates Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-historical-stop-motion-masterpieces-15-essential-viewing/"><u>[Updated] Historical Stop-Motion Masterpieces #15 Essential Viewing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-investment-returns-on-youtuber-promotions/"><u>2024 Approved Investment Returns on Youtuber Promotions</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/die-besten-ki-gesteuerten-videobearbeitungswerkzeuge-ohne-gebuhren-optimierte-auswahl-fur-windows-and-macos-nutzer/"><u>Die Besten KI-Gesteuerten Videobearbeitungswerkzeuge Ohne Gebühren: Optimierte Auswahl Für Windows & macOS Nutzer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-seamless-charging-on-the-go-in-depth-review-of-omnicharge-omni-20s-portable-power-bank-and-wireless-features/"><u>Experience Seamless Charging On-the-Go: In-Depth Review of Omnicharge Omni 20'S Portable Power Bank & Wireless Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-ranking-the-top-6-online-destinations-for-shopping-tvs/"><u>Expert Picks: Ranking the Top 6 Online Destinations for Shopping TVs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experts-pick-for-the-ultimate-ready-to-fly-rc-choice-blade-e-flite-mcx2-helicopter-detailed-review/"><u>Experts' Pick for the Ultimate Ready-to-Fly RC Choice - Blade E-Flite mCX2 Helicopter Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-benefits-of-staying-active-with-cubefits-innovative-terramat/"><u>Exploring the Benefits of Staying Active with CubeFit's Innovative TerraMat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-nuances-of-audio-and-voice-tech-with-the-apple-homepod-mini-detailed-assessment/"><u>Exploring the Nuances of Audio and Voice Tech with the Apple HomePod Mini - Detailed Assessment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-m14-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy M14 5G Phone that is Locked?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>New 2024 Approved Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-asus-pce-ac56-driver-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving ASUS PCE-AC56 Driver Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplified-installation-finding-and-downloading-logitech-wireless-keyboard-drivers-on-windows-e/"><u>Simplified Installation: Finding and Downloading Logitech Wireless Keyboard Drivers on Windows E</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/tinyshot-critique-of-small-scale-recording-app/"><u>TinyShot Critique of Small-Scale Recording App</u></a></li>
+</ul></div>
+

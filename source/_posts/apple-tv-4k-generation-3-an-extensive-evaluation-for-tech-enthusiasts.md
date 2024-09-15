@@ -1,7 +1,7 @@
 ---
 title: Apple TV 4K Generation 3 - An Extensive Evaluation for Tech Enthusiasts
-date: 2024-08-09T00:43:40.015Z
-updated: 2024-08-10T00:43:40.015Z
+date: 2024-09-09T02:26:26.133Z
+updated: 2024-09-15T01:51:13.969Z
 categories:
   - BestProducts
 description: This Article Describes Apple TV 4K Generation 3 - An Extensive Evaluation for Tech Enthusiasts
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/aOYK6-P-QxBVbuAEKQhjFim-MOU=/540x405/fi
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Xiaomi Mi Smart Band 4
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xiaomi Mi Smart Band 4](https://www.lifewire.com/thmb/gu5s-Vyv187eoyORVVMpZu9AOVM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xiaomi-Mi-Band-4-Fitness-Tracker-1-0f0e3854f10a4a2595aacd594e37472b.jpg)
 
 Lifewire / Erika Rawes
@@ -79,16 +73,10 @@ Lifewire / Erika Rawes
 
  One area where the Xiaomi Mi 4 really shines is its screen, which is a 0.95-inch full color AMOLED display with 400 nits max brightness. The tempered glass screen is clear and vivid, with a fingerprint resistant coating to help maintain a clean appearance. You can see a huge difference between the screen quality on the Mi Band 4 and its predecessor, the Mi Band 3, which was too dim and difficult to read. The Mi Band 4 is clear and bright, and you can easily read the display from a distance. The interface is well designed too, and you can choose between a large library of different watch faces. I chose a watch face that includes a small image of a unicorn. You can also customize your watch face and add a picture from your photo library.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/oCYh365Kx4bFT1nCDvemWNcGEYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-6-64089d35ecca457d9f49477537785d34.jpg)
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Comfort: A water resistant removable band**
 
  The Xiaomi Mi Band 4 is water resistant with a 5 ATM rating. This means the band can go in up to 50 meters of water for up to 10 minutes, and it can tolerate shallow water activities like swimming. You can comfortably shower with the band, wear it in the rain, or wear it while you’re drenched in sweat. It doesn’t feel too hot on the wrist either.
@@ -98,6 +86,19 @@ Lifewire / Erika Rawes
  The Mi Band 4 adjusts between 155 to 216 mm, so it fits most wrists snugly without leaving any marks. It doesn’t dig into the skin, so I could wear it while typing. It’s also surprisingly comfortable to wear while sleeping and during exercise. It allows for a full range of motion with my hand, and I can perform all exercises while wearing it, including pushups, which can sometimes be uncomfortable with other trackers that have a thicker band.
 
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/MsPw0300j9lhgQEmelHfapWXla4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-4-52ee61c2595e4aafb5c1ad04be13f12e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -110,25 +111,17 @@ Lifewire / Erika Rawes
 
  On the downside, the step counter overstates steps, and it’ll sometimes track other hand movements as steps, like typing or swinging my arm. The heart rate monitor was dramatically inaccurate by as much as 15 beats per minute compared to a chest strap. However, the accuracy of the heart monitor improved when I placed the tracker in a better location on my wrist. The tracker lacks built-in GPS, and it uses your phone’s GPS for location based tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/b-bHMwN4n7fkxgT3X0dueEvAuZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-2-4e096d92f3324689bed126949cdb0a14.jpg)
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Mi Fit App**
 
  The Mi Fit app is somewhat basic, but it provides useful health and fitness information. Some functions, like automatic monitoring, aren’t as easy to find in the app as others, but overall the basic app serves its purpose. As with most fitness trackers, you can set alarms, set event reminders, and share your fitness info. You can view historical data on your heart rate, workouts, steps, and calories burned. You can track your sleep, including deep sleep, light sleep, hours slept, and more.
@@ -140,12 +133,12 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Up to 20 days**
 
  The Mi Band 4’s battery is phenomenal, as the 135 mAh battery lasts for up to 20 days. Options within the app for things like better sleep monitoring and heart monitoring can greatly reduce battery life, however, the app will warn you about that when selecting such options.
@@ -158,9 +151,6 @@ The 135 mAh battery lasts for up to 20 days.
 
  The only negative about the battery is when it comes time to charge the device. You have to remove the tracker from the band and place it onto a mini charging station. It’s somewhat difficult to remove from the band, and you have to kind of wiggle it out of the band. The unit also fits snugly into the charging station, so you have to gently force the Mi 4 Tracker into the charging station to ensure it’s properly charging. Once you achieve that, it takes about one hour and 45 minutes to reach a full charge.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/kXajF8I7UCVG0wnufwSz3psTRmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-3-8a9c12e307254854bcd99728db94330c.jpg)
 
  Lifewire / Erika Rawes
@@ -168,6 +158,13 @@ The 135 mAh battery lasts for up to 20 days.
 ## **Price: An amazing value**
 
  The Xiaomi Mi Smart Band 4 is incredibly affordable, selling for $29 on Amazon. The next gen band, the Mi Band 5, is now hitting the market, which is lowering the price of the fourth generation model. The Mi Band 4 isn’t perfect by any means, and it won’t provide the same experience that you’d get with a tracker that costs hundreds of dollars, but it’s a steal at its price point.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Xiaomi Mi Smart Band 4 vs. Fitbit Charge 3**
 
@@ -204,14 +201,11 @@ The 135 mAh battery lasts for up to 20 days.
 * App  Mi Fit
 * System requirements  Android 4.4, iOS 9.0 or above
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,3 +213,19 @@ The 135 mAh battery lasts for up to 20 days.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-sustained-sky-exploration-the-best-drones-for-distance/"><u>[New] In 2024, Sustained Sky Exploration The Best Drones for Distance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-mac-tool-seamless-screen-plus-voice-logging-for-2024/"><u>[New] Premium Mac Tool Seamless Screen + Voice Logging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] 2024 Approved Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>2024 Approved The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-virtual-reality-mastery-with-oculus-quest-2-in-depth-assessment/"><u>Affordable Virtual Reality Mastery with Oculus Quest 2 - In-Depth Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-in-depth-review-of-assassins-creed-valhalla-navigating-a-viking-adventure-amidst-medieval-realms/"><u>An In-Depth Review of Assassin's Creed: Valhalla – Navigating a Viking Adventure Amidst Medieval Realms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-price-and-quality-in-the-thermopro-tp67-review/"><u>Balancing Price and Quality in the ThermoPro TP67 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-value-video-doorbells-unveiling-the-features-of-remobell-for-less-than-100/"><u>Best Value Video Doorbells: Unveiling the Features of RemoBell for Less Than $100</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/brutal-speed-vs-spotty-snaps-the-dual-edges-of-the-oneplus-8t-smartphone/"><u>Brutal Speed Vs. Spotty Snaps: The Dual Edges of the OnePlus 8T Smartphone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-dslrs-for-animation-filmmaking-for-2024/"><u>Ideal DSLRs for Animation Filmmaking for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Evolution in Travel - Meet the Flexible Tripod 12
-date: 2024-08-09T00:43:38.914Z
-updated: 2024-08-10T00:43:38.914Z
+date: 2024-09-10T04:25:30.205Z
+updated: 2024-09-15T08:42:09.321Z
 categories:
   - BestProducts
 description: This Article Describes Evolution in Travel - Meet the Flexible Tripod 12
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/8FvBYNDOJSBUbPGXqjYT1bza6Z4=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
@@ -40,14 +37,8 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -94,15 +85,19 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -123,16 +118,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -146,6 +135,13 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -163,11 +159,29 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-action-to-archive-a-guide-to-top-screen-recording-tools-for-2024/"><u>[New] Action to Archive A Guide to Top Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-straightstreamerw11-ultra-simple-pc-screenshot-software-for-2024/"><u>[New] StraightStreamerW11 Ultra-Simple PC Screenshot Software for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transforming-photos-with-easy-online-cropping-steps/"><u>[Updated] In 2024, Transforming Photos with Easy Online Cropping Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-motorola-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Motorola Moto G04?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-crafting-personalized-user-archetypes-using-chatgpt/"><u>Effective Strategies for Crafting Personalized User Archetypes Using ChatGPT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-illustrators-journey-navigating-for-success-in-designing/"><u>In 2024, The Illustrator's Journey Navigating for Success in Designing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsofts-ergo-friendly-sculpt-keyboard-review-a-perfect-blend-of-comfort-and-price/"><u>Microsoft's Ergo-Friendly Sculpt Keyboard Review - A Perfect Blend of Comfort and Price</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-mobile-tech-iphone-versus-android-explained/"><u>Navigating the World of Mobile Tech: IPhone versus Android Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netflix-subscription-is-it-a-smart-spending-decision/"><u>Netflix Subscription: Is It a Smart Spending Decision?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nokia-71-smartphone-reviewed-superior-screen-quality-and-cameras-without-breaking-the-bank/"><u>Nokia 7.1 Smartphone Reviewed: Superior Screen Quality & Cameras Without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nw-a35s-high-fidelity-portability-analysis/"><u>NW-A35's High Fidelity Portability Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pivotal-factors-to-contemplate-in-choosing-your-first-vr-device/"><u>Pivotal Factors to Contemplate in Choosing Your First VR Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-insight-into-dji-mavic-2-pro-why-it-continues-to-lead-in-aerial-excellence/"><u>Professional Insight Into DJI Mavic 2 Pro: Why It Continues to Lead in Aerial Excellence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-simple-acquiring-itunes-radio-episodes-for-2024/"><u>Swift and Simple Acquiring iTunes Radio Episodes for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/win7-to-win11-a-step-by-step-guide/"><u>Win7 to Win11: A Step-by-Step Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2024-09-09T07:03:37.307Z
-updated: 2024-09-10T07:03:37.307Z
+date: 2024-09-13T22:02:30.314Z
+updated: 2024-09-15T04:33:03.583Z
 tags:
   - games
   - tv
@@ -21,24 +21,12 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  You can scroll through menus, browse streaming services and even control the volume of what you're watching from the comfort of your couch just like you would a TV. If you have multiple devices in your media repertoire, however, you can go even further and set up a system where your devices will turn on and display themselves on your screen automatically.
@@ -63,16 +51,17 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use a TV Remote on a Console
 
  Using a TV remote on a console might initially seem a bit counter-intuitive since these machines already come packaged with a perfectly good controller. However, if your Xbox or PlayStation is a regular part of your media setup, it may be worth controlling it like you would a TV.
@@ -84,21 +73,16 @@ Jason Fitzpatrick / How-To Geek
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
  Setting up your Chromecast to accept TV remote inputs is as simple as having HDMI-CEC settings turned on on your TV. As long as this is enabled, the Chromecast should automatically allow you to use the remote to navigate streaming services or other functions you may use it for.
@@ -110,11 +94,12 @@ Jason Fitzpatrick / How-To Geek
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -137,8 +122,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,48 +131,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-inshots-playlist-prowess-adding-external-music/"><u>[New] 2024 Approved  InShot's Playlist Prowess  Adding External Music</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capture-life-in-motion-using-ipad-filming-techniques/"><u>[New] In 2024, Capture Life in Motion Using iPad Filming Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>[New] In 2024, Elevate Your Creative Process  Mastering the Use of LUTs in PSCC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-video-length-limit-a-compre-written-for-you/"><u>[New] In 2024, Instagram’s Video Length Limit - A Compre Written for You</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-10plus-top-free-subtitle-converter-websites/"><u>[New] In 2024, Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-no-more-complexities-record-with-nvidia-for-2024/"><u>[New] No More Complexities  Record with NVIDIA for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-comprerant-hashtags-with-leading-trackers-for-fb-twt-and-ig/"><u>[Updated] Compreran't Hashtags with Leading Trackers for FB, Twt and IG</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-the-art-of-filters-on-instagram-your-2023-manual/"><u>[Updated] In 2024, Mastering the Art of Filters on Instagram  Your 2023 Manual</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-squared-up-strategies-boosting-video-popularity-on-the-platform/"><u>[Updated] In 2024, Squared Up Strategies  Boosting Video Popularity on the Platform</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-redirect-macs-image-backup-to-new-folder/"><u>[Updated] Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-ipad-360-video-creation-for-facebook-for-2024/"><u>[Updated] The Ultimate iPad 360 Video Creation for Facebook for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-look-at-the-glion-dolly-electric-scooter-balancing-speed-sophistication-and-spending/"><u>A Comprehensive Look at the Glion Dolly Electric Scooter: Balancing Speed, Sophistication & Spending</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-unveiling-elgoog-the-humorous-mirror-website/"><u>A Comprehensive Review: Unveiling elgooG, The Humorous Mirror Website</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/alienware-aurora-r7-assessment-high-performance-at-steep-costs/"><u>Alienware Aurora R7 Assessment: High-Performance at Steep Costs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-wireless-and-gaming-mice-for-mac-users/"><u>Best Wireless & Gaming Mice for Mac Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-acer-chromebook-r-11-analysis-sleek-design-meets-portability/"><u>Comprehensive Acer Chromebook R 11 Analysis: Sleek Design Meets Portability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-review-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Review: The Ultimate Family Entertainment Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-unveiling-the-features-of-garmin-forerunner/"><u>Comprehensive Evaluation: Unveiling the Features of Garmin Forerunner</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577194689-craft-your-own-french-journey-from-anywhere/"><u>Craft Your Own French Journey From Anywhere</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gameplay-on-the-asus-vg245h-the-ultimate-gamers-monitor/"><u>Elevate Your Gameplay on the Asus VG245H – The Ultimate Gamer's Monitor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-tech-game-with-skagen-falster-2-a-posh-alternative-to-the-classic-apple-device/"><u>Elevate Your Tech Game with Skagen Falster 2, a Posh Alternative to the Classic Apple Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/extreme-focus-powerhouse-discover-nikons-coolpix-p1000/"><u>Extreme Focus Powerhouse – Discover Nikon's COOLPIX P1000</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-nest-audio-vs-nest-mini/"><u>Google Nest Audio Vs. Nest Mini</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-the-syma-x5c-rc-uav-stands-out-as-an-economical-choice-for-hobbyists/"><u>How the SYMA X5C R/C UAV Stands Out as an Economical Choice for Hobbyists</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-perfect-bargain-black-friday-deals-on-your-next-roku-device/"><u>Hunt for the Perfect Bargain: Black Friday Deals on Your Next Roku Device</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-aim-higher-boosting-views-and-reach-on-youtube/"><u>In 2024, Aim Higher  Boosting Views and Reach on YouTube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-instagram-videos-size-and-quality-insights/"><u>In 2024, Elevate Your Instagram Videos  Size and Quality Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-v30-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme V30 Pattern Lock Screen</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-notebook-assessment-an-efficient-device-with-impressive-design/"><u>Lenovo Ideapad Notebook Assessment: An Efficient Device with Impressive Design</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-g22-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia G22 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-with-confidence-the-revolutionary-features-of-twelve-south-compass-pro-for-optimal-steadiness-in-any-terrain/"><u>Navigating with Confidence: The Revolutionary Features of Twelve South Compass Pro for Optimal Steadiness in Any Terrain</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/netgears-best-yet-a-comprehensive-look-at-the-nighthawk-x1e-ad7200-router-speeds-and-capabilities/"><u>Netgear's Best Yet? A Comprehensive Look at the Nighthawk X1e AD7200 Router Speeds and Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pruveeo-f5-superior-clarity-dash-camera-review-at-unbeatable-prices/"><u>Pruveeo F5 Superior Clarity Dash Camera Review at Unbeatable Prices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stanleys-j5c09-reviewed-big-capacity-efficient-performance/"><u>Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/test-drive-review-the-glion-dolly-expensive-elaborate-and-swift-movement-unveiled/"><u>Test Drive Review: The Glion Dolly - Expensive, Elaborate, and Swift Movement Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-home-theater-pcs-for-an-immersive-media-journey/"><u>The Ultimate Selection of Home Theater Pcs for an Immersive Media Journey</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/these-lesions-can-be-detected-by-imaging-techniques-like-bone-scans-ct-or-mri-appearing-dark-due-to-decreased-radioactive-uptakecuate-environment-that-suppo106/"><u>These Lesions Can Be Detected by Imaging Techniques Like Bone Scans, CT, or MRI, Appearing Dark Due to Decreased Radioactive uptake.cuate Environment that Supports Tumor Growth Alongside Normal Bone Remodeling.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-testing-the-aphaca-bt6n-wi-fi-fm-broadcast-receiver-a-minute-bluetooth-vehicle-audio-solution/"><u>Ultimate Guide: Testing the Aphaca BT6n Wi-Fi FM Broadcast Receiver - A Minute Bluetooth Vehicle Audio Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-merit-of-paying-for-hulu-services/"><u>Unpacking the Merit of Paying For Hulu Services</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excitement-of-drone-warfare-dji-robomasters-s1-a-comprehensive-evaluation-for-gamers/"><u>Unveiling the Excitement of Drone Warfare: DJI RoboMasters S1 - A Comprehensive Evaluation for Gamers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wildlife-documentary-contenders-hero5-black-vs-sj7-for-2024/"><u>Wildlife Documentary Contenders  Hero5 Black Vs SJ7 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-quick-guide-to-securing-a-youtube-revenue-stream-for-2024/"><u>Your Quick Guide to Securing a Youtube Revenue Stream for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[Updated] In 2024, The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>[Updated] Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-collection-7-prime-websites-offering-movie-teasers/"><u>Discover The Ultimate Collection: 7 Prime Websites Offering Movie Teasers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-10-capture-hardware-recommendations-for-online-videos/"><u>Essential 10 Capture Hardware Recommendations for Online Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-start-with-your-hp-color-laserjet-pro-m452dn-essential-drivers-download/"><u>Fast Start with Your HP Color LaserJet Pro M452dn: Essential Drivers Download</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-portability-to-performance-spotlight-on-stellar-rechargeable-battery-chargers/"><u>From Portability to Performance: Spotlight on Stellar Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 12R Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-note-12r-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi Note 12R to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-moto-e13-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Moto E13 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-document-and-picture-scanner-technologies-of-2024-unveiled/"><u>Leading Document and Picture Scanner Technologies of 2024 Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-great-outdoors-with-garmins-top-rated-gpsmap-64st-a-complete-overview/"><u>Mastering the Great Outdoors with Garmin's Top-Rated GPSMAP 64St - A Complete Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-the-ultimate-guide-to-the-premier-gaming-consoles-in-2/"><u>Top Picks: The Ultimate Guide to the Premier Gaming Consoles in 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-netgear-router-models/"><u>Top-Ranking Netgear Router Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-through-toms-lens/"><u>Unveiling the Latest in PC Hardware Through Tom's Lens</u></a></li>
 </ul></div>
+

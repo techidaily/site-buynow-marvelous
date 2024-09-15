@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2024-09-09T07:03:36.897Z
-updated: 2024-09-10T07:03:36.897Z
+date: 2024-09-10T06:25:46.548Z
+updated: 2024-09-14T18:59:44.351Z
 tags:
   - games
   - tv
@@ -11,12 +11,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec78e34142ed3c3e52ff3fe5e7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
 
 ### Quick Links
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  Although the PlayStation 5 was initially criticized for lacking many useful features seen in its predecessor, the console has gradually added these features via software updates. Despite this, PS5 owners are still waiting for the return of a few notable PS4 features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1  Menu Themes 
 
  One of the most highly requested features among PlayStation 5 owners is menu themes. If you weren't happy with the standard blue background of the PlayStation 4's home menu, you had the option to change it using a theme.
@@ -51,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![Game details for Stranger of Paradise: Final Fantasy Origin on PlayStation 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-stranger-of-paradise-details-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Much like the PS4's themes, the detail pages feature unique backgrounds and music for each game. As such, there are fewer opportunities to see the standard background on the PS5 than there were PS4, which makes the inclusion of themes far less important for the PS5.
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
@@ -78,11 +60,12 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
 
  In contrast, the PS4 browser can be easily accessed from the console's home menu and contains most of the basic features you would expect from a typical web browser. While it has its own limitations, the PS4 browser is reliable enough for everyday use without needing to go through any complicated steps.
@@ -94,11 +77,12 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4  USB Backup for PS5 Saves 
 
  The PlayStation 4 provides the option to [back up your save files](https://driver-error.techidaily.com/fixed-sm-bus-control-improvements-for-win11/) in cloud storage (if you have a PlayStation Plus subscription) or on a USB drive. Although there are some advantages to storing backups on [cloud storage](https://youtube-tips.techidaily.com/astering-video-visibility-settings-on-youtube-for-2024/), being able to use [your own external drive](https://extra-support.techidaily.com/in-2024-kodi-streaming-service-windows-media-replacement/) allows you to preserve your save files without needing a subscription or internet connection.
@@ -107,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![PS5 Saved Data and Game App Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-saved-data-and-game-app-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
 
 ## 5  Why Is the PS5 Still Missing These Features? 
@@ -127,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,43 +114,18 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-hp-deskjet-2755e-driver-on-windows/"><u>[Download] HP DeskJet 2755E Driver on Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-a-compreeved-look-at-sharex-opinions-and-alternatives/"><u>[New] A Compreeved Look at ShareX  Opinions & Alternatives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-affordable-flight-masters-top-drone-selections-below-500/"><u>[Updated] Affordable Flight Masters  Top Drone Selections Below $500</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-memelore-creation-on-giphy/"><u>[Updated] Initiate Memelore Creation on Giphy</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023-facebook-short-videos-and-everything-about-them/"><u>2023 | Facebook Short Videos and Everything About Them</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-vr-cycling-experiences-awaiting-you/"><u>2024 Approved  Best VR Cycling Experiences Awaiting You</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inside-the-world-of-toolwiz-an-in-depth-software-review/"><u>2024 Approved  Inside the World of Toolwiz  An In-Depth Software Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/5-important-considerations-when-selecting-a-previously-owned-ipad-device/"><u>5 Important Considerations When Selecting a Previously Owned iPad Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/all-about-metaverse-marketing-example-strategies-and-more/"><u>All About Metaverse Marketing  Example, Strategies, and More</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boosting-signal-strength-with-tp-links-re305-a-thorough-insight-into-the-ac12amoon-wifi-repeater/"><u>Boosting Signal Strength with TP-Link's RE305: A Thorough Insight Into the AC12amoon WiFi Repeater</u></a></li>
-<li><a href="https://facebook.techidaily.com/building-brand-loyalty-through-interactive-fb-campaigns/"><u>Building Brand Loyalty Through Interactive FB Campaigns</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-the-xp-pen-artist-16-pro-drawing-pad-unveiled/"><u>Comprehensive Analysis: The XP-Pen Artist 16 Pro Drawing Pad Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-lenovos-tablet-the-good-the-bad-and-the-ugly-of-p11-pro/"><u>Comprehensive Evaluation of Lenovo's Tablet: The Good, The Bad & The Ugly of P11 Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-newest-amazon-kindle-paperwhite-7th-generation-perfect-your-reading-experience-anywhere/"><u>Comprehensive Evaluation of the Newest Amazon Kindle Paperwhite, 7Th Generation - Perfect Your Reading Experience Anywhere!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/does-your-ipad-lag-behind-the-latest-tech-trends/"><u>Does Your iPad Lag Behind the Latest Tech Trends?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/essential-steps-for-successful-intelligent-imac-upgrades/"><u>Essential Steps for Successful Intelligent iMac Upgrades</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-linksys-velop-the-ultimate-solution-for-expansive-mesh-networks/"><u>Evaluating Linksys Velop: The Ultimate Solution for Expansive Mesh Networks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-barnes-and-nobles-breakthrough-in-digital-reading-an-exclusive-review-of-the-newly-expanded-screen-e-reader/"><u>Experience Barnes & Noble’s Breakthrough in Digital Reading – An Exclusive Review of the Newly Expanded Screen E-Reader</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-dbpowers-new-peak-pro-power-bank-a-match-for-everyone/"><u>Exploring DBPOWER's New Peak Pro Power Bank – A Match for Everyone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-test-and-edit-your-web-pages-prior-to-upload/"><u>How to Test and Edit Your Web Pages Prior to Upload</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a56s-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A56s 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-14-effective-methods-zero-budget-webinar-recording-tips/"><u>In 2024, 14 Effective Methods  Zero Budget Webinar Recording Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques/"><u>In 2024, The Ultimate Playbook of IGTV Mastery  Top 10 Branding Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-who-rules-the-realm-of-youtube/"><u>In 2024, Who Rules the Realm of YouTube?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-guide-to-the-apc-back-ups-pro-1500va-high-performance-multiple-charging-ports-and-hot-swap-technology/"><u>In-Depth Guide to the APC Back-UPS Pro 1500VA - High Performance, Multiple Charging Ports & Hot Swap Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-google-nest-wi-fi-networking-lightning-fast-speeds-seamless-setup/"><u>In-Depth Review of Google Nest Wi-Fi Networking: Lightning-Fast Speeds, Seamless Setup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-bandn-nook-glowlight-4-tablet/"><u>In-Depth Review of the B&N Nook GlowLight 4 Tablet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/increasing-click-rates-and-revenue-the-power-of-engaging-fb-animation-ads/"><u>Increasing Click Rates & Revenue  The Power of Engaging FB Animation Ads</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/plants-vs-zombies-the-ultimate-guide-to-a-fun-shooter-experience/"><u>Plants Vs. Zombies: The Ultimate Guide to a Fun Shooter Experience!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reasons-to-upgrade-the-linkedin-plus-experience/"><u>Reasons to Upgrade: The LinkedIn Plus Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/should-you-pay-more-for-enhanced-linkedin-access/"><u>Should You Pay More for Enhanced LinkedIn Access?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solution-steps-for-iphone-users-struggling-with-unsuccessful-message-serversync/"><u>Solution Steps for iPhone Users Struggling with Unsuccessful Message Serversync</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamline-your-windows-10-experience-crash-free-photos-viewing/"><u>Streamline Your Windows 10 Experience  Crash-Free Photos Viewing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-convenient-choice-for-personal-fitness-samsung-galaxy-fit2-your-discreet-activity-monitor/"><u>The Convenient Choice for Personal Fitness: Samsung Galaxy Fit2 - Your Discreet Activity Monitor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-convenient-sx620-a-powerful-photography-ally/"><u>The Convenient SX620: A Powerful Photography Ally</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-your-first-smartwatch-spotlight-on-amazfits-affordable-gem-bip/"><u>The Ultimate Guide to Choosing Your First Smartwatch: Spotlight on Amazfit's Affordable Gem, BIP</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/theta-sc2-revealed-the-future-of-compact-vr-cameras/"><u>Theta SC2 Revealed: The Future of Compact VR Cameras</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-achieving-audio-harmony-on-stream-integrating-background-music-with-obs-effects/"><u>Updated In 2024, Achieving Audio Harmony on Stream Integrating Background Music with OBS Effects</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/whisker-wonders-games-galore/"><u>Whisker Wonders: Games Galore</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reducing-excessive-encoding-obs-broadcast/"><u>[Updated] Reducing Excessive Encoding (OBS Broadcast)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-7-best-voice-changer-recorder-apps-for-2024/"><u>[Updated] Top 7 Best Voice Changer Recorder Apps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-obs-and-streamlabs-mac-integration/"><u>2024 Approved Mastering OBS & Streamlabs Mac Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>2024 Approved The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-kid-safe-racing-adventure-comprehensive-review-of-holy-stone-rc-car-toy/"><u>A Kid-Safe Racing Adventure: Comprehensive Review of Holy Stone RC Car Toy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-guide-through-the-landscape-of-srt/"><u>A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerated-windows-review-strategies/"><u>Accelerated Windows Review Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/building-utopias-an-in-depth-look-at-city-creation-in-cities-skylines/"><u>Building Utopias: An In-Depth Look at City Creation in Cities: Skylines</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-the-best-sound-an-in-depth-analysis-of-google-nest-audio-and-apple-homepod/"><u>Choosing the Best Sound: An In-Depth Analysis of Google Nest Audio and Apple HomePod</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-enhanced-performance-with-the-jaco-smartpro-digital-tire-inflator-a-detailed-appraisal-of-power-and-portability/"><u>Experience Enhanced Performance with the Jaco SmartPro Digital Tire Inflator: A Detailed Appraisal of Power & Portability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-high-capacity-efficient-energy-storage-of-the-apc-back-ups-pro-1500va-featuring-multiple-outlets-and-battery-swapping-options/"><u>Exploring the High Capacity, Efficient Energy Storage of the APC Back-UPS Pro 1500VA - Featuring Multiple Outlets and Battery Swapping Options</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-guide-resolve-your-steamvr-issues-instantly/"><u>Quick Fix Guide: Resolve Your SteamVR Issues Instantly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elite-picks-choosing-the-finest-vertical-mice-on-the-market/"><u>The Elite Picks: Choosing the Finest Vertical Mice on the Market</u></a></li>
 </ul></div>
+

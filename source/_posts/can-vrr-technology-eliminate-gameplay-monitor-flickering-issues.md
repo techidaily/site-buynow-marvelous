@@ -1,7 +1,7 @@
 ---
 title: Can VRR Technology Eliminate Gameplay Monitor Flickering Issues?
-date: 2024-09-04T20:02:47.761Z
-updated: 2024-09-05T20:02:47.761Z
+date: 2024-09-07T18:53:45.822Z
+updated: 2024-09-15T03:59:54.323Z
 tags:
   - games
   - tv
@@ -27,12 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In some games, at least when using a monitor with a [VA panel](https://facebook-video-footage.techidaily.com/updated-the-art-of-youtube-management-by-studio-techniques/), even the slightest frame rate or frame time variation can trigger VRR flicker because VA panels are quite sensitive to the voltage fluctuations that occur when the refresh rate changes. So, how can you make VRR flicker disappear?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable Variable Refresh Rate (VRR)
 
  This solution is a surefire way to deal with VRR flicker. On the flip side, disabling VRR means you’ll have to use [V-Sync](https://facebook-video-content.techidaily.com/how-to-enhance-facebook-stream-volume-completely-for-2024/) or deal with [screen tearing](https://tech-haven.techidaily.com/unpacking-the-preloaded-features-of-chatgpt-functions-and-implementation-tips/). 
@@ -45,12 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Graphics settings tab in the NVIDIA App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re rocking an AMD GPU, open AMD Software, go to the “Gaming” tab, select the "Games" tab, and click the game you want to disable VRR for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
@@ -65,12 +53,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That’s it!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Set a Framerate Cap In Games That Trigger Screen Flickering
 
  In games where I’ve experienced VRR flickering even during the slightest frame rate or frame time variations, like in _Marvel’s Spider-Man_ and _Marvel's Spider-Man: Miles Morales_, I’ve found that capping the maximum frame rate to a value my [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) can consistently maintain solves the issue. In the case of _Marvel’s Spider-Man_, that value was 60fps since I play the game with [ray-tracing effects](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/).
@@ -89,18 +71,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Graphics settings listed in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-05.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you should enable the option, set the maximum FPS, and click “Apply,”
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
@@ -111,41 +81,57 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Frame rate limiter tool in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-07.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, scroll down until you see a setting called “Radeon Chill” and enable the option.
 
 ![Graphics options in AMD software including Radeon Chill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-08.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click “Enable” when asked to enable it. Note that enabling Radeon Chill will disable certain features, including Radeon Super Resolution, AMD Fluid Motion Frames, Radeon Anti-Lag, and Radeon Boost.
 
 ![Enabling Radeon Chill in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-09.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, set both the minimum and maximum FPS to the same value.
 
 ![Customizing Radeon Chill options in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also use a third-party app, such as [RivaTuner Statistics Server](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) (RTSS), to limit max FPS globally or in specific games.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  VRR Flicker Should Be Less Noticeable At Higher Framerates
 
@@ -169,8 +155,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,43 +164,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-hybridmix-pro-for-dual-os/"><u>[New] 2024 Approved  HybridMix Pro for Dual OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-footage-starts-here-basics-for-novice-filmmakers/"><u>[New] Groundbreaking Footage Starts Here  Basics for Novice Filmmakers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-best-webcam-accessories-top-10-secure-solutions/"><u>[New] In 2024, Best Webcam Accessories  Top 10 Secure Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-perfect-photo-finishes-picarts-background-erase-method/"><u>[New] Perfect Photo Finishes  PicArt's Background Erase Method</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-effortless-rearrangement-of-your-personalized-lists-for-2024/"><u>[Updated] Effortless Rearrangement of Your Personalized Lists for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-harness-googles-skill-for-accurate-speech-to-text-conversion-for-2024/"><u>[Updated] Harness Google's Skill for Accurate Speech to Text Conversion for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-response-etiquette-discord-messaging-guide-for-2024/"><u>[Updated] Mastering Response Etiquette  Discord Messaging Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-screen-recorder-alternatives-to-xboxs-game-bar-for-2024/"><u>[Updated] Top Screen Recorder Alternatives to Xbox’s Game Bar for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-shortform-video-tweets-as-webm-sounds/"><u>2024 Approved  Shortform Video Tweets as WebM Sounds</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-comprehensive-guide-to-discord-spoiler-tags/"><u>2024 Approved  The Comprehensive Guide to Discord Spoiler Tags</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/come-disinnescare-i-sistemi-anti-copying-dei-dvd-disney/"><u>Come Disinnescare I Sistemi Anti-Copying Dei DVD Disney</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-convenience-redefined-the-all-in-one-echo-dot-3rd-gen-review-for-everyday-alexa-use/"><u>Compact Convenience Redefined - The All-in-One Echo Dot (3Rd Gen) Review for Everyday Alexa Use</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-next-gen-mopping-and-vacuum-robot-powered-by-lidar/"><u>Comprehensive Guide to the Dreame Bot L10 Pro – Next-Gen Mopping and Vacuum Robot Powered by LiDAR</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciding-on-linkedins-luxury-plan-insights/"><u>Deciding on LinkedIn's Luxury Plan: Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/determining-if-apple-tv-fits-your-budget/"><u>Determining if Apple TV Fits Your Budget</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/develop-a-research-timeline/"><u>Develop a Research Timeline:</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-travelers-dream-the-amazing-versatility-of-the-amazon-basics-tablet-stand/"><u>Evaluating the Traveler's Dream: The Amazing Versatility of the Amazon Basics Tablet Stand</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-control-and-mobility-the-ultimate-precision-gaming-with-a-cordless-sabrent-travel-mouse/"><u>Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-assessment-of-battery-operated-google-wireless-doorbells/"><u>Expert Assessment of Battery Operated Google Wireless Doorbells</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-updated-amd-radeon-hd-drivers-for-windows/"><u>Find and Download Updated AMD Radeon HD Drivers for Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/immersive-dying-light-co-op-adventure-first-person-parkour-and-survival-gameplay/"><u>Immersive Dying Light Co-Op Adventure: First-Person Parkour & Survival Gameplay</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-guide-to-establishing-a-vlog-centered-on-merchandise-assessments/"><u>In 2024, A Guide to Establishing a Vlog Centered on Merchandise Assessments</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-from-shoot-to-spectacle-editing-techniques-for-drones/"><u>In 2024, From Shoot to Spectacle  Editing Techniques for Drones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-simplifying-video-sharing-on-the-cloud-by-microsoft/"><u>In 2024, Simplifying Video Sharing on the Cloud by Microsoft</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/meet-your-next-desktop-dream-machine-the-innovative-raspberry-pi-t-400-reviewed/"><u>Meet Your Next Desktop Dream Machine: The Innovative Raspberry Pi T 400 Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-techniques-shifting-bulk-video-data-from-iphone-to-mac-for-2024/"><u>Precision Techniques  Shifting Bulk Video Data From iPhone to Mac for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-escort-ix-gps-enabled-radar-detector-smart-learning-on-the-road/"><u>Review of the Escort iX GPS-Enabled Radar Detector - Smart Learning on the Road</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-post-processing-workflow-with-free-darktable-software-on-macos-and-linux-systems/"><u>Revolutionize Your Post-Processing Workflow with Free Darktable Software on macOS & Linux Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sing-like-a-star-the-top-karaoke-devices-of-2024-revealed/"><u>Sing Like a Star: The Top Karaoke Devices of 2024 Revealed!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-best-affordable-ssl-security-options/"><u>The Best Affordable SSL Security Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-thinkpad-x1-titanium-yoga-exposed-why-this-top-of-the-line-2-in-1-is-a-must-have-for-die-hard-thinkpad-fans/"><u>The Lenovo ThinkPad X1 Titanium Yoga Exposed: Why This Top-of-the-Line 2-in-1 Is a Must-Have for Die-Hard ThinkPad Fans!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-jaco-smartpro-digital-tire-inflator-a-study-in-efficiency-and-strength/"><u>The Ultimate Guide to the Jaco SmartPro Digital Tire Inflator – A Study in Efficiency and Strength</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tier-performance-an-in-depth-look-at-the-apc-gaming-uninterruptible-power-supply/"><u>Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-downloading-and-installing-amd-radeon-r9-200-series-drivers-on-windows-computers/"><u>Ultimate Guide to Downloading and Installing AMD Radeon R9 200 Series Drivers on Windows Computers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-truth-about-mobvoi-ticwatch-e2-a-low-price-doesnt-mean-quality/"><u>Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unleashing-hidden-media-from-your-connected-friends-for-2024/"><u>Unleashing Hidden Media From Your Connected Friends for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unsubscribed-and-secure-an-in-depth-analysis-of-the-eufy-t8200-video-doorbell/"><u>Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-detailed-review-of-the-corsair-one-pro-gaming-desktop/"><u>Unveiling the Powerhouse - Detailed Review of the Corsair One Pro Gaming Desktop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-viair-88p-compressor-exceptional-force-hindered-by-specific-drawbacks/"><u>Unveiling the Viair 88P Compressor: Exceptional Force Hindered by Specific Drawbacks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[New] In 2024, Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-stars-with-fun-and-fury-the-outer-worlds-review-a-unique-blend-of-sci-fi-action-and-storytelling/"><u>Exploring the Stars with Fun and Fury: 'The Outer Worlds' Review – A Unique Blend of Sci-Fi Action & Storytelling</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-2024-stutter-and-lag-in-assassins-creed-odyssey-on-windows-pc-step-by-step-tips/"><u>Fixing 2024 Stutter and Lag in Assassin's Creed Odyssey on Windows PC - Step-by-Step Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y100a-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y100A? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-the-pack-essential-gaming-experiences-on-steam-deck/"><u>Leading the Pack: Essential Gaming Experiences on Steam Deck</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-for-virtual-camera-and-software-solutions/"><u>Live Streaming with ManyCam: Top Choice for Virtual Camera and Software Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986886208-sea-of-thieves-game-crash-bug-fixed/"><u>Sea of Thieves Game Crash Bug Fixed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723064964936-survive-the-night-with-friends-in-dying-light-a-thrilling-first-person-parkour-and-cooperative-gameplay-experience/"><u>Survive the Night with Friends in 'Dying Light': A Thrilling First-Person Parkour and Cooperative Gameplay Experience</u></a></li>
 </ul></div>
+

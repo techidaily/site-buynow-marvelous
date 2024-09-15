@@ -1,7 +1,7 @@
 ---
 title: Midland LXT500VP3 Review
-date: 2024-08-09T00:43:42.054Z
-updated: 2024-08-10T00:43:42.054Z
+date: 2024-09-09T23:46:34.987Z
+updated: 2024-09-14T19:19:33.603Z
 categories:
   - BestProducts
 description: This Article Describes Midland LXT500VP3 Review
@@ -36,9 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/liJwE98Sv8EgOXIWVzrkFGGXxEo=/400x300/fi
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Sealoc Outdoor TV Full Weatherized 55" UHD Smart Weatherproof LED Television
 
 ![SkyVue 55-inch Sealoc Costal Silver TV](https://www.lifewire.com/thmb/hfv-N-kUKUqrdbk4rO9ay7vh_to=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Skyvue_55inch_OutdoorTV_1LW4154865_HERO_Square-a5f526f61e0641158a8503d02b6058b1.jpg)
@@ -83,8 +80,12 @@ thumbnail: https://www.lifewire.com/thmb/liJwE98Sv8EgOXIWVzrkFGGXxEo=/400x300/fi
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Durability: It can handle it all**
 
  The 55-inch Coastal Silver TV is part of Sealoc’s full exposure weatherproof series, which means it’s designed to take on nearly anything you can throw at it. As mentioned above, Sealoc doesn’t just slap a weatherproof case around the TV inside and call it a day. Instead, Sealoc strips down the TV and waterproofs even the internal electronic components using a proprietary “nano-coating” that helps to shed moisture away in the event it somehow manages to make it past the other sealing elements.
@@ -97,12 +98,22 @@ thumbnail: https://www.lifewire.com/thmb/liJwE98Sv8EgOXIWVzrkFGGXxEo=/400x300/fi
 
  Overall, unless you’re exposing this unit to salty seawater day in, day out, in the harshest environments, I have a hard time seeing how this TV won’t hold up for years to come.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SkyVue 55-inch 4K Outdoor TV](https://www.lifewire.com/thmb/GJ1StKRMx12EggdPfSJWCSSS7aY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Skyvue_55inch_OutdoorTV_1LW4154865_02_Horiz-1df71300a60d421f848d96050a856fbe-d93884cf38ee40188089dc6d114570d3.jpg)
 
 Lifewire / Gannon Burgett
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Not much to it**
 
@@ -114,9 +125,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Image and Audio Quality: Fantastic, rain or shine**
 
  While this particular TV is branded as a full-sun Sealoc unit, underneath the branding and weather-sealing it’s an LG 6-series 4K HDR TV that’s been custom calibrated by Sealoc to offer specialized adjustments for optimized viewing in bright or direct-sun environments.
@@ -129,16 +137,23 @@ Lifewire / Gannon Burgett
 
  Despite being entirely weather-sealed, the TV offers great sound quality. The mid-tones are clearly pushed up in the audio, but for most applications, particularly those where voices and commentary are more prominent, this didn’t prove to be an issue. Now, if you’re hoping to hear every nuance of a movie’s soundtrack you might be disappointed, but if your environment is anything like mine, the stray humming of a lawnmower or leaf blower somewhere in the neighborhood will likely negate any high-quality analysis anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![SkyVue 55-inch 4K Outdoor TV](https://www.lifewire.com/thmb/5LTt3_JmSCZ2Cjd0ggeTdVK5pUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Skyvue_55inch_OutdoorTV_1LW4154865_04_Horiz-f4876803f40845e7a399293e04b71906.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: You get what you pay for**
 
  I’ll get straight to the point—this TV isn’t cheap. At $3,000, you could go through at least four of the standard LG 6-series units this model is based on. But not a single one of those would last through more than a single downpour.
@@ -163,9 +178,6 @@ Lifewire / Gannon Burgett
 
  The 55-inch Sealoc Coastal Silver Outdoor TV is a niche product with a price to match. If you can spare the change, you won’t find a better option out there, as the TV offers a sleek design, fantastic visual/audio quality, and a fantastic operating system to top it all off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Outdoor TV Full Weatherized 55" UHD Smart Weatherproof LED Television
@@ -184,14 +196,11 @@ Lifewire / Gannon Burgett
 * Connectivity Options  Wi-Fi, Ethernet
 * Warranty  One Year Limited Warranty
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,3 +208,20 @@ Lifewire / Gannon Burgett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-strategies-for-uploading-to-instagram-tv-for-2024/"><u>[New] Essential Strategies for Uploading to Instagram TV for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-finding-your-niche-in-the-snapchat-economy/"><u>[Updated] Finding Your Niche in the Snapchat Economy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-communitys-take-on-vllo-performance-for-2024/"><u>[Updated] The Community's Take on VLLO Performance for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-new-microsoft-surface-pro-7-strong-capabilities-minor-adjustments-only/"><u>Assessing the New Microsoft Surface Pro 7: Strong Capabilities, Minor Adjustments Only</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-value-video-doorbells-featuring-iseebell-review-for-less-than-50/"><u>Best Value Video Doorbells Featuring ISeeBell Review for Less than $50</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-thermaltake-massive-tm-laptop-cooler-a-features-rich-yet-expensive-solution/"><u>Comprehensive Analysis of the Thermaltake Massive TM Laptop Cooler: A Features-Rich yet Expensive Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-moto-g-power-outstanding-energy-capacity-and-solid-handset-performance/"><u>Comprehensive Evaluation of Moto G Power - Outstanding Energy Capacity and Solid Handset Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-amazon-fire-hd-10-kids-exceptional-parental-controls-unveiled/"><u>Comprehensive Review of the Amazon Fire HD 10 (Kids) - Exceptional Parental Controls Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-vanishing-how-messenger-achieves-it/"><u>The Art of Vanishing: How Messenger Achieves It</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-spark-go-2023-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Spark Go (2023) Location | Dr.fone</u></a></li>
+</ul></div>
+
