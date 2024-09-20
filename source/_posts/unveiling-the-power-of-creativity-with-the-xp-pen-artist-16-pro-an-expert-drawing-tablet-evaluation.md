@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Power of Creativity with the XP-Pen Artist 16 Pro – An Expert Drawing Tablet Evaluation
-date: 2024-08-09T00:43:43.556Z
-updated: 2024-08-10T00:43:43.556Z
+date: 2024-09-18T16:25:30.160Z
+updated: 2024-09-20T17:13:01.558Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Power of Creativity with the XP-Pen Artist 16 Pro – An Expert Drawing Tablet Evaluation
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
  Lifewire / Andrew Hayward
@@ -41,9 +38,6 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
@@ -72,9 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Pretty awkward**
 
  The Netgear’s Nighthawk AX8 Wi-Fi 6 Mesh Extender is not only the largest and heaviest Wi-Fi extender I’ve tested at 10 inches tall and nearly two pounds, but it’s also one of the oddest-looking. It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward. Also, the little plastic feet don’t do a great job of supporting the weight, making it a bit wobbly on a flat surface.
@@ -84,8 +75,12 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Avoid the app**
 
  The setup options for the Netgear Nighthawk AX8 are the same as with Netgear’s other extenders—even those without Wi-Fi 6 support. You’ll begin with the extender plugged in near your router. If your router supports[WPS](https://www.lifewire.com/what-is-wps-4842308) , then you can pair the extender with it easily by following the process listed in the included booklet, which is as simple as pressing a button on the router and then doing the same on the extender.
@@ -96,9 +91,6 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
  Over and over, the setup process wouldn’t complete… and then it finally did. I ran into similar issues with the other Netgear extenders, in which setup processes didn’t work as expected on the first or second time, but this was a much longer and more arduous ordeal. Finally, however, I got the Nighthawk AX8 up and running. From there, you’ll need to find a new location for the extender—roughly halfway between the router and your Wi-Fi dead zone is ideal, but play around with positioning if you’re not getting the results you seek.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
  Lifewire / Andrew Hayward
@@ -117,10 +109,14 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
  Given the high max speeds, it wasn’t surprising to see strong gaming performance, as well. While playing Rocket League, I saw smooth gameplay across the wired Ethernet connection as well as both wireless networks, with a ping as low as 33 via the wired connection. The wireless ping was only a few points higher.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -146,6 +142,13 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
 
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
@@ -163,11 +166,29 @@ thumbnail: https://www.lifewire.com/thmb/tgk8Y5s4FF4UYvqETaSno_-uZ7o=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-learn-to-create-stunning-thumbnails-in-minutes/"><u>[New] Learn to Create Stunning Thumbnails in Minutes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-an-expert-in-no-time-mastering-ez-grabbers-functions/"><u>Become an Expert in No Time! Mastering EZ Grabber's Functions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-the-tp-link-av2000-adapter-fast-connectivity-with-design-room-for-improvement/"><u>Comprehensive Assessment of the TP-Link AV2000 Adapter: Fast Connectivity with Design Room for Improvement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-elgoog-website-evaluation-the-definitive-reflection/"><u>Comprehensive ElgooG Website Evaluation: The Definitive Reflection</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nokia-g310-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nokia G310 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-aeiusys-portable-solar-generator-and-pure-sine-wave-technology-suitable-for-medical-apparatus/"><u>Expert Insight on Aeiusy's Portable Solar Generator and Pure Sine Wave Technology Suitable for Medical Apparatus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-cost-effective-microsoft-surface-go-a-device-with-an-ambiguous-purpose/"><u>Exploring the Cost-Effective Microsoft Surface Go - A Device with an Ambiguous Purpose?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-address-your-pcs-audio-glitch-fix-for-dolby-headphone-not-working-resolved/"><u>How to Address Your PC's Audio Glitch: Fix for Dolby Headphone Not Working, Resolved!✔️</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a78-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A78 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-education-networking-event/"><u>Innovative Education Networking Event</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-vlc-tips-revealing-unknown-features/"><u>Master VLC Tips Revealing Unknown Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/philips-hf3505-wake-up-light-review-revolutionizing-morning-routines-with-gentle-awakening-technology/"><u>Philips HF3505 Wake-Up Light Review: Revolutionizing Morning Routines with Gentle Awakening Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skyrim-on-nintendo-switch-a-deep-dive-into-an-enchanting-rpg-experience/"><u>Skyrim on Nintendo Switch: A Deep Dive Into an Enchanting RPG Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/soundscapes-elevated-discover-rokus-enhanced-experience/"><u>Soundscapes Elevated: Discover Roku's Enhanced Experience</u></a></li>
+</ul></div>
+

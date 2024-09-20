@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Vinyl Playback with Audio-Tech's Turntable, AT-LP120XUSB
-date: 2024-08-09T00:43:47.112Z
-updated: 2024-08-10T00:43:47.112Z
+date: 2024-09-18T16:59:24.505Z
+updated: 2024-09-20T16:18:54.871Z
 categories:
   - BestProducts
 description: This Article Describes Revolutionizing Vinyl Playback with Audio-Tech's Turntable, AT-LP120XUSB
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/FTmH2b0r8KTfE_lHJWQDEqEhpik=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Flexispot Theodore Standing Desk
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/j-bZzQrKEa5BwuAv26jY6OgzXS8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
@@ -41,10 +38,6 @@ Lifewire / Rebecca Isaacs
 
 ## Flexispot Theodore Standing Desk
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/DtKuV5cnXF6F_hZWcmPDMzPTFDY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -79,9 +72,6 @@ Lifewire / Rebecca Isaacs
 
  The wooden veneer immediately caught my eye. Named after the famous Theodore Roosevelt, this desk incorporates a wooden walnut veneer to give its classic look. It’s this American design, along with rustic knobs on the sole drawer, that give it a timeless look that can complement any home. Even better were the two USB ports that were incorporated beside the buttons for raising and lowering the desk.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/du2Ec4SmWWkaWQQCKbMuR4NiBUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_02-4a15245115084875b6ac05ba8f4c6a53.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -101,8 +91,12 @@ Lifewire / Rebecca Isaacs
 Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Controls: Tap a button
 
  If I got tired of sitting, usually with a cat on my lap, I could easily convert this into a standing desk thanks to two buttons that raise and lower the desk through motorized controls. While it was a little noisy, the noise doesn’t seem atypical for any standing desk models on the market. I stopped the desk when it rose to conform to my height of 5 feet, 8 inches, but the desk can go up to nearly 50 inches for people who need the extra height.
@@ -111,25 +105,22 @@ Lifewire / Rebecca Isaacs
 
  One of my biggest gripes about the controls is that sometimes the buttons didn’t register when I first pressed them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/IfBuQB7ShOvw2XlkJal4eCb1myE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_04-1e85750d263e43f4815a4b1eeddf41a1.jpg)
 
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: A steal at the price
 
  At around $500, before desk accessories like a[standing desk mat](https://www.lifewire.com/best-standing-desk-mats-4155870) , the Flexispot Theodore is very reasonably priced. Keep in mind that you’re not paying for real wood, which factors into the price tag, but a wood veneer finish. Fancier, more modern-looking standings desks can run close to $1,000\.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/u2023DggV3o9Pw8Y6CDkCOuqu3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_05-595174532f3846fcb2093e11b083b32f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -146,6 +137,13 @@ Lifewire / Rebecca Isaacs
 **Simply amazing for working from home.**
 
  The complete height adjustability and the complimentary USB ports on the Flexispot Theodore Standing Desk are perfect for any home that wants to retain a classic look while getting a major modern upgrade. With the small storage drawer, it’s the perfect standing desk to complete any home office.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -165,14 +163,11 @@ Lifewire / Rebecca Isaacs
 * Warranty  5-year limited warranty
 * Connectivity Options  USB port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,3 +175,22 @@ Lifewire / Rebecca Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebook-film-fans-choosing-the-best-extensions-and-downloader-plugins-on-firefox/"><u>[New] In 2024, Facebook Film Fans Choosing the Best Extensions and Downloader Plugins on Firefox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-bluetooth-fm-transmitter-2023-reviews-car-compatibility-and-performance/"><u>Best Bluetooth FM Transmitter (2023 Reviews) - Car Compatibility & Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723080810015-explore-the-latest-in-smartwear-the-amazfit-helio-rings-cost-and-features-released/"><u>Explore the Latest in Smartwear: The Amazfit Helio Ring's Cost & Features Released!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016388596-hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/"><u>Hearthstone Quieted Down? Here's How to Turn Up the Volume Again</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-fold-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel Fold If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>In 2024, Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-guide-to-whatsapp-audio-chat/"><u>In 2024, The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kid-friendly-nickelodeon-series-debuts-at-us-kids-choice-awards/"><u>Kid-Friendly Nickelodeon Series Debuts at US Kids' Choice Awards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thermaltake-massive-tm-laptop-cooling-pad-review-perk-packed-but-pricey/"><u>Thermaltake Massive TM Laptop Cooling Pad Review: Perk-Packed But Pricey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrade-your-internet-speed-using-the-netgear-nighthawk-x6s-range-extender/"><u>Upgrade Your Internet Speed Using the Netgear Nighthawk X6S Range Extender</u></a></li>
+<li><a href="https://windows11.techidaily.com/waking-up-the-watches-5-fixes-for-lost-windows-server-time/"><u>Waking Up the Watches: 5 Fixes for Lost Windows Server Time</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2024-09-10T01:03:46.283Z
-updated: 2024-09-14T17:43:05.382Z
+date: 2024-09-14T16:06:48.855Z
+updated: 2024-09-20T16:34:03.903Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -82,13 +82,6 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
@@ -96,26 +89,13 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Features: Multimedia hotkeys for ease of use**
 
@@ -130,6 +110,19 @@ Lifewire / Emily Isaacs
 ## **Price: A budget-friendly ergonomic keyboard**
 
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -154,6 +147,13 @@ Lifewire / Emily Isaacs
  **A great keyboard with microbial protection for office workers.**
 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -182,19 +182,14 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ind-hotspots-for-online-video-dialogue/"><u>[New] Find Hotspots for Online Video Dialogue</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>2024 Approved Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-daten-sichern-umwandlung-von-dvd-dateien-in-iso-abbilder-professionelles-tool-von-winx-dvd-copy-pro/"><u>DVD Daten Sichern: Umwandlung Von DVD-Dateien in ISO-Abbilder - Professionelles Tool Von WinX DVD Copy Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capturing-your-mi-11-screens-step-by-step/"><u>In 2024, Capturing Your Mi 11 Screens - Step by Step</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-step-by-step-utilizing-your-twitter-archive/"><u>In 2024, Step-by-Step Utilizing Your Twitter Archive</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/m-moock-1000a-peak-18000mah-car-jump-starter-review/"><u>M MOOCK 1000A Peak 18000mAh Car Jump Starter Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-windows-11-upgraded-to-advanced-nvidia-hd-audio/"><u>Mastering Windows 11: Upgraded to Advanced NVIDIA HD Audio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027664347-mkv/"><u>MKVフォーマットへの簡単な変換！動画ファイル編集のコツ</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-price-and-performance-the-ultimate-guide-to-mophies-powerstation-ac/"><u>Navigating Through Price and Performance - The Ultimate Guide to Mophie's Powerstation AC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/netflix-value-proposition-5-reasons-to-commit/"><u>Netflix Value Proposition: 5 Reasons to Commit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-s21-ultra-review-androids-top-option/"><u>Samsung Galaxy S21 Ultra Review: Android’s Top Option</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-best-in-class-introducing-and-testing-the-netgear-nighthawk-x6-wireless-range-extender-reviews-and-features/"><u>The Best in Class: Introducing and Testing the Netgear Nighthawk X6 Wireless Range Extender - Reviews & Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cost-benefit-of-selecting-the-m3-macbook-air/"><u>The Cost-Benefit of Selecting the M3 MacBook Air</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-v29-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo V29 Pro?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-jump-cuts-for-dynamic-vlogging/"><u>[New] 2024 Approved Mastering Jump Cuts for Dynamic Vlogging</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-studio-secrets-building-professional-time-lapses/"><u>GoPro Studio Secrets Building Professional Time Lapses</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18e without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-google-pixel-8-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Google Pixel 8 FRP</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-sonys-ps5-lineup-exploring-ps5-slim-against-regular-ps5/"><u>The Battle of Sony's PS5 Lineup: Exploring PS5 Slim Against Regular PS5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-future-of-driving-safety-unveiled-in-the-escort-ix-review-your-ultimate-radar-companion/"><u>The Future of Driving Safety Unveiled in the Escort iX Review - Your Ultimate Radar Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-new-wave-in-smart-displays-2nd-generation-google-nest-hub-review-and-its-potential-with-a-camera-upgrade/"><u>The New Wave in Smart Displays: 2Nd Generation Google Nest Hub Review and Its Potential With A Camera Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-pinterest-planning-programs-explore-these-5-options/"><u>The Ultimate List of Pinterest Planning Programs: Explore These 5 Options!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-capture-your-screen-a-beginners-guide-to-recording-with-filmora-scrn-for-2024/"><u>Updated Capture Your Screen A Beginners Guide to Recording with Filmora Scrn for 2024</u></a></li>
 </ul></div>
 

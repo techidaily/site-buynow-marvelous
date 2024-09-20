@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: The Ultimate Guide to the Most Exceptional Mirrorless Camera Lenses"
-date: 2024-09-09T13:16:19.981Z
-updated: 2024-09-14T19:16:25.923Z
+date: 2024-09-13T17:23:10.230Z
+updated: 2024-09-20T17:37:36.327Z
 tags:
   - buying-guides
 categories:
@@ -133,13 +133,6 @@ The Fujinon XF 8-16mm f/2.8 R LM WR is an exceptional ultra-wide angle lens for 
 
 ![A person's hand holding a Sigma 100-400mm F5-6.3 DG DN OS Contemporary lens mounted onto a camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sigma-100-400mm-f5-6-3-contemporary-dg-dn-os.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Sigma_
 
 | Pros                               | Cons                              |
@@ -164,10 +157,10 @@ _Sigma_
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Mirrorless Telephoto Lens
@@ -178,22 +171,16 @@ The Sigma 100-400mm F5-6.3 DG DN OS Contemporary is an excellent telephoto lens 
 
 [See at Amazon](https://www.amazon.com/dp/B08BHPVZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Sigma-100-400mm-f-5-6-3-DG-DN-OS-Contemporary-Lens-for-Sony-E/729957648) 
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Mirrorless Portrait Lens: [Sony FE 85mm f/1.8](https://www.walmart.com/ip/Sony-FE-85mm-f-1-8-Lens-SEL85F18/376142797) 
 
 ![Sony SEL85F18 85mm F:1.8-22](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-sel85f18-85mm-f-1-8-22.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Sony_
 
@@ -218,6 +205,13 @@ _Sony_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best Mirrorless Portrait Lens
 
 #####  Sony FE 85mm f/1.8
@@ -229,6 +223,13 @@ The Sony FE 85mm f/1.8 is an affordable 85mm lens that's an excellent choice for
 ##  Best Mirrorless Macro Lens: [Fujinon XF 80mm f/2.8 R LM OIS WR Macro](https://www.walmart.com/ip/Fujifilm-Fujinon-XF-Macro-Lens-80-mm-f-2-8-R-LM-OIS-WR-X-Mount-Series-X-A10-X-A5-X-A7-X-E3-X-H1-X-S10-X-T100-X-T20-X-T200-X-T3-X-T30-X-T4/935289588) 
 
 ![A CLOSE UP OF WATER DROPLETS ON THE Fujinon XF 80mm f2.8 R LM OIS WR Macro lens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-80mm-f2-8-r-lm-ois-wr-macro.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Fujifilm_
 
@@ -253,13 +254,6 @@ _Fujifilm_
 
 ![Fujinon XF 80mm f2.8 R LM OIS WR Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-80mm-f2-8-r-lm-ois-wr-macro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mirrorless Macro Lens
@@ -269,13 +263,6 @@ Best Mirrorless Macro Lens
 The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm X-mounts. It offers sharp images and weather-sealing with a robust build ideal for challenging conditions.
 
 [See at Walmart](https://www.walmart.com/ip/Fujifilm-Fujinon-XF-Macro-Lens-80-mm-f-2-8-R-LM-OIS-WR-X-Mount-Series-X-A10-X-A5-X-A7-X-E3-X-H1-X-S10-X-T100-X-T20-X-T200-X-T3-X-T30-X-T4/935289588) [$1199 at Amazon](https://www.amazon.com/dp/B0759GMLVP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at adorama](https://adorama.rfvk.net/c/156932/51926/1036?subId1=UUhtgUeUpU2003286&subId2=ehtg&u=https%3A%2F%2Fwww.adorama.com%2Fifj80xf.html) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -292,6 +279,13 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 ### What type of lens should I use for street photography?
 
  A 35mm with a wide aperture is the classic choice. Or you can opt for a wider 24 or 28mm, while others prefer the more compressed perspective the ‘nifty fifty’ 50mm provides. However, budding street photographers have [other considerations](https://fox-http.techidaily.com/2024-approved-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/) when hoping to capture some memorable street-life photos.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What type of lens should I use for nature photos?
 
@@ -312,18 +306,15 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-a-guide-to-mastering-steams-switch-pro-controller-for-2024/"><u>[New] A Guide to Mastering Steam's Switch Pro Controller for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ptimize-video-quality-turning-on-av1-in-youtube-settings/"><u>[New] Optimize Video Quality Turning ON AV1 in YouTube Settings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-box-open-strategies/"><u>[Updated] Innovative Box-Open Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-key-strategies-for-perfect-macro-video-shooting/"><u>2024 Approved 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-range-of-residential-weather-tracking-devices-unveiled/"><u>2024’S Elite Range of Residential Weather Tracking Devices Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/define-new-destination-for-mac-screenshots-for-2024/"><u>Define New Destination for Mac Screenshots for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-mini-powerhouse-in-depth-review-of-the-acer-predator-triton-300-se/"><u>Explore the Mini Powerhouse: In-Depth Review of the Acer Predator Triton 300 SE</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-in-your-usb-headphones-for-windows-7-users/"><u>How to Restore Audio in Your USB Headphones for Windows 7 Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-lenovo-p11-pro-stellar-performance-with-a-couple-of-limitations/"><u>In-Depth Look at the Lenovo P11 Pro: Stellar Performance with a Couple of Limitations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/step-by-step-guide-to-perfecting-iphones-hdr-shots-for-2024/"><u>Step-by-Step Guide to Perfecting iPhone's HDR Shots for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-mp4-wav-conversion-tools-a-comprehensive-guide/"><u>Top 5 MP4-WAV Conversion Tools: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-police-body-cameras-a-comprehensive-guide/"><u>Top-Rated Police Body Cameras : A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tumblr-id-visualization-guide-size-format-duration-for-2024/"><u>Tumblr ID Visualization Guide Size, Format, Duration for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-commercial-free-android-vision-capturer/"><u>[New] In 2024, Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>[Updated] In 2024, Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>[Updated] Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/encoding-large-datasets-how-3d-printed-holograms-use-ordinary-plastics-for-secure-storage-of-keys-and-addresses-up-to-576-bits/"><u>Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from HTC U23</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-elgoog-insiders-review-of-the-premier-website-mirroring-service/"><u>Navigating elgooG: Insider's Review of the Premier Website Mirroring Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pitfalls-of-pixel-slate-an-investigative-review-of-its-chromeos-capabilities/"><u>Navigating the Pitfalls of Pixel Slate - An Investigative Review of Its ChromeOS Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-fortnite-an-insiders-review-of-the-thrilling-new-seasonal-content/"><u>Rediscovering Fortnite: An Insider's Review of the Thrilling New Seasonal Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>Updated 2024 Approved Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Kobo Forma Assessment: A Serious Approach to Enhancing Your Reading Experience"
-date: 2024-08-09T00:43:46.461Z
-updated: 2024-08-10T00:43:46.461Z
+date: 2024-09-14T16:20:02.176Z
+updated: 2024-09-20T16:06:50.269Z
 categories:
   - BestProducts
 description: "This Article Describes Kobo Forma Assessment: A Serious Approach to Enhancing Your Reading Experience"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 3.5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nikon Coolpix A10
 
 ![Nikon COOLPIX A10](https://www.lifewire.com/thmb/_nVZpOtGKRN-2bMUEFmyLS1Rma0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_03LW3897833-1-7909edb954234ba998fda175019f4ce7.jpg)
@@ -41,14 +38,8 @@ Lifewire / Scott Gercken
 
 3.5
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Nikon Coolpix A10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Nikon COOLPIX A10](https://www.lifewire.com/thmb/YC6hZEGkRUots77n6cg8D4tnDfs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_03LW3897833-1-7909edb954234ba998fda175019f4ce7.jpg)
 
 Lifewire / Scott Gercken
@@ -75,9 +66,6 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Feels good with natural controls**
 
  The Nikon COOLPIX A10 is a nice looking camera with a flashy silver front and black rear. It’s 3.5” wide, 2.25” tall, 0.75” deep on the narrow side and 1” deep on the wide side. The right side of the camera, the one with all the controls, has a rounded bulge that grows from 0.75” to 1”, perfectly designed to fit the hand (the camera would otherwise have been too narrow to hold comfortably). There are several controls on the top of the camera—the on/off button, the shutter, and the zoom controls.
@@ -86,9 +74,6 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Straightforward and simple**
 
  Like most point-and-shoot cameras, setup is simple. We just inserted the included AA batteries, put in the SD card (not included), and turned it on. The camera ran us through the standard steup (date, time, etc.) and then was ready to go.
@@ -115,11 +100,25 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Video Quality: Noisy, grainy video in all kinds of light**
 
 [Video capabilities](https://www.lifewire.com/point-and-shoot-camera-4688891) seem almost like an afterthought for the Nikon COOLPIX A10\. The camera allows lots of options and settings for photographs, whether you want to manage them manually or through a preset scene. There isn’t anything like that for video. The only options you have are in resolution: 720, 480, or 240\. When recording, the screen also doesn’t show any stats or information like it does when you’re taking a photo. You can zoom in or out, but you don’t know whether it’s using optical or digital zoom.
 
  We took video both indoors and outdoors, in shade and in the sun. Indoor video was very noisy, and it didn’t get much better when we went outside in great light. We took a comparison video with an old iPhone SE (12 MP camera), and the iPhone had drastically better video quality in all kinds of light. If quality video is important to you, this is not the camera for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Not worth mentioning**
 
@@ -129,9 +128,6 @@ Lifewire / Scott Gercken
 
  Fortunately, the COOLPIX A10 works easily with other photo library software, so we didn’t have to rely on Nikon. You should note, however, that the COOLPIX A10 does not come with a USB cord, an annoying oversight. The Nikon COOLPIX A10 also has some basic editing features, but they aren’t worth using if you have a competent PC. You can apply a couple gimmicky filters, and you can crop photos, but why would you try to do any editing on this tiny screen when you could use your computer? It feels like a feature set that some marketing exec dreamed up so they could claim the COOLPIX is ready for Instagram.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Low-priced camera with some major flaws**
 
  The Nikon COOLPIX A10 has a list price of $75, around the same price as many entry-level digital cameras. It takes decent photos, so you can grab some nice vacay pictures at the beach or camping without exposing expensive gear to the weather. Our only major hesitation is around the lengthy delay between taking photos.
@@ -147,6 +143,13 @@ Lifewire / Scott Gercken
  **Beautiful photos but a frustrating user experience.**
 
  While the Nikon COOLPIX A10 takes beautiful photos, the user experience ruins the camera. It’s difficult to use and locks up for a few seconds after every photo. The sheen of high quality images quickly fades when you’re staring at a warning indicator for long, static moments. Other entry-level cameras perform much better.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,11 +182,27 @@ Lifewire / Scott Gercken
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-transformations-in-vegaspro-19/"><u>2024 Approved Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-undisclosed-world-of-youtube-videos-for-2024/"><u>Decoding the Undisclosed World of YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-conversion-transforming-wav-files-into-au-format-with-movavi/"><u>Free Online Conversion: Transforming WAV Files Into AU Format with Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-with-the-new-klipsch-flexus-200-soundbar/"><u>Hands On With the New Klipsch Flexus 200 Soundbar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-pixel-gatherings-unique-ringtone-repository-for-2024/"><u>Ideal Pixel Gatherings Unique Ringtone Repository for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming/"><u>In 2024, Superior Visuals Leading HDMI 2.1 Monitors for PS5 Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-tips-for-smooth-screen-sync-in-google-meet/"><u>In 2024, Tips for Smooth Screen Sync in Google Meet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-open-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Open</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-compact-mini-controller-keyboards-save-space-and-stay-productive/"><u>Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/safeguard-your-virtual-fortunes-expert-tips-for-treating-gaming-accounts-with-bank-level-security/"><u>Safeguard Your Virtual Fortunes: Expert Tips for Treating Gaming Accounts with Bank-Level Security</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skip-the-middleman-directly-record-games-using-steams-built-in-features/"><u>Skip the Middleman – Directly Record Games Using Steam's Built-In Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-pulse-explorer-buds-in-depth-analysis-of-gaming-headphones-with-zero-delay/"><u>Sony Pulse Explorer Buds - In-Depth Analysis of Gaming Headphones with Zero Delay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syncing-spotify-with-fitbit-a-guide-to-playing-tunes-during-workouts/"><u>Syncing Spotify with Fitbit: A Guide to Playing Tunes During Workouts</u></a></li>
+</ul></div>
+

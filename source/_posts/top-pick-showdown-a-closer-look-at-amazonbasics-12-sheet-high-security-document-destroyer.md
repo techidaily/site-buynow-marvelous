@@ -1,7 +1,7 @@
 ---
 title: "Top Pick Showdown: A Closer Look at AmazonBasics' 12 Sheet High Security Document Destroyer"
-date: 2024-08-09T00:43:46.643Z
-updated: 2024-08-10T00:43:46.643Z
+date: 2024-09-13T17:31:30.815Z
+updated: 2024-09-20T16:11:08.465Z
 categories:
   - BestProducts
 description: "This Article Describes Top Pick Showdown: A Closer Look at AmazonBasics' 12 Sheet High Security Document Destroyer"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Anker PowerDrive 2 24W Dual USB Car Charger
 
 ![Anker PowerDrive 2](https://www.lifewire.com/thmb/mk2ndJKMrOgGOYfE8uNwJVYkaTk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4053582_Hero-2f8cd7af2da04ce48dce54d7f045bf01.jpg)
@@ -43,9 +40,6 @@ Lifewire / Nick Jaynes
 
 ## Anker PowerDrive 2 24W Dual USB Car Charger
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Anker PowerDrive 2](https://www.lifewire.com/thmb/kUpys0K04ePH0SuEfAENz--MXSk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4053582_Hero-2f8cd7af2da04ce48dce54d7f045bf01.jpg)
 
 Lifewire / Nick Jaynes
@@ -82,9 +76,12 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Fast charging for demanding devices**
 
  The best part of the Anker PowerDrive 2 is its charging. It has the ability to charge iPads simultaneously without getting overheated thanks to its PowerIQ and VoltageBoost technology. Each USB port can output a maximum 5V/2.4A, for a total of 24W. That’s in line with other car[chargers](https://www.lifewire.com/best-wireless-phone-chargers-4138571) we tested, but the PowerIQ technology can help identify device and deliver the fastest possible charge. This also gives you some overvoltage protection to make sure something like a smartwatch doesn’t fry when you plug it in.
@@ -95,19 +92,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  One thing to note is that the PowerDrive 2 includes a micro USB cable, in case you don’t want to carry your device’s cable everywhere with you. That’s a nice touch we didn’t get with other chargers we tested.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Middle of the pack**
 
  The list price of $14.99 is positioned in the mid-range of the USB charger market, which ranges from just a few dollars to upwards of $50 for some fancier chargers. However, Anker PowerDrive 2 can be had for a discounted price on some websites. Considering the fact that the Anker PowerDrive 2 includes both the fast-charger and a 3-foot micro USB cable, it is well priced for the marketplace.
 
  Lifewire / Nick Jaynes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## **Competition: A handful of rivals**
 
  The RAVPower 24W charger is one of Anker’s main rivals. It has a metal exterior, a lower price tag, and theoretically identical power output. However, its construction is far less robust. In fact, its metal outside easily separates from the internal components easily making Anker a better pick for longevity.
@@ -123,8 +113,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The price is fair, the charging is fast, and the design is unobtrusive. It’s hard to ask for much more.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  PowerDrive 2 24W Dual USB Car Charger
@@ -142,11 +136,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transform-your-instagram-vocal-identity-today/"><u>[New] 2024 Approved Transform Your Instagram Vocal Identity Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cutting-edge-techniques-for-captivating-online-advertising/"><u>Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-accurate-speech-to-text-googles-breakthrough-approach/"><u>In 2024, Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-planning-using-chatgpt-boost-your-workflow-efficiency-now/"><u>Strategic Planning Using ChatGPT: Boost Your Workflow Efficiency Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-atari-the400-mini-reimagined-rediscovering-vintage-computer-game-delights-in-a-contemporary-package/"><u>The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-emergence-of-playable-content-on-videostreaming-services-and-news-portals-whats-driving-it/"><u>The Emergence of Playable Content on Videostreaming Services & News Portals - What's Driving It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-travelers-guide-to-preparing-movies-and-series-for-offline-watching-on-planes-or-anywhere-else/"><u>The Traveler's Guide to Preparing Movies and Series for Offline Watching on Planes or Anywhere Else</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-evolution-of-pc-gaming-thriving-despite-initial-download-hassles/"><u>The Ultimate Evolution of PC Gaming: Thriving Despite Initial Download Hassles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-observing-the-spectacular-perseid-meteor-event/"><u>The Ultimate Guide to Observing the Spectacular Perseid Meteor Event</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-top-rated-stop-motion-apps-for-mobile/"><u>Updated In 2024, Unleash Your Creativity Top-Rated Stop Motion Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-childs-creativity-10-top-video-editing-apps-free-and-paid/"><u>Updated Unleash Your Childs Creativity 10 Top Video Editing Apps, Free and Paid</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-and-ftdibussys-the-memory-integrity-conflict-unveiled/"><u>Windows and ftdibus.sys: The Memory Integrity Conflict Unveiled</u></a></li>
+</ul></div>
+

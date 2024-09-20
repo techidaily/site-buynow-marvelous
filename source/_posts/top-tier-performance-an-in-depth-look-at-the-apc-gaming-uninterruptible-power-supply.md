@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-09-11T19:45:41.838Z
-updated: 2024-09-14T23:00:18.202Z
+date: 2024-09-16T16:58:39.622Z
+updated: 2024-09-20T16:53:40.746Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -96,16 +96,16 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<span id="1983575">
+<span id="1983539">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Underwhelming performance in video and audio**
@@ -120,16 +120,16 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Falls short**
 
@@ -146,10 +146,10 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -184,19 +184,18 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit/"><u>[New] Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-live-tv-broadcast-4-innovative-methods/"><u>[Updated] 2024 Approved FB Live TV Broadcast 4 Innovative Methods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>[Updated] Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-conquering-the-world-of-instagram-reels-tips-inside/"><u>2024 Approved Conquering the World of Instagram Reels – Tips Inside</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-radio-gadgets-for-police-scenarios/"><u>2024'S Elite Radio Gadgets for Police Scenarios</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-compact-brilliance-in-depth-look-at-the-samsung-galaxy-s10e/"><u>Affordable and Compact Brilliance: In-Depth Look at the Samsung Galaxy S10e</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-laptop-ventilation-for-your-device-check-out-the-topmate-c3amator-review/"><u>Affordable Laptop Ventilation for Your Device? Check Out the TopMate C3amator Review!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/all-ages-enjoyment-with-maisto-rc-rock-crawler-in-depth-review-and-insights/"><u>All Ages Enjoyment with Maisto RC Rock Crawler - In-Depth Review and Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/artistic-expressions-redefined-reviewing-auras-frames/"><u>Artistic Expressions Redefined - Reviewing Aura's Frames</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessing-spyro-triple-threat-reborn-minuscule-mythic-hero-packs-a-punch/"><u>Assessing Spyro Triple Threat Reborn: Minuscule Mythic Hero Packs a Punch</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-up-your-pc-set-auto-update-plus-modify-amd-video/"><u>Boost Up Your PC: Set Auto Update + Modify AMD Video</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-filmorians-guide-to-eloquent-volume-dynamics-using-keyframe-editing-on-macos/"><u>In 2024, The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-fixing-modern-warfares-crash-error-code-6164/"><u>Troubleshooting Steps for Fixing Modern Warfare's Crash Error Code 6164</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones-for-2024/"><u>Ultimate Directory Where to Download YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-how-to-record-hulu-on-winmacmobile/"><u>[Updated] 2024 Approved The Ultimate Guide How To Record Hulu On Win/Mac/Mobile</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-directscreen-w11-instant-recording-on-windows-11-for-2024/"><u>[Updated] DirectScreen W11 Instant Recording on Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-minecraft-banner-templates-get-them-here/"><u>[Updated] In 2024, Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-optimal-visuals-for-effective-pre-and-post-call-teams-conversations/"><u>[Updated] Optimal Visuals for Effective Pre & Post-Call Teams Conversations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-web-based-fb-music-extractor-for-2024/"><u>[Updated] Web-Based FB Music Extractor for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ergonomics-meet-quality-a-detailed-analysis-of-the-microsoft-surface-keyboard/"><u>Ergonomics Meet Quality: A Detailed Analysis of the Microsoft Surface Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-fitbit-charge-does-it-maintain-its-competitive-edge/"><u>Evaluating the Fitbit Charge ³: Does It Maintain Its Competitive Edge?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-microsoft-surface-duos-issues-expensive-erratic-performance/"><u>Evaluating the Microsoft Surface Duo's Issues: Expensive, Erratic Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-earbud-lineup-for-home-theaters/"><u>Exclusive Earbud Lineup for Home Theaters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-pixelbook-go-review/"><u>Google Pixelbook Go Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-xs-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone XS to Computer? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pro-level-chat-skills-inside-the-world-of-whatsapp-tips/"><u>In 2024, Pro-Level Chat Skills Inside the World of WhatsApp Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nubia-red-magic-8s-proplus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nubia Red Magic 8S Pro+ for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

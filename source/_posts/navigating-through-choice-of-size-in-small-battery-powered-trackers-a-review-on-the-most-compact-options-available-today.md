@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Choice of Size in Small Battery-Powered Trackers - A Review on the Most Compact Options Available Today
-date: 2024-08-09T00:43:45.857Z
-updated: 2024-08-10T00:43:45.857Z
+date: 2024-09-18T17:25:28.426Z
+updated: 2024-09-20T17:05:52.830Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Through Choice of Size in Small Battery-Powered Trackers - A Review on the Most Compact Options Available Today
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/MVTfeMq7ljB-Hn-AVc0d6KxtV-0=/400x300/fi
 
 ## Godfall
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Godfall](https://www.lifewire.com/thmb/n7w43dN9-ygwWWDulxhPK9JDT80=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Godfall-PC-Game-1-d3b0021c9f1f4c90a844bf0e8f8fcb25.jpg)
 
 Rebecca Isaacs / Lifewire
@@ -46,9 +43,6 @@ Rebecca Isaacs / Lifewire
 
 ## Godfall
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Godfall](https://www.lifewire.com/thmb/0NLDB5xBHlyMz4ZXPM-uk0dzS7Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Godfall-PC-Game-1-d3b0021c9f1f4c90a844bf0e8f8fcb25.jpg)
 
 Rebecca Isaacs / Lifewire
@@ -72,9 +66,6 @@ Rebecca Isaacs / Lifewire
 
  With the[PlayStation 5](https://www.lifewire.com/sony-playstation-5-review-5088394) releasing late last year, Godfall was the first of the[PS5 exclusives](https://www.lifewire.com/ps5-games-list-5076154) , with its launch in early November. As a looter-shooter lover (especially of the Borderlands series), I was intrigued by the prospect of using swords and shields instead of guns. At first, it was a fun, enthralling experience due to the compelling graphics. Unfortunately, after eleven hours of gameplay, I’ve already shelved it and moved on to the next game in my library due to its repetitive nature and poor plotline. Read on for how I evaluated the gameplay, plot, and graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Godfall](https://www.lifewire.com/thmb/H6t9YHOQhs7GMJ8lP75_d2mnMVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-4-cd60ab2e603a4efaa0031f8aa5743fb4.jpg)
 
 Rebecca Isaacs / Lifewire
@@ -95,16 +86,10 @@ Rebecca Isaacs / Lifewire
 
  Though repetitive, the four maps offered show a rich, colorful world that will keep your attention from the poor plotline for a while. Even the different sets of armor, known as Valorplates, are so detailed I was tempted to try to reach through my screen.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Godfall ](https://www.lifewire.com/thmb/IWN-3bTZ5qlsx29Xu_o7m5dQyu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-3-9be349303fa148cfbcacfa7551c5c743.jpg)
 
 Rebecca Isaacs / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gameplay: Repetitive and tedious
 
  Valorian Knight Orin himself remains the same, but in terms of details and build, that’s where character customization—and offensive and defensive builds—finally come in. You’ll hack and slash your way through forests and other settings, using various Valorplates and one of five different weapons classes. As a bonus, you can add banners and charms to help buff up your Valorian Knight.
@@ -129,39 +114,55 @@ Rebecca Isaacs / Lifewire
 
 ![Godfall](https://www.lifewire.com/thmb/xztzESfeykd-1UUo9xAOFt8EPNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-7-4a134c4dc6304645aaeb4ff4a0badefa.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Rebecca Isaacs / Lifewire
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Platform: PS5 or PC
 
  Godfall is pretty straightforward with its platforms: PlayStation 5, or Windows PCs. It does not work on Macs, so take that into consideration before you make your purchase. In terms of gameplay, neither platform really weighs better than the other, though PC gamers with ultrawide screens may have some issues getting the correct resolution set.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Godfall ](https://www.lifewire.com/thmb/AVwuGUypRGjuigcAvp7eBT4rj00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-6-d175a22d9d0c48e8ad3aad12177fe50b.jpg)
 
 Rebecca Isaacs / Lifewire
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: Overpriced for the amount of content available
 
  If Godfall was priced around $30, I would have been more sympathetic to its cause. However, the base game itself will cost around $60 before any kind of sale. If you want to upgrade to a higher edition, such as Deluxe or its top edition, Ascended, that will run you up to $90\. That much money for a game that seems half-finished and still requires 50GB of SSD memory is, quite frankly, way too much for anyone to pay. This is also not including the option of pre-order and Ascended content, each of which will cost another $10.
 
  I’ll be brutally honest here: if it’s between Godfall and Warframe, Warframe is easily a better game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Godfall vs. Warframe
 
@@ -202,14 +203,11 @@ Rebecca Isaacs / Lifewire
 * Graphics  Nvidia GeForce GTX 1060, 6 GB | AMD Radeon RX 580, 8 GB
 * Network  Internet connection required
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,3 +215,24 @@ Rebecca Isaacs / Lifewire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tranquility-trove-pcs-best-bets/"><u>[New] 2024 Approved Tranquility Trove PC's Best Bets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdrs-edge-pushing-video-production-to-new-heights/"><u>[Updated] HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-8-cam-filters-for-optimal-online-performance/"><u>2024 Approved Top 8 Cam Filters for Optimal Online Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-the-advanced-features-of-b550-xt/"><u>Delving Into the Advanced Features of B550-XT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-bargains-near-you-with-oodles-complimentary-neighborhood-advertisements/"><u>Discover Bargains Near You with Oodle's Complimentary Neighborhood Advertisements</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-how-to-choose-between-small-large-or-medium-trackers-a-deep-dive-into-gps-security-devices-and-their-uses/"><u>Discover How to Choose Between Small, Large, or Medium Trackers - A Deep Dive Into GPS Security Devices and Their Uses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-canon-imaging-unlimited-free-limited-pay-luts/"><u>Elevate Canon Imaging Unlimited Free, Limited-Pay LUTs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-garmin-forerunner-265-smartwatch-a-full-review/"><u>Expert Insights on the Garmin Forerunner 265 Smartwatch – A Full Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-discover-every-feature-on-the-samsung-gear-s3-frontier-smartwatch-a-full-review/"><u>Expert Insights: Discover Every Feature on the Samsung Gear S3 Frontier Smartwatch – A Full Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme Bootloader Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-huawei-p60-by-fonelab-android-recover-data/"><u>Recover lost data from Huawei P60</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/securing-smooth-airdrop-transfers-across-various-apple-devices/"><u>Securing Smooth AirDrop Transfers Across Various Apple Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-evaluating-and-maintaining-your-ipad-battery-life/"><u>Step-by-Step Guide: Evaluating and Maintaining Your iPad Battery Life</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-ax6000-vs-nighthawk-ax12-comparative-review-which-is-the-winner/"><u>TP-Link Archer AX6000 Vs. Nighthawk AX12: Comparative Review - Which Is the Winner?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-gamers-choice-the-elite-consoles-of-2024-unveiled/"><u>Ultimate Gamers' Choice: The Elite Consoles of 2024 Unveiled</u></a></li>
+</ul></div>
+

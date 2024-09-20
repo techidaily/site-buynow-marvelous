@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Evaluation of Battery Powered Google Wireless Nest Video Doorbells
-date: 2024-08-09T00:43:48.046Z
-updated: 2024-08-10T00:43:48.046Z
+date: 2024-09-15T17:26:26.650Z
+updated: 2024-09-20T16:25:47.577Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Evaluation of Battery Powered Google Wireless Nest Video Doorbells
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/PrOlghN3xCpKcyP-YE0W3hxkm1s=/540x405/fi
 
 ## TP-Link Archer C9 Wireless Router
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/6VSQssBUxUcvd585IJcj9jrMZWE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
 
 Lifewire / Erika Rawes
@@ -41,9 +38,6 @@ Lifewire / Erika Rawes
 
 3
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## TP-Link Archer C9 Wireless Router
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
@@ -70,9 +64,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other[long range routers](https://www.lifewire.com/best-long-range-routers-4122554) to see how well it performs in the real world.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Fingerprints galore**
 
  The Archer AC1900 definitely isn’t the most attractive router I’ve seen. The version I tested is black, but TP-Link also makes the C9 in white. The gloss finish gives the AC1900 a cheap look, and it, unfortunately, shows each and every smudge and fingerprint when you touch the surface. The indicator lights sit on the front face, and you can easily see the network status with a quick glance.
@@ -97,10 +88,14 @@ Lifewire / Erika Rawes
 
  As I traveled far away from the router, I was able to maintain a signal, but the speed slowed down quite a bit. In the backyard, another area where I often experience drop-offs, the speed came in at 39 Mbps. I repeated the Ookla speed test numerous times, and the results remained around the same in each room. I was able to get slightly higher speeds on an iPhone 11, but overall the router performed extremely well at close proximity, but not so well at a distance.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/gPQRxhQBJ13ETuiP-7-Vy9eGcss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_05-4ddd14a5299f45279789011ce3b9e8ea.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -114,6 +109,13 @@ Lifewire / Erika Rawes
 
  The router performed extremely well at close proximity, but not so well at a distance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: TP-Link Tether app**
 
  You can control the router’s functions from the companion app, Tether. In the app, you can do things like set parental time limits on devices, create a guest network, block devices from the network, and perform basic network maintenance.
@@ -126,16 +128,17 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A budget router**
 
  The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long-range router with its feature set.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900**
 
  The ASUS RT-AC1900 typically sells for closer to $150, but you can find it refurbished or on sale for around the same price as the Archer AC1900\. The two routers look similar at first glance—they both have three very long antennas protruding from the top. They have similar specifications, including a dual-core processor, AC1900 speed, and dual-bands, and a long-range. But, the ASUS RT-AC1900 offers a few perks, like TrendMicro security and NVIDIA GameStream technology.
@@ -146,9 +149,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C9 AC1900 is a good option for those who want a reasonably fast and stable network connection, but don’t want to pay a lot of cash for extra bells and whistles.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Archer C9 Wireless Router
@@ -170,14 +170,11 @@ Lifewire / Erika Rawes
 * Processing  1 GHz dual-cire CPU
 * Range  3,000 sq ft
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,3 +182,24 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-new-social-networking-battlefield-a-comparative-analysis-between-tiktok-and-snap/"><u>[Updated] The New Social Networking Battlefield A Comparative Analysis Between TikTok and Snap</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-advanced-and-reliable-range-boosting-routers-reviewed/"><u>2024'S Most Advanced and Reliable Range-Boosting Routers Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehvew-into-the-bespoke-world-of-fitness-with-amazons-revolutionary-halo-tracker/"><u>A Comprehvew Into the Bespoke World of Fitness with Amazon's Revolutionary Halo Tracker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>In 2024, The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mp4-flash/"><u>MP4への変換: FLASH動画を効率良く変換する手順</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-split-mpeg-videos-for-free-top-rated-software/"><u>New 2024 Approved Split MPEG Videos for Free Top-Rated Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-launches-an-ai-detector-tool-to-counter-chatgpt-generated-text/"><u>OpenAI Launches an AI Detector Tool to Counter ChatGPT-Generated Text</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-discovering-your-windows-10-operating-system-version-with-ease/"><u>Simple Steps: Discovering Your Windows 10 Operating System Version with Ease</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-most-heated-technological-minds-in-action/"><u>The Most Heated Technological Minds in Action</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-sluggish-startup-problems-in-windows-7/"><u>Troubleshoot & Resolve Sluggish Startup Problems in Windows 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-power-of-preview-on-your-mac-an-essential-image-editing-tutorial/"><u>Unlocking the Power of Preview on Your Mac: An Essential Image Editing Tutorial</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-benefits-of-choosing-the-x-chair-xe-executive-desk-chair-for-your-office-needs/"><u>Unveiling The Powerful Benefits of Choosing The X-Chair Xe Executive Desk Chair For Your Office Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/urban-armor-defender-for-macbook-pro-review-of-a-sturdy-and-functional-laptop-protector/"><u>Urban Armor Defender for MacBook Pro – Review of a Sturdy and Functional Laptop Protector</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/while-ipv6-is-designed-with-ipsec-support-actual-implementation-may-vary-security-measures-should-not-solely-rely-on-protocol-design-assumptions/"><u>While IPv6 Is Designed with IPsec Support, Actual Implementation May Vary; Security Measures Should Not Solely Rely on Protocol Design Assumptions.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-oneplus-9-falls-short-on-performance-metrics-a-review/"><u>Why the OnePlus 9 Falls Short on Performance Metrics – A Review</u></a></li>
+</ul></div>
+

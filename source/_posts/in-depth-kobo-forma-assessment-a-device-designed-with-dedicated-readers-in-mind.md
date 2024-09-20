@@ -1,7 +1,7 @@
 ---
 title: "In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind"
-date: 2024-08-09T00:43:46.423Z
-updated: 2024-08-10T00:43:46.423Z
+date: 2024-09-17T17:01:24.765Z
+updated: 2024-09-20T16:52:45.490Z
 categories:
   - BestProducts
 description: "This Article Describes In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Roku Express
 
  What We Like
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Roku Express
 
 [View On Amazon $28](https://www.amazon.com/dp/B07WVFCVJN?tag=lifewire-onsite-prod-20&ascsubtag=4843482%7Cn6750f600d9b249fab0a1ade20b4f782c20%7CB07WVFCVJN)
@@ -65,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Small and easy to position**
 
  The Roku Express is a small package consisting of a palm-sized remote and the actual streaming box, which is half that size. It comes along with a power brick and micro USB to power the box, a battery for the remote, a two-foot HDMI cable, and an adhesive strip to stick your box to, say, the bottom of your television.
@@ -90,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  If you want to restrict the ability to download apps or make purchases on the Express, it’s easy to do so. Roku lets you set up a PIN that you’ll need to enter every time you try to download or buy something, which should deter your children or pets from buying anything without your permission.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Streaming Performance: Solid 1080p content, but long buffer times**
 
  For $30, the Roku Express delivers[1080p content](https://www.lifewire.com/720p-1080i-1080p-explained-3276378) to your TV. The 2019 model has the same specs as the 2018 model, but it consumes less power (so little that you can power it from your TV directly).
@@ -100,11 +98,15 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 ![Roku Express](https://www.lifewire.com/thmb/Kfml_LPtHefv5s-BdnKptfzmw3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Roku_02-a744cef9b4b14025bcd288fca6b25f11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Software: One of the easiest to navigate**
 
  Roku Express runs with the same Roku interface as its more expensive cousins, and it’s well-loved for a reason. Compared to Fire TV, Chromecast, and[Apple TV](https://www.lifewire.com/what-is-apple-tv-1994193) , Roku has the widest selection of apps available, and it doesn’t favor one streaming service over another.
@@ -118,17 +120,18 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
  An interesting software perk from Roku that its competition doesn’t offer is its mobile app. You can use it as a remote for your Roku device, and that’s great, but more interestingly, you can also plug in your headphones and have the audio stream to your phone. If you like to stay up late and watch TV while your spouse sleeps, this is a great feature to have on hand.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Highly affordable**
 
  The Roku Express is only $30, but it’s easy to find it for even cheaper in physical stores and even online during sales seasons. It’s not hard to nab it for $25 or less.
 
  For only $10 to $20 more, you get a faster experience and more functionality out of Roku’s other offerings, so if you can afford it, the Premiere and Streaming Stick+ are the better value. As we move forward,[4K](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) streaming is becoming the new standard, so it’s worth it to upgrade from the Express’s 1080p resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Roku Express](https://www.lifewire.com/thmb/xRjJqzIOYJAHEemk7NGlxVNl6wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Roku_03-1b5930c20109404082b05511fae6aa5c.jpg)
 
  Lifewire/Emily Ramirez
@@ -159,14 +162,11 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 * Resolution  1920x1080
 * Ports  HDMI, micro-USB
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,3 +174,21 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>[New] From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-breakdown-how-your-earnings-are-divided-in-youtube-shorts/"><u>[Updated] The Breakdown How Your Earnings Are Divided in YouTube Shorts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/12-pro-5g-video-recovery-recover-deleted-videos-from-12-pro-5g-by-fonelab-android-recover-video/"><u>12 Pro 5G Video Recovery - Recover Deleted Videos from 12 Pro 5G</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/convert-your-blu-ray-collection-efficiently-the-best-encrypted-media-softwares-for-pc-transfer/"><u>Convert Your Blu-Ray Collection Efficiently: The Best Encrypted Media Softwares for PC Transfer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-world-of-close-up-imagery-understanding-macro-photography/"><u>Exploring the World of Close-Up Imagery: Understanding Macro Photography</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/free-nfl-sunday-ticket-access-avoid-costs-with-savvy-strategies/"><u>Free NFL Sunday Ticket Access – Avoid Costs with Savvy Strategies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-13-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 13 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-bose-ultra-wireless-headphones-unmatched-durability-and-comfort-throughout-the-day/"><u>In-Depth Evaluation of Bose Ultra Wireless Headphones - Unmatched Durability and Comfort Throughout the Day</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lessons-from-xboxs-struggle-against-competitors-and-future-moves-to-regain-market-dominance/"><u>Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/online-tool-convert-vob-video-to-asf-filetype-at-no-cost-moviva/"><u>Online Tool: Convert VOB Video to ASF Filetype at No Cost - MoviVa</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-narzo-60x-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme Narzo 60x 5G Device</u></a></li>
+</ul></div>
+

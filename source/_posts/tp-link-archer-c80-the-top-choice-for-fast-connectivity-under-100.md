@@ -1,7 +1,7 @@
 ---
 title: TP-Link Archer C80 - The Top Choice for Fast Connectivity Under $100
-date: 2024-08-09T00:43:44.771Z
-updated: 2024-08-10T00:43:44.771Z
+date: 2024-09-19T17:14:01.729Z
+updated: 2024-09-20T17:24:02.280Z
 categories:
   - BestProducts
 description: This Article Describes TP-Link Archer C80 - The Top Choice for Fast Connectivity Under $100
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/hnfn1HKm08TJxpBixlaHeqOfiug=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/hTth7_RTT4bEi0nhlZj7rPvMYL0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
@@ -43,9 +40,6 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/eB886Wl9r3D8YMg227kYv9GRkJs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
@@ -74,9 +68,6 @@ Lifewire / Jeremy Laukkonen
 
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
@@ -103,11 +94,21 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2zSHbpT2Rq4Ac-0-u73213g1rlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_02-8fd53e1cd8284fd4a40091d7896fe8db.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
  The TP-Link Archer A6 is an AC1200[dual-band router](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that supports MU-MIMO beamforming. The total throughput is a little on the light side if you have a lot of devices, but MU-MIMO is a nice feature to see in such an affordable unit.
@@ -116,9 +117,6 @@ Lifewire / Jeremy Laukkonen
 
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## **Network Performance: Decent performance for a budget router**
 
  I tested this router on a Mediacom[Gigabit Ethernet](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) connection, performing extensive tests on the wired Ethernet connection and both wireless bands, in addition to regular use over the course of about five days.
@@ -136,8 +134,12 @@ Lifewire / Jeremy Laukkonen
  You may end up needing a Wi-Fi range extender with the Archer A6 even if your house isn’t that large.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Basic and easy to use**
 
  The Archer A6 uses the same familiar web interface TP-Link has used for years. If you’ve ever used a TP-Link router before, you’ll already be familiar with the system. If you haven’t, it’s very easy to pick up.
@@ -150,13 +152,22 @@ Lifewire / Jeremy Laukkonen
 
  In addition to the web interface, TP-Link also offers a phone app that lets you change basic settings. Advanced settings have to be accessed through the web portal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Good price for the features**
 
@@ -197,14 +208,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Range  Medium homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,3 +220,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mining-marvels-5-best-map-locations-in-terraria/"><u>[New] In 2024, Mining Marvels 5 Best Map Locations in Terraria</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-framework-for-an-epic-youtube-series/"><u>[New] The Framework for an Epic YouTube Series</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-clip-composition-blending-modes-techniques-for-2024/"><u>[Updated] Mastering Clip Composition Blending Modes Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-content-impact-with-youtubes-movie-maker-tools-for-2024/"><u>[Updated] Maximize Content Impact with YouTube's Movie Maker Tools for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revolutionary-virtual-wisdom-for-modern-souls/"><u>[Updated] Revolutionary Virtual Wisdom for Modern Souls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/approach-consider-how-bone-health-impacts-overall-treatment-strategies-in-metastatic-cancer/"><u>Approach: Consider How Bone Health Impacts Overall Treatment Strategies in Metastatic Cancer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/buyers-choice-elite-blu-ray-drive-reviews-and-picks/"><u>Buyer's Choice: Elite Blu-Ray Drive Reviews and Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-the-garmin-forerunner-amoeba-745-a-game-changer-in-fitness-tracking-technology/"><u>Comprehensive Review: The Garmin Forerunner Amoeba 745 - A Game Changer in Fitness Tracking Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elegance-of-skagen-falster-2-the-sleek-challenger-to-apples-dominance/"><u>Discover the Elegance of Skagen Falster 2 - The Sleek Challenger to Apple's Dominance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-8-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 8 without Apple Account</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-x6-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco X6 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-12-proplus-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme 12 Pro+ 5G Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-pcmac-screen-capture-application-for-2024/"><u>Premium PC/Mac Screen Capture Application for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-a-classic-the-rebooted-spyro-legacy-delivers-exceptional-entertainment-for-minimal-cost/"><u>Rediscovering a Classic: The Rebooted Spyro Legacy Delivers Exceptional Entertainment for Minimal Cost</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-acer-aspire-c27-an-impressive-entry-in-the-all-in-one-laptop-market/"><u>The Acer Aspire C27 - An Impressive Entry in the All-in-One Laptop Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-value-with-samsung-galaxy-a51-5g-top-performance-at-unbeatable-prices/"><u>Unlocking Value with Samsung Galaxy A51 5G - Top Performance at Unbeatable Prices</u></a></li>
+</ul></div>
+

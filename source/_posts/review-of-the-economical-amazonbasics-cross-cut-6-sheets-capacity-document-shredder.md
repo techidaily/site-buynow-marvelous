@@ -1,7 +1,7 @@
 ---
 title: Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
-date: 2024-09-12T13:06:13.810Z
-updated: 2024-09-14T22:18:53.000Z
+date: 2024-09-13T17:34:08.959Z
+updated: 2024-09-20T17:29:52.006Z
 categories:
   - BestProducts
 description: This Article Describes Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
@@ -105,25 +105,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -157,11 +143,25 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: Affordable fee reflects the thin library
 
@@ -170,16 +170,10 @@ Lifewire / Jeremy Laukkonen
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
@@ -236,17 +230,16 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-revive-the-past-best-ps1-emulation-software-for-modern-systems/"><u>[New] 2024 Approved Revive the Past Best PS1 Emulation Software for Modern Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-get-fb-videos-down-as-mp4-swiftly-and-simply-for-2024/"><u>[New] Get FB Videos Down as MP4 – Swiftly & Simply for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-no-cost-game-recorders-the-essential-selection-list/"><u>[New] In 2024, No-Cost Game Recorders The Essential Selection List</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-list-of-flashy-discord-tags/"><u>2024 Approved The Ultimate List of Flashy Discord Tags</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-v27-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo V27 FRP Without Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reliable-petfeeding-solution-with-petsafe-automatic-six-meal-dispenser/"><u>Reliable PetFeeding Solution with PetSafe Automatic Six-Meal Dispenser</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/standout-nintendo-switch-fighting-games-index-max-156/"><u>Standout Nintendo Switch Fighting Games Index (Max 156)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tech-experts-weigh-in-on-the-motorola-mg7700-rapid-and-reliable-speeds-explored/"><u>Tech Experts Weigh in on the Motorola MG7700 – Rapid & Reliable Speeds Explored</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tech-titans-clash-an-in-depth-look-at-apple-airpods-pro-and-samsung-galaxy-buds-pro/"><u>Tech Titans Clash: An In-Depth Look at Apple AirPods Pro & Samsung Galaxy Buds Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-tiny-warrior-with-big-images-g7x-mark-ii/"><u>The Tiny Warrior with Big Images: G7X Mark II</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-truth-behind-the-lens-an-honest-review-of-googles-pixel-6/"><u>The Truth Behind the Lens: An Honest Review of Google's Pixel 6</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ideal-online-practices-for-vhs-image-polishing/"><u>[New] In 2024, Ideal Online Practices for VHS Image Polishing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-filter-application-guide-tips-and-tricks-for-2024/"><u>[New] Instagram Filter Application Guide - Tips & Tricks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-leaderboard-of-first-zeoid-innovations/"><u>[Updated] The Leaderboard of First Zeoid Innovations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-graphics-download-amd-radeon-vega-3-2024-update/"><u>Elevate Graphics - Download AMD Radeon Vega 3 2024 Update</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-through-collective-media-on-messenger/"><u>Navigating Through Collective Media on Messenger</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-innovative-technology-packed-into-the-linksys-ea950ve-router/"><u>The Ultimate Guide to the Innovative Technology Packed Into the Linksys EA950ve Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/to-subscribe-or-not-to-subscribe-evaluating-chatgpt-plus-with-these-5-convincing-points/"><u>To Subscribe or Not to Subscribe: Evaluating ChatGPT Plus with These 5 Convincing Points.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-iphone-security-software-choosing-the-ideal-antivirus-app/"><u>Top 6 iPhone Security Software: Choosing the Ideal Antivirus App</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-performance-analysis-linksys-wrt3n-acm-a-leading-choice-in-open-source-wifi-routers/"><u>Top Performance Analysis: Linksys WRT3n ACM - A Leading Choice in Open-Source WiFi Routers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-lost-iphones-apps-methods-for-finding-and-restoring-unexpectedly-deleted-programs/"><u>Troubleshooting Lost IPhones Apps - Methods for Finding and Restoring Unexpectedly Deleted Programs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-periscope-features-pricing-and-how-to-join-for-2024/"><u>Understanding Periscope Features, Pricing & How To Join for 2024</u></a></li>
 </ul></div>
 

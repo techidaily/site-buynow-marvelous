@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-09-12T18:36:21.015Z
-updated: 2024-09-15T03:49:40.179Z
+date: 2024-09-14T16:41:57.907Z
+updated: 2024-09-20T16:43:21.240Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -87,22 +87,29 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
 
@@ -111,6 +118,19 @@ Lifewire / Andy Zahn
  The electronic viewfinder (EVF) is bright and clear with 2,360,000 dots. It’s not the best EVF we’ve ever used as it seems slightly small and cramped, but it gets the job done. A sensor automatically detects when you put your eye up to it (a function that can be adjusted in the settings), which means you don’t have to hunt for a button to switch the EVF on.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Autofocus: Blazing fast**
 
@@ -136,13 +156,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -157,6 +170,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -170,13 +190,6 @@ Lifewire / Andy Zahn
  Time-lapse mode is where the SX70 HS really shines in terms of video. You can easily access this mode via the menu system, and there is a wide range of customizable options available. For those not experienced with time-lapse video, you can simply select from one of three subject-based settings. Time-lapses can be recorded at up to 4K resolution and truly excellent quality.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Lots of options**
 
@@ -209,13 +222,6 @@ Lifewire / Andy Zahn
  **A tremendously fun camera that is exceedingly well-rounded if a bit pricey.**
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -257,17 +263,12 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>2024 Approved Crafting a Superior FPV Drone Setup Choosing Right Propellers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleashing-creativity-quick-lens-building-on-snapchat/"><u>2024 Approved Unleashing Creativity Quick Lens Building on Snapchat</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/accessible-master-flash-for-professionals-on-budget/"><u>Accessible Master Flash for Professionals on Budget</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-in-depth-review-of-the-tp-link-archer-a6-ac1200-value-for-money-in-networking/"><u>Affordable Excellence: In-Depth Review of the TP-Link Archer A6 AC1200 - Value for Money in Networking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-quality-comprehensive-tp-link-archer-a6-ac1200-router-assessment/"><u>Affordable Quality: Comprehensive TP-Link Archer A6 AC1200 Router Assessment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-90-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor 90 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/battery-swap-value-iphone-vs-ipod/"><u>Battery Swap Value: IPhone Vs. IPod</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tactics-for-powering-through-windows-10/"><u>Expert Tactics for Powering Through Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-acquisition-of-stock-video-backgrounds/"><u>Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/what-you-should-think-about-before-going-for-an-unrestricted-cell-phone/"><u>What You Should Think About Before Going for an Unrestricted Cell Phone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-soft-soundscapes-low-profile-alterations-in-garageband/"><u>[Updated] 2024 Approved Soft Soundscapes Low-Profile Alterations in Garageband</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-echo-dot-gen-3-overview-discover-all-alexas-features-packed-into-a-small-design/"><u>Compact Echo Dot (Gen 3) Overview: Discover All Alexa's Features Packed Into a Small Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-barnes-and-noble-nook-glowlight-4/"><u>Comprehensive Guide to the Barnes & Noble Nook GlowLight 4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-romer-solar-powered-lantern-analysis-durable-and-rechargeable-outdoor-torch/"><u>Comprehensive Romer Solar-Powered Lantern Analysis: Durable & Rechargeable Outdoor Torch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-transitional-soundscapes-in-cubase-for-2024/"><u>Crafting Transitional Soundscapes in Cubase for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dark-souls-iii-crash-fixes-solutions-and-tips/"><u>Dark Souls III Crash Fixes: Solutions and Tips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-art-of-audio-fading-2-techniques-to-elevate-your-videos-in-final-cut-pro/"><u>New The Art of Audio Fading 2 Techniques to Elevate Your Videos in Final Cut Pro</u></a></li>
 </ul></div>
 

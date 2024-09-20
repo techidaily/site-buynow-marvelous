@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Handheld Gamepad Controllers for On-the-Go Players
-date: 2024-09-12T04:44:14.075Z
-updated: 2024-09-15T08:41:18.167Z
+date: 2024-09-17T16:08:28.547Z
+updated: 2024-09-20T17:30:27.188Z
 tags:
   - buying-guides
 categories:
@@ -118,13 +118,6 @@ Not only is the 8Bitdo Pro 2 a fantastic budget pick, it's also one of the best 
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Montoya / How-To Geek
 
 | Pros                                             | Cons                  |
@@ -142,16 +135,16 @@ Jason Montoya / How-To Geek
 ![Backbone One PlayStation Edition for Android showing Backbone app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/ocase.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -164,16 +157,16 @@ Good-feeling buttons, large triggers, and rounded edges, the Backbone One is a c
 
 [$100 at Amazon](https://www.amazon.com/BACKBONE-Mobile-Gaming-Controller-Android-iOS/dp/B0CCT2LWT8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbackbone-one-usb-c-mobile-gaming-controller-for-iphone-15-series-and-android-2nd-generation-black%2F6558725.p%3FskuId%3D6558725) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Mobile Gaming Controller for Android: [Razer Kishi V2](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -194,16 +187,16 @@ Bertel King / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Mobile Gaming Controller for Android
@@ -215,6 +208,13 @@ $60 $100 Save $40
 The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them to the physical buttons. Coupled with a direct connection, latency is a thing of the past.
 
 [$60 at Amazon](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Razer-Kishi-V2-Mobile-Gaming-Controller-iPhone-Console-Quality-Controls-Universal-Fit-Stream-PC-Xbox-PlayStation-Games-Customizable-Triggers-Ergonomi/407553024) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -234,6 +234,13 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
  Alternatively, you can connect your PS5 controller via USB-C cable and directly connect to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can I use an Xbox Core controller with my phone?
 
  Yes! Just like with PS5 controllers, the Xbox Core controller is supported by Android and iOS:
@@ -243,13 +250,6 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 3. On your phone, select the Xbox Core controller from the Bluetooth menu and pair.
 
  As with the PS5 controller, you can go for a direct connection too, using a USB cable.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Will phone controllers also work with tablets?
 
@@ -270,13 +270,19 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-to-creating-amazing-ig-films/"><u>[New] 2024 Approved The Essential Guide to Creating Amazing IG Films</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-watching-with-edge-free-youtube-content-for-2024/"><u>[Updated] Streamline Your Watching with Edge-Free YouTube Content for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-18-unveiled-launch-dates-zero-cost-new-capabilities-and-latest-updates/"><u>IOS 18 Unveiled: Launch Dates, Zero Cost, New Capabilities & Latest Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-toms-equipment-guides-a-comprehensive-guide-for-enthusiasts/"><u>Navigating Tom's Equipment Guides: A Comprehensive Guide for Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-affordable-yet-capable-samsung-galaxy-a20/"><u>The Ultimate Guide to the Affordable Yet Capable Samsung Galaxy A20</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-speed-test-review-outstanding-performance-hindered-by-lackluster-design-choices/"><u>TP-Link AV2000 Speed Test Review: Outstanding Performance Hindered by Lackluster Design Choices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/z7-review-achieving-photographic-perfection-in-a-single-camera/"><u>Z7 Review: Achieving Photographic Perfection in a Single Camera</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamline-your-viewing-experience-youtube-ad-block-strategies/"><u>[New] 2024 Approved Streamline Your Viewing Experience - YouTube Ad-Block Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-deciphering-absent-messages-on-snapmap-for-2024/"><u>[New] Deciphering Absent Messages on Snapmap for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-best-practices-video-sizes-and-formats-for-2024/"><u>[New] Instagram's Best Practices Video Sizes and Formats for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-tools-and-tricks-for-minecraft-recordings/"><u>[Updated] Essential Tools and Tricks for Minecraft Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-gear-for-broadcast-engineers-and-directors/"><u>2024 Approved Key Gear for Broadcast Engineers and Directors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-innovation-or-confusing-choice-the-microsoft-surface-go-examined/"><u>Affordable Innovation or Confusing Choice? The Microsoft Surface Go Examined</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/all-day-all-night-performance-reviewed-how-the-garmin-venu-enhances-health-tracking/"><u>All-Day, All-Night Performance Reviewed: How the Garmin Venu Enhances Health Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-reliable-ourlink-u631-wireless-network-adapter-with-usb-superior-speed-and-connectivity/"><u>Compact & Reliable Ourlink U631 Wireless Network Adapter with USB - Superior Speed and Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-sonys-49-inch-ultra-hd-4k-smart-tv-with-led-display/"><u>Comprehensive Evaluation: Sony's 49-Inch Ultra HD 4K Smart TV with LED Display</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-top-race-rc-rock-crawler-assessment-for-unmatched-off-road-performance/"><u>Comprehensive Top Race RC Rock Crawler Assessment for Unmatched Off-Road Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-14-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 14 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-exquisite-expression-saver-perfecting-the-art-of-twitter-animations/"><u>In 2024, Exquisite Expression Saver - Perfecting the Art of Twitter Animations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-league-of-legends-black-screen-issues-a-step-by-step-guide/"><u>Resolving League of Legends Black Screen Issues : A Step-by-Step Guide</u></a></li>
 </ul></div>
 
