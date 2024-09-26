@@ -176,15 +176,5 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-12-cutting-edge-flip-screen-cams-for-video-content/"><u>[New] 2024 Approved Discover 12 Cutting-Edge Flip-Screen Cams for Video Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-online-presence-using-wirecast-and-facebook-live-for-2024/"><u>[Updated] Streamline Your Online Presence Using Wirecast and Facebook Live for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-funny-photo-tool/"><u>2024 Approved Premier Funny Photo Tool</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-potential-top-10-effortless-pdf-solutions/"><u>Maximize Your Potential: Top 10 Effortless PDF Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-covers-for-google-pixel-6a/"><u>Top-Rated Protective Covers for Google Pixel 6A</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-covers-for-google-pixel-9/"><u>Top-Rated Protective Covers for Google Pixel 9</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-gear-for-google-pixel-7-pro-2023s-must-have-accessories/"><u>Top-Rated Protective Gear for Google Pixel 7 Pro - 2023'S Must-Have Accessories</u></a></li>
-</ul></div>
+
 

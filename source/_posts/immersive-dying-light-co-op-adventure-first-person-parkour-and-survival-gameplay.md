@@ -176,17 +176,5 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/torment-tides-of-numenera-an-epic-adventure-in-science-fiction-role-playing-game-worldbuilding/"><u>'Torment: Tides of Numenera' - An Epic Adventure in Science Fiction Role-Playing Game Worldbuilding</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-selective-selection-best-bands-for-ringtones/"><u>[New] Selective Selection Best Bands for Ringtones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-essence-of-scripting-for-film-for-2024/"><u>[Updated] The Essence of Scripting for Film for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-methods-for-effective-image-pairing/"><u>2024 Approved Innovative Methods for Effective Image Pairing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-a-new-era-with-sony-xperia-xz-premium-review/"><u>2024 Approved Unveiling a New Era with Sony - Xperia XZ Premium Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-solutions-to-restore-your-creative-pebble-speakers-functionality/"><u>Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-gaming-systems-reviews-and-buyers-guide/"><u>Top Rated Gaming Systems - Reviews & Buyer's Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transforming-ideas-into-action-a-critical-review-of-the-innovative-makeblock-mbot-diy-robotic-kit/"><u>Transforming Ideas Into Action: A Critical Review of the Innovative Makeblock mBot DIY Robotic Kit</u></a></li>
-</ul></div>
+
 

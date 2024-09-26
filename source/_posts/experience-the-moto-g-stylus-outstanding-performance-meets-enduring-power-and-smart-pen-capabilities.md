@@ -176,14 +176,5 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cold-climates-hot-wins-beijing-highlights/"><u>[Updated] 2024 Approved Cold Climates, Hot Wins Beijing Highlights</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-the-art-of-editing-crafting-tiktok-success-stories-on-mac/"><u>[Updated] In 2024, The Art of Editing Crafting TikTok Success Stories on Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-image-editing-mastering-photo-cropping-tools/"><u>In 2024, IPhone Image Editing Mastering Photo Cropping Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-magic-of-minecraft-your-ultimate-guide-to-a-cross-generational-blocky-adventure/"><u>Unlocking the Magic of Minecraft: Your Ultimate Guide to a Cross-Generational Blocky Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unmasking-the-limitations-an-insightful-review-of-the-pioneer-blu-ray-burner-model-bdr-xd05b/"><u>Unmasking the Limitations: An Insightful Review of the Pioneer Blu-Ray Burner, Model BDR-XD05B</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unravel-the-secrets-of-tamriel-in-skyrims-engaging-rpg-quest-a-review-for-nintendo-switch-fans/"><u>Unravel the Secrets of Tamriel in Skyrim's Engaging RPG Quest – A Review for Nintendo Switch Fans</u></a></li>
-</ul></div>
+
 
