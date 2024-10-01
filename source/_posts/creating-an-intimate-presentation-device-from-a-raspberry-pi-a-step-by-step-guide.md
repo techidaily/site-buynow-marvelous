@@ -1,7 +1,7 @@
 ---
 title: "Creating an Intimate Presentation Device From a Raspberry Pi: A Step-by-Step Guide"
-date: 2024-09-08T19:52:39.709Z
-updated: 2024-09-15T11:11:12.406Z
+date: 2024-09-29T21:21:36.203Z
+updated: 2024-10-01T19:20:02.593Z
 tags:
   - games
   - tv
@@ -31,31 +31,31 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ##  Choosing the Right Tools
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Selecting the Perfect Raspberry Pi Model
 
  The most important part of this project is [choosing the right Raspberry Pi](https://extra-hints.techidaily.com/top-10-guidelines-for-breaking-through-cover-art/). For this project, the Raspberry Pi 4 Model B is a great choice, as it is a powerful device at an affordable price. However, if you can't get your hands on an RPi 4, a Raspberry Pi 3 Model B+ will work well for slideshows, though you'll lose some power and performance.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Some Sort of Display or Projector
 
  Next, you'll need something to display the photos on. Depending on your situation, you could go for a projector or a display. A [small 10-inch monitor](https://www.amazon.com/Monitor-Raspberry-Speakers-Display-Computer/dp/B0CR2YY37K/ref=sr%5F1%5F4?crid=ZH9VD71QTRD&dib=eyJ2IjoiMSJ9.OG2RHNsy3Fo5zvkK9nMW3pdAUDeDpGC9wilwEUmEHlRBJWJGUeEbu6rnu5twP7VnxAusRJ14lny7G7qx-dYTsYApxGVThaKFcsJW-S-MBP4H%5FxNaro5l7isc5mWiiGWD-NJhIXp5scdtfS%5FHpH5TQqT9DawyNnPOp3ePauF-yO5Zptdcebtc-IoqE2U6PE1ZOBbYaCA69quovnmiWxiP1dJg%5FSxz6OekxdvDtgBLROM.VTKtB6vO4vDX6HpNogfLSZIcPmKPz6dIvNB6gfWJGN0&dib%5Ftag=se&keywords=10%2Binch%2Bmonitor&qid=1717098172&sprefix=10%2Binch%2B%2Caps%2C97&sr=8-4&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003208&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-turned-a-raspberry-pi-into-a-private-slideshow-machine-heres-how%2F&asc%5Fcampaign=Evergreen) would be a great choice if you're trying to create your own digital photo frame. There are also plenty of [affordable projectors](https://www.amazon.com/Projector-Video-Projector-Multimedia-Compatible-Smartphone/dp/B07MTCMHZX/ref=sr%5F1%5F6?crid=3E28BOUMDSHP4&dib=eyJ2IjoiMSJ9.gyotn6s9zDatEztLHmbFN1HOX3zuiMlCrEbcYnAJTJUZK53qV9wlM%5FlnFprinkxrt9o4QoJ33sCvUDihngwOzN%5FksWGMLfSUFdB6QaRBM9c0qPG%5Fv1eZAdsSFUrxEzGMhuGZRrE9WGI6r1opgwfKBL4gDJVX8%5FLuueu-7aCxKU8J4atonAzCUmEIyjgw%5FGMLOIhLIjlx3F8GZqAwxTl7-6QOyULDH1W70fNGql4rcfg.2QzQDxeLafbtufVavgkcsVeaMOYH3EwBs8G2XYCI9TU&dib%5Ftag=se&keywords=projector&qid=1717098219&sprefix=projector%2Caps%2C104&sr=8-6&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003208&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-turned-a-raspberry-pi-into-a-private-slideshow-machine-heres-how%2F&asc%5Fcampaign=Evergreen) to choose from if you want to display photos for a party.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Essential Software to Get Started
 
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Building Your Slideshow Machine
 
@@ -215,6 +215,13 @@ sudo nano /usr/share/xsessions/start-slideshow.sh
 
 ![The Pi slideshow is in motion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-in-motion.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To disable randomization, find the command below in the script:
 
 feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Pictures/
@@ -224,10 +231,16 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
  If you want to increase (or decrease) the delay in which the pictures change (the default is 5), locate "5" in the command and increase or decrease it. When you've finished customizing your slideshow settings, press Ctrl + O to save your edits and Ctrl + X to close Nano.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Unleashing Your Inner Tech Guru
@@ -247,5 +260,18 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-pet-surveillance-petcubes-top-hd-camera-choice/"><u>Affordable Pet Surveillance: Petcube's Top HD Camera Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-choice-exceptional-earphones-of-2024/"><u>Audiophiles' Choice - Exceptional Earphones of 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-best-picture-quality-crystal-uhd-vs-qled-in-samsung-tvs-detailed-review-by-techsavvy/"><u>Choosing the Best Picture Quality: Crystal UHD Vs. QLED in Samsung TVs - Detailed Review by TechSavvy</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/creative-tims-top-tier-argon-theme-for-tailwind-ui-developers-superior-premium-control-panel-experience/"><u>Creative Tim's Top-Tier Argon Theme for Tailwind UI Developers: Superior Premium Control Panel Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT 5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>In 2024, Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-discord-not-opening-issues/"><u>Step-by-Step Solutions to Overcome Discord Not Opening Issues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/turn-your-passion-into-profits-youtube-on-facebook-monetization-steps-for-2024/"><u>Turn Your Passion Into Profits YouTube on Facebook Monetization Steps for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722979937479-ultimate-guide-to-choosing-your-next-computer-apples-powerhouse-imac-reviewed/"><u>Ultimate Guide to Choosing Your Next Computer: Apple's Powerhouse iMac Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-2024s-most-economical-smartphone-contract-options/"><u>Unveiling 2024'S Most Economical Smartphone Contract Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-review-of-samsungs-qn55q6f-ultra-hd-smart-tv/"><u>Unveiling the Benefits: A Review of Samsung's QN55Q6F Ultra HD Smart TV</u></a></li>
+</ul></div>
 

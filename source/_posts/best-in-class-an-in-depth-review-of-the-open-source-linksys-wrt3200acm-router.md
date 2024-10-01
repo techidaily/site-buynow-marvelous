@@ -1,7 +1,7 @@
 ---
 title: "Best in Class: An In-Depth Review of the Open Source Linksys WRT3200ACM Router"
-date: 2024-09-21T16:01:57.039Z
-updated: 2024-09-26T17:07:11.711Z
+date: 2024-09-29T18:01:04.703Z
+updated: 2024-10-01T19:11:35.944Z
 categories:
   - BestProducts
 description: "This Article Describes Best in Class: An In-Depth Review of the Open Source Linksys WRT3200ACM Router"
@@ -41,10 +41,10 @@ Lifewire / Jeremy Laukkonen
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
@@ -75,6 +75,13 @@ Lifewire / Jeremy Laukkonen
 
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
@@ -82,13 +89,6 @@ Lifewire / Jeremy Laukkonen
  The A6 features four antennas, two on the back, and the other two on the sides. They rotate easily for better positioning, but they aren’t removable. That’s a bit of a knock on this unit, as the ability to remove and replace antennas is pretty standard even in budget devices.
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/eeaRHW4APuNCYThw1t-TVwYpmSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_04-4739ffd6705348959e05e41ab9da2292.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -110,6 +110,19 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
  The TP-Link Archer A6 is an AC1200[dual-band router](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that supports MU-MIMO beamforming. The total throughput is a little on the light side if you have a lot of devices, but MU-MIMO is a nice feature to see in such an affordable unit.
@@ -117,6 +130,13 @@ Lifewire / Jeremy Laukkonen
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive. That isn’t completely unexpected from a budget router, but it would have been nice if it included at least one USB port.
 
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network Performance: Decent performance for a budget router**
 
@@ -148,25 +168,18 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
- Lifewire / Jeremy Laukkonen
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jeremy Laukkonen
 
 ## **Price: Good price for the features**
 
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **TP-Link Archer A6 vs. TP-Link Archer A7**
 
@@ -181,13 +194,6 @@ Lifewire / Jeremy Laukkonen
  **A great budget router that provides premium features.**
 
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -225,17 +231,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-fusing-iphones-audio-and-visuals-together/"><u>[Updated] Fusing iPhones' Audio and Visuals Together</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/concealed-countenance-guide-fast-and-effective-methods-for-2024/"><u>Concealed Countenance Guide Fast and Effective Methods for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-future-with-the-new-tesla-robot-price-predictions-specs-deep-dive-and-launch-window-insights/"><u>Decoding the Future with the New Tesla Robot: Price Predictions, Specs Deep Dive & Launch Window Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/magix-vpx-the-ultimate-software-showdown/"><u>Magix VPX The Ultimate Software Showdown</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-the-art-of-full-data-cleansing-on-iphones-a-step-by-step-guide-by-stellar-experts/"><u>Mastering the Art of Full Data Cleansing on iPhones - A Step-by-Step Guide by Stellar Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/solve-your-dts-audio-problems-in-windows-media-player-three-effective-methods/"><u>Solve Your DTS Audio Problems in Windows Media Player: Three Effective Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-picking-between-alexa-and-google-assistant-for-optimal-home-automation/"><u>The Ultimate Guide to Picking Between Alexa and Google Assistant for Optimal Home Automation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-google-pixel-6-cameras-pros-cons-and-feature-review/"><u>The Verdict on Google Pixel 6 Cameras - Pros, Cons, and Feature Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-computer-audio-interfaces-2024-edition/"><u>Top-Rated Computer Audio Interfaces - 2024 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-fitness-tracker-devices-a-comprehensive-guide/"><u>Top-Rated Fitness Tracker Devices : A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-espnplus-a-comprehensive-guide-to-the-world-of-sports-streaming/"><u>Understanding ESPN+: A Comprehensive Guide to the World of Sports Streaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-masterclass-in-instagram-story-downloads-and-creation/"><u>[New] In 2024, Masterclass in Instagram Story Downloads & Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-footage-into-a-gopro-film-classic/"><u>[New] Transform Your Footage Into a GoPro Film Classic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlock-fb-seo-potential-with-keyword-rich-strategies/"><u>[New] Unlock FB SEO Potential with Keyword-Rich Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-content-expert-tips-on-facebook-video-playbacks/"><u>2024 Approved Elevate Your Content Expert Tips on Facebook Video Playbacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-wealth-through-instagrams-revenue-avenues/"><u>2024 Approved Unlocking Wealth Through Instagram's Revenue Avenues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-vive-cosmos-quietly-dominating-amid-rival-vr-headsets/"><u>A Comprehensive Review of Vive Cosmos: Quietly Dominating Amid Rival VR Headsets</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-monster-hunters-stealthy-foes-eradicating-the-dark-screen-malfunction-when-initiating-gameplay/"><u>Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-g310-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia G310 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-game-streaming-with-the-new-nvidia-shield-tv-pro-an-expert-review/"><u>Mastering Game Streaming with the New NVIDIA Shield TV Pro - An Expert Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mohu-blade-assessment-exceptional-interior-reception-and-innovative-structure/"><u>Mohu Blade Assessment: Exceptional Interior Reception and Innovative Structure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-blueear-bluetooth-beanie-hat-combining-style-and-function-with-solid-audio-performance/"><u>Review of Blueear Bluetooth Beanie Hat: Combining Style and Function with Solid Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-the-problem-of-a-silent-microphone-in-zoom-sessions-on-microsoft-operating-systems/"><u>Solution Guide: Resolving the Problem of a Silent Microphone in Zoom Sessions on Microsoft Operating Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-gaming-companion-samsung-q60r-4k-qled-tv-reviewed-in-detail/"><u>The Ultimate Gaming Companion: Samsung Q60R 4K QLED TV Reviewed in Detail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-genius-widecam-f1-navigating-through-blurry-images-and-reverberant-noise/"><u>The Verdict on Genius WideCam F1# - Navigating Through Blurry Images & Reverberant Noise</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-accessories-to-upgrade-your-oculus-quest-2-setup-focusing-on-the-indispensable-elite-strap-additional-battery-and-protective-carrying-bag-review/"><u>Top Accessories to Upgrade Your Oculus Quest 2 Setup: Focusing on the Indispensable Elite Strap, Additional Battery & Protective Carrying Bag Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-netgear-nighthawk-x10-ad7200-is-a-game-changer-for-high-speed-internet-enthusiasts-a-comprehensive-review/"><u>Why the Netgear Nighthawk X10 AD7200 Is a Game-Changer for High-Speed Internet Enthusiasts: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-one-elite-series-2-controller-showdown-why-this-controller-is-king-among-gaming-peripherals/"><u>Xbox One Elite Series 2 Controller Showdown: Why This Controller Is King Among Gaming Peripherals</u></a></li>
 </ul></div>
 

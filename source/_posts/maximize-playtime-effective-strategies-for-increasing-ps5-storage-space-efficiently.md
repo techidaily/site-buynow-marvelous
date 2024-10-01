@@ -1,7 +1,7 @@
 ---
 title: Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently
-date: 2024-09-04T20:04:20.434Z
-updated: 2024-09-05T20:04:20.434Z
+date: 2024-09-27T16:45:53.638Z
+updated: 2024-10-01T20:01:45.558Z
 tags:
   - games
   - tv
@@ -31,11 +31,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The PlayStation 5’s internal SSD has 825 GB, but only 667 GB of that is available for you to use. For many gamers, that space can quickly run out. Here’s how you can free up some of it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Delete Unused Games and Apps
 
  If you’re not playing a particular game, you should consider deleting it to clear space. To do that, highlight the game (don’t launch it) on the home screen and press the Options button on your DualSense controller. Then, select “Delete” in the menu.
 
 ![Deleting a game from the PS5 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-game-home-screen-ps5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Confirm you want to delete it by selecting “Yes” in the prompt.
 
@@ -45,12 +59,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You’ll find games that are hidden from the home screen here. This will give you a better idea of what is taking up space on your PS5’s storage drive. Again, you can delete these using the Options > Delete process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Transfer Games to an External USB Drive
 
  An alternative to deleting games is to transfer them to an external USB drive. You can even use an old-fashioned hard disk drive (HDD) for this (it doesn’t have to be an SSD).
@@ -67,23 +75,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Selecting items to move to an external on a PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-items-to-move-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tick all the games you to move to the external drive and then select “Move” in the bottom right corner of the screen.
 
 ![Moving selected games to an external on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/moving-games-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the prompt, select “OK” to start the moving process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Delete Large Save Files
 
@@ -95,24 +98,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Save Data screen in a PS5's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saved-data-settings-ps5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, select the games you want to delete (they’ll have a checkbox on the right when selected). Afterward, select “Delete” in the bottom right corner of the screen.
 
 ![Deleting selected save data on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-games-console-storage-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select “OK” in the prompt, and the save data will be removed from your console. Remember that this will effectively reset your progress in a game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Transfer Save Data to Cloud Storage
 
  If you don’t want to delete the save files, you can transfer them to cloud storage. However, this requires that you [have a PlayStation Plus subscription](https://fox-direct.techidaily.com/envision-images-with-circular-focus-shift-ps-for-2024/).
@@ -127,16 +132,24 @@ Chifundo Kasiya / How-To Geek
 
 ![Uploading game save data to the cloud on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/uploading-game-save-cloud-ps5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Chifundo Kasiya / How-To Geek
 
  The files will now start uploading to the cloud storage. How long it takes will depend on the size of the files and the speed of your internet connection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Delete or Transfer Screenshots and Video Captures
 
  Screenshots and video captures can accumulate over time and take up significant space on your PS5's drive. You can delete them from the system or transfer them to a USB drive to free up space.
@@ -145,36 +158,25 @@ Chifundo Kasiya / How-To Geek
 
 ![Select a tab in the Media Gallery screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/media-gallery-settings-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select a screenshot or video and press the Options button on your controller. Then, select “Delete” or “Copy to USB Drive” in the menu.
 
 ![Selecting "Delete" or "Copy to USB Drive" on a PS5 when deleting or moving media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-video-media-gallery-ps5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, confirm your decision by selecting “Delete” or “Copy” in the prompt. You can also delete or transfer several items at once by choosing the “Select Multiple” icon on the left.
 
 ![The "Select Multiple" option in the Media Gallery screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ps5-media-gallery-select-multiple.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the screenshots and videos you want to delete or move (they will have a checkmark on the left when selected). Alternatively, you can choose “Select All” from the menu on the right to select everything. To delete them, select “Delete” in the bottom left.
 
 ![Deleting selected media on a PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-multiple-video-media-gallery-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To transfer them, select the three-dot icon below “Delete” and choose “Copy to USB Drive” in the menu.
 
  Once you confirm your decision, the items will be removed or moved from your PS5\. If you want another way to back up these items, you can [transfer the screenshots and videos to your phone](https://extra-skills.techidaily.com/2024-approved-seeking-visual-vintage-free-art-archives-online/).
@@ -193,18 +195,6 @@ Chifundo Kasiya / How-To Geek
 
  Now you won’t have trophy screenshots and videos automatically taking up space in your PS5’s storage.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Cloud Gaming When Possible
 
  Game files are getting bigger and bigger, especially when it comes to AAA games. With cloud gaming, you can stream games without having to install them on your console. You’ll need a PS Plus Premium subscription to access cloud gaming, which starts at $17.99 per month.
@@ -221,8 +211,6 @@ Chifundo Kasiya / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +218,24 @@ Chifundo Kasiya / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-much-a-youtube-promotion/"><u>[New] How Much a YouTube Promotion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ideal-app-for-aspiring-filmmakers-a-reel-crafting-list-for-2024/"><u>[New] Ideal App for Aspiring Filmmakers A Reel-Crafting List for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-next-gen-title-genius-for-online-content-creators/"><u>[New] In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-optimized-protocols-snapshots-of-gotomeetings-made-simple-for-2024/"><u>[New] Optimized Protocols Snapshots of GoToMeetings Made Simple for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>[Updated] In 2024, The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-fun-djis-robomaster-s1-a-unique-blend-of-drone-play-coding-mastery-and-competitive-battles/"><u>Explore the Fun: DJI's RoboMaster S1 – A Unique Blend of Drone Play, Coding Mastery & Competitive Battles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-macs-hidden-gem-an-in-depth-look-at-preview-as-an-image-editor/"><u>Exploring Mac’s Hidden Gem: An In-Depth Look at Preview as an Image Editor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-overwatch-an-engaging-and-intense-team-shooter-experience/"><u>Exploring Overwatch: An Engaging & Intense Team Shooter Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-capabilities-of-the-large-screened-acer-chromebook-your-essential-review-resource/"><u>Exploring the Capabilities of the Large-Screened Acer Chromebook - Your Essential Review Resource</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/family-fun-with-the-holy-stone-remote-control-race-car-series-a-comprehensive-review/"><u>Family Fun with the Holy Stone Remote Control Race Car Series - A Comprehensive Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-gpu-update-gtx-750-ti/"><u>Fast-Track GPU Update: GTX 750 Ti</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fortnite-review-a-comeback-with-exhilarating-gameplay-in-the-latest-season/"><u>Fortnite Review: A Comeback with Exhilarating Gameplay in the Latest Season</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/godfall-game-analysis-why-sonys-ps5-exclusive-falls-short/"><u>Godfall Game Analysis: Why Sony's PS5 Exclusive Falls Short</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hardness-must-be-balanced-with-biocompatibility-to-prevent-damage-to-opposing-teeth-and-tissues/"><u>Hardness Must Be Balanced with Biocompatibility to Prevent Damage to Opposing Teeth and Tissues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-10t-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 10T 5G Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-guidance-from-toms-hardware/"><u>Navigating the World of Gadgets - Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-content-creation-leverage-hix-ai-and-gpt-4/"><u>Streamline Your Content Creation: Leverage HIX AI & GPT-4</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2024-09-22T17:10:09.759Z
-updated: 2024-09-26T18:29:50.552Z
+date: 2024-09-25T20:53:13.429Z
+updated: 2024-10-01T17:59:39.304Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -39,23 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 3.6
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -85,6 +71,13 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
  The rear panel is entirely matte black plastic. It’s pretty basic, but you also won’t be staring at the back of your TV a whole lot either. On the left you’ll find the power cable all by its lonesome, with the rest of the inputs and ports on the right. These are split between a hub facing the right side of the unit, and another cluster that stick straight out the back. This might be annoying if you want to get the TV super close to a wall, but the main ports most people will be using are found on the right side anyway.
@@ -99,18 +92,18 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -126,6 +119,19 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
  However, IPS panels are notoriously bad for black uniformity and backlight bleed, which can cause clouding around the edges. We found this to be the case on our XBR65X850F, and while not unusable, it’s probably not the best option for viewing in dark environments because of this. The TV does have solid gray uniformity however, with no dirty screen effect. This is a huge boon if you’re a big sports fan.
@@ -140,6 +146,13 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
@@ -147,13 +160,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: A bit sluggish but good enough**
 
@@ -168,13 +174,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Browsing through the interface, we did find it to be a bit laggy and choppy at times, which can be quite frustrating. Hopefully, this can be fixed down the line when new versions of Android TV make their way to the device.
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Not bad for the size, but not the cheapest**
 
@@ -201,6 +200,13 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 **A solid IPS panel 4K TV.**
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -231,22 +237,22 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-blending-iphone-videos-a-simple-guide/"><u>[New] 2024 Approved Blending iPhone Videos A Simple Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-sync-your-world-step-by-step-windows-pc-tutorial-for-live-tv-recording/"><u>[New] 2024 Approved Sync Your World Step-by-Step Windows PC Tutorial for Live TV Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-designing-a-memorable-youtube-sign-off-for-2024/"><u>[Updated] Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-the-top-10-virtual-reality-smartphone-gaming/"><u>[Updated] Inside the Top 10 Virtual Reality Smartphone Gaming</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-twitch-time-warp-strategies/"><u>2024 Approved Twitch Time Warp Strategies</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhance-your-internet-speed-with-the-miniature-ourlink-usb-wi-fi-u631-adapter/"><u>Enhance Your Internet Speed with the Miniature Ourlink USB Wi-Fi U631 Adapter</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enjoy-audio-excellence-and-plush-comfort-a-closer-look-at-the-rotibox-wireless-beanie-hat/"><u>Enjoy Audio Excellence and Plush Comfort - A Closer Look at the Rotibox Wireless Beanie Hat</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-effortless-ebooks-on-the-kobo-libra-h2o-a-top-pick-for-aquatic-enthusiasts/"><u>Experience Effortless eBooks on the Kobo Libra H2O – A Top Pick for Aquatic Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-kootek-portable-laptop-chiller-top-performance-proven/"><u>Expert Analysis of the Kootek Portable Laptop Chiller - Top Performance Proven</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-byb-e430-led-light-fixture-assessment-the-ultimate-swing-arm-illuminator/"><u>Expert BYB E430 LED Light Fixture Assessment: The Ultimate Swing Arm Illuminator</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-onetastic-add-in-transforming-onenote-workflows-inside-out/"><u>Expert Insight on Onetastic Add-In - Transforming OneNote Workflows Inside Out</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-all-inclusive-linksys-ac1900-max-stream-wireless-router-a-comprehensive-review/"><u>Expert Insights on the All-Inclusive Linksys AC1900 Max-Stream Wireless Router – A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-top-cell-phone-signal-amplification-devices-of-2024/"><u>Expert Picks: Top Cell Phone Signal Amplification Devices of 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/federal-trade-commission-enforces-stricter-sanctions-against-misleading-online-reviews-by-companies/"><u>Federal Trade Commission Enforces Stricter Sanctions Against Misleading Online Reviews by Companies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-trust-factor-evaluating-chatgpt-and-bards-advice-quality/"><u>The Trust Factor: Evaluating ChatGPT and Bard's Advice Quality</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>Unclutter Your Layout Expertly Remove Backgrounds in Figma</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ezvid-video-recorder-review/"><u>[New] 2024 Approved Ezvid Video Recorder Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unleash-the-power-of-live-captures-an-introduction-to-vimeo-record/"><u>[Updated] 2024 Approved Unleash the Power of Live Captures An Introduction to Vimeo Record</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[Updated] In 2024, Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-path-to-smm-victory-for-2024/"><u>[Updated] Step-by-Step Path to SMM Victory for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-syma-107g-hobby-copter-revealed-the-ultimate-indoor-flight-experience/"><u>Affordable Syma 107G Hobby Copter Revealed - The Ultimate Indoor Flight Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-vision-unveiling-budget-friendly-petcubes/"><u>Affordable Vision: Unveiling Budget-Friendly Petcubes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bluetooth-enabled-universal-typewriter-by-moko-folds-for-on-the-go-typing/"><u>Bluetooth-Enabled Universal Typewriter by MoKo - Folds for On-the-Go Typing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-philips-hf3505-natural-sunrise-alarm-clock/"><u>Comprehensive Evaluation of the Philips HF3505 Natural Sunrise Alarm Clock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-selection-of-asus-routers-for-your-home-or-office/"><u>Discover the Elite Selection of ASUS Routers for Your Home or Office</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-skagen-falster-3-blending-modern-technology-and-timeless-design/"><u>Expert Evaluation of Skagen Falster 3: Blending Modern Technology and Timeless Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition-for-2024/"><u>Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersive-gaming-experience-with-philips-49-ultra-hd-oled-curved-display/"><u>Immersive Gaming Experience with Philips 49 Ultra HD OLED Curved Display</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-guide-inverting-your-media-files-for-2024/"><u>IPhone Guide Inverting Your Media Files for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sound-expedition-airpods-pro-vs-buds-pro-edition-samsung/"><u>Sound Expedition: AirPods Pro Vs. Buds Pro Edition (Samsung)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-fundamentals-of-sports-video-editing-for-2024/"><u>The Fundamentals of Sports Video Editing for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites : A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-happens-when-you-quit-social-media-6-things-i-learned/"><u>What Happens When You Quit Social Media? 6 Things I Learned</u></a></li>
 </ul></div>
 

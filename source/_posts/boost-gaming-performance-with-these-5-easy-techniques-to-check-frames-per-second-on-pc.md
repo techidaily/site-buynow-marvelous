@@ -1,7 +1,7 @@
 ---
 title: Boost Gaming Performance with These 5 Easy Techniques to Check Frames per Second on PC
-date: 2024-09-04T20:04:53.715Z
-updated: 2024-09-05T20:04:53.715Z
+date: 2024-09-27T18:43:47.831Z
+updated: 2024-10-01T17:02:47.816Z
 tags:
   - games
   - tv
@@ -36,17 +36,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adding a non-Steam Game to Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  NVIDIA GeForce Experience 
 
  If you have an NVIDIA graphics card, you can enable an in-game FPS counter via NVIDIA's proprietary companion program, NVIDIA GeForce Experience. Open NVIDIA GeForce Experience, then click on the gear icon in the top right corner to open settings. Make sure your "In-Game Overlay" option is enabled, then click the "Settings" button here.
@@ -54,27 +56,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![NVIDIA GeForce app with the settings opened and In-Game Overlay option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nvidia-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, go to HUD Layout > Performance > FPS, and then click one of the four quadrants to pick where you want your FPS counter to show up in-game.
 
 ![The NVIDIA GeForce Experience HUD Layout menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nvidia-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This method is more universal than the Steam one, but it's not a perfect solution. The FPS overlay sometimes doesn't show up at all; other times, it displays the incorrect FPS or N/A. Changing the display mode from fullscreen to borderless (or vice versa) is worth a shot if you can't get the FPS counter to work.
 
 ## 3  AMD Software 
@@ -83,12 +74,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The metrics menu in AMD Software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amd-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The metrics overlay will show up permanently on your screen by default, but you can enable "Game Detection for Metrics Overlay" if you only wish to see your FPS in games. Just note that the overlay might not work in certain games or borderless mode after enabling this option. You can also modify how and where the metrics overlay appears. Alternatively, you can turn the metrics overlay on and off by pressing Ctrl+Shift+O in games.
 
  AMD Software will display more than just the FPS by default. You can use it to see your frame time, [99th percentile FPS](https://tech-recovery.techidaily.com/discover-the-ultimate-selection-of-great-sports-flicks-available-today/), CPU and GPU utilization and clock speed, and more. If you wish to only see the FPS, you can adjust it in the "Tracking" tab. Simply click the eye icon to select which metrics you wish to monitor, like so:
@@ -96,17 +81,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![AMD Software Performance tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amd-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4  Use a Game's Built-in Options 
 
  Many games have built-in FPS counters you can enable. Depending on the game you're playing, this option is sometimes hard to find. It might be easiest to just perform a web search for the name of the game and "show FPS" to find out if a game has a built-in FPS option and how to enable it, but you can explore the game's options yourself. Depending on the game, you can enable the FPS counter in a variety of ways:
@@ -124,17 +104,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Performance metrics in Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/fps-mc.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5  MSI Afterburner 
 
  If you want a third-party solution to see your FPS counter, one of the best is [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards). Originally designed for MSI graphics cards, it's one of the most popular graphics card apps for [overclocking](https://desktop-recording.techidaily.com/new-in-2024-top-5-android-screen-recorders-essential-app-selection/) and performance monitoring.
@@ -157,8 +132,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +139,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>[New] Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-choose-best-free-youtube-video-editor-apps-on-ios-for-2024/"><u>[New] How to Choose Best-Free YouTube Video Editor Apps on iOS for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-at-work-the-ultimate-review-of-microsoft-sculpt-ergonomic-keyboards/"><u>Affordable Luxury at Work: The Ultimate Review of Microsoft Sculpt Ergonomic Keyboards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-6-review-a-modest-upgrade-but-still-the-best/"><u>Apple Watch Series 6 Review: A Modest Upgrade, But Still the Best</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-sony-dsc-w800s-strong-features-and-economic-design/"><u>Assessing the Sony DSC-W800's Strong Features and Economic Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/benchmarking-the-latest-chromecast-with-google-tv-against-firetv-an-in-depth-review/"><u>Benchmarking the Latest Chromecast with Google TV Against FireTV - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-battery-packs-top-picks-of-the-year-unmatched-speed-economical-choice-with-ankers/"><u>Best Battery Packs: Top Picks of the Year - Unmatched Speed, Economical Choice with Ankers</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlight-extraction-a-gpu-driven-solution/"><u>Highlight Extraction: A GPU-Driven Solution</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-v29-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V29 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>In 2024, Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-app-review-for-crafting-unique-reels-for-2024/"><u>The Ultimate App Review for Crafting Unique Reels for 2024</u></a></li>
+</ul></div>
 

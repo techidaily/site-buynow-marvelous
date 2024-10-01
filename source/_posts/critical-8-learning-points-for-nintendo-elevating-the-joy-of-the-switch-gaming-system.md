@@ -1,7 +1,7 @@
 ---
 title: "Critical 8 Learning Points for Nintendo: Elevating the Joy of the Switch Gaming System"
-date: 2024-09-04T20:03:57.524Z
-updated: 2024-09-05T20:03:57.524Z
+date: 2024-09-24T21:07:26.718Z
+updated: 2024-10-01T20:56:56.389Z
 tags:
   - games
   - tv
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  After decades of console launches that have set both industry highs and (relative) lows, there are critical lessons that Nintendo must learn from the competition and the company's past. Nobody wants the Switch 2 to be another Wii U.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Backwards Compatibility Is a Must 
 
 ![Nintendo Switch game cases.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/super_mario_wonder_switch.jpg) 
@@ -42,12 +49,6 @@ Tim Brookes / How-To Geek
 
 ![The Legend of Zelda: Breath of the Wild running on a Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/shutterstock_1454397305.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Natalia Lobon/Shutterstock.com](https://www.shutterstock.com/image-photo/boy-playing-zelda-on-nintendo-switch-1454397305)
 
  One of the smartest moves made by Sony and Microsoft in the transition to the current console generation was to [offer graphical and performance upgrades to the last-gen catalog](https://techidaily.com/unlock-android-phone-if-you-forget-the-infinix-zero-30-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/). The standard has been set and Nintendo needs to follow suit.
@@ -61,11 +62,12 @@ Tim Brookes / How-To Geek
 ![Person playing MarioKart on a Nintendo Switch with the USB wireless dongle of the JBL Quantum TWS Air plugged in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52872394896_a556b54ca4_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Backward compatibility is important, but what will truly excite people about Switch 2 are the games you can exclusively play on it. There’s boundless potential here but also cause for concern.
@@ -82,12 +84,6 @@ Hannah Stryker / How-To Geek
 
 ![Playing Mario Kart for SNES on a Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/nintendo-switch-online.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Nintendo
 
  We’re probably all tired of Nintendo’s tendency to drip-feed the same NES and SNES titles across a span of years, every generation. But now that the company has established emulated libraries through online services, there’s less reason than ever for them to do it all over again. In fact, improved and expanded functionality should be their M.O. going forward.
@@ -96,16 +92,17 @@ Nintendo
 
  Adding new consoles to the fold like the GameCube would also get people excited, though I wouldn’t hold it against Nintendo to keep that card in their back pocket for a dry season. What’s most important for the Switch 2’s launch is that they simply let us keep what we already have.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Improved Online Paves the Way 
 
 ![Coral Nintendo Switch Lite with the game library open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52766764240_abf3c0d339_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Kris Henges / How-To Geek
 
 [Nintendo’s online services get the job done](https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/) for most of their games, but it could be so much better. Improved netcode would make genres like shooters and fighting games far more viable, while integrated voice chat and an expanded set of social features would reduce the current need for third-party solutions. And yes, this functionality needs to be integrated into the system, not a phone app.
@@ -119,11 +116,12 @@ Kris Henges / How-To Geek
 ![A game is highlit with the cursor on the Nintendo Switch home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/game_highlit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  While I love how the [Switch’s no-nonsense user interface keeps the focus on the games](https://facebook-video-recording.techidaily.com/updated-crafting-powerful-hashtags-for-fb-brand-identity-for-2024/), it’s ripe for improvement.
 
  Most critically, it’s rendered at 720p which makes it a blurry mess on 4K TVs. While I doubt Switch 2 games will be regularly hitting 4K (if at all), the system must support the output resolution for their menus in order to give it a modern feel. Back when the Switch was released, the low UI resolution was a necessary and easy concession for game performance. Given the widespread proliferation of 4K displays since then, it now puts a spotlight on the platform’s lack of power.
@@ -132,21 +130,16 @@ Kris Henges / How-To Geek
 
  One such way they could do this is by adding themes. Fans have requested this feature ever since the Switch’s launch, both because they were a beloved customization option on 3DS, and the system settings have a menu to support them that’s gone suspiciously unused. This would separate Nintendo from its competition while giving users a way to personalize their devices. It’s a win-win scenario.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7  Pack in a Pro Controller (And Make Old Ones Compatible) 
 
 ![Nintendo Switch Pro Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/032b2cc9-4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Nintendo
 
@@ -156,16 +149,17 @@ Nintendo
 
  Additionally, we’ve talked about backward compatibility for games, and I believe that should also apply to controllers. Unless there’s a substantial new feature that warrants a refresh, Nintendo should continue supporting Switch controllers. I’d go as far as to say this support outweighs any gimmicks they could add. That said, new models that [fix stick drift issues](https://instagram-video-files.techidaily.com/new-discreet-insta-story-enthusiasts-best-5-tools/) would be appreciated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8  Don’t Muddle the Message 
 
 ![Nintendo Switch Joy Cons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/52659706170_2192629c1a_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Nintendo’s infamously bad Wii U marketing left the average consumer thinking it was a Wii peripheral. Given that we’re moving from one hybrid console to another, this is something I’m worried could happen again with Switch 2.
@@ -184,8 +178,6 @@ Corbin Davenport / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +185,24 @@ Corbin Davenport / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-outstanding-photos-ios-and-androids-leading-sticker-adders/"><u>[New] From Ordinary to Outstanding Photos IOS & Android's Leading Sticker Adders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premium-mac-programming-solutions-excluded-from-bandicam/"><u>[Updated] 2024 Approved Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-presence-making-videos-on-mobile-for-2024/"><u>[Updated] Elevate Your Online Presence Making Videos on Mobile for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-view-old-stories-on-facebook-find-story-archive-easily/"><u>[Updated] In 2024, How to View Old Stories on Facebook Find Story Archive Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stream-snipping-specialists-2023-version/"><u>[Updated] In 2024, Stream Snipping Specialists, 2023 Version</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-blending-youtube-audio-features-into-video-projects/"><u>2024 Approved Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-faces-to-films-the-mi-11s-advanced-screenshot-technology/"><u>2024 Approved From Faces to Films The Mi 11'S Advanced Screenshot Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quickshot-recorder-evaluation-summary/"><u>2024 Approved QuickShot Recorder Evaluation Summary</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-ios-vs-website-the-6-compelling-reasons-to-choose-mobile-accessibility/"><u>ChatGPT iOS Vs. Website: The 6 Compelling Reasons to Choose Mobile Accessibility</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-hidden-treasures-in-spyro-reignited-trilogy-how-a-small-sized-dragon-packed-big-worthwhile-experience/"><u>Discovering Hidden Treasures in Spyro Reignited Trilogy – How a Small-Sized Dragon Packed Big Worthwhile Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/distinguished-vehicle-cypher-crafters-2024-edition/"><u>Distinguished Vehicle Cypher Crafters, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/durable-sunbriteveranda-55/"><u>Durable SunBriteVeranda 55</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embrace-the-journey-with-adaptive-patekfly-12s-support/"><u>Embrace the Journey with Adaptive Patekfly 12'S Support</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-acurite-pro-weather-station-model-01036m-user-friendly-setup-and-reliable-design-reviewed/"><u>Evaluating the AcuRite Pro Weather Station (Model 01036M): User-Friendly Setup & Reliable Design Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-razer-portal-for-gamers-unveiling-the-ultimate-wireless-setup/"><u>Expert Insight on Razer Portal for Gamers: Unveiling the Ultimate Wireless Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-which-ipad-is-right-for-you-a-detailed-analysis/"><u>Expert Reviews: Which iPad Is Right for You? A Detailed Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fast-lan-and-wireless-speeds-meet-gaming-perks-in-our-in-depth-look-at-the-asus-rog-rapture-gt-ax11000/"><u>Fast LAN and Wireless Speeds Meet Gaming Perks in Our In-Depth Look at the Asus ROG Rapture GT-AX11000</u></a></li>
+</ul></div>
 

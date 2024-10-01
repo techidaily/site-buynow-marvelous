@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Gaming: Essential Advice After Purchasing a Steam Deck"
-date: 2024-09-04T20:05:18.277Z
-updated: 2024-09-05T20:05:18.277Z
+date: 2024-09-29T20:50:10.469Z
+updated: 2024-10-01T16:03:08.880Z
 tags:
   - games
   - tv
@@ -50,20 +50,28 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![Steam Deck Display menu that includes various blue light filter options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-03.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Get the Full List of Shortcuts by Holding the Steam or Quick Access Button
 
  SteamOS has a boatload of button shortcuts for taking screenshots, bringing up the virtual keyboard, force-closing games, and more. To see the entire list of shortcuts hold the Steam or the “Quick Access” button, which looks like an ellipsis "..." and is located on the right side under the trackpad.
 
 ![List of Steam Deck Game Mode Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-004.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In addition to Game Mode, SteamOS has many different shortcuts in Desktop Mode. To learn more about those, read [our full guide to Steam Deck shortcuts](https://os-tips.techidaily.com/the-ultimate-top-8-messaging-app-restoration-tools-best-free-and-paid-options-for-iphone-and-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Control In-Game Brightness With the Left Analog Stick and Quick Access Button
 
  While there’s a Quick Access menu you can open in-game to tweak brightness, you don’t have to pause your game for even a second to adjust the screen's brightness while gaming. Just hold the “Quick Access” button and move the left thumbstick up to increase brightness and down to decrease it. You can use this button combo anywhere in Game Mode.
@@ -76,20 +84,8 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![Toggling various notifications toggles in the Steam Deck notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-04.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There, you can tweak individual notifications, turn notification toasts off completely, and disable notification sounds. Just scroll to the end and tweak every single option to your liking, and then you can start gaming without the annoying pop-ups.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  SD Cards are Adequate Storage Options for Most Games
 
  If you’re a new Steam Deck owner and need more storage, feel free to get an SD card instead of [upgrading the solid-state drive](https://youtube-lab.techidaily.com/ed-pinpointing-potential-a-youtube-niche-journey/) (SSD). Slotting in an SD card is much simpler than opening your brand-new handheld and performing an SSD replacement operation on it. The good news is that SD cards shouldn’t impede gaming performance in most titles.
@@ -118,15 +114,16 @@ Goran Damnjanovic / How-To Geek
 
 ![Steam Deck charging adapter sitting flush against the case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-charging-adapter-sideways.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Goran Damnjanovic / How-To Geek
 
  Before we move on, note that the Steam Deck supports pass-through charging. Once the battery is full, the charger bypasses the cell and delivers power directly to your Deck. In other words, don’t worry about [Steam Deck battery degradation](https://facebook-videos.techidaily.com/updated-2024-approved-decode-facebooks-algorithm-change-and-protect-your-reach/), and feel free to game while charging your Deck.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Improve Steam Deck LCD Download Speeds
 
@@ -150,6 +147,13 @@ Goran Damnjanovic / How-To Geek
 
  If you own an OLED Deck, you shouldn’t have issues with download speeds and stability since the OLED version uses a much better [Wi-Fi 6](https://buynow-info.techidaily.com/getting-the-most-out-of-your-new-echo-dot-3rd-gen-a-comprehensive-breakdown-for-seamless-alexa-integration/) card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Prevent Your Deck From Sleeping When Downloading Games
 
  Getting a new Deck means downloading some games so you can enjoy your new handheld. I recommend turning off sleep when plugged in so your Deck doesn't betray you and enter sleep mode while downloads complete. You can also disable sleep while on battery, but I don’t recommend that for obvious reasons.
@@ -159,21 +163,16 @@ Goran Damnjanovic / How-To Geek
 ![Disabling sleep on a Steam Deck while plugged in in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Another tip I have is to set your Deck to Offline mode when you plan on using it at a location with spotty or no internet coverage. To do this, open “Settings,” go to the “Internet” tab, and click the “Enter Offline Mode” button.
 
 ![Enabling Offline Mode on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-09.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create Game Collections For Easier Game Library Navigation
 
  Navigating your [Steam library](https://video-screen-grab.techidaily.com/new-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders-for-2024/) isn’t complicated if you own just a handful of games. But once your library balloons to hundreds of titles, finding the one you’re looking for can be a chore. This is why I recommend every fresh Steam Deck owner create different game collections in their Steam library.
@@ -183,11 +182,12 @@ Goran Damnjanovic / How-To Geek
 ![Steam Deck side menu with the Library tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Head to the “All Games” tab, find the game you want to add to a new collection and press the Start button to open the options menu.
 
 ![Steam Library on a Steam Deck with the All Games tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-11.jpg) 
@@ -196,56 +196,27 @@ Goran Damnjanovic / How-To Geek
 
 ![Adding a game to a new library collection on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-12-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To see every Steam game you own (not only Deck-compatible titles), go to the “All Games” tab and press the X button on your Deck.
 
 ![Steam library All Games tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-13.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’re inside the “Library Filters” menu, select and activate the “All Games” filter. Your library will now show you every game you own, not just those compatible with Steam Deck.
 
 ![Enabling All Games filter in a Steam Deck library filters menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-14.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Learn to Use the Performance Quick Access Menu
 
  SteamOS in Game Mode features five quick menus in total, accessible by pressing the “Quick Access” button, with the “Performance” menu featuring the most useful set of features. There you can limit your frame rate, see how much battery life you’ve got left, turn on the in-game performance overlay, and more.
 
 ![Performance Quick Access menu on a Steam Deck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-15.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Probably the most helpful feature here is the performance overlay that shows your frame rate, power used by the CPU and GPU, CPU and GPU usage, frame time graph, and more. I recommend setting the performance overlay to level 2, which includes most of the data you’ll need. If you want to see the frame time graph, set the overlay to level 3\. To see the usage of individual CPU cores, battery life left, fan RPM, and more details, set the overlay to level 4.
 
 ##  Set Refresh Rate to 45Hz (OLED) or 40Hz (LCD)
@@ -265,23 +236,12 @@ Goran Damnjanovic / How-To Geek
 ![Enabling Battery Percentage toggle in SteamOS General settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/how-to-check-battery-health-and-levels-on-a-steam-deck-08.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Try out Local Game Streaming if You Own a Gaming PC
 
  If you own a gaming PC, I strongly advise you to try local game streaming. You can either use [Moonlight](https://moonlight-stream.org/) or stream games from your PC via [Steam Remote Play](https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-14-ultra-lock-screen-password-by-drfone-android/). I strongly prefer the Moonlight with [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en) (an open-source local game streaming client) combo to Steam Remote Play because the former has better image quality and much better performance.
@@ -300,8 +260,6 @@ Goran Damnjanovic / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -309,4 +267,20 @@ Goran Damnjanovic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-selfie-validation-is-it-essential-for-instagram-users/"><u>[Updated] Selfie Validation Is It Essential for Instagram Users?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-mix-fold-3-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Mix Fold 3 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726224649650-asfmov-movavi/"><u>ASFからMOVへ容易な変換: Movaviで提供されるオンライン無料ツール</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>Comprehensive Evaluation Samsung Gear 360 VR Camera</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-bloodthirsty-horror-your-ultimate-8-zombie-game-compilation/"><u>In 2024, Bloodthirsty Horror Your Ultimate 8 Zombie Game Compilation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/konverteren-van-vob-naar-mp3-met-online-tool-gratis-movavicom/"><u>Konverteren Van VOB Naar MP3 Met Online Tool - gratis-movavi.com</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/panasonics-next-gen-sharp-recording/"><u>Panasonic's Next-Gen Sharp Recording</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/patek-flexi-tripod-12-a-flexible-journey-partner/"><u>Patek Flexi-Tripod 12: A Flexible Journey Partner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/perfect-prints-every-time-advanced-print-settings-in-photoshop/"><u>Perfect Prints Every Time: Advanced Print Settings in Photoshop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-aesthetics-in-depth-review-of-the-clearstream-2v-tv-antenna-for-indooroutdoor-use/"><u>Performance vs Aesthetics: In-Depth Review of the ClearStream 2V TV Antenna for Indoor/Outdoor Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pidgin-chat-analyzing-its-strengths-and-weaknesses-for-effective-communication/"><u>Pidgin Chat: Analyzing Its Strengths and Weaknesses for Effective Communication</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-pro-17-review/"><u>Razer Blade Pro 17 Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-display-a-tutorial-on-how-to-install-the-latest-ati-drivers-for-windows-pcs/"><u>Revamp Your Display: A Tutorial on How to Install the Latest ATI Drivers for Windows PCs</u></a></li>
+</ul></div>
 

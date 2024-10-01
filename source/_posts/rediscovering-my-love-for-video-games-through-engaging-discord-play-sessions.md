@@ -1,7 +1,7 @@
 ---
 title: Rediscovering My Love for Video Games Through Engaging Discord Play Sessions
-date: 2024-09-10T22:49:22.394Z
-updated: 2024-09-15T03:48:43.685Z
+date: 2024-09-27T16:53:59.079Z
+updated: 2024-10-01T17:27:44.924Z
 tags:
   - games
   - tv
@@ -21,15 +21,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Want a casual game that you can play while you chat with your friends? Love classical tabletop or board games and are tired of debating which games you and your friends are going to play? Discord has you covered. 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Yes, Discord Has Games
 
  Discord, the ever-popular [voice chat and messaging app favored by gamers](https://extra-lessons.techidaily.com/best-of-the-best-ultimate-list-of-gopro-casings-for-2024/), also has its own games. They’re integrated directly into the client itself—no extra software required. All you need to do is join a voice channel and click the rocket ship icon. It’ll say “Start an Activity” when you hover over it. Alternatively, you can click "Choose an Activity."
 
 ![Click the rocket ship icon or click 'Choose an Activity'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/click-1-of-hte-three-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From there, just pick a game. If you want to join an ongoing activity or game, click the voice channel name, then click “Join Activity.”
 
  They're free, can be [run on a potato](https://tiktok-videos.techidaily.com/transform-your-tiktok-avatar-instruction-manual-for-change/), and don't need to be downloaded. That means almost any of your friends will be able to play—the games even work on your phone. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Discord Games Let You Socialize
 
@@ -45,14 +66,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Letter League on Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/letter-league.png) 
 
- It comes with all the joys of "old fashioned" tabletop games, like arguments about whether limeade is better than lemonade (limeade is better), or whether water is wet or not. There is just something nice about the kind of casual banter that happens when you aren't too distracted by a game. 
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It comes with all the joys of "old fashioned" tabletop games, like arguments about whether limeade is better than lemonade (limeade is better), or whether water is wet or not. There is just something nice about the kind of casual banter that happens when you aren't too distracted by a game. 
 
 ##  What Games Does Discord Have?
 
@@ -94,5 +115,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-building-connections-online-start-with-a-facebook-account/"><u>[Updated] In 2024, Building Connections Online Start with a Facebook Account</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] In 2024, Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-discover-the-ultimate-8-free-spots-for-3d-psds/"><u>2024 Approved Discover the Ultimate 8 Free Spots for 3D PSDs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-places-to-go-the-best-online-hubs-for-text-effects/"><u>2024 Approved Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-google-stadia-areas-needing-upgrades/"><u>Comprehensive Analysis of Google Stadia - Areas Needing Upgrades</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-linksys-wrt1900acs-the-ultimate-open-source-wifi-router-uncovered/"><u>Comprehensive Analysis of the Linksys WRT1900ACS: The Ultimate Open-Source WiFi Router Uncovered</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-top-tier-philips-somneo-wake-up-device-setting-new-standards/"><u>Comprehensive Analysis of Top-Tier Philips Somneo Wake Up Device – Setting New Standards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-latest-iphone-13-model/"><u>Comprehensive Evaluation of the Latest iPhone 13 Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-and-evaluation-of-the-2021-m1-chip-powered-apple-macbook-pro-16-inch/"><u>Comprehensive Guide & Evaluation of the 2021 M1 Chip Powered Apple MacBook Pro 16-Inch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-tp-link-av2000-ethernet-over-power-cable-analysis-high-performance-meets-flawed-aesthetics/"><u>Comprehensive TP-Link AV2000 Ethernet Over Power Cable Analysis: High Performance Meets Flawed Aesthetics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cumuluspro-anti-fatigue-mat-assessment-comfort-meets-elegance-at-your-standing-desk/"><u>CumulusPro Anti-Fatigue Mat Assessment: Comfort Meets Elegance at Your Standing Desk</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-7-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 7 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>In 2024, Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/innovative-frameworks-for-efficient-iptv-recording-for-2024/"><u>Innovative Frameworks for Efficient IPTV Recording for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-geforce-210-nvidia-drivers-for-enhanced-windows-11-performance/"><u>Latest GeForce 210 NVIDIA Drivers for Enhanced Windows 11 Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-with-guidance-from-toms-hardware/"><u>Mastering Technology Choices with Guidance From Tom's Hardware</u></a></li>
+</ul></div>
 

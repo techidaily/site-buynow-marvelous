@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Fall of Episodic Video Game Narratives: Where Are They Now?"
-date: 2024-09-04T20:03:32.831Z
-updated: 2024-09-05T20:03:32.831Z
+date: 2024-09-27T19:12:33.640Z
+updated: 2024-10-01T18:28:54.263Z
 tags:
   - games
   - tv
@@ -30,11 +30,12 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
  Episodic game development would be the thing that solved the pain points of AAA game development, or a smart low-risk approach for smaller studios to get some content out there and earning money, allowing them to complete the rest of the game.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Episodic Method Is Hard!
 
  This all sounds great, until you really start to think about the details of game development. Even if you're going to release games in chunks over time, the actual game development process is extremely front-loaded. Think about everything that has to be in place before you can produce the first episode. Your [game engine](https://instagram-video-recordings.techidaily.com/instacrafts-seamless-video-assemblies-on-androidios-for-2024/), technology, main assets, writing, and so on, all have to be done before the first episode ships. Sure, that means subsequent episodes are faster and cheaper to produce, but if the bulk of the development costs and work are happening before the first episode ships, that raises questions about the point of the whole approach.
@@ -44,43 +45,40 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
  I can't even imagine the logistics of assigning work to different people or creating multiple teams who can work on different parts of different episodes, and if we look at how episodic games repeatedly missed their episode release dates, neither could many developers. By the way, when's _Half-Life 2: Episode 3_ coming out?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Modern Games Take Longer to Develop Than Ever
 
 ![Custom Grand Theft Auto VI cover art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/gta6-custom-cover.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Rockstar
 
  Today, all the stuff that episodic game development was meant to solve has come to pass. Games are more expensive than ever to make. They take longer and longer to develop, and the risk levels involved are so high, few publishers and developers are willing to take risks on innovation.
 
  This might be why, in my opinion at least, all the interesting stuff is happening in the [Indie](https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) and "double A" categories. Where development cycles are still of reasonable length, and there isn't a mountain of money at stake. At the high-end of the budgetary scale however, I don't think there's any turning back save perhaps for some sort of market bubble bursting for AAA games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Maybe Episodic Games Never Made Sense
 
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Episodic game development is one of those things that sounds good on paper, but in practice isn't too practical. A few companies have made it work, such as Telltale Games, though what they produced wasn't strictly traditional games but rather interactive fiction. Which lends itself to the episodic model, especially if you never really change your tools or game engine.
 
  It's not as if the idea was totally new either. During the [Shareware](https://vp-tips.techidaily.com/2024-approved-highlighting-the-best-ways-to-convert-youtube-to-mp4/) era we also saw the sale of "episodes" in games, but this worked well (ironically) when game development cycles could be measured in months, and a development team might consist of ten people.
@@ -95,8 +93,6 @@ Rockstar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +100,23 @@ Rockstar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-ultra-clarity-the-new-era-of-hd-monitors-envy-27-for-2024/"><u>[New] Ultra Clarity The New Era of HD Monitors - Envy 27 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp/"><u>[Updated] 2024 Approved Prolific Strategies for Broadcasting FB Videos on WhatsApp</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-monochrome-moments-to-multicolor-movies-for-2024/"><u>[Updated] From Monochrome Moments to Multicolor Movies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-selection-of-frames-for-professional-ig-artistry/"><u>[Updated] The Ultimate Selection of Frames for Professional IG Artistry</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-content-creator-acclaim-through-subscriber-recognition/"><u>2024 Approved Content Creator Acclaim Through Subscriber Recognition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y100i Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Honor X50</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-10-best-games-for-steam-deck-of-2023/"><u>The 10 Best Games for Steam Deck of 2023</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-6-tech-for-subtitle-creation-in-video-for-2024/"><u>Ultimate 6 Tech for Subtitle Creation in Video for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-anker-usb-30-high-powered-hub-a-detailed-evaluation/"><u>Ultimate Guide to the Anker USB 3.0 High-Powered Hub - A Detailed Evaluation.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-firebreath-on-spyros-latest-adventure-a-comprehensive-review/"><u>Unleashing FireBreath on Spyro's Latest Adventure: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-connectivity-secrets-an-authentic-review-of-linksyss-open-source-wrt19wifi-router/"><u>Unveiling Connectivity Secrets: An Authentic Review of Linksys's Open Source WRT19_WiFi Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-performance-insights-on-asus-zephyrus-g14-why-compromises-dont-apply-here/"><u>Unveiling Performance Insights on Asus Zephyrus G14: Why Compromises Don't Apply Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-asus-chromebook-c202sa-the-perfect-tech-partner-for-students/"><u>Unveiling the Asus Chromebook C202SA - The Perfect Tech Partner for Students</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-hidden-gem-of-mobile-tech-why-the-samsung-galaxy-a71-5g-is-a-worthy-flagship-rival/"><u>Unveiling the Hidden Gem of Mobile Tech: Why the Samsung Galaxy A71 5G Is a Worthy Flagship Rival</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lenovo-ideapad-320-a-symphony-of-portability-elegance-and-trusty/"><u>Unveiling the Lenovo Ideapad 320: A Symphony of Portability, Elegance, and Trusty</u></a></li>
+</ul></div>
 

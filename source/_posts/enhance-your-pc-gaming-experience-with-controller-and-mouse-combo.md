@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC Gaming Experience with Controller & Mouse Combo
-date: 2024-09-12T22:07:40.258Z
-updated: 2024-09-15T01:38:12.657Z
+date: 2024-09-24T18:11:24.861Z
+updated: 2024-10-01T21:13:37.274Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The "Why Not Both?" meme is more than a little overused when it comes to decisions between two good things, but it's the perfect answer to the question of whether you should use a controller or a mouse to play your favorite games.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Keyboards Suck for Movement, Controllers Suck for Aim
 
  The main problem is that keyboards are not analogue. A key is either depressed or it isn't. This makes it essentially impossible to implement manual movement control for games using a keyboard. You have a walking speed and a sprinting speed, with nothing in between, and a significant amount of imprecision as a result. That analog thumb stick on the controller lets you precisely control the velocity of your character, and it's intuitive.
@@ -38,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There are a few ways to address this beyond what I just mentioned. For example, many mice these days have numerous side and thumb buttons that can be assigned to take over common things you might want to do during a game, such as tossing a grenade or melee attacks. Also, don't forget that you have an entire D-pad on the left side of a standard controller, which is perfect for common functions like using a healing item or swapping weapons.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Configure Controller and Mouse Together
@@ -56,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Hori Tactical Assault Commander controller combo with half controller and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hori-tactical-assault-commander.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hori
 
  If you want to achieve the same synergy of controller and mouse on console, you don't have quite this amount of flexibility. However, there have been a few dedicated combo controllers over the years. Sadly, they were never particularly popular, nor by all accounts much good, but it's worth pointing out that this idea isn't new or that outlandish.
@@ -63,10 +77,10 @@ Hori
  There's the [SplitFish Shark](https://eu.splitfish.com/fragfx-game-controllers/fragfx-shark-ps4.html?%5F%5F%5Fstore=english&%5F%5F%5Ffrom%5Fstore=default) which has various iterations for different consoles. Even HORI, which is one of the most eminent controller makers in the world, took a stab at it with the [HORI Tactical Assault Commander G2](https://www.amazon.com/Tactical-Assault-Commander-KeyPad-Gamepad-Controller/dp/B01L8QL2N8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002794&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fforget-picking-between-controller-or-mouse-for-pc-gaming-use-both-and-never-look-back%2F&asc%5Fcampaign=Evergreen).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is Dual-Wielding Better?
@@ -88,5 +102,21 @@ Hori
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-leveraging-social-integration-auto-play-youtube-videos-on-fb-pages/"><u>[New] Leveraging Social Integration Auto-Play Youtube Videos on FB Pages</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>2024 Approved Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-performance-and-speed-tips-for-improving-frame-rate-in-ring-of-elysium/"><u>Enhance Performance and Speed: Tips for Improving Frame Rate in Ring of Elysium</u></a></li>
+<li><a href="https://facebook.techidaily.com/framework-formulation-for-fb-groups-rule-adaptation/"><u>Framework Formulation for FB Groups' Rule Adaptation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/harvest-hits-the-next-level-of-virtual-farms-for-2024/"><u>Harvest Hits The Next Level of Virtual Farms for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-13t-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi 13T Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-radeon-r9-drivers-for-new-windows-11/"><u>Navigating Radeon R9 Drivers for New Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-art-of-frequency-shifting-without-compromising-clarity-in-audacity/"><u>New The Art of Frequency Shifting Without Compromising Clarity in Audacity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-wireless-experience-expert-review-on-tp-link-deco-p9-mesh-network/"><u>Transforming Wireless Experience – Expert Review on TP-Link Deco P9 Mesh Network</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-restoring-vibration-functionality-for-iphones-on-silent-or-ring-mode/"><u>Troubleshooting Guide: Restoring Vibration Functionality for iPhones on Silent or Ring Mode</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-cable-modem-and-wi-fi-router/"><u>Ultimate Guide to Choosing the Perfect Cable Modem and Wi-Fi Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-worlds-best-educational-websites-for-e-learning/"><u>Ultimate Guide to World's Best Educational Websites for E-Learning</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-potential-of-bouncie-sync-drive-a-review-on-accessible-gps-solutions/"><u>Unlock the Potential of Bouncie Sync Drive: A Review on Accessible GPS Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-ai-potential-should-you-upgrade-to-chatgpt-plus/"><u>Unlocking AI Potential: Should You Upgrade to ChatGPT Plus?</u></a></li>
+</ul></div>
 

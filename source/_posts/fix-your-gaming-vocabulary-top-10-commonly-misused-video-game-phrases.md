@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-09-13T07:52:37.448Z
-updated: 2024-09-14T17:43:32.691Z
+date: 2024-09-30T21:04:43.336Z
+updated: 2024-10-01T17:57:16.057Z
 tags:
   - games
   - tv
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  There's a lot of jargon and a lot of passion in the video game hobby. That's a recipe for miscommunication, and I've been seeing a lot of that as the industry becomes larger and more popular. In particular, some people use these ten terms in odd and often incorrect ways.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Walking Simulator
 
  The term "walking simulator" is a derogatory term gamers came up with for titles like _What Remains of Edith Finch, Gone Home,_ and _Firewatch._ Since these titles are not actually games, but linear interactive stories, people who are interested in actual gameplay were understandably not impressed. Of course, there's nothing wrong with an interactive story, and not everything you experience with a controller in your hands has to be a true game, but nonetheless, the term "walking simulator" applies to these non-game, interactive digital experiences.
@@ -44,6 +51,13 @@ Tim Brookes / How-To Geek
  This is a tricky one, because simulation is something that happens on a spectrum. At the most extreme end, you get pure simulators such as _Microsoft Flight Simulator_ which tries to be a serious and true digital reproduction of what flying a plane is really like. Generally, pure simulations like these allow you to learn the real world skills you'd need to actually do the thing in real life.
 
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Microsoft Flight Simulator 2020_  
 Tim Brookes / How-To Geek
@@ -66,17 +80,17 @@ Interplay/Bethesda Softworks
 
 ![Screenshot from Bethesda RPG Starfield on Xbox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/starfield.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Starfield_  
 Tim Brookes / How-To Geek
 
  In recent years, more and more games outside the RPG genre have adopted elements of these games into their own designs. However, just like bolting wings to your car does not make it a plane, adding XP and item stats to an action adventure game does not make it a true RPG.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pay-To-Win
 
@@ -94,10 +108,10 @@ Arrowhead Game Studios
  This is a curious one I saw for the first time not too long before writing this. There might be some disagreement on the finer details, but a [microtransaction](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) is a small payment you can make over and over again in a game to ge some sort of resource. Such as buying premium currency, or buying lootboxes. DLC (Downloadable content) are digital items you buy once and keep forever. Examples would include new weapons or outfits that are permanently added to your game, or even major game and story expansions.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Lag Vs Frame Rate
@@ -107,10 +121,10 @@ Arrowhead Game Studios
  Frame rate issues happen for a number of reasons, but they are related to the performance of your computer. For example, if a game scene is too complex, your game may appear to slow down and become choppy. If it's not caused by a network issue, then your game isn't "lagging."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Downloading (Yes, Really)
@@ -119,16 +133,16 @@ Arrowhead Game Studios
 
  However, installing something from local media is not "downloading". That only applies to data that you receive from a server.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Ray Tracing
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -157,5 +171,24 @@ Cianna Garrison / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-blueprint-for-success-three-core-writing-principles-for-compelling-fb-ad-content/"><u>[New] 2024 Approved A Blueprint for Success Three Core Writing Principles for Compelling FB Ad Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-perfect-the-art-of-note-taking-mematic-way/"><u>[New] Perfect the Art of Note-Taking - Mematic Way</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-selecting-superior-5k-displays-the-top-eight/"><u>[Updated] 2024 Approved Selecting Superior 5K Displays The Top Eight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-iphone-with-the-world-of-podcasts/"><u>[Updated] Harmonizing iPhone with the World of Podcasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>[Updated] Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-silent-story-consumers-leading-anonymity-apps-for-2024/"><u>[Updated] Silent Story Consumers Leading Anonymity Apps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 13 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-screen-use-creating-picture-in-picture-videos-on-macos/"><u>In 2024, Innovative Screen Use Creating Picture in Picture Videos on macOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-garmins-elite-forerunner-e-745-a-game-changer-in-fitness-tracking-technology/"><u>The Comprehensive Review of Garmin's Elite Forerunner E 745: A Game-Changer in Fitness Tracking Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-logitech-c920-pro-hd-webcam-uncovered-a-thorough-review-of-its-exceptional-video-quality-features/"><u>The Logitech C920 Pro HD Webcam Uncovered: A Thorough Review of Its Exceptional Video Quality Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-must-know-insights-before-investing-in-an-unlocked-phone-model/"><u>The Must-Know Insights Before Investing in an Unlocked Phone Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-netgear-nighthawk-ax8-extender-unveiled-revolutionizing-router-coverage-for-wi-fi-6-networks/"><u>The Netgear Nighthawk AX8 Extender Unveiled: Revolutionizing Router Coverage for Wi-Fi 6 Networks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-a71-5g-reviewed-why-its-a-wise-alternative-to-expensive-flagship-models/"><u>The Samsung Galaxy A71 5G Reviewed - Why It's a Wise Alternative to Expensive Flagship Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-blueear-wireless-bluetooth-beanie-stylish-headwear-meets-great-sound-quality/"><u>The Ultimate Guide to the Blueear Wireless Bluetooth Beanie: Stylish Headwear Meets Great Sound Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-entertaining-games-to-beat-boredom-anywhere-anytime/"><u>Top 10 Entertaining Games to Beat Boredom Anywhere, Anytime</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-long-distance-wireless-routers-reviews-and-comparisons/"><u>Top Long-Distance Wireless Routers - Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-your-access-steps-to-score-free-study-streaming-with-tidal/"><u>Unlock Your Access: Steps to Score Free Study Streaming with Tidal</u></a></li>
+</ul></div>
 

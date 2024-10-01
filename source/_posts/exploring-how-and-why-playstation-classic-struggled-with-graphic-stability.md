@@ -1,7 +1,7 @@
 ---
 title: Exploring How and Why PlayStation Classic Struggled with Graphic Stability
-date: 2024-09-14T02:59:43.746Z
-updated: 2024-09-15T09:15:52.087Z
+date: 2024-09-25T21:32:28.515Z
+updated: 2024-10-01T18:35:11.496Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It’s All About Floating Points
 
  Modern GPU performance is often measured ([controversially](https://hardware-help.techidaily.com/brother-hl-2280dw-driver-package-universal-download-for-windows-11-windows-10-windows-8-and-7-users/)) in FLOPs or FLoating Point Operations. This is simply math involving floating point numbers, which in turn are simply whole numbers with a decimal point. The PlayStation's graphics processor had zero FLOPs, because it lacked an FPU or Floating Point Unit. Instead, it uses fixed-point integers to calculate the positions of vertices.
@@ -36,10 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
@@ -47,6 +54,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Texture mapping is the process of adding textures (which are basically digital pictures) to a polygon wireframe. It's basically the "skin" of a 3D object. The PS1 uses a method known as "affine" texture mapping, which uses simple math to determine the coordinates on the polygon where the texture should be drawn. Affine texture mapping does not take Z-coordinates into account, and so perspective projection will appear incorrect for 3D objects. Remember the PS1 has no Z-buffer!
 
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
 
@@ -61,16 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -94,5 +102,24 @@ Sydney Louw Butler / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-the-photopea-blueprint-for-flawless-image-backdrop/"><u>[New] The Photopea Blueprint for Flawless Image Backdrop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-claim-the-crown-strategies-for-staff-picked-videos-at-vimeo-for-2024/"><u>[Updated] Claim the Crown Strategies for Staff-Picked Videos at Vimeo for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-replay-retro-thrills-top-5-ps1-game-emulators-reviewed-for-pc/"><u>[Updated] Replay Retro Thrills - Top 5 PS1 Game Emulators Reviewed for PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-pathway-to-earning-facebook-written-by-your-assistant/"><u>2024 Approved The Pathway to Earning Facebook’ Written by Your Assistant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-update-errors-on-your-windows-11-system-a-comprehensive-fix-for-the-notorious-error-0x8020390541-issue/"><u>Conquer Update Errors on Your Windows 11 System: A Comprehensive Fix for the Notorious Error 0X80^20390541 Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-photography-narrative-assembler-kit/"><u>Elite Photography Narrative Assembler Kit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hide-your-identity-share-your-life-instagram-live-secrets-for-2024/"><u>Hide Your Identity, Share Your Life - Instagram Live Secrets for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-approach-to-preserving-your-ps4-experience/"><u>In 2024, The Ultimate Approach to Preserving Your PS4 Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-assessment-of-the-hp-15-inch-notebook-featuring-an-amd-chip-is-it-practical/"><u>Performance Assessment of the HP 15 Inch Notebook Featuring an AMD Chip - Is It Practical?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-insights-on-pioneers-bdr-xd05b-addressing-its-design-flaws-and-capabilities/"><u>Performance Insights on Pioneer's BDR-XD05B: Addressing Its Design Flaws and Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-features-face-off-ipad-air-4-versus-galaxy-tab-s7plus-unveiled/"><u>Premium Features Face Off: IPad Air 4 Versus Galaxy Tab S7+ Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pushing-limits-review-of-jabra-steel-tier-buds/"><u>Pushing Limits: Review of Jabra Steel-Tier Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-motorola-one-hyper-standout-features-in-a-competitive-mid-range-phone-market/"><u>Reviewing the Motorola One Hyper - Standout Features in a Competitive Mid-Range Phone Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-vinyl-playback-with-audio-techs-turntable-at-lp120xusb/"><u>Revolutionizing Vinyl Playback with Audio-Tech's Turntable, AT-LP120XUSB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syma-x8-series-flyer-test-flight-budget-friendly-indoor-drone-experience/"><u>Syma X8 Series Flyer Test Flight: Budget-Friendly Indoor Drone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-acer-chromebook-15-exposed-balancing-size-and-efficiency-for-a-top-browser-experience/"><u>The Acer Chromebook 15 Exposed - Balancing Size and Efficiency for a Top Browser Experience</u></a></li>
+</ul></div>
 

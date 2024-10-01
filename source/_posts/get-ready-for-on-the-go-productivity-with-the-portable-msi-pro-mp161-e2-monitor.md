@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-09-25T17:08:15.425Z
-updated: 2024-09-26T18:15:57.588Z
+date: 2024-09-29T20:16:33.807Z
+updated: 2024-10-01T19:25:19.734Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -42,6 +42,13 @@ Lifewire / Andy Zahn
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -98,10 +105,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
@@ -121,10 +128,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
@@ -157,13 +164,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -188,6 +188,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
@@ -210,13 +217,6 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -224,10 +224,10 @@ Lifewire / Andy Zahn
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -264,20 +264,21 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-merge-soundtracks-and-cinematography-in-premiere-pro/"><u>[New] Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-tech-top-10-webcam-recorders-in-win-11/"><u>[Updated] 2024 Approved Essential Tech Top 10 Webcam Recorders in Win 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-maximizing-fun-finding-hot-images-at-pexelscom/"><u>2024 Approved Maximizing Fun Finding Hot Images at Pexels.com</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/building-empires-in-imperator-rome-a-comprehensive-game-overview/"><u>Building Empires in Imperator: Rome – A Comprehensive Game Overview</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/buyers-guide-top-5-features-and-aspects-to-assess-for-optimal-health-tracking/"><u>Buyer's Guide: Top 5 Features and Aspects to Assess for Optimal Health Tracking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-unpacking-the-performance-of-chargetechs-high-capacity-27000mah-battery-pack/"><u>Comprehensive Review: Unpacking the Performance of ChargeTech's High-Capacity 27000mAh Battery Pack</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critical-take-on-watch-dogs-legion-series-new-setting-unveiled/"><u>Critical Take on Watch Dogs: Legion - Series' New Setting Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gaming-experience-with-razers-innovative-wi-fi-accessory-comprehensive-insights/"><u>Elevate Your Gaming Experience with Razer's Innovative Wi-Fi Accessory: Comprehensive Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-ultimate-multisport-companion-insights-on-the-garmin-forerunner-745-tracker/"><u>Evaluating the Ultimate Multisport Companion: Insights on the Garmin Forerunner 745 Tracker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-luxury-at-a-fraction-of-price-with-petcubes-hd-petcam/"><u>Experience Luxury at a Fraction of Price with Petcube's HD Petcam</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974480901-get-your-hands-on-professional-behringer-driver-packs-free-download/"><u>Get Your Hands on Professional Behringer Driver Packs - Free Download!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcasters-playbook-submitting-to-apple/"><u>In 2024, Podcaster's Playbook Submitting to Apple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-most-recent-drivers-for-amd-radeon-hd-graphics-on-windows-os/"><u>Install the Most Recent Drivers for AMD Radeon HD Graphics on Windows OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a15-4g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A15 4G Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtubes-economic-model-month-to-month-income/"><u>[New] 2024 Approved YouTube's Economic Model Month-to-Month Income?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-clinical-manifestations-of-fetal-alcohol-syndrome/"><u>[Updated] 2024 Approved Clinical Manifestations of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-efficient-youtube-to-mpeg-transcoding/"><u>[Updated] Expert Tips for Efficient YouTube-to-MPEG Transcoding</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-smartwatch-insights-a-detailed-look-at-the-compact-power-of-the-fitbit-versa/"><u>Affordable Smartwatch Insights: A Detailed Look at the Compact Power of the Fitbit Versa</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/barnes-and-noble-nook-glowlight-3/"><u>Barnes & Noble Nook GlowLight 3</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-iphone-models-for-serious-gamers-a-comprehensive-guide/"><u>Best iPhone Models for Serious Gamers: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/brave-new-world-of-outdoor-viewing-with-sunbriteveranda-the-ultimate-55-inch-hdr-ready-television/"><u>Brave New World of Outdoor Viewing with SunBriteVeranda - The Ultimate 55-Inch, HDR Ready Television</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-official-nvidia-drivers-for-geforce-rtx-3070-ti-on-your-win-11-8-or-7-pc/"><u>Install Official NVIDIA Drivers for GeForce RTX 3070 Ti on Your Win 11, 8 or 7 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-legion-go-the-future-in-your-hands/"><u>Lenovo Legion Go - The Future in Your Hands</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/paws-and-playtime-interactive-pet-game/"><u>Paws & Playtime: Interactive Pet Game</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ty-guffaws-uncover-the-top-15-youtube-comedy-talents/"><u>Quality Guffaws Uncover the Top 15 YouTube Comedy Talents</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-rog-gt-ax110-router-review-for-gamers-high-speeds-and-robust-features/"><u>The Ultimate Guide to the Asus ROG GT-AX110# Router Review for Gamers, High Speeds and Robust Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-ax6000-vs-netgear-nighthawk-ax12-which-router-reigns-supreme/"><u>TP-Link Archer AX6000 vs NETGEAR Nighthawk AX12: Which Router Reigns Supreme?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211031652-wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here!</u></a></li>
 </ul></div>
 

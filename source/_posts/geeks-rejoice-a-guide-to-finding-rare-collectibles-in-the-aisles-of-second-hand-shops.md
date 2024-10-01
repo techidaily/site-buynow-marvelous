@@ -1,7 +1,7 @@
 ---
 title: "Geeks Rejoice: A Guide to Finding Rare Collectibles in the Aisles of Second-Hand Shops"
-date: 2024-09-04T20:04:11.658Z
-updated: 2024-09-05T20:04:11.658Z
+date: 2024-09-26T17:17:58.135Z
+updated: 2024-10-01T16:06:41.403Z
 tags:
   - games
   - tv
@@ -40,35 +40,24 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![Used copies of Dragon's Dogma, Darksiders II, and Unreal Tournament III for Xbox 360.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/used_games.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Many such stores also have a locked cabinet, usually at the front of the shop, where they store more desirable objects. These can include cartridges for older systems like the SNES and N64, or old “big box” PC games which are highly collectible.
 
  Just make sure you’re not taken for a ride on the price. We recommend having a quick search on eBay to see [what prices such items have sold for in the past](https://tech-haven.techidaily.com/deciphering-the-difference-an-expert-guide-to-understanding-gpt-vs-bert-in-natural-language-processing/). This is especially true when the cartridges may not work at all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Game Consoles and Accessories
 
  I bought a Wii from a charity shop for AUD$20 about five years ago. It was in a plastic bag with some Wii Remotes, a Wii Motion Plus adapter, and all of the cables and light bars I needed to get it working. Even though Nintendo shifted a lot of Wii consoles, I’ve still never seen a cheaper console.
 
 ![A slightly yellowed but still functional Wii Remote, Wii Motion Plus, and Wii Nunchuk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wii_remote.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -94,12 +83,6 @@ Santi S / Shutterstock.com
 
  These displays are great for old PC builds and retro consoles. If you don’t have the room or inclination and you still want to play on original hardware, consider spending your money on a [RetroTink](https://www.retrotink.com) or [Open Source Scan Converter](https://www.retrorgb.com/ossc.html) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  PC Parts and Electronics
 
  From beige boxes to PCI sound cards, you’ll be amazed at what you might find tucked away at the back of a thrift store. This is where I found a boxed USB Apple SuperDrive, the only optical drive I still own that isn’t attached to a game console. It sure came in handy that time I needed to check the contents of some old CDs I burned a long time ago.
@@ -107,11 +90,12 @@ Santi S / Shutterstock.com
 ![An Apple USB SuperDrive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/super_drive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
 [Old PC builds](https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-v30-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/) need old PC parts, and thrift stores can help with that. You might find an old graphics card, cooler, optical drive, or some fans. You definitely shouldn’t pick up an old power supply unit, we recommend buying only new PSUs.
@@ -130,17 +114,18 @@ Tim Brookes / How-To Geek
 
 ![A selection of 35mm single lens reflex cameras.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/35mm_camera.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  If you’re lucky you’ll stumble across something really special, like a twin lens reflex (TLR) camera or a box camera that, if nothing else, will look great on a shelf somewhere in your house. But these items are better if you can use them, and in the case of lenses, you can do wonders with a [lens adapter](https://facebook-record-videos.techidaily.com/updated-understanding-the-criteria-for-youtube-comment-spotlighting/).
 
  If you can work out what camera system the lens was originally designed for, you can probably find a lens adapter that will work with a modern camera system. You’ll lose a few stops of light and autofocus, but you’ll get a unique look to your images and videos that only decades of decay can provide. There’s also something fun about the challenge of giving an old piece of glass a new life.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Vinyl and CDs
 
@@ -150,16 +135,24 @@ Tim Brookes / How-To Geek
 
 ![Electric Light Orchestra's Out of the Blue on vinyl.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/elo_vinyl.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  I’ve been lucky in this regard, but I’m a bit of a weirdo. I buy a lot of spoken word vinyl, sound effects, and stock audio archives, and anything that looks a bit strange. It’s a bit of fun, but I also have grand plans to build [a sample library that I can use to make music](https://youtube-web.techidaily.com/tarting-strong-with-these-trendy-15-video-intros-for-2024/) one day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Blu-Rays (and DVDs)
 
  Did you know that [there’s never been a better time to start a Blu-ray collection](https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-drfone-by-drfone-virtual-android/)? Streaming services are getting more expensive, offer sub-par quality streams, and forego the extras you get on disc releases. More importantly, enough time has passed for Blu-rays to start showing up in thrift stores.
@@ -168,17 +161,24 @@ Tim Brookes / How-To Geek
 
 ![Dark City on Blu-ray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/dark_city_bluray.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  DVDs are even cheaper and more abundant. They might not have the same quality as a Blu-ray, but they’re still packed with special features and you’ve probably got an old player somewhere that you can put to good use.
 
  Sometimes you can find some real oddities, like releases that are hard to find, obscure films you’ve never heard of, or those weird DVD games that definitely weren’t worth the retail price they launched at.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Donate This Stuff Too
 
@@ -192,8 +192,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +199,20 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-the-melody-of-text-vocal-styling-for-ppt/"><u>[New] In 2024, Mastering the Melody of Text Vocal Styling for PPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones-for-2024/"><u>[Updated] Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prepping-for-the-latest-macos-big-sur-update/"><u>[Updated] Prepping for the Latest MacOS Big Sur Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-overcoming-hd-audio-driver-hiccups-for-realtek-alc887-in-windows/"><u>Comprehensive Guide to Overcoming HD Audio Driver Hiccups for Realtek ALC887 in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-imovie-para-windows-gratis-e-oficial-download-mais-seguro/"><u>Download iMovie Para Windows Grátis E Oficial - Download Mais Seguro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-hunt-best-historical-youtubes-that-every-student-should-watch/"><u>In 2024, Channel Hunt Best Historical YouTubes That Every Student Should Watch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-creating-ken-burns-transitions-in-camtasia-9-a-step-by-step-guide/"><u>In 2024, Creating Ken Burns Transitions in Camtasia 9 A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-code-4-error-a-compre-cookie-guide/"><u>Tackling the Code 4 Error: A Compre Cookie Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-new-imac-m1-unveiled-an-ultimate-blend-of-style-speed-and-visual-excellence/"><u>The New iMac M1 Unveiled: An Ultimate Blend of Style, Speed, and Visual Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-asus-zephyrus-g14-uncompromised-quality-for-serious-gamers/"><u>The Ultimate Verdict on Asus Zephyrus G14: Uncompromised Quality for Serious Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-uniherz-atom-xl-showdown-how-a-small-phone-packs-big-rugged-strength/"><u>The Uniherz Atom XL Showdown: How a Small Phone Packs Big Rugged Strength</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-11-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 11 5G Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-bluetooth-mouse-picks-for-23/"><u>Top-Ranking Bluetooth Mouse Picks for 2#!3</u></a></li>
+</ul></div>
 

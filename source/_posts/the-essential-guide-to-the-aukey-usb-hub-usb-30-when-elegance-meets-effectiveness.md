@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to the Aukey USB Hub (USB 3.0): When Elegance Meets Effectiveness"
-date: 2024-09-20T16:21:04.033Z
-updated: 2024-09-26T17:57:12.260Z
+date: 2024-09-25T18:40:30.674Z
+updated: 2024-10-01T18:20:35.970Z
 categories:
   - BestProducts
 description: "This Article Describes The Essential Guide to the Aukey USB Hub (USB 3.0): When Elegance Meets Effectiveness"
@@ -36,13 +36,6 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
@@ -65,6 +58,13 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -72,10 +72,10 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -87,10 +87,10 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -131,13 +131,6 @@ Lifewire / Kelsey Simon
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -149,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,17 +173,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-humor-harvesters-making-memes-without-a-price-tag/"><u>[New] In 2024, Humor Harvesters Making Memes Without a Price Tag</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>[New] In 2024, Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-performance-an-insider-look-at-the-nvidia-shield-tv-pro-for-avid-streamers/"><u>Decoding Performance: An Insider Look at the Nvidia Shield TV Pro for Avid Streamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-hdmi-connectivity-issues-on-your-windows-11-pc-with-a-tv/"><u>Diagnosing and Fixing HDMI Connectivity Issues on Your Windows 11 PC with a TV</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-highly-rated-asus-routers-for-optimal-performance/"><u>Discover the Most Highly-Rated Asus Routers for Optimal Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-delightful-gaming-experiences-with-pokemon-a-guide-to-shining-pearl/"><u>Discovering Delightful Gaming Experiences with Pokemon: A Guide to 'Shining Pearl'</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dont-miss-out-epic-prime-day-discounts-on-state-of-the-art-tribit-audio-devices/"><u>Don't Miss Out: Epic Prime Day Discounts on State-of-the-Art Tribit Audio Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/embark-on-a-remarkable-quest-with-yokus-island-express-adventure-revealed/"><u>Embark on a Remarkable Quest with Yoku's Island Express Adventure Revealed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-initial-setup-failures-in-the-latest-renderer-fixes-from-2n21/"><u>How To Address Initial Setup Failures in the Latest Renderer Fixes From 2N21</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-ip-retrieval-via-command-line/"><u>Mastering: Windows IP Retrieval via Command Line</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-essential-websites-for-obtaining-free-and-unlicensed-outro-tracks-for-2024/"><u>New Essential Websites for Obtaining Free and Unlicensed Outro Tracks for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-in-place-kernel-errors-swiftly/"><u>Ultimate Guide: Resolving In-Place Kernel Errors Swiftly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-frame-fixer-query-solutions/"><u>[New] The Frame Fixer Query Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-youtube-presence-with-strategic-banners/"><u>[Updated] 2024 Approved Enhancing YouTube Presence with Strategic Banners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-in-depth-analysis-of-rayman-legends-where-quality-meets-classic-sideways-action/"><u>An In-Depth Analysis of Rayman Legends - Where Quality Meets Classic Sideways Action!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/can-you-afford-not-to-sign-up-for-youtube-tv/"><u>Can You Afford Not to Sign Up for YouTube TV?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-reviews-of-minecraft-the-go-to-game-for-all-generations/"><u>Comprehensive Reviews of Minecraft: The Go-To Game for All Generations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compressive-strength-is-vital-for-dental-restorative-materials-to-resist-forces-of-mastication/"><u>Compressive Strength Is Vital for Dental Restorative Materials to Resist Forces of Mastication</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-conquer-audio-production-a-comprehensible-guide-to-podcast-editing/"><u>In 2024, Conquer Audio Production A Comprehensible Guide to Podcast Editing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-v30-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo V30 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-leading-brands-in-top-15-4k-recording/"><u>In 2024, Leading Brands in Top 15 4K Recording</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-cameras-that-deliver/"><u>Inexpensive Cameras That Deliver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-wisdom-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nook-glowlight-3-by-barnes-and-noble-a-comprehensive-review-for-evening-readers/"><u>Nook GlowLight 3 by Barnes & Noble: A Comprehensive Review for Evening Readers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-opengl32dll-file-not-present-issue-a-step-by-step-guide/"><u>Solving the OpenGL32.dll File Not Present Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-10-most-engaging-game-options-for-when-you-feel-dull/"><u>The 10 Most Engaging Game Options for When You Feel Dull</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-boosting-internet-performance-at-home-or-work/"><u>The Ultimate Guide to Boosting Internet Performance at Home or Work</u></a></li>
 </ul></div>
 

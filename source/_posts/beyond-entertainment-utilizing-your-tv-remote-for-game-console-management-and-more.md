@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2024-09-10T19:15:50.238Z
-updated: 2024-09-15T08:22:37.164Z
+date: 2024-09-29T17:42:28.199Z
+updated: 2024-10-01T20:01:59.350Z
 tags:
   - games
   - tv
@@ -33,6 +33,13 @@ Jordan Gloor / How-To Geek
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Ultimate Solution: HDMI-CEC
 
  HDMI Consumer Electronics Control, or HDMI-CEC for short, is essentially a single connection wire that can link multiple devices to one input, which can also be compartmentalized internally. In essence, it lets all your devices communicate with each other directly and respond to inputs from a single TV remote.
@@ -43,19 +50,6 @@ Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Set up HDMI-CEC on Your TV
 
  Before you can start controlling your consoles or multimedia devices with one remote, you'll need to enable the function on your TV. While most TVs manufactured in recent years include this functionality, the tricky part is finding it in your settings.
@@ -64,15 +58,22 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Console
@@ -84,13 +85,6 @@ Jason Fitzpatrick / How-To Geek
  On the PlayStation 5, navigate to the console's HDMI settings under Settings > System > HDMI, where you should find an option called "Enable HDMI Device Link." You can also turn on "One-Touch Play" to make your PS5 automatically boot up and switch to the proper input upon turning on your TV and "Power Off Link" to make it enter rest mode when your TV shuts off.
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
@@ -114,6 +108,13 @@ Jason Fitzpatrick / How-To Geek
 
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Say goodbye to relying on a console's controller to whenever you want to watch Netflix or getting up to find a missing remote. Turn on HDMI-CEC and see just how painless your media habits can become.
@@ -135,5 +136,22 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/"><u>[New] 2024 Approved Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quickest-way-to-entertain-kapwing-memes/"><u>[Updated] The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/11itunesiphone/"><u>11高效率跳过iTunes转移iPhone图片到电脑的方法</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-razers-portable-solution-for-gamers-enhanced-wi-fi-connectivity-unveiled/"><u>A Closer Look at Razer’s Portable Solution for Gamers - Enhanced Wi-Fi Connectivity Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722960097015-affordable-excellence-in-gaming-pcs-the-comprehveiw-of-hps-omen-obelisk/"><u>Affordable Excellence in Gaming PCs: The Comprehveiw of HP's Omen Obelisk.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apex-choice-of-keyboard-palm-rest-mats-ergonomic-selections-for-the-year-2024/"><u>Apex Choice of Keyboard Palm Rest Mats: Ergonomic Selections for the Year 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/asmr-excellence-superior-performance-for-less-money-for-2024/"><u>ASMR Excellence Superior Performance for Less Money for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assassins-creed-valhalla-and-its-monumental-journey-through-medieval-lore-a-game-review/"><u>Assassin's Creed: Valhalla and Its Monumental Journey Through Medieval Lore – A Game Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-bw-16d1c-u-blu-ray-drive-insight-a-combination-of-style-and-quirkiness-explored/"><u>Asus BW-16D1C-U Blu-Ray Drive Insight: A Combination of Style and Quirkiness Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-online-safety-what-are-the-top-6-security-risks-to-watch-out-for/"><u>ChatGPT and Online Safety - What Are the Top 6 Security Risks to Watch Out For?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-future-proofing-healthcare/"><u>ChatGPT's Role in Future-Proofing Healthcare</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-mycams-video-recording-quality-and-efficiency-for-2024/"><u>Exploring MyCam's Video Recording Quality and Efficiency for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M34 5G Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723070955380-top-apple-offers-on-prime-day-exclusive-discounts-and-savings/"><u>Top Apple Offers on Prime Day: Exclusive Discounts & Savings!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-a-closer-look-at-kobo-clara-colour/"><u>Unveiling The Features - A Closer Look at Kobo Clara Colour</u></a></li>
+</ul></div>
 

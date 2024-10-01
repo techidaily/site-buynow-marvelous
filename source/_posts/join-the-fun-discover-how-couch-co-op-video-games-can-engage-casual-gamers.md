@@ -1,7 +1,7 @@
 ---
 title: Join the Fun! Discover How Couch Co-Op Video Games Can Engage Casual Gamers
-date: 2024-09-04T20:04:14.179Z
-updated: 2024-09-05T20:04:14.179Z
+date: 2024-09-29T17:15:23.717Z
+updated: 2024-10-01T20:59:23.440Z
 tags:
   - games
   - tv
@@ -48,6 +48,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 **Play it on:** Xbox, Playstation 4/5, Nintendo Switch, Windows
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 _Escape Academy_ 
 
  Do you love escape rooms? Maybe you love the _idea_ of escape rooms but lack the inclination to get off the sofa. _Escape Academy_ brings escape rooms into the digital realm, fusing cooperative puzzle-solving with the kind of situations that would be too dangerous and farfetched to experience in real life.
@@ -55,6 +62,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 _Escape Academy_ is a first-person title but one that emphasizes brainpower over reaction time. The game encourages you to keep a pen and paper handy, writing down clues and ciphers as you go. It’s a lot of fun, and there are even some paid expansions available if you want to keep playing after seeing the credits.
 
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 _Overcooked (1 & 2)_ 
 
@@ -89,11 +103,18 @@ _Halo_ was one of the first titles that not only proved that first-person shoote
 **Play it on:** Xbox, Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8 _Diablo IV_ 
 
 _Diablo_ is a legendary action RPG that’s all about collecting loot, leveling up, and experimenting with different play styles. 2023’s _Diablo IV_ is the latest installment in the series, and we’d recommend starting there since the game is set to receive support for many years to come. That said, _Diablo III_ is still worth a shot and also includes couch co-op.
@@ -103,11 +124,12 @@ _Diablo_ is a legendary action RPG that’s all about collecting loot, leveling 
 **Play it on:** Xbox, PlayStation 4/5
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9 _Borderlands_ 
 
 _Borderlands_ is a looter shooter in the same vein as _Diablo_, albeit from a first-person perspective. Pick a class, team up in split-screen (or online), and head out blasting everything in sight. The game’s leveling and loot systems keep you engaged, with heaps of upgrades and procedurally generated guns, armor, grenades, and more to continually surprise you.
@@ -116,12 +138,6 @@ _Borderlands_ is a looter shooter in the same vein as _Diablo_, albeit from a fi
 
 **Play it on:** Xbox 360/Xbox, PlayStation 3/4/5, Nintendo Switch, Windows, Linux, Mac
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10 _Terraria_ 
 
 _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also happens to have compelling local co-op play. Unlike _Minecraft_, _Terraria_’s 2D perspective makes it feel like a more accessible game to newcomers. It’s easy to pick up, and easy to get other people sucked into the world.
@@ -131,11 +147,12 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows, Linux, Mac
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 11 _Minecraft Dungeons_ 
 
  The _Minecraft_ universe has spawned several spin-offs, but none are as compelling as _Minecraft Dungeons_, a top-down dungeon-crawling RPG. It’s a highly accessible hack-and-slash adventure game with procedurally-generated levels and endless loot drops.
@@ -144,18 +161,6 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
 
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12 _Golf with Your Friends_ 
 
  Though golf is technically a competitive game, it can feel more like a pastime than a truly competitive sport. _Golf with your Friends_ continues the tradition of surprisingly compelling golf video games, offering “crazy golf” style courses that are just perfect for hanging out.
@@ -164,12 +169,6 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
 
 **Play it on:** Xbox, PlayStation 4/5, Nintendo Switch, Windows, Mac, Linux
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13 _Quake_ (and _Quake II_) 
 
  Both _Quake_ and _Quake II_ have received re-releases for modern platforms, and split-screen local play is arguably one of the best upgrades. Not only can you play competitive deathmatch modes like this, but you can also run through the campaigns.
@@ -196,8 +195,6 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +202,22 @@ _Terraria_  is a 2D sandbox about exploring, crafting, and survival that also ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-premiere-pro-full-screen-insight/"><u>[New] Complete Premiere Pro Full Screen Insight</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dive-into-the-deep-end-of-facebook-meme-culture/"><u>[New] In 2024, Dive Into The Deep End of Facebook Meme Culture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-sims-4-immersion-how-to-record-successfully/"><u>[New] In 2024, Sims 4 Immersion How to Record Successfully</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers-for-2024/"><u>[New] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-guide-to-designing-youtube-follow-links-for-2024/"><u>[Updated] Effortless Guide to Designing YouTube Follow Links for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elevate-your-online-engagements-the-ultimate-guide-to-slack-and-filmora/"><u>2024 Approved Elevate Your Online Engagements The Ultimate Guide to Slack & Filmora</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-google-pixel-fold-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Google Pixel Fold Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 7 Plus Safe and Legal</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-showcase-splendor-best-cover-apps-for-iphones-and-android/"><u>In 2024, Showcase Splendor Best Cover Apps for iPhones & Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-amazing-deals-on-samsung-electronics-this-prime-sales-celebration/"><u>Unlock Amazing Deals on Samsung Electronics This Prime Sales Celebration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-full-potential-of-raw-photos-using-free-darktable-editor-on-os-x-and-linux-platforms/"><u>Unlock Full Potential of Raw Photos Using Free Darktable Editor on OS X & Linux Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-best-value-phone-contracts-of-2024-save-money-without-sacrificing-quality/"><u>Unlock the Best Value Phone Contracts of 2024 – Save Money Without Sacrificing Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-of-jackery-powerbar-charger-including-its-handy-built-in-ac-port/"><u>Unveiling the Features of Jackery PowerBar Charger, Including Its Handy Built-In AC Port</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-of-the-2019-tcl-32s325-smart-led-with-roku-brains-meet-beauty/"><u>Unveiling the Features of the 2019 TCL 32S325 Smart LED with Roku: Brains Meet Beauty</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-apples-latest-creation-a-detailed-review-of-the-macbook-pro-m1-2021-with-a-16-display/"><u>Unveiling the Power of Apple's Latest Creation: A Detailed Review of the MacBook Pro (M1, 2021) with a 16 Display</u></a></li>
+</ul></div>
 

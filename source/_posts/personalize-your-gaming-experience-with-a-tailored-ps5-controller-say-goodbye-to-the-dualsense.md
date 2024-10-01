@@ -1,7 +1,7 @@
 ---
 title: Personalize Your Gaming Experience with a Tailored PS5 Controller – Say Goodbye to the DualSense
-date: 2024-09-10T05:20:30.745Z
-updated: 2024-09-15T08:15:49.153Z
+date: 2024-09-28T20:07:25.965Z
+updated: 2024-10-01T17:30:32.440Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sony's DualSense PS5 controller seems to be a hit with many, but it's certainly not for everyone. If you're not enjoying the DualSense, you can pick up a custom controller for a more enjoyable experience.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Makes a Good Custom PS5 Controller?
 
 ![PDP Victrix Pro with parts around it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pdp-victrix-pro-3.jpg) 
@@ -35,6 +42,13 @@ Kris Henges / How-To Geek
 
  Whether you need the customization to lower hand strain or just because you like a special grip or joystick, customizing your own controller is the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Where Can I Get a Custom PS5 Controller?
 
 ![The Nacon Revolution Pro 5 Controller and its accessories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53329709296_b4c6d167ae_o.jpg) 
@@ -45,6 +59,19 @@ Sergio Rodriguez / How-To Geek
 
  Alternatively, you can look for third-party controllers that meet your needs. For example, while the [PDP Victrix Pro](https://www.amazon.com/gp/product/B0CRZ7KFKZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004061&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdualsense-not-doing-it-for-you-get-a-custom-ps5-controller-instead%2F&asc%5Fcampaign=Evergreen) is not something you can customize with the retailer, you'll get enough options out of the box to swap things out to your tastes. This includes joysticks of different heights, and sometimes even the ability to customize button layouts (like the Victrix Pro's Fightpad).
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Be Prepared to Spend More on a Custom Controller
 
  If you want a custom controller, you'll need to be prepared to pay a premium price. The [DualSense](https://www.amazon.com/PlayStation-DualSense%C2%AE-Wireless-Controller-Midnight-5/dp/B0CQKKHT5J?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004061&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdualsense-not-doing-it-for-you-get-a-custom-ps5-controller-instead%2F&asc%5Fcampaign=Evergreen) retails at $69, which is no small amount, but custom controllers easily go above $100, and many can get past $200\. When I made a custom Reflex controller with SCUF, it was over $300 and didn't include all the bells and whistles. Meanwhile, the Victrix Pro is $180, but the controller is missing rumble features, which are standard in many controllers.
@@ -52,22 +79,15 @@ Sergio Rodriguez / How-To Geek
  It can be hard to justify the price if you think the DualSense is 'good enough'. You can easily buy two standard DualSense controllers for the price of one custom one. But if you're serious about your PS5 gameplay experience, it's worth the investment.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The DualSense Edge Feels Like a Custom Controller
 
 ![Thumstick caps on the DualSense Edge controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_thumstick_caps.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sony
 
@@ -92,5 +112,18 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-streamselect-an-alternative-to-dacast-for-2024/"><u>[New] StreamSelect An Alternative to DaCast for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlock-image-potential-with-editors-essentials-for-2024/"><u>[Updated] Unlock Image Potential with Editor's Essentials for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/before-you-launch-the-importance-of-web-page-previews-in-uploading/"><u>Before You Launch: The Importance of Web Page Previews in Uploading</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-improvements-with-chatgpt-on-ios-a-comparative-analysis-of-app-vs-web/"><u>Experience Improvements with ChatGPT on iOS: A Comparative Analysis of App Vs. Web</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/has-your-ipad-became-a-thing-of-the-past-in-todays-tech-world/"><u>Has Your iPad Became a Thing of the Past in Today's Tech World?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hewlett-packards-notebook-with-amd-is-this-budget-friendly-option-a-worthy-contender-for-productivity/"><u>Hewlett-Packard’s Notebook with AMD: Is This Budget-Friendly Option a Worthy Contender for Productivity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-install-llama-2-locally/"><u>How to Download and Install Llama 2 Locally</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-orbi-tri-band-whole-home-mesh-network-with-wi-fi-6/"><u>In-Depth Analysis of the Orbi Tri-Band Whole Home Mesh Network with Wi-Fi 6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>In-Depth Analysis of the Samsung Galaxy Tab S4 - The Ultimate Portable Android Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-the-apple-watch-series-9-unveiled/"><u>In-Depth Analysis: The Apple Watch Series 9 Unveiled</u></a></li>
+<li><a href="https://win-news.techidaily.com/ios-browsing-recording-tips-how-to-save-your-mobile-web-traffic/"><u>IOS Browsing Recording Tips: How to Save Your Mobile Web Traffic</u></a></li>
+</ul></div>
 

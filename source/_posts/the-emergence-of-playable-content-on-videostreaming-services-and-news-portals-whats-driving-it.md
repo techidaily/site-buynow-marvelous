@@ -1,7 +1,7 @@
 ---
 title: The Emergence of Playable Content on Videostreaming Services & News Portals - What's Driving It?
-date: 2024-09-08T09:23:39.256Z
-updated: 2024-09-15T05:36:42.112Z
+date: 2024-09-28T18:11:21.028Z
+updated: 2024-10-01T19:47:49.646Z
 tags:
   - games
   - tv
@@ -36,6 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Merriam-Webster webpage displaying quizzes and games](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_142256_samsung-internet.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Games get us to visit a website or open an app out of habit. Sometimes, it's part of our morning routine. Maybe they help us unwind after work. Some are simple enough that they're how we idle away any moment when we feel the slightest unease. And they do this without us needing to open up a search engine except, perhaps, for the very first time we discover them.
 
  How often do you go to a dictionary's website in order to look up a word anymore? Yeah, that feels about as strange now as pulling out an actual dictionary. That's probably why if you head to [Merriam-Webster's website](https://www.merriam-webster.com/), you will see games directly on the homepage. Merriam-Webster and Britannica alike are among the sites offering [word games similar to Wordle](https://www.merriam-webster.com/) in hopes of bringing in regular visitors.
@@ -43,6 +50,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Compared to other streaming platforms, you can make the case that YouTube doesn't need more content. An unfathomable amount gets uploaded every second. On the flip side, we aren't necessarily coming to YouTube for its back catalog. Sure, music videos and game trailers will bring us back every now and then, but old influencer videos don't age as well as Game of Thrones or How I Met Your Mother. Enter YouTube Playables, [games that you can play on YouTube](https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-in-3-different-ways-by-drfone-android/).
 
  YouTube is particularly well setup to capitalize on gaming. It doesn't need to sell you anything. That's not its business model (though [YouTube Premium is a pretty good value](https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-potential-effective-use-of-split-screen-on-facebook/)). Games only need to get you to the site long enough to serve you ads or, even better, recommend a video that catches your attention for even longer so that you watch its ads as well. YouTube just needs games to bring you to the site. It can handle the rest from there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Games Give Extra Reason to Subscribe
 
@@ -58,22 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A grid of games playable on YouTUbe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_151619_samsung-internet.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Games have a stickiness to them. A must-see TV show might get you to subscribe for a month or two. Once you finish all the seasons, unless something else jumps out at you, you're free to cancel. Games, especially puzzle games, can have more longevity. There's no such thing as completing all the crosswords. Come back tomorrow, and there will be a new one.
 
  When was the last time you signed into LinkedIn? It's a social media platform with perhaps an even larger hill to climb than most. You may create an account to help land a job, but once you're hired, you might as well delete the app from your phone until the next job hunt begins. It's not like LinkedIn is a particularly fun place to be—except now [LinkedIn has introduced games](https://youtube-zero.techidaily.com/024-approved-mastering-the-past-through-youtube-top-10-for-students-and-enthusiasts/). How's that for combining work and play?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Games Are a Cheap Investment
 
@@ -82,16 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A low-budget puzzle game can keep people coming back for years. In terms of dollars alone, that can generate more bang for your buck than investing millions per episode into a TV series that ultimately tanks. Before Avengers Endgame, Disney and Marvel were printing money. Since Endgame, we're now watching Disney set those same dollars on fire. We're just not flocking to see each new release anymore. But you know what is a hit? [Marvel Snap](https://www.forbes.com/sites/maryroeloffs/2023/09/01/marvel-snap-becomes-top-grossing-digital-trading-card-game--beating-yu-gi-oh-and-magicthe-gathering-arena/).
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adding Games Is Nothing New
@@ -115,5 +117,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-theme-that-stands-out-crafting-banners-for-gamers/"><u>[New] Theme That Stands Out Crafting Banners for Gamers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cardboard-contrast-google-to-samsung-gear-headset-for-2024/"><u>[Updated] Cardboard Contrast Google to Samsung Gear Headset for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-audio-quality-get-high-quality-fx/"><u>[Updated] Enhance Audio Quality, Get High-Quality FX!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charisma-in-characters-two-ways-to-enliven-text/"><u>[Updated] In 2024, Charisma in Characters Two Ways to Enliven Text</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-soothing-stories-in-video-form-insights-and-critiques/"><u>In 2024, Soothing Stories in Video Form Insights and Critiques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nikon-sb-700-compact-af-speedlight-analysis/"><u>Nikon SB-700: Compact AF Speedlight Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portable-display-mastery-with-the-msi-pro-mp161e2/"><u>Portable Display Mastery with the MSI PRO MP161E2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/redefining-user-experience-with-the-compact-charm-of-samsungs-galaxy-s21/"><u>Redefining User Experience with the Compact Charm of Samsung's Galaxy S21</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-darkness-from-win11-screenscape/"><u>Removing Darkness From Win11 Screenscape</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-7-days-to-die-transforming-the-undead-in-7-nights-on-solo-play/"><u>Review of '7 Days to Die': Transforming the Undead in 7 Nights on Solo Play</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153363520-speak-like-a-socialite-learn-these-30-trending-acronyms-today/"><u>Speak Like a Socialite: Learn These 30 Trending Acronyms Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-ps-games-on-deal-alert/"><u>Unlock the Secrets to PS Games on Deal Alert</u></a></li>
+</ul></div>
 

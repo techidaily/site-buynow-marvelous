@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Live Service Games: How Do They Divide Opinions?"
-date: 2024-09-04T20:03:58.812Z
-updated: 2024-09-05T20:03:58.812Z
+date: 2024-09-27T20:35:32.782Z
+updated: 2024-10-01T18:40:49.100Z
 tags:
   - games
   - tv
@@ -28,18 +28,6 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  From _Fortnite_ to _Suicide Squad_, the number of “live service” games has exploded over the past decade, but what exactly is a “living” game and why do they draw the ire of so many gamers?
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is a Live Service Game?
 
  Also known as “living” games or “Games as a Service,” there are a few ways to define a live service game. These games are typically based upon some form of online multiplayer, built around the idea of constant evolution over time through the release of additional content and updates. Titles are often (but not always) free-to-play.
@@ -57,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
  Some games come close to the live service model without ever being considered “living” in nature. _No Man’s Sky_ is one example where the game has received a huge number of transformative updates, all of which have been free. It’s generally accepted that games like this aren’t “living” (and they’re more often not the exception, rather than the rule).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What's Wrong With Live Service Games?
 
  There has been no shortage of live service games over the past decade, and there is growing evidence to suggest that gamers aren’t as receptive as they once were to the model. In many ways, it feels like there are “right” ways and “wrong” ways to approach games as a service.
@@ -83,11 +72,12 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 _The Crew_ is a dusty old racing game that you might not care for, but the idea that a game that isn’t yet a decade old can be delisted from sale, have its servers switched off, and be completely unplayable is troubling.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Are Live Service Games in Trouble?
 
  The term “live service game” has been known to ruffle feathers and raise eyebrows among the gaming press as more publishers jump on board. In early 2024 this came to something of a head with the release of _Suicide Squad: Kill The Justice League_, published by Warner Brothers and developed by Rocksteady Studios.
@@ -105,17 +95,12 @@ _The Crew_ is a dusty old racing game that you might not care for, but the idea 
  There are so many live service games right now, many of which are probably on your backlog. Established giants like _Fortnite_ and _APEX Legends_ always move forward, and are free to play to get players in the door. It takes something innovative like _[The Finals](https://www.reachthefinals.com)_ with its destructible arenas or _[Foamstars](https://foamstars.square-enix-games.com/en-us/)_ with all the backing of a company like Square Enix to even make a dent, or so it seems.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Some of the Biggest Games in the World Are Live Service Games
 
  Not all live service games are in trouble, and not all live service games have a negative reputation. _Fortnite_ is a good example of a behemoth that seems to go from strength to strength. Continued success in big titles like this seems to concentrate users, many of whom become invested after years of battle passes and unlocks.
@@ -127,11 +112,12 @@ _Fortnite_ is more like a live service platform than just a game. Epic can add e
 ![Helldivers 2 by Arrowhead Game Studios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/helldivers2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Helldivers 2_  
 Arrowhead Game Studios
 
@@ -153,8 +139,6 @@ Arrowhead Game Studios
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +146,20 @@ Arrowhead Game Studios
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-inshot-soundsmith-adding-audio-to-videos-for-2024/"><u>[New] InShot Soundsmith Adding Audio to Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-choices-for-image-capturing/"><u>[Updated] 2024 Approved Elite Choices for Image Capturing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/accurate-and-efficient-video-frame-grabber/"><u>Accurate and Efficient Video Frame Grabber</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/future-proof-wi-fi-solutions-top-mesh-networking-devices-to-watch-in/"><u>Future-Proof Wi-Fi Solutions: Top Mesh Networking Devices to Watch In</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-premium-viewing-with-the-wallet-friendly-lg-prise-model-24lh4830-an-unbeatable-deal/"><u>Get Premium Viewing with the Wallet-Friendly LG Prise Model #24LH4830: An Unbeatable Deal!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-analysis-exceptional-photography-features-on-an-outstanding-smartphone/"><u>Huawei P20 Pro Analysis: Exceptional Photography Features on an Outstanding Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-garmin-venu-a-complete-guide-to-round-the-clock-fitness-tracking/"><u>In-Depth Analysis of the Garmin Venu: A Complete Guide to Round-the-Clock Fitness Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-ring-video-doorbell-pro-an-intelligent-surveillance-solution/"><u>In-Depth Analysis of the Ring Video Doorbell Pro: An Intelligent Surveillance Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insights-and-analysis-on-the-superior-design-of-amazon-kindle-oasis-despite-its-steep-price-tag/"><u>Insights and Analysis on the Superior Design of Amazon Kindle Oasis, Despite Its Steep Price Tag</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-your-pcs-sound-difficulties-in-just-five-simple-steps-windows-11/"><u>Overcome Your PC's Sound Difficulties in Just Five Simple Steps (Windows 11)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-insight-elevating-your-youtube-video-experience-for-2024/"><u>Professional Insight Elevating Your YouTube Video Experience for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x6-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X6 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/revisiting-exe-execution-hurdles-in-windows/"><u>Revisiting EXE Execution Hurdles in Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
-date: 2024-09-22T16:09:51.016Z
-updated: 2024-09-26T18:18:13.469Z
+date: 2024-09-27T21:42:42.810Z
+updated: 2024-10-01T17:07:08.701Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
@@ -62,6 +62,13 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -71,13 +78,6 @@ Lifewire / Erika Rawes
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -99,6 +99,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -107,19 +114,6 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
@@ -127,16 +121,10 @@ Lifewire / Erika Rawes
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -152,10 +140,10 @@ Lifewire / Erika Rawes
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -189,22 +177,15 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-mastering-video-on-twitter-top-converter-picks-for-2024/"><u>[New] Mastering Video on Twitter Top Converter Picks for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-prolific-productions-top-10-text-techniques-to-captivate-viewers/"><u>[New] Prolific Productions Top 10 Text Techniques to Captivate Viewers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-extensive-breakdown-gecata-tracking-device-assessment/"><u>[Updated] 2024 Approved Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723059171133-2024s-leading-keyboard-comfort-accessories-wrist-rests-reviewed-and-ranked/"><u>2024'S Leading Keyboard Comfort Accessories: Wrist Rests Reviewed and Ranked</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/abu-dhabis-guide-5-things-you-must-review-before-getting-a-fitness-tracker/"><u>Abu Dhabi's Guide: 5 Things You Must Review Before Getting a Fitness Tracker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-efficient-the-mohu-leaf-30-antenna4-high-performance-proven-in-our-review/"><u>Affordable and Efficient: The Mohu Leaf 30 Antenna'4 High Performance Proven in Our Review!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-price-release-date-and-specs/"><u>Amazfit Helio Ring: Price, Release Date, and Specs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-compact-cameras-that-offer-good-value-for-money-vixia-hf-r800/"><u>Analyzing Compact Cameras that Offer Good Value for Money – VIXIA HF R800</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/applecare-plus-examination-a-warranty-investment-perspective/"><u>AppleCare Plus Examination: A Warranty Investment Perspective</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bluetooth-wireless-mastery-lihans-lhfm1e39-car-stereo-upgrade-reviewed-now/"><u>Bluetooth Wireless Mastery: Lihan's LHFM1e39 Car Stereo Upgrade Reviewed Now!</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c67-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C67 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-wipe-your-youtube-watch-later-playlist-cleanly-for-2024/"><u>How-To Wipe Your YouTube Watch Later Playlist Cleanly for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a05s-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A05s is off? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-simplescreensaver-easy-app-for-windows-10/"><u>In 2024, SimpleScreenSaver Easy App for Windows 10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/prime-free-tools-to-sketch-unique-discord-icons/"><u>Prime Free Tools to Sketch Unique Discord Icons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-9-most-overlooked-dangers-when-using-ai-for-mental-support/"><u>The 9 Most Overlooked Dangers When Using AI for Mental Support</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/understanding-what-ios-17-could-mean-for-me/"><u>Understanding What iOS 17 Could Mean for Me</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-effortless-podcast-livestream-guide/"><u>[Updated] In 2024, Effortless Podcast Livestream Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dezepraktijk-voorprobleemlos-schermopname-vertrouw-ons-op-movavi/"><u>Dezepraktijk Voorprobleemlos Schermopname - Vertrouw Ons Op Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/efficient-price-affordable-in-car-chargers-unveiled-the-best-of-the-market/"><u>Efficient Price: Affordable In-Car Chargers Unveiled - The Best of the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-moto-g-stylus-exceptional-efficiency-satisfactory-power-life-and-convenient-pen-tool-integration/"><u>Exploring the Features of the Moto G Stylus: Exceptional Efficiency, Satisfactory Power Life, and Convenient Pen Tool Integration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-visual-treasury-select-10-sites-included/"><u>Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-an-apple-aesthetic-at-a-fraction-of-the-cost-with-the-motorola-one-phone-review/"><u>Get an Apple Aesthetic at a Fraction of the Cost with the Motorola One Phone Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x850f-65-inch-flat-screen-tv-a-detailed-price-value-analysis/"><u>Sony XBR65X850F 65-Inch Flat Screen TV: A Detailed Price-Value Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-innovators-defining-next-gen-vr-experiences/"><u>Top Innovators Defining Next-Gen VR Experiences</u></a></li>
 </ul></div>
 

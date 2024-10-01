@@ -1,7 +1,7 @@
 ---
 title: "Embracing Change: Discover What Makes Me Cherish This Newly Launched Gaming Controller"
-date: 2024-09-04T20:04:05.353Z
-updated: 2024-09-05T20:04:05.353Z
+date: 2024-09-26T17:27:18.820Z
+updated: 2024-10-01T18:07:31.162Z
 tags:
   - games
   - tv
@@ -29,18 +29,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  Sure, you can play games using only your phone or a keyboard and mouse, but you'll get the most out of your games with a dedicated controller. The question is, which one do you choose? I'm here to tell you that the [8BitDo Pro 2](https://www.8bitdo.com/pro2/) controller is, hands down, the best controller you can buy.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Controller That James Bond Would Use
 
  Let's get the most important bit out of the way first. Is the Pro 2 controller comfortable to hold? Yes. It feels like the PlayStation and Super Nintendo controllers had a baby.
@@ -52,14 +40,22 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
  The design is subdued and, dare I say, elegant. It's timeless. The black finish looks great paired with anything you want to connect it to. You aren't left with the garish mismatch of trying to hook up an Xbox or PlayStation-branded controller to a PC or phone. Maybe that sort of thing doesn't bother you, but it bothers me.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  All the Buttons You Might Need (and a Few More)
 
 ![Shoulder buttons on the 8BitDo Pro 2 controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080700.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -71,16 +67,17 @@ Bertel King / How-To Geek
 
  But if you want to choose a controller layout that suits the widest range of games, this is the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It Pairs With (Almost) Everything
 
 ![Input switch on the 8BitDo Pro 2 controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080697.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  You would be forgiven for thinking that any Bluetooth controller pairs with any Bluetooth-compatible device. That's not the case. Connecting either an Xbox or PlayStation controller to a Nintendo Switch requires an adapter. Some newer controllers don't work with older mobile games. It can be an exercise in trial and error.
@@ -97,21 +94,16 @@ Bertel King / How-To Geek
  The regular Pro 2 controller doesn't connect to Microsoft's game console, but there is a separate [wired Pro 2 made specifically for the Xbox](https://www.8bitdo.com/pro2-wired-controller-for-xbox/). Unfortunately, there isn't any type of PlayStation compatibility.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  A Rechargeable Battery That Can Be Replaced With AAs
 
 ![8BitDo Pro 2 controller with battery cover removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080699.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Early wireless controllers used disposable batteries. This meant you needed to have a stockpile handy, and your gaming session could come to an abrupt end if you didn't.
@@ -122,12 +114,6 @@ Bertel King / How-To Geek
 
  The Pro 2 comes with a rechargeable pack (that looks like two AAs strapped together) which you can recharge simply by plugging a charger into the controller's USB-C port. You never have to pop off the battery cover if you don't want to, but the option is there for people who want it or to extend the controller's life when the battery pack eventually dies. Like an old WiiMote, the Pro 2 is a controller you can expect to stand the test of time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Make the Controller Your Own
 
 Close 
@@ -150,8 +136,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +143,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-your-yt-presence-and-skyrocket-to-1000plus-fans-for-2024/"><u>[Updated] Elevate Your YT Presence and Skyrocket To 1000+ Fans for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-cutting-edge-obs-use-in-android-broadcasting/"><u>2024 Approved Cutting-Edge OBS Use in Android Broadcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-key-to-combining-linktree-and-tiktok-biographies/"><u>2024 Approved The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-tv-4k-gen3-ultimate-streaming-device-review-for-enhanced-viewing-experience/"><u>Apple TV 4K (Gen3): Ultimate Streaming Device Review for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-rog-rapture-gt-ax11000-a-gamers-dream-come-true-features-speeds-and-reviewed-thoroughly/"><u>Asus ROG Rapture GT-AX11000: A Gamer's Dream Come True - Features, Speeds, and Reviewed Thoroughly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-amazon-basics-flat-antenna-watching-live-tv-without-the-bill/"><u>Budget-Friendly Amazon Basics Flat Antenna: Watching Live TV without the Bill</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-doorbells-demystified-how-the-remobell-offers-value-for-money-under-100/"><u>Budget-Friendly Doorbells Demystified - How the RemoBell Offers Value for Money Under $100</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-mastery-top-ten-designs-to-share-scream-and-chortle/"><u>Meme Mastery Top Ten Designs to Share, Scream & Chortle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/narratives-unleashed-10-adventure-games-reviewed/"><u>Narratives Unleashed #10 Adventure Games Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-with-cookiebot-power-advanced-web-analytics-and-personalization-solutions/"><u>Optimize with Cookiebot Power: Advanced Web Analytics & Personalization Solutions</u></a></li>
+</ul></div>
 

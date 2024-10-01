@@ -1,7 +1,7 @@
 ---
 title: Nintendo Switch Joy-Con Controller Repair Guide & Prevention Tips
-date: 2024-09-04T20:04:22.962Z
-updated: 2024-09-05T20:04:22.962Z
+date: 2024-09-24T17:32:39.336Z
+updated: 2024-10-01T21:04:45.746Z
 tags:
   - games
   - tv
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Alternatively, Buy a New Set](https://fox-hovers.techidaily.com/updated-in-2024-essential-websites-to-drive-youtube-engagement/)
 * [Avoiding Stick Drift in the Future](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a15-4g-pattern-lock-screen-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Highlights
 
 * Stick drift is caused by wear and tear to the analog joystick mechanism, causing the controller to register input and behave erratically.
@@ -31,12 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Joy-Con stick drift has plagued the Nintendo Switch since shortly after release. Having a controller register unwanted movement can ruin your aim and frustrate you when you're trying to relax and play some video games. Fortunately, there are a few things you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is Stick Drift?
 
  The term "stick drift" describes a problem that causes an analog control stick to register input when no force is applied. The stick may drift in a particular direction (for example, to the left), or it may drift in multiple directions depending on the last direction used. Drift may appear suddenly, over time, or seemingly disappear for a while before coming back again.
@@ -52,11 +53,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the plus icon isn't in the center or there's a dot that seems to move erratically or "lean" in a particular direction, your Joy-Con is displaying signs of stick drift.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Causes Stick Drift?
 
  The main cause of stick drift of any kind, [including controllers from Microsoft and Sony](https://some-skills.techidaily.com/in-2024-top-10-list-elite-quality-4k-displays/), is wear and tear. Since the analog stick is a moving part, it's guaranteed to wear out eventually given enough usage.
@@ -67,6 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Damage to the analog sticks may also trigger the problem. This could include spilling liquid on your controller, dropping the controller, or applying excessive downward force on the analog sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Fix 1: Calibrate Your Controller and Dead Zones
 
  If your controller is showing signs of controller drift, the first step to try is a simple calibration. This is especially effective if you have a controller that appears to be pulling in one direction all of the time but is unlikely to help with erratic movements in all directions.
@@ -76,17 +85,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Calibrate Nintendo Switch Joy-Con](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/calibrate_switch_joy_con.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also help mitigate the problem by calibrating controller dead zones within games. This will need to be done on a game-by-game basis and won't fix the issue at a system level, but by increasing the dead zone (the threshold by which an input is registered) you may be able to play some titles without drift appearing at all. Not all games allow you to modify this setting.
 
 ##  Fix 2: Use Nintendo's Joy-Con Repair Program
@@ -105,18 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can then follow iFixit's own handy guide to fixing the [right Joy-Con](https://www.ifixit.com/Guide/Right+Joy-Con+Joystick+Replacement/113185) or [left Joy-Con](https://www.ifixit.com/Guide/Left+Joy-Con+Joystick+Replacement/113182). If you have a Switch Lite with integrated Joy-Con there are separate guides to follow for replacing the [right analog stick](https://www.ifixit.com/Guide/Nintendo+Switch+Lite+Right+Joystick+Replacement/137374) and [left analog stick](https://www.ifixit.com/Guide/Nintendo+Switch+Lite+Left+Joystick+Replacement/137385). You can also use these guides with parts you find for sale elsewhere on the web.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Alternatively, Buy a New Set
 
  Sometimes you need something right away, and if waiting for repairs to arrive or spare parts in the mail doesn't sound particularly appealing, you can always throw money at the problem instead. The [My Nintendo Store](https://www.nintendo.com/us/store/hardware/joy-con-and-controllers/) sells single neon blue, neon red, and gray Joy-Con for $39.99 and refurbished Joy-Con for $29.99\. You can get the full set for $79.99, and you'll have more color options available to you.
@@ -135,12 +133,6 @@ First-party Nintendo Joy-Con controllers in neon pink and neon green. Use the fu
 
  Unfortunately, many third-party controllers feature shoddy build quality and limited features. The HORI Split Pad Pro is comfortable but it lacks internal batteries, motion controls, and an infrared sensor, and it's also prone to drifting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Avoiding Stick Drift in the Future
 
  The easiest way to avoid stick drift is to never use your Switch, but this isn't a practical solution. Instead, keep a copy of your proof of purchase for any warranty claims you may need to make in the future and have fun with your console.
@@ -149,12 +141,6 @@ First-party Nintendo Joy-Con controllers in neon pink and neon green. Use the fu
 
 ![61drpi3cYUL._SL1258_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/61drpi3cyul-_sl1258_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Nintendo Switch Pro Controller
 
 First-party Nintendo Switch Pro Controller for using your console in docked mode or when propped up in a static environment. The controller includes motion controls but lacks the infrared sensor found on the Joy-Con while providing a far more comfortable feel in the hand.
@@ -169,8 +155,6 @@ First-party Nintendo Switch Pro Controller for using your console in docked mode
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +162,26 @@ First-party Nintendo Switch Pro Controller for using your console in docked mode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-total-motion-audit-2023/"><u>[New] 2024 Approved Total Motion Audit 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-income-estimations-for-youtubers/"><u>[Updated] In 2024, Effortless Income Estimations for YouTubers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-reviewing-yuneecs-powerful-typhoon-aerodrone/"><u>[Updated] Reviewing Yuneec's Powerful Typhoon AeroDrone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-lava-blaze-2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Lava Blaze 2 Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-google-pixel-fold-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Google Pixel Fold Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-explore-best-android-emulators-for-playstation-2-gaming/"><u>In 2024, Explore Best Android Emulators for PlayStation 2 Gaming</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a1x-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A1x 5GFRP Lock</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-8-premium-rain-impact-noises-for-creative-projects-for-2024/"><u>New The Ultimate Guide 8 Premium Rain Impact Noises for Creative Projects for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-xp-pen-artist-16-pro-touchscreen-graphic-tablet-comprehensive-evaluation/"><u>Professional Xp-Pen Artist 16 Pro Touchscreen Graphic Tablet Comprehensive Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-petfeeding-solution-with-petsafe-automatic-six-meal-dispenser/"><u>Reliable PetFeeding Solution with PetSafe Automatic Six-Meal Dispenser</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-experts-weigh-in-on-the-motorola-mg7700-rapid-and-reliable-speeds-explored/"><u>Tech Experts Weigh in on the Motorola MG7700 – Rapid & Reliable Speeds Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-titans-clash-an-in-depth-look-at-apple-airpods-pro-and-samsung-galaxy-buds-pro/"><u>Tech Titans Clash: An In-Depth Look at Apple AirPods Pro & Samsung Galaxy Buds Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-tiny-warrior-with-big-images-g7x-mark-ii/"><u>The Tiny Warrior with Big Images: G7X Mark II</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-truth-behind-the-lens-an-honest-review-of-googles-pixel-6/"><u>The Truth Behind the Lens: An Honest Review of Google's Pixel 6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-google-nest-wifi-fast-and-reliable-mesh-networking-explained/"><u>The Ultimate Guide to Google Nest Wifi: Fast and Reliable Mesh Networking Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-barnes-and-noble-nook-glowlight-3-your-perfect-partner-for-nighttime-stories/"><u>The Ultimate Guide to the Barnes & Noble Nook GlowLight 3: Your Perfect Partner for Nighttime Stories</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-premium-smartwatches-available-in-2-best-performing-smartwatch-devices-to-buy/"><u>The Ultimate Selection of Premium Smartwatches Available in 2# Best-Performing Smartwatch Devices to Buy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-msi-dragon-centre-stops-responding/"><u>Troubleshooting Steps When Your MSI Dragon Centre Stops Responding</u></a></li>
+</ul></div>
 

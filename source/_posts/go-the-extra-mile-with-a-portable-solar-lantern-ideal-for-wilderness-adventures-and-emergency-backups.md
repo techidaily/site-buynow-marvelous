@@ -1,7 +1,7 @@
 ---
 title: Go the Extra Mile with a Portable Solar Lantern – Ideal for Wilderness Adventures & Emergency Backups
-date: 2024-09-07T19:27:42.100Z
-updated: 2024-09-15T05:11:23.298Z
+date: 2024-09-28T20:00:17.074Z
+updated: 2024-10-01T16:44:01.376Z
 tags:
   - games
   - tv
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Depending on where you live, power outages can be a fairly common inconvenience. Sure, we all have a flashlight on our phones, but I typically want several different light sources ready to go. Furthermore, I don't want to buy a big lantern that'll take up space in my garage that only gets used once a year. Here's what I use instead and why you'll want one too.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Luci Lantern
 
  I've opted for several collapsible and portable solar-powered LED lanterns. These take up hardly any space on garage shelves or closets in the house, have plenty of battery life, and charge over USB-C or from a bit of sunshine. I'm talking about the [MPOWERD Luci Solar Inflatable lantern for around $20.](https://www.amazon.com/MPOWERD-Luci-Outdoor-2-0-Rechargeable/dp/B0BX2GN4KL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004131&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsolar-lantern-perfect-for-camping-or-power-outages%2F&asc%5Fcampaign=Short-Term) 
@@ -30,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The Luci light is a small, durable, unassuming little light with plenty to offer. It's advertised as an outdoor light, but I use them everywhere. In fact, I own like five of these in a few different colors and models, including one that's 6–7 years old, and use all of them both indoors and during outdoor adventures.
 
 ![MPOWERD Luci solar light.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/luci-all-three.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 MPOWERD
 
@@ -44,6 +58,13 @@ MPOWERD
  The MPOWERD Luci light is affordable, bright, effective, and useful in various situations. If you enjoy the rugged outdoors or live somewhere with rolling blackouts, this dual-purpose light is an excellent little gadget to have.
 
 ![Screenshot 2024-07-11 at 12.02.17 PM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-12-02-17-pm.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  MPOWERD Luci Outdoor 2.0: Solar Inflatable Lantern
 
@@ -64,18 +85,20 @@ The Luci outdoor lantern from MPOWERD is one of my favorite gadgets for camping 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[New] In 2024, Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-basic-to-breathtaking-elevating-your-instagram-edits/"><u>2024 Approved From Basic to Breathtaking Elevating Your Instagram Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-for-win-os-clown-sound-changes/"><u>2024 Approved Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/corrective-measures-for-microsoft-outlook-spell-check-malfunctions/"><u>Corrective Measures for Microsoft Outlook Spell Check Malfunctions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-users-ultimate-podcast-download-techniques-for-2024/"><u>IPhone Users' Ultimate Podcast Download Techniques for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/romer-chargeable-floodlight-assessment-unveiling-the-most-potent-portable-lighting-solution-for-your-adventures/"><u>Romer Chargeable Floodlight Assessment: Unveiling the Most Potent Portable Lighting Solution for Your Adventures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/score-unbelievable-savings-the-ultimate-guide-to-buying-roku-on-prime-day/"><u>Score Unbelievable Savings – The Ultimate Guide to Buying Roku on Prime Day</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/seatechs-external-usb-blu-ray-recorder-tested-for-performance-variability-and-review-findings/"><u>SeaTech's External USB Blu-Ray Recorder Tested for Performance Variability and Review Findings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/surpassing-boundaries-in-wifi-coverage-intricate-analysis-of-tp-links-re5nfyx-extender/"><u>Surpassing Boundaries in WiFi Coverage: Intricate Analysis of TP-Link's RE5nfyX Extender</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syma-x5c-rc-helicopter-reviewed-a-cost-effective-starter-drone/"><u>SYMA X5C R/C Helicopter Reviewed: A Cost-Effective Starter Drone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/teac-pd-301-reviewed-audiophiles-dream-in-style/"><u>Teac PD-301 Reviewed: Audiophile's Dream in Style</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/tecno-pop-8-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Pop 8 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

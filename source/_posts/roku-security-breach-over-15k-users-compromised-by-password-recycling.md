@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Breach: Over 15K Users Compromised by Password Recycling"
-date: 2024-09-04T20:05:28.282Z
-updated: 2024-09-05T20:05:28.282Z
+date: 2024-09-27T19:25:53.160Z
+updated: 2024-10-01T19:37:43.765Z
 tags:
   - games
   - tv
@@ -37,8 +37,6 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,17 +44,25 @@ In a new [breach notice](http://oag.ca.gov/system/files/Template%20Notification%
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-elicit-entertainment-giphys-meme-makers/"><u>[New] Elicit Entertainment Giphy's Meme Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>[New] Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-three-methods-to-capture-youtube-images-for-macwindows-users/"><u>[Updated] In 2024, Three Methods to Capture YouTube Images for Mac/Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-y100t-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Y100t</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/playstations-new-era-examine-these-four-reasons-to-upgrade/"><u>PlayStation's New Era: Examine These Four Reasons to Upgrade</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/precision-and-elegance-melded-in-the-h8is-sound/"><u>Precision and Elegance Melded in the H8i's Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/quietcomfort-pro-canal-plugs-reviews/"><u>QuietComfort Pro Canal Plugs Reviews</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-lightzone-pro-top-quality-photo-editing-suite-for-pcs-and-macs/"><u>Review of LightZone Pro: Top-Quality Photo Editing Suite for PCs and Macs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/should-i-jump-on-apple-watchs-newest-model/"><u>Should I Jump on Apple Watch's Newest Model?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-influencing-amplifying-instagram-post-reach/"><u>The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-patient-reach-top-fb-med-ad-tactics/"><u>Transforming Patient Reach Top FB Med Ad Tactics</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

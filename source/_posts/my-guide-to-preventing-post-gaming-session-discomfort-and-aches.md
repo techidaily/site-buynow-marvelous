@@ -1,7 +1,7 @@
 ---
 title: My Guide to Preventing Post-Gaming Session Discomfort and Aches
-date: 2024-09-04T20:04:21.782Z
-updated: 2024-09-05T20:04:21.782Z
+date: 2024-09-24T18:50:04.474Z
+updated: 2024-10-01T16:03:03.709Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once again, "just an hour of gaming before bed" turned into a lengthy session that shot me into the twilight of the next day, and my body hated me as I tried to stand up. My lower back tightened, I yelped like a startled dog, and I fell back into my hard, wooden chair. Something had to change, so here's what I did.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I Did This to Myself
 
  The first step to saving my spine was identifying the catalyst for my discomfort. I took a hard look at my gaming setup, noting where my monitors sat in relation to my eyeline and the height of my chair. Was my keyboard situated in a way that forced me into an awkward posture?
@@ -34,11 +41,12 @@ R. Griffey / How-to-Geek
  I knew that my thrifted metal office desk was a bit too low for someone my height and never intended for all-night _Elden Ring_ speedrun attempts. What I didn’t realize was that 15 minutes into the DLC, my intense, hunched posture gave me the silhouette of a jumbo shrimp. It was easy enough to suss out that the sore spine situation was entirely my fault.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Out of Nowhere With a Wheeled Chair
 
  After less-than-surprising findings indicating that the repurposed dining room chair I’ve been lugging around since college may be a major source of strain, I started exploring the world of ergonomic chairs.
@@ -47,18 +55,6 @@ R. Griffey / How-to-Geek
 
 ![Secretlab TITAN Evo SoftWeave Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/secretlab-titan-evo-softweave-plus.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Secretlab TITAN Evo SoftWeave Plus
 
 9/ 10 
@@ -73,12 +69,6 @@ Secretlab's TITAN Evo SoftWeave Plus is a luxurious gaming chair featuring premi
 
 ![A keyboard and a mouse on a desk with several 'x' below.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-keyboard-and-a-mouse-on-a-desk-with-several-x-below.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | Best Buy
 
  With the new furnishings in place, it was time to move on to the issue of my mouse and keyboard. My old, oversized keyboard was causing me to reach in ways that strained my shoulders and upper back. I needed something compact and as ergonomically friendly as the chair I just wasted a week’s pay on.
@@ -89,12 +79,6 @@ Lucas Gouveia / How-To Geek | Best Buy
 
 ![Razer Firefly V2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/81xmmfr00wl-_ac_sl1500_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Razer Firefly V2 Pro
 
 8/ 10 
@@ -105,22 +89,23 @@ The Razer Firefly V2 Pro is the world's first LED backlit gaming mouse mat.
 
  Between the rat's nest of guitar and mic cables cluttering the space beside my audio interface and the SNES-to-USB controller cord dangling off the side of my desk, I realized that poor cable management may also be an issue. Tangled cables not only looked messy but also forced me into awkward positions to free up slack. All it took was a bit of time, some zip-ties, and a few clips to get everything nice and tidy.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Move Your Body
 
 ![Secretlab MAGNUS Pro desk with dual monitor mount and PC undermount.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/secretlab-magnus-pro-pc-hero.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Mark LoProto / How-to Geek
 
  Having the right gear is a game-changer, but I knew it wasn't the whole solution. I needed to change my habits to really tackle the back pain issue.
@@ -132,6 +117,19 @@ Mark LoProto / How-to Geek
  Lighting was another factor I hadn't considered. Poor lighting can result in poor posture as you squint and hunch closer to the screen. I adjusted my room lighting and monitor brightness to ensure I didn’t have to strain and used blue light filters to reduce eye fatigue.
 
  Without maintaining a mindful posture, the rest of these changes mean nothing. You can set yourself up for success, but you have to use the tools correctly. I made a conscious effort to sit back in my chair, letting the lumbar support do its job. I kept my feet flat on the floor and avoided crossing my legs, which helped keep my spine aligned and reduced strain.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Wipe Out Your Backlog of Games, Not Your Back
 
@@ -145,8 +143,6 @@ Mark LoProto / How-to Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +150,24 @@ Mark LoProto / How-to Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-advanced-computers-at-your-fingertips-for-2024/"><u>[New] Advanced Computers at Your Fingertips for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-6-facebook-lite-video-downloaders/"><u>[New] In 2024, Top 6 Facebook Lite Video Downloaders</u></a></li>
+<li><a href="https://win-best.techidaily.com/conversion-facile-et-gratuite-de-fichiers-3gpp-en-format-wma-en-ligne-movavi/"><u>Conversion Facile Et Gratuite De Fichiers 3GPP en Format WMA en Ligne - Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A78 5G Phone without Google Account?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-quick-mac-screen-capture-with-deft-shortcuts/"><u>In 2024, Mastering Quick Mac Screen Capture with Deft Shortcuts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-dji-phantom-4-pro-v2-release-closer-to-drone-excellence/"><u>In-Depth Analysis of DJI Phantom 4 Pro V2 Release - Closer to Drone Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-moto-g-stylus-evaluation-impressive-functionality-with-satisfactory-battery-endurance/"><u>In-Depth Moto G Stylus Evaluation: Impressive Functionality with Satisfactory Battery Endurance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-durable-easy-setup-acurite-pro-01036m-weather-monitoring-system/"><u>In-Depth Review of the Durable, Easy Setup AcuRite Pro 01036M Weather Monitoring System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ion-audio-tailgaterplus-exclusive-test-infinite-playtime-with-boosted-bass-sound-in-a-single-touch/"><u>ION Audio Tailgater+ Exclusive Test - Infinite Playtime with Boosted Bass Sound in a Single Touch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/large-softbox-lighting-from-studiofx-rated-high/"><u>Large Softbox Lighting From StudioFX Rated High</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-inbox-monitoring-how-to-know-when-someone-reads-your-email-via-gmail/"><u>Mastering Inbox Monitoring: How to Know When Someone Reads Your Email via Gmail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-connection-with-the-netgear-c3700-router-more-than-just-a-router-its-a-modem/"><u>Maximizing Your Connection with the Netgear C3700 Router - More Than Just a Router, It's A Modem!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-mg7700-speed-reviewed-a-look-at-its-reliable-rapid-connection/"><u>Motorola MG7700 Speed Reviewed: A Look at Its Reliable Rapid Connection</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavi-como-cambiar-videoclips-wmv-por-avi-sin-costo-guia-simple/"><u>Movavi: Cómo Cambiar Videoclips WMV Por AVI Sin Costo - Guía Simple</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/plunging-deep-into-the-macabre-realm-an-essential-guide-to-bloodborne/"><u>Plunging Deep Into the Macabre Realm: An Essential Guide to Bloodborne</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-picks-review-best-4k-capture-gadgets-and-apps/"><u>Top Picks Review Best 4K Capture Gadgets and Apps</u></a></li>
+</ul></div>
 

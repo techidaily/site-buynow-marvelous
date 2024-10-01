@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Your New Steam Deck with Top-Rated Strategies
-date: 2024-09-08T04:32:54.587Z
-updated: 2024-09-14T22:48:50.506Z
+date: 2024-09-25T21:01:23.526Z
+updated: 2024-10-01T16:18:20.620Z
 tags:
   - games
   - tv
@@ -62,6 +62,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  While there’s a Quick Access menu you can open in-game to tweak brightness, you don’t have to pause your game for even a second to adjust the screen's brightness while gaming. Just hold the “Quick Access” button and move the left thumbstick up to increase brightness and down to decrease it. You can use this button combo anywhere in Game Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tweak Notifications Before You Start Gaming
 
  SteamOS will send you a ton of notifications, most of which are turned on by default, sound and all. This can be a tad frustrating when you're playing a game notifications keep rolling in. You'll see pings when your Steam friends start playing or come online, when a game on your Steam Wishlist is on sale, even when a discussion you’ve subscribed to has a new reply.
@@ -72,6 +79,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  There, you can tweak individual notifications, turn notification toasts off completely, and disable notification sounds. Just scroll to the end and tweak every single option to your liking, and then you can start gaming without the annoying pop-ups.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  SD Cards are Adequate Storage Options for Most Games
 
  If you’re a new Steam Deck owner and need more storage, feel free to get an SD card instead of [upgrading the solid-state drive](https://youtube-lab.techidaily.com/ed-pinpointing-potential-a-youtube-niche-journey/) (SSD). Slotting in an SD card is much simpler than opening your brand-new handheld and performing an SSD replacement operation on it. The good news is that SD cards shouldn’t impede gaming performance in most titles.
@@ -79,6 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Some demanding open-world games like _Cyberpunk 2077_ may experience performance issues if you run them from an SD card and max-out in-game quality and density options, but most titles will run at the same frame rates as an SSD when using an SD card.
 
  Conversely, an SD card means longer loading times, but not by much. In 2D and light 3D indie games, you’ll need to wait a second or two longer, while AAA titles can load anywhere from 2-3 seconds to about 10 seconds longer. For more info, check out [our Steam Deck SD card performance benchmark](https://tech-revival.techidaily.com/navigating-the-differences-between-standard-and-premium-copilots-is-it-worth-the-upgrade/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Get Thumbstick Covers for Better Grip
 
@@ -89,10 +116,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Note that if you want to activate the gyro via thumbsticks—to set the gyro to activate once you touch the right thumbstick, for instance—you shouldn’t cover said thumbstick. You can always set gyro activation by pressing any other key or touching one of the two trackpads instead. Personally, I’ve set the right trackpad to activate the gyro and it works for me.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use an Angled Charging Adapter to Charge and Play
@@ -110,19 +137,6 @@ Goran Damnjanovic / How-To Geek
 Goran Damnjanovic / How-To Geek
 
  Before we move on, note that the Steam Deck supports pass-through charging. Once the battery is full, the charger bypasses the cell and delivers power directly to your Deck. In other words, don’t worry about [Steam Deck battery degradation](https://facebook-videos.techidaily.com/updated-2024-approved-decode-facebooks-algorithm-change-and-protect-your-reach/), and feel free to game while charging your Deck.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Improve Steam Deck LCD Download Speeds
 
@@ -146,19 +160,6 @@ Goran Damnjanovic / How-To Geek
 
  If you own an OLED Deck, you shouldn’t have issues with download speeds and stability since the OLED version uses a much better [Wi-Fi 6](https://buynow-info.techidaily.com/getting-the-most-out-of-your-new-echo-dot-3rd-gen-a-comprehensive-breakdown-for-seamless-alexa-integration/) card.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Prevent Your Deck From Sleeping When Downloading Games
 
  Getting a new Deck means downloading some games so you can enjoy your new handheld. I recommend turning off sleep when plugged in so your Deck doesn't betray you and enter sleep mode while downloads complete. You can also disable sleep while on battery, but I don’t recommend that for obvious reasons.
@@ -166,6 +167,19 @@ Goran Damnjanovic / How-To Geek
  To disable sleep, go to “Settings,” then enter the “Display” tab. Once there, look for the “When Plugged In Sleep After” option and set it to “Disabled.”
 
 ![Disabling sleep on a Steam Deck while plugged in in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-08.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another tip I have is to set your Deck to Offline mode when you plan on using it at a location with spotty or no internet coverage. To do this, open “Settings,” go to the “Internet” tab, and click the “Enter Offline Mode” button.
 
@@ -188,10 +202,10 @@ Goran Damnjanovic / How-To Geek
 ![Adding a game to a new library collection on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-12-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To see every Steam game you own (not only Deck-compatible titles), go to the “All Games” tab and press the X button on your Deck.
@@ -223,16 +237,10 @@ Goran Damnjanovic / How-To Geek
 ![Setting frame limit to 40 FPS on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-16.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, to get more detailed information about battery life, turn on the battery percentage next to the battery icon in the header. Do this by opening “Settings,” then the “General” tab, and there you can turn the “Battery Percentage” toggle on.
@@ -244,6 +252,13 @@ Goran Damnjanovic / How-To Geek
  If you own a gaming PC, I strongly advise you to try local game streaming. You can either use [Moonlight](https://moonlight-stream.org/) or stream games from your PC via [Steam Remote Play](https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-14-ultra-lock-screen-password-by-drfone-android/). I strongly prefer the Moonlight with [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en) (an open-source local game streaming client) combo to Steam Remote Play because the former has better image quality and much better performance.
 
  Read [our guide to game streaming on Steam Deck](https://youtube-zero.techidaily.com/ating-the-net-top-tags-for-eye-catching-gamer-content/) to learn more.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Lastly, Follow the Steam Deck Subreddit
 
@@ -264,5 +279,16 @@ Goran Damnjanovic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/digital-footprints-keeping-your-twitter-vids-safe-and-sound-for-2024/"><u>Digital Footprints Keeping Your Twitter Vids Safe and Sound for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-steps-to-prevent-thumbnail-absence-on-shorts-videos/"><u>In 2024, Steps to Prevent Thumbnail Absence on Shorts Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-itunes-needed-master-the-art-of-self-restoring-and-refreshing-your-iphones-os/"><u>No iTunes Needed? Master the Art of Self-Restoring and Refreshing Your iPhone's OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-evaluation-of-ambient-weathers-expensive-ws-1n-wifi-climate-monitor-does-it-deliver-top-value/"><u>The Ultimate Evaluation of Ambient Weather's Expensive WS-1n WiFi Climate Monitor - Does It Deliver Top Value?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tablet-showdown-why-samsungs-galaxy-tab-s7-tops-the-list-among-android-fans/"><u>Top Tablet Showdown: Why Samsung's Galaxy Tab S7 Tops the List Among Android Fans</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-c80-the-top-choice-for-fast-connectivity-under-100/"><u>TP-Link Archer C80 - The Top Choice for Fast Connectivity Under $100</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-work-experience-with-apples-102-ipad-7th-generation-and-innovative-ipados-upgrades/"><u>Transform Your Work Experience with Apple's 10.2 iPad (7Th Generation) and Innovative iPadOS Upgrades</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ling-the-mysteries-accessing-secretive-youtube-content-for-2024/"><u>Unveiling the Mysteries Accessing Secretive YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/vmix-mover-for-apple-and-pcs-for-2024/"><u>VMix Mover for Apple and PCs for 2024</u></a></li>
+</ul></div>
 
