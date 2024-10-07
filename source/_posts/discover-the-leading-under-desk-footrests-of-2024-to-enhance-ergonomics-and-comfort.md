@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading Under-Desk Footrests of 2024 to Enhance Ergonomics and Comfort
-date: 2024-09-24T17:30:45.951Z
-updated: 2024-10-01T20:17:37.896Z
+date: 2024-10-03T23:25:35.673Z
+updated: 2024-10-07T04:27:50.102Z
 tags:
   - buying-guides
 categories:
@@ -62,6 +62,13 @@ Best Under-Desk Footrest For Shorter People
 
 ![Ergofoam footrest being used](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/ergofoam-footrest.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ergofoam
 
 | Pros                                 | Cons                          |
@@ -83,6 +90,13 @@ Ergofoam
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best Under-Desk Footrest Overall
 
 #####  ErgoFoam Footrest
@@ -91,16 +105,16 @@ This under-desk footrest has two adjustable heights, designed with a soft foam t
 
 [See at amazon](https://www.amazon.com/ErgoFoam-Adjustable-Premium-Footrest-Comfortable/dp/B07PWT8X6K?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) [See at target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU227968%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fergofoam%255Fadjustable%255F%252F-%252FA-87762905) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Budget Under-Desk Footrest: [StepLively](https://www.amazon.com/StepLively-Work-Ergonomic-Washable-Cover-Under-Footrest/dp/B0BL2G1G5D?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 ![Person using StepLively Footrest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/steplively.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 StepLively
 
@@ -124,10 +138,10 @@ StepLively
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41qt6ohymwl-_sl160_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -165,21 +179,7 @@ Humanscale
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41cedskaval-_sl160_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best Adjustable Under-Desk Footrest
 
@@ -196,10 +196,10 @@ Stylish, sturdy, and durable, the Humanscale is a solid footrest that can be adj
 ![MyPlace heated footrest on pink and yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/myplace-footrest.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 MyPlace
@@ -222,13 +222,6 @@ MyPlace
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/419rdwt131l-_sl160_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Heated Under-Desk Footrest
@@ -239,16 +232,22 @@ With six height adjustments and a heated pad, the MyPlace footrest is ideal for 
 
 [See at amazon](https://www.amazon.com/MyPlace-Adjustable-Height-Foot-Under/dp/B09HJ6TQNK?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Under-Desk Footrest For Shorter People: [VIVO](https://www.amazon.com/VIVO-Ergonomic-Adjustable-Standing-STAND-FT01/dp/B0763RMV58?tag=hotoge-20&ascsubtag=UUhtgUeUpU227968&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F892495%2Fbest-under-desk-footrests%2F&asc%5Fcampaign=Commerce) 
 
 ![person using VIVO footrest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/vivo-footrest.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 VIVO
 
@@ -268,6 +267,19 @@ VIVO
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41m-cq7robl-_sl160_.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Under-Desk Footrest For Shorter People
@@ -284,16 +296,16 @@ This height adjustable platform is perfect for shorter people who need more vers
 
 A footrest can help alleviate aches, pain, and fatigue that result from sitting at a desk for long periods of time. It allows you to maintain the correct posture and reduces strain on your legs and lower back.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the best height for my under-desk footrest?
 
 The best height for an under-desk footrest depends on your height. It is generally advised to opt for a footrest that is between 2 and 5 inches in height. This allows you to rest your feet comfortably without strain, in a slightly downward position.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Do under-desk footrests help with posture?
 
@@ -314,20 +326,17 @@ Yes, under-desk footrests can help with posture. They allow you to maintain a ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-12-steps-fixing-hidden-fb-video-issues/"><u>[New] In 2024, Unlocking 12 Steps Fixing Hidden FB Video Issues</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-effortless-access-top-5-chrome-addons-for-quickly-download-facebook-vids/"><u>[Updated] 2024 Approved Effortless Access Top 5 Chrome Addons for Quickly Download Facebook Vids</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-navigating-new-norms-metaverse-marketing-101-for-2024/"><u>[Updated] Navigating New Norms Metaverse Marketing 101 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-uploading-beats-youtube-music-setup-for-2024/"><u>[Updated] Uploading Beats YouTube Music Setup for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-elite-4-covert-content-retrievers/"><u>2024 Approved Elite 4 Covert Content Retrievers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nokia C12 Plus to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-errors-restore-mspm-on-vista/"><u>Banish Errors: Restore MSPM on Vista</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-expensive-microsoft-surface-studio-2-workstation/"><u>In-Depth Analysis of the Expensive Microsoft Surface Studio 2 Workstation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-future-of-the-metaverse-discovering-what-lies-ahead-techexplorer/"><u>Navigating the Future of the Metaverse: Discovering What Lies Ahead | TechExplorer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stylish-and-easy-to-carry-the-comprehensive-review-for-acers-chromebook-r-11/"><u>Stylish & Easy to Carry: The Comprehensive Review for Acer's Chromebook R 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/thorough-assessment-of-the-kootek-portable-air-blower-ideal-for-any-laptop/"><u>Thorough Assessment of the Kootek Portable Air Blower: Ideal for Any Laptop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-performance-home-networking-a-review-of-the-netgear-nighthawk-x6-ac3200-wifi-router-for-faster-internet-and-better-connectivity/"><u>Top Performance Home Networking: A Review of the Netgear Nighthawk X6 AC3200 WiFi Router for Faster Internet and Better Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transition-mechanisms-between-ipv4-and-ipv6-require-careful-consideration-of-their-increased-attack-surface-and-potential-exposure-risks/"><u>Transition Mechanisms Between IPv4 and IPv6 Require Careful Consideration of Their Increased Attack Surface and Potential Exposure Risks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/wii-u-triumph-explained-what-made-this-gaming-system-a-hit-among-gamers/"><u>Wii U Triumph Explained: What Made This Gaming System a Hit Among Gamers?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-for-effortless-youtube-shorts-design-for-2024/"><u>[New] The Ultimate Guide for Effortless YouTube Shorts Design for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[Updated] Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-frame-by-frame-top-picks-for-home-studios/"><u>2024 Approved Frame by Frame Top Picks for Home Studios</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-methods-to-transform-your-dvds-into-mp4-format-on-windows-11/"><u>Free Methods to Transform Your DVDs Into MP4 Format on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/getting-to-know-the-new-samsung-galaxy-s2-early-review-insights/"><u>Getting to Know the New Samsung Galaxy S2#: Early Review Insights</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-15-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 15 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-spyro-reignited-trilogy-tiny-heros-huge-impact/"><u>In-Depth Analysis of Spyro Reignited Trilogy: Tiny Hero's Huge Impact</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-lensdirects-anti-blue-light-glasses-with-prescriptions/"><u>In-Depth Look at LensDirect’s Anti-Blue Light Glasses with Prescriptions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-elgoog-unraveling-secrets-behind-the-world-renowned-ultimate-looking-glass-website/"><u>Inside ElgooG: Unraveling Secrets Behind the World-Renowned Ultimate Looking Glass Website</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lens-clarity-not-cloudiness-anti-fog-tips-for-gopro-for-2024/"><u>Lens Clarity, Not Cloudiness Anti-Fog Tips for GoPro for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/lolkit-design-memes-and-graphics-with-a-click/"><u>LolKit Design Memes & Graphics with a Click</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2024-09-26T17:52:53.396Z
-updated: 2024-10-01T16:14:38.985Z
+date: 2024-09-30T02:47:25.396Z
+updated: 2024-10-07T03:13:46.827Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -41,16 +41,16 @@ Lifewire / Emily Isaacs
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -73,6 +73,13 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
@@ -89,44 +96,37 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: A wired connection for reliability**
 
  The Fellowes connects to a PC via a USB cord. We couldn’t help but appreciate the simplicity of this design choice, especially as more and more companies are looking for ways to cut cords. Cutting down on cables is great when it makes sense, but the corded connection here allows for a dependable product, since you never have to worry about a low battery, and also means that the keyboard is more reliable for[faster typists](https://www.lifewire.com/typing-speed-tests-1356663) . It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed. This is useful if you type faster than conventional keyboards can keep up with, making it less likely for you to lose a stroke.
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
@@ -183,22 +183,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unleash-potential-10-top-motivational-gems/"><u>[New] 2024 Approved Unleash Potential 10 Top Motivational Gems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-10-yt-channels-surging-ideas-and-insights-unleashed/"><u>[New] In 2024, 10 YT Channels Surging Ideas and Insights Unleashed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-convenient-methods-for-recording-playtime-footage/"><u>[New] In 2024, Convenient Methods for Recording Playtime Footage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-fix-there-is-no-sound-on-twitter-videos/"><u>[New] In 2024, Fix There Is No Sound on Twitter Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-most-essential-5-earbuds-for-gaming-for-2024/"><u>[New] The Most Essential 5 Earbuds for Gaming for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[Updated] The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-advice-on-creating-impactful-hdr-portraits/"><u>2024 Approved Expert Advice on Creating Impactful HDR Portraits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordability-meets-performance-in-the-latest-hp-15-amd-notebook-review-does-it-deliver/"><u>Affordability Meets Performance in the Latest HP 15 AMD Notebook Review – Does It Deliver?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cut-costs-enjoy-super-hd-view-with-petcubes-budget-cameras/"><u>Cut Costs, Enjoy Super HD View with Petcube's Budget Cameras</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-durability-hps-low-cost-15-inch-laptop-with-amd/"><u>Evaluating Performance & Durability: HP's Low-Cost 15-Inch Laptop with AMD</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-garmin-forerunner-e945-the-pinnacle-of-gps-sport-watches-on-the-market-today/"><u>In-Depth Analysis of Garmin Forerunner E945: The Pinnacle of GPS Sport Watches on the Market Today</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/intelligent-ears-sony-headset-breakthrough/"><u>Intelligent Ears - Sony Headset Breakthrough</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lihan-lhfm1039-wireless-bluetooth-fm-transmitter-review-connect-bluetooth-devices-to-your-car-stereo/"><u>LIHAN LHFM1039 Wireless Bluetooth FM Transmitter Review: Connect Bluetooth Devices to Your Car Stereo</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-value-of-hc-v770-in-home-media/"><u>The Value of HC-V770 in Home Media</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-top-home-weather-trackers/"><u>Ultimate List of Top Home Weather Trackers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-dual-experiences-a-step-by-step-tutorial-for-operating-android-apps-in-win-10-environment/"><u>Unlocking Dual Experiences: A Step-by-Step Tutorial for Operating Android Apps in Win 10 Environment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shape-shifting-photos-creating-effective-warps-and-curves-in-ps/"><u>[New] Shape-Shifting Photos Creating Effective Warps & Curves in PS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-lgs-famed-watch-style-discovering-the-pioneering-spirit-of-wear-os-smartwatches/"><u>A Critical Look at LG's Famed Watch Style: Discovering the Pioneering Spirit of Wear OS Smartwatches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-steps-for-flushing-cache-in-popular-web-browsers/"><u>Comprehensive Steps for Flushing Cache in Popular Web Browsers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-p40-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel P40</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fcps-ultimate-effect-upgrade-the-best-10-plugins-for-2024/"><u>FCP’s Ultimate Effect Upgrade The Best 10 Plugins for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-100-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy XCover 6 Pro Tactical Edition to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/humorous-highlights-create-with-kapwing-meme-maker/"><u>Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-avi-files-with-chromecast-three-easy-techniques/"><u>Watching AVI Files with Chromecast: Three Easy Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723087402553-watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-i-should-consider-ios-17-what-are-my-options/"><u>Why I Should Consider iOS 17: What Are My Options?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ws-1002-wifi-ambient-weather-station-premium-features-justify-the-cost/"><u>WS-1002-WiFi Ambient Weather Station - Premium Features Justify the Cost</u></a></li>
 </ul></div>
 

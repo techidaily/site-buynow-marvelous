@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking TKL Mechanical Keyboard Picks: A Buyer's Guide"
-date: 2024-09-30T17:03:43.610Z
-updated: 2024-10-01T17:20:20.242Z
+date: 2024-10-05T04:02:31.461Z
+updated: 2024-10-06T22:49:35.163Z
 tags:
   - buying-guides
 categories:
@@ -64,22 +64,15 @@ Best TKL Keyboard for Mac
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best TKL Keyboard Overall: [SteelSeries Apex Pro TKL](https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/dp/B07TBGQ6P7?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![SteelSeries Apex Pro TKL on a gaming desk with red and pink lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/steelseries-pro-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _SteelSeries_
@@ -103,13 +96,6 @@ _SteelSeries_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best TKL Keyboard Overall
 
 #####  SteelSeries Apex Pro TKL Wireless
@@ -123,6 +109,19 @@ Offering adjustable switches, built-in OLED display, and a premium wrist rest, t
 ##  Best Budget TKL Keyboard: [HyperX Alloy Origins Core TKL](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![The HyperX Origins Core TKL on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/hyperx-1.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _HyperX_
 
@@ -140,13 +139,20 @@ _HyperX_
 
 ![hyperx alloy origins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/hyperx-alloy-origins.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Budget TKL Keyboard
@@ -158,6 +164,13 @@ $69 $90 Save $21
 Built with a premium aluminum body and support for the HyperX NGENUITY Software, the Alloy Origins Core is a surprisingly robust keyboard despite its low price.
 
 [$69 at Amazon](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best TKL Keyboard for Gaming: [Razer Huntsman V2 TKL](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
@@ -182,10 +195,10 @@ _Razer_
 ![huntsman V2 TKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/huntsman-v2-tkl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -203,13 +216,6 @@ The Huntsman V2 TKL offers a great polling rate for improved latency, reliable c
 ##  Best Wireless TKL Keyboard: [Logitech G915 Lightspeed](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Logitech G915 TKL on a grey desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/logitech-g915-tkl-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Logitech_
 
@@ -239,13 +245,6 @@ Wireless keyboards don’t get much better than this. The G915 TKL is a compact,
 
 [$150 at Amazon](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best TKL Keyboard for Mac: [Keychron K8 Wireless Mechanical Keyboard](https://www.amazon.com/gp/product/B0869J8XD9?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Keychron K8 on a white desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/keychron-k8-1.jpg) 
@@ -270,6 +269,13 @@ _Keychron_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best TKL Keyboard for Mac
 
 #####  keychron K8 Tenkeyless Wireless
@@ -278,18 +284,18 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
 [$100 at Amazon](https://www.amazon.com/gp/product/B0869J8XD9?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### What is a TKL keyboard?
 
  TKL is short for tenkeyless. Specifically, it means the keyboard does not include the numeric keypad found on the right side of traditional keyboards.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How many keys does a TKL keyboard have?
 
@@ -318,24 +324,18 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/balancing-the-flaws-and-wonders-of-cyberpunk-2n77-review/"><u>Balancing the Flaws and Wonders of Cyberpunk 2N77 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/canon-vixia-hf-r800-camcorder-review-modest-price-average-video/"><u>Canon VIXIA HF R800 Camcorder Review: Modest Price, Average Video</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/diving-into-fortnites-latest-adventure-comprehensive-insights-for-a-brand-new-season/"><u>Diving Into Fortnite's Latest Adventure: Comprehensive Insights for a Brand-New Season</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-rankings-for-personal-weather-gadgets-whats-hot-in-2-groghty-2024/"><u>Elite Rankings for Personal Weather Gadgets - What's Hot in 2 Groghty, 2024!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-20plus-funny-memes-of-virtual-universes-for-2024/"><u>Exploring 20+ Funny Memes of Virtual Universes for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-conversation-to-completion-who-leads/"><u>From Conversation to Completion: Who Leads?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-note-30-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Note 30 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-showdown-iphone-15-pro-against-pro-max-unveiled/"><u>Head-to-Head Showdown: IPhone 15 Pro Against Pro Max Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-gt-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme GT 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g14-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G14 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lg-k92-5g-evaluation-assessing-the-value-beyond-just-5g-capabilities/"><u>LG K92 5G Evaluation: Assessing the Value Beyond Just 5G Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premier-pro-basketball-gaming-in-nba-2k19/"><u>Premier Pro-Basketball Gaming in NBA 2K19</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-guide-to-recovering-from-outlook-crashes/"><u>The Complete Guide to Recovering From Outlook Crashes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/thrilling-tales-at-the-top-engaging-openers/"><u>Thrilling Tales at the Top Engaging Openers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-12-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-non-functional-logitech-g-hub-software-in-windows-environment/"><u>Ultimate Fixes for Non-Functional Logitech G Hub Software in Windows Environment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-oculus-quest-2-top-tier-virtual-reality-for-a-steal-of-a-deal/"><u>Unboxing & Testing the Oculus Quest 2 - Top-Tier Virtual Reality for a Steal of a Deal!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-creativity-with-anthropics-smart-photo-editor-a-detailed-review-for-photographers/"><u>Unlocking Creativity with Anthropics Smart Photo Editor: A Detailed Review for Photographers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>[New] 2024 Approved Gaming Mastery The Ultimate Speed Controller Guidebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>[Updated] In 2024, Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-image-safekeepers-online/"><u>2024 Approved Prime Image Safekeepers Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-glimpse-into-the-future-how-the-new-m1-chip-transforms-the-2020-apple-macbook-air/"><u>A Glimpse Into the Future: How the New M1 Chip Transforms the 2020 Apple MacBook Air</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieve-fitness-goals-in-style-with-the-samsung-galaxy-fit2-device/"><u>Achieve Fitness Goals in Style with the Samsung Galaxy Fit2 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-10-review/"><u>Amazon Fire HD 10 Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/crafting-unique-ps3-gameplay-presentations-with-screen-recordings/"><u>Crafting Unique PS3 Gameplay Presentations with Screen Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-palworlds-eos-error-during-login-with-these-6-remedies/"><u>How to Resolve Palworld's EOS Error During Login with These ➡️6 Remedies</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6s Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723053628603-top-rated-f5-model-by-pruveeo-1080p-dash-cam-review-saving-you-big-on-safety-gear/"><u>Top Rated F5 Model by Pruveeo: 1080P Dash Cam Review - Saving You Big on Safety Gear</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-oneplus-nord-n10-5g-is-an-unmissable-find-for-phone-enthusiasts/"><u>Why the OnePlus Nord N10 5G Is an Unmissable Find for Phone Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wxf991-camcorder-unmatched-4k-clarity/"><u>WXF991 Camcorder: Unmatched 4K Clarity</u></a></li>
 </ul></div>
 

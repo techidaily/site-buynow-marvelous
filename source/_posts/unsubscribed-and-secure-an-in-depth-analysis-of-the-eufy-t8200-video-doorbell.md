@@ -1,7 +1,7 @@
 ---
 title: "Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
-date: 2024-09-24T19:39:48.518Z
-updated: 2024-10-01T17:49:36.117Z
+date: 2024-10-02T01:05:08.300Z
+updated: 2024-10-06T21:25:10.361Z
 categories:
   - BestProducts
 description: "This Article Describes Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
@@ -38,10 +38,10 @@ Lifewire / Jason Schneider
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Acer Chromebook 15 CB3-532
@@ -79,14 +79,14 @@ Lifewire / Jason Schneider
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/KPrvN1kvoH081BHRUonphp9CIeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_02-c3813ec58fc848e6a715abe090ebe6b1.jpg)
 
- Lifewire / Jason Schneider
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jason Schneider
 
 ## **Design: Slightly bulky with a couple of nice touches**
 
@@ -110,13 +110,6 @@ Lifewire / Jason Schneider
 
  The whole laptop is made of plastic, and measures right around 1-inch thick, weighing in at almost 4.5 pounds.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Really solid, to a point**
 
  Chrome OS provides an interesting advantage in the performance category. Right out of the box, this laptop will look and feel very fast, but as soon as you try to open more than about 6 tabs on Chrome, or you fire up multiple apps and videos, it slows down exponentially. On paper, it sports a dual-core Intel Celeron N3060 processor capable for standard-run speeds of 1.6GHz.
@@ -124,6 +117,13 @@ Lifewire / Jason Schneider
  The configuration I chose also includes 4GB of LPDDR3[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , and 16GB of eMMC memory. These last two points help to make up for the somewhat limited processor by giving decent short-term storage needs and a reasonably fast flash-style memory. But, because the[DDR3 RAM is a bit dated](https://www.lifewire.com/ddr3-vs-ddr4-which-ram-is-best-4779993) and caps out at 4GB, you’ll find that it gets a little sluggish when you push it. It’s also unfortunate to see merely 16GB of storage, severely limiting the amount of movies, photos, and files you can fit on the device.
 
  To be fair, Chromebook users likely keep more files in cloud storage drives, and Google includes 100GB of drive storage for free with the purchase for 2 years. So, you might not notice the limited capacity, but I would have preferred at least 32GB.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Productivity and Component Quality: Plenty of screen real estate, and passable features**
 
@@ -141,13 +141,6 @@ Lifewire / Jason Schneider
 
  Lifewire / Jason Schneider
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network and connectivity: Modern, fast, and optimized for Chrome OS**
 
  Despite the lighter OS, the Chromebook 15 offers modern, well-equipped network features. First off, there’s an 802.11ac-capable Wi-Fi card built-in, which means you’ll get less interference than the N-protocol Wi-Fi, and you’ll have access to the[5GHz bands](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293) common in most modern routers. There’s also Bluetooth 4.2 capability which provided me with a plenty-stable connection for my Bluetooth headphones, and will work nicely if you want to connect a mouse or other peripherals.
@@ -161,10 +154,10 @@ Lifewire / Jason Schneider
  This is likely because Google is calling this an[HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) \-capable webcam, meaning the software is increasing the ISO to give you clear performance. This gives you good color response as I’ve noted, but it does also result in that graininess. This shouldn’t be a breaking point in either direction for considering a laptop like this, but if you do a lot of video calls, it’s an important thing to consider.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Battery life: Very reliable with smart optimization**
@@ -175,24 +168,31 @@ Lifewire / Jason Schneider
 
  Chrome OS is a very light operating system, which means that it runs quick and light, at least initially.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Light and fast with very little customization**
 
  Using Chrome OS is more reliable than you might think. You have most of the functions you’ll need from Google Docs to web browsing to file storage. However, you’ll be missing a lot of more specialized programs, like the full Adobe Creative Suite, or PC-based media programs. Due to the low-powered processor and limited shared Graphics capability, you wouldn’t be able to use this laptop for video editing anyway, even if it did run Windows. So, even though it’s limiting, it’s on purpose.
 
  That said, the Chromebook 15 runs so well, though likely only because of the lightweight operating system and limited app capabilities. Chrome OS is kind of like just using a Chrome window with a bunch of tabs on a regular PC. For most people, the OS is more than capable of handling most of your browsing needs. This Chromebook is a great example of how far you can push Chrome OS on a budget device, with a big bright screen for watching movies, too.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Really affordable with plenty to offer**
 
  The list price for this Acer Chromebook sits at just about $400 (MSRP), but most of the time you can find it on Amazon for between $150-$250\. I picked up my unit for about $185, and it tends to hover just around there.
 
  For the money, I can confidently say this laptop is worth the price, as long as you have the right applications in mind for it. If you want a cheap starter laptop, or a machine for an older family member that’s easy to use, but you don’t want to spend half a grand getting there, this is a great choice. I can’t say it’s quite as travel-friendly as some of the other budget laptops out there, due to the size and weight. But if you want an affordable machine that’s great for light productivity tasks, and is an excellent movie machine, then you should consider this.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Acer Chromebook 15 vs. Lenovo Chromebook S330 14**
 
@@ -231,18 +231,18 @@ Lifewire / Jason Schneider
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-creating-channels-earning-dollars-a-beginners-guide/"><u>[Updated] Creating Channels, Earning Dollars A Beginner's Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[Updated] Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-perfecting-video-cuts-the-role-of-visual-callouts-in-edits/"><u>2024 Approved Perfecting Video Cuts The Role of Visual Callouts in Edits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/acers-r11-chromebook-a-sleek-portable-revision/"><u>Acer's R11 Chromebook - A Sleek, Portable Revision</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-insight-into-the-lg-stylo-press-beauty-on-display-with-a-precision-pointing-edge/"><u>Comprehensive Insight Into the LG Stylo Press - Beauty on Display with a Precision-Pointing Edge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-performance-and-elegance-the-apple-imac-215-4k-display-revealed/"><u>Discovering Performance & Elegance: The Apple iMac 21.5” 4K Display Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-images-with-prints-essential-techniques-within-adobe-photoshop/"><u>Enhancing Images with Prints: Essential Techniques Within Adobe Photoshop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-ageing-technology-of-netgear-c300n-modemrouter-combo-is-it-effective-anymore/"><u>Exploring the Ageing Technology of Netgear C300n Modem/Router Combo – Is It Effective Anymore?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-enabling-your-dvd-player-to-stream-wmv-videos-from-an-external-usb-drive/"><u>Guide: Enabling Your DVD Player to Stream WMV Videos From an External USB Drive</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-subtitle-tutorial-how-to-create-and-edit-captions/"><u>New In 2024, FCPX Subtitle Tutorial How to Create and Edit Captions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-creme-de-la-creme-ranking-the-best-eight-games-for-your-subscription-on-google-play/"><u>The Crème De La Crème: Ranking the Best Eight Games for Your Subscription on Google Play</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-digital-landscapes-the-impact-of-ai-powered-search-engines-on-modern-sites/"><u>Transforming Digital Landscapes: The Impact of AI-Powered Search Engines on Modern Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>[New] Streamline Your Media Experience Add Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boosting-views-top-14-gaming-video-ideas-that-work/"><u>[Updated] In 2024, Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-s24-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy S24 Unlock Without Password</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-comprehensive-guide-to-successful-fb-cover-video-strategies-for-2024/"><u>A Comprehensive Guide to Successful FB Cover Video Strategies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-your-mobile-film-experience-with-optimal-accessories/"><u>Elevate Your Mobile Film Experience with Optimal Accessories</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-madden-nfl-19-the-strengths-and-staleness-of-the-franchise/"><u>Evaluating Madden NFL '19: The Strengths and Staleness of the Franchise</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-pick-the-perfect-streamer-roku-against-fire-tv-stick-comparison/"><u>How to Pick the Perfect Streamer: Roku Against Fire TV Stick Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-preview-your-web-pages-before-you-upload-them/"><u>How to Preview Your Web Pages Before You Upload Them</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-successfully-upgrade-your-intel-based-imac-a-comprehensive-guide/"><u>How To Successfully Upgrade Your Intel-Based iMac: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-14-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi 14 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-nintendo-switch-a-comprehensive-portable-gaming-console-review/"><u>In-Depth Look at Nintendo Switch - A Comprehensive Portable Gaming Console Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-communication-implementing-gpt-creation/"><u>Tailoring AI Communication: Implementing GPT Creation</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-guide-how-to-upgrade-bios-compatible-with-windows-11/"><u>The Ultimate Guide: How to Upgrade BIOS Compatible with Windows 11</u></a></li>
 </ul></div>
 

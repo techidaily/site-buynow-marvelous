@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
-date: 2024-09-25T18:59:52.198Z
-updated: 2024-10-01T18:15:38.595Z
+date: 2024-10-05T17:45:01.652Z
+updated: 2024-10-06T17:27:08.709Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
@@ -41,6 +41,13 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845569%7Cn4bcb8b1996c24cd3b14f62e195599b0615%7CB075ZQXB26)
@@ -62,13 +69,6 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -78,16 +78,10 @@ Lifewire / Erika Rawes
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: Relatively easy**
@@ -108,14 +102,14 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: 35 miles**
 
@@ -124,13 +118,6 @@ Lifewire / Erika Rawes
  Even with the short-range, I was able to pick up 16 channels on my first attempt, including The CW, PBS, and more. In a different room in my test home, I was able to get 23 channels, but this is probably because there’s less tree cover outside of the house on that side of the property. Considering the location of my test home, 23 channels is pretty good.
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Super affordable**
 
@@ -149,6 +136,13 @@ Lifewire / Erika Rawes
 **A budget antenna that works as advertised.**
 
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -181,24 +175,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] In 2024, Unveiling the Secrets How to Save Your Google Meet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-secrets-of-filming-without-background-noises/"><u>[New] Secrets of Filming Without Background Noises</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>2024 Approved The Ultimate Guide to Inspiring YouTube Names</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-essentials-tablet-holder-evaluation-compact-and-convenient-carrying/"><u>Amazon Essentials Tablet Holder Evaluation: Compact & Convenient Carrying</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-online-video-converter-apps-fastest-speeds-and-high-capacity/"><u>Best FREE Online Video Converter Apps: Fastest Speeds & High Capacity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-samsung-qn55q6f-your-ultimate-guide-to-a-stunning-4k-uhd-smart-television/"><u>Comprehensive Analysis of the Samsung QN55Q6F - Your Ultimate Guide to a Stunning 4K UHD Smart Television</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-unleashing-the-potential-of-the-smart-asus-ax6000-rt-ax88u-router-with-advanced-features/"><u>Comprehensive Review: Unleashing the Potential of the Smart ASUS AX6000 RT-AX88U Router with Advanced Features</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/efficiency-upgrade-uncover-the-8-premier-facebook-timetables-for-2024/"><u>Efficiency Upgrade Uncover the 8 Premier Facebook Timetables for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-why-you-might-not-see-facebook-marketplace-available/"><u>Exploring Why You Might Not See Facebook Marketplace Available</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-pop-8-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Pop 8 Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29e-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29e Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-power-and-price-advantages-of-ibuypower-custom-pc-builds-for-gamers/"><u>In-Depth Look at the Power and Price Advantages of iBuyPower Custom PC Builds for Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-14-review/"><u>Lenovo Ideapad 14 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-vr-with-the-oculus-quest-2-elite-comfort-strap-in-depth-look-at-added-convenience-features-including-battery-and-case/"><u>Maximize Your VR with the Oculus Quest 2 Elite Comfort Strap - In-Depth Look at Added Convenience Features Including Battery & Case</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-compact-master-speedy-flash-get-yn560iv-now-at-a-deal/"><u>The Compact Master Speedy Flash - Get YN560IV Now at a Deal</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-amd-ryzen-5-9600x-and-ryzen-7-9700xs-superior-gaming-capabilities-in-zen-5-era/"><u>The Game Changer: AMD Ryzen 5 9600X & Ryzen 7 9700X's Superior Gaming Capabilities in Zen 5 Era</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-review-of-the-acer-chromebook-15-powerful-chrome-os-on-an-expansive-monitor/"><u>Top Review of the Acer Chromebook 15: Powerful Chrome OS on an Expansive Monitor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/twelve-south-compass-pro-gadget-analysis-optimized-design-ensures-ultimate-balance/"><u>Twelve South Compass Pro Gadget Analysis: Optimized Design Ensures Ultimate Balance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-list-7-mac-focused-vids-for-2024/"><u>Ultimate List 7 Mac-Focused Vids for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-nineteen-baseball-excellence-meets-unexpected-adventure-game-twists-a-comprehensive-review/"><u>'MLB The Show Nineteen': Baseball Excellence Meets Unexpected Adventure Game Twists - A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-branding-success-on-fb-through-immersive-cover-videos/"><u>[New] 2024 Approved Branding Success on FB Through Immersive Cover Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-the-power-of-in-stream-ads-strategy-and-metrics-guide/"><u>[New] 2024 Approved Unlocking the Power of In-Stream Ads Strategy & Metrics Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-crafting-a-compelling-profile-visual-experience-for-2024/"><u>[New] Crafting a Compelling Profile Visual Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-of-the-best-cutting-edge-hiring-videos-1-10-for-2024/"><u>[Updated] Best of the Best Cutting-Edge Hiring Videos #1-10 for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitter-gif-repository-capturing-the-essence-in-frames/"><u>[Updated] In 2024, Twitter Gif Repository Capturing the Essence in Frames</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-smooth-sailing-with-kinemaster-in-film-edits/"><u>[Updated] Smooth Sailing with Kinemaster in Film Edits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-down-android-version-16-new-features-launch-dates-price-guesswork-and-exciting-specs/"><u>Breaking Down Android Version 16: New Features, Launch Dates, Price Guesswork & Exciting Specs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-watch-voot-shows-for-free-streaming-options-for-desktop-and-web/"><u>How to Watch Voot Shows for Free: Streaming Options for Desktop and Web</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A56s 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/must-have-2024s-ergonomic-wrist-cushions-best-choices-revealed/"><u>Must-Have 2024'S Ergonomic Wrist Cushions: Best Choices Revealed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-generation-flight-simulation-an-in-depth-look-at-x-plane-11s-immersive-visual-experience/"><u>Next-Generation Flight Simulation: An In-Depth Look at X-Plane 11'S Immersive Visual Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-productivity-a-complete-review-of-the-powerful-and-versatile-dell-xps-nt-13-convertible-model/"><u>Next-Level Productivity: A Complete Review of the Powerful and Versatile Dell XPS N't 13 Convertible Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rise-to-power-with-expert-insights-on-offworld-trading-company-navigating-a-harsh-marketplace/"><u>Rise to Power with Expert Insights on Offworld Trading Company: Navigating a Harsh Marketplace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-active-2-analysis-enhanced-connection-and-smart-management-features/"><u>Samsung Galaxy Watch Active 2 Analysis: Enhanced Connection & Smart Management Features</u></a></li>
 </ul></div>
 

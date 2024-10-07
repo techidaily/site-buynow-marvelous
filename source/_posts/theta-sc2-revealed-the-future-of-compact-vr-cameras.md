@@ -1,7 +1,7 @@
 ---
 title: "Theta SC2 Revealed: The Future of Compact VR Cameras"
-date: 2024-08-27T10:49:24.493Z
-updated: 2024-08-28T10:49:24.493Z
+date: 2024-10-02T18:13:57.109Z
+updated: 2024-10-07T01:14:57.620Z
 categories:
   - BestProducts
 description: "This Article Describes Theta SC2 Revealed: The Future of Compact VR Cameras"
@@ -69,13 +69,30 @@ Lifewire / Rebecca Isaacs
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/tSFIFAR8G-C5W7DBBLPJ5GiE3EM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_03-8842478b07bd4585ba7f1843afcd29dc.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
  Despite this mesh exterior, the M9 chair is incredibly sleek and modern and adds style to any modern gaming setup. This is not only because of the mesh support but the rest of the chair is upholstered in beautiful, smooth leather. The logo on the headrest stands out, but it’s not really a detriment to the overall design of the chair.
 
  At 56 x 26 x 22.75 inches (HWD), the chair has a wide seat for spreading out and comes with an optional headrest. Even the wheels are prepped for hours of gameplay and come with a locking feature to ensure stability.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comfort: It’s all in the ergonomics
 
@@ -88,13 +105,14 @@ Lifewire / Rebecca Isaacs
 ![Mavix M9 Gaming Chair headrest ](https://www.lifewire.com/thmb/dk-8es8V-f2VzVltDiUNw0nCs2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_02-acc7e137bc7a4b25837fbbe065ac1416.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Performance and Usage: Amazing day-to-day
 
  Admittedly, I’m a repeat offender for the slouched-over-the-computer look and have been for years. However, for the first time in a really long time, the M9 Chair made me want to lean back—and straighten my posture.
@@ -107,9 +125,6 @@ Lifewire / Rebecca Isaacs
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/WWvjEhKERcoOvm-8u1GtzfLuV7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_05-91c5a721612e45cbbdc432ec9ab67e4b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
  And even better, if you decide that a nap is in order but you’d prefer not to move, you can invoke the M9’s Extended Recline, which allows the chair to recline up to 127 degrees. If you’re feeling a nap, it’s great. Personally, using the entirety of the 127 degrees made me a little nervous, but the good news is that the degree recline is also adjustable.
@@ -118,16 +133,27 @@ Lifewire / Rebecca Isaacs
 
  Only want to go back a few degrees? You can adjust that thanks to the levers underneath the chair seat. This feature also helped relieve my back when I started feeling like I’d been sitting in the chair too long. It’s a great, relaxing addition.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Hits the wallet hard
 
  For the price of $1,000, the Mavix M9 chair can be yours. That’s a lot of money to invest in a chair, especially when most places will charge a fraction of that for a desk chair. This isn’t just a desk chair, however—this is an ergonomic gamer’s chair, and as such, it’s designed to make gaming comfortable and easy. So, while it seems like a lot of money, realistically, you’re paying for a plethora of adjustability options, and ergonomics.
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/_eJYTViir2syGINJQq7Fxl1ofHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_04-d42bbf02273f4d0aa7c25351b201dc2c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Mavix M9 vs. XChair X4 Chair
 
@@ -141,9 +167,6 @@ Lifewire / Rebecca Isaacs
 
  While it can’t really be customized outside of cosmetic options, the M9 gaming chair is a solid, easy way to enjoy any gaming hobby without worrying about backaches. The reclining technology and the locking wheels are especially nice bonuses. The price may seem a little high, but it’s a worthy investment for any gamer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [FicMax Ergonomic Gaming Chair](https://www.lifewire.com/ficmax-ergonomic-gaming-chair-review-4771068)
@@ -162,14 +185,11 @@ Lifewire / Rebecca Isaacs
 * Color  Black, White, Black & Glacier, Black & White
 * Price  $1,000 for base model
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +198,22 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/picurean-escapades-crafting-kitchen-films/"><u>[New] Epicurean Escapades Crafting Kitchen Films</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficient-use-of-vlc-for-media-creation/"><u>[New] In 2024, Efficient Use of VLC for Media Creation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-enhance-iphone-hd-video-clarity-in-premiere-pro-post-production/"><u>[New] In 2024, Enhance iPhone HD Video Clarity in Premiere Pro Post-Production</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-channels-success-key-equipment-insights/"><u>[New] Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://discover-community.techidaily.com/dvd-n/"><u>初めてのDVD焼直しに最適なソフトウェアリスト：どちらを選ぶべきか見極める - 無料オプション・有料オプショn追加ガイド!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dont-miss-out-epic-prime-day-discounts-on-state-of-the-art-tribit-audio-devices/"><u>Don't Miss Out: Epic Prime Day Discounts on State-of-the-Art Tribit Audio Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embark-on-a-remarkable-quest-with-yokus-island-express-adventure-revealed/"><u>Embark on a Remarkable Quest with Yoku's Island Express Adventure Revealed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-your-internet-speed-with-the-miniature-ourlink-usb-wi-fi-u631-adapter/"><u>Enhance Your Internet Speed with the Miniature Ourlink USB Wi-Fi U631 Adapter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enjoy-audio-excellence-and-plush-comfort-a-closer-look-at-the-rotibox-wireless-beanie-hat/"><u>Enjoy Audio Excellence and Plush Comfort - A Closer Look at the Rotibox Wireless Beanie Hat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-effortless-ebooks-on-the-kobo-libra-h2o-a-top-pick-for-aquatic-enthusiasts/"><u>Experience Effortless eBooks on the Kobo Libra H2O – A Top Pick for Aquatic Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-kootek-portable-laptop-chiller-top-performance-proven/"><u>Expert Analysis of the Kootek Portable Laptop Chiller - Top Performance Proven</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-samsung-galaxy-m14-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://discover-best.techidaily.com/maitriser-le-processus-metier-principal-chez-balfour-beatty-rail-avec-abbyy-finereader/"><u>Maîtriser Le Processus Métier Principal Chez Balfour Beatty Rail Avec ABBYY FineReader</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/outperform-competitors-youtube-visibility-tactics-for-2024/"><u>Outperform Competitors YouTube Visibility Tactics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-sonic-connector-a-casters-companion-for-2024/"><u>Seamless Sonic Connector A Caster's Companion for 2024</u></a></li>
+</ul></div>
 

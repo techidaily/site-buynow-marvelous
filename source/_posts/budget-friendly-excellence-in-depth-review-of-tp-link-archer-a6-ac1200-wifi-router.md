@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Excellence: In-Depth Review of TP-Link Archer A6 AC1200 WiFi Router"
-date: 2024-08-27T10:52:33.880Z
-updated: 2024-08-28T10:52:33.880Z
+date: 2024-10-02T21:28:51.994Z
+updated: 2024-10-07T00:49:58.773Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Excellence: In-Depth Review of TP-Link Archer A6 AC1200 WiFi Router"
@@ -40,6 +40,13 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
@@ -63,9 +70,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -73,6 +77,13 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -88,10 +99,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Network Performance: Fast speeds, No USB port**
@@ -105,8 +112,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
@@ -123,21 +134,32 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
  The Archer A9 is another affordable offering from TP-Link, with a price tag of under $100\. However, the A9 has a USB port and is compatible with Alexa and[IFTTT](https://www.lifewire.com/what-is-ifttt-4172417) —features the C80 lacks. I recently tested the A9 as well. The A9 offers more in the way of features, but I was able to get faster speeds and better coverage out of the C80\. If you want a router that offers a more comprehensive experience, go with the A9\. If you just want an affordable, speedy router that will maintain a signal at long range, you’ll probably be happy with the C80.
@@ -174,8 +196,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +203,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ransform-your-youtube-venture-from-free-to-earnings-at-the-500-mark-for-2024/"><u>[New] Transform Your YouTube Venture From Free to Earnings at the 500 Mark for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[New] Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-next-gen-webinar-software-for-2024/"><u>[Updated] Navigating Next-Gen Webinar Software for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ascending-the-rankings-iphones-top-selfie-accessories/"><u>2024 Approved Ascending the Rankings IPhone's Top Selfie Accessories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5yip55so5lq65bel5pm66io96ieq55sx5pyn5yuz5ysq5yyw5q235yplusy55u454mh77ym5ywr5asn6auy5pwi546h5lplusu5b6p5pa55rov/"><u>利用人工智能自由服務優化歷史相片，八大高效率修復方法</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/commemorating-18-years-discover-the-special-project-for-digiartys-milestone/"><u>Commemorating 18 Years: Discover the Special Project for Digiarty's Milestone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid/"><u>In 2024, Unblocking Video Sharing How to Solve FB Chat Issues for iPhones/Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-recmasters-potential-in-screen-capture/"><u>In 2024, Unlocking Recmaster's Potential in Screen Capture</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-lava-blaze-2-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skydance-media-announces-strategic-acquisition-of-paramountplus-streaming-service-expands-entertainment-portfolio-with-pluto-tv-inclusion/"><u>Skydance Media Announces Strategic Acquisition of Paramount+ Streaming Service, Expands Entertainment Portfolio with Pluto TV Inclusion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/steam-game-distribution-now-more-seamless-and-improved/"><u>Steam Game Distribution Now More Seamless and Improved</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-to-linking-your-xbox-controller-with-your-personal-computer/"><u>Step-by-Step Guide to Linking Your Xbox Controller with Your Personal Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/struggling-with-spotify-addiction-despite-disliking-the-service/"><u>Struggling with Spotify Addiction Despite Disliking the Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-countdown-how-real-life-console-clashes-outshine-online-lan-bouts/"><u>The Ultimate Countdown: How Real-Life Console Clashes Outshine Online LAN Bouts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/timeless-entertainment-how-the-panic-playdate-continues-to-delight-gamers-beyond-its-second-anniversary/"><u>Timeless Entertainment: How the Panic Playdate Continues to Delight Gamers Beyond Its Second Anniversary</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-8-essential-steam-deck-gadgets-and-peripherals-you-must-have/"><u>Top 8 Essential Steam Deck Gadgets and Peripherals You Must Have</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-finest-waterproof-photography-gadgets-2024-edition/"><u>Ultimate Guide to Choosing the Finest Waterproof Photography Gadgets - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-octoprint-enhancing-your-3d-printers-performance-through-web-connectivity/"><u>Understanding OctoPrint: Enhancing Your 3D Printer's Performance Through Web Connectivity</u></a></li>
+</ul></div>
 

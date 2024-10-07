@@ -1,7 +1,7 @@
 ---
 title: "Lenovo ThinkPad X12 Detachable Review: Good 2-in-1, Great Keyboard"
-date: 2024-08-27T10:50:56.450Z
-updated: 2024-08-28T10:50:56.450Z
+date: 2024-10-04T18:41:46.278Z
+updated: 2024-10-06T16:24:49.676Z
 categories:
   - BestProducts
 description: "This Article Describes Lenovo ThinkPad X12 Detachable Review: Good 2-in-1, Great Keyboard"
@@ -115,9 +115,6 @@ PHOTO: Amazon
 
 [5 Things to Consider Before Buying a Wireless Router](https://www.lifewire.com/best-wi-fi-6-routers-5181486)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Best for Multi-Gigabit Internet
 
 [Motorola MB8611](https://www.walmart.com/ip/528073648)
@@ -202,9 +199,6 @@ PHOTO: Amazon
 
 **DOCSIS Standard:** 3.1 |**Channels:** 2x2 / 32x8 |**Speed:** 2Gbps / 800Mbps |**Voice Support:** No |**MOCA:** No |**Wired Ports:** 2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Basic Option
 
 [Netgear CM500](https://www.amazon.com/dp/B06XH46MWW?tag=lifewire-onsite-prod-20&ascsubtag=4082523%7Cnf5214e1caebb46e4825c05bae32bf72217%7CB06XH46MWW)
@@ -242,16 +236,24 @@ PHOTO: Amazon
 ![Motorola MG7700](https://www.lifewire.com/thmb/1SZf8UwoZuAHJOglWXBzaJfrml8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-3-2-5bacf868c9e77c002c9555f3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
+
 ### When Should You Rent Your Cable Modem?
 
  Before diving into the features to consider when buying a modem, it’s worth considering the possibility of renting one from your ISP. The modems on offer by ISPs are generally decent in quality (though not as good as the modems you can buy), plus going with a rental saves you from doing the legwork of finding one on your own. Further, if anything goes wrong with your cable modem, your ISP will take responsibility for fixing or replacing it, often even sending a technician to your home to take care of everything for you.
 
 ![Netgear-Nighthawk C7000](https://www.lifewire.com/thmb/9DXQaEhGunRAssafYX-TGybEsSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear-Nighthawk-C7000-5x4-465340ea47c74a319d9e8ae148401aeb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Generally, though, we recommend against renting a modem from your ISP. Since the rental often comes out to between $10 and $15 per month, you can save a lot of money by purchasing your own. For example, buying a modem/router combo for just $75 can quickly recoup your costs in less than a year.
 
@@ -260,8 +262,12 @@ PHOTO: Amazon
  For most, we recommend buying your modem. You’ll get much more control over your home network, and after a few years, you’ll have recouped the cost of the devices you would have otherwise had to rent. There's no need to worry about hardware problems either since they are rare among the more well-known brands, and all come with a standard warranty.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Compatibility with Your ISP
 
  There are other advantages to buying your modem. For starters, the modems you can rent from your ISP are usually on the older side and may not offer as fast or stable of a connection as you could get with something more modern. Most of the time, ISP modems lack features, preventing you from getting much control over your home network, which might be vital if you want to tweak your network’s settings.
@@ -273,8 +279,12 @@ PHOTO: Amazon
 ![Motorola MG7700 combo](https://www.lifewire.com/thmb/mczhPmklHisJ3nV93MiYFCIrGPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-3-4-5bacf875c9e77c0025819a90.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  FAQ
 
 * What’s the difference between DOCSIS 3.0 and DOCSIS 3.1?  
@@ -304,8 +314,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -313,4 +321,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-critical-platforms-offering-twitter-like-interaction-for-2024/"><u>[Updated] Critical Platforms Offering Twitter-Like Interaction for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leveraging-insta-archive-features-a-step-by-step-approach/"><u>[Updated] Leveraging Insta Archive Features A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overview-of-google-ar-sticker-and-its-alternative/"><u>[Updated] Overview of Google AR Sticker and Its Alternative</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-multiple-youtube-videos-into-one-for-2024/"><u>[Updated] Streamlining Multiple YouTube Videos Into One for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-ipad-mini-5-review/"><u>Apple iPad Mini 5 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-convenience-redefined-the-all-in-one-echo-dot-3rd-gen-review-for-everyday-alexa-use/"><u>Compact Convenience Redefined - The All-in-One Echo Dot (3Rd Gen) Review for Everyday Alexa Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-next-gen-mopping-and-vacuum-robot-powered-by-lidar/"><u>Comprehensive Guide to the Dreame Bot L10 Pro – Next-Gen Mopping and Vacuum Robot Powered by LiDAR</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/determining-if-apple-tv-fits-your-budget/"><u>Determining if Apple TV Fits Your Budget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-of-the-past-iphone-x-portraiture/"><u>Echoes of the Past IPhone X Portraiture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862801326-experience-next-gen-gaming-with-the-dough-spectrum-black-oled-monitor-review-elite-accuracy-meets-superior-quality-performance/"><u>Experience Next-Gen Gaming with the Dough Spectrum Black OLED Monitor Review: Elite Accuracy Meets Superior Quality Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-control-and-mobility-the-ultimate-precision-gaming-with-a-cordless-sabrent-travel-mouse/"><u>Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y100i-power-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y100i Power 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersive-dying-light-co-op-adventure-first-person-parkour-and-survival-gameplay/"><u>Immersive Dying Light Co-Op Adventure: First-Person Parkour & Survival Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meet-your-next-desktop-dream-machine-the-innovative-raspberry-pi-t-400-reviewed/"><u>Meet Your Next Desktop Dream Machine: The Innovative Raspberry Pi T 400 Reviewed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pinyin-and-characters-an-introduction/"><u>Pinyin and Characters: An Introduction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-affordable-ssl-security-options/"><u>The Best Affordable SSL Security Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-jaco-smartpro-digital-tire-inflator-a-study-in-efficiency-and-strength/"><u>The Ultimate Guide to the Jaco SmartPro Digital Tire Inflator – A Study in Efficiency and Strength</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unsubscribed-and-secure-an-in-depth-analysis-of-the-eufy-t8200-video-doorbell/"><u>Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mac-movie-creation-a-beginners-guide-to-making-movies/"><u>Updated Mac Movie Creation A Beginners Guide to Making Movies</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance"
-date: 2024-08-27T10:47:30.848Z
-updated: 2024-08-28T10:47:30.848Z
+date: 2024-10-02T16:39:23.881Z
+updated: 2024-10-06T19:44:39.497Z
 categories:
   - BestProducts
 description: "This Article Describes Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance"
@@ -69,8 +69,12 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: A rugged unit, a generous accessory kit, and a sturdy case to keep it all in**
 
  As mentioned, the M MOOCK's case packs a lot of style, but it's not just flash—it also provides a convenient place to keep everything together. The jump starter unit itself is thin but long, so the case ends up being a relatively large square. You can stash it under a seat without any issue, but it won't fit in most glove boxes.
@@ -90,8 +94,12 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
  To charge other devices there’s a lot less fuss involved. You simply need to plug the device into the USB or DC power port and turn the unit on. A Micro USB cable is provided, so if you have a device that uses a more modern charging port, you'll want to put an extra cable for it in the MOOCK case as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: A nice jolt of power to start even the most drained of vehicles**
 
  Assuming you’ve carefully placed the M MOOCK in a spot where it can securely clamp onto the battery yet not fall out of the engine bay, you’ll find that the unit does a good job of jump starting a car. The test vehicle had a battery depleted down to 10V, and while the vehicle did momentarily struggle to start initially, it started just fine after double-checking the connections. It’s hard to say if that initial struggle was due to the unit’s relatively lower start and peak output currents, or if it truly just boiled down to a connectivity issue.
@@ -102,17 +110,10 @@ An inexpensive option considering what it can do.
 
 Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Key Features: A bright flashlight, but in a decidedly narrow band**
 
  The built-in flashlight in the M MOOCK Jump Starter puts out a lot of light but only in a relatively narrow band. Luckily, the full unit's basically handheld and therefore it's easy to point the flashlight at what you need. Once you start connecting cables it becomes much harder to aim the light properly. The flashlight can also be set to rapidly blink to draw attention to your situation, or to blink in the standard pattern for “SOS” to really drive home the fact that you need assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Price: Some of the best value to be found in jump starters**
 
  You can pick up this model for about $70, which makes the M MOOCK Jump Starter an inexpensive option considering what it can do. The case doesn’t feel like it can take too much of a beating, but protects the starter well, and the included accessory kit is generously provisioned.
@@ -120,8 +121,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: A good showing against close competition**
 
 **_DBPOWER 600A Peak 18000mAh Portable Car Jump Starter_ :** Despite the high quality of the DBPOWER, the M MOOCK 1000A Peak 18000mAh Car Jump Starter is still a better choice. It provides slightly better output current, which is important for reliable jump starts, and yet it's also slightly less expensive. You can’t go wrong either way, but the MOOCK unit has just the slightest edge.
@@ -141,8 +152,12 @@ A good choice with just a few nagging flaws.
  The M Moock 1000A Peak 18000mAh Car Jump Starter is a surprisingly solid choice in jump starters. It has few glaring flaws, and the ones that it does have (like the short cables) just make it marginally more difficult to use, as opposed to being true deal breakers. That said, there are other units available on the market that share some or all the same features but have fewer drawbacks. Overall, the unit's successful but flawed, yet very reliable when you need it most.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Car Jump Starter
@@ -164,8 +179,6 @@ A good choice with just a few nagging flaws.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +186,21 @@ A good choice with just a few nagging flaws.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>[New] In 2024, Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-8-pitfalls-for-novice-youtube-creators/"><u>[Updated] Top 8 Pitfalls for Novice YouTube Creators</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audio-elites-apple-airpods-pro-vs-samsung-galaxy-buds-pro-edition/"><u>Audio Elites: Apple AirPods Pro Vs. Samsung Galaxy Buds Pro Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazonbasics-7-port-usb-30-hub-assessment-unmatched-connectivity-awaits/"><u>Comprehensive AmazonBasics 7-Port USB 3.0 Hub Assessment: Unmatched Connectivity Awaits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/days-gone-an-in-depth-analysis-of-a-motorcyclists-experience-in-the-zombie-outbreak/"><u>Day's Gone - An In-Depth Analysis of a Motorcyclist's Experience in the Zombie Outbreak</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciding-the-right-direction-fb-video-posts/"><u>Deciding the Right Direction FB Video Posts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-advanced-body-cams-on-the-market/"><u>Discover the Most Advanced Body Cams on the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ergodriven-topo-mat-analysis-your-guide-to-a-revolutionary-standing-desk-support-system/"><u>Ergodriven Topo Mat Analysis: Your Guide to a Revolutionary Standing Desk Support System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-sumind-bt70b-top-of-the-line-bluetooth-fm-transmitter-performance-insights/"><u>Evaluating Sumind BT70B: Top-of-the-Line Bluetooth FM Transmitter Performance Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-beyond-the-skyline-with-yuneecs-typhoon-q500/"><u>In 2024, Beyond the Skyline with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/potential-threats-when-using-microsoft-office-on-apples-macos-platform/"><u>Potential Threats when Using Microsoft Office on Apple's macOS Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-civi-3-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-editing-tutorial-mastering-video-cuts-for-2024/"><u>YouTube Editing Tutorial Mastering Video Cuts for 2024</u></a></li>
+</ul></div>
 

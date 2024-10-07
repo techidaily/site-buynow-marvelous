@@ -1,7 +1,7 @@
 ---
 title: Ultimate Selection of 2024'S Premium MicroSD Memory Cards - Expert Reviews and Ratings
-date: 2024-09-26T17:45:31.056Z
-updated: 2024-10-01T17:06:50.552Z
+date: 2024-10-06T03:26:22.173Z
+updated: 2024-10-07T02:01:09.690Z
 tags:
   - buying-guides
 categories:
@@ -96,6 +96,13 @@ If you need a single option for your microSD card, go for the Samsung Pro Plus. 
 
 ![sandisk ultra 1.5TB](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-ultra-1_5tb.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 SanDisk
 
 | Pros                                 | Cons                                     |
@@ -129,13 +136,6 @@ The SanDisk Ultra is a reliable microSD card for everyday essential data storage
 
 ![samsung evo select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/samsung-evo-select.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Samsung
 
 | Pros               | Cons                           |
@@ -153,6 +153,13 @@ Samsung
 
 ![samsung evo select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/samsung-evo-select.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best microSD Card for Steam Deck
@@ -164,13 +171,6 @@ $40 $56 Save $16
 The Samsung Evo Select is an excellent companion for your Stream Deck. It can reach up to 160MB/s speeds and has a 10-year limited warranty.
 
 [$40 at Amazon](https://www.amazon.com/dp/B0CWPPMD8W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [$45 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1815981-REG/samsung%5Fmb%5Fme512sa%5Fam%5F512gb%5Fevo%5Fselect%5Fmicrosdxc.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best microSD Card for Nintendo Switch: [SanDisk Extreme microSDXC card](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter-dp-B09X7CRKRZ/dp/B09X7CRKRZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
@@ -193,7 +193,27 @@ SanDisk
 
 ![sandisk-extreme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/sandisk-extreme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best microSD Card for Nintendo Switch
 
@@ -228,20 +248,13 @@ Kingston
 ![kingston canvas go plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/kingston-canvas-go-plus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best microSD Card for Raspberry Pi
 
@@ -251,16 +264,16 @@ Thanks to its fantastic read and write speeds, the Kingston Canvas Go Plus is an
 
 [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1557869-REG/kingston%5Fsdcg3%5F128gbsp%5F128gb%5Fcanvas%5Fgo%5Fplus.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best microSD Card for Cameras: [SanDisk Extreme microSDXC card](https://www.amazon.com/gp/product/B09X7CRKRZ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![sandisk extreme 512gb](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-extreme-512gb.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 SanDisk
 
@@ -282,6 +295,13 @@ SanDisk
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best microSD Card for Cameras
 
 #####  SanDisk Extreme 
@@ -302,22 +322,15 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 
  You can use a microSD card as a normal SD card using an adapter. MicroSD cards are often bundled with an adapter for this very purpose. However, you can buy one separately if your microSD card doesn’t have an adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why is read and write speed important for an SD card?
 
  Read and write speeds are [important for microSD and SD cards](https://some-approaches.techidaily.com/updated-total-takeover-of-powerdirector-with-our-2024-review/) because they impact how quickly you can access the content stored on them or store fresh content. For example, your camera will struggle to record 4K video on a card without a fast writing speed. As cameras often have very little onboard storage, the captured photos and videos are transferred to the microSD and [SD cards](https://facebook-video-content.techidaily.com/2024-approved-what-lurks-behind-the-curtain-of-missing-video-suggestions/) in real time. Similarly, without faster read speeds, your portable gaming console won’t be able to quickly load the apps and games on the card.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What do the microSD card classes mean?
@@ -329,13 +342,6 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
  As the name suggests, Video Speed Class tells how well a card handles sustained writing for video recording. It’s denoted by V followed by a number. V6 cards have a minimum 6MBps write speed, whereas V90 cards have a minimum 90MBps write speed.
 
  Finally, the Application Performance Class tells a card’s ability to handle random read and write operations. These speeds are essential for how well an app loads or runs on a microSD card. The A1 class has a minimum 1500 IOPS random read speed and 500 IOPS random write speed. The A2 class has a minimum 4000 IOPS random read speed and 2000 IOPS random write speed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I format a microSD card?
 
@@ -356,21 +362,15 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/tructuring-videos-for-maximum-impact-on-youtube/"><u>[New] Structuring Videos for Maximum Impact on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-virtual-races-the-quintessential-list/"><u>[Updated] 2024 Approved Ultimate Virtual Races The Quintessential List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-adeptly-attaining-youtube-like-features-download-fb-vids-for-2024/"><u>[Updated] Adeptly Attaining YouTube-Like Features Download Fb Vids for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unleashing-creativity-yi-hero-in-motion-and-still-frames/"><u>2024 Approved Unleashing Creativity Yi Hero in Motion and Still Frames</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/decoding-gopro-time-lapse-a-comprehensive-guide-for-2024/"><u>Decoding GoPro Time-Lapse A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-listening-pleasure-with-the-intelligent-features-of-nest-audio-speaker-system/"><u>Elevate Your Listening Pleasure with the Intelligent Features of Nest Audio Speaker System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/embracing-change-iphones-replacement-program/"><u>Embracing Change: IPhone's Replacement Program</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-essentials-choosing-a-camera-recorder-wisely/"><u>Evaluating Essentials: Choosing a Camera Recorder Wisely</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exercise/"><u>Exercise:</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-convenient-riding-test-drive-mods-user-friendly-e-bike-with-sidecar/"><u>Experience Convenient Riding: Test Drive Mod's User-Friendly E-Bike with Sidecar</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-rca-video-doorbell-security-camera/"><u>Expert Analysis of the RCA Video Doorbell Security Camera</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-most-effective-cell-phone-reception-enhancers/"><u>Expert Picks: The Most Effective Cell Phone Reception Enhancers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-the-persistent-dark-display-on-mtg-arena-solutions-revealed/"><u>How to Troubleshoot the Persistent Dark Display on MTG Arena - Solutions Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y100i-power-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y100i Power 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-130-music-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 130 Music Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-understanding-audacitys-noise-suppression-techniques-step-by-step-guide-for-2024/"><u>Updated Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iverse-vlogging-content-suggestions/"><u>[New] Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-earnings-update-navigating-youtube-monetization/"><u>[New] Earnings Update Navigating YouTube Monetization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-idea-to-recording-a-comprehensive-guide-to-podcast-scripting/"><u>2024 Approved From Idea to Recording A Comprehensive Guide to Podcast Scripting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-buzz-around-sony-car-afeela-probable-release-dates-cost-estimates-and-expected-features-unpacked/"><u>Discover the Buzz Around Sony Car (Afeela): Probable Release Dates, Cost Estimates & Expected Features Unpacked!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lenovo-chromebook-duet-a-low-cost-tabletlaptop-fusions-performance-overview/"><u>Exploring the Lenovo Chromebook Duet - A Low-Cost Tablet/Laptop Fusion's Performance Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-realm-of-monster-hunter-world-a-guide-to-battling-ferocious-creatures/"><u>Exploring the Realm of Monster Hunter: World – A Guide to Battling Ferocious Creatures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-venu-uncovered-innovative-features-for-constant-fitness-and-wellbeing-tracking/"><u>Garmin Venu Uncovered: Innovative Features for Constant Fitness and Wellbeing Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hands-on-with-the-latest-tech-marvel-a-look-at-samsung-galaxy-s24-ultras-first-encounter/"><u>Hands-On with the Latest Tech Marvel: A Look at Samsung Galaxy S24 Ultra's First Encounter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007687525-the-awaited-launch-of-immortals-fenyx-rising-problem-solved-and-game-is-live/"><u>The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-asus-dvd-player-drivers-secure-your-system-now/"><u>Update Your ASUS DVD Player Drivers – Secure Your System Now</u></a></li>
 </ul></div>
 

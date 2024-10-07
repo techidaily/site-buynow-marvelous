@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the OnePlus 8T: A Rapid Device with Cameras Needing Improvement"
-date: 2024-08-27T10:48:27.789Z
-updated: 2024-08-28T10:48:27.789Z
+date: 2024-09-30T22:26:52.953Z
+updated: 2024-10-07T01:27:50.980Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the OnePlus 8T: A Rapid Device with Cameras Needing Improvement"
@@ -40,6 +40,13 @@ Apple
 
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/nPYphnTjSnL2fpeSHarRr-eDzuw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apple
 
 [View On Amazon $457](https://www.amazon.com/Apple-Cellular-Smartwatch-Midnight-Aluminum/dp/B0CHXFH656?tag=lifewire-onsite-prod-20&ascsubtag=8415760%7Cne2a5ccc09be7443aa21b4e7b104026e418%7CB0CHXFH656) [View On Walmart $439](https://www.walmart.com/ip/Apple-Watch-Series-9-GPS-45mm-Pink-Aluminum-Case-with-Light-Pink-Sport-Band-S-M/5032289284) [View On Best Buy $429](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-9-gps-45mm-midnight-aluminum-case-with-midnight-sport-band-m-l-midnight%2F6340284.p%3FskuId%3D6340284)
@@ -69,8 +76,12 @@ Lifewire/Molly McLaughlin
 [How to Set Up Apple Watch](https://www.lifewire.com/set-up-apple-watch-4589317)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pricing and What's New
 
  The Apple Watch Series 9 costs $399 for Wi-Fi only, the same as the Series 8 & 7\. To add Cellular, pricing starts at $499\. (I have the Apple Watch Series 9 GPS + Cellular 45mm.)
@@ -79,9 +90,6 @@ Lifewire/Molly McLaughlin
 
 ![Apple Watch Series 9 on a desk next to its charger.](https://www.lifewire.com/thmb/fnvFdlUB4ml_QaA-kIP14u1pQsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_withcharger-11e49fb444df404b834b2127b3ebcab0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire/Molly McLaughlin
 
  The display has double the brightness of the Series 8 and comes in a new pink color.
@@ -96,9 +104,6 @@ Lifewire/Molly McLaughlin
 
 [How to Ping Your iPhone From Your Apple Watch](https://www.lifewire.com/ping-iphone-from-apple-watch-7570320)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Theater Mode
 
  One of my favorite features is Theater Mode, which prevents the screen from lighting up when you glance at it or receive a notification. It's perfect for the movies and theater, of course, but it also came in handy when I was recently on jury duty during the trial and needed to keep distractions to a minimum.
@@ -109,9 +114,6 @@ Lifewire/Molly McLaughlin
 
 [Smart Watches & Wearables](https://www.lifewire.com/theater-mode-on-apple-watch-5115897)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fitness Tracking
 
  I use the watch for fitness tracking and try to "close my rings" daily. After a few bike rides where my average speed was skewed because I forgot to pause or unpause the workout during or after a break, I was pleased to find that you can enable automatic pausing (auto-pause) for biking and running.
@@ -119,8 +121,12 @@ Lifewire/Molly McLaughlin
  In my experience, the watch was quick to pause when I stopped at traffic lights and resume once I started moving again. (This is also helpful if you forget to end a workout.)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Who Should Buy It?
 
  If you have a Series 6 or older, it's worth moving up to the Series 9 as you're likely dealing with declining performance and a more easily depleted battery. The Series 9 costs the same as the Series 7 and 8, so there's little reason to purchase last year's model.
@@ -136,8 +142,12 @@ Lifewire/Molly McLaughlin
 [Smart Watches & Wearables](https://www.lifewire.com/how-to-use-apple-watch-4584460)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Watch Series 9 GPS + Cellular 45mm
@@ -152,8 +162,6 @@ Lifewire/Molly McLaughlin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +169,24 @@ Lifewire/Molly McLaughlin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-explore-11-budget-friendly-title-generators-for-yt-for-2024/"><u>[New] Explore 11 Budget-Friendly Title Generators for YT for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-savvy-secure-your-captures-chromebooks-top-4-techniques-for-2024/"><u>[Updated] Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-captivating-adventure-in-space-the-outer-worlds-an-engaging-sci-fi-shooter-and-tale/"><u>A Captivating Adventure in Space: The Outer Worlds - An Engaging Sci-Fi Shooter and Tale</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-corsair-icue-driver-installation-tool-compatible-with-windows-10-and-11/"><u>Get Your Free Corsair iCUE Driver Installation Tool: Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-15-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 15 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-camon-20-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Camon 20 FRP?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-hp-monitor-malfunctions-a-complete-walkthrough/"><u>Resolving HP Monitor Malfunctions: A Complete Walkthrough</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-propella-amidst-a-storm-said-mr-hawkins-his-eyes-reflecting-a-mix-of-concern-and-resilience-this-is-no-ordinary-storm-its-been-brewing126/"><u>The Ultimate Guide to Propella Amidst a Storm, Said Mr. Hawkins, His Eyes Reflecting a Mix of Concern and Resilience. This Is No Ordinary Storm; It's Been Brewing for Years, Hidden From Our Sight by the Deceptive Calm.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-innovative-technology-packed-into-the-linksys-ea950ve-router/"><u>The Ultimate Guide to the Innovative Technology Packed Into the Linksys EA950ve Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/to-subscribe-or-not-to-subscribe-evaluating-chatgpt-plus-with-these-5-convincing-points/"><u>To Subscribe or Not to Subscribe: Evaluating ChatGPT Plus with These 5 Convincing Points.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-iphone-security-software-choosing-the-ideal-antivirus-app/"><u>Top 6 iPhone Security Software: Choosing the Ideal Antivirus App</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-performance-analysis-linksys-wrt3n-acm-a-leading-choice-in-open-source-wifi-routers/"><u>Top Performance Analysis: Linksys WRT3n ACM - A Leading Choice in Open-Source WiFi Routers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-popscrackling-sounds-on-your-speakers-for-win-10-or-7/"><u>Troubleshooting and Fixing Pops/Crackling Sounds on Your Speakers for Win 10 or 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-performance-fluctuations-of-seatechs-portable-blu-ray-writing-device-with-a-usb-connection-a-thorough-examination/"><u>Unpacking the Performance Fluctuations of SeaTech's Portable Blu-Ray Writing Device with a USB Connection: A Thorough Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/value-packed-lg-um7300-49-inch-4k-smart-tv-an-insightful-product-analysis-for-budget-shoppers/"><u>Value-Packed LG UM7300 49-Inch 4K Smart TV: An Insightful Product Analysis for Budget Shoppers</u></a></li>
+</ul></div>
 

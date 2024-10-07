@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-09-29T20:16:33.807Z
-updated: 2024-10-01T19:25:19.734Z
+date: 2024-10-05T02:08:19.864Z
+updated: 2024-10-06T23:23:36.202Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -42,13 +42,6 @@ Lifewire / Andy Zahn
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -105,10 +98,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
@@ -119,6 +112,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -126,13 +126,6 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -189,10 +182,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
@@ -217,6 +210,13 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -224,10 +224,10 @@ Lifewire / Andy Zahn
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -264,21 +264,16 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-youtubes-economic-model-month-to-month-income/"><u>[New] 2024 Approved YouTube's Economic Model Month-to-Month Income?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-clinical-manifestations-of-fetal-alcohol-syndrome/"><u>[Updated] 2024 Approved Clinical Manifestations of Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-efficient-youtube-to-mpeg-transcoding/"><u>[Updated] Expert Tips for Efficient YouTube-to-MPEG Transcoding</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-smartwatch-insights-a-detailed-look-at-the-compact-power-of-the-fitbit-versa/"><u>Affordable Smartwatch Insights: A Detailed Look at the Compact Power of the Fitbit Versa</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/barnes-and-noble-nook-glowlight-3/"><u>Barnes & Noble Nook GlowLight 3</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-iphone-models-for-serious-gamers-a-comprehensive-guide/"><u>Best iPhone Models for Serious Gamers: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/brave-new-world-of-outdoor-viewing-with-sunbriteveranda-the-ultimate-55-inch-hdr-ready-television/"><u>Brave New World of Outdoor Viewing with SunBriteVeranda - The Ultimate 55-Inch, HDR Ready Television</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-official-nvidia-drivers-for-geforce-rtx-3070-ti-on-your-win-11-8-or-7-pc/"><u>Install Official NVIDIA Drivers for GeForce RTX 3070 Ti on Your Win 11, 8 or 7 PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/lenovo-legion-go-the-future-in-your-hands/"><u>Lenovo Legion Go - The Future in Your Hands</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/paws-and-playtime-interactive-pet-game/"><u>Paws & Playtime: Interactive Pet Game</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ty-guffaws-uncover-the-top-15-youtube-comedy-talents/"><u>Quality Guffaws Uncover the Top 15 YouTube Comedy Talents</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-rog-gt-ax110-router-review-for-gamers-high-speeds-and-robust-features/"><u>The Ultimate Guide to the Asus ROG GT-AX110# Router Review for Gamers, High Speeds and Robust Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-ax6000-vs-netgear-nighthawk-ax12-which-router-reigns-supreme/"><u>TP-Link Archer AX6000 vs NETGEAR Nighthawk AX12: Which Router Reigns Supreme?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211031652-wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-social-media-impact-secrets-unveiled-in-the-best-facebook-bios/"><u>[New] 2024 Approved Elevate Your Social Media Impact Secrets Unveiled in the Best Facebook Bios</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-11-best-streaming-audio-recorders/"><u>[New] 2024 Approved Top 11 Best Streaming Audio Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/crafting-visual-stories-with-snapchat-photo-edits-for-2024/"><u>Crafting Visual Stories with Snapchat Photo Edits for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-a1-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo A1 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-10t-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 10T 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-tcl-absolutely-tcl-32s325-smart-led-tv-functionality-meets-style-in-2019-model/"><u>Reviewing the TCL Absolutely TCL 32S325 Smart LED TV - Functionality Meets Style in 2019 Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-romer-chargeable-spotlight-analysis-a-high-powered-and-eco-friendly-illuminator-for-adventures/"><u>Revolutionary Romer Chargeable Spotlight Analysis: A High-Powered & Eco-Friendly Illuminator for Adventures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rigorous-testing-of-kensuns-portable-pneumatic-tool-sturdy-build-and-unmatched-mobility-revealed-in-this-thorough-assessment/"><u>Rigorous Testing of Kensun's Portable Pneumatic Tool - Sturdy Build and Unmatched Mobility Revealed in This Thorough Assessment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/secure-your-old-or-new-dvd-in-just-5-minutes-no-quality-loss/"><u>Secure Your Old or New DVD in Just 5 Minutes - No Quality Loss</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/start-your-glow-journey-with-studio-agg814-kit/"><u>Start Your Glow Journey with Studio AGG814 Kit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Garmin Forerunner 945: Top-Tier Smartwatch for Athletes"
-date: 2024-08-27T10:50:26.169Z
-updated: 2024-08-28T10:50:26.169Z
+date: 2024-09-29T16:32:03.888Z
+updated: 2024-10-06T17:47:31.220Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the Garmin Forerunner 945: Top-Tier Smartwatch for Athletes"
@@ -41,6 +41,13 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Zach Sweat
 
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
@@ -69,8 +76,12 @@ Lifewire / Zach Sweat
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Dark, sturdy, and feature-packed**
 
  The general format of the Elite Series 2 takes the basic XB1 controller and builds upon that excellent design by adding in tons of extras and features. However, unlike the first Elite controller, this version uses the newer One S model controller as its basis. This means there is no more two-piece design where the top and bottom shells of the controller are separate. The build is less flashy perhaps, no longer sporting a two-tone finish, but it makes it feel much more solid and creates a sleeker look.
@@ -115,9 +126,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process and Software: Bluetooth, at long last**
 
  One of our biggest gripes with the original Elite controller was that it lacked Bluetooth functionality despite its premium price tag. Seeing how the much cheaper ONE S variant included this, it was even more frustrating. Thankfully, Microsoft listened to our collective rants and added Bluetooth to the Series 2, which drastically improves the number of devices it can be used with.
@@ -139,13 +147,21 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -168,9 +184,6 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -181,10 +194,14 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
@@ -217,14 +234,11 @@ Lifewire / Zach Sweat
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,4 +247,26 @@ Lifewire / Zach Sweat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>[New] Speeding Up Your Streams The Netflix Efficiency Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>[New] The Future Is in Your Cloud Price Rankings & Bargains 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cleaner-frames-with-advanced-webcam-tech/"><u>[Updated] Cleaner Frames with Advanced Webcam Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-film-study-premier-insights-infographic/"><u>[Updated] In 2024, Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-harnessing-altitude-live-streaming-with-dji-drones/"><u>[Updated] In 2024, Harnessing Altitude Live-Streaming with DJI Drones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>[Updated] In 2024, Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/getting-familiar-with-apples-cutting-edge-device-the-iphone-15-pro-a-comprehensive-guide/"><u>Getting Familiar with Apple's Cutting Edge Device - The iPhone 15 Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/godfall-on-ps5-from-exclusive-game-to-boring-experience/"><u>Godfall on PS5: From Exclusive Game to Boring Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-broadcast-battle-obs-against-wirecast/"><u>In 2024, Broadcast Battle OBS Against Wirecast</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y100i-power-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y100i Power 5G Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-how-the-motorola-edgeplus-struggles-with-flagship-quality/"><u>In-Depth Analysis: How the Motorola Edge+ Struggles with Flagship Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-amazons-blazingly-quick-fire-tv-cube-the-top-pick-for-seamless-streaming/"><u>In-Depth Look at Amazon's Blazingly Quick Fire TV Cube - The Top Pick for Seamless Streaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kootek-laptop-fan-stand-evaluation-an-exceptional-overall-choice/"><u>Kootek Laptop Fan Stand Evaluation: An Exceptional Overall Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-domestic-climate-detectors-the-2024-lineup/"><u>Leading Domestic Climate Detectors: The 2024 Lineup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lumix-dc-fz80-high-quality-affordable-choice/"><u>Lumix DC-FZ80: High Quality, Affordable Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/manfrotto-befree-advanced-aluminum-travel-tripod-review/"><u>Manfrotto Befree Advanced Aluminum Travel Tripod Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-device-obtain-and-install-the-newest-intel-wi-fi-6-ax200-drivers-for-windows-1110-enthusiasts/"><u>Optimize Your Device: Obtain & Install the Newest Intel Wi-Fi 6 AX200 Drivers for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/perfect-harmony-high-fidelity-earplugs-reviewed/"><u>Perfect Harmony: High Fidelity Earplugs Reviewed</u></a></li>
+</ul></div>
 
