@@ -1,7 +1,7 @@
 ---
 title: "Epic Gaming Experience on Your Steam Deck: A Step-by-Step Installation Guide"
-date: 2024-09-25T17:38:37.260Z
-updated: 2024-10-01T20:01:11.805Z
+date: 2024-10-06T19:43:21.023Z
+updated: 2024-10-12T17:17:40.569Z
 tags:
   - games
   - tv
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
  The Steam Deck is a great handheld gaming PC, but its focus on Steam means no native support for playing games from other launchers, including the Epic Games Launcher. But you _can_ play games from Epic's store on your Steam Deck if you use these workarounds.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Playing Epic Games Store Games on Your Steam Deck
 
  Before I show you how to download and play Epic Games Launcher games on your [Steam Deck](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/), let me showcase your options for downloading and playing said games.
@@ -53,13 +66,26 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![Installing the Heroic Games Launcher from the Discovery Store on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-01.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That’s it! It’s time to log in to the Epic Games Store and download some games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Download Epic Games Store Games Using Heroic
@@ -69,28 +95,15 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 ![Opening the Heroic Games Launcher in SteamOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-02.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you open Heroic, you should have a tab that reads “Log In” above the “Library” tab. Click on it and sign in with your Epic Games Store account. If you have [Two-factor authentication](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/) enabled, the EGS may ask you to enter a code you will receive via email. Just enter the code and proceed.
 
 ![Heroic Games Launcher Home Screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-03.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once logged in, click the “Library” tab and then select the “Epic Games” button in the “Filters” menu. Here, you will see your EGS library.
 
@@ -108,27 +121,27 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![Installing a game in the Heroic Games Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-07.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the game to install and then launch it in Heroic straight from Desktop Mode to check whether it runs without issues. If you receive a warning like the one shown below, just click the “Yes” button. Clicking “Yes” will launch the game with the latest version of [Proton](https://screen-capture.techidaily.com/updated-camsphere-exploration-what-else-can-we-see/), usually Proton-Experimental.
 
 ![A warning showing while trying to run a game from the Heroic Games Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the game launches fine, great. If it doesn’t, it might have issues with Proton-Experimental. To change the version of Proton you want to launch the game with, click the “Settings” button to access the game’s options menu in Heroic.
 
 ![Clicking a game's options menu in the Heroic Games Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-09.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, click the “Wine Version” dropdown menu and select the latest Proton version that isn’t Experimental. In this case, it’s Proton 8.0\. If the game still doesn’t work, try different versions of Proton until you find one that works well with the specific game you’re trying to play.
 
@@ -166,6 +179,13 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![Closing down Steam on SteamOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-14.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you close Steam, find its icon on the desktop and double tap it with your finger (since exiting Steam disables the trackpads).
 
  Once you open Steam, go to your library, and the game you’ve added—_A Short Hike_, in my case—should be listed on the “Recent Games” shelf as well as in the “Uncategorized” tab on the left side of the library.
@@ -177,13 +197,6 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
  Other ways to locate the game you've added to Game Mode include searching for it in the Game Mode Search box and going to your library—Steam button > Library—and navigating to the “Non-Steam” collection.
 
 ![Non-Steam collection in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-16.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Add Heroic Games Launcher to Game Mode
 
@@ -198,10 +211,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 ![The Heroic Games Launcher shortcut shown in the Steam library.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-18.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To locate the Heroic shortcut in Game Mode, open your Library—Steam button > Library—and go to your Non-Steam games collection.
@@ -221,13 +234,6 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
  Once you unzip the archive, look for the “NonSteamLaunchers.sh” file and run it.
 
 ![Opening the NonSteamLaunchers app in SteamOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-install-and-play-epic-games-on-a-steam-deck-21.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now select the “Epic Games” from the list and click “OK.” Note that you can install any other launcher you want.
 
@@ -282,18 +288,19 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-alternative-recreation-in-the-firstrow-rankings/"><u>[Updated] Alternative Recreation in the Firstrow Rankings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-content-creation-on-facebook-aspect-ratio-choice/"><u>2024 Approved Content Creation on Facebook Aspect Ratio Choice</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-4-critique-continual-innovation-leads-to-unmatched-superiority/"><u>Apple Watch Series 4 Critique: Continual Innovation Leads to Unmatched Superiority</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/behind-the-wheel-exploring-the-power-and-precision-of-galaxys-miniaturized-ford-f-1-remote-control-masterpiece/"><u>Behind the Wheel: Exploring the Power and Precision of Galaxy's Miniaturized Ford F-1# Remote Control Masterpiece</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/binge-worthy-viewing-on-budget-explore-the-vast-options-of-roku-express/"><u>Binge-Worthy Viewing on Budget? Explore the Vast Options of Roku Express</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-apple-watch-series-se-is-it-worth-the-upgrade/"><u>Budget-Friendly Apple Watch Series SE: Is It Worth the Upgrade?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-clarity-comprehensive-free-pcmac-recording-apps/"><u>Capture Clarity Comprehensive Free PC/Mac Recording Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-sound-sanctuary-optimizing-system-alerts/"><u>Crafting a Sound Sanctuary: Optimizing System Alerts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-gt-neo-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme GT Neo 5 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-case-study-approach-learning-from-successful-market-research-examples/"><u>In 2024, Case Study Approach Learning From Successful Market Research Examples</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-p55-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel P55</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-strategies-for-resolving-iphones-frozen-ios-update-issue/"><u>Top Strategies for Resolving iPhone's Frozen iOS Update Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-conquering-remote-work-mastering-the-use-of-zoom-and-gmail-for-2024/"><u>[New] Conquering Remote Work Mastering the Use of Zoom and Gmail for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-digital-portraits-proven-the-science-of-social-snap-validation/"><u>[New] In 2024, Digital Portraits Proven The Science of Social Snap Validation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cross-platform-guide-to-transforming-photographic-genders-online/"><u>[Updated] 2024 Approved Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-categories-the-distinctive-features-of-public-private-and-personal-artificial-intelligence/"><u>Demystifying AI Categories – The Distinctive Features of Public, Private, and Personal Artificial Intelligence</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mobile-bibliophiles-unite-the-kobo-clara-hd-your-ultimate-companion/"><u>Mobile Bibliophiles Unite: The Kobo Clara HD – Your Ultimate Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/moto-g-power-analysis-exceptional-durability-and-remarkable-long-lasting-battery/"><u>Moto G Power Analysis: Exceptional Durability & Remarkable Long-Lasting Battery</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-parental-control-tech-top-routers-of-2024/"><u>Navigating Parental Control Tech: Top Routers of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-power-of-5g-insights-from-our-in-depth-testing-of-the-samsung-galaxy-note20-ultra/"><u>Navigating the Power of 5G: Insights From Our In-Depth Testing of the Samsung Galaxy Note20 Ultra</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-issues-with-your-iphones-email-functionality-expert-advice/"><u>Resolving Issues with Your iPhone's Email Functionality - Expert Advice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/side-by-side-showdown-nintendo-switch-lite-vs-oled-which-is-better/"><u>Side by Side Showdown: Nintendo Switch Lite vs OLED - Which Is Better?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sky-high-quality-a-comprehensive-guide-to-the-dji-mavic-3-drone/"><u>Sky-High Quality: A Comprehensive Guide to the DJI Mavic 3 Drone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unblemished-visuals-buying-high-quality-images-for-2024/"><u>Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
 </ul></div>
 

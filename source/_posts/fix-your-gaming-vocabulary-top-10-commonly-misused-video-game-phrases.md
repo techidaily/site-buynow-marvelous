@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-09-30T21:04:43.336Z
-updated: 2024-10-01T17:57:16.057Z
+date: 2024-10-10T21:11:29.467Z
+updated: 2024-10-12T21:22:40.944Z
 tags:
   - games
   - tv
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  There's a lot of jargon and a lot of passion in the video game hobby. That's a recipe for miscommunication, and I've been seeing a lot of that as the industry becomes larger and more popular. In particular, some people use these ten terms in odd and often incorrect ways.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Walking Simulator
 
  The term "walking simulator" is a derogatory term gamers came up with for titles like _What Remains of Edith Finch, Gone Home,_ and _Firewatch._ Since these titles are not actually games, but linear interactive stories, people who are interested in actual gameplay were understandably not impressed. Of course, there's nothing wrong with an interactive story, and not everything you experience with a controller in your hands has to be a true game, but nonetheless, the term "walking simulator" applies to these non-game, interactive digital experiences.
@@ -53,10 +46,10 @@ Tim Brookes / How-To Geek
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Microsoft Flight Simulator 2020_  
@@ -69,6 +62,13 @@ Tim Brookes / How-To Geek
  "Isometric" games use a special 2D projection angle to create the impression of 3D spaces. Many classical CRPGs and tactical strategy games used this perspective before the advent of true 3D graphics. In one way or another, this term has become attached to those genres, even to games with non-isometric viewpoints, such as top-down titles.
 
 ![Fallout 2 from Black Isle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fallout_2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Interplay/Bethesda Softworks
 
@@ -86,10 +86,10 @@ Tim Brookes / How-To Geek
  In recent years, more and more games outside the RPG genre have adopted elements of these games into their own designs. However, just like bolting wings to your car does not make it a plane, adding XP and item stats to an action adventure game does not make it a true RPG.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pay-To-Win
@@ -107,13 +107,6 @@ Arrowhead Game Studios
 
  This is a curious one I saw for the first time not too long before writing this. There might be some disagreement on the finer details, but a [microtransaction](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) is a small payment you can make over and over again in a game to ge some sort of resource. Such as buying premium currency, or buying lootboxes. DLC (Downloadable content) are digital items you buy once and keep forever. Examples would include new weapons or outfits that are permanently added to your game, or even major game and story expansions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Lag Vs Frame Rate
 
  I can understand this one, since visually [lag and frame rate issues can look similar](https://screen-sharing-recording.techidaily.com/in-2024-how-to-record-hulu-on-all-platforms-winmacmobile/). However, _lag_ is caused by internet data packets taking too long to make the round trip from your computer to the game servers and back again. This can lead to things freezing, jumping, or even reversing on screen.
@@ -121,10 +114,10 @@ Arrowhead Game Studios
  Frame rate issues happen for a number of reasons, but they are related to the performance of your computer. For example, if a game scene is too complex, your game may appear to slow down and become choppy. If it's not caused by a network issue, then your game isn't "lagging."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Downloading (Yes, Really)
@@ -134,15 +127,28 @@ Arrowhead Game Studios
  However, installing something from local media is not "downloading". That only applies to data that you receive from a server.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Ray Tracing
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -173,22 +179,21 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-blueprint-for-success-three-core-writing-principles-for-compelling-fb-ad-content/"><u>[New] 2024 Approved A Blueprint for Success Three Core Writing Principles for Compelling FB Ad Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-perfect-the-art-of-note-taking-mematic-way/"><u>[New] Perfect the Art of Note-Taking - Mematic Way</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-selecting-superior-5k-displays-the-top-eight/"><u>[Updated] 2024 Approved Selecting Superior 5K Displays The Top Eight</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-iphone-with-the-world-of-podcasts/"><u>[Updated] Harmonizing iPhone with the World of Podcasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>[Updated] Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-silent-story-consumers-leading-anonymity-apps-for-2024/"><u>[Updated] Silent Story Consumers Leading Anonymity Apps for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 13 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-screen-use-creating-picture-in-picture-videos-on-macos/"><u>In 2024, Innovative Screen Use Creating Picture in Picture Videos on macOS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-garmins-elite-forerunner-e-745-a-game-changer-in-fitness-tracking-technology/"><u>The Comprehensive Review of Garmin's Elite Forerunner E 745: A Game-Changer in Fitness Tracking Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-logitech-c920-pro-hd-webcam-uncovered-a-thorough-review-of-its-exceptional-video-quality-features/"><u>The Logitech C920 Pro HD Webcam Uncovered: A Thorough Review of Its Exceptional Video Quality Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-must-know-insights-before-investing-in-an-unlocked-phone-model/"><u>The Must-Know Insights Before Investing in an Unlocked Phone Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-netgear-nighthawk-ax8-extender-unveiled-revolutionizing-router-coverage-for-wi-fi-6-networks/"><u>The Netgear Nighthawk AX8 Extender Unveiled: Revolutionizing Router Coverage for Wi-Fi 6 Networks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-a71-5g-reviewed-why-its-a-wise-alternative-to-expensive-flagship-models/"><u>The Samsung Galaxy A71 5G Reviewed - Why It's a Wise Alternative to Expensive Flagship Models</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-blueear-wireless-bluetooth-beanie-stylish-headwear-meets-great-sound-quality/"><u>The Ultimate Guide to the Blueear Wireless Bluetooth Beanie: Stylish Headwear Meets Great Sound Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-entertaining-games-to-beat-boredom-anywhere-anytime/"><u>Top 10 Entertaining Games to Beat Boredom Anywhere, Anytime</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-long-distance-wireless-routers-reviews-and-comparisons/"><u>Top Long-Distance Wireless Routers - Reviews and Comparisons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-your-access-steps-to-score-free-study-streaming-with-tidal/"><u>Unlock Your Access: Steps to Score Free Study Streaming with Tidal</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-can-adobe-shake-control-enhance-creative-process-in-photoshop/"><u>[Updated] 2024 Approved Can Adobe Shake Control Enhance Creative Process in Photoshop?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-mechanics-of-youtube-shorts-monetization/"><u>[Updated] The Mechanics of YouTube Shorts Monetization</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-snapchat-creativity-with-these-6-editors/"><u>2024 Approved Elevate Your Snapchat Creativity with These 6 Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>2024 Approved Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/content-cash-cow-how-much-does-the-meme-king-make-for-2024/"><u>Content Cash Cow How Much Does the Meme King Make for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-data-processing-in-microsoft-excel-with-the-introduction-of-regular-expression-capabilities/"><u>Enhanced Data Processing in Microsoft Excel with the Introduction of Regular Expression Capabilities</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-get-back-your-files-after-youve-wiped-your-iphone-a-detailed-walkthrough/"><u>How To Get Back Your Files After You've Wiped Your iPhone - A Detailed Walkthrough</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/latest-film-drop-unveiling-the-amazing-world-of-burt-wonderstone-on-dvd/"><u>Latest Film Drop: Unveiling 'The Amazing World of Burt Wonderstone' On DVD</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-your-next-tablet-why-the-apple-ipad-pro-2018-leads-the-pack/"><u>Ultimate Guide to Choosing Your Next Tablet: Why the Apple iPad Pro 2018 Leads the Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-first-impressions-of-the-advanced-apple-iphone-n15-pro-an-interactive-guide/"><u>Unboxing & First Impressions of the Advanced Apple iPhone N15 Pro: An Interactive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-exploring-the-features-a-comprehensive-review-of-the-samsung-qn55q60rafxza-4k-tv-with-hdr10plus-technology/"><u>Unboxing and Exploring the Features: A Comprehensive Review of the Samsung QN55Q60RAFXZA 4K TV with HDR10+ Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-your-digital-library-with-an-audible-membership/"><u>Unlocking Your Digital Library with an Audible Membership</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-benefits-microsoft-sculpt-keyboards-ultimate-comfort-and-quality/"><u>Unpacking the Benefits: Microsoft Sculpt Keyboard's Ultimate Comfort & Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-capabilities-a-detailed-look-at-the-netgear-nighthawk-x4-wireless-mesh-extender-functionality-and-efficiency/"><u>Unpacking the Capabilities: A Detailed Look at the Netgear Nighthawk X4 Wireless Mesh Extender Functionality and Efficiency</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-features-of-fujitsu-scansnap-ix1600-the-desktop-scanner-that-elevates-productivity/"><u>Unpacking the Features of Fujitsu ScanSnap iX1600: The Desktop Scanner That Elevates Productivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-topmate-c302-an-economical-and-efficient-laptop-cooler-assessment/"><u>Unveiling the TopMate C302 - An Economical and Efficient Laptop Cooler Assessment</u></a></li>
 </ul></div>
 

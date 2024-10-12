@@ -1,7 +1,7 @@
 ---
 title: Best Mobile Charger Alternatives - 2024'S Handy Companion Devices Ranked
-date: 2024-10-01T18:26:45.990Z
-updated: 2024-10-06T23:23:54.753Z
+date: 2024-10-07T21:37:48.144Z
+updated: 2024-10-12T17:46:00.321Z
 tags:
   - buying-guides
 categories:
@@ -82,13 +82,6 @@ Best Portable Charger for iPhone
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Portable Charger Overall: [Anker PowerCore Slim 10000](https://www.amazon.com/Anker-Ultra-Compact-High-Speed-VoltageBoost-Technology/dp/B07QXV6N1B?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Anker-Ultra-Compact-High-Speed-VoltageBoost-Technology/dp/B07QXV6N1B?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce)
@@ -117,20 +110,13 @@ Best Portable Charger for iPhone
 
 ![anker portable charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/anker-portable-charger.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Portable Charger Overall
@@ -166,6 +152,13 @@ This is a well-rounded portable charger with a 10,000 mAh capacity, PowerIQ/Volt
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best Budget Portable Charger
 
 #####  Iniu Portable Charger
@@ -200,21 +193,7 @@ This portable charger offers 10,000 mAh and triple 3A outputs to charge three de
 
 ![Omni 20+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/omni-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best Portable Charger for Laptops
 
@@ -227,19 +206,6 @@ The Omni 20 is an easy-to-use portable charger with easy-to-read LED display, Qi
 ##  Best Portable Solar Charger: [BigBlue 14W SunPower Solar Panels](https://www.amazon.com/BigBlue-Foldable-Waterproof-SunPower-Cellphones/dp/B09B95QZXK?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&th=1&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
 ![BigBlue 14W SunPower Solar Panels solar charger against a bluish background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bigblue-14w-sunpower-solar-panels-01.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _BigBlue_
 
@@ -261,6 +227,13 @@ _BigBlue_
 
 ![bigblue 14w-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bigblue-14w-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Portable Solar Charger
@@ -271,18 +244,18 @@ Compact and lightweight, and delivering up to 14W of power to your phone or any 
 
 [$46 at Amazon](https://www.amazon.com/BigBlue-Foldable-Waterproof-SunPower-Cellphones/dp/B09B95QZXK?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Rugged Portable Charger: [Techsmarter 20,000mAh Rugged Power Bank](https://www.amazon.com/Techsmarter-Waterproof-Shockproof-Dustproof-Flashlight/dp/B07P92ZR72?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Techsmarter-Waterproof-Shockproof-Dustproof-Flashlight/dp/B07P92ZR72?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce)
 
 [![Techmarter charger infographic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/techsmarter-portable-charger.jpg) Techsmarter](https://www.amazon.com/Techsmarter-Waterproof-Shockproof-Dustproof-Flashlight/dp/B07P92ZR72?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Techsmarter-Waterproof-Shockproof-Dustproof-Flashlight/dp/B07P92ZR72?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
@@ -300,6 +273,13 @@ Compact and lightweight, and delivering up to 14W of power to your phone or any 
  Other chargers offer faster speed, and there's no fancy solar-powered recharge feature or wireless charging, but this power pack will certainly get the job done for anyone who needs extra power on the go.
 
 ![TECHSMARTER 20000mah Rugged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/techsmarter-20000mah-rugged.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
@@ -334,14 +314,14 @@ If you need a portable charger that can handle every adventure, Techsmarter has 
 
 ![Anker Power Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/anker-power-bank.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Small Portable Charger
 
@@ -351,11 +331,31 @@ The Anker 321 makes a perfect emergency battery backup for daily life. Small eno
 
 [$28 at Amazon](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-Portable-Compatible/dp/B09NRG2YT3?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Portable Charger for iPhone: [Mophie Snap+ Juice Pack](https://www.amazon.com/mophie-snap-Juice-Pack-Mini/dp/B094WCL88J?tag=hotoge-20&ascsubtag=UUhtgUeUpU207834&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F770220%2Fbest-portable-charger%2F&asc%5Fcampaign=Commerce) 
 
 [](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmophie-snap-juice-pack-mini-5000-mah-portable-charger-with-magsafe-compatibility-black%2F6459705.p%3FskuId%3D6459705)
 
 [![Mophie charger and iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/morphie-snap.jpg) Mophie](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmophie-snap-juice-pack-mini-5000-mah-portable-charger-with-magsafe-compatibility-black%2F6459705.p%3FskuId%3D6459705)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmophie-snap-juice-pack-mini-5000-mah-portable-charger-with-magsafe-compatibility-black%2F6459705.p%3FskuId%3D6459705) 
 
@@ -400,18 +400,16 @@ This sleek portable charger offers a 5,000mAh battery and magnetically mounts on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>[New] Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ptimize-video-sharing-preferences-on-youtube/"><u>[New] Optimize Video Sharing Preferences on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-painters-touch-mastering-color-artistry-for-2024/"><u>[New] The Painter's Touch Mastering Color Artistry for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-thx-spatial-audio-not-working-on-windows-1110/"><u>[SOLVED] THX Spatial Audio Not Working on Windows 11/10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>2024 Approved Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-a-refreshing-morning-with-the-totobay-wake-up-light-2nd-generation-top-affordable-option/"><u>Experience a Refreshing Morning with the Totobay Wake-Up Light 2Nd Generation - Top Affordable Option!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-revolutionary-combination-of-portability-and-performance-with-the-new-2021-ipad-pro-m1/"><u>Experience the Revolutionary Combination of Portability and Performance with the New 2021 iPad Pro (M1)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-oneplus-nord-n10-5g-a-smart-choice-you-cant-overlook/"><u>Expert Analysis of OnePlus Nord N10 5G: A Smart Choice You Can't Overlook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-premium-features-in-spotify-music-service/"><u>Exploring Premium Features in Spotify Music Service</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fun-filled-cosmic-calamity-as-earthly-cities-collide-with-mars-birth-whirlwind-revelries/"><u>Fun-Filled Cosmic Calamity as Earthly Cities Collide with Mars, Birth Whirlwind Revelries</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-tv-chromecast-vs-firetv-a-comprehensive-showdown/"><u>Google TV Chromecast vs FireTV: A Comprehensive Showdown</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://howto.techidaily.com/1723262390859-score-big-on-the-alienware-aurora-r16-save-200-and-enjoy-next-gen-performance-with-intel-core-i7-and-rtx-4070/"><u>Score Big on the Alienware Aurora R16: Save $200 & Enjoy Next-Gen Performance With Intel Core I7 and RTX 4070!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unleashing-the-full-potential-of-your-channel-in-studio/"><u>[Updated] 2024 Approved Unleashing the Full Potential of Your Channel in Studio</u></a></li>
+<li><a href="https://discover-best.techidaily.com/2024mp4top8/"><u>「2024年の人気無料編集プログラム：オススメMP4専用フリーツールTOP8」</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-costs-not-content-guide-to-freely-editing-self-uploaded-and-other-creators-youtube-videos/"><u>Cutting Costs Not Content: Guide to Freely Editing Self-Uploaded and Other Creator's YouTube Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-astro-a40-microphone-issues-step-by-step-troubleshooting-guide/"><u>Fixing Astro A40 Microphone Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-tasks-top-7-chatgpt-techniques-for-peak-output/"><u>Master Your Tasks: Top 7 ChatGPT Techniques for Peak Output</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-immediate-print-photo-devices/"><u>Top-Rated Immediate Print Photo Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-popscrackling-sounds-on-your-speakers-for-win-10-or-7/"><u>Troubleshooting and Fixing Pops/Crackling Sounds on Your Speakers for Win 10 or 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-enhancing-your-pc-gameplay-with-windows-11-tweaks/"><u>Ultimate Guide: Enhancing Your PC Gameplay with Windows 11 Tweaks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-superior-sound-discover-how-this-ultimate-spotify-client-enhancement-amps-up-your-music-experience/"><u>Unleash Superior Sound: Discover How This Ultimate Spotify Client Enhancement Amps Up Your Music Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-nfl-sunday-tickets-at-no-charge-expert-tips-for-zero-expense/"><u>Unlocking NFL Sunday Tickets at No Charge – Expert Tips for Zero Expense</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-flyquest-edition-standing-desk-by-andaseat-a-review-of-innovative-design-and-functionality/"><u>Unveiling the FlyQuest Edition Standing Desk by AndaSeat: A Review of Innovative Design and Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Raspberry Pi #400 Inspection - Transforming Keyboards Into Compact Computers
-date: 2024-08-27T10:44:30.600Z
-updated: 2024-08-28T10:44:30.600Z
+date: 2024-10-09T21:25:30.165Z
+updated: 2024-10-12T21:42:10.782Z
 categories:
   - BestProducts
 description: This Article Describes The Raspberry Pi #400 Inspection - Transforming Keyboards Into Compact Computers
@@ -69,8 +69,12 @@ Lifewire / Jeremy Laukkonen
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
@@ -79,15 +83,19 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/eeaRHW4APuNCYThw1t-TVwYpmSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_04-4739ffd6705348959e05e41ab9da2292.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
  The ports and power button are all found on the back of the unit in a fairly standard array, and you’ll find the indicator LEDs on top near the front edge. The positioning is good for desktop use, and it also leaves the indicators clearly visible when wall mounted.
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Completely painless once you unwrap the antennas**
 
  This router comes fully assembled, which makes it a bit easier and faster to set up than most. I’m not a fan of the fact that you can’t remove the antennas, but it definitely saves a bit of time. Unfortunately, that saved time is mostly wiped out by the ridiculous wrap job TP-Link does on the side antennas.
@@ -100,6 +108,13 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2zSHbpT2Rq4Ac-0-u73213g1rlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_02-8fd53e1cd8284fd4a40091d7896fe8db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
@@ -110,10 +125,6 @@ Lifewire / Jeremy Laukkonen
 
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Network Performance: Decent performance for a budget router**
 
  I tested this router on a Mediacom[Gigabit Ethernet](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) connection, performing extensive tests on the wired Ethernet connection and both wireless bands, in addition to regular use over the course of about five days.
@@ -144,9 +155,6 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
 ## **Price: Good price for the features**
@@ -154,8 +162,12 @@ Lifewire / Jeremy Laukkonen
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **TP-Link Archer A6 vs. TP-Link Archer A7**
 
  Don’t let the numbering scheme confuse you. The Archer A7 (see on[Amazon](https://www.amazon.com/TP-Link-AC1750-Smart-WiFi-Router/dp/B079JD7F7G%2520/?tag=lifewire-onsite-prod-20&ascsubtag=4846342%7Cndd707df741a44bb699bcdb4f97d36f3622%7C) ) is actually an older device than the A6\. It’s also a little more expensive, with an MSRP of $80 and a little faster, with an AC1750 rating compared to the AC1200 of the Archer A6.
@@ -171,8 +183,12 @@ Lifewire / Jeremy Laukkonen
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Archer A6 AC1200 Gigabit Smart Wi-Fi Router
@@ -194,14 +210,11 @@ Lifewire / Jeremy Laukkonen
 * Range  Medium homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +223,26 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-understanding-cloud-pricing-models-and-savings-strategies/"><u>[New] Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-ringtones-roundup-essential-sites/"><u>[Updated] 2024 Approved Best Ringtones Roundup Essential Sites</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-positive-persuasion-techniques-for-listener-loyalty/"><u>[Updated] 2024 Approved Positive Persuasion Techniques for Listener Loyalty</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-techniques-for-effective-capturing-of-chat-conversations/"><u>[Updated] 2024 Approved Techniques for Effective Capturing of Chat Conversations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-iphone-techniques-for-slow-motion-for-2024/"><u>[Updated] Cutting Edge iPhone Techniques for Slow Motion for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems/"><u>2024 Approved A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/behind-the-code-of-cyberpunk-2077-a-game-with-flaws-amidst-its-brilliance/"><u>Behind the Code of Cyberpunk 2077: A Game with Flaws Amidst Its Brilliance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-z-edge-z3plus-in-depth-analysis-a-smart-choice-for-your-driving-needs/"><u>Budget-Friendly Z-Edge Z3+ In-Depth Analysis: A Smart Choice for Your Driving Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/graphics-card-improvement-for-portable-pcs/"><u>Graphics Card Improvement for Portable PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-19-critical-examples-of-the-metaverse-unveiled/"><u>In 2024, 19 Critical Examples of the Metaverse Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-cat-s42-toughphone-superior-durability-at-the-expense-of-performance/"><u>In-Depth Analysis: CAT S42 Toughphone - Superior Durability at the Expense of Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-fitbit-versa-2-your-complete-guide-to-a-wellness-wearable-with-smart-features/"><u>In-Depth Look at the Fitbit Versa 2 - Your Complete Guide to a Wellness Wearable with Smart Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-uncharted-wonders-of-yokus-island-express-epic/"><u>Navigating the Uncharted Wonders of Yoku's Island Express Epic</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-buds-pro-review/"><u>Samsung Galaxy Buds Pro Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-insights-from-the-apple-watch-series-9-unboxing/"><u>Top Insights From the Apple Watch Series 9 Unboxing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-effective-mts-video-editor-software-on-windows/"><u>Ultimate Guide to the Most Effective MTS Video Editor Software on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-mystery-discover-7-common-issues-with-iphone-touchscreen-functionality/"><u>Unlock the Mystery: Discover 7 Common Issues with iPhone Touchscreen Functionality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance/"><u>Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-distinctions-kindle-vs-amazon-fire-tablet/"><u>Unveiling the Distinctions: Kindle Vs. Amazon Fire Tablet</u></a></li>
+</ul></div>
 

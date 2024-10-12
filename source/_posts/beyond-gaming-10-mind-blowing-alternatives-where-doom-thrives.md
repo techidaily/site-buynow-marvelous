@@ -1,7 +1,7 @@
 ---
 title: "Beyond Gaming: 10 Mind-Blowing Alternatives Where DOOM Thrives"
-date: 2024-09-24T18:55:54.383Z
-updated: 2024-10-01T20:42:16.552Z
+date: 2024-10-06T19:17:53.015Z
+updated: 2024-10-12T22:23:30.675Z
 tags:
   - games
   - tv
@@ -28,31 +28,24 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Many of us have fond memories of playing _DOOM_. For some of us, it was our first game ever. With the rise of porting _DOOM_ to things, it's amazing what sort of hardware you can find that runs the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  A Pregnancy Test 
 
  At least one person has thought: "You know what would be cool? Playing _DOOM_ on a pregnancy test!" By replacing the original chip with a small microcontroller and rewriting the display driver, a developer [managed to play DOOM on this tiny screen](https://www.popularmechanics.com/science/a33957256/this-programmer-figured-out-how-to-play-doom-on-a-pregnancy-test/). The primary limitations are the minuscule display size and a lack of traditional controls, making it more a feat of ingenuity than a practical gaming experience.
 
  The process involved significant hardware modifications, including soldering a microcontroller onto the test's PCB and creating a simplified version of _DOOM_. The screen's size and monochrome display severely limit the gameplay experience, turning it into a pixelated and slow-moving version of the game. Congratulations, it's a space marine!
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  An ATM 
 
  You've heard games being refers to as a money sink, but playing _DOOM_ on a cash dispenser is another level of investment. This hack involved [exploiting the ATM’s hardware to run custom software](https://www.nme.com/news/gaming-news/game-developer-gets-doom-running-on-an-atm-3073133), including _DOOM_. While it raises questions about the security of such machines, it’s mostly seen as a quirky achievement, illustrating the flexibility and enduring legacy of _DOOM_.
 
  Hacking an ATM to run _DOOM_ requires bypassing its security systems and [installing custom firmware](https://hardware-updates.techidaily.com/intel-chips-propel-modelfarms-unreal-engine-success-cutting-down-failure-rates-transition-to-amd-ryzen-for-faster-single-threaded-performance/) capable of supporting the game. This hack highlights potential vulnerabilities in ATM software, though in this case, it's more of a demonstration of technical prowess than a security threat. Imagine having to actually slip your card into the machine to open a door. Wild!
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3  Smartwatch 
 
@@ -66,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Rewriting the firmware of a digital camera is complex, often involving reverse engineering and custom code. Developers [typically use external tools to load the game](https://www.pcgamesn.com/doom/camera) onto the camera, leveraging its small screen for display.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Thermostat 
 
  The _DOOM_ franchise is no stranger to hell, where everything's supposed to be scorching hot, so maybe it's fitting to see the game running on a thermostat. Porting _DOOM_ to the device involves [reprogramming the thermostat’s interface](https://www.vice.com/en/article/pae887/you-can-play-doom-on-a-thermostat-because-of-course-you-can) to run the game’s software. While playing _DOOM_ on a thermostat is more of a novelty than practical, it certainly adds an unexpected twist to home climate control.
@@ -78,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Hacking a printer to run DOOM involves using security bypasses and utilizing its control panel for gameplay. It's cool to see it running, but the gameplay experience leaves a lot to be desired.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7  E. coli Cells 
 
  Talk about ambition! Escherichia coli, or E. coli for short, is a type of bacteria responsible for getting people sick. It has also been used to render each frame of DOOM. This was achieved by translating the game's visual output into patterns that the culture could grow through, essentially using the bacteria's natural foraging behavior to trace the game's images.
@@ -85,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  This process is not only fascinating but also incredibly slow. Rendering a single frame takes hours, and running the entire game would [theoretically take half a millennium](https://www.popsci.com/science/doom-e-coli-cells/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Graphing Calculator 
@@ -102,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  Playing games at work is usually forbidden so installing _DOOM_ on a cash register probably counts as a fireable offense. This hack exploits the register’s hardware to run custom software. It's probably not going to fly in a retail outlet, but it's better than serving customers.
 
  Hacking a McDonald's cash register to run _DOOM_ involves accessing its operating system and installing the game’s software. McDonald's registers run a [custom operating system called PC POS](https://www.baselinemag.com/news/McDonalds-Wants-It-Their-Way/). This often requires bypassing security measures and adapting the game’s controls to the register’s interface.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10  Flipper Zero 
 
@@ -133,16 +133,22 @@ _DOOM_ is a cultural phenomenon. Since its inception in 1993, it's remained a cu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-transformative-tips-on-crafting-engaging-cover-art/"><u>[New] Transformative Tips on Crafting Engaging Cover Art</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-organizing-epics-implementing-chapters-in-vimeo-media-for-2024/"><u>[Updated] Organizing Epics Implementing Chapters in Vimeo Media for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-viral-vibes-a-guide-to-memetic-magic/"><u>[Updated] Viral Vibes A Guide to Memetic Magic</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessing-features-before-you-invest-in-a-camcorder/"><u>Assessing Features Before You Invest in a Camcorder</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-new-microsoft-surface-pro-7-strong-capabilities-minor-adjustments-only/"><u>Assessing the New Microsoft Surface Pro 7: Strong Capabilities, Minor Adjustments Only</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-value-video-doorbells-featuring-iseebell-review-for-less-than-50/"><u>Best Value Video Doorbells Featuring ISeeBell Review for Less than $50</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-thermaltake-massive-tm-laptop-cooler-a-features-rich-yet-expensive-solution/"><u>Comprehensive Analysis of the Thermaltake Massive TM Laptop Cooler: A Features-Rich yet Expensive Solution</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 free</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-gaming-fix-effective-ways-to-prevent-the-cycle-game-from-crashing/"><u>PC Gaming Fix: Effective Ways to Prevent The Cycle Game From Crashing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/trouble-free-operation-achieved-for-pci-security-communication-module-drivers/"><u>Trouble-Free Operation Achieved for PCI Security Communication Module Drivers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-youtube-exchange-threads/"><u>[New] 2024 Approved Decoding YouTube Exchange Threads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unexpected-10-best-kept-facebook-memes-for-2024/"><u>[New] Unexpected 10 Best-Kept Facebook Memes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlimited-verbal-input-processing-for-free/"><u>[New] Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-video-capturing-zdsofts-method/"><u>[Updated] 2024 Approved Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-recording-perfecting-video-captures-on-your-android-phone/"><u>[Updated] Precision Recording Perfecting Video Captures on Your Android Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-acclaimed-software-rankings-top-10-phonepc-video-calls/"><u>2024 Approved Acclaimed Software Rankings Top 10 Phone/PC Video Calls</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-significant-security-flaw-with-latest-update-msi-releases-agesa-120c-for-ryzen-processors/"><u>AMD Resolves Significant Security Flaw with Latest Update: MSI Releases AGESA 1.2.0.C for Ryzen Processors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-out-clutter-celebrate-pure-win11/"><u>Clear Out Clutter: Celebrate Pure Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-pova-5-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Pova 5 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-winegard-fl5500a-flatwave-antenna-assessment-balancing-cost-and-quality/"><u>In-Depth Winegard FL5500A FlatWave Antenna Assessment - Balancing Cost and Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphones-versus-android-phones-making-the-best-personal-tech-decision/"><u>IPhones Versus Android Phones: Making The Best Personal Tech Decision</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-it-smart-to-fix-apples-device-batteries/"><u>Is It Smart to Fix Apple's Device Batteries?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-large-display-laptops-to-buy-our-expert-selection/"><u>Leading Large Display Laptops to Buy : Our Expert Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-level-gaming-with-corsair-one-pro-a-detailed-evaluation/"><u>Master Level Gaming with Corsair One Pro - A Detailed Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-gameplay-with-creativity-an-expert-analysis-of-corsair-one-pro-pcs/"><u>Mastering Gameplay with Creativity: An Expert Analysis of Corsair One Pro PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-paperless-workflow-with-the-fujitsu-scansnap-ix1400-insights-for-home-office-and-smes/"><u>Mastering Paperless Workflow with the Fujitsu ScanSnap iX1400: Insights for Home Office & SMEs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-analysis-not-quite-the-top-tier-choice/"><u>Motorola Edge+ Analysis: Not Quite the Top-Tier Choice</u></a></li>
 </ul></div>
 

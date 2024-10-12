@@ -1,7 +1,7 @@
 ---
 title: Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
-date: 2024-09-24T16:08:15.856Z
-updated: 2024-10-01T17:33:32.687Z
+date: 2024-10-08T21:07:05.649Z
+updated: 2024-10-12T19:36:19.334Z
 tags:
   - games
   - tv
@@ -22,16 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  By some estimates, the PS5 is outselling both Xbox Series consoles by more than four times to one. Microsoft is now adopting a multi-platform strategy and bringing games to Sony’s platform. So what went wrong, and what happens next?
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How the Xbox 360 Won the West
@@ -58,13 +52,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unfortunately, this wouldn’t last.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Xbox One Gambled Everything on the Living Room (and Lost)
 
  The Xbox One was an unmitigated disaster for Microsoft. So much went wrong in such a short time that Sony’s brand-new PlayStation 4 was easily able to establish itself as the dominant platform shortly after release.
@@ -74,6 +61,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  On top of this, every Xbox One was sold with a Kinect sensor. Initially, this was to be connected at all times, but Microsoft quickly backtracked and removed the requirement. Given the Kinect’s lukewarm reception among Xbox 360 users, its inclusion with the Xbox One didn’t help sweeten the deal at the console's $499 launch point.
 
 ![Xbox One Kinect sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/b950b2b1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -93,6 +87,13 @@ Microsoft
 
 ![Xbox Series X and Xbox Series X consoles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/xbox-x-vs-s-resized.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy-27-december-2020-new-video-1882894459)_
 
  The Series S is [Microsoft’s budget-friendly, all-digital console](https://facebook-video-share.techidaily.com/new-unleash-your-creativity-cutting-edge-pc-techniques-for-youtube-success/) that takes a lot of inspiration from the One S. It targets 1440p and 1080p rather than 4K experience, but it seems to have been a success for Microsoft with [IGN reporting](https://www.ign.com/articles/leaked-microsoft-documents-show-the-xbox-series-s-might-be-more-popular-than-you-think) in September 2023 that 75% of current-gen Xbox owners bought the cheaper machine, rather than the Series X.
@@ -109,13 +110,6 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
 
  It’s concerning to see some developers shy away from the Xbox as a release platform, even when Sony isn’t involved in exclusivity deals. The highest profile example is _Baldur’s Gate 3_ being delayed partly by [Series S complications](https://www.thegamer.com/baldurs-gate-3-xbox-release-this-year-no-split-screen-series-s/). It’s easy to see how smaller studios with limited time and budgets could prioritize platforms like PS5 and Switch first, then work on the Xbox port later.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Future of Xbox
 
  The good news is that Xbox still has a future. Microsoft held a [business update](https://www.ign.com/articles/xbox-vision-of-the-future) in early 2024 to assure fans that it is working on the next generation of Xbox hardware, and it reiterated that message at its June 2024 showcase. There will be another Xbox, but what that hardware looks like remains to be seen.
@@ -128,13 +122,6 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
 
 ![The start of a multiplayer match in Halo: Infinite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/halo_infinite.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Halo: Infinite_  
 Tim Brookes / How-To Geek
 
@@ -145,6 +132,13 @@ Tim Brookes / How-To Geek
  By doing this, Xbox can offer something meaningfully different to the competition. Nintendo has its corner of video gaming sewn up, while Sony dominates in the traditional home console market. A platform that bridges the gap between Microsoft’s PC and console markets could reignite the Xbox brand, with a bonus portable unit to play your Game Pass games on the go.
 
  Whatever happens, it’s hard to see a future for the Xbox where the next piece of hardware isn’t radically different from what came before it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Microsoft Still Dominates Gaming
 
@@ -167,20 +161,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-boosting-daily-use-tips-to-stay-active-on-facebook/"><u>[New] 2024 Approved Boosting Daily Use Tips to Stay Active on Facebook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-expert-tips-for-crafting-immersive-soundscapes-in-youtube/"><u>[New] In 2024, Expert Tips for Crafting Immersive Soundscapes in YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-5-upgrades-to-shine-your-digital-clips/"><u>[Updated] In 2024, 5 Upgrades to Shine Your Digital Clips</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlb-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlb Using DigiSigner</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-upgrade-windows-7-to-windows-10/"><u>How to Upgrade Windows 7 to Windows 10</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-samsung-galaxy-watch-active-your-go-to-for-wellbeing-tracking/"><u>In-Depth Analysis: Samsung Galaxy Watch Active, Your Go-To for Wellbeing Tracking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-and-android-face-off-which-smartphone-will-suit-you-best/"><u>IPhone and Android Face-Off: Which Smartphone Will Suit You Best?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/midland-lxt500vp3-review/"><u>Midland LXT500VP3 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/multicast-addresses-are-identified-by-the-prefix-ff008/"><u>Multicast Addresses Are Identified by the Prefix FF00::/8</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/performance-and-portability-combined-the-lenovo-thinkpad-x1-nano-reviewed/"><u>Performance and Portability Combined - The Lenovo ThinkPad X1 Nano Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/preferred-ups-systems-to-safeguard-your-tech-this-year/"><u>Preferred UPS Systems to Safeguard Your Tech This Year</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-z-flip-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy Z Flip 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-11-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus 11 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-best-offline-translation-tools-your-go-to-guides/"><u>Top 6 Best Offline Translation Tools: Your Go-To Guides</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelpreserve-a-comprehensive-screen-record-review/"><u>[Updated] 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-rated-economical-timer-services/"><u>[Updated] Top-Rated Economical Timer Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-environment-choices-for-live-sharing/"><u>2024 Approved Key Environment Choices for Live Sharing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-unmatched-value-to-enhanced-performance-discover-the-remarkable-upgrades-in-apples-newest-102-inch-ipad-our-complete-review/"><u>From Unmatched Value to Enhanced Performance: Discover the Remarkable Upgrades in Apple's Newest 10.2 Inch iPad - Our Complete Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-battle-apple-tv-4k-versus-roku-ultra-features-reviewed/"><u>Head-to-Head Battle: Apple TV 4K Versus Roku Ultra Features Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-tactical-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Tactical Edition without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hulus-partners-beyond-amazon-firetv/"><u>Hulu's Partners Beyond Amazon FireTV</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-perfectly-preserve-facebook-films-with-top-5-chrome-plugs/"><u>In 2024, Perfectly Preserve Facebook Films with Top 5 Chrome Plugs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-130-music-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia 130 Music Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-topmate-c302-portable-laptop-chiller-economical-yet-powerful-solution/"><u>In-Depth Assessment of the TopMate C302 Portable Laptop Chiller: Economical yet Powerful Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-urban-armor-macbook-pro-case-striking-the-balance-between-protection-and-practicality/"><u>In-Depth Review of Urban Armor MacBook Pro Case: Striking the Balance Between Protection and Practicality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-apple-vision-pro-worth-its-price-consider-these-points/"><u>Is the Apple Vision Pro Worth Its Price? Consider These Points</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost-for-2024/"><u>Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost) for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive"
-date: 2024-09-28T18:19:27.482Z
-updated: 2024-10-01T20:09:16.613Z
+date: 2024-10-10T18:41:50.357Z
+updated: 2024-10-12T20:20:47.994Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
  As the range of games available on consoles expands to include genres previously exclusive to PC, many couch gamers are seeking to add a Bluetooth keyboard to their arsenal. One popular option is a keypad that plugs into the bottom of your controller, but are these gadgets as nifty as they appear?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Controllers Weren't Designed with Keypads In Mind
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
  It’s positioned at such an angle that the keys are in the range of the player’s thumbs at all times, allowing for a seamless transition between controlling your character and typing.
 
 ![A PlayStation 5 DualSense controller with mini keypad connected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6258.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
 
@@ -53,6 +46,13 @@ Tim Rattray / How-To Geek
 
  It didn’t need to be this way. The DualSense’s speaker is located below its touchpad and therefore isn’t obfuscated by this device. While this won’t seem like an important flaw to many gamers, it makes the keypad feel distractingly cheap every time sounds are played (something common for _Final Fantasy XIV_, the most popular game that benefits from a Bluetooth keyboard).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Not Entirely Useless
 
  There’s a myriad of smaller issues that unfortunately add up to making this an impractical product. Some buttons are rearranged from where you’d expect them on [a standard QWERTY keyboard](https://extra-guidance.techidaily.com/iphone-image-transfer-methods-explained-for-2024/), such as the placement of the backspace key to the left of the space bar and Alt functions being assigned to different buttons than they normally are.
@@ -62,10 +62,10 @@ Tim Rattray / How-To Geek
 ![Bottom of a clip-on controller keypad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6259.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -75,10 +75,16 @@ Tim Rattray / How-To Geek
  Lastly, it’s neat that the keys light up in case you’re gaming in the dark, something applicable to me as I game on [an OLED television](https://youtube-webster.techidaily.com/-views-via-strategic-tagging-tactics/) so the darker the room the better.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Stick to Standard Bluetooth Keyboards
@@ -102,15 +108,22 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-master-the-archive-navigating-social-media-live-recordings/"><u>[New] Master the Archive Navigating Social Media Live Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-platform-precision-examining-obs-against-twitch-hub-for-2024/"><u>[Updated] Platform Precision Examining OBS Against Twitch Hub for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gain-more-game-memory-swap-out-ps3s-original-hard-drive/"><u>Gain More Game Memory: Swap Out PS3's Original Hard Drive</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/global-skies-vivid-sights-experience-the-highest-quality-with-x-plane-11-reviewed-here/"><u>Global Skies, Vivid Sights: Experience the Highest Quality with X-Plane 11 Reviewed Here</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-start-your-vlog-and-make-money-from-it-for-2024/"><u>How to Start Your Vlog and Make Money From It for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-ultimate-cyber-monday-bargains-exceptional-offers-on-all-roku-models/"><u>Hunt for the Ultimate Cyber Monday Bargains: Exceptional Offers on All Roku Models</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/i-tried-both-apple-watch-series-9-vs-fitbit-charge-6/"><u>I Tried Both: Apple Watch Series 9 vs Fitbit Charge 6</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-11-year-old-video-sensation-unprecedented-wealth-accumulation/"><u>In 2024, 11-Year-Old Video Sensation Unprecedented Wealth Accumulation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-motorola-g54-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola G54 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precise-windows-lockout-after-downtime/"><u>Precise Windows Lockout After Downtime</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-dive-into-the-world-of-instagram-voice-personalization/"><u>[New] Dive Into the World of Instagram Voice Personalization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-easy-to-implement-strategies-to-stand-out-with-sound-in-pubg/"><u>[New] Easy-to-Implement Strategies to Stand Out with Sound in PUBG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-mc-house-strategies-6-10/"><u>[Updated] 2024 Approved Essential MC House Strategies #6-10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-crafting-and-downloading-personalized-insta-ringtones/"><u>2024 Approved Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620278038-cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix</u></a></li>
+<li><a href="https://fox-links.techidaily.com/full-examination-of-djis-drone-inspire-1/"><u>Full Examination of DJI's Drone, Inspire 1</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-history-with-assassins-creed-valhalla-expert-reviews-and-insights-into-the-viking-saga/"><u>Navigating Through History with Assassin's Creed: Valhalla – Expert Reviews & Insights Into the Viking Saga</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-yet-easy-the-tt560-speedlite-experience/"><u>Powerful Yet Easy: The TT560 Speedlite Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-home-internet-connectivity-with-orbis-mesh-wi-fi-6-system-an-in-depth-review-for-ultimate-performance/"><u>Revolutionizing Home Internet Connectivity with Orbi's Mesh Wi-Fi 6 System – An In-Depth Review for Ultimate Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/space-settlers-blunder-building-cities-on-mars-generates-whirlwind-entertainment/"><u>Space Settlers' Blunder: Building Cities on Mars Generates Whirlwind Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streaming-first-look-7-key-sites-for-upcoming-film-preview-galore/"><u>Streaming First Look: 7 Key Sites for Upcoming Film Preview Galore</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-g7x-mark-ii-a-tiny-force-in-photography/"><u>The G7X Mark II: A Tiny Force in Photography</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-midland-gxt1-grotto-a-deep-dive-into-cutting-edge-two-way-communication-technology/"><u>The Midland GXT1 Grotto: A Deep Dive Into Cutting-Edge Two-Way Communication Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-blend-of-vintage-style-and-tech-a-comprehensive-skagen-falster-3-analysis/"><u>The Perfect Blend of Vintage Style and Tech - A Comprehensive Skagen Falster 3 Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-virtual-realitys-basic-words/"><u>Understanding Virtual Reality's Basic Words</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-million-sub-code-insights-for-digital-growth-for-2024/"><u>Unlocking the Million-Sub Code Insights for Digital Growth for 2024</u></a></li>
 </ul></div>
 

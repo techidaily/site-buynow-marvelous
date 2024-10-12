@@ -1,7 +1,7 @@
 ---
 title: "In-Depth CAT S42 Durable Device Assessment: Top-Notch Armor Meets Moderate Mobility"
-date: 2024-08-27T10:42:51.948Z
-updated: 2024-08-28T10:42:51.948Z
+date: 2024-10-10T19:59:42.419Z
+updated: 2024-10-12T16:01:36.639Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth CAT S42 Durable Device Assessment: Top-Notch Armor Meets Moderate Mobility"
@@ -64,8 +64,12 @@ Lifewire / Hayley Prokos
  Lifewire / Hayley Prokos
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Fetching and functional**
 
  This two-piece Fintie case is designed for the most recent 13-inch MacBook Pro models, with or without TouchBar. It’s robust enough to protect your laptop from scratches, abrasions, and impact from minor drops without feeling too bulky.
@@ -81,13 +85,14 @@ Lifewire / Hayley Prokos
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/oLEmxLNytxQINRktM9nWjKfhTZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-4-ec18ce2eec6b4e73853f562114489d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: No instructions needed**
 
  Once you’ve unwrapped this product, there’s no need to read any instructions—the case requires little setup. Just by looking at it, we could tell how it was supposed to be installed. We simply snapped the corresponding pieces onto the top and bottom of the laptop and we were done.
@@ -97,9 +102,20 @@ Lifewire / Hayley Prokos
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/8MJsQD08tVeuvB93MreYpZrgwmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-3-df14864da5164b448b3f60a740cbc211-dbb4b2230f9c4d98be26fee390c8c2f3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Hayley Prokos
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Low price, great construction**
 
@@ -109,9 +125,6 @@ Lifewire / Hayley Prokos
 
  Lifewire / Hayley Prokos
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Fintie Protective Case vs. ProCase**
 
  As far as other laptop covers in this price range go, there are few that offer the refined design, utility, and price point of this Fintie case.
@@ -134,9 +147,6 @@ Lifewire / Hayley Prokos
 * [Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/urban-armor-gear-macbook-pro-case-review-4689954)
 * [Twelve South BookBook V2 MacBook Case](https://www.lifewire.com/twelve-south-bookbook-v2-macbook-case-review-4689949)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Protective Case for MacBook Pro 13
@@ -147,14 +157,11 @@ Lifewire / Hayley Prokos
 * Color  Black, Vintage Brown, Z-Blossom, Z-Constellation, Z-Emerald Illusions, Z-Galaxy
 * Compatibility  13-inch MacBook Pro with/without Touch Bar (2016 models and newer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +170,22 @@ Lifewire / Hayley Prokos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-innovations-the-future-explained-today/"><u>[New] SRT Innovations The Future Explained Today</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unparalleled-asmr-channel-selection-for-2024/"><u>[Updated] Unparalleled ASMR Channel Selection for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-your-journey-to-instagram-dominance-started-here/"><u>[Updated] Your Journey to Instagram Dominance, Started Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/eight-outstanding-choices-for-private-video-communication/"><u>Eight Outstanding Choices for Private Video Communication</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-elite-list-of-smart-speakers-taking-over-2024/"><u>Expert Picks: The Elite List of Smart Speakers Taking Over 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/graviton4-processor-showdown-aws-leads-the-pack-faster-and-cheaper-than-competitors-intel-and-amd-solutions/"><u>Graviton4 Processor Showdown: AWS Leads the Pack Faster and Cheaper than Competitors' Intel & AMD Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-90-gt-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor 90 GT.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/imac-m1-unveiled-detailed-examination-of-enhanced-graphics-and-improved-computing-power/"><u>IMac M1 Unveiled: Detailed Examination of Enhanced Graphics & Improved Computing Power</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-evaluating-inshot-is-it-truly-top-notch/"><u>In 2024, Evaluating InShot Is It Truly Top-Notch?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-superior-cams-for-animated-storytelling/"><u>In 2024, Superior Cams for Animated Storytelling</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra-in-depth-feature-comparison/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy S24 Ultra – In-Depth Feature Comparison</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rapid-reader-advanced-windows-photoshop/"><u>Rapid Reader - Advanced Windows Photoshop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-twelve-south-compass-pro-assessment-clever-construction-ensures-maximum-equilibrium/"><u>The Twelve South Compass Pro Assessment: Clever Construction Ensures Maximum Equilibrium</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tough-and-bright-discover-the-55-inch-veranda-tv-by-sunbritetv-with-impressive-hdr-capabilities-in-a-robust-design/"><u>Tough and Bright: Discover the 55-Inch Veranda TV by SunBriteTV with Impressive HDR Capabilities in a Robust Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-high-end-capabilities-the-ultimate-guide-to-choosing-samsung-galaxy-a72-a71-5g-as-your-next-smartphone/"><u>Unlocking High-End Capabilities: The Ultimate Guide to Choosing Samsung Galaxy A7^[2] A71 5G as Your Next Smartphone</u></a></li>
+</ul></div>
 

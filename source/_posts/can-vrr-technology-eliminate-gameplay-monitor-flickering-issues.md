@@ -1,7 +1,7 @@
 ---
 title: Can VRR Technology Eliminate Gameplay Monitor Flickering Issues?
-date: 2024-09-28T18:44:37.909Z
-updated: 2024-10-01T17:04:03.972Z
+date: 2024-10-07T21:33:27.759Z
+updated: 2024-10-12T19:45:20.617Z
 tags:
   - games
   - tv
@@ -21,18 +21,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Variable refresh rate (VRR) flicker affects virtually every VA and OLED monitor, as well as some IPS and TN monitors. While the issue can be pretty frustrating, there are a number of ways to solve it. Before I share them, let me explain what causes VRR flicker.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Causes VRR Flicker?
 
 [VRR](https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/) flicker occurs because of inconsistent or highly unstable [frame rate](https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-7-hd-devices-by-drfone-android/) in certain games or due to sudden frame time variations caused by issues like [shader compilation](https://some-knowledge.techidaily.com/incremental-sound-diminishment-guidebook-for-2024/) or traversal stutter—when the next area of an open world game is loaded.
 
  In some games, at least when using a monitor with a [VA panel](https://facebook-video-footage.techidaily.com/updated-the-art-of-youtube-management-by-studio-techniques/), even the slightest frame rate or frame time variation can trigger VRR flicker because VA panels are quite sensitive to the voltage fluctuations that occur when the refresh rate changes. So, how can you make VRR flicker disappear?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disable Variable Refresh Rate (VRR)
 
@@ -45,6 +45,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To disable VRR for specific games in the [NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/), open the app, select the “Graphics” tab and then “Program Settings,” click the game for which you want to disable G-SYNC, scroll down until you reach the “Monitor Technology” settings, and change it from “G-SYNC Compatible” to “Fixed Refresh.”
 
 ![Graphics settings tab in the NVIDIA App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-01.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re rocking an AMD GPU, open AMD Software, go to the “Gaming” tab, select the "Games" tab, and click the game you want to disable VRR for.
 
@@ -59,20 +66,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![AMD FreeSync toggle in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s it!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Set a Framerate Cap In Games That Trigger Screen Flickering
 
@@ -92,23 +92,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Graphics settings listed in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you should enable the option, set the maximum FPS, and click “Apply,”
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you own an AMD GPU, you can either use the global frame rate cap or a feature called “Radeon Chill” that can play the role of a frame rate limiter for individual games.
 
@@ -117,10 +103,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Frame rate limiter tool in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
@@ -141,6 +127,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also use a third-party app, such as [RivaTuner Statistics Server](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) (RTSS), to limit max FPS globally or in specific games.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  VRR Flicker Should Be Less Noticeable At Higher Framerates
 
  If you don’t want to limit your maximum frame rate, another way to remove VRR flicker is to maintain the frame rate above a certain value by lowering in-game graphics settings. At higher frame rates, VRR flicker is less noticeable; at 100fps and higher values, you shouldn’t notice it at all.
@@ -148,6 +147,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For example, in _Halo Infinite_, a game that triggers very noticeable VRR flicker at lower FPS values, I’ve noticed that as long as my FPS doesn’t drop below \~75fps, I don’t perceive any VRR flicker. So, I tweaked the visual settings until I managed to consistently maintain the FPS value above 75fps, which solved the issue.
 
  The cutoff value for your monitor could be higher, but the general rule is that as long as your GPU can maintain the frame rate at or above 100fps, you shouldn’t notice any VRR flicker regardless of your monitor's max refresh rate.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Upgrade Your Monitor
 
@@ -172,19 +184,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-a-comprehensive-look-at-vr-video-recording-systems/"><u>[New] A Comprehensive Look at VR Video Recording Systems</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-optimize-your-instagram-posts-the-ultimate-guide-for-video-spinning/"><u>[New] Optimize Your Instagram Posts The Ultimate Guide for Video Spinning</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-pro-vision-enhancement-top-ranked-4k-displays-for-editing/"><u>2024 Approved Pro Vision Enhancement Top-Ranked 4K Displays for Editing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-avi-mjpeg/"><u>立即下載 Movavi AVI 到 MJPEG 自由轉換工具 - 線上無限制</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-moto-g-power-outstanding-energy-capacity-and-solid-handset-performance/"><u>Comprehensive Evaluation of Moto G Power - Outstanding Energy Capacity and Solid Handset Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-amazon-fire-hd-10-kids-exceptional-parental-controls-unveiled/"><u>Comprehensive Review of the Amazon Fire HD 10 (Kids) - Exceptional Parental Controls Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critical-look-at-overwatch-lively-cooperative-fps-action/"><u>Critical Look at Overwatch: Lively Cooperative FPS Action</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-netgears-c3000-is-it-time-to-upgrade-from-this-legacy-tech/"><u>Decoding Netgear's C3000: Is It Time to Upgrade From This Legacy Tech?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-7-platforms-showcasing-new-movie-previews/"><u>Discover the Ultimate 7 Platforms Showcasing New Movie Previews</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-value-in-quality-with-our-expert-look-at-the-lg-um7300-49-inch-4k-model/"><u>Discovering Value in Quality with Our Expert Look at the LG UM73#00 49-Inch 4K Model</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-tools-elevate-your-online-video-quality/"><u>Essential Tools Elevate Your Online Video Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-reliable-is-vpn-for-interacting-with-chatgpt-online/"><u>How Reliable Is VPN for Interacting with ChatGPT Online?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>In 2024, A Deep-Dive Into Digital Platform Wealth Dailymotion & YouTube Comparison</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/methods-to-maintain-visual-integrity-after-conversion/"><u>Methods to Maintain Visual Integrity After Conversion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-android-guide-to-top-gba-emulators/"><u>[Updated] 2024 Approved Expert Android Guide to Top GBA Emulators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-8-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 8 for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breaking-down-the-postponement-of-guilty-gear-strive-launch-dates/"><u>Breaking Down the Postponement of Guilty Gear Strive Launch Dates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-6-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 6 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-metaverse-gags-and-their-creators/"><u>Innovative Metaverse Gags & Their Creators</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-wireless-with-linksys-velop-a-top-tier-router-assessment/"><u>Navigating the World of Wireless with Linksys Velop: A Top-Tier Router Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigational-brilliance-car-gps-tracks-rated/"><u>Navigational Brilliance: Car GPS Tracks Rated</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/protect-your-iphone-with-the-finest-antivirus-programs-a-selection-of-6-superior-options/"><u>Protect Your iPhone with the Finest Antivirus Programs - A Selection of 6 Superior Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rev-up-your-home-entertainment-system-with-the-blazingly-quick-amazon-fire-tv-cube/"><u>Rev up Your Home Entertainment System with the Blazingly Quick Amazon Fire TV Cube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-stanley-j5c09-big-in-size-efficient-in-performance/"><u>Review of Stanley J5C09: Big in Size, Efficient in Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalizing-your-laptop-a-cpu-upgrade-exploration/"><u>Revitalizing Your Laptop: A CPU Upgrade Exploration</u></a></li>
 </ul></div>
 

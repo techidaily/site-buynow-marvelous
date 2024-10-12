@@ -1,7 +1,7 @@
 ---
 title: The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package
-date: 2024-09-25T16:31:16.709Z
-updated: 2024-10-01T19:49:59.916Z
+date: 2024-10-05T19:23:21.802Z
+updated: 2024-10-12T17:35:28.001Z
 tags:
   - games
   - tv
@@ -65,6 +65,13 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 [$113 at Amazon](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) [Atari](https://atari.com/collections/atari-400-mini-collection) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Model Plug-and-Play** 
 
 ![THE400 Mini by a TV with hands holding the joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-by-a-tv-with-hands-holding-the-joystick.jpg) 
@@ -77,13 +84,6 @@ THE400 Mini and THECXSTICK in front of a television.
 
 ![Showing Package Contents of cables and accessories of THE400 Mini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-package-contents.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bill Loguidice / How-To Geek
 
 Everything that comes in the THE400 Mini box.
@@ -91,6 +91,13 @@ Everything that comes in the THE400 Mini box.
  With so many different case designs to choose from and good arguments for each, mimicking the look of the Atari 400 in mini form is somewhat controversial. With that said, the 400 was meant as the entry-level model versus the more professional 800, complete with an initial 8K of memory and an infamous membrane keyboard, targeted more to games and light computing than its more expensive sibling.
 
 ![THE400 Mini sitting on top of an original Atari 800 computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-sitting-on-top-of-an-original-atari-800-computer.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -102,22 +109,29 @@ THE400 Mini on top of an original Atari 800 computer.
 
 ![THE400 Mini - Rear](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-rear.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bill Loguidice / How-To Geek
 
 The rear of THE400 Mini.
 
  On the rear of THE400 Mini is a USB-A port, HDMI port, USB-C port, and power button. On the front are four additional USB-A ports. The five USB-A ports support additional controllers, memory sticks, and keyboards. Most games only support one or two players, but one of the games, "M.U.L.E.," supports up to four players at once.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Interface and Software: Retro, but Modern** 
 
 ![THE400 Mini Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-joystick.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -167,13 +181,6 @@ Close
 
  Finally, if you don't like the included THECXSTICK or just want more than one controller and don't want to use another THECXSTICK, THEJOYSTICK, or THEGAMEPAD, modern Microsoft Xbox, Sony PlayStation, and Nintendo Switch controllers can be used. For instance, I was able to use an [8BitDo USB Wireless Adapter 2](https://www.amazon.com/8Bitdo-Wireless-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) with an Xbox One controller for a nice wireless option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Should You Buy the Atari THE400 Mini?** 
 
  Retro Games Ltd. knows what they're doing when it comes to designing mass-market nostalgia plays. [THE400 Mini](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) from Atari does a great job of making a past platform accessible to those interested in exploring what one of the most popular computer gaming platforms of all time was all about. It gives a great taste of what some of the best 1970s and 1980s gaming was like and shows how deep Atari's back catalog of systems really is.
@@ -181,13 +188,6 @@ Close
  Of course, a product like THE400 Mini is not for everyone. The 25 games included are proven titles that, despite generally looking and sounding good for their time, are not anywhere near modern standards. Control and playability are also from a bygone era, requiring some patience at times, particularly for the less action-oriented titles. And trying to do more than just play the included games can be something of a hassle. Nevertheless, for those willing to invest some time beyond just the built-in games, THE400 Mini at $120 gives a good taste of what gaming and computing were like way back when.
 
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  THE400 Mini
 
@@ -214,21 +214,22 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-direct-pathway-transferring-youtube-content-to-dailymotion/"><u>[Updated] 2024 Approved Direct Pathway Transferring YouTube Content to Dailymotion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-haste-assessment-of-windows-documents/"><u>[Updated] 2024 Approved Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://extra-information.techidaily.com/deciphenas-luts-revolutionizing-photo-editing-techniques/"><u>Deciphenas LUTs Revolutionizing Photo Editing Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-optimal-performance-downloading-and-installing-steelseries-arctis-cued-5-drivers/"><u>Get Optimal Performance: Downloading and Installing SteelSeries Arctis Cued | 5 Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/giggle-guild-creepy-cybernetic-comedians-for-2024/"><u>Giggle Guild Creepy Cybernetic Comedians for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro, Apples New iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-testimonial-videos-the-social-proof-powerhouse/"><u>In 2024, Testimonial Videos The Social Proof Powerhouse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-remarkable-xbox-one-elite-series-2-controller-top-titan-in-controllers/"><u>In-Depth Look at the Remarkable Xbox One Elite Series 2 Controller: Top Titan in Controllers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-samsung-galaxy-a51-5g-exceptional-affordability-meets-next-gen-speed/"><u>In-Depth Look at the Samsung Galaxy A51 5G: Exceptional Affordability Meets Next-Gen Speed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-a-detailed-comparison-between-nintendo-switch-lite-and-oled-variant/"><u>Inside Look: A Detailed Comparison Between Nintendo Switch Lite & OLED Variant</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-multitasking-the-acer-aspire-c27s-comprehensive-features-in-a-compact-noise-free-design/"><u>Mastering Multitasking: The Acer Aspire C27's Comprehensive Features in a Compact, Noise-Free Design</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-fitness-goals-tuning-in-to-the-garmin-vivoactive-3s-workout-and-music-capabilities/"><u>Maximizing Fitness Goals - Tuning In to the Garmin Vivoactive 3'S Workout & Music Capabilities</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/metaverse-vs-multimeva-unveiling-their-comparative-features-for-2024/"><u>Metaverse Vs. Multimeva Unveiling Their Comparative Features for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/moto-g-stylus-review/"><u>Moto G Stylus Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-rax120-review-one-of-the-fastest-routers-available/"><u>Netgear Nighthawk RAX120 Review: One Of The Fastest Routers Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-maternal-screenings-can-detect-and-treat-syphilis-early-reducing-the-risk-of-transmission-to-the-fetus-and-preventing-serious-birth-defects-or-stil190/"><u>Solution: Maternal Screenings Can Detect and Treat Syphilis Early, Reducing the Risk of Transmission to the Fetus and Preventing Serious Birth Defects or Stillbirth.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-picks-comprehensive-list-of-gopro-mounts-6-onwards/"><u>[New] In 2024, The Ultimate Picks Comprehensive List of GoPro Mounts, #6 Onwards</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pioneering-the-future-of-aerial-film-craftsmanship/"><u>[Updated] Pioneering the Future of Aerial Film Craftsmanship</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-photoscape-your-go-to-source-for-costless-picture-editing-tools/"><u>Comprehensive Evaluation of PhotoScape: Your Go-To Source for Costless Picture Editing Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-minecraft-analysis-a-family-friendly-creative-world/"><u>Comprehensive Minecraft Analysis: A Family-Friendly Creative World</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-mobvoi-ticwatch-pro-standout-smartwatch-for-staying-connected-anywhere/"><u>Comprehensive Review of Mobvoi Ticwatch Pro: Standout Smartwatch for Staying Connected Anywhere</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cost-effective-audio-tech-for-the-road-truckers-budget-bluetooth-headset-review/"><u>Cost-Effective Audio Tech for the Road: Truckers’ Budget Bluetooth Headset Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dbpower-6000mah-mains-charging-power-bank-is-it-worth-your-time/"><u>DBPOWER 6000mAh Mains Charging Power Bank: Is It Worth Your Time?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-fongo-a-deep-dive-into-canuck-calling-excellence-with-voip-technology/"><u>Decoding Fongo: A Deep Dive Into Canuck Calling Excellence with VoIP Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-selection-of-professional-scanner-models-2024-edition/"><u>Elite Selection of Professional Scanner Models - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-oneplus-9-do-the-numbers-tell-a-different-story/"><u>Evaluating the OnePlus 9 - Do the Numbers Tell a Different Story?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-se-2022-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone SE (2022) without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-win10-ultimate-screenshot-and-video-capture-kit/"><u>In 2024, Win10 Ultimate Screenshot & Video Capture Kit</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-and-fastest-gtx-er-1650-super-graphics-card-driver-update-windows-10-and-11-supported/"><u>Latest & Fastest GTX Er 1650 Super Graphics Card Driver Update: Windows 10 and 11 Supported</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/round-table-of-angles-samsung-vs-lg-camera-debate-for-2024/"><u>Round Table of Angles Samsung vs LG Camera Debate for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/switching-your-facebook-page-for-a-modern-identity/"><u>Switching Your Facebook Page for a Modern Identity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-compressing-webm-videos-online/"><u>The Ultimate Guide to Compressing WebM Videos Online</u></a></li>
 </ul></div>
 

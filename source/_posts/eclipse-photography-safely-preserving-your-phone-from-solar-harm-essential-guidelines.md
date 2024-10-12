@@ -1,7 +1,7 @@
 ---
 title: "Eclipse Photography Safely: Preserving Your Phone From Solar Harm - Essential Guidelines"
-date: 2024-09-28T16:02:49.277Z
-updated: 2024-10-01T16:51:10.017Z
+date: 2024-10-10T18:11:33.941Z
+updated: 2024-10-12T20:08:42.412Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  A total solar eclipse may be a once in a lifetime event, but that doesn't mean you should be careless. Here is how you can protect your phone from any accidental damage, and take the best possible photo.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Photograph the Eclipse with your Phone
 
  There are a few important factors that determine what safety precautions you should take, including what type of eclipse you're photographing, what sort of picture you want to take, and what equipment you're using. We'll start with a bit about eclipses.
@@ -28,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  A solar eclipse occurs when the moon moves between the Earth and the Sun. Most eclipses are only partial eclipses, meaning that the moon never completely obscures the sun. Total eclipses are rarer, and occur when the path of the moon is such that it completely obscures the sun. The few minutes when the sun is completely hidden from view is called totality.
 
  NASA says that it is [safe to view totality without wearing eye protection](https://science.nasa.gov/eclipses/safety/). Just be sure that you don't start looking too early or keep watching too late.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Use a Filter Until Totality
 
@@ -41,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ![The sun captured with a Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/pxl_20240328_173921583-raw-01-mp-cover.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nick Lewis / How-to Geek
 
  Since you can view totality without eye protection, it will also be safe to photograph the eclipse with your phone without a filter. Just be sure that you're not premature, and that you don't keep looking for too long. Totality only lasts a few minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Be Careful With External Telephoto Lenses
 
@@ -71,16 +85,10 @@ Nick Lewis / How-to Geek
  Just be sure to keep an eye on it. The sun and moon move across the sky faster than you might expect, and you may find that they move out of frame if you don't adjust your tripod regularly.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Use Burst Mode and Lock Your Focus
@@ -89,23 +97,9 @@ Nick Lewis / How-to Geek
 
  We also highly recommend that you go into your camera app's settings and set the focus to infinity. That will prevent autofocus from interfering with your perfect shot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Buy Safe Solar Eclipse Glasses or Filters
 
  There are fake, unsafe solar eclipse glasses for sale. The American Astronomical Society has put together [a list of safe solar filters and glasses](https://eclipse.aas.org/eye-safety/viewers-filters), and we'd recommend you buy from that list.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Test Solar Eclipse Glasses and Filters
 
@@ -134,24 +128,24 @@ Nick Lewis / How-to Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[New] In 2024, Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ace-your-fb-video-campaigns-with-these-powerful-tricks/"><u>2024 Approved Ace Your FB Video Campaigns with These Powerful Tricks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gotrax-gxl-v2-commuting-electric-scooter-review-fast-urban-scooter/"><u>GOTRAX GXL V2 Commuting Electric Scooter Review: Fast, Urban Scooter</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/grand-escapades-in-yokus-island-express-an-in-depth-game-experience-review/"><u>Grand Escapades in Yoku's Island Express: An In-Depth Game Experience Review</u></a></li>
-<li><a href="https://facebook.techidaily.com/guide-switch-to-low-light-interface-on-facebook/"><u>Guide: Switch to Low-Light Interface on Facebook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hitman-trilogys-grand-finale-in-depth-review-of-hitman-3/"><u>Hitman Trilogy's Grand Finale - In-Depth Review of Hitman 3</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-the-echo-pop-stand-out-from-the-echo-dot/"><u>How Does the Echo Pop Stand Out From the Echo Dot?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-f23-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo F23 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-fresh-take-on-the-sony-s3700-bdp-performance/"><u>In 2024, Fresh Take on the Sony S3700 BDP Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-narzo-n55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Narzo N55 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-apple-watch-series-6-slight-enhancements-preserve-its-leading-status/"><u>In-Depth Analysis of Apple Watch Series 6: Slight Enhancements Preserve Its Leading Status</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-apple-books-ebook-reader/"><u>In-Depth Assessment of the Apple Books eBook Reader</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-how-the-blade-blh4100-stands-up-to-outdoor-rc-flight-challenges/"><u>In-Depth Review: How the Blade BLH4100 Stands Up to Outdoor RC Flight Challenges</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-tutorial-on-inspecting-web-content-pre-upload-for-optimal-quality/"><u>In-Depth Tutorial on Inspecting Web Content Pre-Upload for Optimal Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-the-d-link-powerline-2000-plk-p8e-setting-up-and-achieving-high-data-speeds-effortlessly/"><u>Inside the D-Link Powerline 2000 (PLK-P8E): Setting Up and Achieving High Data Speeds Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unidentified-issue-missing-api-dll-on-pc/"><u>Unidentified Issue: Missing API DLL on PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/what-to-do-when-your-printer-is-offline/"><u>What To Do When Your Printer Is Offline</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>[New] 2024 Approved 24 Hour Heavyweights Top 10 Most Watched on YT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-swiftclick-retrorecall-video-for-2024/"><u>[New] SwiftClick RetroRecall Video for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-crossfade-mastery-in-professional-mixing-logic-pro-x-edition/"><u>[Updated] In 2024, Crossfade Mastery in Professional Mixing - Logic Pro X Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-micro-videos-whats-the-gist/"><u>[Updated] Micro Videos What's the Gist?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ten-practical-ways-to-prevent-vr-sickness/"><u>2024 Approved Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/7-things-to-consider-before-buying-a-smart-tv/"><u>7 Things to Consider Before Buying a Smart TV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expertly-tackle-windows-10-taskbar-issues-top-fixes-revealed/"><u>Expertly Tackle Windows 10 Taskbar Issues: Top Fixes Revealed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-sensation-strategies-for-marketers-and-influencers-for-2024/"><u>Fb Sensation Strategies for Marketers and Influencers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23 Tactical Edition?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722931883509-maximize-your-network-range-with-the-netgear-nighthawk-x4-mesh-extender-expert-review-inside/"><u>Maximize Your Network Range with the Netgear Nighthawk X4 Mesh Extender - Expert Review Inside</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-image-to-video-makers-free-paid-and-everything-in-between/"><u>New The Ultimate List of Image to Video Makers Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultra-portable-camera-with-extreme-capability-g7x-ii/"><u>The Ultra-Portable Camera with Extreme Capability: G7X II</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-unparalleled-audio-adventure-of-the-logitech-g533/"><u>The Unparalleled Audio Adventure of the Logitech G533</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-best-features-of-the-compact-and-economical-propella-absolutely-here-are-five-new-best-seo-titles/"><u>Unveiling the Best Features of the Compact and Economical Propella Absolutely, Here Are Five New Best SEO Titles:</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-budget-champion-an-in-depth-review-of-tp-links-archer-a6/"><u>Unveiling the Budget Champion: An In-Depth Review of TP-Link's Archer A6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-groundbreaking-features-of-the-latest-imac-powered-by-m1-chip-a-comprehensive-review/"><u>Unveiling the Groundbreaking Features of the Latest iMac Powered by M1 Chip: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-samsungs-galaxy-tab-s7-tablet-deserves-your-attention-an-in-depth-review/"><u>Why Samsung's Galaxy Tab S7 Tablet Deserves Your Attention: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-series-s-powerhouse-analysis-unpacking-the-mighty-compact-gaming-console/"><u>Xbox Series S Powerhouse Analysis: Unpacking the Mighty Compact Gaming Console</u></a></li>
 </ul></div>
 

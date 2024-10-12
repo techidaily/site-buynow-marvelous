@@ -1,7 +1,7 @@
 ---
 title: "Kensun Portable Tire Inflator Review: Sturdy, Reliable, and Portable"
-date: 2024-10-04T02:29:43.161Z
-updated: 2024-10-07T02:13:58.811Z
+date: 2024-10-06T16:00:03.122Z
+updated: 2024-10-12T17:13:01.371Z
 categories:
   - BestProducts
 description: "This Article Describes Kensun Portable Tire Inflator Review: Sturdy, Reliable, and Portable"
@@ -37,15 +37,22 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -70,13 +77,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -99,18 +99,18 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
 
@@ -132,6 +132,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
@@ -149,13 +156,6 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -182,16 +182,24 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-creative-content-on-instagram-using-loops/"><u>[New] 2024 Approved Elevate Your Creative Content on Instagram Using Loops</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-complete-breakdown-hero4-black-functionality/"><u>[New] Complete Breakdown Hero4 Black Functionality</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-navigate-to-the-top-5-mac-livestream-choices-for-2024/"><u>[New] Navigate to the Top 5 Mac Livestream Choices for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-video-playback-power-up-compare-vlc-to-mx-player/"><u>[New] Video Playback Power-Up Compare VLC to MX Player</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-bandicam-vs-camtasia-which-is-better-in-2024/"><u>[Updated] Bandicam vs Camtasia, Which Is Better, In 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-movavi-pro-what-to-expect-from-the-newest-video-edition-2024/"><u>[Updated] Movavi Pro – What to Expect From the Newest Video Edition, 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fitbit-versa-lite-review/"><u>Fitbit Versa Lite Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/future-visionary-eyewear-the-premier-smart-glasses/"><u>Future Visionary Eyewear: The Premier Smart Glasses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-dim-to-dazzling-a-guide-to-selecting-top-quality-displays/"><u>In 2024, From Dim to Dazzling A Guide to Selecting Top-Quality Displays</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-walkthrough-for-improving-computer-graphics-via-hardware-update/"><u>In-Depth Walkthrough for Improving Computer Graphics via Hardware Update</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-at-samsung-galaxy-s21-has-simplicity-outshined-innovation-this-time-around/"><u>Inside Look at Samsung Galaxy S21: Has Simplicity Outshined Innovation This Time Around?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-find-youtube-collaboration-partners/"><u>[New] 2024 Approved How to Find YouTube Collaboration Partners?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-deep-dive-into-ustream-and-substitutes/"><u>[Updated] 2024 Approved Deep Dive Into Ustream & Substitutes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-durable-omoton-t1-desk-mounted-tablet-holder-comprehensive-assessment/"><u>Affordable and Durable Omoton T1 Desk Mounted Tablet Holder - Comprehensive Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-cutting-edge-internet-surfing-and-media-streaming-on-the-cost-effective-lenovo-tab-m10-hd-2020/"><u>Dive Into Cutting-Edge Internet Surfing and Media Streaming on the Cost-Effective Lenovo Tab M10 HD (2020)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/epic-viking-journey-unveiled-a-comprehensive-assassins-creed-valhalla-game-review/"><u>Epic Viking Journey Unveiled: A Comprehensive Assassin's Creed: Valhalla Game Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/extended-motion-systems-appraisal-for-2024/"><u>Extended Motion Systems Appraisal for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-xs-max-sim-lock-by-drfone-ios/"><u>How to Remove iPhone XS Max SIM Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p40plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel P40+ to New Android? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/identifying-points-for-mobile-device-update/"><u>Identifying Points for Mobile Device Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersed-tube-tunnel-construction/"><u>Immersed Tube Tunnel Construction</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Phone without PIN</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-secrets-lowering-playback-rate-for-better-views/"><u>In 2024, Snapchat Secrets Lowering Playback Rate for Better Views</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>In 2024, Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-fongo-voip-offerings-an-expert-canadian-service-guide/"><u>Navigating Fongo VoIP Offerings - An Expert Canadian Service Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-benefits-and-limitations-of-pidgin-as-an-im-client/"><u>Navigating Through the Benefits & Limitations of Pidgin as an IM Client</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-official-100-valid-wondershare-filmora-coupon-code-up-to-54-off-for-2024/"><u>New Official 100 Valid Wondershare Filmora Coupon Code Up to 54 OFF for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-future-of-gaming-awaits-dive-into-the-revolutionary-phillips-evonia-49-curved-oled-display/"><u>The Future of Gaming Awaits: Dive Into the Revolutionary Phillips Evonia 49 Curved OLED Display</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-look-at-huawei-p2086-pro-review-outstanding-imaging-toolset-on-an-alright-phone/"><u>The Ultimate Look at Huawei P20#86-Pro Review: Outstanding Imaging Toolset on an Alright Phone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/understanding-the-differences-in-depth-analysis-of-mp4-and-wmv-file-types/"><u>Understanding the Differences: In-Depth Analysis of MP4 & WMV File Types</u></a></li>
 </ul></div>
 

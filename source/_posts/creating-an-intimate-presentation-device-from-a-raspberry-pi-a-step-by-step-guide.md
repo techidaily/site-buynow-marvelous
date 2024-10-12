@@ -1,7 +1,7 @@
 ---
 title: "Creating an Intimate Presentation Device From a Raspberry Pi: A Step-by-Step Guide"
-date: 2024-09-29T21:21:36.203Z
-updated: 2024-10-01T19:20:02.593Z
+date: 2024-10-10T18:33:34.064Z
+updated: 2024-10-12T19:12:03.630Z
 tags:
   - games
   - tv
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ##  Choosing the Right Tools
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Selecting the Perfect Raspberry Pi Model
 
  The most important part of this project is [choosing the right Raspberry Pi](https://extra-hints.techidaily.com/top-10-guidelines-for-breaking-through-cover-art/). For this project, the Raspberry Pi 4 Model B is a great choice, as it is a powerful device at an affordable price. However, if you can't get your hands on an RPi 4, a Raspberry Pi 3 Model B+ will work well for slideshows, though you'll lose some power and performance.
@@ -51,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Building Your Slideshow Machine
@@ -201,11 +194,31 @@ sudo sh ~/lightdm-changer.sh
 
  Once the script restarts the login screen (LightDM), you'll be logged out. From here, select "Slideshow" from the session menu and log in. When you log in, your slideshow will commence.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Customizing Your Slideshow
 
  The slideshow script looks for images inside the "Pictures" folder on the Pi. To load up images, simply play JPGs and PNGs directly into "Pictures."
 
 ![The location of picture files for the slideshow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-pictures-in-file-manager.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you wish to customize your slideshow, start by opening up the script that handles the slideshow on your Pi.
 
@@ -216,10 +229,10 @@ sudo nano /usr/share/xsessions/start-slideshow.sh
 ![The Pi slideshow is in motion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-in-motion.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To disable randomization, find the command below in the script:
@@ -229,19 +242,6 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
  Remove "--randomize" to disable randomization in the slideshow.
 
  If you want to increase (or decrease) the delay in which the pictures change (the default is 5), locate "5" in the command and increase or decrease it. When you've finished customizing your slideshow settings, press Ctrl + O to save your edits and Ctrl + X to close Nano.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Unleashing Your Inner Tech Guru
 
@@ -262,16 +262,22 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-pet-surveillance-petcubes-top-hd-camera-choice/"><u>Affordable Pet Surveillance: Petcube's Top HD Camera Choice</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-choice-exceptional-earphones-of-2024/"><u>Audiophiles' Choice - Exceptional Earphones of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-the-best-picture-quality-crystal-uhd-vs-qled-in-samsung-tvs-detailed-review-by-techsavvy/"><u>Choosing the Best Picture Quality: Crystal UHD Vs. QLED in Samsung TVs - Detailed Review by TechSavvy</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/creative-tims-top-tier-argon-theme-for-tailwind-ui-developers-superior-premium-control-panel-experience/"><u>Creative Tim's Top-Tier Argon Theme for Tailwind UI Developers: Superior Premium Control Panel Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT 5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>In 2024, Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-discord-not-opening-issues/"><u>Step-by-Step Solutions to Overcome Discord Not Opening Issues</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/turn-your-passion-into-profits-youtube-on-facebook-monetization-steps-for-2024/"><u>Turn Your Passion Into Profits YouTube on Facebook Monetization Steps for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722979937479-ultimate-guide-to-choosing-your-next-computer-apples-powerhouse-imac-reviewed/"><u>Ultimate Guide to Choosing Your Next Computer: Apple's Powerhouse iMac Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-2024s-most-economical-smartphone-contract-options/"><u>Unveiling 2024'S Most Economical Smartphone Contract Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-review-of-samsungs-qn55q6f-ultra-hd-smart-tv/"><u>Unveiling the Benefits: A Review of Samsung's QN55Q6F Ultra HD Smart TV</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-7-social-media-screen-grabs/"><u>[New] 2024 Approved Top 7 Social Media Screen Grabs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-review-of-apeaksoft-for-video-capture-technology/"><u>[New] Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-realities-compared-metaverse-and-multiverse/"><u>2024 Approved Interactive Realities Compared Metaverse and Multiverse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-leading-resources-to-masterfully-add-text-flair-online-for-2024/"><u>5 Leading Resources to Masterfully Add Text Flair Online for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-personalization-tailoring-your-site-experience/"><u>Cookiebot-Driven Personalization: Tailoring Your Site Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-risks-in-googles-password-storage-system/"><u>Evaluating the Risks in Google's Password Storage System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-blistering-speeds-with-our-comprehensive-review-of-the-netgear-nighthawk-rax120/"><u>Experience Blistering Speeds with Our Comprehensive Review of the Netgear Nighthawk RAX120</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-seamless-charging-on-the-go-in-depth-review-of-omnicharge-omni-20s-portable-power-bank-and-wireless-features/"><u>Experience Seamless Charging On-the-Go: In-Depth Review of Omnicharge Omni 20'S Portable Power Bank & Wireless Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-ranking-the-top-6-online-destinations-for-shopping-tvs/"><u>Expert Picks: Ranking the Top 6 Online Destinations for Shopping TVs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experts-pick-for-the-ultimate-ready-to-fly-rc-choice-blade-e-flite-mcx2-helicopter-detailed-review/"><u>Experts' Pick for the Ultimate Ready-to-Fly RC Choice - Blade E-Flite mCX2 Helicopter Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-benefits-of-staying-active-with-cubefits-innovative-terramat/"><u>Exploring the Benefits of Staying Active with CubeFit's Innovative TerraMat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-nuances-of-audio-and-voice-tech-with-the-apple-homepod-mini-detailed-assessment/"><u>Exploring the Nuances of Audio and Voice Tech with the Apple HomePod Mini - Detailed Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-viber-out-a-comprehensive-overview-and-assessment/"><u>Exploring Viber Out: A Comprehensive Overview and Assessment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-secrets-of-successfully-posting-imovie-videos-on-vimeo/"><u>In 2024, The Secrets of Successfully Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-narzo-n53-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme Narzo N53? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-mysterious-dx-error-in-lol/"><u>Resolved: Mysterious DX Error in LoL</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-chill-out-scenes-to-add-zest-to-your-snowy-videos/"><u>Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos</u></a></li>
 </ul></div>
 
