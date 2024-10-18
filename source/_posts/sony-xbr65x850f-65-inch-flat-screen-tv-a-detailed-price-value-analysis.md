@@ -1,7 +1,7 @@
 ---
 title: "Sony XBR65X850F 65-Inch Flat Screen TV: A Detailed Price-Value Analysis"
-date: 2024-08-15T09:20:07.283Z
-updated: 2024-08-16T09:20:07.283Z
+date: 2024-10-13T17:13:32.379Z
+updated: 2024-10-18T19:20:06.443Z
 categories:
   - BestProducts
 description: "This Article Describes Sony XBR65X850F 65-Inch Flat Screen TV: A Detailed Price-Value Analysis"
@@ -40,9 +40,12 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 3.6
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
@@ -70,8 +73,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
@@ -92,14 +99,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -114,6 +125,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Starting off with some of this unit’s strengths, this particular series uses an IPS panel for the screen, which means you’re going to get vibrant colors, a nice backlight for viewing in bright rooms, and excellent viewing angles. This all adds up to a superb experience if you’ve got a big living room that’s brightly lit by windows, where viewers might not be able to sit completely centered.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -131,18 +149,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: A bit sluggish but good enough**
 
  Android TV has come a long way since its debut, but not all TVs are getting timely updates, and these lower-end Sony TVs are notoriously slow for this. While some TVs are already running Android TV 9.0, many are stuck with older versions.
@@ -157,9 +169,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -168,9 +177,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
  Now there are a ton of comparable 4K TVs out there stacked up against the Sony XBR65X850F, but Samsung is a similarly reputable brand, so let’s compare their UN65RU8000 (view on[Amazon](https://www.amazon.com/Samsung-UN65RU8000-Ultimate-SurgePro-6-Outlet/dp/B07Q6VCCLF?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7C) ).
@@ -189,6 +195,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
@@ -203,14 +216,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * Speakers  2 full range, 2ch
 * Connectivity Options  4 HDMI
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,4 +229,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/fresh-russh-scansnap-s1100-drivers-fast-installation-guide/"><u>[FRESH RUSSH!]: ScanSnap S1100 Drivers - Fast Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1-master-the-art-of-dvd-copying-a-step-by-step-guide-to-cloning-your-personal-collection/"><u>1. Master the Art of DVD Copying: A Step-by-Step Guide to Cloning Your Personal Collection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-holographic-horizons-reimagined-movies/"><u>2024 Approved Holographic Horizons Reimagined Movies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-sneakily-bypass-online-learning-videos-without-breach/"><u>2024 Approved Sneakily Bypass Online Learning Videos Without Breach</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-10-quick-and-free-jpeg-to-gif-conversion-services/"><u>2024 Approved Top 10 Quick & Free JPEG-to-GIF Conversion Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-traditional-tropes-in-depth-analysis-and-review-of-yokus-island-express/"><u>Beyond Traditional Tropes: In-Depth Analysis and Review of Yoku's Island Express</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-perfect-vinyl-to-digital-conversion-with-audio-techs-at-lp120xusb/"><u>Experience the Perfect Vinyl-to-Digital Conversion with Audio-Tech's AT-LP120XUSB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-leveraging-lightzones-powerful-photo-retouch-features-across-all-platforms/"><u>Expert Insights: Leveraging LightZone's Powerful Photo Retouch Features Across All Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a14-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A14 4G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A34 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-evaluating-the-features-and-performance-of-google-call-services/"><u>Inside Look: Evaluating the Features and Performance of Google Call Services</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-fix-eliminating-tracer-errors-m-audio/"><u>Instant Fix: Eliminating Tracer Errors (M-Audio)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723060199359-lg-gram-156-inch-laptop-unleashed-a-powerhouse-of-portability-and-endurance-from-2018/"><u>LG Gram 15.6-Inch Laptop Unleashed: A Powerhouse of Portability & Endurance From 2018!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-gaming-debate-upgrading-from-ps4-pro-to-ps5/"><u>The Gaming Debate: Upgrading From PS4 Pro to PS5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-the-premier-steam-deck-games-of-2023-you-cant-miss/"><u>Ultimate List: The Premier Steam Deck Games of 2023 You Can't Miss</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-iphone-upgrade-possibilities-a-guide/"><u>Unlocking iPhone Upgrade Possibilities: A Guide</u></a></li>
+</ul></div>
 

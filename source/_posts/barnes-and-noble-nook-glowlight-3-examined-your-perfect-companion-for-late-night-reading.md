@@ -1,7 +1,7 @@
 ---
 title: "Barnes & Noble Nook GlowLight 3 Examined: Your Perfect Companion for Late-Night Reading"
-date: 2024-08-22T17:50:50.218Z
-updated: 2024-08-23T17:50:50.218Z
+date: 2024-10-13T18:16:54.914Z
+updated: 2024-10-18T20:10:34.447Z
 categories:
   - BestProducts
 description: "This Article Describes Barnes & Noble Nook GlowLight 3 Examined: Your Perfect Companion for Late-Night Reading"
@@ -39,6 +39,13 @@ Lifewire / Gannon Burgett
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/srDs47vmZPXcVAqFGXrMcO_CJi8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Gannon Burgett
 
 [View On Amazon](https://www.amazon.com/dp/B07H45Y2LL/?tag=lifewire-onsite-prod-20&ascsubtag=5077345%7Cnffea76a6fff14380a36b75d7c313b3ba21%7CB07H45Y2LL) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsunbritetv-veranda-series-55-class-led-outdoor-full-shade-2160p-4k-uhd-tv-with-hdr%2F6297105.p%3FskuId%3D6297105)
@@ -60,9 +67,6 @@ Lifewire / Gannon Burgett
 
  For this review, I put SunBrite’s 55-inch Veranda 4K TV to the test to see how well it would hold up to in the chilliest of environments. Over the course of 30 hours of on-and-off use throughout the month of January, I took notes of the TV’s strengths and weaknesses and have summarized my thoughts below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Bulky, but durable**
 
  From a distance, the SunBrite 55-inch Veranda outdoor TV doesn’t look much different than your average LED television. Aside from being slightly bulkier due to its protective shell, the TV, from the front and side, looks nearly identical to any TV you’d see inside.
@@ -75,14 +79,15 @@ Lifewire / Gannon Burgett
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/rdbdKiGTwmhltgpXlFZprX8UxRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_06_Horiz-077a34626106476491659d025e498885.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Durability: Come hell or high water**
 
  Ultimately, testing the durability of the SunBrite 55 Veranda is something only time will be able to prove. However, after more than a month of near-daily use (and abuse), I’ve struggled to find anything this TV can’t handle, even in the chilling winters of northern Michigan.
@@ -90,6 +95,13 @@ Lifewire / Gannon Burgett
  Yes, the Veranda is meant to be used in full shade, where it will likely be somewhat protected, but I still took the time to throw snow, water, mud, and even salty snow at it to see how it held up. No matter what was stuck to it, it all came off with a quick rinse of the hose. The only thing I did notice is that the protective screen on the front of the TV is prone to scratching. In my attempt to smear some dirt on the screen, I managed to rub a rock against the front cover and in doing so gave the TV a nice little scratch on the front.
 
  That said, the abuse I put it through is anything but normal and so long as you aren’t literally grinding dirt into the screen or throwing rocks at it, I can’t see how this thing won’t hold up for years to come, be it rain or shine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Fairly straightforward**
 
@@ -103,9 +115,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Image and Audio Quality: Good, but not great**
 
  The SunBrite Veranda is designed specifically to be used in full shade areas. This could include a three-seasons room, an outdoor area with a canopy or, as I opted for in this review, an outdoor shed that will block the sun, but is still exposed to the elements throughout the year.
@@ -125,8 +134,12 @@ Lifewire / Gannon Burgett
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/gWc18UfkuRaLKxubOAFv0zceMlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_17_Horiz-e1118b39b8ae43f5a135c249d3d6f741.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
 ## **Price: Not cheap, but worth it**
@@ -135,9 +148,6 @@ Lifewire / Gannon Burgett
 
  For better or worse, its $2,000 price is roughly middle-of-the-line as far as outdoor TVs go and if you have the cash to spare, I can guarantee it’ll be a worthwhile luxury purchase if you enjoy spending your time outside in the sun (or snow, in my case).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **SunBriteTV 55-inch Veranda vs Sealoc Lanai LG 7-series**
 
  SunBriteTV knows a thing or two about creating outdoor entertainment systems, but they’re not alone. Outdoor TV company Sealoc has its own line of outdoor TVs meant for the shade and has a lot to offer with its[55-inch Sealoc Lanai LG 7-series outdoor TV.](https://www.lifewire.com/skyvue-sealoc-coastal-silver-55-inch-4k-outdoor-tv-review-5077335)
@@ -174,8 +184,6 @@ Lifewire / Gannon Burgett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +191,26 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-complete-beginners-roadmap-for-audacity-audio-capture/"><u>[New] 2024 Approved The Complete Beginner's Roadmap for Audacity Audio Capture</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-best-practices-for-youtube-to-igtv-transformation/"><u>[New] Best Practices for YouTube to IGTV Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-forecasting-in-the-world-of-youtube-snippet-creation-for-2024/"><u>[New] Financial Forecasting in the World of YouTube Snippet Creation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-planning-to-performance-tips-for-wirecast-and-facebook-livestreaming/"><u>[Updated] In 2024, From Planning to Performance Tips for Wirecast & Facebook Livestreaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-jumpstart-your-tiktok-presence-with-these-30-standout-nicknames/"><u>2024 Approved Jumpstart Your TikTok Presence with These 30 Standout Nicknames</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-approaches-to-convert-youtube-videos-to-mp4/"><u>2024 Approved Key Approaches to Convert YouTube Videos to MP4</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-master-iphone-podcast-downloads-a-comprehensible-approach/"><u>2024 Approved Master iPhone Podcast Downloads A Comprehensible Approach</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-poco-x5-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Poco X5 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y27s-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y27s</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-free-video-hosting-sites-for-online-publishing/"><u>New In 2024, The Ultimate List of Free Video Hosting Sites for Online Publishing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-audio-headphones-of-2024-ultimate-list/"><u>Top Audio Headphones of 2024 - Ultimate List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-m-mooc-1000a-portable-car-jump-starter-with-18000-mah-battery-comprehensive-review/"><u>Top-Rated M MOOC 1000A Portable Car Jump Starter with 18,000 mAh Battery - Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-power-inverter-models-in-2n4-a-comprehensive-guide/"><u>Top-Rated Power Inverter Models in 2N4: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-deco-p9-review-mesh-wi-fi-made-easy/"><u>TP-Link Deco P9 Review: Mesh Wi-Fi Made Easy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-your-perfect-usb-drive/"><u>Ultimate Guide to Choosing Your Perfect USB Drive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-endurance-a-deep-dive-into-moto-g-powers-remarkable-battery-performance/"><u>Unbeatable Endurance: A Deep Dive Into Moto G Power's Remarkable Battery Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-miniature-marvel-that-is-the-budget-friendly-samsung-galaxy-s1-0e/"><u>Unboxing & Testing: The Miniature Marvel That Is the Budget-Friendly Samsung Galaxy S1 0E</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-the-contrasts-ipad-versus-ipad-air-unveiled/"><u>Understanding the Contrasts: IPad Versus iPad Air Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-high-definition-views-the-caixun-4k-smart-tv-at-an-unbeatable-price/"><u>Unlocking High Definition Views: The Caixun 4K Smart TV at an Unbeatable Price!</u></a></li>
+</ul></div>
 

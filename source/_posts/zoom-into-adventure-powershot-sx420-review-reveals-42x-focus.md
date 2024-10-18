@@ -1,7 +1,7 @@
 ---
 title: "Zoom Into Adventure: PowerShot SX420 Review Reveals 42X Focus"
-date: 2024-08-22T17:46:03.127Z
-updated: 2024-08-23T17:46:03.127Z
+date: 2024-10-11T18:07:47.425Z
+updated: 2024-10-18T19:44:53.379Z
 categories:
   - BestProducts
 description: "This Article Describes Zoom Into Adventure: PowerShot SX420 Review Reveals 42X Focus"
@@ -39,9 +39,23 @@ Lifewire / Rebecca Isaacs
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Days to Die
 
 ![7 Days to Die](https://www.lifewire.com/thmb/mKaiRcg5xaWaOPRj0Ph1dRjUbSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -66,6 +80,13 @@ Lifewire / Rebecca Isaacs
  Everyone loves zombies, but there are so many zombie shooters, it can be hard to tell them apart. But when we played 7 Days to Die, we jumped for joy and grabbed our digital cricket bats, fully prepared to go full Shaun of the Dead on hordes of the undead. A game loosely based around a nuclear fallout that ends with the fall of civilization and the spawning of undead, hungry friends sounds like a good time. Racking up over 500 hours on the game, we’ve tested it across four major alpha updates, taking note of gameplay, plot, ease of use, and price. Read on to find out our thoughts.
 
 ![7 Days to Die](https://www.lifewire.com/thmb/MW5wYA5ujBjG5LdXn-w9bTJd5WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-2-a59091cd21c04d99a42270199349fc2a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -94,13 +115,21 @@ Lifewire / Rebecca Isaacs
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Could be better, but solid overall**
 
  7 Days to Die boasts two playable maps: Navezgane, which is a massive square map consisting of five biomes in which you can use the sandbox world to your advantage; and random map generation, which is a map that randomly spawns cities and biomes. The latter is for players who want a greater challenge, as no random map is the same. The former, however, has fun elements like a school, complete with charging football zombies, and a strip club. From these two kinds of maps alone, gameplay can last for hours (as we said, we’ve clocked in 500 hours at this point).
@@ -123,9 +152,6 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Outdated, but detailed on optimal**
 
  For a game that was released in 2013 originally, the graphics could be a little better, even if you play on optimal settings. Back in the day, we played on lower settings rather than splurge on a fancy graphics card. If you play on the lower settings, it’s cringeworthy, though not as cringeworthy as the Witcher 3’s lowest settings.
@@ -134,25 +160,16 @@ Lifewire / Rebecca Isaacs
 
  Because the graphics are a rather mixed bag, the frames per second (fps) can vary dramatically. We experienced drops as low as 18 fps when playing. When surrounded by a horde, that can cost you your life.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Platform: It’s complicated**
 
  7 Days to Die runs on many platforms:[PC](https://www.lifewire.com/what-is-a-mac-4155662) ,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and[Xbox 360](https://www.lifewire.com/xbox-360-buyers-guide-3562451) . We played 7 Days on PC, and at the time of writing, they released a teaser for the Alpha 18 update which would roll out to the PC version of the game.
 
  Last time we checked, the company that owned all console rights, Telltale, went bust, and The Fun Pimps (the developer) were in legal limbo trying to reacquire their own rights. There’s a good chance that there will not be an update in the console versions of the game anytime soon as this issue makes its way through the courts. Therefore, we strongly recommend that you purchase the PC version if you decide this is a game you might like to try.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Average for an alpha game**
 
  At around $25, 7 Days isn’t the most expensive zombie game on the market. However, it is the most expensive alpha zombie game out there. Because you can purchase it on[Steam](https://www.lifewire.com/what-is-steam-4177380) or Humble Bumble, we recommend waiting for a Steam sale and getting it for a discount, especially since it’s still in progress. This way, if you decide you don’t like it in the future, you aren’t out the full price.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Other sandbox shooters**
 
  It’s hard to compare 7 Days to other sandboxes out there because of the significant focus on crafting and building.[Minecraft](https://www.minecraft.net/en-us/download/) has expansive crafting and arguably good graphics with its classic blocky appearance. Terraria also boasts zombies and crafting and building capabilities, though they’re 2D instead of 3D like in 7 Days. And all of them can guarantee hours of gameplay with fun twists and turns.
@@ -183,14 +200,11 @@ Lifewire / Rebecca Isaacs
 * Graphics  1 GB Dedicated Memory
 * Game Updates  Alpha 17.4 out; Alpha 18 Announced
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +213,20 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-deciding-the-top-iphone-video-editor-cameo-or-filmorago/"><u>[New] In 2024, Deciding the Top iPhone Video Editor Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-guide-top-10-gratis-mmo-rpgs/"><u>[Updated] 2024 Approved Ultimate Guide Top 10 Gratis MMO RPGs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fish-tastic-top-5-action-cameras-for-catch/"><u>[Updated] Fish-Tastic Top 5 Action Cameras for Catch</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-storytelling-adding-captions-to-images-in-oses-for-2024/"><u>[Updated] Visual Storytelling Adding Captions to Images in OSes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-auditory-aesthetics-film-from-a-single-frame/"><u>2024 Approved Auditory Aesthetics Film From a Single Frame</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-in-depth-review-of-the-tp-link-archer-a6-ac1200-value-for-money-in-networking/"><u>Affordable Excellence: In-Depth Review of the TP-Link Archer A6 AC1200 - Value for Money in Networking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-quality-comprehensive-tp-link-archer-a6-ac1200-router-assessment/"><u>Affordable Quality: Comprehensive TP-Link Archer A6 AC1200 Router Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/battery-swap-value-iphone-vs-ipod/"><u>Battery Swap Value: IPhone Vs. IPod</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beat-the-heat-how-the-havit-5-multi-fan-laptop-chiller-keeps-your-performance-smooth/"><u>Beat the Heat: How the HAVIT 5 Multi-Fan Laptop Chiller Keeps Your Performance Smooth</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-12-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus 12 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-11-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 11 Making It Possible</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-cropping-mkv-files-without-compromising-on-quality/"><u>Ultimate Guide: Cropping MKV Files Without Compromising on Quality</u></a></li>
+</ul></div>
 

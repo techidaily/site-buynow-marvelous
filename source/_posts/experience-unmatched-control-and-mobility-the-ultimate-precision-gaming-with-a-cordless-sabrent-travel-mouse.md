@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2024-10-08T17:22:30.282Z
-updated: 2024-10-12T18:52:23.300Z
+date: 2024-10-17T16:36:08.907Z
+updated: 2024-10-18T19:39:42.403Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -41,13 +41,6 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B00D2ZK1IG/?tag=lifewire-onsite-prod-20&ascsubtag=4778324%7Cn8b17d62e028148938085d16c4455799211%7CB00D2ZK1IG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/dying-light/10111372.html)
@@ -72,19 +65,33 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/_0yEidfS3S4dy57s584t378TZYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-5-4ec68914607c4b56acff25a78887af7f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Straight into the action**
 
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -99,13 +106,6 @@ Harran is a whole different city at night.
  This is a fairly linear game with regards to the plot. There's a main storyline for you to follow, with some optional side quests that you can take or leave. The narrative does a decent job of building up the circumstances for Kyle feeling torn between his mission and these people, and you’ll learn more about the virus as you go, as well as Antizin, the fictional drug that could lead to a cure.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -133,25 +133,18 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -164,6 +157,13 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -186,20 +186,22 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-digital-transformation-techniques-for-vhs-photos-via-pconline/"><u>[New] 2024 Approved Digital Transformation Techniques for VHS Photos via PC/Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhance-video-appeal-with-filmmaker-friendly-subscribe-button-tutorials-filmora/"><u>[New] In 2024, Enhance Video Appeal with Filmmaker-Friendly Subscribe Button Tutorials (Filmora)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-surprise-your-friends-with-these-unheard-memes/"><u>[New] In 2024, Surprise Your Friends with These Unheard Memes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/asus-zenwifi-xt8-ax6n600-an-in-depth-review-of-the-latest-powerhouse-in-mesh-wifi-technology/"><u>ASUS ZenWifi XT8 AX6n600: An In-Depth Review Of The Latest Powerhouse In Mesh WiFi Technology</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-10-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-getting-acquainted-with-the-samsung-galaxy-s24-ultra/"><u>In-Depth Review: Getting Acquainted with the Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-iphoneandroid-the-best-slo-mo-camera-app-compilation-for-2024/"><u>Mastering iPhone/Android The Best Slo-Mo Camera App Compilation for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-challenges-and-charms-of-yokus-island-express-gaming-review-highlight/"><u>Navigating the Challenges and Charms of Yoku's Island Express - Gaming Review Highlight</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nokia-31-smartphone-assessment-ideal-first-mobile-device-for-new-users/"><u>Nokia 3.1 Smartphone Assessment: Ideal First Mobile Device for New Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-fixes-to-enhance-performance-supercharge-your-iphone-1515-pro-in-just-a-few-steps/"><u>Quick Fixes to Enhance Performance: Supercharge Your iPhone 15/15 Pro in Just a Few Steps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-amazfit-gts-reviewed-an-innovative-blend-of-style-and-fitness-with-uneven-results/"><u>The Amazfit GTS Reviewed: An Innovative Blend of Style and Fitness with Uneven Results</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-raspberry-pi-400-inspection-transforming-keyboards-into-compact-computers/"><u>The Raspberry Pi #400 Inspection - Transforming Keyboards Into Compact Computers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-why-samsungs-galaxy-tab-s7-stands-out/"><u>The Ultimate Guide to Choosing a Tablet: Why Samsung's Galaxy Tab S7 Stands Out</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725285929796-winx-dvd/"><u>아이폰 전송에서 WinX DVD 리퍼 또는 비디오 컨버터: 최고의 접기 소프트웨어 선택</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-effortlessly-blur-your-conference-backgrounds-on-teams/"><u>[New] In 2024, Effortlessly Blur Your Conference Backgrounds on Teams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unleash-potential-strategies-for-skyrocketing-your-fb-profile-status-for-2024/"><u>[New] Unleash Potential Strategies for Skyrocketing Your FB Profile Status for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-prosperous-path-share-tiktok-via-twitter/"><u>[Updated] 2024 Approved The Prosperous Path Share TikTok via Twitter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-streaming-quality-exclusive-guide-to-9-high-end-filters/"><u>[Updated] Elevate Streaming Quality Exclusive Guide to 9 High-End Filters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tech-tips-efficient-gameplay-archiving-in-roblox-on-macos/"><u>[Updated] Tech Tips Efficient Gameplay Archiving in Roblox on MacOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-yamaha-mcr-b020bl-system-reviewed/"><u>Compact Yamaha MCR-B020BL System Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-jackerys-portable-battery-with-integrated-ac-socket/"><u>Comprehensive Evaluation of Jackery's Portable Battery with Integrated AC Socket</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-b550-xt-capabilities-in-vocal-technology/"><u>Exploring B550-XT Capabilities in Vocal Technology</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lite-or-oled-the-ultimate-guide-to-choosing-your-next-nintendo-console/"><u>Lite or OLED? The Ultimate Guide to Choosing Your Next Nintendo Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/memorial-day-savings-alert-up-to-250-off-on-cutting-edge-powerhouse-gaming-laptops-pcmagazine/"><u>Memorial Day Savings Alert: Up to $250 Off on Cutting-Edge Powerhouse Gaming Laptops | PCMagazine</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-review-the-top-contenders-in-vertical-gaming-mice-2hemes/"><u>Professional Review: The Top Contenders in Vertical Gaming Mice - 2Hemes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pros-and-cons-the-battle-between-samsungs-latest-titans-the-s23-vs-s21-ultra/"><u>Pros and Cons: The Battle Between Samsung's Latest Titans, the S23 vs S21 Ultra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-unveiled-expert-review-on-the-portable-aphaca-bt69-fm-transmitter-with-built-in-bluetooth-connectivity/"><u>Top Pick Unveiled - Expert Review on the Portable Aphaca BT69 FM Transmitter with Built-In Bluetooth Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-key-features-of-macbook-air-vs-macbook-pro/"><u>Understanding Key Features of MacBook Air Vs. MacBook Pro</u></a></li>
 </ul></div>
 

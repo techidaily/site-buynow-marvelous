@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Nintendo Switch - Leading Portable Game System Unveiled
-date: 2024-08-22T17:46:57.348Z
-updated: 2024-08-23T17:46:57.348Z
+date: 2024-10-15T16:07:34.597Z
+updated: 2024-10-18T17:00:32.194Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Nintendo Switch - Leading Portable Game System Unveiled
@@ -39,9 +39,23 @@ Lifewire / Andy Zahn
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -75,9 +89,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -90,21 +101,22 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
 
@@ -115,8 +127,18 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -155,9 +177,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -204,14 +223,18 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -238,8 +261,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +268,20 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elite-monitors-elevate-photo-editing-find-the-best-for-2024/"><u>[New] Elite Monitors Elevate Photo Editing - Find the Best for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-pioneers-shaping-the-future-of-vr-experiences/"><u>[New] In 2024, Pioneers Shaping The Future Of VR Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unleashing-potential-views-best-keyword-resources-ranked/"><u>[New] Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>[Updated] 2024 Approved Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-creature-companions-best-animal-titles-on-android-for-2024/"><u>[Updated] Creature Companions Best Animal Titles on Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-permissions-how-to-work-with-the-trustedinstaller-in-windows-11/"><u>Mastering Permissions: How to Work with the TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-guide-to-alienware-m18-r2-a-gamers-dream-machine-unveiled/"><u>The Definitive Guide to Alienware M18 R2 - A Gamer's Dream Machine Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-examining-poweradd-pilot-pro2-a-mega-power-source-for-your-digital-essentials/"><u>Unboxing & Examining POWERADD Pilot Pro2 - A Mega Power Source for Your Digital Essentials</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-latest-in-home-security-a-deep-dive-into-googles-nest-hello-with-enhanced-features/"><u>Unveiling the Latest in Home Security: A Deep Dive Into Google's Nest Hello with Enhanced Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-the-netgear-ex3700-a-comprehensive-wireless-range-extender-review-ac750/"><u>Unveiling the Power of the Netgear EX3700 - A Comprehensive Wireless Range Extender Review (AC750)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vuebell-video-doorbell-review/"><u>VueBell Video Doorbell Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-users-guide-downloading-and-setting-up-asus-mousepad-driver/"><u>Windows Users Guide: Downloading and Setting Up ASUS Mousepad Driver</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zmi-powerpack-20000-critique-the-essential-guide-to-high-capacity-portable-chargers/"><u>ZMI PowerPack 20000 Critique: The Essential Guide to High-Capacity Portable Chargers</u></a></li>
+</ul></div>
 

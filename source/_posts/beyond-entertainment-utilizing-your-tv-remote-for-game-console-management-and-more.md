@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2024-10-05T17:17:53.791Z
-updated: 2024-10-12T16:08:07.213Z
+date: 2024-10-12T17:15:33.216Z
+updated: 2024-10-18T21:40:09.575Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
@@ -28,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -62,13 +69,6 @@ Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Use a TV Remote on a Console
 
  Using a TV remote on a console might initially seem a bit counter-intuitive since these machines already come packaged with a perfectly good controller. However, if your Xbox or PlayStation is a regular part of your media setup, it may be worth controlling it like you would a TV.
@@ -79,22 +79,16 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
@@ -106,13 +100,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -120,6 +107,13 @@ Jason Fitzpatrick / How-To Geek
  Apple TV users can always just use their packed-in remote control or [the companion iPhone app](https://ai-video-tools.techidaily.com/vn-video-editor-android-app-is-it-worth-downloading-for-2024/), but for others, any Bluetooth-enabled remote will work just fine. If you're looking for affordable options, an Amazon Fire TV remote is easy to get your hands on, or the PlayStation TV remote, both of which are compatible with Bluetooth devices.
 
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -144,16 +138,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/oundational-codes-for-youtube-enthusiasts/"><u>[New] Foundational Codes for YouTube Enthusiasts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/obile-access-to-all-you-love-best-download-tools-for-android-and-ios/"><u>[New] Mobile Access to All You Love Best Download Tools for Android and iOS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-lava-agni-2-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Lava Agni 2 5G.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/cutting-edge-strategies-for-instagram-video-cropping/"><u>Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-with-googles-battery-wireless-nest-doorbell-full-insights-and-features/"><u>Experience with Google's Battery Wireless Nest Doorbell - Full Insights and Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-finest-usb-network-adapters-available/"><u>Expert Picks: The Finest USB Network Adapters Available</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-recommendations-on-buying-high-performance-cellphones-near-you/"><u>Expert Recommendations on Buying High-Performance Cellphones Near You</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-apples-latest-innovation-the-2021-apple-tv-4k-a-revolution-in-ultra-high-definition-entertainment-with-smart-siri-interaction/"><u>Exploring Apple's Latest Innovation: The 2021 Apple TV 4K - A Revolution in Ultra-High Definition Entertainment With Smart Siri Interaction</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/framing-a-world-in-motion-digital-display-revelation/"><u>Framing a World in Motion: Digital Display Revelation</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-hero-4-vs-x1000v-which-camera-delivers-more-professional-results/"><u>[New] Hero 4 Vs. X1000V Which Camera Delivers More Professional Results?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-livemedia-app-assessment-guide/"><u>[New] LiveMedia App Assessment Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-definitive-guide-to-capturing-great-tiktok-content/"><u>[New] The Definitive Guide to Capturing Great TikTok Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-best-voice-modification-tools-for-mobile-devices/"><u>[Updated] In 2024, Best Voice Modification Tools for Mobile Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-review-of-9-iphone-photo-watermark-apps/"><u>2024 Approved A Comprehensive Review of 9 iPhone Photo Watermark Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bloodborne-review/"><u>Bloodborne Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/building-an-affluent-future-with-instagram-know-how/"><u>Building an Affluent Future with Instagram Know-How</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/cinematic-images-post-production-of-vt-videos-with-fcpx/"><u>Cinematic Images Post-Production of VT Videos with FCPX</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-mobile-experience-with-the-samsung-galaxy-tab-s4-a-rigorous-android-tablet-review/"><u>Elevate Your Mobile Experience with the Samsung Galaxy Tab S4: A Rigorous Android Tablet Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-google-stadia-potential-and-areas-needing-enhancement/"><u>Evaluating Google Stadia: Potential and Areas Needing Enhancement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-samsung-galaxy-note-9-evaluation-top-device-with-large-display/"><u>Expert Samsung Galaxy Note 9 Evaluation: Top Device with Large Display</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-microsoft-surface-go-a-budget-friendly-tablets-unique-quirks/"><u>Exploring the Microsoft Surface Go: A Budget-Friendly Tablet's Unique Quirks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/issue-resolved-why-the-app-ascent-didnt-go-live/"><u>Issue Resolved: Why the App 'Ascent' Didn't Go Live</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-road-trips-with-the-ion-audio-tailgater-plus-one-button-operation-extended-bass-boost/"><u>Revolutionize Your Road Trips with The ION Audio Tailgater Plus - One-Button Operation, Extended Bass Boost!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sync-fix-twitter-vids-and-chrome-for-2024/"><u>Sync Fix Twitter Vids and Chrome for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-value-proposition-of-the-apple-watch-se-a-comprehensive-analysis/"><u>The Value Proposition of the Apple Watch SE: A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-an-in-depth-review-of-linksys-velops-advanced-connectivity/"><u>Unveiling the Powerhouse: An In-Depth Review of Linksys Velop's Advanced Connectivity</u></a></li>
 </ul></div>
 

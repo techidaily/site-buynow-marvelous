@@ -1,7 +1,7 @@
 ---
 title: Dying Light Review - Mastering the Art of Survival with Friends in a Thrilling Zombie World
-date: 2024-08-15T09:21:27.567Z
-updated: 2024-08-16T09:21:27.567Z
+date: 2024-10-11T20:14:53.547Z
+updated: 2024-10-18T20:30:13.735Z
 categories:
   - BestProducts
 description: This Article Describes Dying Light Review - Mastering the Art of Survival with Friends in a Thrilling Zombie World
@@ -42,8 +42,12 @@ Lifewire / Rebecca Isaacs
 ## 7 Days to Die
 
 ![7 Days to Die](https://www.lifewire.com/thmb/mKaiRcg5xaWaOPRj0Ph1dRjUbSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
@@ -82,6 +86,13 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Plot: Open world horror sandbox**
 
  When you first begin gameplay, it takes about 20 seconds for it to boot up, and then you’re gasping, holding your bare hands out before you, drinking in the landscape of one of five biomes: snow, forest, desert, wasteland, and burnt.
@@ -95,9 +106,6 @@ Lifewire / Rebecca Isaacs
  The other, titular part of the plot: every seven days, a zombie horde descends upon you. They know your location. They will find you and claw their way to you, and you have to fend yourself and your base from them. As the 7 days pass, they get harder to defeat. Our understanding is that the end goal of 7 Days is to add a story, but right now they’re focused on honing in general gameplay. We hope that the story will be optional since as a survival horror sandbox, it works very well.
 
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -120,15 +128,16 @@ Lifewire / Rebecca Isaacs
  For the most part, the controls are really easily manageable on the PC, consisting of the basic, fairly universal WASD keyboard controls. If you don’t like the WASD controls, it’s also very easy to go in and alter them. We liked the ease of use, as we were able to jump into the two maps the game boasts without a rough start. We also liked that because of the easy controls, it was easy to attack zombies with melee and ranged weapons.
 
 ![7 Days to Die](https://www.lifewire.com/thmb/O0do2JbbpgP_VF7azi5OhENnDpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-5-13eba1dcdd7d45b48c0c3d07711686e6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Graphics: Outdated, but detailed on optimal**
 
  For a game that was released in 2013 originally, the graphics could be a little better, even if you play on optimal settings. Back in the day, we played on lower settings rather than splurge on a fancy graphics card. If you play on the lower settings, it’s cringeworthy, though not as cringeworthy as the Witcher 3’s lowest settings.
@@ -137,22 +146,23 @@ Lifewire / Rebecca Isaacs
 
  Because the graphics are a rather mixed bag, the frames per second (fps) can vary dramatically. We experienced drops as low as 18 fps when playing. When surrounded by a horde, that can cost you your life.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Platform: It’s complicated**
 
  7 Days to Die runs on many platforms:[PC](https://www.lifewire.com/what-is-a-mac-4155662) ,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and[Xbox 360](https://www.lifewire.com/xbox-360-buyers-guide-3562451) . We played 7 Days on PC, and at the time of writing, they released a teaser for the Alpha 18 update which would roll out to the PC version of the game.
 
  Last time we checked, the company that owned all console rights, Telltale, went bust, and The Fun Pimps (the developer) were in legal limbo trying to reacquire their own rights. There’s a good chance that there will not be an update in the console versions of the game anytime soon as this issue makes its way through the courts. Therefore, we strongly recommend that you purchase the PC version if you decide this is a game you might like to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## **Price: Average for an alpha game**
 
  At around $25, 7 Days isn’t the most expensive zombie game on the market. However, it is the most expensive alpha zombie game out there. Because you can purchase it on[Steam](https://www.lifewire.com/what-is-steam-4177380) or Humble Bumble, we recommend waiting for a Steam sale and getting it for a discount, especially since it’s still in progress. This way, if you decide you don’t like it in the future, you aren’t out the full price.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Competition: Other sandbox shooters**
 
  It’s hard to compare 7 Days to other sandboxes out there because of the significant focus on crafting and building.[Minecraft](https://www.minecraft.net/en-us/download/) has expansive crafting and arguably good graphics with its classic blocky appearance. Terraria also boasts zombies and crafting and building capabilities, though they’re 2D instead of 3D like in 7 Days. And all of them can guarantee hours of gameplay with fun twists and turns.
@@ -165,14 +175,18 @@ Lifewire / Rebecca Isaacs
 
  Despite flaws in graphics, there’s a lot to love about 7 Days to Die. The challenging skill tree system and dangerous intelligent zombies add an element that’s not typically found in zombie shooters. If you want a game to commit to for hours on end, building bases and exploring dungeon-like homes while slaying zombie cheerleaders, then 7 Days to Die could be a fun way to ease some stress after a long day of work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * The Last of Us Remastered
 * [Days Gone](https://www.lifewire.com/days-gone-review-4778364)
 * [Dying Light](https://www.lifewire.com/dying-light-review-4778324)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -186,14 +200,11 @@ Lifewire / Rebecca Isaacs
 * Graphics  1 GB Dedicated Memory
 * Game Updates  Alpha 17.4 out; Alpha 18 Announced
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,4 +213,20 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-radio-drama-scripts/"><u>2024 Approved Best Radio Drama Scripts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-step-guide-to-professional-vlogging/"><u>2024 Approved First-Step Guide to Professional Vlogging</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-high-performance-systems-with-toms-gear-breakdowns/"><u>Delving Into High-Performance Systems with Tom's Gear Breakdowns</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-amd-driver-rollback-for-all-windows-versions/"><u>Effortless AMD Driver Rollback for All Windows Versions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-zero-30-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Zero 30 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-hot-40i-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Hot 40i to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-pixel-slate-uncovering-issues-beneath-the-chromeos-surface/"><u>In-Depth Review of Pixel Slate: Uncovering Issues Beneath the ChromeOS Surface</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-era-for-pc-gamers-as-windows-11-takes-the-lead-over-windows-10-zdnet-insights/"><u>New Era for PC Gamers as Windows 11 Takes the Lead Over Windows 10 | ZDNet Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restore-power-effective-solutions-when-ps5-controllers-fail-to-charge/"><u>Restore Power: Effective Solutions When PS5 Controllers Fail to Charge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-rising-with-sunlight-reviews-of-the-heimvision-a80s-and-its-exceptional-morning-light-therapy/"><u>The Ultimate Guide to Rising with Sunlight - Reviews of the HeimVision A80S and Its Exceptional Morning Light Therapy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transition-smoothly-to-metaverse-living-with-these-tools/"><u>Transition Smoothly to Metaverse Living with These Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-performance-meets-affordability-the-ibuypower-gaming-pc-insight/"><u>Ultimate Performance Meets Affordability: The iBuypower Gaming PC Insight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/what-to-know-about-apple-m4-silicon-comprehensive-guide-on-performance-release-date-and-more/"><u>What to Know About Apple M4 Silicon: Comprehensive Guide on Performance, Release Date, and More</u></a></li>
+</ul></div>
 

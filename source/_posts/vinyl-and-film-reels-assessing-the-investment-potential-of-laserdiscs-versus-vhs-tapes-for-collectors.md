@@ -1,7 +1,7 @@
 ---
 title: "Vinyl and Film Reels: Assessing the Investment Potential of LaserDiscs Versus VHS Tapes for Collectors"
-date: 2024-10-07T22:07:59.202Z
-updated: 2024-10-12T20:01:35.001Z
+date: 2024-10-12T18:37:28.666Z
+updated: 2024-10-18T16:18:05.722Z
 tags:
   - games
   - tv
@@ -26,10 +26,16 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
  As it dawns on us that the internet isn't forever, and you don't really have control over your digital media, it's becoming more popular to collect physical media. While DVDs and Blu-ray media are a non-issue, what about older formats like LaserDisc and VHS? Should anyone be collecting these? If so, which one makes the most sense?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Quality and Format Differences
@@ -41,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
@@ -61,16 +67,16 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Packaging and Artwork
 
 ![A NIghtmare Before Christmas Laserdisc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-nightmare-before-christmas-laserdisc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Erman Gunes / Shutterstock.com](https://www.shutterstock.com/image-photo/ankara-turkey-january-19-2023-old-2251853805)
 
@@ -79,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
  VHS tapes, on the other hand, are ugly and spartan. Of course, that's just my opinion, but in this category I just find no merit to them at all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Cost
@@ -122,24 +128,20 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-expert-strategies-elevating-interview-audio-quality-with-iphoneipad-for-2024/"><u>[New] Expert Strategies Elevating Interview Audio Quality with iPhone/iPad for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-legally-nurtured-viewership-growth-tips-for-youtubers/"><u>[New] Legally Nurtured Viewership Growth Tips for YouTubers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>[Updated] In 2024, Charting the Unknown Visual Facts From 2017'S Youtube World</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/5-smart-ways-to-save-your-roblox-gaming-on-apple-computers/"><u>5 Smart Ways to Save Your Roblox Gaming on Apple Computers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/agpteks-innovative-budget-friendly-mp3-solution/"><u>AGPTEK's Innovative, Budget-Friendly MP3 Solution</u></a></li>
-<li><a href="https://solve-help.techidaily.com/boost-your-hp-omen-eb-pc-speed-with-a-quick-and-economical-ssd-upgrade-guide/"><u>Boost Your HP Omen Eb PC Speed with a Quick & Economical SSD Upgrade Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-steams-ultimate-display/"><u>Delving Into Steam's Ultimate Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/give-new-life-to-your-outdated-android-smartphone-with-these-5-innovative-methods/"><u>Give New Life to Your Outdated Android Smartphone with These 5 Innovative Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-hundreds-of-ai-solutions-for-business-innovation-insights-by-zdnet/"><u>Harnessing the Power of Hundreds of AI Solutions for Business Innovation | Insights by ZDNET</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/logitech-g-pro-x-unleashing-immersive-audio-experience/"><u>Logitech G Pro X: Unleashing Immersive Audio Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nokia-71-smartphone-reviewed-superior-screen-quality-and-cameras-without-breaking-the-bank/"><u>Nokia 7.1 Smartphone Reviewed: Superior Screen Quality & Cameras Without Breaking the Bank</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nw-a35s-high-fidelity-portability-analysis/"><u>NW-A35's High Fidelity Portability Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pivotal-factors-to-contemplate-in-choosing-your-first-vr-device/"><u>Pivotal Factors to Contemplate in Choosing Your First VR Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/professional-insight-into-dji-mavic-2-pro-why-it-continues-to-lead-in-aerial-excellence/"><u>Professional Insight Into DJI Mavic 2 Pro: Why It Continues to Lead in Aerial Excellence</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/professional-insight-unveiling-the-dominance-of-dji-mavic-2-pro-in-aerial-excellence/"><u>Professional Insight: Unveiling the Dominance of DJI Mavic 2 Pro in Aerial Excellence</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ps3-slim-up-how-to-replace-default-drive/"><u>PS3 Slim-Up: How to Replace Default Drive</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-chromecast-with-google-tv-a-new-contender-vs-amazon-firetv/"><u>Review of Chromecast with Google TV - A New Contender vs Amazon FireTV</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/small-size-big-sound-sony-ps-lx310bt-reviewed/"><u>Small Size, Big Sound: Sony PS-LX310BT Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-blade-blh4100-rc-helicopter-ready-to-launch-and-perfect-for-outdoor-enthusiasts/"><u>The Blade BLH4100 RC Helicopter - Ready-to-Launch and Perfect for Outdoor Enthusiasts!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-restore-true-identity-on-fb-messages/"><u>[New] 2024 Approved Restore True Identity on FB Messages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-creative-capture-uncovering-the-top-6-ways-to-document-minecraft-sessions/"><u>[New] Creative Capture Uncovering the Top 6 Ways to Document Minecraft Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-android-photography-tricks-and-tools/"><u>[New] Mastering Android Photography Tricks & Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-3-fb-movie-extractors-for-2024/"><u>[New] Ultimate 3 Fb Movie Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-capture-chat-tunes-on-social-platforms/"><u>[Updated] 2024 Approved Capture Chat Tunes on Social Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/price-tag-meets-power-in-nikon-sb-700/"><u>$Price Tag Meets Power in Nikon SB-700</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-astronomy-photographers-website-selection/"><u>2024 Approved Astronomy Photographers' Website Selection</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enhanced-elevate-your-sites-performance/"><u>Cookiebot-Enhanced: Elevate Your Site's Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-high-resolution-viewing-with-nixplays-x15d/"><u>Exploring High-Resolution Viewing with Nixplay's X15D</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-vs-pro-max-which-ultimate-model-should-you-buy/"><u>IPhone 15 Pro Vs. Pro Max: Which Ultimate Model Should You Buy?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/petsafe-automatic-pet-food-dispenser-review-a-key-to-effective-diet-management-for-your-pets-well-being/"><u>PetSafe Automatic Pet Food Dispenser Review: A Key to Effective Diet Management for Your Pets' Well-Being</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-truth-about-mobvoi-ticwatch-e2-inexpensive-but-inferior-quality-revealed/"><u>The Truth About Mobvoi TicWatch E2 - Inexpensive but Inferior Quality Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-ultimate-guide-to-the-best-home-weather-stations/"><u>Top Picks: Ultimate Guide to the Best Home Weather Stations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-connection-how-to-tell-if-nintendo-switch-online-is-down/"><u>Troubleshooting Your Connection: How to Tell If Nintendo Switch Online Is Down</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-six-prime-destinations-for-buying-a-superior-laptop/"><u>Unveiling the Six Prime Destinations for Buying a Superior Laptop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers"
-date: 2024-10-11T17:19:51.866Z
-updated: 2024-10-12T20:41:35.095Z
+date: 2024-10-15T21:12:34.632Z
+updated: 2024-10-18T17:34:14.225Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 * [Clean the Affected Thumbstick With Compressed Air or Contact Cleaner](https://facebook-video-share.techidaily.com/updated-top-5-free-youtube-video-editor-apps-for-apple-users/)
 * [Replace the Thumbsticks on Your Steam Deck](https://some-techniques.techidaily.com/in-2024-filmographys-finest-shots-the-best-camera-and-lighting-tips/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Recalibrate your Steam Deck's joysticks in Desktop Mode, and increase the joystick deadzone in Game Mode to eliminate stick drift..
@@ -29,11 +36,25 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  If one of the thumbsticks on your Steam Deck develops stick drift, there are several solutions you can try to fix the issue. They range from the simple, like recalibrating the stick, to DIY adventures like opening your Deck and replacing the joystick module. Let’s go through them all.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Restart Your Steam Deck and Try Again
 
  The simplest fix you can try is to restart your [Steam Deck](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/) and then try playing the same game to see if that fixes your problem. If the problem persists, go through the control settings menu of the said game and make sure no options are set in such a way that can mess with the stick movement or sensitivity.
 
  If that didn't work, launch another game and try playing it to see whether the problem is still present. Drift in one game but not another points to the game being to blame. If your thumbstick is still drifting, it’s time for a visit to Desktop Mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Recalibrate the Analog Sticks in Desktop Mode
 
@@ -55,28 +76,28 @@ thumbstick_cal
 
  Now you can return to Game Mode and test the affected stick.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Increase the Joystick Deadzone in Game Mode
 
  If you're still experiencing issues, press the Steam button > Settings > Controller. Then open the “Calibration & Advanced Settings” menu.
 
 ![Steam Deck calibration & advanced settings tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-04.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the “Left Joystick Deadzone” option and press the Y button to test its deadzone. If your right stick is drifting, select the “Right Joystick” option instead, with the R1 button.
 
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
@@ -87,29 +108,9 @@ thumbstick_cal
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Clean the Affected Thumbstick With Compressed Air or Contact Cleaner
 
@@ -141,13 +142,6 @@ thumbstick_cal
 
 ![Steam Deck controller ID information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-09.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, once you have ordered the modules—I recommend ordering the whole Fix Kit if you don’t have appropriate tools already—follow [the iFixit video guide](https://www.youtube.com/watch?v=z5k6wOMtjzY) in case you own a Steam Deck LCD. And by that I mean follow it to the letter, to avoid any problems because the procedure can be a bit tricky to perform.
 
  If you own a Steam Deck OLED, check out [the guide for replacing the left module](https://www.ifixit.com/Guide/Steam+Deck+OLED+Left+Thumbstick+Replacement/168652), or [the guide for replacing the right one](https://www.ifixit.com/Guide/Steam+Deck+OLED+Right+Thumbstick+Replacement/168609), depending on which of the two thumbstick has drifting issues.
@@ -171,22 +165,16 @@ thumbstick_cal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-navigating-the-complexities-of-macos-srt-changes/"><u>[New] 2024 Approved Navigating the Complexities of macOS SRT Changes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-brush-up-your-youtube-videos-with-color-correction/"><u>[New] Brush Up Your Youtube Videos with Color Correction</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-boosting-productivity-how-to-capture-your-online-meeting-experience/"><u>[Updated] Boosting Productivity How to Capture Your Online Meeting Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-on-a-budget-expert-analysis-of-upheres-economic-air-coolers-c5c-and-d6sec-under-20/"><u>Beat the Heat on a Budget: Expert Analysis of UpHere's Economic Air Coolers (C5C & D6Sec) Under $20</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-meizu-21-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Meizu 21 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-7-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 7 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-oneplus-nord-n100-worth-your-money-a-detailed-budget-phone-evaluation/"><u>Is the OnePlus Nord N100 Worth Your Money? A Detailed Budget Phone Evaluation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-gaming-laptops-a-feature-focused-approach/"><u>Mastering Gaming Laptops: A Feature-Focused Approach</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-market-eight-important-factors-to-look-at-when-shopping-for-a-tablet/"><u>Navigating the Market: Eight Important Factors to Look at When Shopping for a Tablet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/picking-the-right-tablet-here-are-8-key-aspects-to-evaluate-first/"><u>Picking the Right Tablet? Here Are 8 Key Aspects to Evaluate First!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premium-picks-the-finest-8-games-for-your-google-play-subscription/"><u>Premium Picks: The Finest 8 Games for Your Google Play Subscription</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviving-zombies-a-comprehensive-review-of-7-days-to-die-and-its-single-sandbox-format/"><u>Reviving Zombies: A Comprehensive Review of '7 Days to Die' And Its Single-Sandbox Format</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-playtime-with-the-wonder-workshop-dash-a-comprehensive-product-overview/"><u>Revolutionizing Playtime with the Wonder Workshop Dash - A Comprehensive Product Overview</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/smart-security-at-its-finest-the-inside-scoop-on-the-ring-video-doorbell-nv/"><u>Smart Security at Its Finest: The Inside Scoop on the Ring Video Doorbell Nv</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s23-ultra-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S23 Ultra FRP</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/stream-videos-from-your-device-to-chromecast-windows-mac-android-ios-instructions/"><u>Stream Videos From Your Device to Chromecast Windows, Mac, Android, iOS Instructions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ling-mr-beasts-economic-status-for-2024/"><u>Unveiling Mr. Beast's Economic Status for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-exploring-nextgen-videostreaming-platforms/"><u>[New] 2024 Approved Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pinpointing-youtubes-favorite-remarks/"><u>[Updated] In 2024, Pinpointing YouTube's Favorite Remarks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-futures-finest-gaming-the-ultimate-list-of-new-psvr-titles/"><u>2024 Approved Future's Finest Gaming The Ultimate List of New PSVR Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-playtime-effective-strategies-for-increasing-ps5-storage-space-efficiently/"><u>Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/my-guide-to-preventing-post-gaming-session-discomfort-and-aches/"><u>My Guide to Preventing Post-Gaming Session Discomfort and Aches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-joy-con-controller-repair-guide-and-prevention-tips/"><u>Nintendo Switch Joy-Con Controller Repair Guide & Prevention Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-switch-streaming-options-a-comprehensive-guide/"><u>Nintendo Switch Streaming Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pause-in-venu-sports-live-stream-broadcasting-understanding-the-temporary-hiatus/"><u>Pause in Venu Sports Live Stream Broadcasting: Understanding the Temporary Hiatus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/straightforward-approach-to-mastering-simple-hdr-techniques-for-2024/"><u>Straightforward Approach to Mastering Simple HDR Techniques for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transformation-acceleree-comment-transformer-vite-des-segments-ts-en-videos-mp4/"><u>Transformation Accélérée: Comment Transformer Vite Des Segments Ts en Vidéos Mp4</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-transform-your-memories-best-online-photo-and-video-collage-apps/"><u>Updated Transform Your Memories Best Online Photo and Video Collage Apps</u></a></li>
 </ul></div>
 

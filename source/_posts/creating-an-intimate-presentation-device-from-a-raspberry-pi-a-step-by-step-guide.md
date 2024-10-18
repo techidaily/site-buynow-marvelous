@@ -1,7 +1,7 @@
 ---
 title: "Creating an Intimate Presentation Device From a Raspberry Pi: A Step-by-Step Guide"
-date: 2024-10-10T18:33:34.064Z
-updated: 2024-10-12T19:12:03.630Z
+date: 2024-10-17T18:12:24.946Z
+updated: 2024-10-18T17:20:41.927Z
 tags:
   - games
   - tv
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  If the practical reasons aren't enough, you'll also get the satisfaction of creating a personalized device that does exactly what you want it to do. Building a slideshow machine with a Raspberry Pi is a rewarding DIY project, and we'll show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Choosing the Right Tools
 
 ###  Selecting the Perfect Raspberry Pi Model
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Building Your Slideshow Machine
@@ -192,19 +199,20 @@ sudo sh ~/lightdm-changer.sh
 
 ![The RPi Slideshow session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-select-session.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the script restarts the login screen (LightDM), you'll be logged out. From here, select "Slideshow" from the session menu and log in. When you log in, your slideshow will commence.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Customizing Your Slideshow
@@ -213,13 +221,6 @@ sudo sh ~/lightdm-changer.sh
 
 ![The location of picture files for the slideshow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-pictures-in-file-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you wish to customize your slideshow, start by opening up the script that handles the slideshow on your Pi.
 
 sudo nano /usr/share/xsessions/start-slideshow.sh
@@ -227,13 +228,6 @@ sudo nano /usr/share/xsessions/start-slideshow.sh
  You can customize the following aspects of the slideshow: enable/disable randomization and change delay time before image changes.
 
 ![The Pi slideshow is in motion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-in-motion.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To disable randomization, find the command below in the script:
 
@@ -262,22 +256,21 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-7-social-media-screen-grabs/"><u>[New] 2024 Approved Top 7 Social Media Screen Grabs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-expert-review-of-apeaksoft-for-video-capture-technology/"><u>[New] Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-realities-compared-metaverse-and-multiverse/"><u>2024 Approved Interactive Realities Compared Metaverse and Multiverse</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-leading-resources-to-masterfully-add-text-flair-online-for-2024/"><u>5 Leading Resources to Masterfully Add Text Flair Online for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-personalization-tailoring-your-site-experience/"><u>Cookiebot-Driven Personalization: Tailoring Your Site Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-risks-in-googles-password-storage-system/"><u>Evaluating the Risks in Google's Password Storage System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-blistering-speeds-with-our-comprehensive-review-of-the-netgear-nighthawk-rax120/"><u>Experience Blistering Speeds with Our Comprehensive Review of the Netgear Nighthawk RAX120</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-seamless-charging-on-the-go-in-depth-review-of-omnicharge-omni-20s-portable-power-bank-and-wireless-features/"><u>Experience Seamless Charging On-the-Go: In-Depth Review of Omnicharge Omni 20'S Portable Power Bank & Wireless Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-ranking-the-top-6-online-destinations-for-shopping-tvs/"><u>Expert Picks: Ranking the Top 6 Online Destinations for Shopping TVs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experts-pick-for-the-ultimate-ready-to-fly-rc-choice-blade-e-flite-mcx2-helicopter-detailed-review/"><u>Experts' Pick for the Ultimate Ready-to-Fly RC Choice - Blade E-Flite mCX2 Helicopter Detailed Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-benefits-of-staying-active-with-cubefits-innovative-terramat/"><u>Exploring the Benefits of Staying Active with CubeFit's Innovative TerraMat</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-nuances-of-audio-and-voice-tech-with-the-apple-homepod-mini-detailed-assessment/"><u>Exploring the Nuances of Audio and Voice Tech with the Apple HomePod Mini - Detailed Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-viber-out-a-comprehensive-overview-and-assessment/"><u>Exploring Viber Out: A Comprehensive Overview and Assessment</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-secrets-of-successfully-posting-imovie-videos-on-vimeo/"><u>In 2024, The Secrets of Successfully Posting iMovie Videos on Vimeo</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-narzo-n53-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme Narzo N53? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-mysterious-dx-error-in-lol/"><u>Resolved: Mysterious DX Error in LoL</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-chill-out-scenes-to-add-zest-to-your-snowy-videos/"><u>Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/"><u>[New] In 2024, A Comprehensive Guide to Implementing & Evaluating FB In-Stream Ads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[New] Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-potential-ps4-recording-techniques-in-obs-for-2024/"><u>[Updated] Unlocking the Potential PS4 Recording Techniques in OBS for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-cutting-edge-technology-behind-the-ring-video-doorbell-pro/"><u>Analyzing the Cutting-Edge Technology Behind the Ring Video Doorbell Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-persona/"><u>Comprehensive Guide to Fixing Persona</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-endurance-in-jabras-tough-buds/"><u>Evaluating Endurance in Jabra's Tough Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-literary-bliss-with-the-2019-kindle-oasis-your-next-reading-companion/"><u>Experience Literary Bliss with the 2019 Kindle Oasis - Your Next Reading Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-yokus-island-express-unexpected-grand-adventure-encounters/"><u>In-Depth Look at Yoku's 'Island Express': Unexpected Grand Adventure Encounters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-exploring-the-arlo-digital-safety-network/"><u>Interactive Guide: Exploring the Arlo Digital Safety Network</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mending-common-faults-a-guide-to-fixing-6-gpt-issues/"><u>Mending Common Faults: A Guide to Fixing 6 GPT Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revive-your-cars-battery-with-ease-using-the-formidable-beatit-bt-d11-review/"><u>Revive Your Car's Battery with Ease Using the Formidable Beatit BT-D11 Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a34-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-6-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 6 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-ace-3-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Ace 3 Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-performance-an-in-depth-look-at-the-apc-gaming-uninterruptible-power-supply/"><u>Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply</u></a></li>
 </ul></div>
 

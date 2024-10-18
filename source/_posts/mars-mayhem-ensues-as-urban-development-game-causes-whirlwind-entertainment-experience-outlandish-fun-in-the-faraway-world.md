@@ -1,7 +1,7 @@
 ---
 title: Mars Mayhem Ensues as Urban Development Game Causes Whirlwind Entertainment - Experience Outlandish Fun in the Faraway World!
-date: 2024-08-22T17:48:40.567Z
-updated: 2024-08-23T17:48:40.567Z
+date: 2024-10-13T16:11:51.554Z
+updated: 2024-10-18T18:54:51.946Z
 categories:
   - BestProducts
 description: This Article Describes Mars Mayhem Ensues as Urban Development Game Causes Whirlwind Entertainment - Experience Outlandish Fun in the Faraway World!
@@ -39,6 +39,13 @@ Lifewire / Yoona Wagener
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
@@ -71,9 +78,6 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Design: An accessory that blends in
 
  The Halo band doesn’t overwhelm the senses. I tested a small-sized band in silver and appreciated the streamlined bracelet style form factor. The fabric strap, which is a mix of sweat-wicking synthetics, has an athleisure look and feel: sporty but not to the degree that it screams sport watch. Rounding out the minimalist look is one sole button on the side of the sensor unit, which is flanked by an[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) indicator and one of two internal microphones. The other mic is located on the back, along with the optical sensor; it's largely undetectable if you manage a close fit.
@@ -84,9 +88,6 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comfort: Streamlined but not immune to typical fit issues
 
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be. The end of the strap is finished with hardware that prevents the strap from coming completely undone from the loop. The band also includes a series of five strong Velcro strips/notches that serve as sizing adjusters. This construction helps prevent accidental drops when taking the band on/off, which is never a bad thing. On the other hand, though, the Velcro strips are so sturdy that they restricted quick adjustments and made removing the band less swift overall.
@@ -97,10 +98,6 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -130,8 +127,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -143,15 +150,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Amazon Halo vs. WHOOP Strap 3
 
  The WHOOP Strap 3 is another screen-less fitness tracker with a minimalist bent but a bigger buy-in and emphasis on performance. Unlike the Halo, the WHOOP Strap requires a WHOOP membership, which, at the lowest end, costs $30 monthly for a 6-month membership or $180 total (band included). The Halo band comes with a free six-month subscription to Halo app services, then a $3.99 monthly charge, so it’s considerably cheaper—especially since WHOOP recommends replacing their fabric strap every six months as well.
@@ -163,6 +178,13 @@ Lifewire / Yoona Wagener
 **A futuristic wearable for wellness enthusiasts.**
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -192,8 +214,6 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +221,18 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-effortlessly-enhanced-images-learn-the-insider-snapchat-tactics/"><u>[Updated] In 2024, Effortlessly Enhanced Images Learn the Insider Snapchat Tactics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-collection-top-6-apps-to-capture-on-mac/"><u>2024 Approved The Ultimate Collection Top 6 Apps to Capture on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-syma-x8c-sensor-technology/"><u>2024 Approved Understanding Syma X8C Sensor Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/"><u>Navigating the Pre-Owned iPad Market: A Buyer's Top Five Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-nickwatch-comes-to-us-during-kids-choice-awards/"><u>New NickWatch Comes to US During Kids' Choice Awards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/outstanding-book-trailer-samples/"><u>Outstanding Book Trailer Samples</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pocket-friendly-pleasures-with-oneplus-buds/"><u>Pocket-Friendly Pleasures with OnePlus Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/post-weld-treatments-are-often-necessary-to-enhance-mechanical-properties/"><u>Post-Weld Treatments Are Often Necessary to Enhance Mechanical Properties.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-digital-experience-with-the-cutting-edge-dell-display-immersive-noise-blocking-headset-and-top-tier-webcam-technology/"><u>Revolutionize Your Digital Experience with the Cutting-Edge Dell Display, Immersive Noise Blocking Headset & Top-Tier Webcam Technology</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-100-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor 100 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
 

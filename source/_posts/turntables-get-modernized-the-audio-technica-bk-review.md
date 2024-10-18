@@ -1,7 +1,7 @@
 ---
 title: "Turntables Get Modernized: The Audio-Technica BK Review"
-date: 2024-08-15T09:20:21.332Z
-updated: 2024-08-16T09:20:21.332Z
+date: 2024-10-17T19:46:59.310Z
+updated: 2024-10-18T21:06:38.799Z
 categories:
   - BestProducts
 description: "This Article Describes Turntables Get Modernized: The Audio-Technica BK Review"
@@ -39,17 +39,12 @@ Lifewire / Jeff Dojillo
 ## Audio-Technica AT-LP120XUSB
 
 ![Audio-Technica AT-LP120XUSB-BK](https://www.lifewire.com/thmb/gUSGcxbX4twCFknmSc1Ok71bc1A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW4066854-HeroSquare-b64d56107a3247e685fc7fdbff3f1663.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeff Dojillo
@@ -90,9 +85,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Set up: Quick and painless**
 
  Removing the Audio-Technica AT-LP120XUSB-BK from the box, we were able to assemble it pretty quickly, though the instructions were a bit vague. We installed the platter and the felt mat on the turntable easily, and the headshell and phono cartridge on the Audio-Technica AT-LP120XUSB-BK were also a breeze to install. Balancing the tonearm was fairly straightforward as well, it just required a few trial and error adjustments of the counterweight.
@@ -109,6 +101,13 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Sound Quality: Varies from system to system**
 
  The Audio-Technica AT-LP120XUSB-BK generally sounds great, but audio quality can vary significantly depending on the system to which the turntable is attached. When testing the AT-VM95E Dual Magnet phono cartridge with a dedicated stereo amp it created a wonderful soundstage with crisp high tones and rich bass. Even though our tests were positive, the sound produced from the turntable relies more on the quality of speakers, amp, and sound dynamics of the room than other models.
@@ -118,15 +117,16 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Digital to Analog Conversion: Quick and easy**
 
  According to the instructions that were provided with the Audio-Technica AT-LP120XUSB-BK, all we had to do to convert vinyl records to digital audio was to connect the turntable via[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) and download Audacity recording software. Converting analog audio to digital was then as simple as selecting the turntable as our input device. This turntable is perfect for those looking for a simple way to record their favorite records or archive a rare vinyl collection.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Decent price for what it delivers**
 
  Retailing at around $250 the Audio-Technica AT-LP120XUSB-BK is a great direct-drive turntable. Geared toward those that enjoy high-definition music through vinyl records, this is a great turntable that not only looks wonderful but delivers great functionality.
@@ -144,17 +144,18 @@ Lifewire / Jeff Dojillo
  The Audio-Technica AT-LP120XUSB-BK is a great turntable for those that are looking for a serious, enthusiast option. Vinyl lovers that are serious about sound will want this turntable due to its customizable features and excellent sound quality—as long as it’s paired with a similarly high-end system.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Audio-Technica AT-LP60XBT-BK](https://www.lifewire.com/audio-technica-at-lp60xbt-bk-review-4772401)
 * [Edifier R1280T Powered Bookshelf Speakers](https://www.lifewire.com/edifier-r1280t-powered-bookshelf-speakers-review-4780162)
 * [Polk T50](https://www.lifewire.com/polk-t50-review-4772109)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-LP120XUSB
@@ -188,8 +189,6 @@ Lifewire / Jeff Dojillo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +196,26 @@ Lifewire / Jeff Dojillo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-essential-guide-to-crafting-dynamic-snaps-for-2024/"><u>[Updated] The Essential Guide to Crafting Dynamic Snaps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y02t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y02T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-find-x7-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Find X7 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blade-e-flite-mcx2-rc-helicopter-reviewed-why-its-the-leading-ready-to-fly-model/"><u>Blade E-Flite mCX2 RC Helicopter Reviewed: Why It's the Leading Ready-To-Fly Model</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cataloging-camera-types-for-visual-media/"><u>Cataloging Camera Types for Visual Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/conquering-game-sessions-with-confidence-unveiling-the-features-of-the-mavix-m9-reviewed/"><u>Conquering Game Sessions with Confidence: Unveiling the Features of the Mavix M9 Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-display-selections-10-mac-list/"><u>Cutting-Edge Display Selections #10 Mac List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dissecting-the-high-price-tag-on-airpods-max/"><u>Dissecting the High Price Tag on AirPods Max</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-ultimate-nighttime-illumination-with-romers-rechargeable-led-flashlight/"><u>Experience the Ultimate Nighttime Illumination with Romer's Rechargeable LED Flashlight</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-6s-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 6s Screen | Stellar</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-in-depth-look-at-cybercam-capturer/"><u>In 2024, In-Depth Look at CyberCam Capturer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-pros-and-cons-of-the-pioneer-bdr-xd05b-blu-ray-recorder/"><u>In-Depth Analysis: Pros and Cons of the Pioneer BDR-XD05B Blu-Ray Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-gaomon-pd1560-pen-tablet-assessment-excellent-performance-and-features/"><u>In-Depth Gaomon PD1560 Pen Tablet Assessment - Excellent Performance & Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-latest-fitbit-charge-groove-features-and-functionality/"><u>In-Depth Look at the Latest Fitbit Charge Groove Features and Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-the-limits-of-connectivity-with-linksys-velops-advanced-router-technology/"><u>Testing the Limits of Connectivity with Linksys Velop's Advanced Router Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-secrets-a-detailed-look-at-the-truecaller-app-performance/"><u>Unraveling the Secrets: A Detailed Look at the TrueCaller App Performance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/wet-weather-warriors-7-powerful-camera-choices/"><u>Wet Weather Warriors #7 Powerful Camera Choices</u></a></li>
+</ul></div>
 

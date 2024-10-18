@@ -1,7 +1,7 @@
 ---
 title: Sound Excellence with Jabra's Evolve2 85 Review
-date: 2024-08-22T17:48:47.513Z
-updated: 2024-08-23T17:48:47.513Z
+date: 2024-10-17T19:28:45.745Z
+updated: 2024-10-18T16:04:29.941Z
 categories:
   - BestProducts
 description: This Article Describes Sound Excellence with Jabra's Evolve2 85 Review
@@ -65,6 +65,19 @@ thumbnail: https://www.lifewire.com/thmb/zV-rRhIWIUC8cYIK4t0oGxKPvPQ=/400x300/fi
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
@@ -85,9 +98,6 @@ thumbnail: https://www.lifewire.com/thmb/zV-rRhIWIUC8cYIK4t0oGxKPvPQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
@@ -95,8 +105,12 @@ thumbnail: https://www.lifewire.com/thmb/zV-rRhIWIUC8cYIK4t0oGxKPvPQ=/400x300/fi
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
@@ -104,8 +118,12 @@ thumbnail: https://www.lifewire.com/thmb/zV-rRhIWIUC8cYIK4t0oGxKPvPQ=/400x300/fi
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
  This section is perhaps the most important for a TV, and while the XBR65X850F performs pretty well in some aspects here, it also has a few weak points.
@@ -113,6 +131,19 @@ thumbnail: https://www.lifewire.com/thmb/zV-rRhIWIUC8cYIK4t0oGxKPvPQ=/400x300/fi
  Starting off with some of this unit’s strengths, this particular series uses an IPS panel for the screen, which means you’re going to get vibrant colors, a nice backlight for viewing in bright rooms, and excellent viewing angles. This all adds up to a superb experience if you’ve got a big living room that’s brightly lit by windows, where viewers might not be able to sit completely centered.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -137,9 +168,12 @@ thumbnail: https://www.lifewire.com/thmb/zV-rRhIWIUC8cYIK4t0oGxKPvPQ=/400x300/fi
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: A bit sluggish but good enough**
 
  Android TV has come a long way since its debut, but not all TVs are getting timely updates, and these lower-end Sony TVs are notoriously slow for this. While some TVs are already running Android TV 9.0, many are stuck with older versions.
@@ -154,9 +188,6 @@ The ultimate burning program for all your needs!</a>
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -165,9 +196,6 @@ The ultimate burning program for all your needs!</a>
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
  Now there are a ton of comparable 4K TVs out there stacked up against the Sony XBR65X850F, but Samsung is a similarly reputable brand, so let’s compare their UN65RU8000 (view on[Amazon](https://www.amazon.com/Samsung-UN65RU8000-Ultimate-SurgePro-6-Outlet/dp/B07Q6VCCLF?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7C) ).
@@ -200,14 +228,11 @@ The ultimate burning program for all your needs!</a>
 * Speakers  2 full range, 2ch
 * Connectivity Options  4 HDMI
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,4 +241,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimal-mp4-to-fb-video-solution/"><u>[New] 2024 Approved Optimal MP4-to-FB Video Solution</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-sounds-audacity-tutorial-for-mac-users/"><u>[New] Capturing Sounds Audacity Tutorial for Mac Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] 2024 Approved Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-techniques-and-tools-for-fast-quality-image-reductions/"><u>[Updated] In 2024, Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-5-panoramic-capture-models/"><u>2024 Approved Top 5 Panoramic Capture Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956962099-get-your-canon-imageclass-mf4800-printer-drivers-here/"><u>Get Your Canon ImageClass MF4800 Printer Drivers Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-choosing-a-high-performance-dell-xps-13-2-in-1-laptop-for-professionals/"><u>The Definitive Guide to Choosing a High-Performance Dell XPS 13 2-in-1 Laptop for Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-echoes-of-quality-in-depth-analysis-of-logitechs-g533/"><u>The Echoes of Quality: In-Depth Analysis of Logitech's G533</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-six-retail-destinations-for-buying-advanced-laptops/"><u>The Perfect Six Retail Destinations for Buying Advanced Laptops</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-tracker-why-the-fitbit-charge-e-still-makes-the-cut/"><u>The Ultimate Guide to Choosing a Tracker: Why the Fitbit Charge E Still Makes the Cut</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-netgear-nighthawk-x6-wireless-mesh-extender-top-benefits-explored/"><u>The Ultimate Guide to the Netgear Nighthawk X6 Wireless Mesh Extender: Top Benefits Explored</u></a></li>
+</ul></div>
 

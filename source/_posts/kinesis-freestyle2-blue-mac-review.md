@@ -1,7 +1,7 @@
 ---
 title: Kinesis Freestyle2 Blue (Mac) Review
-date: 2024-08-22T17:45:55.882Z
-updated: 2024-08-23T17:45:55.882Z
+date: 2024-10-11T21:00:56.291Z
+updated: 2024-10-18T16:50:27.075Z
 categories:
   - BestProducts
 description: This Article Describes Kinesis Freestyle2 Blue (Mac) Review
@@ -46,6 +46,13 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $99](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4780187%7Cnf95833ce2d2845368fd2b0eac089080a01%7CB00NMVJYEW) [View On Walmart $89](https://www.walmart.com/ip/Kinesis-KB800PB-us-Freestyle2-Ergonomic-Split-Keyboard-for-PC/41539324?slfpid=3) [View On Office Depot $113](https://www.officedepot.com/a/products/989638/Kinesis-Freestyle2-Ergonomic-Keyboard-For-PC/?cm%5Fmmc=PLA-%5F-Google-%5F-Computer%5FTablet%5FAccessories-%5F-989638&gclid=EAIaIQobChMIv7HKttKB6QIVUl8NCh2Afg94EAQYBCABEgJKIvD%5FBwE&gclsrc=aw.ds)
@@ -69,14 +76,18 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -88,9 +99,6 @@ Lifewire / Emily Isaacs
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
@@ -109,27 +117,32 @@ Lifewire / Emily Isaacs
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Excellent for the features**
 
  Full-size ergonomic keyboards tend to retail anywhere from $50 to $200, depending on the features involved. Generally retailing for about $100 on Amazon, the Freestyle2 sits comfortably at the front of this curve. While $100 may seem expensive for a keyboard, consider the features involved. Its travel-friendly build, adjustable setup options, extended battery life, and ability to switch quickly and smoothly between multiple connected devices make it an excellent choice for the features.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
  Not all keyboards are created equal, and while the split, modular design offered by the Kinesis Freestyle2 Blue creates wonderful customization options, there’s something to be said for having a full keyboard. For Apple users willing to take a leap into Microsoft products, the Microsoft Sculpt Ergonomic Keyboard shines through as an excellent option.
@@ -148,9 +161,6 @@ Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Freestyle2 Blue
@@ -167,14 +177,11 @@ Lifewire / Emily Isaacs
 * Compatibility  OS X 10.4 and newer, iOS devices
 * Key Switch  Peak force: 44 grams; activation force: 35 grams; travel distance: 3.9 mm; switch type: rubber dome, membrane
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +190,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-boundless-playlist-public-domain-music-for-games/"><u>[New] Boundless Playlist Public Domain Music for Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-deep-insight-screenflow-for-mac-performance-review-for-2024/"><u>[Updated] Deep Insight ScreenFlow for Mac Performance Review for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>2024 Approved Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-clarity-an-in-depth-look-at-the-midland-gxt1000vp4-handheld-radio/"><u>Achieving Perfect Clarity: An In-Depth Look at the Midland GXT1000VP4 Handheld Radio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/aligning-private-costs-with-social-costs-is-essential-for-market-efficiency-which-public-policy-aims-to-achieve-through-managing-externalities/"><u>Aligning Private Costs with Social Costs Is Essential for Market Efficiency, Which Public Policy Aims to Achieve Through Managing Externalities.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/all-about-the-new-apple-m4-chip-timeline-features-and-performance-insights/"><u>All About the New Apple M4 Chip: Timeline, Features & Performance Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-timeless-videos-with-historical-flair-for-2024/"><u>Crafting Timeless Videos with Historical Flair for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723035879935-hero7-blacks-impact-on-high-quality-action-films/"><u>HERO7 Black's Impact on High-Quality Action Films</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-a18-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A18 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sculptive-strategies-in-creating-striking-fb-video-ads-for-2024/"><u>Sculptive Strategies in Creating Striking Fb Video Ads for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-your-youtube-footage-a-quick-walkthrough-for-2024/"><u>Securing Your YouTube Footage A Quick Walkthrough for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-karaoke-systems-find-your-perfect-match/"><u>Top-Rated Karaoke Systems - Find Your Perfect Match</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/touching-sound-quality-like-never-before-discover-the-new-flexus-200/"><u>Touching Sound Quality Like Never Before - Discover the New Flexus 200</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncompromised-quality-a-side-by-side-comparison-of-apples-ipad-air-4-and-samsungs-galaxy-tab-s7plus/"><u>Uncompromised Quality: A Side-by-Side Comparison of Apple's iPad Air 4 & Samsung's Galaxy Tab S7+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-fun-and-learning-with-djis-robomaster-s1-an-exciting-battlebot-experience/"><u>Unleash Fun & Learning with DJI's RoboMaster S1: An Exciting Battlebot Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-dual-nature-of-nixplay-w15a-frame-designs/"><u>Unveiling the Dual Nature of Nixplay W15A Frame Designs</u></a></li>
+</ul></div>
 

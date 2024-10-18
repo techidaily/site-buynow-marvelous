@@ -1,7 +1,7 @@
 ---
 title: "Best in Class: An In-Depth Review of the Open Source Linksys WRT3200ACM Router"
-date: 2024-10-08T19:24:59.424Z
-updated: 2024-10-12T19:30:33.379Z
+date: 2024-10-12T19:22:54.968Z
+updated: 2024-10-18T17:00:03.651Z
 categories:
   - BestProducts
 description: "This Article Describes Best in Class: An In-Depth Review of the Open Source Linksys WRT3200ACM Router"
@@ -40,16 +40,16 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/eB886Wl9r3D8YMg227kYv9GRkJs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -84,10 +84,10 @@ Lifewire / Jeremy Laukkonen
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/eeaRHW4APuNCYThw1t-TVwYpmSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_04-4739ffd6705348959e05e41ab9da2292.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
@@ -95,13 +95,6 @@ Lifewire / Jeremy Laukkonen
  The ports and power button are all found on the back of the unit in a fairly standard array, and you’ll find the indicator LEDs on top near the front edge. The positioning is good for desktop use, and it also leaves the indicators clearly visible when wall mounted.
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: Completely painless once you unwrap the antennas**
 
@@ -117,6 +110,13 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
  The TP-Link Archer A6 is an AC1200[dual-band router](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that supports MU-MIMO beamforming. The total throughput is a little on the light side if you have a lot of devices, but MU-MIMO is a nice feature to see in such an affordable unit.
@@ -124,6 +124,13 @@ Lifewire / Jeremy Laukkonen
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive. That isn’t completely unexpected from a budget router, but it would have been nice if it included at least one USB port.
 
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network Performance: Decent performance for a budget router**
 
@@ -162,10 +169,10 @@ Lifewire / Jeremy Laukkonen
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **TP-Link Archer A6 vs. TP-Link Archer A7**
@@ -181,13 +188,6 @@ Lifewire / Jeremy Laukkonen
  **A great budget router that provides premium features.**
 
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -225,24 +225,20 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-ions-pro-3-vision-cutting-edge-action-video-recording/"><u>[New] ION's Pro 3 Vision Cutting-Edge Action Video Recording</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles/"><u>[Updated] The Best Child-Safe Cameras For First-Time Vloggers & Puddles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-breaking-into-twitter-live-your-strategy/"><u>2024 Approved Breaking Into Twitter Live Your Strategy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bt70b-car-bluetooth-kit-for-seamless-audio-streaming/"><u>BT70B Car Bluetooth Kit for Seamless Audio Streaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-clarity-optimal-tripods-for-iphone-and-android-for-2024/"><u>Capture Clarity Optimal Tripods for iPhone & Android for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-firewall-restriction-chrome-connectivity-solution/"><u>Circumventing Firewall Restriction: Chrome Connectivity Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deep-dive-into-netgears-powerline-speed-champion-pl1200-aesthetic-vs-performance-analysis/"><u>Deep Dive Into Netgear's Powerline Speed Champion (PL1200) - Aesthetic vs Performance Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expand-wifi-coverage-seamlessly-an-in-depth-look-at-the-tp-link-re305-ac1200-wifi-booster-reviewed-here/"><u>Expand WiFi Coverage Seamlessly: An In-Depth Look at the TP-Link RE305 AC1200 WiFi Booster Reviewed Here!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-amassing-stock-art-resources-for-2024/"><u>Expert Tips on Amassing Stock Art Resources for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-siri-issues-when-it-wont-work-on-iphoneipad-solutions-in-7-steps/"><u>How to Fix Siri Issues When It Won't Work on iPhone/iPad - Solutions in 7 Steps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-clearshot-vision-screen-recap/"><u>In 2024, ClearShot Vision Screen Recap</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-window-warriors-choose-the-best-capture-apps/"><u>In 2024, Window Warriors Choose the Best Capture Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-asus-vivobook-11-the-ideal-small-size-cost-effective-notebook-for-everyday-use/"><u>In-Depth Analysis: Asus Vivobook 11 – The Ideal Small Size, Cost-Effective Notebook for Everyday Use</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-smartwatches-in-depth-analysis-of-the-amazfit-bip/"><u>Navigating the World of Smartwatches: In-Depth Analysis of the Amazfit Bip</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nikon-coolpix-l340-underwhelming-performance/"><u>Nikon Coolpix L340: Underwhelming Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ambient-ws-2902a-osprey-weather-station-an-economical-choice-with-a-multitude-of-features/"><u>The Ambient WS-2902A Osprey Weather Station - An Economical Choice with a Multitude of Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-vive-cosmos-unveiled-top-tier-virtual-reality-gear-facing-strong-opposition/"><u>The Vive Cosmos Unveiled: Top-Tier Virtual Reality Gear Facing Strong Opposition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-ergonomic-keyboard-supports-2024-edition/"><u>Top-Rated Ergonomic Keyboard Supports - 2024 Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformez-facilement-votre-image-animee-gif-en-fichier-flash-swf-gratuite-en-ligne-avec-convertidor/"><u>Transformez Facilement Votre Image Animée GIF en Fichier Flash SWF Gratuite en Ligne Avec Convertidor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-windows-8-tips-record-your-screen/"><u>[New] In 2024, Essential Windows 8 Tips Record Your Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-collecting-classics-copyrights-released/"><u>[Updated] Collecting Classics Copyrights Released</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools/"><u>[Updated] Exploring the Best of Android Does PickUp Lead Photo Editing Tools?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-savvy-scribblers-selection-the-top-compiler-of-twitter-animation/"><u>[Updated] In 2024, Savvy Scribbler's Selection - The Top Compiler of Twitter Animation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-fast-thumbnail-design-for-valorants-highlighted-screenshots/"><u>2024 Approved Mastering Fast Thumbnail Design for Valorant's Highlighted Screenshots</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordability-meets-performance-in-the-latest-hp-15-amd-notebook-review-does-it-deliver/"><u>Affordability Meets Performance in the Latest HP 15 AMD Notebook Review – Does It Deliver?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cut-costs-enjoy-super-hd-view-with-petcubes-budget-cameras/"><u>Cut Costs, Enjoy Super HD View with Petcube's Budget Cameras</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-durability-hps-low-cost-15-inch-laptop-with-amd/"><u>Evaluating Performance & Durability: HP's Low-Cost 15-Inch Laptop with AMD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-cyberpunk-2077-troubleshooting-steps-for-pc-gamers/"><u>Fixing Silent Cyberpunk 2077: Troubleshooting Steps for PC Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/intelligent-ears-sony-headset-breakthrough/"><u>Intelligent Ears - Sony Headset Breakthrough</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rhythm-rangers-must-try-free-online-tools-for-2024/"><u>Rhythm Rangers' Must-Try Free Online Tools for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-value-of-hc-v770-in-home-media/"><u>The Value of HC-V770 in Home Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-top-home-weather-trackers/"><u>Ultimate List of Top Home Weather Trackers</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-windows-10-touchpad-responding-to-scroll-gestures/"><u>Why Isn't My Windows 10 Touchpad Responding to Scroll Gestures?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

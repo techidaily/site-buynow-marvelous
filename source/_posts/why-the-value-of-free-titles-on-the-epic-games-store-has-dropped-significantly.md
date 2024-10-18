@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2024-10-07T17:36:41.477Z
-updated: 2024-10-12T19:33:15.215Z
+date: 2024-10-13T19:58:36.180Z
+updated: 2024-10-18T19:56:15.677Z
 tags:
   - games
   - tv
@@ -33,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
  The problem with offering so many games as freebies that share the same theme is that the audience gets fatigued. After my fifth management game, I realized I might not be getting a bit bored of the free lunch. I was pretty much only extending the number of games in my catalog that I had yet to finish.
@@ -43,13 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8BitDo
 
  When I was young, I had fewer games available so I could dedicate more time to them. Fast-forward to today, and the Epic Games Store's free games are making a bad problem worse. I already have a [backlog of titles that I've bought and haven't picked up yet](https://bypass-frp.techidaily.com/in-2024-about-poco-m6-pro-4g-frp-bypass-by-drfone-android/). The additional pressure of collecting free games I might never play only serves to pad my library.
@@ -58,28 +58,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
@@ -93,10 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The EGS has a long way to go before becoming as usable as storefronts like Steam. But the approach of offering weekly free games is paying off in some ways.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There Are Some Benefits to This Approach
@@ -112,6 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
 
@@ -132,19 +126,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-broadcast-your-previous-video-a-guide-to-live-streaming-on-facebook/"><u>[New] In 2024, Broadcast Your Previous Video A Guide to Live-Streaming on Facebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rganize-and-share-music-how-to-make-youtube-playlists-easier-for-2024/"><u>[New] Organize and Share Music How to Make YouTube Playlists Easier for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-connection-thriving-amidst-algorithm-updates-for-2024/"><u>[Updated] The Art of Connection Thriving Amidst Algorithm Updates for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/clearing-outdated-backups-guide-to-managing-file-history-on-windows-11/"><u>Clearing Outdated Backups: Guide to Managing File History on Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-g42-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia G42 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-samsung-image-maker-insights-and-overview-2023/"><u>In 2024, Samsung Image Maker Insights & Overview 2023</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-or-samsung-galaxy-an-ultimate-comparison-for-your-next-purchase/"><u>IPhone or Samsung Galaxy: An Ultimate Comparison for Your Next Purchase</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-cable-modem-and-wifi-router-packages-for-2n4-a-2024-guide/"><u>Leading Cable Modem & WiFi Router Packages for 2N4: A 2024 Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-tech-top-earbuds-reviewed/"><u>Leading Tech: Top Earbuds Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-effortlessly-anywhere-discover-the-combination-of-accuracy-and-convenient-cable-in-sabrent-travel-mouse/"><u>Navigate Effortlessly Anywhere: Discover the Combination of Accuracy and Convenient Cable in Sabrent Travel Mouse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimize-your-computer-must-upgrade-tips/"><u>Optimize Your Computer: Must-Upgrade Tips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/quality-large-screen-at-a-bargain-hisenses-50-inch-4k-hdr-tv-reviewed/"><u>Quality Large Screen at a Bargain – Hisense's 50 Inch 4K HDR TV Reviewed!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-heavy-lift-drones/"><u>Top 10 Heavy Lift Drones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-in-your-wallet-from-one-million-youtube-sights/"><u>What's In Your Wallet From One Million YouTube Sights?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blancco-commander-a-commercial-data-erasure-solution-designed-for-enterprise-environments-offering-features-like-remote-wipe-commands-usage-tracking-and-com36/"><u>Blancco Commander: A Commercial Data Erasure Solution Designed for Enterprise Environments, Offering Features Like Remote Wipe Commands, Usage Tracking, and Compliance Management with Various Regulatory Standards.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bypass-netflix-screen-time-rules-a-simple-method-for-unrestricted-viewing/"><u>Bypass Netflix Screen Time Rules - A Simple Method for Unrestricted Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/catch-your-favorite-games-live-on-budget-friendly-mlb-networks-new-streaming-subscription/"><u>Catch Your Favorite Games Live on Budget-Friendly MLB Network's New Streaming Subscription!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chromecasts-unheeded-demise-a-tale-of-googles-neglect/"><u>Chromecast’s Unheeded Demise: A Tale of Google's Neglect</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-enigmatic-new-level-of-luxury-in-spotifys-exclusive-premium-program/"><u>Discover the Enigmatic New Level of Luxury in Spotify's Exclusive Premium Program</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-fun-unlocking-gaming-experiences-right-on-your-youtube/"><u>Discover the Fun: Unlocking Gaming Experiences Right on Your YouTube!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-youtube-equipment-for-starting-your-channel-for-2024/"><u>Essential YouTube Equipment For Starting Your Channel for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reactivate-and-ensure-siri-suggestions-display-correctly-on-your-iphone/"><u>How to Reactivate and Ensure Siri Suggestions Display Correctly on Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-downloads-4-prime-ringtones-providers/"><u>In 2024, Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infinite-storage-pathways-select-services-showcase/"><u>Infinite Storage Pathways Select Services Showcase</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/slash-prices-on-cameras-best-value-list-of-top-6-under-100-for-2024/"><u>Slash Prices on Cameras Best Value List of Top 6 Under $100 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resolving-nvidia-cp-denial-in-ws1110/"><u>Strategies for Resolving Nvidia CP Denial in WS11/10</u></a></li>
 </ul></div>
 

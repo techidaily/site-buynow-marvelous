@@ -1,7 +1,7 @@
 ---
 title: Transform Your Raspberry Pi Into a Personalized Image Display System - Detailed Tutorial Inside
-date: 2024-10-07T17:38:18.777Z
-updated: 2024-10-12T19:19:53.090Z
+date: 2024-10-15T19:47:56.628Z
+updated: 2024-10-18T17:22:36.957Z
 tags:
   - games
   - tv
@@ -23,27 +23,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unlock the joy of DIY electronics and showcase your favorite photos by crafting your own slideshow machine with a Raspberry Pi. Creating your own digital photo frame is cheaper than retail options and doesn't require uploading personal photos to a cloud storage service.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Build Your Own Slideshow Machine
 
  By building your slideshow machine (digital photo frame), you'll learn new skills and save money compared to buying pre-made products. Not only is the hardware most likely cheaper, but there are no subscription fees for storing photos in a cloud service. Speaking of: the DIY version is also great for privacy, as you can keep all the photos stored locally.
 
  If the practical reasons aren't enough, you'll also get the satisfaction of creating a personalized device that does exactly what you want it to do. Building a slideshow machine with a Raspberry Pi is a rewarding DIY project, and we'll show you how to do it.
 
-##  Choosing the Right Tools
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+##  Choosing the Right Tools
 
 ###  Selecting the Perfect Raspberry Pi Model
 
@@ -56,19 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ###  Essential Software to Get Started
 
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Building Your Slideshow Machine
 
@@ -212,6 +192,13 @@ sudo sh ~/lightdm-changer.sh
 
 ![The RPi Slideshow session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-select-session.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the script restarts the login screen (LightDM), you'll be logged out. From here, select "Slideshow" from the session menu and log in. When you log in, your slideshow will commence.
 
 ##  Customizing Your Slideshow
@@ -221,10 +208,10 @@ sudo sh ~/lightdm-changer.sh
 ![The location of picture files for the slideshow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-pictures-in-file-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you wish to customize your slideshow, start by opening up the script that handles the slideshow on your Pi.
@@ -234,6 +221,19 @@ sudo nano /usr/share/xsessions/start-slideshow.sh
  You can customize the following aspects of the slideshow: enable/disable randomization and change delay time before image changes.
 
 ![The Pi slideshow is in motion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-in-motion.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To disable randomization, find the command below in the script:
 
@@ -262,20 +262,15 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-sonic-sculpture-how-to-mold-soundscapes-with-cost-free-effect-tools/"><u>[New] Sonic Sculpture How to Mold Soundscapes with Cost-Free Effect Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>[Updated] 2024 Approved Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-personalized-branding-made-easy-use-free-logo-templates-and-edit-for-2024/"><u>[Updated] Personalized Branding Made Easy Use Free Logo Templates and Edit for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-powerhouse-rode-x-xcm-50-microphone-unveiled-a-detailed-examination-of-its-miniaturized-yet-robust-performance/"><u>Compact Powerhouse: Rode X XCM-50 Microphone Unveiled - A Detailed Examination of Its Miniaturized Yet Robust Performance</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-nord-3-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tless-guide-to-free-melodies-in-youtube-productions-for-2024/"><u>Effortless Guide to Free Melodies in YouTube Productions for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nubia-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nubia Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-it-worth-it-analyzing-the-cost-and-performance-of-alienwares-aurora-r7/"><u>Is It Worth It? Analyzing the Cost and Performance of Alienware's Aurora R7</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-tp-link-archer-ax6000-an-upgrade-over-the-nighthawk-ax12-expert-analysis/"><u>Is the TP-Link Archer AX6000 an Upgrade Over the Nighthawk AX12 - Expert Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kindleoasis-2019-comprehensive-review-for-a-paper-quality-reading-experience/"><u>KindleOasis (2019) Comprehensive Review for a Paper-Quality Reading Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-online-education-hubs-a-list-of-the-finest-websites-for-distance-learning/"><u>Leading Online Education Hubs: A List of the Finest Websites for Distance Learning</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-voice-input-technology-apps/"><u>Leading Voice Input Technology Apps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-grow-thrive-with-mondly-in-ukraine/"><u>Learn, Grow, Thrive with Mondly in Ukraine</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/modern-marvel-how-samsung-galaxy-watch3-blends-classic-design-with-cutting-edge-technology/"><u>Modern Marvel: How Samsung Galaxy Watch3 Blends Classic Design with Cutting-Edge Technology</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-embarking-on-the-online-world-starting-a-facebook-life-for-2024/"><u>[New] Embarking on the Online World Starting a Facebook Life for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-craft-excellence-top-10-free-drawing-tools-for-mac/"><u>2024 Approved Craft Excellence Top 10 Free Drawing Tools for Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fix-obs-white-outage-during-live-streams/"><u>Fix OBS White Outage During Live Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-laptop-when-theres-nothing-heard/"><u>How to Restore Sounds on Your Laptop When There's Nothing Heard?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/leveraging-tiktok-to-mirror-your-best-features/"><u>Leveraging TikTok to Mirror Your Best Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcome-noisy-controller-revive-headset-connection/"><u>Overcome Noisy Controller: Revive Headset Connection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-selecting-the-ideal-intel-gaming-motherboard-for-maximum-performance/"><u>Ultimate Guide: Selecting the Ideal Intel Gaming Motherboard for Maximum Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-the-premier-internal-ssds-dominating-2/"><u>Ultimate Guide: The Premier Internal SSDs Dominating 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-premium-bluetooth-keyboards-for-2nnnd-century-tech-enthusiasts/"><u>Ultimate Selection of Premium Bluetooth Keyboards for 2Nnnd Century Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-elite-tv-backlights-reviewed/"><u>Ultimate Selection: Elite TV Backlights Reviewed</u></a></li>
 </ul></div>
 

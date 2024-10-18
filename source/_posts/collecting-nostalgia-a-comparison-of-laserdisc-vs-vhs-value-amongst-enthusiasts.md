@@ -1,7 +1,7 @@
 ---
 title: "Collecting Nostalgia: A Comparison of Laserdisc Vs. VHS Value Amongst Enthusiasts"
-date: 2024-10-11T16:02:27.847Z
-updated: 2024-10-12T20:51:39.819Z
+date: 2024-10-13T20:45:43.393Z
+updated: 2024-10-18T19:37:23.334Z
 tags:
   - games
   - tv
@@ -26,26 +26,26 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  As it dawns on us that the internet isn't forever, and you don't really have control over your digital media, it's becoming more popular to collect physical media. While DVDs and Blu-ray media are a non-issue, what about older formats like LaserDisc and VHS? Should anyone be collecting these? If so, which one makes the most sense?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Quality and Format Differences
 
  LaserDisc is a higher quality format than VHS, period. LaserDisc offered almost twice as many horizontal lines of detail than VHS, so there really is no comparison. However, with LaserDisc you'll have to flip the disc over partway through most films. Like me, you probably have rose-tinted memories of what VHS looked like, but if you head to YouTube and look at digitized VHS recordings, you'll soon realize we could barely see what was going on. While LDs are still short of DVDs in quality, on the right equipment it can still look great.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Longevity and Durability
 
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
 
@@ -57,9 +57,23 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  One thing I do worry about is the longevity of the actual players, since LDs will eventually break down when the lasers don't work anymore, and VHS players are mechanically complex and were unreliable even when new. Well, at least the mainstream models my family could afford were. Whether there will be any way to play these media decades from now is debatable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Rarity and Availability
 
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Packaging and Artwork
 
@@ -70,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  The truth about vinyl records is that the perceived "quality" advantage it has over digital music [doesn't have a basis in reality](https://www.youtube.com/watch?v=lzRvSWPZQYk), but I feel many people collect them because the shape and size of vinyl records lends itself to amazing packaging and artwork. Similarly, there's just no comparison to how beautiful LDs can be as objects, even if you never play them. From this perspective, they are highly collectible.
 
  VHS tapes, on the other hand, are ugly and spartan. Of course, that's just my opinion, but in this category I just find no merit to them at all.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Cost
 
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  However, there is the nostalgia factor with VHS, and in the case of LDs, there might be historical value to some of them. After all, for a long time the widescreen LaserDisc releases of the original Star Wars trilogy was the only untouched version of the original theatrical edits of those movies, untouched by George Lucas' "improvements."
 
  There's no winner here, other than LD being the better option for preservation if no newer media of that content exists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Community and Fandom
 
@@ -122,18 +122,22 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-change-tiktok-video-background-for-2024/"><u>[Updated] How to Change TikTok Video Background for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tips-for-timely-termination-of-social-media-screenshots-for-2024/"><u>[Updated] Tips for Timely Termination of Social Media Screenshots for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-tp-link-re505x-ultimate-guide-to-extending-your-wifi-coverage/"><u>A Closer Look at TP-Link RE505X - Ultimate Guide to Extending Your WiFi Coverage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-the-most-advanced-sprinkler-automation-solutions/"><u>A Comprehensive Guide to the Most Advanced Sprinkler Automation Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-8-animated-audio-tracks-for-creatives-free-downloads/"><u>In 2024, Top 8 Animated Audio Tracks for Creatives Free Downloads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-vr-film-experiences-to-witness-for-2024/"><u>Key VR Film Experiences to Witness for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-cities-swiftly-on-a-gotrax-gxl-v2-a-thorough-performance-assessment/"><u>Navigating Cities Swiftly on a Gotrax GXL V2 - A Thorough Performance Assessment</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/professional-photography-meets-social-media-dslr-and-computer-syncopation/"><u>Professional Photography Meets Social Media DSLR and Computer Syncopation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-screen-mirroring-from-ios-13-devices-to-pcs-and-macs/"><u>Seamless Screen Mirroring From iOS 13 Devices to PCs and Macs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-and-performance-of-samsungs-galaxy-tab-s7-ideal-for-mid-range-tablet-seekers/"><u>Unveiling the Features and Performance of Samsung's Galaxy Tab S7: Ideal for Mid-Range Tablet Seekers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/wasteland-2-remastered-review-directors-cut-edition-delivers-an-unforgettable-turn-based-adventure/"><u>Wasteland 2 Remastered Review - Director's Cut Edition Delivers an Unforgettable Turn-Based Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/whats-new-in-microsoft-surface-pro-7-we-dive-into-its-consistent-quality-and-reliable-enhancements/"><u>What's New in Microsoft Surface Pro 7? We Dive Into Its Consistent Quality and Reliable Enhancements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rotation-producer-series/"><u>[New] Rotation Producer Series</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-charting-the-path-to-previous-imagery-a-facebook-centric-guide/"><u>[Updated] 2024 Approved Charting the Path to Previous Imagery A Facebook-Centric Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024-ultimate-list-leading-pc-audio-solutions-for-gamers/"><u>2024 Ultimate List: Leading PC Audio Solutions for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/develop-a-research-timeline/"><u>Develop a Research Timeline:</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-assessment-of-battery-operated-google-wireless-doorbells/"><u>Expert Assessment of Battery Operated Google Wireless Doorbells</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-12-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 12 In Easy Steps | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13t-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13T Pro FRP</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-best-online-education-resources-with-our-expert-picks-for-top-notch-course-platforms/"><u>Navigate the Best Online Education Resources with Our Expert Picks for Top-Notch Course Platforms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-art-of-color-correction-a-final-cut-pro-guide/"><u>New 2024 Approved The Art of Color Correction A Final Cut Pro Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fix-laser-print-nozzle-blockage/"><u>Quick Fix: Laser Print Nozzle Blockage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-thinkpad-x1-titanium-yoga-exposed-why-this-top-of-the-line-2-in-1-is-a-must-have-for-die-hard-thinkpad-fans/"><u>The Lenovo ThinkPad X1 Titanium Yoga Exposed: Why This Top-of-the-Line 2-in-1 Is a Must-Have for Die-Hard ThinkPad Fans!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-viair-88p-compressor-exceptional-force-hindered-by-specific-drawbacks/"><u>Unveiling the Viair 88P Compressor: Exceptional Force Hindered by Specific Drawbacks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/your-daily-dose-of-ig-meme-joy-and-sorrow-the-best-groups/"><u>Your Daily Dose of IG Meme Joy & Sorrow The Best Groups</u></a></li>
 </ul></div>
 

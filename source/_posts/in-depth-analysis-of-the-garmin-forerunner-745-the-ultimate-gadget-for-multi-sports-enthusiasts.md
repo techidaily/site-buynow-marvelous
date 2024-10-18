@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Garmin Forerunner 745: The Ultimate Gadget for Multi-Sports Enthusiasts"
-date: 2024-08-22T17:49:10.215Z
-updated: 2024-08-23T17:49:10.215Z
+date: 2024-10-15T18:58:47.444Z
+updated: 2024-10-18T16:12:18.636Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the Garmin Forerunner 745: The Ultimate Gadget for Multi-Sports Enthusiasts"
@@ -39,6 +39,13 @@ Lifewire / Erika Rawes
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Xiaomi Mi Smart Band 4
 
 ![Xiaomi Mi Smart Band 4](https://www.lifewire.com/thmb/UV3EHV0VwUI0F7jJZFlAMknHD2M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xiaomi-Mi-Band-4-Fitness-Tracker-1-0f0e3854f10a4a2595aacd594e37472b.jpg)
@@ -65,9 +72,6 @@ Lifewire / Erika Rawes
 
  Budget fitness trackers like the Xiaomi Mi Smart Band 4 tend to be hit or miss, with some budget models providing accurate data and useful features, and others serving as basic monitors and pedometers with a few additional features that may or may not work well. I tested the Xiaomi Mi Smart Band 4 for two weeks to see how it performs compared to other budget and mid-range[fitness trackers](https://www.lifewire.com/an-introduction-to-activity-trackers-3441364) on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: A full color display**
 
  The Xiaomi Mi Smart Band 4 is just the right size—it doesn’t overpower a small wrist, and it doesn’t look too small on a larger wrist. It’s stylish and simple, with a rounded screen and a rubberized adjustable band. The tracker is removable, and you can switch out the band and purchase other styles and color options. You can find a 10-pack of replacement bands in different colors on Amazon for around $10 to $15\.
@@ -79,8 +83,18 @@ Lifewire / Erika Rawes
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/oCYh365Kx4bFT1nCDvemWNcGEYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-6-64089d35ecca457d9f49477537785d34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Comfort: A water resistant removable band**
@@ -93,9 +107,6 @@ Lifewire / Erika Rawes
 
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/MsPw0300j9lhgQEmelHfapWXla4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-4-52ee61c2595e4aafb5c1ad04be13f12e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Performance: Not bad for the price**
@@ -109,11 +120,15 @@ Lifewire / Erika Rawes
 
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/b-bHMwN4n7fkxgT3X0dueEvAuZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-2-4e096d92f3324689bed126949cdb0a14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **Software: Mi Fit App**
 
  The Mi Fit app is somewhat basic, but it provides useful health and fitness information. Some functions, like automatic monitoring, aren’t as easy to find in the app as others, but overall the basic app serves its purpose. As with most fitness trackers, you can set alarms, set event reminders, and share your fitness info. You can view historical data on your heart rate, workouts, steps, and calories burned. You can track your sleep, including deep sleep, light sleep, hours slept, and more.
@@ -123,6 +138,13 @@ Lifewire / Erika Rawes
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/uyTDWcqaPVwpPOnZeijBG5Y2MYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-5-040745fab732483a957277c9daaa82ca.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery: Up to 20 days**
 
@@ -138,15 +160,19 @@ The 135 mAh battery lasts for up to 20 days.
 
 ![Xiaomi Mi Smart Band](https://www.lifewire.com/thmb/kXajF8I7UCVG0wnufwSz3psTRmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xiaomi-Mi-Band-4-Fitness-Tracker-3-8a9c12e307254854bcd99728db94330c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Price: An amazing value**
 
  The Xiaomi Mi Smart Band 4 is incredibly affordable, selling for $29 on Amazon. The next gen band, the Mi Band 5, is now hitting the market, which is lowering the price of the fourth generation model. The Mi Band 4 isn’t perfect by any means, and it won’t provide the same experience that you’d get with a tracker that costs hundreds of dollars, but it’s a steal at its price point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Xiaomi Mi Smart Band 4 vs. Fitbit Charge 3**
 
  For a light user, the Xiaomi Mi Smart Band 4 will provide a similar experience to the[Fitbit Charge 3](https://www.lifewire.com/fitbit-charge-3-review-5072527) , and for much less cash. The Mi Band 4 sells for less than $30, while the Charge 3 (view on[Amazon](https://www.amazon.com/dp/B07FTN21JL/?tag=lifewire-onsite-prod-20&ascsubtag=5072538%7Cn9a9fa546381a4a599bb0ce1e844da32715%7C) ) sells for closer to $100\. The Mi Band 4 even has a color display, which the Fitbit Charge 3 lacks. If you want a budget tracker with better accuracy, the Charge 3 is probably the way to go. If you just want to try out a fitness tracker, the Mi Band 4 is a good choice.
@@ -157,9 +183,6 @@ The 135 mAh battery lasts for up to 20 days.
 
  The Xiaomi Mi Smart Band 4 offers a lot of features for a little bit of cash.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Mi Smart Band 4
@@ -185,14 +208,11 @@ The 135 mAh battery lasts for up to 20 days.
 * App  Mi Fit
 * System requirements  Android 4.4, iOS 9.0 or above
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -201,4 +221,22 @@ The 135 mAh battery lasts for up to 20 days.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-profile-game-strategies-for-fb-success/"><u>2024 Approved Elevate Your Profile Game Strategies for FB Success</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/acer-predator-triton-300se-in-depth-analysis-and-insights-on-the-compact-powerhouse/"><u>Acer Predator Triton 300SE - In-Depth Analysis and Insights on the Compact Powerhouse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-in-mobile-tech-an-in-depth-look-at-the-oneplus-6t/"><u>Affordable Excellence in Mobile Tech: An In-Depth Look at the OnePlus 6T</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-syma-s111g-rc-helicopter-a-comprehensive-review-of-thrilling-indoor-entertainment/"><u>Affordable Syma S111G R/C Helicopter: A Comprehensive Review of Thrilling Indoor Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/alienware-aurora-r11-review-the-best-gaming-pc-of-2021/"><u>Alienware Aurora R11 Review: The Best Gaming PC of 2021</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ampace-andes-1500-in-action-real-world-testing-of-an-all-in-one-portable-energy-source/"><u>Ampacē Andes 1500 in Action: Real-World Testing of an All-in-One Portable Energy Source</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/antenna-evaluation-the-clearstream-eclipse-delivers-outstanding-results-in-a-no-fuss-package/"><u>Antenna Evaluation: The ClearStream Eclipse Delivers Outstanding Results in a No-Fuss Package</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/antonis-antop-at-127-antenna-evaluation-cutting-edge-design-brings-you-crisp-clear-television-for-free/"><u>ANTONIS Antop AT-127 Antenna Evaluation: Cutting-Edge Design Brings You Crisp, Clear Television for Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-gear-guides-from-toms-hardware-experts/"><u>Best Gear Guides From Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creatives-making-marvel-virtual-worlds-vivid/"><u>Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-opengl-glitches-in-minecraft/"><u>Effective Solutions for Resolving OpenGL Glitches in Minecraft</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-motion-clearer-captures/"><u>Mastering Motion Clearer Captures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-for-inoperative-headset-connectivity-in-laptops/"><u>Solution Guide for Inoperative Headset Connectivity in Laptops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme GT 5 Pro | Dr.fone</u></a></li>
+</ul></div>
 

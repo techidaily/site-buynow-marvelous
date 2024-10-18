@@ -1,7 +1,7 @@
 ---
 title: "'Torment: Tides of Numenera': Unveiling a Masterclass in Science Fiction Role-Playing Games"
-date: 2024-08-22T17:50:13.311Z
-updated: 2024-08-23T17:50:13.311Z
+date: 2024-10-11T19:40:44.730Z
+updated: 2024-10-18T18:32:26.131Z
 categories:
   - BestProducts
 description: "This Article Describes 'Torment: Tides of Numenera': Unveiling a Masterclass in Science Fiction Role-Playing Games"
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 [View On Steampowered.com](https://store.steampowered.com/app/464920/Surviving%5FMars/) [View On G2a.com](https://www.g2a.com/en-us/surviving-mars-first-colony-edition-steam-key-global-i10000147752001?)
@@ -70,14 +77,14 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Humans have never been so annoying**
 
  The game begins with a multi-hour long tutorial program, which I highly recommend you undertake before playing the game. There are so many various aspects to the game—basic needs, threats to your colony, resources to import and export—that it would be disastrous not to get caught up to speed. It took me a total of five hours to complete these tutorials, but I had to restart a couple after a couple operator error moments when I accidentally destroyed my only water vaporizer and had no idea how to rebuild it. So, it will probably take you less.
@@ -92,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The colonists also come with their own unique personality traits, from veganism to survivalist to alcoholic, so they all have their own service needs. You’ll have to factor this into your game as you build up your population. If someone doesn’t get their needs met, it can land them in the hospital, or worse, on a rocket back home. And don’t get me started on the chaos that erupts when humans start freezing during a cold spell or complain when they don’t have enough oxygen. The nerve of some colonists!
@@ -114,9 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
@@ -126,8 +126,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Other city-building games**
 
  What makes Surviving Mars unique is that technically it is a city-[building game](https://www.lifewire.com/best-offline-building-games-4580415) , but instead of building bus lines, you have to build oxygen and water lines to ensure colony survival. However, just like city-building games, you are building infrastructure. If you’re solely focused on building up a city, Surviving Mars would be a great addition to your library, but so would[Cities: Skylines](https://store.steampowered.com/app/255710/Cities%5FSkylines/) (view on Steam). Both focus on creating a habitat from scratch—one just happens to be hundreds of thousands of miles away while the other could be in a tropical or a Midwestern climate.
@@ -141,8 +145,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Surviving Mars
@@ -155,14 +163,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Graphics  HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM
 * Game Updates  Green Planet, Project Laika, Space Race, Colony Design Set, Marsvision Song Contest
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,4 +176,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-creating-compelling-thumbnails-that-stand-out/"><u>[New] 2024 Approved Creating Compelling Thumbnails that Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-leading-ai-named-generators-boosting-podcast-titles/"><u>[Updated] 10 Leading AI Named Generators Boosting Podcast Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-selection-of-compact-laptop-recharge-units/"><u>2024'S Elite Selection of Compact Laptop Recharge Units</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-detailed-review-of-netgears-powerhouse-the-nighthawk-c7000-a-leading-wireless-router-explained/"><u>A Detailed Review of Netgear's Powerhouse - The Nighthawk C7000, a Leading Wireless Router Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/adjust-your-viewing-experience-master-changing-plexs-video-playback-speed/"><u>Adjust Your Viewing Experience: Master Changing Plex's Video Playback Speed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/detailed-procedure-for-sending-time-synchronized-srt-files-online/"><u>Detailed Procedure for Sending Time-Synchronized SRT Files Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-covert-intelligent-communication-chips-in-macs-and-ipads-do-you-own-them/"><u>Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y78plus-t1-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y78+ (T1) Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-pay-more-for-an-iphone-when-you-can-get-the-look-and-features-of-a-phone-with-motorola-one/"><u>Why Pay More for an iPhone When You Can Get the Look & Features of a Phone with Motorola One?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-series-x-unveiled-experience-gaming-in-stunning-4k-resolution/"><u>Xbox Series X Unveiled: Experience Gaming in Stunning 4K Resolution</u></a></li>
+</ul></div>
 

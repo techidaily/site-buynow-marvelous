@@ -1,7 +1,7 @@
 ---
 title: "Ratchet & Clank Review: A Classic, Refreshed and Reimagined"
-date: 2024-08-15T09:20:23.482Z
-updated: 2024-08-16T09:20:23.482Z
+date: 2024-10-14T20:23:33.897Z
+updated: 2024-10-18T19:52:24.851Z
 categories:
   - BestProducts
 description: "This Article Describes Ratchet & Clank Review: A Classic, Refreshed and Reimagined"
@@ -42,9 +42,6 @@ Lifewire / Jonno Hill
 ## LG Gram 17
 
 ![LG Gram 17](https://www.lifewire.com/thmb/Brkak7eYiULoHYDHouNlQuk3toQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_LG-Gram-17-Inch-Thin-Laptop-1-26891b187a0c4260bbbe391a08f0e413.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -77,15 +74,22 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/bPwgN393oESXdTRdBMHH9_o-50k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-4-65036fddfdad4e9c904b1e4388426085.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design** :**A thoughtful approach to larger laptops**
 
  Without question, the first thing you will notice when you take the LG Gram 17 out of its box is how light it is. Weighing less than 3 pounds, it’s trivial to lift, hold, and carry with one hand. For reference, a current-generation 15-inch MacBook Pro weighs in at just over 4 pounds, so it’s a funny feeling to hold a larger laptop that weighs less. There haven’t been any great miracles worked here—the reduced weight comes at the cost of a flimsier feeling construction that lacks the sturdiness of heavier laptops.
@@ -102,9 +106,6 @@ No advertising on the website.
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup** **Process** :**No help needed**
 
  The LG Gram 17 arrives in a minimally packaged box containing only the essentials: The laptop itself, the charger, a manual, and an adapter for the USB-C port. LG definitely gets high marks on setup, requiring minimal steps to get set up and begin using your device right away. You will be prompted to enter the standard information any Windows laptop will ask—like your Wi-Fi credentials, a username and password, your timezone, and if you’d like, a fingerprint impression.
@@ -112,15 +113,16 @@ No advertising on the website.
  Once you’ve completed setup, you’ll be introduced to the LG Update Center, designed to handle both Windows updates and updates to LG’s software on the laptop. Thankfully, this software is very discreet and hands-off, not overstepping its intended purpose. LG is very light on 3rd party software bundled with the laptop, containing only a handful of bespoke applications which we will cover in greater detail in the Software section. Suffice it to say, there is a lot less bloatware than we normally find on laptops.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/mt69Vhar3JM30uFdBWA58_wPdYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-5-f2352e95cadc4e2b99d738b0238fb7bf.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **Display** :**A joy to use**
 
  The large, bright 17-inch 2560 x 1600 IPS display is definitely the centerpiece of the LG Gram 17\. It strikes the perfect balance of size to resolution ratio. Having a 16:10 aspect ratio instead of 16:9 definitely gives the feeling that you have more room to play around with.
@@ -134,8 +136,12 @@ No advertising on the website.
  The IPS display also performs admirably by most other metrics that buyers will care about, such as a maximum brightness high enough to be usable outdoors. Additionally, the display looks great from off-angles, losing very little brightness when viewed from the sides, and showing no signs of color shift.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance** :**Ready to work (but not to game)**
 
  The LG Gram 17 performed well in our tests, managing a 3,851 score in PCMark 10\. As mentioned previously, this laptop is best suited for productivity-related tasks. The absence of a dedicated graphics card means that it won’t be able to keep up in anything beyond casual games and very light video editing workloads, but so long as you avoid these types of tasks you shouldn’t really notice any shortcomings. The 16GB of RAM and 8th gen Intel i7 made using the Gram 17 a fast, responsive experience in everyday and work-related tasks.
@@ -143,9 +149,6 @@ No advertising on the website.
  We did nonetheless test the LG Gram 17 in some less demanding games, such as Slay the Spire, a roguelike card game with relatively undemanding graphics. We were able to play the game, but definitely noted some lag that made gameplay a little less pleasant.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/4DSmBdI2ZVvCXO9PXT1iEnSCRxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-6-5381cd4656aa4307ba017acf8ce77c4b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -159,16 +162,10 @@ No advertising on the website.
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Camera** :**Bare minimum**
 
  The 720p webcam on the LG Gram 17 is nothing to write home about, and probably won’t be the platform you use for taking your next headshot or dating profile picture. The camera has a tendency to blow out the background in an attempt to keep the subject in focus, and there is a plainly visible amount of noise in the image even in generous daylight conditions. Nonetheless, it will serve fine for teleconferencing purposes.
@@ -177,6 +174,13 @@ No advertising on the website.
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery** :**Beyond plentiful**
 
  The LG Gram 17 is equipped with a more than capable battery that offers up to 19.5 hrs of battery life, according to LG. In our tests, the laptop averaged around 14 hours during mixed daily use—still quite a great deal. This is likely due to a mixture of the larger than average battery, lack of a discrete graphics card, and an energy-efficient display. This is about as good as you can hope for in a laptop, to be honest, and a surprising achievement for such a light and thin one. If time between charges is a concern for you, take note.
@@ -184,8 +188,12 @@ No advertising on the website.
  When running Battery Eater Pro to push the laptop to its limits, it kicked the bucket in just over 2 hours and 30 minutes. This may seem like a very short time, but it’s still considerably better than any of the[other 17-inch laptops](https://www.lifewire.com/best-17-inch-laptops-832683) we tested using this brutal benchmark.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Standard Windows with some unique features**
 
  The LG Gram 17 comes with a fairly vanilla installation of Windows 10 Home, offering very little in the way of custom third party applications or other types of bloat. In our eyes, this is a big plus, as having numerous added applications can slow systems (and users) down, and often serve as yet another piece of software to keep up to date.
@@ -201,6 +209,13 @@ No advertising on the website.
 ## **Price: Lighter laptop, bigger price tag**
 
  At an MSRP of $1,700, the LG Gram 17 is not particularly affordable, and even less so when compared to similar options in the market. For this price, we would normally expect to get a discrete graphics card and the expanded possibilities that come with it. The premium you are paying for in this case isn’t sheer price-to-performance but portability and form factor. On these fronts, the LG Gram 17 definitely shines.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **LG Gram 17 vs. ASUS VivoBook Pro 17**
 
@@ -235,14 +250,11 @@ No advertising on the website.
 * Warranty  1 Year Limited
 * Platform  Window 10 Home
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -251,4 +263,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-avoiding-legal-issues-best-practices-for-zoom-records-for-2024/"><u>[New] Avoiding Legal Issues Best Practices for Zoom Records for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-strategies-downloading-audio-on-iphones-for-2024/"><u>[New] Step-by-Step Strategies Downloading Audio on iPhones for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unlock-creative-potential-with-customizable-vocal-effects-on-tiktok/"><u>2024 Approved Unlock Creative Potential with Customizable Vocal Effects on TikTok</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Camon 20 Pro 5G Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-htc-u23-frp-bypass-by-drfone-android/"><u>About HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-9-versus-fitbit-charge-6-a-comprehensive-showdown/"><u>Apple Watch Series 9 Versus Fitbit Charge 6: A Comprehensive Showdown</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/big-features-small-frame-an-insightful-review-on-the-apple-iphone-12-mini/"><u>Big Features, Small Frame: An Insightful Review on the Apple iPhone 12 Mini</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bose-soundsport-frames-unveiled-excellent-audio-plus-solar-defense/"><u>Bose Soundsport Frames Unveiled: Excellent Audio + Solar Defense</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-experiences-testing-the-mistral-ais-le-chat-against-chatgpt/"><u>Comparing Experiences: Testing the Mistral AI's Le Chat Against ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-fitbit-versa-2-the-ultimate-gadget-for-health-enthusiasts-with-advanced-smartwatch-capabilities/"><u>Comprehensive Analysis of the Fitbit Versa 2: The Ultimate Gadget for Health Enthusiasts with Advanced Smartwatch Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decouvrez-les-meilleurs-avantages-de-handbrake-h264-et-mpeg-4-lors-de-la-conversion-de-vos-supports-dvd/"><u>Découvrez Les Meilleurs Avantages De HandBrake H.264 Et MPEG-4 Lors De La Conversion De Vos Supports DVD</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easily-enable-offline-access-to-youtube-on-iphoneipad-for-2024/"><u>Easily Enable Offline Access to YouTube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-elite-selection-of-digital-sketching-devices-2024-edition/"><u>Expert Picks: The Elite Selection of Digital Sketching Devices - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-which-is-better-google-nest-audio-or-apple-homepod/"><u>Head-to-Head Comparison: Which Is Better, Google Nest Audio or Apple HomePod?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rayman-legends-evaluation-exceptional-craftsmanship-in-a-retro-2d-adventure-game/"><u>Rayman Legends Evaluation: Exceptional Craftsmanship in a Retro 2D Adventure Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-razer-portal-wi-fi-reviews-a-game-changer-in-online-battles/"><u>The Ultimate Razer Portal Wi-Fi Reviews: A Game Changer in Online Battles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/timeless-design-with-a-touch-of-intelligence-the-complete-review-of-the-skagen-falster-3/"><u>Timeless Design with a Touch of Intelligence: The Complete Review of the Skagen Falster 3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-peak-performance-a-detailed-examination-and-evaluation-of-the-lightning-fast-logitech-g-pro-x-2-designed-for-elite-gamers-only/"><u>Unlocking Peak Performance: A Detailed Examination and Evaluation of the Lightning Fast Logitech G Pro X 2 - Designed for Elite Gamers Only</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-creme-de-la-creme-top-8-computers-names/"><u>Unveiling The Crème De La Crème - Top 8 Computers Names</u></a></li>
+</ul></div>
 

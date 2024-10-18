@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2024-10-05T21:09:48.542Z
-updated: 2024-10-12T16:46:24.521Z
+date: 2024-10-16T21:44:49.046Z
+updated: 2024-10-18T18:50:20.680Z
 tags:
   - games
   - tv
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  Although the PlayStation 5 was initially criticized for lacking many useful features seen in its predecessor, the console has gradually added these features via software updates. Despite this, PS5 owners are still waiting for the return of a few notable PS4 features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Menu Themes 
 
  One of the most highly requested features among PlayStation 5 owners is menu themes. If you weren't happy with the standard blue background of the PlayStation 4's home menu, you had the option to change it using a theme.
@@ -46,23 +39,9 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![Game details for Stranger of Paradise: Final Fantasy Origin on PlayStation 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-stranger-of-paradise-details-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Much like the PS4's themes, the detail pages feature unique backgrounds and music for each game. As such, there are fewer opportunities to see the standard background on the PS5 than there were PS4, which makes the inclusion of themes far less important for the PS5.
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Update History 
 
@@ -74,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3  A Fully Functional Web Browser 
 
  The PlayStation 5 technically has a browser for opening web pages, but it's extremely limited and difficult to access compared to the PS4 browser. You can only open the PS5 browser through links found in applications or by opening social media pages on your console. Furthermore, the browser's search bar is locked, meaning you can't access most websites through traditional means. There are ways to bypass this restriction and [freely use the PS5's hidden browser](https://win-solutions.techidaily.com/comprehensive-solutions-to-overcome-hearthstone-pc-game-crashing-problems/), but it's hardly worth the effort.
@@ -81,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
@@ -97,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4  USB Backup for PS5 Saves 
 
  The PlayStation 4 provides the option to [back up your save files](https://driver-error.techidaily.com/fixed-sm-bus-control-improvements-for-win11/) in cloud storage (if you have a PlayStation Plus subscription) or on a USB drive. Although there are some advantages to storing backups on [cloud storage](https://youtube-tips.techidaily.com/astering-video-visibility-settings-on-youtube-for-2024/), being able to use [your own external drive](https://extra-support.techidaily.com/in-2024-kodi-streaming-service-windows-media-replacement/) allows you to preserve your save files without needing a subscription or internet connection.
@@ -104,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  This option still exists on the PS5, but only for PS4 games. For PS5 games, the only way to create backups of your save data is to use cloud storage, but you can only use this option if you have an active [PlayStation Plus](https://fox-direct.techidaily.com/envision-images-with-circular-focus-shift-ps-for-2024/) subscription.
 
 ![PS5 Saved Data and Game App Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-saved-data-and-game-app-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
 
@@ -128,14 +134,15 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-recording-tool-for-every-android-enthusiast/"><u>[Updated] In 2024, Free Recording Tool for Every Android Enthusiast</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tactical-volume-management-in-live-mixing/"><u>2024 Approved Tactical Volume Management in Live Mixing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-dive-into-webinar-world-a-noobs-guide-to-zoom/"><u>In 2024, Dive Into Webinar World A Noob’s Guide to Zoom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-sabrent-rocket-5-nvme-m2-pcie-gen4-internal-solid-state-drive-with-1-tb-storage-up-to-7000-mbs-read-and-write-speeds-for-only-179-on-amazon/"><u>Secure Your Sabrent Rocket 5 NVMe M.2 PCIe Gen4 Internal Solid State Drive with 1 TB Storage - Up to 7000 MB/S Read & Write Speeds for Only $179 on Amazon</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tuning-into-fitness-the-power-of-music-on-your-garmin-vivoactive-3-wearable/"><u>Tuning Into Fitness: The Power of Music on Your Garmin Vivoactive 3 Wearable</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unmatched-value-and-excellent-functionality-oneplus-6t-in-depth-analysis/"><u>Unmatched Value & Excellent Functionality: OnePlus 6T In-Depth Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-an-in-depth-review-of-the-performance-driven-dell-xps-nt-13-foldable-notebook/"><u>Unveiling the Pros and Cons: An In-Depth Review of the Performance-Driven Dell XPS N't 13 Foldable Notebook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-strong-battery-feature-in-moto-g-power-a-tech-review-insight/"><u>Unveiling the Strong Battery Feature in Moto G Power: A Tech Review Insight</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-innovative-image-transformation-hacks/"><u>[Updated] 2024 Approved Innovative Image Transformation Hacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-interactive-insights-archive/"><u>[Updated] 2024 Approved Interactive Insights Archive</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms-for-2024/"><u>[Updated] The Ultimate Guide Shifting Your Profile Picture on Global Platforms for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-best-asmr-apps-both-sides-of-the-os-for-2024/"><u>Explore Best ASMR Apps, Both Sides of the OS for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-fixes-quickly-refresh-system-drivers-on-dell-alienware-g7-trinity/"><u>Fast Fixes: Quickly Refresh System Drivers on Dell Alienware G7 Trinity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/linksys-ac1900-max-stream-wifi-router-a-versatile-solution-for-every-home-network/"><u>Linksys AC1900 Max-Stream WiFi Router - A Versatile Solution For Every Home Network</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-offworlds-cutthroat-market-tips-for-constructing-a-thriving-economic-powerhouse/"><u>Navigating Offworld's Cutthroat Market: Tips for Constructing a Thriving Economic Powerhouse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/orchestrate-an-engaging-statement-with-tunes-for-2024/"><u>Orchestrate an Engaging Statement with Tunes for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-the-sleek-and-functional-lg-stylo-6-phone-experience/"><u>Review: The Sleek and Functional LG Stylo 6 Phone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/toshiba-55lf711u20-55-inch-fire-tv-edition-review/"><u>Toshiba 55LF711U20 55-Inch Fire TV Edition Review</u></a></li>
 </ul></div>
 

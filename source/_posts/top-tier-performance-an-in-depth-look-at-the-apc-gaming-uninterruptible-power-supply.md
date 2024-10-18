@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-10-09T16:40:14.137Z
-updated: 2024-10-12T20:37:35.202Z
+date: 2024-10-14T17:04:45.228Z
+updated: 2024-10-18T18:38:36.798Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -42,13 +42,6 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / James Huenink
 
 [View On Amazon](https://www.amazon.com/dp/B00OB883F6/?tag=lifewire-onsite-prod-20&ascsubtag=4784227%7Cnb8fa7df8bea04ca4a06f94beab613f8802%7CB00OB883F6)
@@ -74,13 +67,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Flimsy and difficult to use**
 
  The first thing we noticed about the Docooler USB 2.0 12 Megapixel is how cheap it feels. The camera itself has a plastic, silver housing with a shiny silver focus ring on the end. It feels like it could break at any moment. The base is made of a transparent plastic, which is also available in blue and black. The plastic is so rigid that we expect it to break under regular use. Every time we adjusted the camera, the plastic creaked like a rusty door in a haunted house. Even in our short testing period, the joints started getting loose. We had to check several times just to make sure it wasn’t broken.
@@ -90,19 +76,25 @@ Lifewire / James Huenink
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup process: Awkward to position**
@@ -110,6 +102,13 @@ Lifewire / James Huenink
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
 
  It was easy to set up when we clipped it to a laptop, but terrible when we tried to put it on our HD TV. Every time we moved the computer or the USB cable, the camera slid, twisted, or fell off the TV. The ball joint, which connects the camera to the base, didn’t move smoothly, so we struggled to point the Docooler USB 2.0 12 Megapixel in the right direction, and we were too worried about breaking the plastic to try and force it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera Quality: Not even close to advertised**
 
@@ -122,6 +121,19 @@ Lifewire / James Huenink
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Underwhelming performance in video and audio**
 
@@ -185,17 +197,21 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-obs-issue-resolved-camera-fix/"><u>[New] In 2024, OBS Issue Resolved - Camera Fix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-launching-a-youtube-series-focused-on-product-quality-insights/"><u>[Updated] Launching a YouTube Series Focused on Product Quality Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-fitness-routine-with-garmin-vivoactive-3-exercise-and-enjoy-quality-sound/"><u>Enhancing Your Fitness Routine with Garmin Vivoactive 3: Exercise and Enjoy Quality Sound</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-discovering-individual-email-addresses-with-precision/"><u>Guide: Discovering Individual Email Addresses with Precision</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-find-computer-specs-windows-11-easily/"><u>How to Find Computer Specs Windows 11 [Easily]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-night-avenger-black-vs-day-defender-silver/"><u>In 2024, Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-google-podcast-upload-for-2024/"><u>Mastering the Art of Google Podcast Upload for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-chatgpt/"><u>New 2024 Approved What Is ChatGPT?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/next-level-immersion-with-oculus-quest-2-exceptional-value-for-vr-enthusiasts/"><u>Next-Level Immersion with Oculus Quest 2: Exceptional Value for VR Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-holy-stone-remote-control-toy-racecar-perfect-family-entertainment/"><u>Review of Holy Stone Remote Control Toy Racecar - Perfect Family Entertainment</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transforming-computing-the-revolutionary-imac-featuring-apples-m1-technology/"><u>Transforming Computing: The Revolutionary iMac Featuring Apple's M1 Technology</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] In 2024, FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artistic-edge-premium-text-tools-for-adobe-after-effects/"><u>[New] The Artistic Edge Premium Text Tools for Adobe After Effects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unveiling-the-secrets-to-effortless-youtube-sharing-on-fb-groups-for-2024/"><u>[Updated] Unveiling the Secrets to Effortless YouTube Sharing on FB Groups for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bouncie-driving-connected-reviewed-affordable-navigation-on-a-budget/"><u>Bouncie Driving Connected Reviewed: Affordable Navigation on a Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-netgear-c3700-hybrid-modem-router-in-depth-analysis/"><u>Comprehensive Evaluation of the Netgear C3700 Hybrid Modem-Router: In Depth Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-enabled-solutions-optimizing-your-website-with-smart-tracking/"><u>Cookiebot-Enabled Solutions: Optimizing Your Website with Smart Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-budget-lenovo-tab-4s-strengths-and-weaknesses-on-android/"><u>Exploring the Budget Lenovo Tab 4'S Strengths & Weaknesses on Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-frames-to-frequencies-transforming-instagram-videos-for-2024/"><u>From Frames to Frequencies Transforming Instagram Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pop 8 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-peak-visionary-workspace-appraisal/"><u>In 2024, Peak Visionary Workspace Appraisal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonicwrap-headphones-for-low-volume-testing/"><u>SonicWrap Headphones for Low Volume Testing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/theta-sc2-360-degree-adventures-in-minimalism/"><u>Theta SC2: 360-Degree Adventures in Minimalism</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-reasons-to-choose-a-kobo-tablet-instead-of-a-kindle-e-reader/"><u>Top 5 Reasons to Choose a Kobo Tablet Instead of a Kindle E-Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-links-re305-a-detailed-assessment-of-the-ac1200-wireless-repeater-and-its-performance/"><u>TP-Link's RE305: A Detailed Assessment of the AC1200 Wireless Repeater and Its Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-yakuza-like-a-dragon-the-game-review-every-rpg-fan-needs-to-read/"><u>Unveiling Yakuza: Like A Dragon - The Game Review Every RPG Fan Needs to Read</u></a></li>
 </ul></div>
 

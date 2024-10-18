@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Antitower AT-127: Exceptional Free Broadcast Quality with Elegance"
-date: 2024-08-22T17:46:35.201Z
-updated: 2024-08-23T17:46:35.201Z
+date: 2024-10-14T17:30:37.217Z
+updated: 2024-10-18T18:47:57.460Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Antitower AT-127: Exceptional Free Broadcast Quality with Elegance"
@@ -73,8 +73,12 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WPjeQmKmzof_KVFE5_fIwN92cXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_05-24f7f07146ae45cd86d2c5bdd4791ee5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  Unfortunately, some larger keyboards can trade wrist injuries for shoulder injuries as their users overreach for mice, which brings a whole new set of problems to the table. While it may be a bit of a space hog, and not a terribly sleek or attractive one at that, the Fellowes Microban Split Wired Keyboard has solved both of these issues. What’s more, its ergonomic split design is easy to use and surprisingly comfortable.
@@ -86,22 +90,30 @@ Lifewire / Emily Isaacs
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: A wired connection for reliability**
 
@@ -114,8 +126,12 @@ Lifewire / Emily Isaacs
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
  The Fellowes keyboard faces stiff competition from other companies, notably Microsoft, which has been in the computer game for decades. Here, the Microsoft Sculpt Ergonomic Keyboard is the main competition. Generally retailing for around $80, nearly double the price of the Fellowes, the Sculpt follows a unique design akin to that of a manta ray. The two halves of the keyboard swoop upward, rising toward the middle, but not quite meeting thanks to an unfilled space between them. It looks strange, but it’s quite comfortable, especially thanks to its fabric wrist pad for extra comfort.
@@ -124,9 +140,6 @@ Lifewire / Emily Isaacs
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/9Ei30bgFst4sw8SynCxgEI_b-9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_04-eff22d3b32274568890dd291e56daab5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  The Sculpt is also a wireless keyboard. It uses Bluetooth technology to pair to the keyboard to your PC. One drawback to this design, however, is that the dongle used to pair the keyboard to the PC is linked with the keyboard at the time of build. If it’s lost or damaged, there’s simply no replacing it. It also lacks the pronounced divot in the keys that the Fellowes possesses, and the Sculpt doesn’t include Microban technology to prolong the keyboard’s lifespan.
@@ -143,9 +156,6 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Microban Split Design Keyboard
@@ -158,14 +168,11 @@ Lifewire / Emily Isaacs
 * Compatibility  As plug-and-play device with Windows OS
 * Warranty  3-year limited warranty
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +181,19 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-visual-clarity-for-remote-communications-with-ease/"><u>[New] In 2024, Mastering Visual Clarity for Remote Communications with Ease</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-loop-creating-impactful-content-for-instagram/"><u>[Updated] In 2024, Mastering the Art of Loop Creating Impactful Content for Instagram</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-realm-of-monster-hunter-world-a-guide-to-battling-ferocious-creatures/"><u>Exploring the Realm of Monster Hunter: World – A Guide to Battling Ferocious Creatures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-venu-uncovered-innovative-features-for-constant-fitness-and-wellbeing-tracking/"><u>Garmin Venu Uncovered: Innovative Features for Constant Fitness and Wellbeing Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hands-on-with-the-latest-tech-marvel-a-look-at-samsung-galaxy-s24-ultras-first-encounter/"><u>Hands-On with the Latest Tech Marvel: A Look at Samsung Galaxy S24 Ultra's First Encounter</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-samsungs-55-inch-ru7300-smart-tv-with-curved-screen-a-worthy-review/"><u>In-Depth Analysis of Samsung's 55-Inch RU7300 Smart TV with Curved Screen - A Worthy Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-radpowers-powerful-radcity-5-plus-a-heavyweight-contender-in-e-bikes/"><u>In-Depth Review: RadPower's Powerful RadCity 5 Plus - A Heavyweight Contender in E-Bikes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sharpen-your-images-the-ultimate-list-of-top-10-internet-apps-for-2024/"><u>Sharpen Your Images The Ultimate List of Top 10 Internet Apps for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/trier-gratuitement-un-fichier-webm-vers-le-format-aac-sur-internet-tutoriel-video-de-movavi/"><u>Trier Gratuitement Un Fichier WebM Vers Le Format AAC Sur Internet - Tutoriel Vidéo De Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tutorial-downloading-and-installing-toshiba-drivers-on-a-windows-operating-system/"><u>Tutorial: Downloading & Installing Toshiba Drivers on a Windows Operating System</u></a></li>
+</ul></div>
 

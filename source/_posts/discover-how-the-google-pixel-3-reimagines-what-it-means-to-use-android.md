@@ -1,7 +1,7 @@
 ---
 title: Discover How the Google Pixel 3 Reimagines What It Means to Use Android
-date: 2024-10-05T18:07:56.276Z
-updated: 2024-10-12T16:53:09.159Z
+date: 2024-10-11T17:47:44.529Z
+updated: 2024-10-18T19:49:30.873Z
 categories:
   - BestProducts
 description: This Article Describes Discover How the Google Pixel 3 Reimagines What It Means to Use Android
@@ -37,6 +37,13 @@ Lifewire / Jonno Hill
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ClearStream 2V Indoor/Outdoor HDTV Antenna
 
 ![ClearStream 2V HDTV Antenna](https://www.lifewire.com/thmb/q2B57F3c717qLOPlnokMF7al1pA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_HeroSquare-b07d5067648049ecb987e39b62796406.jpg)
@@ -68,45 +75,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-## **Design: Glimpsing an ugly future**
-
- The ClearStream 2V Indoor/Outdoor HDTV Antenna looks something like what I would imagine a space prison to look like. It’s far larger than any of the other antennas that I tested, and during every step of the assembly I kept thinking to myself “well that part can’t possibly be necessary.” From the comically long antennas and giant metal grate, to the bulbous hollowed out spheres, there is a lot going on here.
-
- Setup of the ClearStream 2V Indoor/Outdoor HDTV Antenna has by far the most complicated setup of the antennas that I tested in our roundup.
-
- As you’ll see later though, this is because the ClearStream 2V Indoor/Outdoor HDTV Antenna doesn’t really care about looks. Everything is 100% about function. There are, however, a few little elements from a design perspective that help make the ClearStream a somewhat thoughtful device nonetheless. Once assembled, all the parts fit together nicely like a lego set.
-
-## **Setup: Buckle up**
-
- Setup of the ClearStream 2V Indoor/Outdoor HDTV Antenna has by far the most complicated setup of the antennas that I tested in our roundup. The instructions that come included have illustrations that show how everything fits together, but it isn’t outlined in the simplest manner possible.
-
- Like a piece of IKEA furniture, the specific orientation of a lot of parts matter, even if they appear to fit together multiple ways. The manual doesn’t do a fantastic job of explaining this, and I could see it leading to some frustration. Once you get the cage in place and secured, the rest of it comes together fairly easily though.
-
- Once the entire device is assembled, the real work begins in my opinion. Now you have to figure out how and where to mount this beast of an antenna. Antenna’s Direct has you covered here, including a hefty bracket and swiveling mast that will help you mount the antenna to just about anywhere with a flat surface that you don’t mind screwing some bolts into.
-
-## **Performance: Top tier**
-
- The ClearStream 2V Indoor/Outdoor HDTV Antenna might be an unsightly space jail, but it sure gets good reception. I tested the antenna indoors along with the rest of the suite of indoor antennas, and in the same orientation. Perhaps it would have benefited from being placed outside, but in the interest of fairness I used the same method for all.
-
- The ClearStream 2V Indoor/Outdoor HDTV Antenna might be an unsightly space jail, but it sure gets good reception.
-
- In my channel acquisition test, the ClearStream managed 76 channels consistently, far and away the best result from any of the devices I tested. The worst antenna I tested picked up just 47 channels, and the second best, 69\. Needless to say, all the wires, cages, and bulbous plastic spheres are clearly doing something here, because this was the best result I saw.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## **Range: Extensive**
-
- The ClearStream 2V Indoor/Outdoor HDTV Antenna is rated for up to 60 miles. These ratings are generally based on relatively unobstructed paths between the signal and your device. There is a lot less than 60 miles between me and my local TV broadcast source, but if the other results are any indication, the ClearStream has a fighting chance at living up to these claims.
-
-![ClearStream 2V Indoor/Outdoor HDTV Antenna](https://www.lifewire.com/thmb/NoQoQy3-EFUpi1z9oMTpD2JGWHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_04-70f5a48ac9a347d286c71240b85cbc1c.jpg)
-
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
 <span id="1982462">
 					<video width="576" height="240" style="cursor:pointer"
@@ -120,16 +88,55 @@ Lifewire / Jonno Hill
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+## **Design: Glimpsing an ugly future**
+
+ The ClearStream 2V Indoor/Outdoor HDTV Antenna looks something like what I would imagine a space prison to look like. It’s far larger than any of the other antennas that I tested, and during every step of the assembly I kept thinking to myself “well that part can’t possibly be necessary.” From the comically long antennas and giant metal grate, to the bulbous hollowed out spheres, there is a lot going on here.
+
+ Setup of the ClearStream 2V Indoor/Outdoor HDTV Antenna has by far the most complicated setup of the antennas that I tested in our roundup.
+
+ As you’ll see later though, this is because the ClearStream 2V Indoor/Outdoor HDTV Antenna doesn’t really care about looks. Everything is 100% about function. There are, however, a few little elements from a design perspective that help make the ClearStream a somewhat thoughtful device nonetheless. Once assembled, all the parts fit together nicely like a lego set.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## **Setup: Buckle up**
+
+ Setup of the ClearStream 2V Indoor/Outdoor HDTV Antenna has by far the most complicated setup of the antennas that I tested in our roundup. The instructions that come included have illustrations that show how everything fits together, but it isn’t outlined in the simplest manner possible.
+
+ Like a piece of IKEA furniture, the specific orientation of a lot of parts matter, even if they appear to fit together multiple ways. The manual doesn’t do a fantastic job of explaining this, and I could see it leading to some frustration. Once you get the cage in place and secured, the rest of it comes together fairly easily though.
+
+ Once the entire device is assembled, the real work begins in my opinion. Now you have to figure out how and where to mount this beast of an antenna. Antenna’s Direct has you covered here, including a hefty bracket and swiveling mast that will help you mount the antenna to just about anywhere with a flat surface that you don’t mind screwing some bolts into.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## **Performance: Top tier**
+
+ The ClearStream 2V Indoor/Outdoor HDTV Antenna might be an unsightly space jail, but it sure gets good reception. I tested the antenna indoors along with the rest of the suite of indoor antennas, and in the same orientation. Perhaps it would have benefited from being placed outside, but in the interest of fairness I used the same method for all.
+
+ The ClearStream 2V Indoor/Outdoor HDTV Antenna might be an unsightly space jail, but it sure gets good reception.
+
+ In my channel acquisition test, the ClearStream managed 76 channels consistently, far and away the best result from any of the devices I tested. The worst antenna I tested picked up just 47 channels, and the second best, 69\. Needless to say, all the wires, cages, and bulbous plastic spheres are clearly doing something here, because this was the best result I saw.
+
+## **Range: Extensive**
+
+ The ClearStream 2V Indoor/Outdoor HDTV Antenna is rated for up to 60 miles. These ratings are generally based on relatively unobstructed paths between the signal and your device. There is a lot less than 60 miles between me and my local TV broadcast source, but if the other results are any indication, the ClearStream has a fighting chance at living up to these claims.
+
+![ClearStream 2V Indoor/Outdoor HDTV Antenna](https://www.lifewire.com/thmb/NoQoQy3-EFUpi1z9oMTpD2JGWHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_04-70f5a48ac9a347d286c71240b85cbc1c.jpg)
+
+ Lifewire / Jonno Hill
+
 ## **Price: Performance doesn’t come cheap**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna has a list price of $120 and a 90-day rolling average price on Amazon of $83\. This is significantly more than any of the other antennas I tested, some of which could be had for around $25\. If you live far enough that you need a better performing antenna, however, it could easily be worth every penny. I would only caution buyers to make sure they really do need this performance before pulling the trigger on this very large antenna.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **ClearStream 2V Indoor/Outdoor HDTV Antenna vs 1byone Digital Amplified Indoor HD TV Antenna**
 
@@ -141,13 +148,6 @@ Lifewire / Jonno Hill
 
 **Great performance for those that need it.**
  The ClearStream 2V Indoor/Outdoor HDTV Antenna isn’t the cheapest or best-looking antenna on the market, but it gets the job done better than any of the other antennas we tested. Buyers who know they need an antenna with better range and performance will find this to be a noticeable bump from cheaper indoor antennas.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,20 +175,18 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-practical-steps-to-enhance-videos-with-device-based-filtering/"><u>[New] Practical Steps to Enhance Videos with Device-Based Filtering</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>[Updated] 2024 Approved Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[Updated] Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1-unveiling-the-truth-why-investing-your-energy-in-streaming-show-reviews-might-be-pointless/"><u>1. Unveiling the Truth: Why Investing Your Energy in Streaming Show Reviews Might Be Pointless</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/dvd-ipad-5/"><u>無料DVDコンバートソフトを選ぶ iPadユーザーへ 限定ベスト5推薦！</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/avoiding-misconceptions-with-nvidias-innovative-rtx-4070-graphics-card/"><u>Avoiding Misconceptions with NVIDIA’s Innovative RTX 4070 Graphics Card</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-gaming-performance-with-these-5-easy-techniques-to-check-frames-per-second-on-pc/"><u>Boost Gaming Performance with These 5 Easy Techniques to Check Frames per Second on PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boosting-gameplay-with-better-frame-rates-a-guide-to-getting-the-most-out-of-your-graphics-cards-fps/"><u>Boosting Gameplay with Better Frame Rates: A Guide to Getting the Most Out of Your Graphics Card's FPS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-tablet-vs-ereader-my-decades-of-manga-reading-experience-revealed/"><u>Comparing Tablet Vs. EReader: My Decades of Manga Reading Experience Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-mapmyride-stack-up-a-detailed-cycling-route-review/"><u>How Does MapMyRide Stack Up? A Detailed Cycling Route Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-google-pixel-8-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Google Pixel 8 Phone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/must-take-online-workshops-from-linkedin-learnings-2024-lineup/"><u>Must-Take Online Workshops From LinkedIn Learning's 2024 Lineup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/skype-symphony-a-roundup-of-high-quality-ringtones-for-2024/"><u>Skype Symphony A Roundup of High-Quality Ringtones for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-next-gen-retail-experience-design/"><u>[New] In 2024, Next-Gen Retail Experience Design</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-obs-and-zoom-simplified-integration-guide/"><u>[Updated] Mastering OBS & Zoom Simplified Integration Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-your-rl-gameplay-videos-for-2024/"><u>[Updated] Optimizing Your RL Gameplay Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>2024 Approved In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-expectations-analyzing-the-coolpix-l340-review/"><u>Beyond Expectations? Analyzing the Coolpix L340 Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-netgears-powerline-extender-with-1200mbps-balancing-size-and-performance/"><u>Comprehensive Analysis of Netgear's Powerline Extender with 1200Mbps - Balancing Size and Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dont-miss-out-a-closer-look-at-the-remarkable-features-of-oneplus-nord-n10-5g/"><u>Don't Miss Out: A Closer Look at the Remarkable Features of OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-steam-issues-how-to-get-windows-10-games-running-smoothly-again/"><u>Fix Your Steam Issues: How to Get Windows 10 Games Running Smoothly Again</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-examined-exceptional-photography-capabilities-in-an-impressive-device/"><u>Huawei P20 Pro Examined: Exceptional Photography Capabilities in an Impressive Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-jaco-smartpro-a-powerful-space-saving-solution-for-digital-tire-inflation/"><u>In-Depth Look at the Jaco SmartPro: A Powerful, Space-Saving Solution for Digital Tire Inflation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rotibox-wireless-earmuffs-assessment-the-ultimate-mix-of-cozy-fashion-and-solid-sound-quality/"><u>Rotibox Wireless Earmuffs Assessment: The Ultimate Mix of Cozy Fashion & Solid Sound Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-nulaxy-km18-bluetooth-car-stereo-transmission-a-tried-and-true-model-analyzed/"><u>The Ultimate Guide to Nulaxy KM18 Bluetooth Car Stereo Transmission - A Tried-and-True Model Analyzed</u></a></li>
 </ul></div>
 

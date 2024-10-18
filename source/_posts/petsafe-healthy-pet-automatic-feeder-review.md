@@ -1,7 +1,7 @@
 ---
 title: PetSafe Healthy Pet Automatic Feeder Review
-date: 2024-08-22T17:46:44.343Z
-updated: 2024-08-23T17:46:44.343Z
+date: 2024-10-14T20:58:07.453Z
+updated: 2024-10-18T20:13:49.886Z
 categories:
   - BestProducts
 description: This Article Describes PetSafe Healthy Pet Automatic Feeder Review
@@ -42,6 +42,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
 ![Jaco SmartPro Digital Tire Inflator](https://www.lifewire.com/thmb/fTLjCd9CqbSCdmXD-XxJjBhyfSw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JacoTireInflator_HeroSquare-3363a32b2cad4c91b4662ed6f6a93ce1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jeffrey Daniel Chadwick
 
 [View On Amazon](https://www.amazon.com/JACO-SmartPro-Digital-Tire-Inflator/dp/B015VXWZ9O/?tag=lifewire-onsite-prod-20&ascsubtag=4776811%7Cnab7c8e5e1f6e4fd2a2938251a6b78a9604%7CB015VXWZ9O)
@@ -64,9 +71,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## **Design and Features: Simple, compact, intuitive**
 
  At just 7.5 inches wide, 2.5 inches tall and 6 inches long, this is the smallest, most compact portable tire inflator we tested. When it’s in its carrying case, it only weighs 2 pounds, 31 ounces. Even small children should be able to carry it. If you need a portable tire inflator but don't have a lot of space, this pump is exactly what you want.
@@ -92,8 +96,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Up and running in less than three minutes**
 
  Jaco provides a brief, but informative user manual tucked in the carrying case. Despite how intuitive this pump is to use, you should take five minutes to read the whole thing. During testing, we timed how long it takes to get out of your driver’s seat, retrieve the pump from the trunk, connect it to power, attach it to an under-inflated tire, set the pressure and start the pump. On average, the whole process took about 1 minute, 30 seconds.
@@ -103,12 +111,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Reliable across the highways of America**
 
  In order to recreate the situations that you’re most likely to use a portable tire inflator, we took the models we tested on a long road trip through the states of Nevada, Utah, and Wyoming. When we stopped at rural rest areas and gas stations along the way, we deflated the tires on our car to 20 PSI—the point where they are dangerously low to drive on.
@@ -123,18 +131,12 @@ No advertising on the website.
 
  That also shouldn’t be an issue because the pump automatically cycles down after 30 minutes of continuous use, and you’ll have to wait until it cools down to use it again. This shouldn't be a problem, since you can conceivably fill all four of your car’s tires in under 10 minutes. You’d have to inflate something exceptionally large to run this pump for that long.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## **Price: On the expensive end, but worth it for the peace of mind**
 
  With a list price of $90, this is the most expensive portable tire inflator we tested, but it’s typically on sale for half the price. That makes it more reasonable, especially if you need a portable compressor but are really tight on space. Or if you want to ensure maximum safety and visibility at night. But it certainly isn’t a budget model like the Audew Portable Air Compressor Pump.
 
  It’s impossible to predict how long a product will last after just a few days or using it, however, the warranty period is a good indicator of the long-term durability. Jaco offers a lifetime warranty on this compressor, so it should last a really long time, or at least until you forget it’s still under warranty.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## **Jaco SmartPro Digital Tire Inflator vs. Kensun Portable Tire Inflator**
 
  We tested this the SmartPro Digital Tire Inflator side-by-side with the Kensun Portable Tire Inflator. Although the Kensun is about twice as large as the Jaco, they’re designed to do the same thing. For example, they both draw power from your car’s 12V socket, but if you want to get away from your car, the Kensun comes with an AC power cord that you can plug into a wall socket. This makes the Kensun a much more versatile pump. And while the built-in light on the Kensun provides great illumination at night, it lacks the hazard and emergency lights you get with Jaco.
@@ -148,8 +150,12 @@ No advertising on the website.
  The Jaco SmartPro Digital Tire Inflator is a great addition to the jumper cables and triangle reflectors in your trunk. Its focus on safety, portability, and accuracy makes it very attractive for people looking to be prepared, and you can usually find it on sale for a reasonable price.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  SmartPro Digital Tire Inflator Pump
@@ -167,8 +173,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +180,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-quick-adaptation-video-size-to-mac-screen-proportion/"><u>[New] 2024 Approved Quick Adaptation Video Size to Mac Screen Proportion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-visionary-layout-overhauls/"><u>[New] 2024 Approved Visionary Layout Overhauls</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-grab-your-favorite-facebook-videos-today-for-2024/"><u>[New] Grab Your Favorite Facebook Videos Today for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-effortlessly-incorporate-images-on-instagram/"><u>[Updated] Effortlessly Incorporate Images on Instagram</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-overwatch-an-engaging-and-intense-team-shooter-experience/"><u>Exploring Overwatch: An Engaging & Intense Team Shooter Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-capabilities-of-the-large-screened-acer-chromebook-your-essential-review-resource/"><u>Exploring the Capabilities of the Large-Screened Acer Chromebook - Your Essential Review Resource</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/family-fun-with-the-holy-stone-remote-control-race-car-series-a-comprehensive-review/"><u>Family Fun with the Holy Stone Remote Control Race Car Series - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fortnite-review-a-comeback-with-exhilarating-gameplay-in-the-latest-season/"><u>Fortnite Review: A Comeback with Exhilarating Gameplay in the Latest Season</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/godfall-game-analysis-why-sonys-ps5-exclusive-falls-short/"><u>Godfall Game Analysis: Why Sony's PS5 Exclusive Falls Short</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-8t-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 8T 5G to iPhone 14/15 | Dr.fone</u></a></li>
+</ul></div>
 

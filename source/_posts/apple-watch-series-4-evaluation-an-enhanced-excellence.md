@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Series 4 Evaluation: An Enhanced Excellence"
-date: 2024-08-22T17:48:20.785Z
-updated: 2024-08-23T17:48:20.785Z
+date: 2024-10-11T20:04:06.017Z
+updated: 2024-10-18T17:16:34.301Z
 categories:
   - BestProducts
 description: "This Article Describes Apple Watch Series 4 Evaluation: An Enhanced Excellence"
@@ -69,19 +69,12 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac breaks free of these norms by using a split, modular design that features two keyboard halves, one for each hand, connected via a 9 or 20-inch cable depending upon the chosen model. These pieces were designed with comfort in mind. They may be used separately or connected with a pivot tether at the top of the two halves. This allows you the opportunity to customize your setup and maximize your comfort, whether that’s by placing the halves closer together or further apart.
@@ -93,8 +86,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
@@ -106,8 +103,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Features: Efficient hotkeys once you get used to them**
 
  Better than its modular design are the easy-to-use hotkeys on the left-hand side of the keyboard. These make it simple to copy, paste, cut, go back or forward in a browser, or even switch between the keyboard’s connected devices smoothly and efficiently. They take a little getting used to but once you get the hang of it using them is a breeze.
@@ -117,8 +118,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
@@ -129,11 +140,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
  Not all keyboards are created equal, and while the split, modular design offered by the Kinesis Freestyle2 Blue creates wonderful customization options, there’s something to be said for having a full keyboard. For Apple users willing to take a leap into Microsoft products, the Microsoft Sculpt Ergonomic Keyboard shines through as an excellent option.
@@ -168,14 +183,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * Compatibility  OS X 10.4 and newer, iOS devices
 * Key Switch  Peak force: 44 grams; activation force: 35 grams; travel distance: 3.9 mm; switch type: rubber dome, membrane
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +196,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/-comparative-analysis-androids-finest-video-downloaders-for-2024/"><u>[New] A Comparative Analysis Android's Finest Video Downloaders for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ios-leading-ps2-simulators-top-picks/"><u>2024 Approved IOS Leading PS2 Simulators Top Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-campfire-fun-infusing-dandd-with-gpts-creative-guidance/"><u>Elevate Campfire Fun: Infusing D&D with GPT's Creative Guidance</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-strategy-stories-the-leading-10-rogue-classics/"><u>In 2024, Strategy Stories The Leading 10 Rogue Classics</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-15-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 15</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-honor-100-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Honor 100 has been deleted</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-of-kootek-laptop-de-fogger-examined-an-impressive-effective-option/"><u>The Best of Kootek Laptop De-Fogger Examined - An Impressive, Effective Option</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-process-requires-an-inert-shielding-gas-like-argon-or-helium-to-protect-the-weld-pool-from-contamination/"><u>The Process Requires an Inert Shielding Gas Like Argon or Helium to Protect the Weld Pool From Contamination.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-revolution-in-reading-an-expert-analysis-of-the-amazon-kindle-paperwhite-201-cufflinks-or-a-family-heirloom-passed-down-through-generations-this-will-he138/"><u>The Revolution in Reading: An Expert Analysis of the Amazon Kindle Paperwhite (201 Cufflinks, or a Family Heirloom Passed Down Through Generations. This Will Help Convey Its Sentimental Value to Potential Buyers.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-evaluation-of-the-amazon-kindle-paperwhite-2018-revolutionizing-how-you-read-books/"><u>The Ultimate Evaluation of the Amazon Kindle Paperwhite 2018: Revolutionizing How You Read Books</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-and-reviewing-apples-new-4k-streaming-device-third-generation/"><u>The Ultimate Guide to Using and Reviewing Apple's New 4K Streaming Device (Third Generation)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-iseebell-video-doorbells-for-less-than-50/"><u>Top Rated ISeeBell Video Doorbells for Less Than $50!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-new-oculus-quest-top-of-the-line-wristband-extra-power-source-and-handy-storage-case-a-complete-review/"><u>Unboxing the New Oculus Quest 지이템스트러피: Top-of-the-Line Wristband, Extra Power Source, and Handy Storage Case - A Complete Review!</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-lava-yuva-3-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Yuva 3 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

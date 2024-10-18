@@ -1,7 +1,7 @@
 ---
 title: Experience Seamless, Ultra-Fast Wi-Fi Coverage with the Orbi Whole Home Mesh System Reviewed Here
-date: 2024-08-22T17:45:46.711Z
-updated: 2024-08-23T17:45:46.711Z
+date: 2024-10-11T21:40:43.161Z
+updated: 2024-10-18T20:48:32.506Z
 categories:
   - BestProducts
 description: This Article Describes Experience Seamless, Ultra-Fast Wi-Fi Coverage with the Orbi Whole Home Mesh System Reviewed Here
@@ -39,9 +39,23 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/_gP-SgRbIGXPYdlmqqhNJSxhmSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -69,6 +83,13 @@ Lifewire / Erika Rawes
 
  The[Netgear](https://www.lifewire.com/best-netgear-routers-4159862) Nighthawk RAX120 is supposed to provide lightning-fast speeds while serving as one of the[best long-range wireless routers](https://www.lifewire.com/best-long-range-routers-4122554) currently on the market. Fully loaded with[Wi-Fi 6 technology](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , smart home connectivity, and a slew of other features, the AX12 should be an ideal router for small businesses, very large homes, or for homes with multiple devices. I tested the Netgear Nighthawk RAX120 to see how well it performs in the real world.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Batman’s router**
 
  The Netgear Nighthawk RAX120 has a futuristic design—angular, with clean lines. It looks like a cross between a spaceship and the Batmobile. It’s matte black and rectangular, but instead of the multiple antennas you’d typically see protruding from the top of a Nighthawk router, it has two wing-like extensions that come from each side.
@@ -79,18 +100,12 @@ Lifewire / Erika Rawes
 
 Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Quick and easy**
 
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
 
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Connectivity: Superfast speeds**
 
  The RAX120 is a workhorse. It's classified as a[dual-band router](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) , but there's also a[tri-band](https://www.lifewire.com/best-long-range-routers-4122554) version available (the RAX200). The RAX120 supports 802.11ax, which is also known as Wi-Fi 6\. Although Wi-Fi 6 is still relatively new, the addition of Wi-Fi 6 future-proofs the RAX120 to a certain degree. It allows for faster speeds, better battery life on your Wi-Fi 6 compatible and IoT devices, and less congestion on your network.
@@ -103,9 +118,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## **Network performance: Stellar**
 
  The Nighthawk RAX120 indicates top speeds of 1,200 Mbps on the 2.4Ghz band and 4,800 Mbps on the 5Ghz band. My Internet speed maxes out at 500 Mbps. I have about 50 connected devices, more than half of which are smart home devices like smart light switches, smart appliances, security cameras, and smart speakers and displays. The RAX120 had no problem managing my numerous smart devices, nor did I experience any lag or connectivity issues on streaming and gaming devices. I simultaneously ran a gaming computer, two playstations, and two FireTVs without the connection missing a beat.
@@ -118,9 +130,6 @@ Lifewire / Erika Rawes
 
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Key Features: Quality hardware, lacks antivirus**
 
  Under the hood, the Nighthawk RAX120 has a 64-bit[Quad-core](https://www.lifewire.com/multiple-core-processors-832453) 2.2GHz processor. The quality hardware helps ensure stable and reliable performance. The router has two USB 3.0 storage ports on the back for connecting an external hard drive.
@@ -134,19 +143,32 @@ Lifewire / Erika Rawes
  The router has two USB 3.0 storage ports on the back for connecting an external hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Nighthawk App**
 
  In the Nighthawk app, you can change your router’s settings, create a guest network, control your router remotely, manage your devices individually, and you can test your network speeds. However, when testing my network speeds, they consistently clock much faster on the Nighthawk app than on other platforms like Ookla and VeeApps.
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Expensive**
 
@@ -185,14 +207,11 @@ Lifewire / Erika Rawes
 * Processor  AX optimized powerful 64-bit Quad-core 2.2GHz processor
 * Range  3,500 square feet
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -201,4 +220,23 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/yakuza-like-a-dragon-review-the-essential-role-playing-journey-you-need-to-embark-on/"><u>'Yakuza: Like a Dragon' Review - The Essential Role-Playing Journey You Need to Embark On</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-decoding-youtubes-algorithm-behind-prominent-comments/"><u>[New] 2024 Approved Decoding YouTube's Algorithm Behind Prominent Comments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-erasing-your-yahoo-email-account-forever/"><u>Complete Guide: Erasing Your Yahoo Email Account Forever</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fix-for-ieframedll-errors-tips-and-techniques-that-work/"><u>Comprehensive Fix for Ieframe.dll Errors: Tips and Techniques That Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961303149-effortless-installation-guide-get-your-wacom-intuos-pro-set-up-on-windows-10/"><u>Effortless Installation Guide: Get Your Wacom Intuos Pro Set Up on Windows 10!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723010072897-exceptional-signal-quality-with-clearstream-eclipse-antenna-streamlined-design-and-easy-setup/"><u>Exceptional Signal Quality with ClearStream Eclipse Antenna - Streamlined Design & Easy Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/farming-simulator-22-boot-problems-heres-how-to-fix-them/"><u>Farming Simulator 22 Boot Problems? Here's How to Fix Them!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/junior-road-rules-and-racer-revelry/"><u>Junior Road Rules & Racer Revelry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/luminosity-lift-top-two-in-one-techniques-for-iphone-videos/"><u>Luminosity Lift Top Two-in-One Techniques for iPhone Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-device-drivers-warnings-in-windows-7-setup-guide/"><u>Troubleshooting the Missing Device Drivers Warnings in Windows 7 Setup [Guide]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-classic-records-at-lp120xusb-turntable-review/"><u>Unleashing Classic Records - AT-LP120XUSB Turntable Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-internet-potential-with-the-netgear-nighthawk-x10-ad7200-a-complete-performance-review/"><u>Unleashing Internet Potential with the Netgear Nighthawk X10 AD7200: A Complete Performance Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unmatched-performance-in-your-lap-how-the-new-ipad-pro-2021-m1-redefines-productivity/"><u>Unmatched Performance in Your Lap: How the New iPad Pro (2021, M1) Redefines Productivity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-final-cut-pro-x-power-user-master-40-time-saving-shortcuts/"><u>Updated In 2024, Final Cut Pro X Power User Master 40 Time-Saving Shortcuts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/user-experience-breakdown-of-zmis-portable-20000mah-battery-pack/"><u>User Experience Breakdown of ZMI's Portable 20,000mAh Battery Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xiaomis-budget-friendly-powerhouse-an-in-depth-look-at-the-mi-smart-band-4-review/"><u>Xiaomi's Budget-Friendly Powerhouse: An In-Depth Look at the Mi Smart Band 4 Review</u></a></li>
+</ul></div>
 

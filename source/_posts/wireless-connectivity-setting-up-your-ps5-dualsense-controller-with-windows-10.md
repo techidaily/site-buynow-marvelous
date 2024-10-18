@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10"
-date: 2024-10-08T22:00:11.279Z
-updated: 2024-10-12T19:47:23.068Z
+date: 2024-10-14T17:02:53.139Z
+updated: 2024-10-18T17:19:51.185Z
 tags:
   - games
   - tv
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 * [Pairing and Configuring a PS5 Controller for Steam](https://buynow-info.techidaily.com/navigating-photoscapes-features-a-detailed-analysis-of-free-high-quality-image-editing-software/)
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use a USB to connect your PS5 controller to a Windows 10 PC. It's possible to use Bluetooth, but the connection isn't as reliable.
@@ -33,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 * Outside of Steam, use the third-party apps DualSenseX or ReWASD to connect and configure your PS5 controller.
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From the Control Panel menu, click on "Devices and Printers."
@@ -56,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
@@ -96,13 +90,34 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
@@ -112,30 +127,9 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -164,18 +158,20 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-flip-your-video-frames-effortlessly-with-vlc/"><u>[New] 2024 Approved Flip Your Video Frames Effortlessly with VLC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-top-10-4k-video-converters-you-need-for-2024/"><u>Free and Fabulous The Top 10 4K Video Converters You Need for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-youtube-manages-content-post-upload/"><u>In 2024, How YouTube Manages Content Post-Upload</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-top-15-masterpieces-in-stop-motion-cinema-history/"><u>In 2024, Top 15 Masterpieces in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/obs-studio-vs-fraps-deciding-the-ultimate-screen-grab-software-for-2024/"><u>OBS Studio vs Fraps Deciding the Ultimate Screen Grab Software for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-latest-echo-dot-gen-4-fresh-design-and-enhanced-features/"><u>Review of the Latest Echo Dot (Gen 4): Fresh Design and Enhanced Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-chromecast-with-google-tv-the-new-contender-in-smart-streaming-devices/"><u>Review: Chromecast with Google TV – The New Contender in Smart Streaming Devices!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/roll-out-and-learn-with-the-amazing-dash-from-wonder-workshop/"><u>Roll Out and Learn with the Amazing Dash From Wonder Workshop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-active-2-unveiled-superior-connectivity-precision-controls-and-innovative-insight-features/"><u>Samsung Galaxy Watch Active 2 Unveiled: Superior Connectivity, Precision Controls & Innovative Insight Features</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-walkthrough-how-to-get-your-hands-on-the-windows-wntez-11-for-arm-using-an-iso-image/"><u>Step-by-Step Walkthrough: How to Get Your Hands on the Windows ˈwɪntəʊz 11 for ARM Using an ISO Image</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/willful-m98-review-an-affordable-bluetooth-headset-for-truckers/"><u>Willful M98 Review: An Affordable Bluetooth Headset For Truckers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero-vs-hero-upgraded-edition/"><u>[Updated] Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-guide-to-excellent-voice-recorders-for-macs/"><u>[Updated] In 2024, Guide to Excellent Voice Recorders for Macs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-fixes-enhancing-colors-with-ps-tools/"><u>[Updated] Quick Fixes Enhancing Colors with PS Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-securing-footage-techniques-for-obscuring-sensitive-info-for-2024/"><u>[Updated] Securing Footage Techniques for Obscuring Sensitive Info for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-convert-talk-to-text-the-costless-alternative/"><u>2024 Approved Convert Talk to Text The Costless Alternative</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-live-streaming-with-phone-webcams-and-filming-hacks-for-2024/"><u>Elevate Your Live Streaming with Phone Webcams and Filming Hacks for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhanced-gaming-shares-on-steam-platform/"><u>Enhanced Gaming Shares on Steam Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-streaming-services-with-unique-value-added-features/"><u>Enhancing Streaming Services with Unique Value-Added Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-pc-gaming-in-hd-connect-your-steam-deck-to-the-tv-with-an-easy-docking-solution/"><u>Experience PC Gaming in HD: Connect Your Steam Deck to the TV with an Easy Docking Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-wonders-of-web-prehistory-with-googles-new-lego-inspired-chrome-dino-collection/"><u>Experience the Wonders of Web Prehistory with Google's New Lego-Inspired Chrome Dino Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-top-notch-affordable-3d-fun-why-refurbished-nintendo-3ds-offers-unbeatable-value/"><u>Experience Top-Notch, Affordable 3D Fun - Why Refurbished Nintendo 3DS Offers Unbeatable Value</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-disconnect-understanding-why-modern-gamers-overlook-vintage-video-game-titles/"><u>Exploring the Disconnect: Understanding Why Modern Gamers Overlook Vintage Video Game Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-world-of-close-up-imagery-understanding-macro-photography/"><u>Exploring the World of Close-Up Imagery: Understanding Macro Photography</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Imperator: Rome - A Critical Analysis of Building or Ruining an Empire"
-date: 2024-08-22T17:47:31.746Z
-updated: 2024-08-23T17:47:31.746Z
+date: 2024-10-17T20:40:26.467Z
+updated: 2024-10-18T20:29:48.955Z
 categories:
   - BestProducts
 description: "This Article Describes Imperator: Rome - A Critical Analysis of Building or Ruining an Empire"
@@ -73,6 +73,13 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/radDS_2IRuzjTlZxUS5og2a3PIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Top_04-b051e3660efc406ab97f92df654d3762.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Amazingly light, but not wholly convincing**
@@ -99,13 +106,16 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Setup Process: Just follow the directions**
 
  There's little reason to worry about getting the LG Gram 15.6-inch laptop up and running quickly. It has Windows 10 pre-installed, so you'll simply follow the onscreen prompts to enter your Wi-Fi info, check for updates, select a few options, and ultimately find yourself ready to roll on the desktop. It shouldn't take more than a handful of minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display: Large and capable enough**
 
@@ -117,19 +127,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/TFbt9G36hk5JyrBL8cIdIuYQ66E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Keyboard_03-fd7e355ac5944f12a8107746d0afbf24.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Solid power for everyday tasks**
 
@@ -147,6 +152,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network: Connects as expected**
 
  The LG Gram had no problem connecting to a few different networks, including a home Wi-Fi network, the Google Wi-Fi network at Starbucks, and a mobile hotspot. The connection always seemed speedy and downloads ran at a steady clip. Testing it on a home Wi-Fi network during peak evening hours, we saw a download speed of about 30Mbps and an upload speed of 13Mbps. We tested the network on an iPhone XS Max immediately after and saw comparable speeds there, as well. You can connect to both 2.4Ghz and 5Ghz networks with ease.
@@ -155,14 +167,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/AhDZOG33ttJ8LfKQnzvHO7K-S8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Closed_02-d40445064b4945729278aeae3d8ae1c0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## **Battery: Seriously amazing**
 
  The battery is undoubtedly one of the key highlights of the LG Gram 15.6-inch (2018) experience. This massive 72Wh cell is estimated to provide upwards of 19 hours of uptime, according to LG—but as is usually the case with[laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) , that estimate isn't reflective of typical use cases. Even so, with max brightness, the fact that we could get about half that amount still makes for a long-lasting experience.
@@ -171,19 +177,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **Software: Hello, Windows (but no Windows Hello)**
 
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
 
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Solidly priced, considering its strengths**
 
  Originally priced at $1,249, the entry-level LG Gram 15.6-inch (2018) can now be found for about $999 as of this writing. LG has rolled out newer 2019 versions that look identical and have the same core features, but upgrade to the latest generation of Intel Core processors. You should see a little bit more speed in benchmark testing, although it's unclear whether there's any noticeable difference during regular usage.
@@ -191,6 +190,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  In any case, $999 is a more appealing value for a computer that doesn't pack as much polish as some rivals, but wins out when it comes to elements like battery life, screen size, and minimal weight. For some users, that's sure to be an appealing combination. Note that you can spend quite a bit on upgrades with the LG Gram 15.6-inch, including opting for versions with a faster Intel Core i7 processor, additional RAM, a fingerprint sensor, and even a touch display if desired.
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/5yzhAkphyYfWOMofqawuktHJlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-v.-Surface-comparison-4946178bf2e94230820d2b19d2fb7197.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -209,8 +215,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  There are better all-around ultraportable laptops in this price range, and we had some issues with the feeling of the build, the keyboard layout, and the merely good display quality. However, if you're in the market for an incredibly light laptop with a big screen and a battery that lasts and lasts, it's hard to ignore the LG Gram 15.6-inch (2018). You get a very capable computer for the price, and it's a notebook that can legitimately last through a full workday even at max brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Gram 15.6-inch (2018)
@@ -228,14 +238,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * Battery Capacity  72 Wh
 * Ports  1x USB-C, 3x USB-3, HDMI, microSD, 3.5mm headphone port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -244,4 +251,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-shaping-narratives-through-text-effects/"><u>2024 Approved Shaping Narratives Through Text Effects</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/audews-handy-air-compressor-unveiling-the-power-of-a-miniature-marvel/"><u>Audew's Handy Air Compressor: Unveiling the Power of a Miniature Marvel</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>In 2024, Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-guide-unravel-the-secrets-of-stellaris-galactic-colonization-and-warfare/"><u>In-Depth Guide: Unravel the Secrets of Stellaris - Galactic Colonization & Warfare</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-strategies-for-combining-obs-with-zoom-platform/"><u>Innovative Strategies for Combining OBS with Zoom Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-k51-smartphone-analysis-stunning-design-marred-by-sluggish-cpu/"><u>LG K51 Smartphone Analysis: Stunning Design Marred by Sluggish CPU</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/logitech-g533-review/"><u>Logitech G533 Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-auto-correct-six-effective-solutions-to-improve-typing-accuracy/"><u>Mastering iPhone Auto-Correct: Six Effective Solutions to Improve Typing Accuracy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/must-consider-points-to-keep-in-mind-when-shopping-for-vr-equipment/"><u>Must Consider Points to Keep in Mind when Shopping for VR Equipment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-marshall-anc-review-chic-design-superior-audio/"><u>New Marshall ANC Review: Chic Design, Superior Audio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/on-the-go-literacy-lovers-guide-comprehensive-kobo-clara-hd-reader-evaluation/"><u>On-the-Go Literacy Lover's Guide: Comprehensive Kobo Clara HD Reader Evaluation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722868174752-resolving-noise-issues-in-your-stereo-system-restore-the-sound/"><u>Resolving Noise Issues in Your Stereo System - Restore the Sound</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-creating-a-windows-11-uefi-bootable-installation-media/"><u>Step-by-Step Guide: Creating a Windows 11 UEFI Bootable Installation Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-budget-conscious-consumers-guide-to-the-superior-lg-24lh4830-smart-tv/"><u>The Budget-Conscious Consumer's Guide to the Superior LG 24LH4830 Smart TV</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-quick-guide-to-open-sticky-notes/"><u>Windows 11: Quick Guide to Open Sticky Notes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-music-composition-techniques-for-2024/"><u>YouTube Music Composition Techniques for 2024</u></a></li>
+</ul></div>
 

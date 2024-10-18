@@ -1,7 +1,7 @@
 ---
 title: "Linksys EA8300 Router Review: Intelligently Steer Data to Many Devices"
-date: 2024-08-15T09:20:19.163Z
-updated: 2024-08-16T09:20:19.163Z
+date: 2024-10-16T20:44:40.124Z
+updated: 2024-10-18T21:42:21.944Z
 categories:
   - BestProducts
 description: "This Article Describes Linksys EA8300 Router Review: Intelligently Steer Data to Many Devices"
@@ -43,8 +43,12 @@ Lifewire / Erika Rawes
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -66,6 +70,13 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -73,9 +84,6 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -103,6 +111,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
@@ -110,8 +125,18 @@ Lifewire / Erika Rawes
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: TP-Link Tether app**
 
  The C80 is a cinch to set up in less than five minutes, with guest networks created and all. The TP-Link Tether app is one of my favorite router companion apps. The interface is super clean, and you can see exactly what devices are on each of your network bands. You can even have the app alert you when a new device signs into your network.
@@ -125,16 +150,16 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
  The Archer A9 is another affordable offering from TP-Link, with a price tag of under $100\. However, the A9 has a USB port and is compatible with Alexa and[IFTTT](https://www.lifewire.com/what-is-ifttt-4172417) —features the C80 lacks. I recently tested the A9 as well. The A9 offers more in the way of features, but I was able to get faster speeds and better coverage out of the C80\. If you want a router that offers a more comprehensive experience, go with the A9\. If you just want an affordable, speedy router that will maintain a signal at long range, you’ll probably be happy with the C80.
@@ -145,9 +170,6 @@ Lifewire / Erika Rawes
 
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
@@ -174,8 +196,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +203,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-purchasing-asmr-microphones-for-2024/"><u>[New] Ultimate Guide to Purchasing ASMR Microphones for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unleash-the-power-of-expression-emojis-in-your-discord-statues/"><u>[Updated] Unleash the Power of Expression Emojis in Your Discord Statues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-harnessing-the-power-of-free-windows-video-tools/"><u>2024 Approved Harnessing the Power of Free Windows Video Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-details-expert-review-of-the-durable-kobo-libra-h2o/"><u>Dive Into the Details: Expert Review of the Durable Kobo Libra H2O</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-superior-capabilities-of-rings-video-doorbell-pro/"><u>Expert Insights on the Superior Capabilities of Ring's Video Doorbell Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-15-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 15 Pro to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list/"><u>In 2024, Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/introducing-a-new-era-of-at-home-entertainment-with-klipschs-flexus-200/"><u>Introducing a New Era of At-Home Entertainment with Klipsch’s Flexus 200</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/justification-why-choosing-an-ipad-makes-sense-financially/"><u>Justification: Why Choosing an iPad Makes Sense Financially</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kooteks-high-performance-notebook-chiller-assessment-reliable-heat-relief/"><u>Kootek's High-Performance Notebook Chiller Assessment: Reliable Heat Relief</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-k51-review-premium-looks-held-back-by-a-slow-processor/"><u>LG K51 Review: Premium Looks Held Back By a Slow Processor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revamping-the-writers-toolkit-8-ai-innovations-explored/"><u>Revamping the Writer's Toolkit: 8 AI Innovations Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/solution-rank-ligand-is-a-protein-essential-for-the-formation-function-and-survival-of-osteoclasts-inhibitors-like-denosumab-block-this-pathway-reducing-bon143/"><u>Solution: RANK Ligand Is a Protein Essential for the Formation, Function, and Survival of Osteoclasts. Inhibitors Like Denosumab Block This Pathway, Reducing Bone Resorption and Providing Relief From Osteolytic Lesions Associated with Metastatic Cancer.</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-undetected-strategies-for-dodging-shadowbanned-content/"><u>The Undetected Strategies for Dodging Shadowbanned Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-wi-fi-signal-boosters-for-superior-coverage/"><u>Top Wi-Fi Signal Boosters for Superior Coverage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-academic-savings-a-guide-to-securing-your-dell-educational-price-cut/"><u>Unlocking Academic Savings: A Guide to Securing Your Dell Educational Price Cut</u></a></li>
+</ul></div>
 

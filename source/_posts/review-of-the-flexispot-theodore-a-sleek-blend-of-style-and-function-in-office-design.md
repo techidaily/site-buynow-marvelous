@@ -1,7 +1,7 @@
 ---
 title: "Review of the Flexispot Theodore: A Sleek Blend of Style & Function in Office Design"
-date: 2024-08-22T17:50:00.726Z
-updated: 2024-08-23T17:50:00.726Z
+date: 2024-10-17T16:28:45.426Z
+updated: 2024-10-18T16:35:29.503Z
 categories:
   - BestProducts
 description: "This Article Describes Review of the Flexispot Theodore: A Sleek Blend of Style & Function in Office Design"
@@ -37,6 +37,13 @@ Lifewire / Sascha Brodsky
 
 5
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple MacBook Pro 16-inch (2021)
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/Bj4JU3ddfkgYppYQYoy1GmCukCA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-hero-8413a7aa67ca443bb241da703c1025b2.jpg)
@@ -68,9 +75,6 @@ Lifewire / Sascha Brodsky
 
  I’ve been using Apple portables ever since the Powerbook 100 was released in 1991\. After spending several weeks with the new MacBook Pro, it offers the responsiveness previously associated only with iPads and iPhones, matched with the refined form factor of Apple’s best laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Back to the future
 
  On the surface, the new MacBook Pro doesn’t look radically different from Apple’s previous Pro laptop models. It’s got a similar aluminum case, and the screen is about the same size as the 2019 model.
@@ -78,6 +82,19 @@ Lifewire / Sascha Brodsky
  However, the tiny details make all the difference in the design of the new MacBook. The Pro just feels nicer than any laptop Apple has ever made in many different ways starting with the incredibly smooth hinge mechanism when you open it up.
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/dFndxams3xUoua0_gkYqRycgBdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-1-db37ffedba744e8eb2070780c0d8de10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Sascha Brodsky
 
@@ -95,19 +112,30 @@ Lifewire / Sascha Brodsky
 
  Just above the keyboard is another area where Apple has decided to go backward. The company has ditched the Touch Bar, a strip that allows touch access to software functions. As someone who used the Touch Bar for several years and never found a use for it, I say good riddance.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Trackpad: Big and bold
 
  There’s nothing not to like about the trackpad on the new MacBook Pro. It’s big and responsive, and you won’t notice it after a while, which is all you need in an input device.
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/tD3rxlw9zH5xufV5ztJIZyrJc3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-3-db6300639d8049d1862d0e4f25a35222.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Sascha Brodsky
 
  The new MacBook’s trackpad works perfectly, which is more than you can about the one on most Windows laptops. I had no trouble flicking the cursor accurately around the screen when spending hours editing documents.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Display: Bright and beautiful
 
  The Pro sports the best display I’ve ever used on any computer and might be a reason to buy this model all by itself. It screams quality.
@@ -132,18 +160,6 @@ Lifewire / Sascha Brodsky
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/UM5_acSqOhRJtIaZE3CeAWp45y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-2-2be1639ee44f489286cb43a53aaf6454.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Sascha Brodsky
 
  For those who want to know the details, the PCMark benchmarking software found the following scores for the MacBook Pro:
@@ -168,9 +184,6 @@ Lifewire / Sascha Brodsky
 
  Another nice thing about the efficient M1 chip is the fact that the MacBook runs cool. I’ve used it for dozens of hours, and it never felt more than slightly warm. Contrast that to my 2019 MacBook Pro that used to get so hot I was worried it would catch fire.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Cough, splutter?
 
  The big hiccup for most potential users of the MacBook Pro is its high price tag. I’ve been using the lowest-end model, which starts at $2499\. You get a 10-Core CPU, 16-Core GPU, 16GB of RAM, and 512GB SSD Storage for that price.
@@ -181,9 +194,6 @@ Lifewire / Sascha Brodsky
 
  A less expensive MacBook will be just fine for many users who just need a light work and fun machine. But for anyone who wants arguably the best laptop ever made, only the new MacBook Pro will do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## MacBook Pro (M1, 2021) vs. MacBook Air (M1, 2020)
 
  There’s an excellent case to be made that for many people, the much less expensive MacBook Air is a better option than the Pro model.
@@ -202,15 +212,19 @@ Lifewire / Sascha Brodsky
 
  As one of the newest and more expensive laptops on the market, it’s no surprise that I’m giving the MacBook Pro top marks in practice. Blazing speed, a great screen, and all day and then some battery life make this a great laptop for almost any use. However, the design is back to the basics and road warriors might want to consider a lighter, less bulky model. But, if you depend on your MacBook for demanding tasks, this is a must-buy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple MacBook Pro 13-inch (M1, 2020)](https://www.lifewire.com/macbook-pro-13-inch-m1-2020-review-5092658)
 * [Apple MacBook Air 13-inch](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793)
 * [Dell XPS 13 7390 (2020)](https://www.lifewire.com/dell-xps-13-7390-2-in-1-review-5113106)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  MacBook Pro 16-inch (2021)
@@ -230,14 +244,11 @@ Lifewire / Sascha Brodsky
 * Battery Life  Up to 21 hours
 * Ports  3x Thunderbolt 4 (USB-C), HDMI, SDXC card slot
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -246,4 +257,23 @@ Lifewire / Sascha Brodsky
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flipping-the-script-online-video-reversals/"><u>[New] 2024 Approved Flipping the Script Online Video Reversals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-mac-photo-tips-5-efficient-snapshot-techniques/"><u>[Updated] In 2024, Advanced Mac Photo Tips 5 Efficient Snapshot Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-13c-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi 13C? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-s17t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo S17t Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-mobile-tech-the-definitive-guide-to-choosing-the-samsung-galaxy-s21-ultra-as-your-top-android-pick/"><u>Mastering Mobile Tech - The Definitive Guide to Choosing the Samsung Galaxy S2^1 Ultra as Your Top Android Pick</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-internet-speed-and-coverage-the-ultimate-review-of-linksys-velop-router/"><u>Maximize Your Internet Speed and Coverage: The Ultimate Review of Linksys Velop Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/natm-relies-on-sequential-excavation-and-in-situ-stress-redistribution-making-it-adaptable-but-requiring-constant-monitoring-and-support-work/"><u>NATM Relies on Sequential Excavation and in Situ Stress Redistribution, Making It Adaptable but Requiring Constant Monitoring and Support Work.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-next-gen-internet-with-linksys-wrt3200acm-your-ultimate-guide-to-elite-home-routers/"><u>Navigating Next-Gen Internet with Linksys WRT3200ACM - Your Ultimate Guide to Elite Home Routers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-virtual-academia-top-10-platforms-to-enhance-your-knowledge/"><u>Navigating the Best Virtual Academia: Top 10 Platforms to Enhance Your Knowledge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-features-of-dell-xps-17-a-large-display-laptop-evaluation/"><u>Navigating the Features of Dell XPS 17: A Large Display Laptop Evaluation</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-interaction-as-an-income-source/"><u>Online Interaction as an Income Source</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-13-laptop-evaluation-unparalleled-advancements-in-thin-and-light-computing/"><u>Razer Blade Stealth 13 Laptop Evaluation: Unparalleled Advancements in Thin and Light Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-historical-youtube-hubs-essential-viewing-for-students-and-enthusiasts-for-2024/"><u>Top 10 Historical YouTube Hubs Essential Viewing For Students & Enthusiasts for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Defy 2 | Dr.fone</u></a></li>
+</ul></div>
 

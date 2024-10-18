@@ -1,7 +1,7 @@
 ---
 title: Skip the Middleman – Directly Record Games Using Steam's Built-In Features
-date: 2024-10-05T19:19:33.780Z
-updated: 2024-10-12T16:07:36.993Z
+date: 2024-10-15T17:24:08.760Z
+updated: 2024-10-18T19:32:17.635Z
 tags:
   - games
   - tv
@@ -28,11 +28,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best screen recorders can be expensive, while free ones put an ugly watermark on your recordings. That's where Steam's built-in recorder comes in. It lets you record gameplay for both Steam games and games that aren't on Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Set Up Steam's Recording Feature
 
  Steam's gameplay recording feature is currently in beta. Before you start using it, you will need to opt in and turn it on. To do this, connect your device to the internet and open the Steam client. Then, click the "Steam" option in the top-left corner and choose "Settings."
 
 ![Settings option in the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-option-in-the-steam-client.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Steam Settings window, select Interface > Steam Beta Update from the Client Beta Participation drop-down menu.
 
@@ -43,10 +57,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Restart Now option in the Steam client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/restart-now-option-in-the-steam-client.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use Steam's Recording Feature to Record Steam Games
@@ -54,13 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It's easy to record your Steam games using the built-in recording feature. First, open the Steam client and click "Steam" in the top-left corner. Choose "Settings" from the menu, then select "Game Recording" from the left sidebar. On the right side, you'll see three options — "Off/Don't Record," "Record in Background," and "Record on Demand."
 
 ![Game Recording option in the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/game-recording-option-in-the-steam-client.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you choose the "Off/Don't Record" option, Steam won't record anything on your screen. However, since you want to [record games](https://extra-lessons.techidaily.com/in-2024-boost-love-odds-expert-tips-for-compelling-tinder-profiles/), you'll be using "Record in Background" or the "Record on Demand" option.
 
@@ -71,10 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Disk Space  Consumption of the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disk-space-consumption-of-the-steam-client.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also add a timeline marker, [record audio](https://win11-tips.techidaily.com/leveraging-windows-11-os-the-installation-of-outlook-preview-app/), and even [take a screenshot](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) during the recording using the shortcuts you've assigned for these actions.
@@ -88,10 +102,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Shortcut keys section of the On Demand Record option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/shortcut-keys-section-of-the-on-demand-record-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use the Steam Recording Feature to Record Non-Steam Games
@@ -99,13 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Perhaps the coolest part about Steam's gameplay recording feature is that it works for non-Steam games, too. To set it up, open the Steam client and click the "Library" option in the top bar. In the bottom-left corner, you'll see "Add a Game." Click that and choose "Add a Non-Steam Game."
 
 ![Add a Non-Steam Game option in the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-a-non-steam-game.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the game you want to record. If it's not on the list, click "Browse," navigate to the game's installation folder, and choose the game's executable file. Finally, click "Add Selected Programs."
 
@@ -126,13 +133,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To create a clip from your recording, simply open it and navigate to the timeline marker you created (if any).
 
 ![Timeline marker in Steam recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/timeline-marker-in-steam-recording.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you didn't create markers, go to the desired starting point for your clip and click the "Clip" option in the bottom right corner. Next, use the clip slider to choose the ending point of your clip.
 
@@ -167,19 +167,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-comedic-content-concepts-7-hilarious-vlog-ideas-for-laughter-lovers/"><u>[New] Comedic Content Concepts 7 Hilarious Vlog Ideas for Laughter Lovers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-starting-out-key-equipment-and-software-for-vlogging/"><u>[New] Starting Out Key Equipment & Software for Vlogging</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/preventing-war-thunder-breakdowns-in-the-new-2024-release-expert-advice/"><u>Preventing War Thunder Breakdowns in the New 2024 Release: Expert Advice</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-reno-8t-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Reno 8T 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-phone-systems/"><u>Top Rated Wireless Phone Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-2024s-best-handheld-consoles-for-gamers-on-the-go/"><u>Ultimate List of 2024'S Best Handheld Consoles for Gamers On-the-Go</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-apc-back-ups-pro-1500va-superior-power-supply-with-abundant-outlets-and-swappable-cells/"><u>Unboxing the APC Back-UPS Pro 1500VA: Superior Power Supply with Abundant Outlets and Swappable Cells</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-strength-of-the-beatit-bt-d11-charger-an-in-depth-analysis/"><u>Unpacking the Strength of the Beatit BT-D11 Charger - An In-Depth Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-enhanced-capabilities-of-dji-phantom-4-pro-v20-on-the-brink-of-drone-perfection/"><u>Unveiling the Enhanced Capabilities of DJI Phantom 4 Pro v2.0 - On The Brink Of Drone Perfection</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-easter-basket-of-deals-wondershare-filmora-promo-code-inside/"><u>Updated In 2024, The Easter Basket of Deals Wondershare Filmora Promo Code Inside</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-fans-access-more-from-your-twitch-channel/"><u>[New] Facebook Fans Access More From Your Twitch Channel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-income-statement-pewdiepie-the-youtube-guru/"><u>[New] Income Statement PewDiePie, The YouTube Guru</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-optimal-mov-recording-settings-for-windows-11/"><u>[New] Optimal MOV Recording Settings for Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/overcoming-obscured-views-during-youtube-playback/"><u>Overcoming Obscured Views During YouTube Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-issue-understanding-and-improving-your-hp-laptops-sluggishness/"><u>Resolving The Issue: Understanding & Improving Your HP Laptop’s Sluggishness</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-12plus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme 12+ 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-ideal-scanner-2024s-top-picks-unveiled/"><u>Ultimate Guide to Choosing the Ideal Scanner - 2024'S Top Picks Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-leading-travel-friendly-power-banks/"><u>Ultimate Guide to the Leading Travel-Friendly Power Banks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-android-tablets-unveiled/"><u>Ultimate Guide: Leading Android Tablets Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-highest-quality-portable-audio-systems-2024-edition/"><u>Ultimate List of Highest Quality Portable Audio Systems - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-elite-240hz-gaming-screens-leading-202n3-tech-trends/"><u>Ultimate Selection: Elite 240Hz Gaming Screens Leading 202N3 Tech Trends</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-leading-nas-systems-compatible-with-plex-ranked-for-202eby/"><u>Ultimate Selection: Leading NAS Systems Compatible with Plex, Ranked for 202Eby</u></a></li>
 </ul></div>
 

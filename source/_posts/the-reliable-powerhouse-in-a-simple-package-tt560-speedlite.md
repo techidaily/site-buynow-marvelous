@@ -1,7 +1,7 @@
 ---
 title: "The Reliable Powerhouse in a Simple Package: TT560 Speedlite"
-date: 2024-08-15T09:20:39.167Z
-updated: 2024-08-16T09:20:39.167Z
+date: 2024-10-12T20:21:25.270Z
+updated: 2024-10-18T21:25:07.366Z
 categories:
   - BestProducts
 description: "This Article Describes The Reliable Powerhouse in a Simple Package: TT560 Speedlite"
@@ -41,6 +41,19 @@ Lifewire / Scott Gercken
 
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/0KtwvTBY-2P8KkZ_aO3Di4x-41c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_HeroSquare-191df3b949f947dc9398373d6f610c19.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Scott Gercken
 
 [View On Amazon](https://www.amazon.com/dp/B01I06JJZM/?tag=lifewire-onsite-prod-20&ascsubtag=4774592%7Cndcdcb6695c0f483b9cdb00c2d3a1335107%7CB01I06JJZM)
@@ -78,11 +91,15 @@ Lifewire / Scott Gercken
  It’s a slot loading drive, which works exactly the way you’d expect. It may be personal preference, but slot loading systems seem cleaner and less fussy than clamshell or tray systems. The back side has two ports, a[USB 3.0](https://www.lifewire.com/what-is-usb-3-0-2626038) micro-B and a port for a DC power input (not included with the drive). The drive also comes with a micro-B to USB-A cord, making it easy to connect the Pioneer BDR-XS06 to your computer.
 
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/LB5BA5cM1cVQB_sK6BgcOEl3l9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_02-60d78cf22bf04b52979d5f65437a35e8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
  Lifewire / Scott Gercken
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: So easy**
 
@@ -94,9 +111,6 @@ Lifewire / Scott Gercken
 
  Even without the software, the BDR-XS06 worked right away. This model works right out of the box with both Windows and MacOS with little to no additional fuss. It’s one of the most plug-and-play burners we’ve tested.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: As advertised**
 
  Like most Blu-ray burners, the BDR-XS06 slows down its read speed when you put in a movie or audio disc. That keeps the noise level low for those media. When it reads data discs, however, the speed picks up, which means more noise. The noise while installing Roxio Toast Lite got to an annoyingly loud level. It might not be too much in a busy office, but it was surprising in the quiet room where we tested it.
@@ -106,27 +120,26 @@ It’s one of the most plug-and-play burners we’ve tested.
  To test read/write speeds, we ripped a copy of_Die Hard,_ a 37GB file, using a program called_MakeMKV._ The whole process took an hour and 13 minutes, and the drive hit speeds between 5.2x and 6x. To test the write speeds, we made a backup copy of a 14GB photo library. It took just under 42 minutes, though the same task took 32 minutes on Roxio Toast. While these speeds aren’t the fastest on the market, they live up to Pioneer’s advertising. While using Roxio Toast, the software measured an average write speed of 3x while using a BD-R, though its max speed is 6x for that format.
 
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/hYWwVcK8E-FSog7TpOTOgE-hYnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_03-df0bfb492ead4e86a35df19618bcd5d4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Scott Gercken
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Image Quality: Decent quality for an optical drive**
 
  While Blu-ray burners and[optical drives](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) aren’t exactly designed to play movies, we tried it anyway. We used a free Blu-ray player for Mac, and the picture was pretty good. On the Mac, it was sharp, almost as good as a[Blu-ray player](https://www.lifewire.com/best-blu-ray-players-1846400) designed for the TV. Next, we connected an HDMI cable to the Mac to see what it would look like on an[HDTV](https://www.lifewire.com/best-tvs-to-buy-4061107) . It wasn’t as good as on the computer, but it wasn’t bad either. The TV reported that the resolution was 768p at 60hz, not as good as a Blu-ray player built for that purpose, but better than SD.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sound Quality: Blu-ray quality sound**
 
@@ -142,16 +155,10 @@ It’s one of the most plug-and-play burners we’ve tested.
 
  That extra durability is worth the slightly higher cost than this drive’s competitors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Good value for the speed and portability**
 
  For the price, it delivers strong performance and portability. At an MSRP of $120, the BDR-XS06 is a little more expensive than some of its competition, but it feels more solid than even Pioneer’s own models in this price range. That extra durability is worth the slightly higher cost than this drive’s competitors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## **Competition: A step ahead**
 
 **_Pioneer BDR-XD05B 6x Slim Portable USB 3.0 Blu-ray Burner_ :** The Pioneer BDR-XD05B is Pioneer’s new model of external Blu-ray burners. It has a clamshell case, which means the top pops open so you can place the Blu-ray into the drive. The drive is black and a smudge magnet, and it also doesn’t feel as sturdy as the Pioneer BDR-XS06\. In general, we prefer the BDR-XS06 for its sturdy, smudge-free design, but the BDR-XD05B is a fine choice if your main concern is price.
@@ -170,16 +177,19 @@ It’s one of the most plug-and-play burners we’ve tested.
 
  The Pioneer BDR-XS06 Slot Loading Portable Blu-ray Burner is a solid, portable Blu-ray burner. It’s small enough to pack up to take on a trip, and it’s solid enough to give us confidence that it can endure some jostling on the way. It costs a little more than its competitors, but we think the solid construction is worth it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [OWC Mercury Pro External USB 3.1 Gen 1 Optical Drive](https://www.lifewire.com/owc-mercury-pro-review-4774690)
 * [Asus BW-16D1X-U Blu-ray Drive](https://www.lifewire.com/asus-bw-16d1x-u-blu-ray-drive-review-4774686)
 * [NAVISKAUTO 12" Portable DVD Player](https://www.lifewire.com/naviskauto-12-portable-dvd-player-review-4691953)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  BDR-XS06 Slot Loading Portable Blu-ray Burner
@@ -197,14 +207,11 @@ It’s one of the most plug-and-play burners we’ve tested.
 * Warranty  1 year
 * Color options  Silver
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,4 +220,24 @@ It’s one of the most plug-and-play burners we’ve tested.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-smooth-film-making-with-your-macbook-cam/"><u>[New] In 2024, Smooth Film Making with Your MacBook Cam</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premium-audio-packs-for-visual-storytelling-for-2024/"><u>[New] Premium Audio Packs for Visual Storytelling for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elevate-conference-calls-a-guide-to-10-cost-free-apps/"><u>2024 Approved Elevate Conference Calls A Guide to 10 Cost-Free Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-range-of-residential-weather-tracking-devices-unveiled/"><u>2024’S Elite Range of Residential Weather Tracking Devices Unveiled</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728490923506-windows-11/"><u>簡單操作的方法:Windows 11 轉移至新電腦的過程及其相關許可</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-anc-ankers-innovative-life-q30-sound-review/"><u>Affordable ANC: Anker's Innovative Life Q30 Sound Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-mini-powerhouse-in-depth-review-of-the-acer-predator-triton-300-se/"><u>Explore the Mini Powerhouse: In-Depth Review of the Acer Predator Triton 300 SE</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-huion-kamvas-gt-191-drawing-pad-an-in-depth-review/"><u>Exploring the Features of the Huion Kamvas GT-191 Drawing Pad: An In-Depth Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-spark-20-proplus-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Spark 20 Pro+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-c65-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco C65 Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-lenovo-p11-pro-stellar-performance-with-a-couple-of-limitations/"><u>In-Depth Look at the Lenovo P11 Pro: Stellar Performance with a Couple of Limitations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-techniques-to-elevate-your-fps-rates-in-the-world-of-tainted-grail-conquest/"><u>Step-by-Step Techniques to Elevate Your FPS Rates in the World of Tainted Grail: Conquest</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-c12-plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia C12 Plus? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-police-body-cameras-a-comprehensive-guide/"><u>Top-Rated Police Body Cameras : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tropico-eb-version-examination-dominating-a-serene-eden/"><u>Tropico Eb Version Examination: Dominating a Serene Eden</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-top-reviews-for-the-garmin-forerunner-265/"><u>Unveiling the Features: Top Reviews for the Garmin Forerunner 265</u></a></li>
+</ul></div>
 

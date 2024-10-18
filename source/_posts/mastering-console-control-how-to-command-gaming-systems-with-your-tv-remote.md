@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2024-10-11T21:42:02.776Z
-updated: 2024-10-12T17:06:14.059Z
+date: 2024-10-16T16:28:03.764Z
+updated: 2024-10-18T18:02:28.246Z
 tags:
   - games
   - tv
@@ -21,18 +21,18 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -46,15 +46,22 @@ Jordan Gloor / How-To Geek
 
 ![Labelled HDMI inputs on the back of a television.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
@@ -79,13 +86,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
@@ -101,10 +101,10 @@ Jason Fitzpatrick / How-To Geek
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
@@ -138,24 +138,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[New] Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-path-to-your-facebook-status-video-archive/"><u>[New] Unveiling the Path to Your Facebook Status Video Archive</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>[Updated] 2024 Approved Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-your-channels-a-guide-to-youtube-metrics/"><u>[Updated] In 2024, Elevate Your Channels A Guide to YouTube Metrics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>2024 Approved The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y55s-5g-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y55s 5G (2023) Lock Screen Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-14-plus-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 14 Plus for Free</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722893269583-mastering-royal-match-a-step-by-step-guide/"><u>Mastering Royal Match: A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ottimizza-i-tuoi-backup-globali-in-windows-utilizzando-il-potente-aomei-backupper/"><u>Ottimizza I Tuoi Backup Globali in Windows Utilizzando Il Potente AOMEI Backupper</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-glion-dolly-electric-scooter-review-fast-elegant-and-justifiably-priced-for-aficionados/"><u>The Ultimate Glion Dolly Electric Scooter Review - Fast, Elegant, and Justifiably Priced for Aficionados</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-escort-max-360-top-features-including-gps-technology/"><u>The Ultimate Guide to the Escort Max 360: Top Features Including GPS Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-revolutionary-chromecast-with-google-tv-is-it-time-for-firetv-users-to-switch/"><u>The Ultimate Guide to the Revolutionary Chromecast with Google TV: Is It Time for FireTV Users to Switch?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-role-playing-adventure-exploring-the-immersive-world-of-skyrim-on-nintendo-switch/"><u>The Ultimate Role-Playing Adventure: Exploring the Immersive World of Skyrim on Nintendo Switch</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-cable-modem-reviews-2024/"><u>Top Rated Cable Modem Reviews 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-portable-solar-power-unit-by-aeiusny-ideal-pure-sine-wave-inverter-for-healthcare-equipment/"><u>Top Rated Portable Solar Power Unit by Aeiusny: Ideal Pure Sine Wave Inverter for Healthcare Equipment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-apples-latest-masterpiece-the-unrivaled-iphone-12-reviewed/"><u>Top Reviews for Apple's Latest Masterpiece: The Unrivaled iPhone 12 Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-of-linksys-ea8300-the-ultimate-router-for-enhanced-home-networking/"><u>Top Reviews of Linksys EA8300 - The Ultimate Router for Enhanced Home Networking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-twelve-south-bookbook-v2-case-for-macbook-unveiled/"><u>Unboxing and Testing: The Twelve South BookBook V2 Case for MacBook Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comparative-analysis-of-top-screen-recorders-with-a-spotlight-on-apeaksoft/"><u>[Updated] In 2024, Comparative Analysis of Top Screen Recorders with a Spotlight on Apeaksoft</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-hisense-40h5590f-smart-tv-is-it-worth-your-budget-comprehensive-review/"><u>Evaluating the Hisense 40H5590F Smart TV – Is It Worth Your Budget? Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-seatechs-external-blu-ray-burner-inconsistent-results/"><u>Expert Analysis of SeaTech's External Blu-Ray Burner: Inconsistent Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-familiar-with-blinks-robust-4-camera-outdoor-surveillance-floodlight-system/"><u>Get Familiar with Blink's Robust 4-Camera Outdoor Surveillance Floodlight System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y27s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y27s To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-microphone-fixes-on-xbox-avoid-common-pitfalls-and-apply-our-best-solutions/"><u>Mastering Microphone Fixes on Xbox - Avoid Common Pitfalls & Apply Our Best Solutions !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-tools-for-your-freelance-business-bing-chat-vs-chatgpt-and-8-critical-points-to-ponder/"><u>Navigating AI Tools for Your Freelance Business: Bing Chat Vs. ChatGPT and 8 Critical Points to Ponder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ranking-the-handheld-contenders-why-the-nintendo-switch-reigns-supreme/"><u>Ranking the Handheld Contenders: Why the Nintendo Switch Reigns Supreme</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-amazon-echo-show-10-3rd-generation-the-robotic-camera-that-follows-you-everywhere/"><u>Review of Amazon Echo Show 10 (3Rd Generation): The Robotic Camera That Follows You Everywhere</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-experience-endless-high-quality-sound-with-ion-audio-tailgater-plus/"><u>Review: Experience Endless High-Quality Sound with Ion Audio Tailgater Plus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-mornings-with-the-totobay-2nd-gen-wake-up-light-budget-masterpiece-inside/"><u>Revolutionize Your Mornings with the Totobay 2Nd Gen Wake-Up Light - Budget Masterpiece Inside!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-phantom-v-flip-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Phantom V Flip Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-masterpiece-in-depth-analysis-and-thoughts-on-the-samsung-galaxy-s10-elite-model/"><u>Unveiling the Masterpiece: In-Depth Analysis and Thoughts on the Samsung Galaxy S10 Elite Model</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-11-audio-revival-guide-how-to-refresh-and-reset-your-systems-soundscape/"><u>Windows 11 Audio Revival Guide: How to Refresh and Reset Your System's Soundscape</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-catastrophic-windows-11-crashes-expert-fix-for-event-tracing-issues/"><u>Winning the Battle Against Catastrophic Windows 11 Crashes: Expert Fix for Event Tracing Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-hd-video-converter-deluxe-faq-common-tech-questions-and-solutions-for-digiarty-software-users/"><u>WinX HD Video Converter Deluxe FAQ: Common Tech Questions & Solutions for Digiarty Software Users</u></a></li>
 </ul></div>
 

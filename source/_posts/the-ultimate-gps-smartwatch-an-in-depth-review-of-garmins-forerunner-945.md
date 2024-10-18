@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate GPS Smartwatch: An In-Depth Review of Garmin's Forerunner 945"
-date: 2024-08-22T17:46:27.172Z
-updated: 2024-08-23T17:46:27.172Z
+date: 2024-10-12T19:29:48.193Z
+updated: 2024-10-18T18:20:47.090Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate GPS Smartwatch: An In-Depth Review of Garmin's Forerunner 945"
@@ -65,9 +65,6 @@ Lifewire / Fred Meyer
 
  We spent a week testing it, evaluating the design, ease of setup, network performance, and software.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## **Design: A router’s aesthetics**
 
  The red-and-black color scheme of the EX6200 makes it look more like something out of Netgear's Nighthawk line rather than their standard series of extenders. It has a more premium feel than most extenders, and it's refreshing compared to the boring white plug-in boxes that house the majority of its peers.
@@ -75,6 +72,13 @@ Lifewire / Fred Meyer
  One of the most noticeable things about the EX6200 is that it's big. Not in a bad way, but it's definitely an atypical extender design. It can either lay flat, or you can use the included stand to install it vertically. We preferred using the stand since it's very slim and takes up very little space in this configuration.
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/lHiNdBeYxT8ClO7fv3LwEZqMjWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-6-5c924b2dc9e77c0001a9278c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Fred Meyer
 
@@ -85,8 +89,12 @@ Lifewire / Fred Meyer
  For example, our[router](https://www.lifewire.com/what-is-a-router-2618162) sits in the living room entertainment center against one wall. On the opposite side of the wall sits an entertainment center in our bedroom. Now, we could run an Ethernet cord around the wall, through the bedroom door, and to the entertainment center, which would be around 60 feet or so, or we could drill through the wall and install an Ethernet socket. However, with the EX6200 we didn’t have to do either. Since it's right on the other side of the wall, we can set up the EX6200 and get the full signal to hardwire our TV,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and Xbox One, which gives better speed and reliability than if we used them with WiFi-only.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: A familiar process**
 
  Getting the EX6200 up and running is the same process used with pretty much every wireless extender on the market. Pull the thing out of the box, plug it in within 10-15 feet of your Wi-Fi router, and hit the WPS button. Then head over to your router and hit the corresponding WPS button on it. Voila! You're good to go.
@@ -95,6 +103,19 @@ Lifewire / Fred Meyer
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/Lny9pSzLcp1hItabWfQAbx8cAoc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-2-5c924b5846e0fb0001f8d14a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Fred Meyer
 
  Once you've got that taken care of, you'll have to find the best place for your extender's new home. If you're trying to improve the signal or hardwire something 25 feet away from your router or less, just plop it down in the area and you should be good to go. For further distances, you'll need to use a bit more finesse. Place the extender halfway between the router and the area you're trying to extend your Wi-Fi. Then you can check the light on top that shows the status of the connection between the extender and the router. Red is bad, yellow is mediocre, and green is good. If you've got a green, head over to the previously dead Wi-Fi area and check your network.
@@ -102,8 +123,18 @@ Lifewire / Fred Meyer
  If you've followed the above steps and your Wi-Fi connection is strong, you're good-to-go and you can start living your life with the Wi-Fi coverage you always knew you deserved. Otherwise, you'll have to shuffle the extender either closer to the dead zone or closer to the router until you find the sweet spot.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Netgear magic**
 
  The Netgear EX6200 doesn't require any special software installation. If you need to access the interface, you just need to be connected to it in some manner, either through Wi-Fi or Ethernet, and you can open the control panel in a browser. You can access the extender by either using the local address (<www.mywifiext.net>) or via the device's IP.
@@ -114,10 +145,14 @@ Lifewire / Fred Meyer
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/C3GG9BATc7pjzGQZsIXmC4hlBTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-4-5c924c5046e0fb000146ae2c-e8aa858c433c410696d08b615cdee234.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Fred Meyer
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: Hardwire everything**
 
@@ -149,9 +184,6 @@ Lifewire / Fred Meyer
 
  At $99.99 (MSRP) the EX6200 isn't exactly cheap. You can get extenders for $30 or lower that get the job done, but that's all they'll do. We found that the EX6200 struck a good balance between price and features, and is an excellent extender for most use cases.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## **Competition: Middle of the road choice**
 
  The EX6200 doesn't feature any mesh networking capabilities or a dedicated backhaul channel, so if you're wanting to deploy multiple extenders or plan on having heavy traffic, you might want to look at a higher-end model or opt for a mesh setup like[Google WiFi](https://www.lifewire.com/google-wifi-review-4589445) (MSRP $299). Though it comes at a much steeper price, it would allow you to cover a wider area through multiple units.
@@ -171,9 +203,6 @@ Lifewire / Fred Meyer
 * [Eero Pro Mesh Wi-Fi System](https://www.lifewire.com/eero-pro-mesh-wi-fi-system-review-4797008)
 * [TP-Link AC1200 RE305](https://www.lifewire.com/tp-link-ac1200-wifi-range-extender-re305-review-4589559)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AC1200 Wireless WiFi Range Extender (EX6200)
@@ -194,14 +223,11 @@ Lifewire / Fred Meyer
 * Number of Wired Ports  Five
 * Range  85 Feet Maximum
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +236,21 @@ Lifewire / Fred Meyer
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-complete-control-over-clips-with-powerdirectors-latest-24-updates/"><u>[New] 2024 Approved Complete Control Over Clips with PowerDirector's Latest '24 Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-tips-for-transferring-media-files-flawlessly-w11-for-2024/"><u>[New] Expert Tips for Transferring Media Files Flawlessly W11 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-youtube-editing-101-incorporating-time-markers/"><u>[Updated] 2024 Approved YouTube Editing 101 Incorporating Time Markers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-visual-stability-avoiding-dropouts-in-obs/"><u>[Updated] Enhancing Visual Stability Avoiding Dropouts in OBS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-jokes-just-a-click-away-iphone/"><u>[Updated] Jokes Just a Click Away (iPhone)</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-k11x-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-pioneer-bdr-xd05b-a-review-revealing-key-weaknesses-in-its-blue-ray-technology/"><u>Evaluating the Pioneer BDR-XD05B - A Review Revealing Key Weaknesses in Its Blue Ray Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-cpu-alternatives-to-boost-laptop-functionality/"><u>Exploring CPU Alternatives to Boost Laptop Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-definition-wireless-mastery-with-the-amplifi-hd-mesh-eliminate-wi-fi-shadows/"><u>High Definition Wireless Mastery with the Amplifi HD Mesh – Eliminate Wi-Fi Shadows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-successfully-monetize-your-blogging-project-using-buyselladscom/"><u>How to Successfully Monetize Your Blogging Project Using BuySellAds.com</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-building-a-successful-livestream-empire-youtube-edition/"><u>In 2024, Building a Successful Livestream Empire YouTube Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-understanding-imovies-editing-edge/"><u>In 2024, Understanding iMovie's Editing Edge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-samsung-cj75v23hynz-a-top-choice-for-gamers/"><u>In-Depth Analysis of the Samsung CJ75V23HYNZ, a Top Choice for Gamers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a34-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A34 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

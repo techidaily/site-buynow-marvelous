@@ -1,7 +1,7 @@
 ---
 title: "PowerShot G9XII: Classic Design, Innovative Features"
-date: 2024-08-22T17:46:11.350Z
-updated: 2024-08-23T17:46:11.350Z
+date: 2024-10-16T17:48:47.244Z
+updated: 2024-10-18T18:05:08.734Z
 categories:
   - BestProducts
 description: "This Article Describes PowerShot G9XII: Classic Design, Innovative Features"
@@ -40,9 +40,23 @@ Lifewire / Yoona Wagener
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Watch Active2
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/pQyytjsyngWSMZ0b1hCE3_tAtsA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_HeroSquare-8ec2b040552f4e82b569c140246d3e1f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -75,6 +89,13 @@ Lifewire / Yoona Wagener
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/N4yT__TbwVbN6a39Bt2U0VY1NIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_02-4211271093364edba39310d3d9b09691.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  This display comes with intuitive inputs in every direction and two helpful buttons that serve as the back and home buttons. The home button also takes you to the main app directory and serves as the power button. You have the option of toggling through by tapping each item or using the digital bezel feature that’s just as effective as a physical mechanism.
@@ -83,9 +104,6 @@ Lifewire / Yoona Wagener
 
  The swipe-down quick access menu comes with even more useful features for activating the most relevant settings based on the situation. These helpful aids include shortcuts for enabling night mode to inactivate the screen and any notices while you’re sleeping and freezing the screen from interferences in the pool by turning on the water lock button. I experienced strong feedback and responsiveness with every tap or menu navigation, never feeling as if I’d lost my place or that the watch failed to register my inputs.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What’s New: New sizing, connectivity, and fitness tracking in the Active2
 
  While the general appearance and feature set hasn’t changed dramatically, the Active2 presents some clear differences over the original[Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873) . The Active2 increases the display by 0.1 inches or 0.3 inches in the new larger case size that appeals to more wrist sizes.
@@ -94,16 +112,17 @@ Lifewire / Yoona Wagener
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/gunjRIGy7Cir3f3FzUIqbpUlAys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_04-46b9b421390a44f0b0dd7ad8a48a428a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 Lifewire / Yoona Wagener
 
  The Active2 also offers more effortless connectivity by remembering text history and offering the ease of quick replies, including[Bitmoji](https://www.lifewire.com/bitmoji-explained-4137793) and canned responses right from the watch. It also doubles down on fitness and wellness tech by improving running analysis and offering ECG monitoring and fall detection. These features put it in direct company with the[Apple Watch](https://www.lifewire.com/apple-watch-basics-4121197) and Fitbit and Garmin smartwatches that dial up the fitness and wellness focus.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comfort: Ideal for all-day wear
 
  The Active2 offers a comfortable fluoroelastomer rubber band that flexes and repels sweat and moisture with ease, though it does catch lint easily. The device is safe to take in the pool for laps or leisurely soaks, thanks to a 5ATM waterproof rating. The water lock feature was foolproof and easy to turn off and on at will. You can also trust the Gorilla Glass DX+ glass and MIL-STD-810G durability rating to make routine wear and care a breeze.
@@ -113,8 +132,12 @@ Lifewire / Yoona Wagener
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/IL7xAj-uHT_sJJ1J34PbgpVSibk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_05-08f63a3d72d745ee95763d2bfbdccfbc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  Though it has a sporty edge, the band is replaceable for a more formal style, and the color options add personality that rivals models from brands such as Apple, Fitbit, and Garmin. Take color coordination further by adding your favorite shades using the My style watch face. Even if you stick with basic black, the Active2 provides a strong case for 24/7 wear as a smartwatch that blends in nicely for daily wear.
@@ -135,9 +158,6 @@ Lifewire / Yoona Wagener
 
  The Active2 performed with flying colors outside of running, automatically detecting walking and cycling workouts, tracking sleep cycles, and encouraging movement throughout the day. I got a kick out of the friendly animated figures that popped up if I hadn’t moved within the hour, suggesting I take a walk or stretch—and offering a pat on the back when I started and stayed moving.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery: Not an overachiever but consistent
 
  Samsung suggests that the Active2 should last 43 hours in the aluminum version and 60 hours in the stainless steel model. The claim that this is a multi-day device is right on target. I saw a consistent run time of 2.5 to three days, depending on how I used it. Streaming Spotify music or enabling the always-on display during runs predictably depleted the battery faster.
@@ -156,22 +176,23 @@ Lifewire / Yoona Wagener
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/FGyDnFtFBooJPFED4m8KKx1gHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_03-03f2d0ff893f44228dbd65b6ce357f43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  While the Active2 is compatible with both iOS and Android, after connecting the watch to both operating systems, I experienced a smoother and more complete experience on Android. Android users benefit from a much faster and seamless pairing process with the Gear app, which has a built-in watch faces library for easy customization.
 
  Samsung Health for Android also provides access to those new advanced metrics such as VO2 max and running performance analysis along with much more detailed graphs that correspond with all the health data the Active2 captures in the background, such as heart rate, sleep, and stress levels. If you have an iPhone, you’ll get the basics but miss out on all of these advanced perks, unfortunately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Price: Right in the sweet spot
 
  The Samsung Galaxy Watch Active2 starts at $250 for the Bluetooth model or $270 for the LTE version. These price points still slot this watch below the top-tier models that ask a premium of well over $400\. Even with the standard Bluetooth and Wi-Fi connected Active2, you’ll find a lineup of apps and tools that cover most smartwatch needs. From automatic fitness tracking and some advanced health metrics to call and text response and music storage, this small and capable wearable is multi-talented and priced reasonably for its abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy Watch Active 2 vs. Fitbit Sense
 
  The Fitbit Sense is the premium smartwatch from the Fitbit Brand, priced at $300, though it’s possible to find it for near $250\. Like the Active2, the Fitbit delivers watch face personalization, heart rate monitoring, onboard GPS, contactless pay, and automatic workout and all-day activity tracking.
@@ -211,14 +232,11 @@ Lifewire / Yoona Wagener
 * Waterproof  5ATM
 * Connectivity  Bluetooth, Wi-Fi, LTE
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -227,4 +245,22 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-rank-higher-with-youtube-shorts-a-guide-to-making-a-difference/"><u>[New] 2024 Approved Rank Higher with YouTube Shorts A Guide to Making a Difference</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-winning-with-mov-files-on-your-windows-system/"><u>[New] Capture Winning with MOV Files on Your Windows System</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-definition-vision-saving-tech/"><u>[Updated] High Definition Vision Saving Tech</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-90-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor 90 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazon-kindles-value-in-2019-reliable-and-affordable-reading-essentials/"><u>Discovering the Amazon Kindle's Value in 2019 - Reliable and Affordable Reading Essentials</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/distinguishing-features-of-ipad-vs-ipad-air-a-comprehensive-guide/"><u>Distinguishing Features of iPad Vs. IPad Air: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-mighty-anker-superspeed-usb-30-charging-and-data-transfer-solution/"><u>Evaluating the Mighty Anker SuperSpeed USB 3.0 Charging and Data Transfer Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-galaxy-s21-a-step-back-in-design/"><u>Expert Analysis of the Samsung Galaxy S21: A Step Back in Design?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-timeless-design-of-lgs-wear-os-20-smartwatch-series/"><u>Expert Insights on the Timeless Design of LG's Wear OS 2.0 Smartwatch Series</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-how-the-2019-apple-ipad-air-is-revolutionizing-multimedia-consumption/"><u>Expert Review: How the 2019 Apple iPad Air Is Revolutionizing Multimedia Consumption</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-worlds-wonders-with-superzoom-power-nikon-coolpix-p1000/"><u>Exploring the World's Wonders with Superzoom Power – Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-chat-for-tweens-and-teens-setting-up-restrictions-on-discord/"><u>Secure Chat for Tweens and Teens: Setting Up Restrictions on Discord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/submerge-mastery-top-tips-for-capturing-great-water-videos-for-2024/"><u>Submerge Mastery Top Tips for Capturing Great Water Videos for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>Updated How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
+</ul></div>
 

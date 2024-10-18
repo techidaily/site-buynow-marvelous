@@ -1,7 +1,7 @@
 ---
 title: Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says
-date: 2024-08-22T17:46:50.651Z
-updated: 2024-08-23T17:46:50.651Z
+date: 2024-10-16T17:15:28.206Z
+updated: 2024-10-18T16:02:31.596Z
 categories:
   - BestProducts
 description: This Article Describes Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says
@@ -71,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design and Comfort: Nondescript, but the screen is great**
 
  The TicWatch E2 is a big, beefy smartwatch, with a 1.39-inch circular display surrounded by a black plastic bezel. There's a bit of detail in there, including a circular pattern on the fixed bezel and some slope to the lugs that attach to the bands, but it's all the same color and matte texture. Physically, the TicWatch E2 just doesn't stand out very much at all.
@@ -84,6 +81,13 @@ Lifewire / Andrew Hayward
 
  The case only has one physical button, on the right side of the case—pressing it quickly brings up the scrolling list of apps, while a sustained press pulls up the Google Assistant. The TicWatch E2 comes with a black silicone 22mm sport band, which you can swap out with other bands of the same size if you please. Despite its large size, the watch itself is incredibly lightweight, so it doesn't feel heavy on the wrist at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: No hassle at all**
 
  Setting up the TicWatch E2, like any recent Wear OS watch, is a straightforward process. Simply download the Wear OS app on your Android phone or iPhone and follow the steps within, which include pairing the watch, considering some settings, and ultimately getting up and running. It shouldn't take more than a few minutes in total.
@@ -91,6 +95,13 @@ Lifewire / Andrew Hayward
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/t4sUe11h-gHM3ay_lmy4BHeuPcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_04-850d439e303b49fda5c69c166f5035de.jpg)
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Sometimes fine, sometimes not**
 
@@ -104,9 +115,6 @@ Lifewire / Andrew Hayward
 
  Frustratingly, the phone also lost its connection to our phone (the Samsung Galaxy S10) on a semi-regular basis. We would try to access the Google Assistant and get an error message at times, as it couldn't connect to Google, or get a chunk of late-arriving notifications after the watch reconnected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery: Solid uptime, but watch out for charging hitches**
 
  Mobvoi advertises 48-hour battery life, but that needs an asterisk next to it: you'll only come close to that mark if the always-on screen is disabled and you're not heavily using the GPS for fitness tracking. The always-on screen saps a fair bit of battery life, and you probably won't get deep into a second day on a single charge. With modest usage and the screen off when you're not looking at it, however, you should safely be able to skip the charger every other night.
@@ -120,22 +128,12 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software and Key Features: The budget feature set**
 
  The TicWatch E2 currently runs Wear OS 2.6, which is the latest version, and Google's smartwatch interface has gradually gotten smoother and more useful over the years. It's not as eye-catching or intuitive as Apple's watchOS 5, but the E2's included watch faces look nice and there are many more available to download from the Play Store, not to mention a solid array of wearable apps.
@@ -148,9 +146,6 @@ Key features:
 
  One odd note is that it automatically tracked a couple of phantom runs during our everyday usage, which was perplexing. Maybe we were walking a little faster than usual for a moment, but that shouldn't have triggered a tracking session. It was never an issue with other smartwatches we've used.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: It's cheap, but with issues**
 
  Wear OS watches vary widely in price, ranging up to several hundred dollars for fashion-centric or ruggedized models, but the TicWatch E2 is definitely one of the cheapest at $160\. It's also cheaper than the Fitbit Versa ($180) and quite a bit less than the Samsung Galaxy Watch ($330 plus) and Apple Watch Series 4 ($399 plus).
@@ -160,9 +155,20 @@ Key features:
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/9AwcHkOXajzxG-qrrj2oxg7pXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mobvoi-vs-FitbitVersa-Comparison-e61e0b7a3458412994b974ef05f13a17-cd600ab4f2934bef80fbe7323ff63495.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **TicWatch E2 vs. Fitbit Versa**
 
@@ -184,9 +190,6 @@ Lifewire / Andrew Hayward
 * [Samsung Galaxy Watch](https://www.lifewire.com/samsung-galaxy-watch-review-4769740)
 * [Fitbit Versa 2](https://www.lifewire.com/fitbit-versa-2-review-4797556)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  TicWatch E2
@@ -202,14 +205,11 @@ Lifewire / Andrew Hayward
 * Storage  4GB
 * Waterproof  5ATM
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,4 +218,23 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-entry-points-creating-an-account/"><u>[New] Twitters' Entry Points Creating an Account</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfect-purity-extract-background-from-your-photos-at-home/"><u>[Updated] Perfect Purity Extract Background From Your Photos at Home</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-updated-dji-phantom-2-how-close-is-it-to-flawless-flight/"><u>Comprehensive Evaluation of the Updated DJI Phantom ^2 - How Close Is It to Flawless Flight?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-gionee-f3-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Gionee F3 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-lenovo-yoga-910-drivers/"><u>How to Update Lenovo Yoga 910 Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-calls-tracking-techniques/"><u>Mastering Windows Calls Tracking Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rtx-2060-gpu-drivers-update-download-latest-version-for-windows-versions-including-11-10-8-and-7/"><u>RTX 2060 GPU Drivers Update: Download Latest Version for Windows Versions Including 11, 10, 8 & 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-uniherz-atom-xl-showdown-how-a-small-phone-packs-big-rugged-strength/"><u>The Uniherz Atom XL Showdown: How a Small Phone Packs Big Rugged Strength</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-narzo-60-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme Narzo 60 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-bluetooth-mouse-picks-for-23/"><u>Top-Ranking Bluetooth Mouse Picks for 2#!3</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-document-and-photo-scanners-in-2e-2024-your-ultimate-guide/"><u>Top-Rated Document & Photo Scanners in 2E 2024: Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/turning-records-into-tunes-the-power-of-the-at-lp120xusb/"><u>Turning Records Into Tunes: The Power of the AT-LP120XUSB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-face-off-iphone-15-plus-vs-pro-max-performance-and-capabilities-analyzed/"><u>Ultimate Face-Off: IPhone 15 Plus Vs. Pro Max Performance and Capabilities Analyzed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-choosing-the-perfect-mouse-for-your-mac/"><u>Ultimate Guide: Choosing the Perfect Mouse for Your Mac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-manfrotto-befree-aluminum-tripod-unmatched-quality/"><u>Ultimate Manfrotto Befree Aluminum Tripod: Unmatched Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-media-creator-win8/"><u>Ultimate Media Creator Win8</u></a></li>
+</ul></div>
 

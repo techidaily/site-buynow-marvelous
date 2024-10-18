@@ -1,7 +1,7 @@
 ---
 title: "Zoom Into Action: Holy Stone's Cartoon-Inspired Remote Control Racer Revealed!"
-date: 2024-08-22T17:50:06.547Z
-updated: 2024-08-23T17:50:06.547Z
+date: 2024-10-12T19:26:37.057Z
+updated: 2024-10-18T20:35:33.279Z
 categories:
   - BestProducts
 description: "This Article Describes Zoom Into Action: Holy Stone's Cartoon-Inspired Remote Control Racer Revealed!"
@@ -37,6 +37,13 @@ Lifewire / Andrew Hayward
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
@@ -63,6 +70,13 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -72,8 +86,12 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
  It has two little flip-up stopper nubs at the bottom to hold your laptop in place, and they can be gradually adjusted to avoid having them stick up and press into your wrists while typing. Meanwhile, a pair of feet on the bottom of the pad flip out to elevate your laptop about an inch upward to improve air circulation.
@@ -85,26 +103,20 @@ Lifewire / Andrew Hayward
  The C302 has a little bit of accent lighting via a pair of blue lights beneath each fan, but it doesn’t emanate a significant glow, nor is it customizable in any way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Setup Process: Plug and play
 
  The C302 is a purely plug-and-play accessory with no flashy perks or settings to deal with, nor any need for software on your computer. Simply place it under your laptop, adjust the feet and holding nubs as desired, and plug the USB port into your computer to power on the pad. The fans will then activate and run at the only available speed, and you can unplug it when you’re done or don’t need it anymore.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/xhFp_B4P4BG8gb4dtJAGBbXPAlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_05-4ce850d84f4a4e1d931588e23f39cb82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -131,6 +143,13 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
@@ -143,18 +162,12 @@ Lifewire / Andrew Hayward
 
  Durability questions aside, the TopMate C302 Laptop Cooling Pad ultimately worked about as well as the other, pricier pads I tested, helping to offset some of the heat generated by a very hot gaming laptop. If you’re concerned about long-term damage or performance degradation from an overheating laptop, the C302 is a cost-efficient way to help keep your notebook from reaching extreme heat peaks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C302 Laptop Cooling Pad
@@ -168,14 +181,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +194,24 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-enhancing-collaboration-slack-melded-with-filmoras-video-capabilities/"><u>[New] In 2024, Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-optimize-rl-recording-hardware-and-software/"><u>[Updated] 2024 Approved How to Optimize RL Recording Hardware & Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-media-with-these-pro-screenshot-and-video-editors-iphoneandroid/"><u>2024 Approved Master Your Media with These Pro Screenshot and Video Editors (iPhone/Android)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-hp-laserjet-5200-setup-with-the-newest-printer-drivers-for-windows-users/"><u>Effortless HP LaserJet 5200 Setup with the Newest Printer Drivers for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nt-access-weaving-youtube-songs-into-imovie-videos-for-2024/"><u>Instant Access Weaving YouTube Songs Into iMovie Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-video-stream-mp3-to-youtube-in-3-easy-steps-for-2024/"><u>MP3 to Video Stream MP3 to YouTube in 3 Easy Steps for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-smartphone-experience-with-google-pixel-4a-a-complete-review/"><u>Simplified Smartphone Experience with Google Pixel 4A - A Complete Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ihome-zenergy-mattress-side-sleep-enhancer-transforming-slumber-into-invigorating-dawns-product-reviewed/"><u>The IHome Zenergy Mattress-Side Sleep Enhancer: Transforming Slumber Into Invigorating Dawns – Product Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-increasing-game-selection-on-your-nes-classic-system/"><u>The Ultimate Guide: Increasing Game Selection on Your NES Classic System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-hd-webcam-evaluation-the-logitech-c920-pro/"><u>Top Rated HD Webcam Evaluation: The Logitech C920 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wrist-supports-for-keyboards-in-2/"><u>Top-Rated Wrist Supports for Keyboards in 2</u></a></li>
+</ul></div>
 

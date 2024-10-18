@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the Samsung QN55Q6F - Your Ultimate Guide to a Stunning 4K UHD Smart Television
-date: 2024-08-15T09:21:08.750Z
-updated: 2024-08-16T09:21:08.750Z
+date: 2024-10-17T20:22:43.525Z
+updated: 2024-10-18T16:39:05.263Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Analysis of the Samsung QN55Q6F - Your Ultimate Guide to a Stunning 4K UHD Smart Television
@@ -62,9 +62,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -74,11 +71,15 @@ Lifewire / Erika Rawes
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Easier than most**
 
@@ -89,8 +90,18 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -102,8 +113,12 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -111,6 +126,13 @@ Lifewire / Erika Rawes
  On my first attempt, I used the included stand, and the auto-programming only picked up four channels. When I placed the antenna on a window facing the TV transmitter tower, however, the omnidirectional HD antenna picked up 23 channels, which is a good amount considering the area.
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Mid-range**
 
@@ -120,9 +142,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -133,9 +152,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -152,14 +168,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +181,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guide-to-eliminate-insta-suggest-feature/"><u>[New] 2024 Approved Guide to Eliminate Insta Suggest Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audio-alchemy-free-perfectly-crafted-dj-template-videos/"><u>[New] In 2024, Audio Alchemy Free, Perfectly Crafted DJ Template Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>[New] Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mobile-creativity-boost-identifying-the-best-video-editing-tools/"><u>[New] Mobile Creativity Boost Identifying the Best Video Editing Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-win11s-top-5-cost-free-applications-for-recording-screens/"><u>[New] Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-fresh-sounds-for-your-ig-story/"><u>2024 Approved Fresh Sounds for Your IG Story</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-inside-the-box-logitechs-expertly-designed-4k-pro-webcam/"><u>2024 Approved Inside the Box Logitech’s Expertly Designed 4K Pro Webcam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-conundrum-choosing-between-gps-and-cellular-models-for-optimal-performance/"><u>Apple Watch Conundrum: Choosing Between GPS and Cellular Models for Optimal Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bestsellers-the-most-effective-rechargeable-battery-chargers-of-marketing-course2024/"><u>Bestsellers: The Most Effective Rechargeable Battery Chargers of #Marketing-Course_2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-flagships-the-detailed-breakdown-of-iphone-15-pro-max-and-galaxy-s24-ultra/"><u>Comparing Flagships: The Detailed Breakdown of iPhone 15 Pro Max and Galaxy S24 Ultra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/conquer-any-terrain-with-the-top-race-rc-rock-crawler-an-expert-review/"><u>Conquer Any Terrain with the Top Race RC Rock Crawler - An Expert Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/important-criteria-to-review-before-adding-a-state-of-the-art-printer-to-your-collection/"><u>Important Criteria to Review Before Adding a State-of-the-Art Printer to Your Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-guide-to-powerful-connectivity-with-linksys-velop-mesh-routers/"><u>In-Depth Guide to Powerful Connectivity with Linksys Velop Mesh Routers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/karaoke-usa-sing-and-celebrate-for-less-than-a-hundred-dollars-unlimited-entertainment-awaits/"><u>Karaoke USA: Sing and Celebrate for Less than a Hundred Dollars - Unlimited Entertainment Awaits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-moto-g-stylus-reviewed-superior-operation-capabilities-and-reasonable-battery-endurance-with-added-stylus-functionality/"><u>Motorola Moto G Stylus Reviewed - Superior Operation Capabilities & Reasonable Battery Endurance with Added Stylus Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-asus-support-free-download-for-xonar-dgx-controller-software-update/"><u>Official ASUS Support - Free Download for Xonar DGX Controller Software Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-sound-on-the-move-top-wireless-headsets-2024/"><u>Premium Sound on The Move - Top Wireless Headsets 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-in-depth-analysis-of-aphacas-wireless-bt69-fm-transmitter-perfect-for-automobile-audio-upgrades/"><u>Top Pick: In-Depth Analysis of Aphaca's Wireless BT69 FM Transmitter - Perfect for Automobile Audio Upgrades</u></a></li>
+</ul></div>
 

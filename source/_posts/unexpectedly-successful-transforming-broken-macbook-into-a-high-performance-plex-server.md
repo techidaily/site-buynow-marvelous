@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Successful: Transforming Broken MacBook Into a High-Performance Plex Server"
-date: 2024-10-06T17:38:39.104Z
-updated: 2024-10-12T19:04:57.512Z
+date: 2024-10-11T18:04:52.702Z
+updated: 2024-10-18T18:45:12.446Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Plex is a great way to make your personal media library available to all devices on your local network, but for a laptop user like me it's hard to have a Plex server that's always plugged in. Until I ended up with a MacBook that's just broken enough for the job.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Mac Too Expensive to Fix, but Too Valuable to Throw Away
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Without the top row of "keys" and that annoying, eye-searing flashing, the MacBook Pro is effectively unusable as a laptop, and not worth the money to fix. Otherwise, it's in perfect condition and still a cracking little computer. So I decided I'd hook it up permanently, and turn it into (among other things) our Plex server.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting Up Plex and Drives Was Easy
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  I have a dual-port USB-C dock connected to the Mac, which is in turn connected to a Dell monitor with a built-in USB hub, and that's what my media drive is connected to. One way or another, I recommend a powered USB hub rather than running the drives from the MacBook's internal power, since even one big drive might put too much strain on the little guy as a permanently-connected media drive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Zero Performance Issues
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  The M1 has four performance cores and four efficiency cores, and this model has 8GB of RAM and a 512GB SSD. I tried watching multiple 4K streams on different devices, and it went off without a hitch. So far I haven't found a way to make the little MacBook choke, so I can only imagine that any Apple Silicon Mac would be simply great at this job. Like an M1 Mac Mini that you pick up used for a bargain, perhaps.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It’s My New Desktop Mac Too!
@@ -88,21 +88,20 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cloud-savings-guide-comparing-costs-and-top-deals/"><u>[New] 2024 Approved Cloud Savings Guide Comparing Costs & Top Deals</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-viewing-tackling-instagram-video-issues/"><u>[Updated] 2024 Approved Effortless Viewing Tackling Instagram Video Issues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-secure-video-chatting-needs-met-top-10-safe-and-free-applications-on-smart-devices/"><u>[Updated] 2024 Approved Your Secure Video Chatting Needs Met Top 10 Safe & Free Applications on Smart Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mp3ify-your-fb-videos-directly/"><u>2024 Approved MP3ify Your FB Videos Directly</u></a></li>
-<li><a href="https://win-net.techidaily.com/2024usbusb/"><u>2024年度最新方法：如何擺脫USB重要數據丟失的危機—逐步解析USB刪除及恢復流程</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-on-pc-resolving-persistent-stability-issues-and-crashes/"><u>Assassin's Creed Valhalla on PC - Resolving Persistent Stability Issues & Crashes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/connectez-onedrive-avec-lexplorateur-windows-des-tutoriels-complets-pour-4-techniques-simples/"><u>Connectez OneDrive Avec L'Explorateur Windows : Des Tutoriels Complets Pour 4 Techniques Simples</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/set-financial-goals/"><u>Set Financial Goals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-balance-of-affordability-and-function-in-tp-link-archer-c50-wireless-router-review/"><u>The Balance of Affordability and Function in TP-Link Archer C50 Wireless Router Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-choosing-the-best-microsoft-surface-laptop-n4-review/"><u>The Definitive Guide to Choosing the Best: Microsoft Surface Laptop N°4 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-ideapad-320-unveiled-reviews-on-its-attractive-build-and-famous-keys-that-define-usability/"><u>The Lenovo Ideapad 320 Unveiled: Reviews on Its Attractive Build and Famous Keys that Define Usability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-plants-vs-zombies-battle-for-neighborville-perfect-fun-for-shooter-enthusiasts/"><u>The Ultimate Review of Plants Vs. Zombies: Battle for Neighborville - Perfect Fun for Shooter Enthusiasts!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-mac-mouse-picks-your-ultimate-guide/"><u>Top-Rated Mac Mouse Picks : Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-motorola-mg7700-testing-performance-and-durability/"><u>Unboxing the Motorola MG7700: Testing Performance and Durability</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-democracy-dynamics-leading-electoral-simulators-for-2024/"><u>[New] Democracy Dynamics Leading Electoral Simulators for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-masterclass-in-image-moods-zenithcams-spectacle/"><u>[Updated] 2024 Approved Masterclass in Image Moods ZenithCams Spectacle</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-video-splitting-wins-ranking-recorder-titans-in-2024/"><u>[Updated] Video Splitting Wins Ranking Recorder Titans, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-sound-savvy-with-facebook-downloader-for-2024/"><u>2023 Sound Savvy with Facebook Downloader for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>2024 Approved Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-disabling-voice-control-on-your-samsung-flat-screen-television/"><u>Expert Tips for Disabling Voice Control on Your Samsung Flat-Screen Television</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter-for-2024/"><u>Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-a14-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-portable-televisions-your-comprehensive-guide/"><u>Top Rated Portable Televisions : Your Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-iphone-charger-options-a-comprehensive-guide/"><u>Top-Rated iPhone Charger Options : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-samsung-galaxy-s22plus-protective-covers/"><u>Top-Rated Samsung Galaxy S22+ Protective Covers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-samsung-galaxy-s24-display-shields-ultimate-selection/"><u>Top-Rated Samsung Galaxy S24 Display Shields - Ultimate Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-scanner-models-dominating-the-market/"><u>Top-Rated Scanner Models Dominating the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-ac-units-expert-picks/"><u>Top-Rated Smart AC Units: Expert Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-photographs-with-googles-smart-editing-features-using-artificnial-intelligence/"><u>Transform Your Photographs with Google's Smart Editing Features Using Artificnial Intelligence</u></a></li>
 </ul></div>
 

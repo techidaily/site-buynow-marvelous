@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Your New Steam Deck with Top-Rated Strategies
-date: 2024-10-07T21:54:31.890Z
-updated: 2024-10-12T22:18:07.688Z
+date: 2024-10-17T19:53:57.996Z
+updated: 2024-10-18T19:07:18.034Z
 tags:
   - games
   - tv
@@ -51,17 +51,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Steam Deck Display menu that includes various blue light filter options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Get the Full List of Shortcuts by Holding the Steam or Quick Access Button
@@ -69,13 +69,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  SteamOS has a boatload of button shortcuts for taking screenshots, bringing up the virtual keyboard, force-closing games, and more. To see the entire list of shortcuts hold the Steam or the “Quick Access” button, which looks like an ellipsis "..." and is located on the right side under the trackpad.
 
 ![List of Steam Deck Game Mode Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-004.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In addition to Game Mode, SteamOS has many different shortcuts in Desktop Mode. To learn more about those, read [our full guide to Steam Deck shortcuts](https://os-tips.techidaily.com/the-ultimate-top-8-messaging-app-restoration-tools-best-free-and-paid-options-for-iphone-and-android/).
 
@@ -91,14 +84,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Toggling various notifications toggles in the Steam Deck notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-04.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There, you can tweak individual notifications, turn notification toasts off completely, and disable notification sounds. Just scroll to the end and tweak every single option to your liking, and then you can start gaming without the annoying pop-ups.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  SD Cards are Adequate Storage Options for Most Games
 
@@ -132,6 +125,13 @@ Goran Damnjanovic / How-To Geek
 
  Before we move on, note that the Steam Deck supports pass-through charging. Once the battery is full, the charger bypasses the cell and delivers power directly to your Deck. In other words, don’t worry about [Steam Deck battery degradation](https://facebook-videos.techidaily.com/updated-2024-approved-decode-facebooks-algorithm-change-and-protect-your-reach/), and feel free to game while charging your Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Improve Steam Deck LCD Download Speeds
 
  I, like many other Steam Deck LCD owners, have experienced a ton of issues with download speeds. I tried a truckload of potential solutions, but the only one that worked was [disabling the 2.4GHz band](https://extra-information.techidaily.com/new-boosting-skypes-performance-with-advanced-zoom-functionalities/) on my router.
@@ -148,16 +148,16 @@ Goran Damnjanovic / How-To Geek
 
 ![Enabling Developer Mode on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-06.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, go all the way down the settings menu until you reach the “Developer” tab. Enter it, scroll down, disable the “Enable Wi-Fi Power Management” toggle, and reboot your Deck when asked to.
 
 ![Disabling Wi-Fi power management option on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-07.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you own an OLED Deck, you shouldn’t have issues with download speeds and stability since the OLED version uses a much better [Wi-Fi 6](https://buynow-info.techidaily.com/getting-the-most-out-of-your-new-echo-dot-3rd-gen-a-comprehensive-breakdown-for-seamless-alexa-integration/) card.
 
@@ -168,6 +168,13 @@ Goran Damnjanovic / How-To Geek
  To disable sleep, go to “Settings,” then enter the “Display” tab. Once there, look for the “When Plugged In Sleep After” option and set it to “Disabled.”
 
 ![Disabling sleep on a Steam Deck while plugged in in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-08.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another tip I have is to set your Deck to Offline mode when you plan on using it at a location with spotty or no internet coverage. To do this, open “Settings,” go to the “Internet” tab, and click the “Enter Offline Mode” button.
 
@@ -181,13 +188,6 @@ Goran Damnjanovic / How-To Geek
 
 ![Steam Deck side menu with the Library tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Head to the “All Games” tab, find the game you want to add to a new collection and press the Start button to open the options menu.
 
 ![Steam Library on a Steam Deck with the All Games tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-11.jpg) 
@@ -195,6 +195,13 @@ Goran Damnjanovic / How-To Geek
  Next, select the “Add To” option and either add the game to an existing collection or create a new one.
 
 ![Adding a game to a new library collection on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-12-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To see every Steam game you own (not only Deck-compatible titles), go to the “All Games” tab and press the X button on your Deck.
 
@@ -224,13 +231,6 @@ Goran Damnjanovic / How-To Geek
 
 ![Setting frame limit to 40 FPS on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-16.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, to get more detailed information about battery life, turn on the battery percentage next to the battery icon in the header. Do this by opening “Settings,” then the “General” tab, and there you can turn the “Battery Percentage” toggle on.
 
 ![Enabling Battery Percentage toggle in SteamOS General settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/how-to-check-battery-health-and-levels-on-a-steam-deck-08.png) 
@@ -242,10 +242,16 @@ Goran Damnjanovic / How-To Geek
  Read [our guide to game streaming on Steam Deck](https://youtube-zero.techidaily.com/ating-the-net-top-tags-for-eye-catching-gamer-content/) to learn more.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Lastly, Follow the Steam Deck Subreddit
@@ -269,19 +275,16 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-new-movie-experiences-top-7-swaps/"><u>[Updated] 2024 Approved Discover New Movie Experiences - Top 7 Swaps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-unlocked-mastering-the-art-of-facebook-vr-posting/"><u>[Updated] 2024 Approved Secrets Unlocked Mastering the Art of Facebook VR Posting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhance-video-transmission-success-in-messenger-apps-for-iphone-android-for-2024/"><u>[Updated] Enhance Video Transmission Success in Messenger Apps for iPhone, Android for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income-for-2024/"><u>[Updated] Guide to Profiting From YouTube Shorts Key Requirements & Potential Income for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/around-the-clock-fitness-tracking-an-expert-look-at-the-fitbit-inspire-hr/"><u>Around-the-Clock Fitness Tracking: An Expert Look at the Fitbit Inspire HR</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-ergonomic-computer-peripherals-keyboards-to-shop/"><u>Best Ergonomic Computer Peripherals: Keyboards to Shop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breakthrough-in-home-networking-the-netgear-nighthawk-rax120-delivers-unparalleled-internet-velocity/"><u>Breakthrough in Home Networking: The Netgear Nighthawk RAX120 Delivers Unparalleled Internet Velocity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-brilliance-explore-the-elph-190-camera/"><u>Budget Brilliance: Explore the ELPH 190 Camera</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/capture-close-ups-with-ease-the-canon-sx420-review/"><u>Capture Close-Ups with Ease – The Canon SX420 Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-15-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 15 Plus with 3 Methods</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-review-of-bandicams-efficacy-in-multimedia-projects/"><u>[New] In 2024, Expert Review of Bandicam's Efficacy in Multimedia Projects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-tips-for-organizing-online-gatherings-google-meet/"><u>[Updated] In 2024, Essential Tips for Organizing Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-civi-3-disney-100th-anniversary-edition-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Civi 3 Disney 100th Anniversary Edition Device SIM</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/evaluating-iphone-8-series-advantages-and-disadvantages-unveiled/"><u>Evaluating iPhone 8 Series: Advantages and Disadvantages Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097052069-fix-your-gpu-problem-for-better-gameplay-solution-inside/"><u>Fix Your GPU Problem for Better Gameplay - Solution Inside!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 Pro with iTunes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-understanding-different-hand-tracker-techniques/"><u>In 2024, Understanding Different Hand Tracker Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-solar-lantern-perfect-companion-for-camping-trips-and-unexpected-blackouts/"><u>Reliable Solar Lantern: Perfect Companion for Camping Trips and Unexpected Blackouts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-makeover-google-tv-introduces-a-brand-new-streamlined-home-interface/"><u>Revolutionary Makeover: Google TV Introduces a Brand New Streamlined Home Interface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/section-3a-the-role-of-admixtures-in-concrete-performance/"><u>Section 3A: The Role of Admixtures in Concrete Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-eraser-an-open-source-software-tool-that-provides-users-with-an-easy-way-to-perform-multiple-overwriting-patterns-on-their-drives-according-to-nist-n27/"><u>Secure Eraser: An Open-Source Software Tool that Provides Users with an Easy Way to Perform Multiple Overwriting Patterns on Their Drives According to NIST (National Institute of Standards and Technology) or DoD (Department of Defense) Standards.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
-date: 2024-10-08T17:11:31.970Z
-updated: 2024-10-12T19:06:38.656Z
+date: 2024-10-11T16:27:23.433Z
+updated: 2024-10-18T19:12:42.148Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
@@ -37,6 +37,13 @@ Lifewire / Bill Thomas
 
 3.4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
@@ -65,6 +72,13 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
@@ -77,25 +91,11 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
  Lifewire / Bill Thomas
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Setup: Nice and simple
 
@@ -115,6 +115,13 @@ Lifewire / Bill Thomas
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -124,13 +131,6 @@ Lifewire / Bill Thomas
  Thankfully, this means that an attached router would be able to keep up, which is what we’d recommend. The wireless performance isn’t great and you’re going to have a much better experience with a separate router.
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -150,13 +150,6 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -167,16 +160,23 @@ Lifewire / Bill Thomas
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -213,16 +213,21 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-apex-chart-seeker-monitor-most-viewed-videos/"><u>[New] 2024 Approved Apex Chart Seeker Monitor Most Viewed Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[New] Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-uncover-the-power-of-discords-spoiler-system/"><u>[Updated] 2024 Approved Uncover the Power of Discord's Spoiler System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/costly-investment-or-justifiable-expense-nikon-sb-700/"><u>Costly Investment or Justifiable Expense? - Nikon SB-700</u></a></li>
-<li><a href="https://driver-error.techidaily.com/end-automatic-uninstall-cycle-for-drivers-solution-found/"><u>End Automatic Uninstall Cycle for Drivers: Solution Found</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-m3-macbook-air-cost-vs-quality-gains/"><u>Evaluating M3 MacBook Air: Cost Vs. Quality Gains</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/how-to-efficiently-shrink-your-zoom-recording-files-with-a-pc-or-web-based-tools/"><u>How to Efficiently Shrink Your Zoom Recording Files with a PC or Web-Based Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/practicality-at-its-best-a-critique-on-the-lamicall-s-tablet-supports-ergonomic-design/"><u>Practicality at Its Best: A Critique on the Lamicall S Tablet Support's Ergonomic Design</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/qt-gif-online-movavi/"><u>QT GIF 무료 변환 - Online 자동화: 이제 시청자를 위해 Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tech-must-haves-for-ultimate-holiday-adventures/"><u>Top Tech Must-Haves for Ultimate Holiday Adventures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-performers-the-leading-8k-camera-lineup/"><u>[New] Best Performers The Leading 8K Camera Lineup</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlocking-success-with-spotify-marketing-tips/"><u>[New] Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-which-livestreaming-tool-wins-obs-or-bandicam/"><u>[Updated] 2024 Approved Which Livestreaming Tool Wins OBS or Bandicam?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-securely-download-instagram-content-in-multiple-ways/"><u>[Updated] In 2024, How to Securely Download Instagram Content in Multiple Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-guide-to-authentic-chatgpt-software/"><u>Apple's Guide to Authentic ChatGPT Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-zte-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on ZTE .</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-huion-kamvas-gt-191-graphic-tablet-analysis-the-ultimate-artists-choice/"><u>Comprehensive Huion Kamvas GT-191 Graphic Tablet Analysis - The Ultimate Artist's Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoos-high-tech-3d-printer-neptune-x4-pro-now-a-steal-at-284/"><u>Elegoo's High-Tech 3D Printer - Neptune X4 Pro Now a Steal at $284</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-lg-watch-style-sets-the-standard-for-wear-os-20-powered-smartwatches-a-review/"><u>How the LG Watch Style Sets the Standard for Wear OS 2.0-Powered Smartwatches – A Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-gionee-frp-bypass-by-drfone-android/"><u>In 2024, About Gionee FRP Bypass</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/status-bt-dive-budget-friendly-yet-not-perfected/"><u>Status BT Dive: Budget-Friendly, Yet Not Perfected</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-apex-of-eye-tech-premier-smart-frames-and-lenses/"><u>The Apex of Eye-Tech: Premier Smart Frames and Lenses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ring-doorbell-pro-examined-a-smart-home-essential-reviewed/"><u>The Ring Doorbell Pro Examined: A Smart Home Essential Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-small-and-efficient-the-ourlink-u6-usb-30-wireless-network-adapter-experience/"><u>Ultra-Small and Efficient: The Ourlink U6^_ USB 3.0 Wireless Network Adapter Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-of-viairs-portable-88p-air-compressor-strength-vs-weaknesses/"><u>Unveiling the Pros and Cons of Viair's Portable 88P Air Compressor - Strength Vs. Weaknesses</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-novices-blueprint-for-efficient-audio-track-mixing-in-adobe-premiere-pro/"><u>Updated 2024 Approved The Novices Blueprint for Efficient Audio Track Mixing in Adobe Premiere Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of Apple's Newest Smartphone, the iPhone Cu
-date: 2024-08-22T17:47:56.618Z
-updated: 2024-08-23T17:47:56.618Z
+date: 2024-10-17T17:50:04.247Z
+updated: 2024-10-18T17:16:17.319Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of Apple's Newest Smartphone, the iPhone Cu
@@ -41,6 +41,13 @@ Lifewire / Jordan Provost
 
 ![Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp](https://www.lifewire.com/thmb/c9nvEoRMRBjYcwbVPMqxcJWpqBg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-4137028-1-3-5c8fee16c9e77c0001ff0b33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jordan Provost
 
 [View On Amazon](https://www.amazon.com/dp/B075S53HD9/?tag=lifewire-onsite-prod-20&ascsubtag=4589395%7Cn1f0a866f6147413ba03c22019cdaa97609%7CB075S53HD9) [View On Walmart](https://www.walmart.com/ip/544380672) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6165966.p)
@@ -67,18 +74,12 @@ Lifewire / Jordan Provost
 
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Setup: Very user-friendly, if oddly shaped**
 
  At 12 inches in diameter, 8.8 inches wide, and weighing 3.2 pounds, the Somneo is one of the larger and heavier clocks to grace a bedside table. Its shape is odd as well. Most light therapy clocks put the time interface in the center and the light circles around this. The Somneo, however, retains this shape, but places a hole in the center and the time interface at the bottom. It’s odd, but not objectionable, making the Somneo look more like a modern designer piece than your standard bedside light.
 
 ![Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp](https://www.lifewire.com/thmb/idFMYxSvr4WNKHfmtginjcQrPy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4137028-1-2-5c8fee3dc9e77c0001a926f6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
  A quick note: the interface itself is easy to read, and adjusts to the room’s ambient light. The clock’s home interface is easy to navigate as well. It comes with a number of simple touch-activated buttons including a light switch, an FM radio feature, and the previously mentioned wind down option.
@@ -89,6 +90,13 @@ Lifewire / Jordan Provost
 
  See Just How Well These Light Therapy Alarm Clocks Glow
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy to build, but not so easy to configure**
 
  The Somneo comes with three components: the clock, an AC adapter, charging cable, and an auxiliary cord. To set it up, we simply plugged the adapter and the charging cable into the clock, and plugged the adapter into the wall.
@@ -97,14 +105,18 @@ Lifewire / Jordan Provost
 
  The Philips Somneo is a top-tier product in the light therapy alarm clock market.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Features: Great for falling asleep**
 
  The unique feature about the Philips Somneo is that it offers a “wind down” feature, which includes both a sunset simulation and breathing exercises. Simply tap the wind down button, and then tap the sunset option, and the light slowly diminishes from a bright yellow hue, morphing to oranges and reds before it completely turns off. We like that the lights don’t suddenly switch off at the beginning and end — every light-related feature with the Somneo gradually fades and brightens.
 
  This feature also comes into play during breathing exercises, as it brightens as you breathe in and fades as you breathe out. If you want the light to stay on, you can use it in lamp mode to let it double as a night light or a bedside lamp. There are 25 brightness levels, but we noticed that while the Somneo is a great nightlight, the high brightness wasn’t quite good enough to be a lamp. You can read from it, but it’s just not an optimal bedside light.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Waking up: It’s a breeze**
 
@@ -120,19 +132,20 @@ Lifewire / Jordan Provost
 
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Radio: An extra convenience**
 
  Because the audio is superb, we thoroughly tested the radio feature. The user can preset five radio stations, and can easily control swapping between them. We couldn’t flip back and forth between the options, but rather cycled through the other stations before coming back to the original. There is a volume section under the FM radio where you can easily increase or decrease it, though it was confusing to find at first. Once you become familiarized with it, though, it’s simple to maneuver.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Top end for high-end products**
 
  At $199.99, the Somneo is priced on the high-end for light therapy alarm clocks. However, you get what you pay for: great audio quality, gradual, subtle light changes, and more alarm options than most clocks on the market. We especially liked the radio preset feature as well as the auxiliary option for phone playback — an extra option nearly all other light therapy clocks lack. While pricey, the Somneo really boasts all the bells and whistles you may want or need.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Philips Somneo vs. Philips HF3520 Wake-Up Light**
 
@@ -146,15 +159,19 @@ Lifewire / Jordan Provost
 
  With unique features and great audio and light quality, the Philips Somneo is a worthwhile investment for anyone who wants to add to their relaxing bedtime or wake-up routine. However, if price is a major factor in deciding between clocks, it might be best to pick a cheaper option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Philips HF3520 Wake-Up Light Therapy Lamp](https://www.lifewire.com/philips-hf3520-light-therapy-alarm-clock-review-4589352)
 * [Philips HF3505 Wake-Up Light](https://www.lifewire.com/philips-hf3505-wake-up-light-review-4589402)
 * [Aura Daylight Therapy Lamp](https://www.lifewire.com/aura-daylight-therapy-lamp-review-4772136)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review
@@ -174,8 +191,6 @@ Lifewire / Jordan Provost
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +198,22 @@ Lifewire / Jordan Provost
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfecting-your-videos-the-power-of-proper-thumbnails/"><u>[Updated] 2024 Approved Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-petite-plot-puzzle-piece/"><u>[Updated] 2024 Approved Petite Plot Puzzle Piece</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-lenovo-firmware-boost-for-yoga-900/"><u>Effortless Lenovo Firmware Boost for Yoga 900</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a58-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A58 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-igtv-broadcasts-to-facebook-explained/"><u>In 2024, IGTV Broadcasts to Facebook Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop/"><u>In 2024, Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/revolutionize-your-storytelling-controlling-instagrams-video-speed-for-2024/"><u>Revolutionize Your Storytelling Controlling Instagram's Video Speed for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elder-scrolls-v-skyrim-on-the-nintendo-switch-an-unparalleled-rpg-journey/"><u>The Elder Scrolls V: Skyrim on the Nintendo Switch – An Unparalleled RPG Journey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-jacobs-smartpro-digital-tire-inflator-a-compact-high-potency-tool-reviewed/"><u>The Ultimate Guide to the Jacobs SmartPro Digital Tire Inflator: A Compact, High-Potency Tool Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essential-factors-to-assess-when-selecting-your-ideal-fitness-tracker/"><u>Top 5 Essential Factors to Assess When Selecting Your Ideal Fitness Tracker</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-apple-discounts-on-prime-day-save-big/"><u>Top Apple Discounts on Prime Day - Save Big</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-assessment-the-best-all-purpose-laptop-chiller-from-kooteks-collection/"><u>Ultimate Assessment: The Best All-Purpose Laptop Chiller From Kootek's Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-best-wireless-trackers-of-2024/"><u>Ultimate Guide to the Best Wireless Trackers of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-twelve-souths-bookbook-v2-for-macbook-expert-review-and-unboxing/"><u>Ultimate Guide: Twelve South's BookBook V2 for MacBook - Expert Review & Unboxing</u></a></li>
+</ul></div>
 

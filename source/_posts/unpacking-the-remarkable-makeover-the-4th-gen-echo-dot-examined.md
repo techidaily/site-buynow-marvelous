@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Remarkable Makeover: The 4Th Gen Echo Dot Examined"
-date: 2024-08-22T17:46:20.353Z
-updated: 2024-08-23T17:46:20.353Z
+date: 2024-10-14T18:39:33.995Z
+updated: 2024-10-18T16:22:33.052Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking the Remarkable Makeover: The 4Th Gen Echo Dot Examined"
@@ -38,6 +38,13 @@ Lifewire / Andy Zahn
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
 
 4.3
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Canon PowerShot SX70
 
@@ -87,6 +94,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
@@ -98,8 +112,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -116,9 +134,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -135,9 +150,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -153,8 +165,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -170,8 +186,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -204,9 +224,6 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -238,8 +255,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +262,26 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-change-twitter-video-box-art/"><u>[Updated] Change Twitter Video Box Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdwindows/"><u>最新のDVD動画ソフトで、あなたのWindows まったく別次元へ! - お試しいただきたい無料版はこちら</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apcs-1500va-ups-system-review-exceptional-performance-abundant-outlets-and-battery-interchangeability-explored/"><u>APC's 1500VA UPS System Review - Exceptional Performance, Abundant Outlets & Battery Interchangeability Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apples-premier-laptop-showdown-detailed-analysis-of-the-macbook-pro-m1-2021-model/"><u>Apple's Premier Laptop Showdown: Detailed Analysis of the MacBook Pro (M1, 2021 Model)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bargain-bins-best-shot-yet-ux-curse-in-nikon-a10/"><u>Bargain Bin's Best Shot - Yet UX Curse in Nikon A10?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amplifi-hd-mesh-network-analysis-eliminating-all-your-wi-fi-coverage-gaps/"><u>Comprehensive Amplifi HD Mesh Network Analysis: Eliminating All Your Wi-Fi Coverage Gaps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-garmin-vivosmart-4-features-including-body-battery-and-stress-tracking/"><u>Comprehensive Analysis of Garmin Vivosmart 4: Features Including Body Battery & Stress Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apple-tv-4k-evaluation-superior-hd-streaming-and-voice-assistant-integration/"><u>Comprehensive Apple TV 4K Evaluation: Superior HD Streaming & Voice Assistant Integration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-dell-g5-5090-analysis-an-affordable-powerhouse-for-gamers-with-endless-customization/"><u>Comprehensive Dell G5 5090 Analysis: An Affordable Powerhouse for Gamers with Endless Customization</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-a71-5g-an-affordable-alternative-that-stands-up-against-top-tier-phones/"><u>Comprehensive Guide to the Samsung Galaxy A71 5G - An Affordable Alternative That Stands Up Against Top-Tier Phones</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprendre-le-comportement-des-fichiers-supprimes-sur-une-cle-usb-pourquoi-ils-ne-vont-pas-directement-a-la-corbeille/"><u>Comprendre Le Comportement Des Fichiers Supprimés Sur Une Clé USB : Pourquoi Ils Ne Vont Pas Directement À La Corbeille?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/creating-on-a-grand-scale-unveiling-the-artistry-and-functionality-in-huions-kamvas-gt-191-pen-display-review/"><u>Creating on a Grand Scale: Unveiling The Artistry & Functionality in Huion's Kamvas GT-191 Pen Display Review.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-rationale-hackers-and-chatgpt/"><u>Decoding the Rationale: Hackers and ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-microphone-functionality-in-steelseries-arctis-1/"><u>Expert Tips: Restoring Microphone Functionality in SteelSeries Arctis 1</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/re-advanced-video-control-in-youtubes-playback-features-for-2024/"><u>Explore Advanced Video Control in YouTube’s Playback Features for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pivot-point-review-diversifying-video-tech/"><u>In 2024, Pivot Point Review Diversifying Video Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-vision-record-studio-2021/"><u>In 2024, Vision Record Studio 2021</u></a></li>
+</ul></div>
 

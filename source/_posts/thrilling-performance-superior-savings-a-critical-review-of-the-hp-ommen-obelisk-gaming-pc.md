@@ -1,7 +1,7 @@
 ---
 title: Thrilling Performance, Superior Savings - A Critical Review of the HP OMMEN Obelisk Gaming PC
-date: 2024-08-15T09:20:17.072Z
-updated: 2024-08-16T09:20:17.072Z
+date: 2024-10-16T17:04:41.379Z
+updated: 2024-10-18T19:44:28.724Z
 categories:
   - BestProducts
 description: This Article Describes Thrilling Performance, Superior Savings - A Critical Review of the HP OMMEN Obelisk Gaming PC
@@ -39,14 +39,15 @@ Lifewire / Andrew Hayward
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ASUS Chromebook Flip C302CA-DHM4
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/A6HRRNfYS6KrVqW-2K3fI0NN7EI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_HeroSquare-01d50171ef9c411f82467742bfad1126.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -112,6 +113,13 @@ Lifewire / Andrew Hayward
 
  It also acts like an extra-large tablet screen since it’s a touchscreen with 10 points of interaction. It felt just as responsive as any tablet we’ve used.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: It does what it can**
 
  You really can’t pit the Chromebook Flip against pricier Windows and Mac laptops in terms of sheer processing power because Chromebooks aren’t built to be beasts. But they don’t really need to be: the highest quality of graphics processing it’ll need to handle are mobile-quality games, since the Chromebook Flip can run Android apps from the Play Store, and you’re not able to download high-end games from Steam or the Epic Games Store.
@@ -125,26 +133,31 @@ Lifewire / Andrew Hayward
  That comparison held up when playing Android racing game Asphalt 9: Legends, which ran at a pretty smooth clip but definitely looked fuzzier than usual thanks to being blown up for the larger screen. Online battle royale shooter PUBG Mobile also ran solidly, although the keyboard and trackpad combination didn’t feel right. We folded the screen back entirely and just used the touchscreen, which worked fine.
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/7B1-43v0GHPcS2HESabWT97_XPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_Keyboard_03-8bc37c7c2d0243bb8ed1fa10e338374f.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Audio: Sounds fine**
 
  The tiny speaker grates on the left and right side of the Chromebook Flip don’t look too promising, but the playback quality was better than expected. Music output isn’t big and bold, but it’s pretty clear and it can get loud without getting too muddled. Video playback via YouTube and Netflix was sometimes too quiet at full volume, however.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Network: No complaints here**
 
  The Chromebook Flip has dual-band Wi-Fi that can connect to both 2.4Ghz and 5Ghz networks, and we had no issues with either during our testing. We went online at a home network and a Starbucks Google network alike, and things were routinely speedy. On the home network, we saw speeds of about 33Mbps and upload speeds in excess of 10Mbps—essentially the same as we’ve seen with[other laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) and[smartphones](https://www.lifewire.com/best-smartphones-4043781) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## **Battery: Nearly a day’s worth**
 
  Even with a budget-friendly price, the Asus Chromebook Flip 12.5-inch doesn’t skimp on battery life. The 39Wh battery cell is rated for up to 10 hours, and while that estimate is ambitious for everyday use, we typically saw seven or more hours of mixed usage with the screen at full brightness. That’s for our usual workflow of surfing the web, typing out documents, watching some YouTube videos, and streaming music from Spotify.
@@ -154,15 +167,22 @@ Lifewire / Andrew Hayward
  Our laptop video rundown test, which streams a Netflix movie over Wi-Fi while at 100 percent brightness, delivered a similar result: it lasted 6 hours, 57 minutes before the Chromebook Flip shut down. In both use cases, we were pleasantly surprised by the battery performance of the device—it even beat the 2018 MacBook Air.
 
 ![Asus Chromebook Flip C302CA](https://www.lifewire.com/thmb/VR5Y-1tDILHowNSeA408pnLVtgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Chromebook_closed_04-bde5ec8f988c4bb49e4019f95cc47c31.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: It’s definitely different**
 
  ChromeOS delivers an experience that’s halfway between a desktop PC and an Android tablet. It’s a much simpler approach to PC usage, focusing only on essential features and functionality. The interface has a PC-like bar at the bottom, but it’s really more like an app dock on your phone or tablet. Unsurprisingly, the experience is built around Google’s own apps, coming preloaded with the Chrome web browser, Google Docs, YouTube, Google Photos, Google Maps, and more.
@@ -186,8 +206,12 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Asus Chromebook Flip C302CA vs. Apple MacBook Air**
 
  On paper, these laptops shouldn’t be comparable. At $1,099 or more, the MacBook Air is one of the most polished and premium ultraportable laptops you can buy today. The perks are obvious: it has a sleek and refined build, the brighter and higher-resolution 13.3-inch display is gorgeous, and the touchpad is excellent. It also runs macOS, a more robust operating system that still manages to be easy to use.
@@ -202,9 +226,6 @@ Lifewire / Andrew Hayward
 
  Just as the recent crop of cheap, strong mid-range phones has made many flagship smartphones seem excessive and unnecessary, the Asus Chromebook Flip C302CA does much the same for laptops. This is a seriously impressive and versatile notebook without any major deficiencies, and it’s priced at just $499—less than half the price of the cheapest Apple laptop right now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Chromebook Flip C302CA-DHM4
@@ -222,14 +243,11 @@ Lifewire / Andrew Hayward
 * Battery Capacity  39 Wh
 * Ports  2x USB-C, microSD, 3.5mm headphone port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,4 +256,21 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cut-to-impact-in-depth-youtube-video-editing-mastery/"><u>[New] Cut to Impact In-Depth Youtube Video Editing Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-and-stand-out-twitters-video-directive/"><u>[New] Streamline and Stand Out Twitter's Video Directive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-life-in-motion-a-comprehensive-review-of-camplus-cubeplus/"><u>2024 Approved Capturing Life in Motion A Comprehensive Review of Cam+ Cube+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-rax80-experience-lightning-fast-wi-fi-6-connectivity/"><u>Comprehensive Analysis of the Netgear Nighthawk RAX80: Experience Lightning-Fast Wi-Fi 6 Connectivity</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guia-completa-sobre-la-migracion-del-sistema-operativo-windows-10-desde-un-hd-tradicional-mbr-hacia-un-moderno-ssd-con-protocolo-gpt/"><u>Guía Completa Sobre La Migración Del Sistema Operativo Windows 10 Desde Un HD Tradicional MBR Hacia Un Moderno SSD Con Protocolo GPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-choose-a-motherboard-7-factors-to-consider/"><u>How to Choose a Motherboard: 7 Factors to Consider</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-10t-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme 10T 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 12 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-proven-methods-for-high-quality-webinars/"><u>In 2024, Proven Methods for High-Quality Webinars</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-galaxys-f-150-rc-behemoth-a-comprehensive-tricked-out-truck-review/"><u>In-Depth Analysis: Galaxy's F-150 RC Behemoth - A Comprehensive Tricked-Out Truck Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-big-this-prime-day-with-amazing-discounts-on-tribit-audio-gear/"><u>Save Big This Prime Day with Amazing Discounts on Tribit Audio Gear!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-high-quality-body-cams-for-law-enforcement-2024-edition/"><u>The Ultimate Selection of High-Quality Body Cams for Law Enforcement, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thorough-review-of-winegards-fl5500a-flatwave-antenna-reliable-quality-meets-steep-pricing/"><u>Thorough Review of Winegard's FL5500A FlatWave Antenna: Reliable Quality Meets Steep Pricing</u></a></li>
+</ul></div>
 

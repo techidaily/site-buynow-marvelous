@@ -1,7 +1,7 @@
 ---
 title: Best Free Alternative for Professional Photo Editing on Any Device – Exploring GIMP
-date: 2024-08-22T17:46:40.914Z
-updated: 2024-08-23T17:46:40.914Z
+date: 2024-10-11T18:56:55.675Z
+updated: 2024-10-18T17:23:49.139Z
 categories:
   - BestProducts
 description: This Article Describes Best Free Alternative for Professional Photo Editing on Any Device – Exploring GIMP
@@ -71,6 +71,13 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: An accessory that blends in
 
  The Halo band doesn’t overwhelm the senses. I tested a small-sized band in silver and appreciated the streamlined bracelet style form factor. The fabric strap, which is a mix of sweat-wicking synthetics, has an athleisure look and feel: sporty but not to the degree that it screams sport watch. Rounding out the minimalist look is one sole button on the side of the sensor unit, which is flanked by an[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) indicator and one of two internal microphones. The other mic is located on the back, along with the optical sensor; it's largely undetectable if you manage a close fit.
@@ -80,8 +87,12 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Comfort: Streamlined but not immune to typical fit issues
@@ -112,9 +123,6 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -125,9 +133,6 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -137,17 +142,32 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Amazon Halo vs. WHOOP Strap 3
 
  The WHOOP Strap 3 is another screen-less fitness tracker with a minimalist bent but a bigger buy-in and emphasis on performance. Unlike the Halo, the WHOOP Strap requires a WHOOP membership, which, at the lowest end, costs $30 monthly for a 6-month membership or $180 total (band included). The Halo band comes with a free six-month subscription to Halo app services, then a $3.99 monthly charge, so it’s considerably cheaper—especially since WHOOP recommends replacing their fabric strap every six months as well.
@@ -160,9 +180,6 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
@@ -191,8 +208,6 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +215,21 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pcs-ultimate-guide-to-ps1-game-emulation-software/"><u>[Updated] PC's Ultimate Guide to PS1 Game Emulation Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-flicker-fun-prime-speedy-software-for-systems/"><u>2024 Approved Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-joining-twitter-conversations-successfully/"><u>A Beginner's Guide: Joining Twitter Conversations Successfully</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/elevate-your-livestream-quality-with-manycams-advanced-virtual-webcam-technology/"><u>Elevate Your Livestream Quality with ManyCam's Advanced Virtual Webcam Technology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy M14 5G Bootloader Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-surface-pro-4-driver-setup-and-installation-guide-for-windows-pcs/"><u>Microsoft Surface Pro 4 Driver Setup and Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-oculus-quest-2-microphone-issues-a-step-by-step-guide/"><u>Solving Oculus Quest 2 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-google-nest-wifi-fast-and-reliable-mesh-networking-explained/"><u>The Ultimate Guide to Google Nest Wifi: Fast and Reliable Mesh Networking Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-barnes-and-noble-nook-glowlight-3-your-perfect-partner-for-nighttime-stories/"><u>The Ultimate Guide to the Barnes & Noble Nook GlowLight 3: Your Perfect Partner for Nighttime Stories</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-premium-smartwatches-available-in-2-best-performing-smartwatch-devices-to-buy/"><u>The Ultimate Selection of Premium Smartwatches Available in 2# Best-Performing Smartwatch Devices to Buy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-visual-and-technological-leap-comprehensive-review-of-the-m1-chip-powered-imac/"><u>The Visual and Technological Leap - Comprehensive Review of the M1 Chip-Powered iMac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-wireless-mouse-picks-for-2/"><u>Top-Ranking Wireless Mouse Picks for 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-lg-gram-156-laptop-unbeatable-combination-of-portability-and-endurance/"><u>Ultimate Guide: LG Gram 15.6 Laptop - Unbeatable Combination of Portability & Endurance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-vivo-v30-pro-by-drfone-android/"><u>Universal Unlock Pattern for Vivo V30 Pro</u></a></li>
+</ul></div>
 

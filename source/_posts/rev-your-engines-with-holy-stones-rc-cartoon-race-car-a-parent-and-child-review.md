@@ -1,7 +1,7 @@
 ---
 title: Rev Your Engines with Holy Stone's RC Cartoon Race Car – A Parent and Child Review
-date: 2024-08-22T17:49:56.120Z
-updated: 2024-08-23T17:49:56.120Z
+date: 2024-10-13T20:43:33.566Z
+updated: 2024-10-18T17:53:14.297Z
 categories:
   - BestProducts
 description: This Article Describes Rev Your Engines with Holy Stone's RC Cartoon Race Car – A Parent and Child Review
@@ -41,6 +41,13 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 [View On Amazon $17](https://www.amazon.com/dp/B01L8M215A?tag=lifewire-onsite-prod-20&ascsubtag=5193471%7Cn3d06d6a443e14152b7728753066731b712%7CB01L8M215A)
@@ -63,6 +70,13 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -72,8 +86,12 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
  It has two little flip-up stopper nubs at the bottom to hold your laptop in place, and they can be gradually adjusted to avoid having them stick up and press into your wrists while typing. Meanwhile, a pair of feet on the bottom of the pad flip out to elevate your laptop about an inch upward to improve air circulation.
@@ -90,9 +108,6 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/xhFp_B4P4BG8gb4dtJAGBbXPAlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_05-4ce850d84f4a4e1d931588e23f39cb82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
 ## Performance: It makes a difference
@@ -109,9 +124,6 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
@@ -124,10 +136,14 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
 
@@ -140,17 +156,18 @@ Lifewire / Andrew Hayward
  Durability questions aside, the TopMate C302 Laptop Cooling Pad ultimately worked about as well as the other, pricier pads I tested, helping to offset some of the heat generated by a very hot gaming laptop. If you’re concerned about long-term damage or performance degradation from an overheating laptop, the C302 is a cost-efficient way to help keep your notebook from reaching extreme heat peaks.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C302 Laptop Cooling Pad
@@ -164,14 +181,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +194,24 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-video-loading-boosted-tricks-for-all-devices/"><u>[New] In 2024, Instagram Video Loading Boosted Tricks for All Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>[New] Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[Updated] Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-razers-portable-solution-for-gamers-enhanced-wi-fi-connectivity-unveiled/"><u>A Closer Look at Razer’s Portable Solution for Gamers - Enhanced Wi-Fi Connectivity Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722960097015-affordable-excellence-in-gaming-pcs-the-comprehveiw-of-hps-omen-obelisk/"><u>Affordable Excellence in Gaming PCs: The Comprehveiw of HP's Omen Obelisk.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apex-choice-of-keyboard-palm-rest-mats-ergonomic-selections-for-the-year-2024/"><u>Apex Choice of Keyboard Palm Rest Mats: Ergonomic Selections for the Year 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assassins-creed-valhalla-and-its-monumental-journey-through-medieval-lore-a-game-review/"><u>Assassin's Creed: Valhalla and Its Monumental Journey Through Medieval Lore – A Game Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-bw-16d1c-u-blu-ray-drive-insight-a-combination-of-style-and-quirkiness-explored/"><u>Asus BW-16D1C-U Blu-Ray Drive Insight: A Combination of Style and Quirkiness Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audio-arena-airpods-pro-vs-samsungs-pod-tastic-buds-pro/"><u>Audio Arena: AirPods Pro vs Samsung's Pod-Tastic Buds Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-online-da-mkv-a-m2ts-con-movavi/"><u>Conversione Gratuita Online Da MKV a M2TS Con Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/download-and-enjoy-free-audiobooks-anytime-anywhere-best-apps-for-android-devices/"><u>Download & Enjoy Free Audiobooks Anytime, Anywhere: Best Apps for Android Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infusing-video-narratives-with-apple-harmony/"><u>Infusing Video Narratives with Apple Harmony</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-best-online-pixel-ringtones-hubs/"><u>Navigating the Best Online Pixel Ringtones Hubs</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalized-scheduling-in-outlook-for-windows-enthusiasts/"><u>Personalized Scheduling in Outlook for Windows Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723070955380-top-apple-offers-on-prime-day-exclusive-discounts-and-savings/"><u>Top Apple Offers on Prime Day: Exclusive Discounts & Savings!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-a-closer-look-at-kobo-clara-colour/"><u>Unveiling The Features - A Closer Look at Kobo Clara Colour</u></a></li>
+</ul></div>
 

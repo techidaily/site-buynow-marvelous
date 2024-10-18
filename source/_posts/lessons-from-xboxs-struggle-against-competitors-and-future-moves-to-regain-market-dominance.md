@@ -1,7 +1,7 @@
 ---
 title: Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
-date: 2024-10-08T21:07:05.649Z
-updated: 2024-10-12T19:36:19.334Z
+date: 2024-10-16T19:15:37.041Z
+updated: 2024-10-18T20:00:13.355Z
 tags:
   - games
   - tv
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * The Series X|S built on the success of Game Pass, backwards compatibility, and Microsoft exclusives but has failed to see the success of Microsoft's rivals, which means the next Xbox is likely to look very different from the last.
 
  By some estimates, the PS5 is outselling both Xbox Series consoles by more than four times to one. Microsoft is now adopting a multi-platform strategy and bringing games to Sony’s platform. So what went wrong, and what happens next?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How the Xbox 360 Won the West
 
@@ -52,6 +45,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unfortunately, this wouldn’t last.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Xbox One Gambled Everything on the Living Room (and Lost)
 
  The Xbox One was an unmitigated disaster for Microsoft. So much went wrong in such a short time that Sony’s brand-new PlayStation 4 was easily able to establish itself as the dominant platform shortly after release.
@@ -61,13 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  On top of this, every Xbox One was sold with a Kinect sensor. Initially, this was to be connected at all times, but Microsoft quickly backtracked and removed the requirement. Given the Kinect’s lukewarm reception among Xbox 360 users, its inclusion with the Xbox One didn’t help sweeten the deal at the console's $499 launch point.
 
 ![Xbox One Kinect sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/b950b2b1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -88,10 +81,10 @@ Microsoft
 ![Xbox Series X and Xbox Series X consoles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/xbox-x-vs-s-resized.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy-27-december-2020-new-video-1882894459)_
@@ -122,6 +115,13 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
 
 ![The start of a multiplayer match in Halo: Infinite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/halo_infinite.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Halo: Infinite_  
 Tim Brookes / How-To Geek
 
@@ -134,10 +134,10 @@ Tim Brookes / How-To Geek
  Whatever happens, it’s hard to see a future for the Xbox where the next piece of hardware isn’t radically different from what came before it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Microsoft Still Dominates Gaming
@@ -161,19 +161,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelpreserve-a-comprehensive-screen-record-review/"><u>[Updated] 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-rated-economical-timer-services/"><u>[Updated] Top-Rated Economical Timer Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-environment-choices-for-live-sharing/"><u>2024 Approved Key Environment Choices for Live Sharing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/from-unmatched-value-to-enhanced-performance-discover-the-remarkable-upgrades-in-apples-newest-102-inch-ipad-our-complete-review/"><u>From Unmatched Value to Enhanced Performance: Discover the Remarkable Upgrades in Apple's Newest 10.2 Inch iPad - Our Complete Review!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-battle-apple-tv-4k-versus-roku-ultra-features-reviewed/"><u>Head-to-Head Battle: Apple TV 4K Versus Roku Ultra Features Reviewed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-tactical-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Tactical Edition without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hulus-partners-beyond-amazon-firetv/"><u>Hulu's Partners Beyond Amazon FireTV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-perfectly-preserve-facebook-films-with-top-5-chrome-plugs/"><u>In 2024, Perfectly Preserve Facebook Films with Top 5 Chrome Plugs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-130-music-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia 130 Music Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-topmate-c302-portable-laptop-chiller-economical-yet-powerful-solution/"><u>In-Depth Assessment of the TopMate C302 Portable Laptop Chiller: Economical yet Powerful Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-urban-armor-macbook-pro-case-striking-the-balance-between-protection-and-practicality/"><u>In-Depth Review of Urban Armor MacBook Pro Case: Striking the Balance Between Protection and Practicality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-apple-vision-pro-worth-its-price-consider-these-points/"><u>Is the Apple Vision Pro Worth Its Price? Consider These Points</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost-for-2024/"><u>Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonys-choice-top-10-songs-that-say-yes/"><u>[New] Harmony's Choice Top 10 Songs That Say 'Yes!'</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-excellent-live-broadcast-achieving-ultra-hd-fb-video/"><u>[Updated] 2024 Approved Excellent Live Broadcast Achieving Ultra-HD FB Video</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-record-screencast-from-youtube-for-free/"><u>[Updated] 2024 Approved How To Record Screencast From YouTube For Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-demystifying-the-use-of-luts-in-professional-photoshop-workflows-for-2024/"><u>[Updated] Demystifying the Use of LUTs in Professional Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz/"><u>2024 Approved Navigating Through the Maze Creating Seamless Video Experienences in Pixiz</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-se-2022-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone SE (2022) Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-repairing-and-optimizing-microsoft-edge-performance-issues/"><u>Expert Advice on Repairing and Optimizing Microsoft Edge Performance Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching/"><u>In 2024, Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) with IMEI Code?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-how-to-save-flash-content-in-macos-systems/"><u>Step-by-Step Tutorial: How to Save Flash Content in macOS Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-plug-devices/"><u>Top Rated Smart Plug Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-xbox-series-x-and-series-s-peripherals-for-enhanced-gaming/"><u>Top Rated Xbox Series X & Series S Peripherals for Enhanced Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-recommended-gopro-gadgets-and-extras/"><u>Top Recommended GoPro Gadgets and Extras</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-recommended-steam-deck-and-rog-ally-docks-your-ultimate-guide/"><u>Top Recommended Steam Deck & ROG Ally Docks : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-steam-deck-stands-and-mounts-2023-edition/"><u>Top-Rated Steam Deck Stands & Mounts - 2023 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-ultimate-laptop-picks-for-2/"><u>Top-Rated Ultimate Laptop Picks for 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-2023-guide-leading-innovative-smart-home-products/"><u>Ultimate 2023 Guide: Leading Innovative Smart Home Products</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-defense-exclusive-picks-for-the-finest-samsung-galaxy-s23-ultra-cases/"><u>Ultimate Defense: Exclusive Picks for the Finest Samsung Galaxy S23 Ultra Cases</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-nintendo-switch-upgrades-for-gamers/"><u>Ultimate Guide: Leading Nintendo Switch Upgrades for Gamers</u></a></li>
 </ul></div>
 

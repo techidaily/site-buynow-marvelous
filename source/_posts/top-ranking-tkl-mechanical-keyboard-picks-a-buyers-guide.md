@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking TKL Mechanical Keyboard Picks: A Buyer's Guide"
-date: 2024-10-08T19:29:39.084Z
-updated: 2024-10-12T17:26:59.499Z
+date: 2024-10-14T17:14:59.539Z
+updated: 2024-10-18T18:08:07.238Z
 tags:
   - buying-guides
 categories:
@@ -47,13 +47,6 @@ Best Wireless TKL Keyboard
 Best TKL Keyboard for Mac  
 [$100 at Amazon](https://www.amazon.com/gp/product/B0869J8XD9?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What to Look For in a TKL Mechanical Keyboard in 2024
 
  If you’re working with a small desk or want to free up space for sweeping mouse movements, it’s hard to go wrong with a TKL mechanical keyboard. These offer much of the same functionality as a full-size keyboard, though they lack a keypad---which frees up significant space and makes TKL keyboards so much smaller. They’re not as tiny as 60% keyboards, however, and with 87 keys they’re the perfect combination of form and function.
@@ -71,16 +64,16 @@ Best TKL Keyboard for Mac
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best TKL Keyboard Overall: [SteelSeries Apex Pro TKL](https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/dp/B07TBGQ6P7?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![SteelSeries Apex Pro TKL on a gaming desk with red and pink lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/steelseries-pro-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _SteelSeries_
 
@@ -102,13 +95,6 @@ _SteelSeries_
 ![apex pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apex-pro.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best TKL Keyboard Overall
 
@@ -140,26 +126,13 @@ _HyperX_
 
 ![hyperx alloy origins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/hyperx-alloy-origins.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Budget TKL Keyboard
@@ -172,15 +145,22 @@ Built with a premium aluminum body and support for the HyperX NGENUITY Software,
 
 [$69 at Amazon](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best TKL Keyboard for Gaming: [Razer Huntsman V2 TKL](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Razer Huntsman V2 TKL on a gaming desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/razer-huntsman-v2-tkl-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Razer_
@@ -245,9 +225,23 @@ Wireless keyboards don’t get much better than this. The G915 TKL is a compact,
 
 [$150 at Amazon](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best TKL Keyboard for Mac: [Keychron K8 Wireless Mechanical Keyboard](https://www.amazon.com/gp/product/B0869J8XD9?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Keychron K8 on a white desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/keychron-k8-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Keychron_
 
@@ -269,13 +263,6 @@ _Keychron_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best TKL Keyboard for Mac
 
 #####  keychron K8 Tenkeyless Wireless
@@ -290,26 +277,27 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
  TKL is short for tenkeyless. Specifically, it means the keyboard does not include the numeric keypad found on the right side of traditional keyboards.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How many keys does a TKL keyboard have?
 
  A TKL keyboard will have 87 or 88 keys, although you may find some models with macro keys that slightly inflate this number.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are TKL keyboards good for programming?
 
  Yes, TKL keyboards are good for programming, as they typically offer all the keys needed for the majority of programming languages. They’re also compact and easy to carry from one workstation to the next.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are TKL keyboards good for gaming?
 
@@ -330,19 +318,22 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-tips-for-enhancing-voiceovers-in-presentations/"><u>[New] 2024 Approved Essential Tips for Enhancing Voiceovers in Presentations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-flashstoppage-instant-video-quit-guide/"><u>[New] In 2024, FlashStoppage Instant Video Quit Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024-ultimate-list-leading-pc-audio-solutions-for-gamers/"><u>2024 Ultimate List: Leading PC Audio Solutions for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capture-gameplay-prowess-on-android-screens/"><u>Capture Gameplay Prowess on Android Screens</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/effective-temperature-regulation-with-kooteks-laptop-cooler-an-in-depth-product-review/"><u>Effective Temperature Regulation with Kootek's Laptop Cooler - An In-Depth Product Review</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-c50-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-best-online-education-resources-with-our-expert-picks-for-top-notch-course-platforms/"><u>Navigate the Best Online Education Resources with Our Expert Picks for Top-Notch Course Platforms</u></a></li>
-<li><a href="https://facebook.techidaily.com/presidents-platform-status-in-question/"><u>President's Platform Status in Question</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/smart-choice-with-the-lg-24lh4830-tv-exceptional-quality-at-budget-friendly-prices/"><u>Smart Choice with the LG 24LH4830 TV - Exceptional Quality at Budget-Friendly Prices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/smooth-out-your-instagram-experience-essential-fixes-for-mobile-devices/"><u>Smooth Out Your Instagram Experience: Essential Fixes for Mobile Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/totobays-latest-wake-up-light-an-incredible-value-for-your-morning-routine-reviewed/"><u>Totobay's Latest Wake-Up Light: An Incredible Value for Your Morning Routine Reviewed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-by-toms-equipment-insights/"><u>Unveiling the Latest in Technology by Tom's Equipment Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>[New] In 2024, Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>[New] Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-budget-friendly-miniature-aerials-review/"><u>[Updated] 2024 Approved Budget-Friendly Miniature Aerials Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-resolve-delayed-video-posts-in-facebook-messenger-for-iosandroid-users/"><u>[Updated] 2024 Approved How to Resolve Delayed Video Posts in Facebook Messenger for iOS/Android Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-incredible-analysis-and-backup-recommendations/"><u>[Updated] In 2024, Incredible Analysis & Backup Recommendations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-easy-to-use-kindle-option-the-amazon-kindle-of-2019-unveiled/"><u>Affordable and Easy-to-Use Kindle Option: The Amazon Kindle of 2019 Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cyberpunk-2077-analysis-a-bold-vision-marred-by-imperfections/"><u>Cyberpunk 2077 Analysis: A Bold Vision Marred by Imperfections</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-7-cost-free-chatbot-applications-for-quick-travel-planning-assistance/"><u>Discover 7 Cost-Free Chatbot Applications for Quick Travel Planning Assistance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-excellence-jabra-talk-45s-crystal-clear-audio-plus-lasting-charge/"><u>Discover the Excellence: Jabra Talk 45'S Crystal Clear Audio + Lasting Charge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-value-in-connectivity-a-thorough-look-at-the-tp-link-archer-c9-router/"><u>Discovering Value in Connectivity: A Thorough Look at the TP-Link Archer C9 Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-riding-the-latest-cycwagen-cargo-electric-bike/"><u>Experience Riding the Latest CycWagen Cargo Electric Bike</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 6 | Stellar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nes-classic-revival-how-to-increase-your-library-of-games/"><u>NES Classic Revival: How to Increase Your Library of Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-bouncies-budget-friendly-car-tracking-solution-simplifying-the-way-you-stay-connected-on-the-road/"><u>Review of Bouncie's Budget-Friendly Car Tracking Solution - Simplifying the Way You Stay Connected on the Road</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sound-excellence-with-jabras-evolve2-85-review/"><u>Sound Excellence with Jabra's Evolve2 85 Review</u></a></li>
 </ul></div>
 

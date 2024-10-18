@@ -1,7 +1,7 @@
 ---
 title: "DJI RoboMaster S1: Mastering Fun, Strategy, & Skills in One Amazing Tank Drone Experience!"
-date: 2024-08-22T17:46:42.067Z
-updated: 2024-08-23T17:46:42.067Z
+date: 2024-10-14T21:05:47.605Z
+updated: 2024-10-18T17:21:32.840Z
 categories:
   - BestProducts
 description: "This Article Describes DJI RoboMaster S1: Mastering Fun, Strategy, & Skills in One Amazing Tank Drone Experience!"
@@ -36,6 +36,13 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/dp/B00D2ZK1IG/?tag=lifewire-onsite-prod-20&ascsubtag=4778324%7Cn8b17d62e028148938085d16c4455799211%7CB00D2ZK1IG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/dying-light/10111372.html)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dying Light
 
@@ -75,8 +82,18 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Plot: A character torn between obligation and friendship**
 
  The initial cutscene starts with you on a plane, preparing to jump. Your name is Kyle Crane, and you’re an undercover operative. You’ll parachute to the earth while your boss explains your mission―to find a stolen file―but the second you hit the ground, things don’t go as planned. You’re attacked and forced to fire your weapon to scatter your attackers. Of course, in zombie-infested Harran, a gunshot is zombie bait. Suddenly they're swarming toward you and things look very dire, until you're rescued by a pair of strangers, a man and a woman. The man dies saving you but you and the woman escape. Her name is Jade, and she’ll play a big role throughout the story as you try to win her and her brother’s trust.
@@ -91,9 +108,6 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Gameplay: Parkour and zombies galore**
 
  You won’t have to wait long in the game before you’re introduced to its main unique mechanic: parkour. Other zombie games focus on having slow zombies you can run away from, or dumb zombies you sneak past, but Dying Light takes a completely different approach. Instead, the basic zombies are fast and almost always know where you are―but they can’t climb or jump. This means you can stay safe by leaping between rooftops, running up ramps, balancing across bars, etc. The parkour feature is the biggest thing that makes Dying Light unique in an oversaturated genre, and also part of what makes the game so much fun. It’s entertaining to cross the city running as fast as you can without pausing, challenging yourself to get from point A to point B without ever touching the ground.
@@ -111,8 +125,12 @@ Harran is a whole different city at night.
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -121,21 +139,19 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Other zombie and parkour games**
 
  There are a lot of other zombie survival games out there, but that doesn’t necessarily mean we’d recommend them if you liked Dying Light. You might consider Days Gone, another PlayStation 4 zombie apocalypse game set in an open world, but if the parkour was the main attraction, you might look into the game Mirror’s Edge Catalyst. The game follows a girl in a sci-fi world and features first-person parkour running and fighting. Instead of the rough and gritty world of Dying Light, Catalyst takes place in a sleek futuristic dystopia that's all glossy chrome and burnished glass.
@@ -148,20 +164,24 @@ Harran is a whole different city at night.
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Dying Light
 * Price  $14.00
 * Available Platforms  PC (Steam) Playstation 4 Xbox One OS X Linux
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +190,23 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-preserve-and-organize-transforming-snaps-into-gallery-photos/"><u>[New] In 2024, Preserve and Organize Transforming Snaps Into Gallery Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-recording-methods-for-environmentally-friendly-screens/"><u>[Updated] In 2024, Best Recording Methods for Environmentally Friendly Screens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-20-ae-templates-for-aspiring-designers/"><u>[Updated] Top 20 AE Templates for Aspiring Designers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-full-multitasking-in-apple-browsers/"><u>2024 Approved Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazfit-bip-smartwatch-unveiled-your-guide-to-a-budget-friendly-wearable-tech-marvel/"><u>Amazfit Bip Smartwatch Unveiled: Your Guide to a Budget-Friendly Wearable Tech Marvel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-privacy-first-securely-document-your-fb-video-conversations/"><u>In 2024, Privacy First Securely Document Your FB Video Conversations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-11-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus 11 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/plunging-deep-into-the-macabre-realm-an-essential-guide-to-bloodborne/"><u>Plunging Deep Into the Macabre Realm: An Essential Guide to Bloodborne</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-xp-pen-artist-16-pro-touchscreen-graphic-tablet-comprehensive-evaluation/"><u>Professional Xp-Pen Artist 16 Pro Touchscreen Graphic Tablet Comprehensive Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-petfeeding-solution-with-petsafe-automatic-six-meal-dispenser/"><u>Reliable PetFeeding Solution with PetSafe Automatic Six-Meal Dispenser</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-get-your-wacom-intuos-pro-working-on-windows-10/"><u>Step-by-Step Tutorial to Get Your Wacom Intuos Pro Working on Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-experts-weigh-in-on-the-motorola-mg7700-rapid-and-reliable-speeds-explored/"><u>Tech Experts Weigh in on the Motorola MG7700 – Rapid & Reliable Speeds Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-titans-clash-an-in-depth-look-at-apple-airpods-pro-and-samsung-galaxy-buds-pro/"><u>Tech Titans Clash: An In-Depth Look at Apple AirPods Pro & Samsung Galaxy Buds Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-tiny-warrior-with-big-images-g7x-mark-ii/"><u>The Tiny Warrior with Big Images: G7X Mark II</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-truth-behind-the-lens-an-honest-review-of-googles-pixel-6/"><u>The Truth Behind the Lens: An Honest Review of Google's Pixel 6</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nubia-z50-ultra-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nubia Z50 Ultra</u></a></li>
+</ul></div>
 

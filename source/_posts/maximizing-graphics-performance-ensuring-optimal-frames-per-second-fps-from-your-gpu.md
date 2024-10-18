@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-10-10T19:12:08.989Z
-updated: 2024-10-12T19:32:29.219Z
+date: 2024-10-15T17:53:41.928Z
+updated: 2024-10-18T20:53:31.353Z
 tags:
   - games
   - tv
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  There's nothing worse than the sinking feeling of disappointment you get after purchasing a shiny new graphics card when you realize that it doesn't work correctly. Before you lose your cool and return it, follow these troubleshooting tips to make sure the card was installed correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the Video Cable
 
  Before we dive into more involved troubleshooting steps, have you double-checked that your monitor's cable is plugged into the graphics card and not the motherboard? In standard computer cases, the graphics card video ports are always below the motherboard I/O. If you plug your monitor into the motherboard, the [integrated graphics will take over](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/), and your shiny graphics card will just sit unused.
@@ -35,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 ![The back of a computer with the graphics card I/O in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rsz_img20240205151519.jpg) 
 
-Ismar Hrnjicevic / How-To Geek
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Ismar Hrnjicevic / How-To Geek
 
 ##  Check the Power Cables
 
@@ -53,13 +60,6 @@ Ismar Hrnjicevic / How-To Geek
  If one of them is missing, like in the picture below, your graphics card will be unstable, crash, and drop frames. Don't ask how I know.
 
 ![A graphics card inside a computer iwth a missing 6-pin power supply cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_17h16_49.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -73,13 +73,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Once you've made sure that everything is disconnected, pull the graphics card out completely. In some cases, dust and debris can get stuck in the PCIe slot on your motherboard, so make sure to [dust it with some compressed air](https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/) while you're at it.
@@ -92,24 +85,31 @@ Jason Fitzpatrick / How-To Geek
 
  Thankfully, the solution is rather quick and painless. All you have to do is download and install [Display Driver Uninstaller (DDU)](https://www.guru3d.com/download/display-driver-uninstaller-download/), select your graphics card brand, and follow the on-screen prompts. When you're done, do a fresh installation of your graphics card drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check the In-Game Temperatures and Usage
 
 [Overheating](https://ios-unlock.techidaily.com/locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-by-drfone-ios/) doesn't just affect CPUs; it's a common problem with graphics cards as well. To [see if your graphics card is overheating](https://screen-video-capture.techidaily.com/new-election-excursions-best-gamified-democracy-sites/), turn on [your graphics card's performance overlay to monitor the GPU temperature](https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/) and play demanding games.
 
  If it's within the [graphics card's specs sheet](https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/), overheating probably isn't the issue. But if it _is_ overheating, it can cause the graphics card to slow down and consequently drop frames. To fix it, you should first check the [fans to see whether they're spinning](https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-xiaomi-by-fonelab-android-recover-contacts/). If they are, try boosting the fan to see if anything changes. If it's an older graphics card, you might have to tear the graphics card apart to change the thermal paste.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check the Graphics Card BIOS
 
  If you bought a used graphics card, there's always a small chance that the BIOS has been tampered with. For instance, miners typically use a modified BIOS to increase cryptocurrency yields. Custom firmware isn't necessarily bad, but it can change how your graphics card works.
 
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -121,18 +121,18 @@ Justin Duino / How-To Geek
 
  So, open up your dusty Steam library and download a few recent triple-A titles. If your graphics card has great FPS in those titles, it's the original game that's at fault and not your graphics card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Play Around With Windows Settings
 
  As far as gaming goes, Windows is a lot better than it used to be. Still, some features can mess with how your computer operates, the most notorious of which is [Game Mode](https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/). Microsoft has fixed and improved Game Mode over the years, but it can still cause issues, especially in older titles.
 
  Try [turning Game Mode on and off](https://vp-tips.techidaily.com/updated-optimize-visual-design-top-10-must-have-type-plugins-for-ae/) under Windows settings to see if it helps. We also have a [Windows 11 gaming optimization guide](https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/) that'll help you squeeze out even more performance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Maybe Your Other Hardware Is Holding You Back
 
@@ -155,22 +155,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/omparing-youtube-video-downloader-apps-on-android/"><u>[New] Comparing YouTube Video Downloader Apps on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finding-and-obtaining-free-image-frame-content/"><u>[New] Finding and Obtaining Free Image Frame Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>[Updated] Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-path-to-profitable-partnership-with-your-audience/"><u>[Updated] The Path to Profitable Partnership with Your Audience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>2024 Approved Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-detailed-look-at-the-tasty-turmoil-of-overcooked-2/"><u>A Detailed Look at the Tasty Turmoil of Overcooked! 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/all-about-the-holy-stone-cartoon-race-racer-the-ultimate-kids-playtime-companion/"><u>All About the Holy Stone Cartoon Race Racer: The Ultimate Kid's Playtime Companion</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-value-the-samsung-un65nu8000fxza-smart-tv-more-than-just-a-pricey-display/"><u>Analyzing Value: The Samsung #UN65#NU8000FXZA Smart TV - More than Just a Pricey Display?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-iphone-15-pro-max-and-samsung-s2n-ultra-face-off-key-feature-breakdown/"><u>Apple iPhone 15 Pro Max and Samsung S2n Ultra Face-Off: Key Feature Breakdown</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/calendar-imprinting-techniques-in-photography-for-2024/"><u>Calendar Imprinting Techniques in Photography for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-pc-maintenance-essential-toolkit-of-7-must-have-items/"><u>DIY PC Maintenance: Essential Toolkit of 7 Must-Have Items</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-solutions-for-eliminating-lags-in-assassins-creed-valhalla/"><u>Fast Solutions for Eliminating Lags in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-apple-offers-on-prime-day-save-big-on-your-favorites/"><u>Unbeatable Apple Offers on Prime Day: Save Big on Your Favorites</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-eufy-t8200-smart-video-doorbell-no-subscriptions-required/"><u>Unboxing Eufy T8200 Smart Video Doorbell - No Subscriptions Required!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mighty-gaming-engine-within-the-minuscule-xbox-series-s-console/"><u>Unveiling the Mighty Gaming Engine Within the Minuscule Xbox Series S Console</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/voice-command-mastery-the-b550-xt-experience-unveiled/"><u>Voice Command Mastery: The B550-XT Experience Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-key-money-making-moves-for-youtube-rookies-for-2024/"><u>[New] 8 Key Money-Making Moves for YouTube Rookies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breakthrough-strategies-for-effective-fb-health-promotion/"><u>[New] Breakthrough Strategies for Effective FB Health Promotion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-steps-to-clear-out-your-youtube-watch-later-collection/"><u>[New] Steps to Clear Out Your YouTube Watch Later Collection</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-fast-track-your-tiktok-video-creation-process/"><u>[Updated] In 2024, Fast-Track Your TikTok Video Creation Process</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-essential-eargasm-soundproof-plugs/"><u>Audiophile's Essential: Eargasm Soundproof Plugs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-netgear-c3700-as-a-primary-modem-solution/"><u>Evaluating the Netgear C3700 as a Primary Modem Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-unforeseen-thrills-of-yokus-island-express-an-immersive-review/"><u>Exploring the Unforeseen Thrills of Yoku's Island Express - An Immersive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-tablet-processors-influence-your-choice-in-picks-and-pans/"><u>How Tablet Processors Influence Your Choice in Picks and Pans</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-samsung-galaxy-note-9-unveiled-as-the-premier-phablet-experience/"><u>In-Depth Analysis: Samsung Galaxy Note 9 Unveiled as the Premier Phablet Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-garmin-vivosmart-4-understanding-improved-energy-levels-and-modern-stress-management-tools/"><u>In-Depth Look at Garmin Vivosmart 4: Understanding Improved Energy Levels and Modern Stress Management Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ion-audio-tailgater-plus-assessment-seamless-hours-of-enhanced-audio-experience-instantly-activated/"><u>ION Audio Tailgater Plus Assessment - Seamless Hours of Enhanced Audio Experience Instantly Activated</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-strategies-for-drone-imagery-editing-for-2024/"><u>Professional Strategies for Drone Imagery Editing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qualcomm-teaming-up-with-samsung-and-google-for-groundbreaking-arvr-smart-glasses-the-future-unveiled/"><u>Qualcomm Teaming Up With Samsung & Google For Groundbreaking AR/VR Smart Glasses – The Future Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-insight-navigating-through-features-and-performance-of-the-tcl-32s325-2019-a-user-friendly-roku-smart-tv-review/"><u>Tech Insight: Navigating Through Features and Performance of the TCL 32S325 (2019) - A User-Friendly Roku Smart TV Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972936995-the-dorsalis-pedis-pulse-palpable-on-the-top-of-the-foot-is-a-continuation-of-the-anterior-tibial-artery/"><u>The Dorsalis Pedis Pulse, Palpable on the Top of the Foot, Is a Continuation of the Anterior Tibial Artery.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lg-k51-high-end-style-hindered-by-a-torpid-processing-unit/"><u>Unveiling The LG K51: High-End Style Hindered By a Torpid Processing Unit</u></a></li>
 </ul></div>
 

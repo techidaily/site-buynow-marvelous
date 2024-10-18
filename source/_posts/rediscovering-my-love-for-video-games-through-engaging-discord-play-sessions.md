@@ -1,7 +1,7 @@
 ---
 title: Rediscovering My Love for Video Games Through Engaging Discord Play Sessions
-date: 2024-10-09T17:06:25.279Z
-updated: 2024-10-12T20:47:34.273Z
+date: 2024-10-11T21:04:06.335Z
+updated: 2024-10-18T18:33:18.069Z
 tags:
   - games
   - tv
@@ -21,22 +21,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Want a casual game that you can play while you chat with your friends? Love classical tabletop or board games and are tired of debating which games you and your friends are going to play? Discord has you covered. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Yes, Discord Has Games
 
  Discord, the ever-popular [voice chat and messaging app favored by gamers](https://extra-lessons.techidaily.com/best-of-the-best-ultimate-list-of-gopro-casings-for-2024/), also has its own games. They’re integrated directly into the client itself—no extra software required. All you need to do is join a voice channel and click the rocket ship icon. It’ll say “Start an Activity” when you hover over it. Alternatively, you can click "Choose an Activity."
 
 ![Click the rocket ship icon or click 'Choose an Activity'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/click-1-of-hte-three-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, just pick a game. If you want to join an ongoing activity or game, click the voice channel name, then click “Join Activity.”
 
  They're free, can be [run on a potato](https://tiktok-videos.techidaily.com/transform-your-tiktok-avatar-instruction-manual-for-change/), and don't need to be downloaded. That means almost any of your friends will be able to play—the games even work on your phone. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Discord Games Let You Socialize
 
@@ -49,30 +56,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A Skyrim giant about the smush the player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240506212557_1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Discord games solve those problems. Most of them are very similar to conventional board games, like Scrabble, Texas Hold Em’, or Chess. We’re able to sit down and have a real conversation. Discord's games are just entertaining enough to "Give us something to do" without being so distracting that we can't actually focus on the conversation.
 
 ![Letter League on Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/letter-league.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It comes with all the joys of "old fashioned" tabletop games, like arguments about whether limeade is better than lemonade (limeade is better), or whether water is wet or not. There is just something nice about the kind of casual banter that happens when you aren't too distracted by a game. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Games Does Discord Have?
@@ -117,24 +117,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-unique-360-degree-videos-on-an-iphone/"><u>[New] 2024 Approved Crafting Unique 360-Degree Videos on an iPhone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-to-selecting-best-windows-screen-capture-tools/"><u>[New] 2024 Approved Ultimate Guide to Selecting Best Windows Screen Capture Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-windows-8-movie-maker-an-easy-introduction/"><u>[New] Unlocking Windows 8 Movie Maker An Easy Introduction</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-streamlining-your-room-for-oculus-vr/"><u>[Updated] 2024 Approved Streamlining Your Room for Oculus VR</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/zing-the-post-upload-process-in-youtubes-ecosystem/"><u>Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/dokumentation-zur-wiederherstellung-von-sicherungskopieinhalten-in-windows-10-betriebssystemen/"><u>Dokumentation Zur Wiederherstellung Von Sicherungskopieinhalten in Windows 10 Betriebssystemen</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evolution-of-excellence-how-the-galaxy-s23-ultra-stacks-up-to-the-s21-ultra/"><u>Evolution of Excellence: How the Galaxy S23 Ultra Stacks Up to the S21 Ultra</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expanding-your-nes-classics-library-a-step-by-step-guide/"><u>Expanding Your NES Classics Library: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-and-comparison-how-does-anthropics-smart-photo-editor-stack-up/"><u>Expert Review & Comparison: How Does Anthropics' Smart Photo Editor Stack Up?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-features-and-functionality-in-map-my-ride-review/"><u>Exploring Features and Functionality in Map My Ride Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-dji-mavic-c-review-breaking-boundaries-in-aerial-capture-tech/"><u>Exploring the Skies with DJI Mavic C Review: Breaking Boundaries in Aerial Capture Tech</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-logitech-c920-professional-hd-webcam-for-crystal-clear-streaming/"><u>In-Depth Analysis of the Logitech C920 Professional HD Webcam for Crystal Clear Streaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insta360-one-x2-the-waterproof-camera-for-adventurers/"><u>Insta360 One X2: The Waterproof Camera for Adventurers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ipad-102-inch-7th-gen-review-how-ipados-transforms-your-productive-experience/"><u>IPad 10.2 Inch (7Th Gen) Review: How IPadOS Transforms Your Productive Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kobo-libra-h2o-book-reader-assessment-dive-into-simplified-watertight-literature/"><u>Kobo Libra H2O Book Reader Assessment: Dive Into Simplified, Watertight Literature</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimize-page-thickness-and-dimensions-in-control-flipping-books-before-uploading-to-flipbuilder/"><u>Optimize Page Thickness & Dimensions in Control Flipping Books Before Uploading to FlipBuilder</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/purging-hp-printer-error-code-oxc4eb827f/"><u>Purging HP Printer Error: Code OXC4EB827F</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-gpu-driver-issues-in-win1011/"><u>Unraveling GPU Driver Issues in WIN10/11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dominating-digital-space-top-5-youtube-tactics-revealed/"><u>[Updated] Dominating Digital Space Top 5 YouTube Tactics Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2023s-leading-steam-deck-sleeves-reviewed-your-definitive-choice/"><u>2023'S Leading Steam Deck Sleeves Reviewed - Your Definitive Choice</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-captures-of-macs-visual-display-under-156-characters/"><u>2024 Approved Best Captures of Mac's Visual Display (Under 156 Characters)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-simplifying-the-art-of-advertising-through-structured-content/"><u>2024 Approved Simplifying the Art of Advertising Through Structured Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-your-tunes-top-phone-apps-reviewed-for-2024/"><u>Accelerate Your Tunes Top Phone Apps Reviewed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-visionary-leap-introducing-camera-equipped-airpods-slated-for-2026-release/"><u>Apple's Visionary Leap: Introducing Camera-Equipped AirPods Slated for 2026 Release</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-ultimate-list-of-pc-gaming-joystick-devices/"><u>Expert Picks: The Ultimate List of PC Gaming Joystick Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-solutions-to-world-of-warcraft-audio-issues/"><u>Fixing the Silence: Solutions to World of Warcraft Audio Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-google-meet-conversation-blueprint-for-success-for-2024/"><u>The Google Meet Conversation Blueprint for Success for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-iphone-and-ipad-friendly-bluetooth-earphones-for-202n3/"><u>Ultimate Selection of iPhone & iPad Friendly Bluetooth Earphones for 202N3</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-iphone-13-pro-max-phone-shells-best-picks-for-the-year-2024/"><u>Ultimate Selection of iPhone 13 Pro Max Phone Shells - Best Picks for the Year 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-premium-case-options-for-your-new-samsung-galaxy-z-fold-ranked-and-reviewed/"><u>Ultimate Selection: Premium Case Options for Your New Samsung Galaxy Z Fold Ⅳ - Ranked and Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-the-top-ps5-solid-state-drives-for-gaming-excellence/"><u>Ultimate Selection: The Top PS5 Solid State Drives for Gaming Excellence</u></a></li>
 </ul></div>
 

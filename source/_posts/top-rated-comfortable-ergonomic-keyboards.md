@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Comfortable Ergonomic Keyboards
-date: 2024-08-15T09:21:04.563Z
-updated: 2024-08-16T09:21:04.563Z
+date: 2024-10-16T21:12:36.865Z
+updated: 2024-10-18T18:42:17.353Z
 categories:
   - BestProducts
 description: This Article Describes Top-Rated Comfortable Ergonomic Keyboards
@@ -41,9 +41,6 @@ Lifewire / Emily Isaacs
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
@@ -68,9 +65,6 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
@@ -86,21 +80,36 @@ Lifewire / Emily Isaacs
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -114,9 +123,6 @@ Lifewire / Emily Isaacs
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -131,9 +137,12 @@ Lifewire / Emily Isaacs
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -169,8 +178,6 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +185,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-reigning-over-youtube-top-proven-steps-for-prominence/"><u>[New] 2024 Approved Reigning Over YouTube Top Proven Steps for Prominence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-virtual-frontiers-current-trends-in-vr-tech/"><u>[New] In 2024, Virtual Frontiers Current Trends in VR Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-your-iphone-xs-full-potential/"><u>[New] Unlock Your iPhone X's Full Potential</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-x-recorder-your-companion-for-high-quality-pc-recording/"><u>[Updated] In 2024, X-Recorder Your Companion for High-Quality PC Recording</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1byone-digital-amplified-indoor-hd-tv-antenna-review-the-indoor-antenna-budget-king/"><u>1Byone Digital Amplified Indoor HD TV Antenna Review: The Indoor Antenna Budget King</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bestselling-usb-sticks-of-2024-find-the-right-one-for-you/"><u>Bestselling USB Sticks of 2024: Find the Right One for You!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-and-verdict-on-the-alcatel-joy-tab-2s-value-packed-budget-lte-device/"><u>Comprehensive Guide & Verdict on the Alcatel Joy Tab 2'S Value-Packed Budget LTE Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-mg7420-series-printer-driver-on-windows-get-set-up/"><u>Download Canon MG7420 Series Printer Driver on Windows - Get Set Up</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/finties-robust-covering-solution-for-macbook-pro-n-an-evaluation-of-its-strength-versus-its-cost-effectiveness/"><u>Fintie's Robust Covering Solution for MacBook Pro N: An Evaluation of Its Strength versus Its Cost-Effectiveness</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-updated-msi-b350-tomahawk-drivers-for-optimal-performance-in-windows-operating-systems/"><u>How to Get and Install Updated MSI B350 Tomahawk Drivers for Optimal Performance in Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-enhance-video-appeal-with-filmmaker-friendly-subscribe-button-tutorials-filmora/"><u>In 2024, Enhance Video Appeal with Filmmaker-Friendly Subscribe Button Tutorials (Filmora)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-imac-with-m1-processor-evaluation-captivating-design-and-impressive-performance/"><u>In-Depth iMac with M1 Processor Evaluation: Captivating Design & Impressive Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovative-tools-revolutionize-communication-and-learning-memojis-on-facetime-scanning-tech-for-academia-and-canine-behavior-insights-explore-the-latest-fro27/"><u>Innovative Tools Revolutionize Communication & Learning: Memojis on FaceTime, Scanning Tech for Academia & Canine Behavior Insights - Explore the Latest From the ABBYY Blog</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-vonage-still-dominant-in-the-competitive-voip-arena/"><u>Is Vonage Still Dominant in the Competitive VoIP Arena?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powershot-g9-x-mark-ii-review-traveling-in-style-and-functionality/"><u>PowerShot G9 X Mark II Review – Traveling in Style & Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-issues-aoc-monitor-wont-connect-with-windows-10/"><u>Resolving Compatibility Issues: AOC Monitor Won't Connect with Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-sketch-prosthetic-devices-a-comprehensive-guide/"><u>Top-Rated Sketch Prosthetic Devices : A Comprehensive Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Syncing Spotify with Fitbit: A Guide to Playing Tunes During Workouts"
-date: 2024-10-07T17:04:21.763Z
-updated: 2024-10-12T17:29:38.539Z
+date: 2024-10-13T19:25:06.099Z
+updated: 2024-10-18T20:25:54.120Z
 tags:
   - games
   - tv
@@ -44,13 +44,6 @@ Joe Fedewa / How-To Geek
 
  Sadly, certain Fitbit watches, [such as the Charge 6](https://hardware-updates.techidaily.com/how-to-update-your-steelseries-drivers-on-windows-devices/), are limited to YouTube Music. You won't be able to use Spotify with those devices.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Connect Spotify to Your Fitbit
 
  Open the Fitbit app on your phone, and tap the "Today" tab at the bottom of the screen (this is the default screen, so your app may open to it). Choose the "Device" image in the top left corner of the screen.
@@ -62,10 +55,16 @@ Joe Fedewa / How-To Geek
 ![Tap your watch on the Fitbit device screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/fitbit-device-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tap the big Spotify icon under the Fitbit menu.
@@ -73,15 +72,28 @@ Joe Fedewa / How-To Geek
 ![Choose the Spotify app on the Fitbit menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-app-on-fitbit-menu-2.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose "Settings" on the Spotify screen.
 
 ![Open Spotify settings to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/fitbit-spotify-settings.jpeg) 
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap "Log In" and follow the instructions that follow to log in to your Spotify Premium account.
 
@@ -91,16 +103,16 @@ Joe Fedewa / How-To Geek
 
  You will need to keep your device near your watch in order for the two gadgets to be able to communicate. If you're using a phone to play Spotify, for instance, you don't need to keep the phone in your back pocket at all times. However, if you walk several rooms away, your Fitbit watch may not be able to communicate with your phone anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Controlling Spotify With Your Fitbit
 
 ![Use Spotify controls to change songs and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/spotify-controls.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can control a variety of Spotify functions from your Fitbit watch. This includes shuffling your songs, liking a track with a heart icon, and opening up a playlist. When you make a song choice from your watch, it affects all the devices that are currently logged in with your Spotify account.
 
@@ -127,24 +139,17 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels-for-2024/"><u>[Updated] Focus on the Essentials The Compreenas for Removing Youtube Channels for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-a-comparative-analysis-of-top-10-budget-friendly-video-calls/"><u>2024 Approved A Comparative Analysis of Top 10 Budget-Friendly Video Calls</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiovisual-prospects-introductory-limosoft-kit-review/"><u>Audiovisual Prospects: Introductory LimoSoft Kit Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-law-enforcement-radios/"><u>Best Law Enforcement Radios</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/changing-the-game-in-smart-casting-detailed-review-of-chromecast-with-google-tv-vs-firetv/"><u>Changing the Game in Smart Casting: Detailed Review of Chromecast with Google TV vs FireTV</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/clarity-and-brevity/"><u>Clarity and Brevity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/classy-tech-showdown-comparing-skagen-falster-2-with-apple-products-reviewed/"><u>Classy Tech Showdown: Comparing Skagen Falster 2 with Apple Products Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-the-budget-friendly-dell-inspiron-amo-desktop/"><u>Comprehensive Assessment of the Budget-Friendly Dell Inspiron Amo Desktop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-netgear-orbi-rbs50y-optimal-yard-networking-solution/"><u>Comprehensive Evaluation of the Netgear Orbi RBS50Y - Optimal Yard Networking Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-tp-link-ac1200-wifi-repeater-re305-analysis-and-user-feedback/"><u>Comprehensive TP-Link AC1200 WiFi Repeater RE305 Analysis and User Feedback</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazfit-bip-the-ultimate-starter-gadget-for-modern-watch-lovers-reviewed/"><u>Discovering the Amazfit BIP: The Ultimate Starter Gadget for Modern Watch Lovers Reviewed!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>In 2024, Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>In 2024, Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dreammaker-8-studio-edition/"><u>In 2024, DreamMaker 8 Studio Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-hosted-network-startup-tips-for-windows-10-users-issue-resolved/"><u>Mastering Hosted Network Startup: Tips for Windows 10 Users (Issue Resolved)</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-cloning-your-hard-drive-to-a-crucial-solid-state-drive-in-various-windows-versions/"><u>Step-by-Step Guide: Cloning Your Hard Drive to a Crucial Solid State Drive in Various Windows Versions</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-3-nintendo-switch-multi-streamer-options/"><u>Top 3 Nintendo Switch: Multi-Streamer Options!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-budget-entertainment-system-insignia-ns-43df710na19-fire-tv-with-alexa-revealed/"><u>Ultimate Budget Entertainment System: Insignia NS-43DF710NA19 Fire TV with Alexa, Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-top-5-list-ps3-games-on-windows-platforms/"><u>Ultimate Top 5 List PS3 Games on Windows Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-ultimate-list-of-premium-bookshelf-speakers-for-2econds/"><u>Explore the Ultimate List of Premium Bookshelf Speakers for 2Econds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-markets-leading-boom-mics-for-professional-audio-2024-edition/"><u>Exploring the Market's Leading Boom Mics for Professional Audio - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/holiday-essentials-how-to-geeks-curated-list-of-ideal-tech-finds-to-stock-up-in-2ece-2021/"><u>Holiday Essentials: How-To Geek's Curated List of Ideal Tech Finds to Stock Up in 2Ece 2021</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-cyclic-redundancy-checks-detect-data-corruption-issues/"><u>How Cyclic Redundancy Checks Detect Data Corruption Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-integrating-ai-assistants-into-slides-with-s2t/"><u>In 2024, Integrating AI Assistants Into Slides with S2T</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-dog-tracking-devices-reviewed-discover-the-top-picks-for-pet-safety/"><u>Leading Dog Tracking Devices Reviewed: Discover the Top Picks for Pet Safety</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-innovative-smart-showers-on-the-market/"><u>Leading Innovative Smart Showers on the Market</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-how-to-fix-the-yakuza-3-remastered-game-crash-issue/"><u>PC Users! How to Fix the Yakuza 3 Remastered Game Crash Issue?</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-7hdd/"><u>Windows 7用外部HDDへの自動バックアップ手順</u></a></li>
 </ul></div>
 

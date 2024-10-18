@@ -1,7 +1,7 @@
 ---
 title: The Compact Master Speedy Flash - Get YN560IV Now at a Deal
-date: 2024-08-15T09:21:15.730Z
-updated: 2024-08-16T09:21:15.730Z
+date: 2024-10-13T21:13:56.270Z
+updated: 2024-10-18T17:07:01.533Z
 categories:
   - BestProducts
 description: This Article Describes The Compact Master Speedy Flash - Get YN560IV Now at a Deal
@@ -38,13 +38,21 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/UOD6afkRh-xS-Dh1-iagOeoOSdY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -70,8 +78,12 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Punching above the price point**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master features a robust design that doesn’t feel like the manufacturer skimped on build quality — one of our biggest concerns with budget-minded flashes like this. When adjusting the position of the[flash head](https://www.lifewire.com/using-the-dslr-pop-up-flash-492975) through its 90 degrees of vertical and 270 degrees of horizontal range, it felt very solid.
@@ -85,8 +97,12 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Features & Functionality: Full suite manual control**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master has a lot of different options that will make it an attractive option for manual shooters. But before we dive into all the things it does well, let’s talk about what you_won’t_ find in this flash. The most notable omission is TTL. For the uninitiated, Through The Lens (TTL) is a metering mode that lets a flash unit fire a series of infrared bursts and evaluates the actual light coming through the lens to determine how much power to deliver when taking a photo. It’s very handy to have for beginners and event photographers, but by no means essential for many other types of users.
@@ -141,18 +157,12 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
 * [Nikon D3400](https://www.lifewire.com/nikon-d3400-review-4776644)
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  YN560 IV Wireless Flash Speedlite Master
@@ -176,8 +186,6 @@ Lifewire / Jonno Hill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +193,19 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-step-into-the-archive-old-stories-on-facebook-for-2024/"><u>[New] Step Into the Archive Old Stories on Facebook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-digital-diary-top-picks-for-personal-video-devices/"><u>[Updated] 2024 Approved Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-efficient-mp4-conversion-software-facebook-targeted/"><u>2024 Approved Efficient MP4 Conversion Software (Facebook Targeted)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-television-with-amazonbasics-antennas-watch-free-hd-for-less/"><u>Affordable Television with AmazonBasics Antennas: Watch Free HD for Less</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/critical-bitlocker-recovery-tactics-for-it-experts-trustworthy-and-swift-secure-data-revival-in-crisis/"><u>Critical BitLocker Recovery Tactics for IT Experts | Trustworthy & Swift Secure Data Revival in Crisis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decode-the-benefits-in-depth-analysis-of-tp-link-deco-p9s-user-friendly-mesh-networking/"><u>Decode the Benefits: In-Depth Analysis of TP-Link Deco P9's User-Friendly Mesh Networking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/humanitarianism/"><u>Humanitarianism</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-poco-x6-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Poco X6 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-syma-450ci-hexacopter-premium-aerial-fun-without-breaking-the-bank/"><u>In-Depth Evaluation of the Syma 450Ci Hexacopter: Premium Aerial Fun Without Breaking the Bank</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/say-goodbye-to-nuisance-sms-the-three-step-method-for-securing-your-iphone-against-spam/"><u>Say Goodbye to Nuisance SMS: The Three-Step Method for Securing Your iPhone Against Spam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-science-behind-heimvision-a80s-analyzing-how-light-therapy-enhances-your-morning-awakening-experience/"><u>The Science Behind HeimVision A80S - Analyzing How Light Therapy Enhances Your Morning Awakening Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-viewing-experience-save-with-our-exclusive-offers-on-wonderfoxs-dvd-video-encoder-this-summer/"><u>Unlock Your Viewing Experience: Save with Our Exclusive Offers on WonderFox's DVD Video Encoder This Summer!</u></a></li>
+</ul></div>
 
