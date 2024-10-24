@@ -1,7 +1,7 @@
 ---
 title: "Insights on the Google Pixelbook Go: Beautifully Crafted yet Expensive Device Review"
-date: 2024-08-15T09:19:50.609Z
-updated: 2024-08-16T09:19:50.609Z
+date: 2024-10-21T18:07:12.084Z
+updated: 2024-10-24T14:32:24.004Z
 categories:
   - BestProducts
 description: "This Article Describes Insights on the Google Pixelbook Go: Beautifully Crafted yet Expensive Device Review"
@@ -36,6 +36,13 @@ Lifewire / Claire Cohen
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk C7000 DOCSIS 3.0 AC1900 Wi-Fi Cable Modem Router
 
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/OV2nfW5mduqPEhexOyXCeTMKajo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4082541-4-9cd1eee50edf4975a739591263d7f54d.jpg)
@@ -66,9 +73,6 @@ Lifewire / Claire Cohen
 
  We recently got the Netgear Nighthawk C7000 in for testing, so we can answer all of these questions and more. Let’s find out if this modem is worth the price of admission.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Lightweight and low-profile
 
  For such a high-end modem, the Netgear Nighthawk C7000 is surprisingly thin and light. Compared to the Xfinity modem that we have lying around, it’s a huge improvement.
@@ -78,9 +82,6 @@ Lifewire / Claire Cohen
  While this modem does have wireless capabilities, the antennae are inside the device, which makes for a more streamlined look.
 
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/XBxyGD8RCZUzuy5c-9PSfLF4OBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4082541-3-a9db59bb3f7a4f6aa4d7b1d852f4ee99.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Claire Cohen
 
@@ -103,8 +104,12 @@ Lifewire / Claire Cohen
  The Best Cable Modems Router Combos
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Connectivity: Everything you’ll need
 
  As far as physical ports are concerned, you get four Gigabit Ethernet ports and a USB 2.0 port. This isn’t the richest array of ports we’ve ever seen, but it should be fine for most people— we were able to connect a few different game consoles and a desktop.
@@ -112,9 +117,6 @@ Lifewire / Claire Cohen
  The Netgear Nighthawk C7000 has three antennae built in, too. This means it has dual-band connectivity and a rated speed of AC1900, which can deliver up to 600 Mbps and 1,3000 Mbps on the 2.4GHz and 5.0GHz bands, respectively. So, even with our extreme 250Mbps internet connection, the modem was able to keep up during even the busiest times.
 
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/lQeMP8N7uIA0CjbxZqkH0q0LICU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4082541-2-8832c46a0891440caed03fdfb4ae3507.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Claire Cohen
 
@@ -132,15 +134,24 @@ Lifewire / Claire Cohen
 
  We should also note that the Netgear Nighthawk C7000 doesn’t support[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) or QoS capabilities, which is a disappointing omission in a device this expensive. However, we set up 6 different devices in our living room, all streaming HD video on YouTube. We then ran a speed test to see how it affected the network. We still got about 152 Mbps, even under all that stress. You won’t get full speed when everyone’s hitting the network hard, but it’ll still be serviceable.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Price: A premium that’s worth it
 
  The Netgear Nighthawk C7000 is going to set you back $209, which might sound like a lot if you already have a modem set up. But take a look at your cable and internet bill and see how much you’re paying each month to rent a modem from your ISP. You won’t have to pay that anymore with the Nighthawk C7000\. Over time, this device can actually pay for itself.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Netgear Nighthawk C7000 vs. Motorola MT7711
 
  The Netgear Nighthawk C7000 has plenty of competition—most notably the Motorola MT7711, which retails for $199\. Not only does this Motorola modem have similar specs (24x8 DOCSIS 3.0 channels and AC1900 wireless capabilities), it also includes two phone ports. These ports are compatible with Xfinity’s phone service, so if you have a landline, you can use this modem for that, too. It’s a bit cheaper than Netgear’s modem, and it looks a little cheaper, too.
@@ -152,14 +163,18 @@ The powerful video editing program for your Windows PC</a>
  **Recommended for anyone with a fast broadband connection.**
  The fact that this modem can pay for itself in time is really the main appeal. But with fantastic performance and good looks thrown in, the Nighthawk C7000 is a no brainer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Netgear C3700 Cable Modem Router](https://www.lifewire.com/netgear-c3700-cable-modem-router-review-4686094)
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Nighthawk C7000 DOCSIS 3.0 AC1900 Wi-Fi Cable Modem Router
@@ -185,8 +200,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +207,22 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/colleague-relationships-are-essential-as-positive-dynamics-can-lead-to-a-more-enjoyable-and-productive-work-environment/"><u>Colleague Relationships Are Essential as Positive Dynamics Can Lead to a More Enjoyable and Productive Work Environment.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-12plus-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme 12+ 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-zero-30-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Zero 30 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonys-hdrcx405-delivers-stability-without-breaking-the-bank/"><u>Sony's HDRCX405 Delivers Stability Without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/speed-meets-security-in-depth-analysis-of-the-tri-band-netgear-nighthawk-x6-wifi-router-for-families/"><u>Speed Meets Security: In-Depth Analysis of the Tri-Band Netgear Nighthawk X6 WiFi Router for Families</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-creating-your-personal-nintendo-network-id-on-the-3ds-console/"><u>Step-by-Step Guide: Creating Your Personal Nintendo Network ID on the 3DS Console</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/storage-solutions-increase-your-pcs-capacity/"><u>Storage Solutions: Increase Your PC's Capacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-esl-english-as-second-language-for-vr-for-2024/"><u>The ESL (English as Second Language) for VR for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-oneplus-6t-reviewed-high-performance-meets-budget-friendly-pricing/"><u>The OnePlus 6T Reviewed: High Performance Meets Budget-Friendly Pricing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-using-a-seatech-external-usb-burner-for-blu-ray-disc-authoring-a-review/"><u>The Pros and Cons of Using a SeaTech External USB Burner for Blu-Ray Disc Authoring: A Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-personal-trackable-a-comprehensive-look-at-the-best-gps-devices-in-size-and-functionality/"><u>The Ultimate Guide to Choosing a Personal Trackable - A Comprehensive Look at the Best GPS Devices in Size and Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-keyboard-input-at-login-screen/"><u>Troubleshooting Guide: Reactivating Keyboard Input at Login Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/er-8-effective-youtube-promotion-methods/"><u>Uncover 8 Effective YouTube Promotion Methods</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-galaxy-a05s-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Galaxy A05s</u></a></li>
+</ul></div>
 

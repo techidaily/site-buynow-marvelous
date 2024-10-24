@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of NHL '19' Digital Gaming Experience
-date: 2024-08-15T09:15:56.925Z
-updated: 2024-08-16T09:15:56.925Z
+date: 2024-10-21T18:19:57.768Z
+updated: 2024-10-24T11:17:02.555Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of NHL '19' Digital Gaming Experience
@@ -37,12 +37,16 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Anker USB 3.0 SuperSpeed 10-Port USB Data Hub
 
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/pBJOSnO1n_b2MqS-1_5tELF2Z3M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_HeroSquare-4e0d4d2c9d45472d9dd2c8f06caed680.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -69,6 +73,13 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
 
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/kGkNOMrJekQ_xSVZJ4N4nLG1il0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_02-dbb624f3c041432baecfa2701dbc933a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Design: Lots of ports in a standard configuration**
@@ -87,23 +98,14 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
 
  To set up the Anker USB 3.0 SuperSpeed 10-Port Hub, remove the main hub from its packaging and connect the supplied USB (A-to-B) cable to both the hub and your computer. Next, connect the power source to an outlet. After that, the hub works out of the box. The manual provides a cursory overview of the operation of the device, but you likely won’t need it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: Data and fast charging**
 
  The Anker USB 3.0 SuperSpeed 10-Port Hub comes with a USB (A-to-B) cable to connect to your computer. An AC power adapter is included as well, and comes with a sizable power brick. The hub gives users ten USB 3.0 ports, offering a maximum transfer speed of 5Gbps. The charging port delivers more power than the other 9 making it ideal for charging more power hungry devices like phones and tablets.
 
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/LqAWiFxZU1YqrVq2KbjQzkz6xMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_04-0c115139eb2842759c6a8ceb22719901.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: A few shortcomings**
 
  The Anker USB 3.0 SuperSpeed 10-Port Hub performed as promised in our tests, providing the expected 5Gbps speeds. The first nine ports supply the standard 0.9A of power, whereas the final charging port can supply up to 2.0A. If you neglect to connect the hub to a power source, the entire device will have to share the 0.9A of power supplied by your computer’s USB 3.0 port.
@@ -114,11 +116,22 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
 
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/fKjtHR68Qc_w-DpUN_vILXXO77o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_05-418b32eddbca47968b9a9043db285b2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A little steep for the features**
 
  At a list price of $52.99, the Anker USB 3.0 SuperSpeed 10-Port Hub is a little expensive for what it offers. We would have expected a price of around $10-13 less given the feature set. Anker itself offers cheaper, newer options that stand a good chance at luring shoppers away from this device.
@@ -136,8 +149,18 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
  The Anker USB 3.0 SuperSpeed 10-Port Hub is a wonderful device that offers expanded USB connectivity and fast charging from one port, but it isn’t priced hyper-competitively. Still, if you want a simple solution to your USB problems, this hub is definitely a good option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  USB 3.0 SuperSpeed 10-Port USB Data Hub
@@ -151,14 +174,11 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
 * Compatibility  Windows 10, 8, 7, Vista, XP, Mac OSx 10.6-10.12, Linux 2.6.14 or later
 * Warranty  18 months
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +187,22 @@ thumbnail: https://www.lifewire.com/thmb/tZdmphQQkokcC1IeZBs4b_7mO7s=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-efficient-editing-for-quick-youtube-content/"><u>[Updated] 2024 Approved Efficient Editing for Quick YouTube Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-effortless-ootd-videography-for-mac-users-on-tiktok/"><u>2024 Approved Effortless OOTD Videography for Mac Users on TikTok</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-x5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco X5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-piracy-safe-youtube-to-mp4-conversion-tips-for-2024/"><u>Avoid Piracy Safe YouTube to MP4 Conversion Tips for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-brother-hl-l2300d-driver-for-easy-printing/"><u>Get the Most Recent Brother HL-L2300D Driver for Easy Printing</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-11-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 11 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-pro-vs-macbook-pro-exploring-the-differences-in-performance/"><u>IPad Pro Vs. MacBook Pro - Exploring the Differences in Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-showdown-comparing-the-pro-with-its-bigger-sibling-the-pro-max/"><u>IPhone Showdown: Comparing the Pro with Its Bigger Sibling, the Pro Max</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-it-worth-it-analyzing-the-cost-and-performance-of-alienwares-aurora-r7/"><u>Is It Worth It? Analyzing the Cost and Performance of Alienware's Aurora R7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-tp-link-archer-ax6000-an-upgrade-over-the-nighthawk-ax12-expert-analysis/"><u>Is the TP-Link Archer AX6000 an Upgrade Over the Nighthawk AX12 - Expert Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kindleoasis-2019-comprehensive-review-for-a-paper-quality-reading-experience/"><u>KindleOasis (2019) Comprehensive Review for a Paper-Quality Reading Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-online-education-hubs-a-list-of-the-finest-websites-for-distance-learning/"><u>Leading Online Education Hubs: A List of the Finest Websites for Distance Learning</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-voice-input-technology-apps/"><u>Leading Voice Input Technology Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-solutions-to-fix-a-malfunctioning-chatgpt-app-on-iphone/"><u>Top 9 Solutions to Fix a Malfunctioning ChatGPT App on iPhone</u></a></li>
+</ul></div>
 

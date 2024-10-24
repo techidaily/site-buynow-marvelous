@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review"
-date: 2024-10-17T16:19:23.523Z
-updated: 2024-10-18T16:48:01.777Z
+date: 2024-10-20T21:32:45.912Z
+updated: 2024-10-24T03:44:31.360Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review"
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Insignia NS-43DF710NA19 43" 4K Fire TV
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/Zu1XJXI9ru8-HVTz9rG_PZoTkxw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4135681-1-3cce4a8c20b848baa2594db3b20ec943.jpg)
@@ -72,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Thick body, thick bezel, but light enough for one person to handle**
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  While this set does have Alexa built right in, it works like a Fire TV Stick and not like a[Fire TV Cube](https://www.lifewire.com/amazon-fire-tv-cube-4172274) or[Echo device](https://www.lifewire.com/what-is-the-amazon-echo-4147189) . What that means is it lacks far-field microphones, so you have to give commands via the remote. The remote itself is the same basic design that’s included with other Fire TV devices, but it includes volume buttons, a live TV button, and preset shortcuts for a few streaming services.
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/8ovvGrqb8Me9IvWHrQc7UW02kw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-4-acb78e6d55e4488ca394495d5c74c754.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -130,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  Viewing angles on our test unit were great, with a bit of noticeable color or brightness variation when viewing from up close and at extreme angles. When backed up to a more appropriate distance, we didn’t have any problem viewing this television from any seat in the house.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Audio Quality: Surprisingly good for a budget set**
@@ -143,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  When watching shows on Amazon Prime Video, Netflix, and HBO Now, dialogue came through crystal clear, and sound effects had enough substance that we didn’t feel the need to immediately plug in a soundbar or reach for our Bluetooth headphones. We also loaded up Amazon Music, turned the volume up, and found that the speakers were loud enough to fill the room without any noticeable distortion. The speakers are definitely lacking in bass, but it’s still surprisingly good for a budget television.
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/OfRGDj7hZY6nrkoT_HqDEM1S9Ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-2-8b38ffeb5ce44c0d9a6c7aa7f6dce4cd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -166,6 +159,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/V97gOTfZ6Zys4aZv9gzGupbwRi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-3-b8a8cb21803f40ada92bf08de6ee6fc0.jpg)
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Built-in Fire TV with Alexa voice controls is snappy and responsive**
 
@@ -200,10 +200,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  The Insignia NS-43DF710NA19 isn’t perfect, but it’s probably as close as you’ll get at this price point. This is definitely the UHD TV to own in the 43-inch class if you’re deep in the Amazon ecosystem and really want to go with Fire TV as your smart TV platform. It has great color reproduction, excellent viewing angles, and even decent sound from the onboard stereo speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -243,18 +243,22 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-guide-to-radiant-android-videos/"><u>[New] 2024 Approved The Essential Guide to Radiant Android Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-snickerstreamer-share-your-wit-with-a-click/"><u>[Updated] In 2024, SnickerStreamer Share Your Wit with a Click</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-epicurean-elites-top-food-vloggers-you-cant-miss/"><u>2024 Approved Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-longevity-and-performance-of-the-fitbit-charge-3-wearable/"><u>Assessing the Longevity and Performance of the Fitbit Charge 3 Wearable</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-and-style-meets-security-discover-the-best-value-long-range-traffic-detectors-on-escortpassport/"><u>Budget & Style Meets Security - Discover The Best Value Long Range Traffic Detectors on EscortPassport</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-yet-reliable-the-omoton-t1-tablet-support-reviewed/"><u>Budget-Friendly Yet Reliable: The Omoton T1 Tablet Support Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cats-comedy-channel-humorous-pet-monitoring/"><u>Cat's Comedy Channel: Humorous Pet Monitoring</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cheetahs-compact-economical-tv-solution-reviewed/"><u>Cheetah’s Compact, Economical TV Solution Reviewed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-samsung-galaxy-note20-ultra-5g-smartphone-assessment/"><u>Comprehensive Samsung Galaxy Note20 Ultra 5G Smartphone Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/differences-between-apples-ipad-pro-and-macbook-pro-revealed/"><u>Differences Between Apple's iPad Pro and MacBook Pro Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/facil-conversao-de-arquivos-ape-em-wma-on-line-sem-custo-com-a-ferramenta-do-movavi/"><u>Fácil Conversão De Arquivos APE Em WMA On-Line Sem Custo, Com a Ferramenta Do Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-key-to-thriving-in-online-communities-like-reddit/"><u>Unveiling the Key to Thriving in Online Communities Like Reddit</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-s23-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel S23 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhancing-immersive-video-editing-techniques-for-360-in-premiere/"><u>[New] 2024 Approved Enhancing Immersive Video Editing Techniques for 360° in Premiere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-making-facebook-pause-less-set-up-youtube-autoplay/"><u>[New] In 2024, Making Facebook Pause-Less Set Up YouTube Autoplay</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-foremost-6-networks-fostering-profitable-partnerships/"><u>2024 Approved Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/a-swift-guide-to-faster-more-engaging-tiktoks-for-2024/"><u>A Swift Guide to Faster, More Engaging TikToks for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-assessment-the-perfect-blend-of-elegance-and-performance-in-the-4k-215-apple-imac/"><u>Detailed Assessment: The Perfect Blend of Elegance & Performance in the 4K, 21.5 Apple iMac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-17-inch-notebooks-dominating-2024s-market/"><u>Discover the Finest 17-Inch Notebooks Dominating 2024'S Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-literature-like-never-before-with-the-newly-improved-kindle-paperwhite-2018-our-expert-review-inside/"><u>Dive Into Literature Like Never Before with the Newly Improved Kindle Paperwhite (2018) - Our Expert Review Inside</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-connectivity-with-mtk-drivers-win1110/"><u>Enhance Connectivity with MTK Drivers, Win11/10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-economic-alternatives-for-petcube-technology/"><u>Evaluating Economic Alternatives for Petcube Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-power-solutions-a-comprehensive-review-of-the-dbpower-600a-with-peak-performance-features/"><u>Evaluating Power Solutions: A Comprehensive Review of the DBPOWER 600A with Peak Performance Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-samsung-galaxy-s10-an-exceptional-luxury-device/"><u>Expert Insights on the Samsung Galaxy S10: An Exceptional Luxury Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experts-rate-lihan-lhfm1039-best-bluetooth-fm-transmitter-for-in-car-audio-upgrade/"><u>Experts Rate LIHAN LHFM1039 - Best Bluetooth FM Transmitter for In-Car Audio Upgrade</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-compromises-on-a-budget-a-comprehensive-review-of-the-hp-stream-14-windows-laptop/"><u>Exploring Compromises on a Budget: A Comprehensive Review of the HP Stream 14 Windows Laptop</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reorganize-your-android-apps-a-comprehensive-tutorial-using-organizing-tools/"><u>How to Reorganize Your Android Apps: A Comprehensive Tutorial Using Organizing Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-100-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor 100 Phone</u></a></li>
 </ul></div>
 

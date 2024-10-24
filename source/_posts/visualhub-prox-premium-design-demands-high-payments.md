@@ -1,7 +1,7 @@
 ---
 title: "VisualHub ProX: Premium Design Demands High Payments"
-date: 2024-08-15T09:17:15.690Z
-updated: 2024-08-16T09:17:15.690Z
+date: 2024-10-20T20:33:31.570Z
+updated: 2024-10-23T23:44:09.414Z
 categories:
   - BestProducts
 description: "This Article Describes VisualHub ProX: Premium Design Demands High Payments"
@@ -42,9 +42,6 @@ Lifewire / Emily Isaacs
 ## Microsoft Surface Ergonomic Keyboard
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/OTYRC4PtfZO9h5RTG8oHiroYrDg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -67,14 +64,18 @@ Lifewire / Emily Isaacs
 
  Microsoft is no stranger to computers and their accessories, and it’s obvious with the Microsoft Surface Keyboard that they’ve put a considerable amount of thought into its design. This[ergonomic keyboard](https://www.lifewire.com/best-ergonomic-keyboards-4147386) is not only built with high-quality materials to ensure its longevity, but it’s comfortable and intuitive to use. We tested this keyboard over the period of a week, read on to see what we found.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Sleek and comfortable**
 
  The Surface is a sleek ergonomic keyboard and a welcome addition to the Microsoft family. Like many ergonomic keyboards, it’s designed to help your wrists sit at an instinctive, comfortable angle that encourages natural movement to prevent[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) . The keys have a slight divot in the center so fingers naturally conform to their shape, making the keys comfortable and easy to type on.
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/XepNCNj18GnNs8V1INrxR7tnMGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_04-1edde9a5b2264b4abb528945ffae167f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -86,10 +87,6 @@ Lifewire / Emily Isaacs
 
  Unlike some ergonomic keyboards that can hog space, forcing users to overreach for mice which can lead to shoulder injuries in place of wrist injuries, the Surface is wide enough that your hands sit comfortably but small enough that it’s easy to reach for your mouse when you want it. It’s the Goldilocks of keyboards with a fit that feels just right.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Setup Process: Easy for PCs**
 
  The Microsoft Surface Ergonomic Keyboard arrives in a mid-size box containing the Surface itself as well as a small white box tucked underneath it. This contains a product information pamphlet and quick start setup guide.
@@ -97,6 +94,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To use the Microsoft Surface Ergonomic Keyboard, we flipped the keyboard over and removed the paper slip from the magnetic battery compartment. Next, we pressed the Bluetooth button and flipped it over to the frontside where a white light flashed above the arrow pad to indicate that it was ready for pairing. On our PC, we navigated to the Bluetooth settings and selected the Microsoft Surface Ergonomic Keyboard. It prompted us to input a numeric code and press enter in order to finalize the setup process. Then, just like that, it was ready for use and setup was complete.
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/ZSG5mlPcHiYuas0N_9ZNOnjgXyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_03-67125265491a47d797763ee0b408f463.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -111,8 +115,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The keyboard features Bluetooth 4.0 technology, so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Expensive, but worth it for the quality**
 
  Retailing for $129 (MSRP) or around $99 on Amazon, the Surface is a pricey little keyboard. Between the quality of the build materials, the comfort of the keyboard’s design, its wireless capabilities, and its great battery life, the Surface is a worthwhile investment for people who spend a significant amount of time in front of a PC. If you don’t spend much time on your PC, however, a cheaper, non-ergonomic model may be a better fit.
@@ -124,9 +132,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 [Microsoft Sculpt Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-sculpt-ergonomic-keyboard-review-4780274)
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/V-eFQKJrpei_UnaKMYDEWLLNsYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_02-4fa6aa53c9d249a6900cb4058b084301.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -145,8 +150,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Microsoft Surface Ergonomic Keyboard is a quality, wireless ergonomic keyboard that’s well worth the investment if you spend a significant portion of your time typing on your computer. It’s a splurge to be sure, but it’s worth the price for the quality you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Surface Ergonomic Keyboard
@@ -169,8 +178,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +185,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-trim-youtube-videos-like-a-pro-for-2024/"><u>[New] How to Trim YouTube Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-browsing-like-a-pro-5-top-choices-for-screen-capture-software/"><u>[Updated] 2024 Approved Browsing Like a Pro 5 Top Choices for Screen Capture Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-recordingease-minimalistic-win-11-screen-captures/"><u>[Updated] 2024 Approved RecordingEase Minimalistic Win 11 Screen Captures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-demystifying-the-instagram-video-constraint/"><u>[Updated] Demystifying the Instagram Video Constraint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ace-excel-management-with-chatgpt-overcoming-common-spreadsheet-concerns-made-simple/"><u>Ace Excel Management with ChatGPT - Overcoming Common Spreadsheet Concerns Made Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/create-a-clean-organized-gallery-unifying-similar-photos-across-ios-and-macos-systems/"><u>Create a Clean, Organized Gallery: Unifying Similar Photos Across iOS & macOS Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-infamous-dark-display-problem-of-cyberpunk-2077/"><u>How to Overcome the Infamous Dark Display Problem of Cyberpunk 2077</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-tecno-phantom-v-flip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Phantom V Flip Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reinstall-windows-on-dell-devices-a-comprehensive-walkthrough/"><u>Reinstall Windows on Dell Devices - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-tv-experience-unbox-the-stylish-antop-at-127-for-free-broadcasts/"><u>Revolutionize Your TV Experience: Unbox the Stylish Antop AT-127 for Free Broadcasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-q60r-series-qled-4k-tv-review/"><u>Samsung Q60R Series QLED 4K TV Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/score-big-savings-with-oneplus-ultimate-holiday-blowout-deals/"><u>Score Big Savings with OnePlus' Ultimate Holiday Blowout Deals!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-guide-tp-link-deco-p9-mesh-network-system-a-comprehensive-overview/"><u>Simplified Guide: TP-Link Deco P9 Mesh Network System - A Comprehensive Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonic-innovations-sony-3d-headphones-test/"><u>Sonic Innovations: Sony 3D Headphones Test</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/strategic-points-to-ponder-before-selecting-your-next-free-mobile-device/"><u>Strategic Points to Ponder Before Selecting Your Next Free Mobile Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streaming-enthusiasts-dream-exclusive-roku-express-insights-reveal-rich-media-libraries-at-unbeatable-prices/"><u>Streaming Enthusiast's Dream: Exclusive Roku Express Insights Reveal Rich Media Libraries at Unbeatable Prices</u></a></li>
+</ul></div>
 

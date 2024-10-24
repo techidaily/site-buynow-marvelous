@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
-date: 2024-10-14T18:26:21.288Z
-updated: 2024-10-18T21:00:52.831Z
+date: 2024-10-18T14:36:52.640Z
+updated: 2024-10-24T09:59:50.710Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
@@ -75,13 +75,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -93,13 +86,6 @@ Lifewire / Andy Zahn
 [Mini HDMI](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) , Remote shutter, USB, and microphone ports are included, though unfortunately for audio monitoring, the SX70 HS lacks a headphone jack and hot shoe mount. The port covers are durable and easy to use, and we appreciated the well-placed location of the 3.5mm microphone jack.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
@@ -118,6 +104,13 @@ Lifewire / Andy Zahn
  The electronic viewfinder (EVF) is bright and clear with 2,360,000 dots. It’s not the best EVF we’ve ever used as it seems slightly small and cramped, but it gets the job done. A sensor automatically detects when you put your eye up to it (a function that can be adjusted in the settings), which means you don’t have to hunt for a button to switch the EVF on.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Autofocus: Blazing fast**
 
@@ -144,10 +137,16 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Modes: Plenty to choose from (and only some are useful)**
@@ -164,6 +163,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -177,6 +183,13 @@ Lifewire / Andy Zahn
  Time-lapse mode is where the SX70 HS really shines in terms of video. You can easily access this mode via the menu system, and there is a wide range of customizable options available. For those not experienced with time-lapse video, you can simply select from one of three subject-based settings. Time-lapses can be recorded at up to 4K resolution and truly excellent quality.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Lots of options**
 
@@ -210,13 +223,6 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -224,10 +230,10 @@ Lifewire / Andy Zahn
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -264,24 +270,24 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>[New] Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-the-disparities-youtube-versus-dailymotion/"><u>[Updated] 2024 Approved Understanding the Disparities YouTube Versus Dailymotion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-record-desktop-on-windows-8-effortlessly-for-2024/"><u>[Updated] How To Record Desktop on Windows 8 Effortlessly for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/arc-blow-is-caused-by-magnetic-fields-that-deflect-the-welding-arc-away-from-its-intended-path/"><u>Arc Blow Is Caused by Magnetic Fields that Deflect the Welding Arc Away From Its Intended Path.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-madden-19-review-exceptional-options-but-losing-freshness/"><u>Breaking Down Madden 19 Review: Exceptional Options but Losing Freshness</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-the-unbeatable-combination-of-size-and-endurance-with-lg-gram-156-2018/"><u>Comprehensive Analysis: The Unbeatable Combination of Size & Endurance with LG Gram 15.6 (2018)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gigabyte-upgrade-for-ps3s-default-hdd/"><u>Gigabyte Upgrade for PS3's Default HDD</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-nest-showdown-audio-vs-mini-which-smart-speaker-wins/"><u>Google Nest Showdown: Audio Vs. Mini - Which Smart Speaker Wins?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-transfer-data-from-an-aging-hdd-or-fujitsu-p-series-to-a-modern-solid-state-drive-without-the-need-to-reinstall-operating-system/"><u>How to Transfer Data From an Aging HDD or Fujitsu P Series to a Modern Solid State Drive Without the Need to Reinstall Operating System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-xcover-6-pro-tactical-edition-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy XCover 6 Pro Tactical Edition Unlock Without Password</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lg-k51-assessment-stunning-design-compromised-by-sluggish-cpu/"><u>In-Depth LG K51 Assessment: Stunning Design Compromised by Sluggish CPU</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insights-and-analysis-of-the-amazon-fire-hd-8-gen-8-striking-value-in-an-affordable-user-friendly-tablet/"><u>Insights and Analysis of the Amazon Fire HD 8 Gen 8: Striking Value in an Affordable, User-Friendly Tablet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-tips-for-picture-perfect-posts/"><u>Mastering Instagram Tips for Picture-Perfect Posts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-marvels-avengers-a-comprehensive-review-beyond-mediocre-expectations/"><u>Navigating Through Marvel's Avengers: A Comprehensive Review Beyond Mediocre Expectations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/purewave-analysis-depth-resistant-audio-clarity/"><u>PureWave Analysis: Depth-Resistant Audio Clarity</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-app-not-working-issues-a-step-by-step-guide/"><u>Solving 'App Not Working' Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-verdict-on-gaming-excellence-alienware-aurora-r11-review-best-of-the-best/"><u>The Definitive Verdict on Gaming Excellence: Alienware Aurora R11 Review - Best of the Best</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-to-fix-advapi32dll-could-not-be-loaded-issue/"><u>Troubleshooting Tips to Fix 'Advapi32.dll Could Not Be Loaded' Issue</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-value-why-the-acer-aspire-e-15-is-a-must-have-for-budget-tech-seekers/"><u>Unbeatable Value: Why the Acer Aspire E 15 Is a Must-Have for Budget Tech Seekers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-deep-dive-into-youtube-mastery-using-sony-vegas-software-for-2024/"><u>[Updated] A Deep Dive Into YouTube Mastery Using Sony Vegas Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-synchronize-your-video-with-instagrams-aesthetics/"><u>[Updated] Synchronize Your Video with Instagram's Aesthetics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-max-360-vs-hero-11-which-is-the-best-gopro-video-camera-in-2024/"><u>GoPro Max 360 VS Hero 11 Which Is the Best GoPro Video Camera, In 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-can-malicious-software-evade-detection-by-security-suites-insights-from-malwarefox/"><u>How Can Malicious Software Evade Detection by Security Suites: Insights From MalwareFox</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/rank-the-best-tools-top-8-apps-to-increase-likes-on-fb/"><u>Rank the Best Tools Top 8 Apps to Increase Likes on FB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reevaluating-linkedins-prestige-is-plus-worth-the-investment/"><u>Reevaluating LinkedIn's Prestige: Is Plus Worth the Investment?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-xperia-5-analysis-compact-design-meets-high-price-point/"><u>Sony Xperia 5 Analysis: Compact Design Meets High Price Point</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonys-next-gen-console-unveiled-the-playstation-5-a-leap-beyond-enhanced-performance/"><u>Sony's Next-Gen Console Unveiled: The PlayStation 5 - A Leap Beyond Enhanced Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sounds-simple-and-affordable-reviewing-agpteks-mp3-player/"><u>Sounds Simple & Affordable: Reviewing AGPTEK's MP3 Player</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-best-free-and-paid-gif-software-options/"><u>The 20 Best Free and Paid GIF Software Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-asus-bw-16d1x-u-blu-ray-disc-burner-an-attractive-device-with-some-curious-quirks/"><u>The Asus BW-16D1X-U Blu-Ray Disc Burner - An Attractive Device with Some Curious Quirks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-p11-pro-assessment-outstanding-tablet-with-minor-flaws-explored/"><u>The Lenovo P11 Pro Assessment: Outstanding Tablet with Minor Flaws Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sound-warriors-apple-airpods-pro-versus-galaxy-buds-pro/"><u>The Sound Warriors: Apple AirPods Pro Versus Galaxy Buds Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-webcam-evaluating-logitechs-c615-for-quality-at-an-affordable-price-point/"><u>The Ultimate Guide to Choosing a Webcam: Evaluating Logitech's C615 for Quality at an Affordable Price Point</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-hp-stream-14-an-insightful-review-of-performance-for-budget-buyers/"><u>The Verdict on HP Stream 14: An Insightful Review of Performance for Budget Buyers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-rank-watcher-decode-youtube-trending-patterns/"><u>Top-Rank Watcher Decode YouTube Trending Patterns</u></a></li>
 </ul></div>
 

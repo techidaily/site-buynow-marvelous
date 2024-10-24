@@ -1,7 +1,7 @@
 ---
 title: "Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
-date: 2024-10-14T21:03:49.239Z
-updated: 2024-10-18T16:11:35.905Z
+date: 2024-10-18T17:27:41.153Z
+updated: 2024-10-23T20:11:45.748Z
 categories:
   - BestProducts
 description: "This Article Describes Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
@@ -38,10 +38,10 @@ Lifewire / Jason Schneider
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Acer Chromebook 15 CB3-532
@@ -79,27 +79,7 @@ Lifewire / Jason Schneider
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/KPrvN1kvoH081BHRUonphp9CIeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_02-c3813ec58fc848e6a715abe090ebe6b1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jason Schneider
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Design: Slightly bulky with a couple of nice touches**
 
@@ -108,13 +88,6 @@ Lifewire / Jason Schneider
  The color scheme feels very modern, looking very similar to Apple’s space gray. There’s a soft brushed-aluminum-style texture on the top, and a dark, roughened plastic base and inner bezels. There are also two large, round-rectangle speaker grilles flanking the speakers that give it a more assertive look than the usual, simple aesthetic used by other laptops.
 
  The hinge is actually two small contact points that roll into the laptop chassis, which feels dated when the laptop is open but makes it look interesting when it’s closed. The whole laptop is made of plastic, and measures right around one 1-inch thick, weighing in at almost 4.5 pounds. That’s a double-edged sword because while the laptop feels really sturdy and premium despite the plastic material, it isn’t terribly portable.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: As seamless as a mobile device**
 
@@ -138,6 +111,13 @@ Lifewire / Jason Schneider
 
  To be fair, Chromebook users likely keep more files in cloud storage drives, and Google includes 100GB of drive storage for free with the purchase for 2 years. So, you might not notice the limited capacity, but I would have preferred at least 32GB.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Productivity and Component Quality: Plenty of screen real estate, and passable features**
 
  There’s an interesting case to be made for this Acer Chromebook in terms of productivity. Chrome OS is a very light operating system, which means that it runs quick and light, at least initially. This also means that you can load up more than a few Chrome tabs—something that hogs a lot of power use on Windows laptops. Add that in with the larger 15.6-inch display, giving you lots of room for multiple windows and apps, and this Chromebook is great for those who want to multitask. However, because it isn’t a full OS, you won’t be able to run a whole lot of programs out of the box, and you’re limited to what’s available in the Play Store.
@@ -153,10 +133,10 @@ Lifewire / Jason Schneider
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/yw3n6Y9SGTIh4h10bF7XbAc5La0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_03-5724a73204e94f548f20aec5fa86074f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jason Schneider
@@ -166,6 +146,13 @@ Lifewire / Jason Schneider
  Despite the lighter OS, the Chromebook 15 offers modern, well-equipped network features. First off, there’s an 802.11ac-capable Wi-Fi card built-in, which means you’ll get less interference than the N-protocol Wi-Fi, and you’ll have access to the[5GHz bands](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293) common in most modern routers. There’s also Bluetooth 4.2 capability which provided me with a plenty-stable connection for my Bluetooth headphones, and will work nicely if you want to connect a mouse or other peripherals.
 
  As far as ports go, there are the requisite AC power and 3.5mm headphone input ports, plus a full[HDMI output](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) for connecting an external monitor. There are also two USB 3.0 ports—one on each side—for increased data transfer speeds. I would have liked to see at least one[USB Type-C port](https://www.lifewire.com/usb-c-4149490) , as the mobile industry is heading decidedly in that direction, but it isn’t the end of the world. There’s also a full-sized SD card slot to help expand the storage of the device, which is important considering how little space is available on the device itself. Overall, this thing checks most of the boxes, though with the large chassis it would have been nice to have seen just a few more I/O options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera: Grainy, but passable**
 
@@ -182,10 +169,10 @@ Lifewire / Jason Schneider
  Chrome OS is a very light operating system, which means that it runs quick and light, at least initially.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: Light and fast with very little customization**
@@ -209,6 +196,13 @@ Lifewire / Jason Schneider
  **A solid Chromebook for productivity, but limited in portability.**
 
  This is a great Chromebook with a lot of impressive things to offer. The bright screen has plenty of room for vibrant video viewing and multiple windows of productivity. The excellent battery life means you won’t be tethered to a desk, and the light, fast Chrome OS means it will take a lot to slow the Acer Chromebook 15 down. However, the limited onboard storage, bulky size and weight, and the lack of full app choices might limit you a bit too much. At the end of the day, at this price point, it’s perfect for light, basic use.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -237,24 +231,16 @@ Lifewire / Jason Schneider
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-master-the-basics-essential-photo-edits-for-starters/"><u>[New] 2024 Approved Master the Basics Essential Photo Edits for Starters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-3-step-approach-to-effective-copywriting-on-facebook/"><u>[Updated] In 2024, The 3-Step Approach to Effective Copywriting on Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-wealthiest-web-workshops-hosts-for-2024/"><u>[Updated] Wealthiest Web Workshops Hosts for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>2024 Approved Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-computer-visual-capabilities-expert-advice-on-graphics-hardware-upgrades/"><u>Boost Computer Visual Capabilities: Expert Advice on Graphics Hardware Upgrades</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>Bringing Rhythm to Slides Including Tunes in PPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-powerline-ac1200-a-trade-off-between-bulky-build-and-performance/"><u>Comprehensive Analysis of the Netgear Powerline AC1200: A Trade-Off Between Bulky Build and Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dell-alienware-aurora-r9-review-futuristic-gaming-pc-design/"><u>Dell Alienware Aurora R9 Review: Futuristic Gaming PC Design</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-new-era-of-desktops-imac-equipped-with-powerful-m1-processor-takes-center-stage/"><u>Discover the New Era of Desktops: IMac Equipped with Powerful M1 Processor Takes Center Stage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-tech-experience-with-macos-catalina-upgrade/"><u>Elevate Your Tech Experience with macOS Catalina Upgrade</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/expert-online-assistance-hub-for-windows-xdvdripper-and-video-conversion-tools/"><u>Expert Online Assistance Hub for Windows XDVDRipper & Video Conversion Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-f14-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy F14 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insiders-take-on-the-cost-effective-1byone-digital-indoor-high-definition-tv-signal-booster/"><u>Insider's Take on the Cost-Effective 1ByOne Digital Indoor High Definition TV Signal Booster</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/introductory-kit-review-kid-approved-waterproof-cams/"><u>Introductory Kit Review: Kid-Approved Waterproof Cams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-driven-solutions-top-7-online-marketplaces-for-creative-prompts/"><u>Mastering AI-Driven Solutions: Top 7 Online Marketplaces for Creative Prompts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/techniques-for-effective-capturing-of-chat-conversations-for-2024/"><u>Techniques for Effective Capturing of Chat Conversations for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-travelers-essential-universal-moko-bluetooth-keyboard-with-folding-design/"><u>The Traveler's Essential: Universal MoKo Bluetooth Keyboard with Folding Design</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleash-creativity-with-vtech-cams/"><u>Unleash Creativity with VTech Cams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-leap-from-youtube-to-dailymotion-with-ease/"><u>[Updated] In 2024, Leap From YouTube to Dailymotion with Ease</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgraded-guide-to-android-based-vr-and-full-sphere-films/"><u>In 2024, Upgraded Guide to Android-Based VR and Full-Sphere Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-how-to-monitor-and-recognize-people-viewing-your-youtube-content/"><u>Learn How to Monitor and Recognize People Viewing Your YouTube Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-admin-access-a-step-by-step-guide-to-launching-the-command-prompt-with-elevated-rights-on-windows-10881/"><u>Mastering Admin Access: A Step-by-Step Guide to Launching the Command Prompt with Elevated Rights on Windows 10/8/8.1</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-why-the-samsung-galaxy-tab-s7-stands-out-for-android-users/"><u>The Ultimate Guide to Choosing a Tablet: Why the Samsung Galaxy Tab S7 Stands Out for Android Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-headphone-selection-lovers/"><u>The Ultimate Headphone Selection Lovers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-iphone-security-software-protect-your-device-with-these-antivirus-apps/"><u>Top 6 iPhone Security Software: Protect Your Device with These Antivirus Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-sketchpads-the-ultimate-guide-to-the-leading-drawing-devices/"><u>Top-Ranked Sketchpads: The Ultimate Guide to the Leading Drawing Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-hd-video-editing-made-easy-top-5-software-options/"><u>Updated 2024 Approved HD Video Editing Made Easy Top 5 Software Options</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-10-5-windows-10/"><u>データ不損失：Windows 지원 10에서 삭제된 데이터를 다시 가져오는 5가지 방법 - Windows 10</u></a></li>
 </ul></div>
 

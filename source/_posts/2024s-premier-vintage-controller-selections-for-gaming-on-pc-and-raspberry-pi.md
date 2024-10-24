@@ -1,7 +1,7 @@
 ---
 title: 2024'S Premier Vintage Controller Selections for Gaming on PC & Raspberry Pi
-date: 2024-10-16T16:44:27.446Z
-updated: 2024-10-18T19:46:37.914Z
+date: 2024-10-23T07:57:05.778Z
+updated: 2024-10-23T18:22:23.917Z
 tags:
   - buying-guides
 categories:
@@ -79,16 +79,10 @@ Best Megadrive/Genesis Controller
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Retro Controller Overall: [8Bitdo Pro 2](https://www.amazon.com/8Bitdo-Bluetooth-Controller-Android-Raspberry-Classic/dp/B08XY8SK9B?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
@@ -119,13 +113,6 @@ Best Megadrive/Genesis Controller
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best Retro Controller Overall
 
 #####  8Bitdo Pro 2 Bluetooth Controller
@@ -141,10 +128,16 @@ The Pro 2 tries to be all things to all retro gamers and by and large, succeeds 
 [![8bitdo SN30 being used with SNES](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/8btido-sn30-1.jpg) 8Bitdo](https://www.amazon.com/8Bitdo-Wireless-Gamepad-Original-Transparent-nintendo/dp/B092DXQYDK?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [](https://www.amazon.com/8Bitdo-Wireless-Gamepad-Original-Transparent-nintendo/dp/B092DXQYDK?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
@@ -176,6 +169,13 @@ This high-quality controller works with the original SNES via lag-free 2.4Ghz wi
 
 [$30 at Amazon](https://www.amazon.com/8Bitdo-Wireless-Gamepad-Original-Transparent-nintendo/dp/B092DXQYDK?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Wired Retro Controller: [Retro-Bit Sega Saturn USB Controller](https://www.amazon.com/Retro-Bit-Official-Controller-Genesis-Nintendo/dp/B07XWL1573?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Retro-Bit-Official-Controller-Genesis-Nintendo/dp/B07XWL1573?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
@@ -205,6 +205,13 @@ This high-quality controller works with the original SNES via lag-free 2.4Ghz wi
 
 ![retro-bit Saturn controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/retro-bit-saturn-controller.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Wired Retro Controller
@@ -216,10 +223,10 @@ The Model 2 revision of the Saturn controller is beloved by Sega fans and this w
 [$28 at Amazon](https://www.amazon.com/Retro-Bit-Official-Controller-Genesis-Nintendo/dp/B07XWL1573?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best NES-Style Controller: [Suily NES USB Controller](https://www.amazon.com/Controller-suily-Joystick-RetroPie-Emulators/dp/B07M7SYX11?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
@@ -260,10 +267,10 @@ If you're looking for a recreation of the classic NES days, Suily delivers with 
 ![8Bitdo SN30 Pro Wireless Bluetooth Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8bitdo-sn30-pro-wireless-bluetooth-controller.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _8Bitdo_
@@ -287,13 +294,6 @@ _8Bitdo_
 
 ![8Bitdo SN30 Pro Wireless Bluetooth Controller Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8bitdo-sn30-pro-wireless-bluetooth-controller-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best SNES Style Controller
@@ -306,18 +306,18 @@ Seamlessly blending the retro cool of the original SNES controller with modern-d
 
 [$45 at Amazon](https://www.amazon.com/Bluetooth-Controller-Joysticks-Vibration-Compatible-Mac/dp/B0BW3T9YBP?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) [$45 at Walmart](https://www.walmart.com/ip/8BitDo-SN30-Pro-Wireless-Bluetooth-Controller-Joysticks-Rumble-Vibration-USB-C-Cable-Gamepad-Compatible-Switch-Windows-Mac-OS-Android-Steam-Green/3819740910) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Genesis-Style Controller: [Retro-Bit Sega Genesis Controller](https://www.amazon.com/Retro-Bit-Official-Controller-8-Button-Raspberry/dp/B07P37ZGTF?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Retro-Bit-Official-Controller-8-Button-Raspberry/dp/B07P37ZGTF?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
 
 [![Retro-Bit Genesis controller box on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/retro-bit-genesis-controller.jpg) Retro-Bit](https://www.amazon.com/Retro-Bit-Official-Controller-8-Button-Raspberry/dp/B07P37ZGTF?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Retro-Bit-Official-Controller-8-Button-Raspberry/dp/B07P37ZGTF?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
@@ -338,10 +338,10 @@ Seamlessly blending the retro cool of the original SNES controller with modern-d
 ![retro-bit Genesis controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/retro-bit-genesis-controller.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -369,18 +369,18 @@ A faithful recreation of the classic Sega Genesis controller.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xploring-youtubes-operations-after-video-upload/"><u>[New] Exploring YouTube's Operations After Video Upload</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-maximizing-engagement-choosing-your-fb-video-direction/"><u>[Updated] 2024 Approved Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-demystifying-whatsapp-voice-chat-functionality-for-2024/"><u>[Updated] Demystifying WhatsApp Voice Chat Functionality for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-immediate-recording-of-facetime-conversations-made-simple-for-2024/"><u>[Updated] Immediate Recording of FaceTime Conversations Made Simple for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unveiling-top-rated-video-recorders-for-windows/"><u>[Updated] In 2024, Unveiling Top-Rated Video Recorders for Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-chargetechs-high-capacity-27000mah-power-bank/"><u>Comprehensive Review of the ChargeTech's High-Capacity 27000mAh Power Bank</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-s24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy S24 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-sound-of-depth-amplifying-voice-intensity-through-filmora-editing/"><u>New In 2024, The Sound of Depth Amplifying Voice Intensity Through Filmora Editing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/power-up-your-life-exclusive-test-and-insight-on-the-efficient-dbpower-cuire-600a-peak-battery/"><u>Power Up Your Life: Exclusive Test and Insight on the Efficient DBPOWER Cuire 600A Peak Battery</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-insights-from-experts-unveiling-the-benefits-of-using-the-fitbit-charge-6-user-testimonials-and-opinions/"><u>Top Insights From Experts – Unveiling the Benefits of Using the Fitbit Charge 6 - User Testimonials & Opinions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-links-ac1200-wi-fi-enhancer-a-user-friendly-guide-to-the-re305-performance-analysis/"><u>TP-Link's AC1200 Wi-Fi Enhancer: A User-Friendly Guide to the RE305 Performance Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ws-1002-wifi-ambient-weather-station-premium-performance-at-a-steep-cost/"><u>WS-1002 WiFi Ambient Weather Station - Premium Performance at a Steep Cost</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-no-fuss-video-snipping-for-w10-users/"><u>[New] In 2024, No-Fuss Video Snipping for W10 Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-video-edits-post-upload-techniques/"><u>[Updated] In 2024, Mastering Video Edits Post-Upload Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-playtracker-insight/"><u>2024 Approved Ultimate PlayTracker Insight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-creative-drawing-slates-of-2024-reviewed-by-experts/"><u>Best Creative Drawing Slates of 2024 Reviewed by Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/clearview-unleashed-innovative-design-meets-top-quality-with-the-2v-hdtv-indooroutdoor-antenna-review/"><u>ClearView Unleashed: Innovative Design Meets Top Quality with the 2V HDTV Indoor/Outdoor Antenna Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-overview-the-eero-pro-routers-performance-in-whole-home-wifi-management/"><u>Complete Overview: The Eero Pro Router's Performance in Whole Home WiFi Management</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-hassle-free-pet-care-using-arfs-innovative-automatic-feeder/"><u>Discover Hassle-Free Pet Care Using Arf's Innovative Automatic Feeder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-best-gaming-experiences-on-the-steam-deck-this-year/"><u>Discover the Best Gaming Experiences on the Steam Deck This Year</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-heroic-escapades-in-assassins-creed-valhalla-an-epic-viking-expedition-through-time/"><u>Discover the Heroic Escapades in 'Assassin's Creed: Valhalla': An Epic Viking Expedition Through Time</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-piceditorpro-assessment-complete-review/"><u>In 2024, PicEditorPro Assessment – Complete Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-art-of-imitation-crafting-parody-videos/"><u>In 2024, The Art of Imitation Crafting Parody Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-high-responsive-mouse-masters/"><u>Superior High Responsive Mouse Masters</u></a></li>
 </ul></div>
 

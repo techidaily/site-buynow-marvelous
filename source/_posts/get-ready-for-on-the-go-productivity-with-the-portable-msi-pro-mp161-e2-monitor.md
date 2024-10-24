@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-10-13T19:06:47.130Z
-updated: 2024-10-18T20:06:43.714Z
+date: 2024-10-20T22:47:14.162Z
+updated: 2024-10-24T12:46:32.137Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -43,6 +43,13 @@ Lifewire / Andy Zahn
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
@@ -74,13 +81,6 @@ Lifewire / Andy Zahn
  We put the PowerShot SX70 HS to the test to see if its performance justifies its premium price.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Design: Built to last, great to use**
 
@@ -121,10 +121,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
@@ -171,6 +171,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -182,10 +189,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
@@ -211,10 +218,10 @@ Lifewire / Andy Zahn
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -222,13 +229,6 @@ Lifewire / Andy Zahn
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -264,20 +264,18 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-vital-social-spaces-maximizing-business-outreach-and-impact/"><u>[New] 2024 Approved Vital Social Spaces Maximizing Business Outreach and Impact</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-essential-blueprint-crafting-memes-that-perform-on-social-networks/"><u>[New] The Essential Blueprint Crafting Memes That Perform on Social Networks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/acers-r11-chromebook-a-sleek-portable-revision/"><u>Acer's R11 Chromebook - A Sleek, Portable Revision</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620185282-comprehensive-guide-to-the-eva-ai-chatbot-from-ex-journey-dont-miss-this/"><u>Comprehensive Guide to the EVA AI Chatbot From Ex Journey – Don't Miss This</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-insight-into-the-lg-stylo-press-beauty-on-display-with-a-precision-pointing-edge/"><u>Comprehensive Insight Into the LG Stylo Press - Beauty on Display with a Precision-Pointing Edge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-razer-blade-stealth-e-13-unmatched-improvements-for-slim-powerful-ultrabooks/"><u>Comprehensive Review of the Razer Blade Stealth E 13: Unmatched Improvements for Slim, Powerful Ultrabooks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-performance-and-elegance-the-apple-imac-215-4k-display-revealed/"><u>Discovering Performance & Elegance: The Apple iMac 21.5” 4K Display Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-images-with-prints-essential-techniques-within-adobe-photoshop/"><u>Enhancing Images with Prints: Essential Techniques Within Adobe Photoshop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ergodyne-topo-mat-evaluation-the-ultimate-comfortable-stepping-stone-against-fatigue/"><u>Ergodyne Topo Mat Evaluation: The Ultimate Comfortable Stepping Stone Against Fatigue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fix-your-iphones-app-store-connection-issues-with-these-expert-tips-and-tricks/"><u>Fix Your iPhone’s App Store Connection Issues with These Expert Tips and Tricks!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-cyberpunk-2077-pc-game-crashes-a-step-by-step-guide/"><u>How to Fix Cyberpunk 2077 PC Game Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-insights-on-the-new-samsung-galaxy-tab-s6-features-including-s-pen-and-dex-mode/"><u>In-Depth Insights on the New Samsung Galaxy Tab S6 - Features Including S Pen & DeX Mode</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-creme-de-la-creme-ranking-the-best-eight-games-for-your-subscription-on-google-play/"><u>The Crème De La Crème: Ranking the Best Eight Games for Your Subscription on Google Play</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-pitfalls-to-steer-clear-of-with-generative-ai-applications/"><u>Top 7 Pitfalls to Steer Clear of with Generative AI Applications</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-premiered-top-8-crowd-pleasing-ae-setups/"><u>[New] In 2024, Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-go-to-fb-video-tool-for-desktops-and-phones/"><u>2024 Approved Your Go-To FB Video Tool for Desktops and Phones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-x-how-to-unlock-a-disabled-apple-iphone-x-drfone-by-drfone-ios/"><u>Disabled Apple iPhone X How to Unlock a Disabled Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/exploring-the-advantages-and-drawbacks-of-desktop-virtualization/"><u>Exploring the Advantages & Drawbacks of Desktop Virtualization</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-10-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 10 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor Magic 5 Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/one-star-uprising-activist-movements-shake-up-social-app-ratings/"><u>One-Star Uprising: Activist Movements Shake Up Social App Ratings</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-creating-your-own-protective-usb-key-for-windows-10-defense/"><u>Step-by-Step Guide: Creating Your Own Protective USB Key for Windows 10 Defense</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wrist-supports-for-keyboards-in-2/"><u>Top-Rated Wrist Supports for Keyboards in 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-ax6000-vs-nighthawk-ax12-comprehensive-head-to-head-review/"><u>TP-Link Archer AX6000 Vs. Nighthawk AX12: Comprehensive Head-to-Head Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-savings-on-bulletin-boards-experience-free-posting-with-oodle/"><u>Unlock Savings on Bulletin Boards: Experience Free Posting with Oodle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-omnicharge-omni-20-an-insightful-guide-to-its-all-purpose-portable-charging-abilities-and-integrated-wireless-feature-set/"><u>Unpacking the Omnicharge Omni 20: An Insightful Guide to Its All-Purpose Portable Charging Abilities & Integrated Wireless Feature Set</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unstoppable-energy-how-the-moto-g-power-packed-a-daylong-battery-in-style/"><u>Unstoppable Energy: How the Moto G Power Packed a Daylong Battery in Style</u></a></li>
 </ul></div>
 
