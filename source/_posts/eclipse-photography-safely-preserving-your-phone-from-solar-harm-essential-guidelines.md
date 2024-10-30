@@ -1,7 +1,7 @@
 ---
 title: "Eclipse Photography Safely: Preserving Your Phone From Solar Harm - Essential Guidelines"
-date: 2024-10-11T21:39:05.482Z
-updated: 2024-10-18T16:42:59.137Z
+date: 2024-10-24T04:35:28.896Z
+updated: 2024-10-29T16:34:47.351Z
 tags:
   - games
   - tv
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 * [How to Test Solar Eclipse Glasses and Filters](https://snapchat-videos.techidaily.com/new-in-2024-decoding-the-art-of-hidden-storytelling-on-snapchat/)
 
  A total solar eclipse may be a once in a lifetime event, but that doesn't mean you should be careless. Here is how you can protect your phone from any accidental damage, and take the best possible photo.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Photograph the Eclipse with your Phone
 
@@ -41,23 +48,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ![The sun captured with a Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/pxl_20240328_173921583-raw-01-mp-cover.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nick Lewis / How-to Geek
 
  Since you can view totality without eye protection, it will also be safe to photograph the eclipse with your phone without a filter. Just be sure that you're not premature, and that you don't keep looking for too long. Totality only lasts a few minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Be Careful With External Telephoto Lenses
 
@@ -71,6 +64,13 @@ Nick Lewis / How-to Geek
 
  If you're wondering if you can use a solar filter (like those found on eclipse glasses) in **front** of a regular clip on telephoto lens, the answer is yes–it'll work. However, it is a bit too easy to accidentally drop the filter away from the front of the lens and damage your phone. We don't recommend it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Use a Tripod
 
  You can pick up a tripod designed to fit your smartphone online or in brick-and-mortar stores, and we'd highly recommend you use one if you want to capture a picture or video of the eclipse, especially if you're using the telephoto lens built into your phone.
@@ -78,10 +78,10 @@ Nick Lewis / How-to Geek
  Just be sure to keep an eye on it. The sun and moon move across the sky faster than you might expect, and you may find that they move out of frame if you don't adjust your tripod regularly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Use Burst Mode and Lock Your Focus
@@ -95,10 +95,10 @@ Nick Lewis / How-to Geek
  There are fake, unsafe solar eclipse glasses for sale. The American Astronomical Society has put together [a list of safe solar filters and glasses](https://eclipse.aas.org/eye-safety/viewers-filters), and we'd recommend you buy from that list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Test Solar Eclipse Glasses and Filters
@@ -128,22 +128,18 @@ Nick Lewis / How-to Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-social-synergy-connecting-the-two-giants/"><u>[Updated] 2024 Approved Social Synergy Connecting the Two Giants</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/3dlut-mobility-boost-image-and-video-quality-for-2024/"><u>3DLUT Mobility Boost Image & Video Quality for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/behold-the-leader-an-authoritative-xbox-one-x-game-console-critique/"><u>Behold the Leader: An Authoritative Xbox One X Game Console Critique</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bt70b-car-bluetooth-kit-for-seamless-audio-streaming/"><u>BT70B Car Bluetooth Kit for Seamless Audio Streaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deep-dive-into-netgears-powerline-speed-champion-pl1200-aesthetic-vs-performance-analysis/"><u>Deep Dive Into Netgear's Powerline Speed Champion (PL1200) - Aesthetic vs Performance Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-factor-essential-steps-for-assessing-lan-router-speed/"><u>Fast Factor: Essential Steps for Assessing LAN Router Speed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-best-sound-from-your-hp-device-free-compatible-audio-driver-downloads-now/"><u>Get the Best Sound From Your HP Device: Free, Compatible Audio Driver Downloads Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a05s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy A05s to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-microsofts-sculpt-ergonomic-keyboard-superior-comfort-at-a-steal/"><u>In-Depth Analysis of Microsoft's Sculpt Ergonomic Keyboard: Superior Comfort at a Steal</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-offworld-trading-company-master-the-art-of-intergalactic-business/"><u>In-Depth Analysis of Offworld Trading Company - Master the Art of Intergalactic Business</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-asus-vivobook-11-the-ideal-small-size-cost-effective-notebook-for-everyday-use/"><u>In-Depth Analysis: Asus Vivobook 11 – The Ideal Small Size, Cost-Effective Notebook for Everyday Use</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-complete-guide-to-the-sealoc-coastal-silver-slim-and-stylish-55-4k-tv-for-outdoors/"><u>The Complete Guide to the Sealoc Coastal Silver - Slim and Stylish 55 4K TV for Outdoors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-guide-to-3d-blu-ray-players-for-home-viewing/"><u>Ultimate Guide to 3D Blu-Ray Players for Home Viewing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excellence-of-the-samsung-galaxy-s10-the-ultimate-high-end-phone-experience/"><u>Unveiling the Excellence of the Samsung Galaxy S10 - The Ultimate High-End Phone Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-innovative-fb-videos-unique-ad-creation-techniques/"><u>[Updated] Crafting Innovative FB Videos Unique Ad Creation Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-saving-parts-of-youtube-a-comprehensive-tutorial/"><u>[Updated] Saving Parts of YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-new-normal-for-video-editing-with-movavi-pro-updated-to-2024/"><u>[Updated] The New Normal for Video Editing with Movavi Pro, Updated to 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-motion-pictures-about-athletics-ready-to-stream-today/"><u>Best Motion Pictures About Athletics, Ready to Stream Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-13-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 13 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ibuypowers-customized-powerhouse-pc-for-gamers-performance-meets-affordability-review/"><u>IBuypower's Customized Powerhouse PC for Gamers: Performance Meets Affordability Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-amazonbasics-security-micro-cut-shredder-with-12-sheets-capacity/"><u>In-Depth Evaluation: AmazonBasics Security Micro-Cut Shredder with 12 Sheets Capacity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-nintendo-switch-leading-choice-for-on-the-go-game-lovers/"><u>In-Depth Look at the Nintendo Switch – Leading Choice for On-the-Go Game Lovers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insightful-analysis-on-the-user-friendly-and-cost-effective-bouncie-driving-connection-tracker/"><u>Insightful Analysis on the User-Friendly & Cost-Effective Bouncie Driving Connection Tracker</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/johannes-honterus-inspiration-and-leadership-icon/"><u>Johannes Honterus: Inspiration & Leadership Icon</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/large-studiolight-box-solid-strong-focus/"><u>Large StudioLight Box: Solid, Strong Focus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
-date: 2024-10-16T16:39:01.119Z
-updated: 2024-10-23T18:19:17.465Z
+date: 2024-10-28T01:09:28.085Z
+updated: 2024-10-30T07:23:16.265Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
@@ -38,10 +38,10 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Antop AT-127
@@ -69,13 +69,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -97,10 +90,10 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Almost two dozen channels**
@@ -113,13 +106,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -128,6 +114,13 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
@@ -135,6 +128,19 @@ Lifewire / Erika Rawes
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
@@ -177,21 +183,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unveiling-the-latest-in-non-fbx-gameplay-tracking/"><u>[New] In 2024, Unveiling the Latest in Non-FBX Gameplay Tracking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-excellence-in-editing-selecting-the-right-software/"><u>[Updated] 2024 Approved Excellence in Editing Selecting the Right Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-affordable-aerial-acrobats-best-bargain-drones-for-(500/"><u>[Updated] Affordable Aerial Acrobats Best Bargain Drones for <$500</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-grid-artistry-at-its-peak-the-definitive-10-for-insta-posts/"><u>[Updated] Grid Artistry at Its Peak The Definitive 10 for Insta Posts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-studio-vs-bandicam-a-comprehensive-performance-review-for-2024/"><u>[Updated] OBS Studio Vs. Bandicam A Comprehensive Performance Review for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canon-powershot-g9-x-mark-ii-review-great-travel-camera-with-a-retro-look/"><u>Canon PowerShot G9 X Mark II Review: Great Travel Camera with a Retro Look</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effizientes-syncing-mit-dropbox-die-top-2-methoden-zum-verbinden-von-ordnern-mit-einem-netzlaufwerk/"><u>Effizientes Syncing Mit Dropbox: Die Top 2 Methoden Zum Verbinden Von Ordnern Mit Einem Netzlaufwerk</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g24-power-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G24 Power to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/simplified-smartphone-experience-with-google-pixel-4a-a-complete-review/"><u>Simplified Smartphone Experience with Google Pixel 4A - A Complete Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ihome-zenergy-mattress-side-sleep-enhancer-transforming-slumber-into-invigorating-dawns-product-reviewed/"><u>The IHome Zenergy Mattress-Side Sleep Enhancer: Transforming Slumber Into Invigorating Dawns – Product Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-increasing-game-selection-on-your-nes-classic-system/"><u>The Ultimate Guide: Increasing Game Selection on Your NES Classic System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-hd-webcam-evaluation-the-logitech-c920-pro/"><u>Top Rated HD Webcam Evaluation: The Logitech C920 Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-free-online-platform-convert-any-fb-video-into-a-song-for-2024/"><u>[Updated] Free Online Platform Convert Any FB Video Into a Song for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-useful-tips-to-make-your-instagram-video-viral-for-2024/"><u>[Updated] Useful Tips to Make Your Instagram Video Viral for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/above-and-beyond-photography-the-ultimate-review-of-the/"><u>Above & Beyond Photography: The Ultimate Review of The</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-orbi-wi-fi-6-axe4-router-series-evaluation-seamless-high-speed-connectivity-across-homes/"><u>Comprehensive Orbi Wi-Fi 6 (AXE4) Router Series Evaluation: Seamless High-Speed Connectivity Across Homes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-secure-your-data-enabling-icloud-backups-for-iphone-ipad-and-ipod-touch/"><u>Easy Steps to Secure Your Data: Enabling iCloud Backups for iPhone, iPad & iPod Touch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-ranked-best-netgear-wireless-routers/"><u>Expertly Ranked Best Netgear Wireless Routers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-smooth-transitioning-from-zoom-to-fb-live-events/"><u>In 2024, Tips for Smooth Transitioning From ZOOM to FB Live Events</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-2020-apple-macbook-air-m1-13-a-technological-marvel-redefining-efficiency/"><u>In-Depth Look at the 2020 Apple MacBook Air (M1, 13) - A Technological Marvel Redefining Efficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/outlook-vs-gmail-showdown-choosing-the-superior-email-provider/"><u>Outlook Vs. Gmail Showdown: Choosing the Superior Email Provider</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-pc-with-a-tailored-lock-pattern-on-windows-11/"><u>Secure Your PC with a Tailored Lock Pattern on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/showdown-in-the-living-room-which-is-better-google-nest-audio-or-apple-homepod/"><u>Showdown in the Living Room: Which Is Better, Google Nest Audio or Apple HomePod?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/sicherungskonzepte-fur-windows-11-partitionierung-und-speicherung-auf-nfs-systemen-und-nas-geraten-drei-wege/"><u>Sicherungskonzepte Für Windows 11: Partitionierung Und Speicherung Auf NFS-Systemen Und NAS-Geräten (Drei Wege)</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-request-modification-authorization-from-trustedinstaller/"><u>Steps to Request Modification Authorization From TrustedInstaller</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-in-one-guide-to-using-the-powerful-samsung-galaxy-tab-s5e-with-android-os/"><u>The All-in-One Guide to Using the Powerful Samsung Galaxy Tab S5e with Android OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-vive-cosmos-potential-quality-virtual-reality-gear-in-a-tough-market/"><u>Unveiling Vive Cosmos' Potential: Quality Virtual Reality Gear in a Tough Market</u></a></li>
 </ul></div>
 

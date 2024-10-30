@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Comparison of Blue Blocking Eyeglasses for Those With Vision Correction Needs
-date: 2024-08-15T09:14:36.462Z
-updated: 2024-08-16T09:14:36.462Z
+date: 2024-10-24T00:13:39.007Z
+updated: 2024-10-30T08:18:44.021Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Comparison of Blue Blocking Eyeglasses for Those With Vision Correction Needs
@@ -40,9 +40,6 @@ Lifewire / Erika Rawes
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -65,9 +62,6 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -76,10 +70,6 @@ Lifewire / Erika Rawes
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## **Setup: Relatively easy**
 
  Setting up the antenna is pretty straightforward. You start by plugging one end of the coaxial cable into the antenna, and then the other end to the coaxial/antenna-in connector to your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) .
@@ -89,9 +79,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Next, you change your TV to the correct input (usually TV, antenna, or Coax). Then, go to your TV’s menus and start the auto-programming process, which[scans for available channels](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) . The process takes a few minutes, and sometimes your TV won’t start to locate channels until about halfway through the auto-programming process.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -101,11 +88,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: 35 miles**
 
  The AmazonBasics antenna has a 35-mile range, which isn’t very far considering 50 plus miles is becoming more common. It is omnidirectional, however, so you don’t need to point it in a specific direction. It supports UHF/VHF, so I was able to get a decent selection of channels.
@@ -114,16 +112,27 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
@@ -151,14 +160,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Ports  Coax
 * Cable length  10-foot Coax Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +173,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-precisionvid-recorder-inspection/"><u>[New] 2024 Approved PrecisionVid Recorder Inspection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-comprehensive-coverage-coalition-picking-an-mcn-for-2024/"><u>[New] Comprehensive Coverage Coalition Picking an MCN for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-captivating-podcast-covers/"><u>[New] The Definitive Guide to Captivating Podcast Covers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ios-and-ps2-gaming-top-emulators-unveiled/"><u>[Updated] In 2024, IOS and PS2 Gaming Top Emulators Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-television-with-amazonbasics-antennas-watch-free-hd-for-less/"><u>Affordable Television with AmazonBasics Antennas: Watch Free HD for Less</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-galaxy-a14-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Galaxy A14 4G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/flying-high-with-the-blade-blh4100-a-thrilling-rtf-rc-chopper-review/"><u>Flying High with the Blade BLH4100 - A Thrilling RTF RC Chopper Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-selecting-the-perfect-4k-camera-lens/"><u>In 2024, Guide to Selecting the Perfect 4K Camera Lens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-open-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Open to Protect Your Individual Information</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-laptop-unveiled-revolutionizing-ultrabooks-with-exceptional-performance/"><u>Razer Blade Stealth Laptop Unveiled: Revolutionizing Ultrabooks with Exceptional Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-car-care-with-the-jaco-smartpro-digital-tire-inflator-a-complete-product-analysis/"><u>Revolutionize Car Care with the Jaco SmartPro Digital Tire Inflator – A Complete Product Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/score-great-bargains-premium-deals-await-for-tribit-hifi-stereo-speakers-and-true-bluetooth-audio-headsets-during-prime-day/"><u>Score Great Bargains: Premium Deals Await for Tribit HiFi Stereo Speakers & True Bluetooth Audio Headsets During Prime Day</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-evolution-of-gaming-power-a-sony-playstation-5-examination/"><u>The Evolution of Gaming Power: A Sony PlayStation 5 Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-real-deal-on-genius-widecam-f100-a-thorough-review-of-image-quality-and-audio-precision/"><u>The Real Deal on Genius WideCam F100: A Thorough Review of Image Quality & Audio Precision</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-lenovos-ideapad-320-a-fusion-of-style-portability-and-signature-keyboard/"><u>The Ultimate Verdict on Lenovo's Ideapad 320: A Fusion of Style, Portability & Signature Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-gaming-potential-the-leading-nano-sized-computers-for-gamers/"><u>Unleash Gaming Potential: The Leading Nano-Sized Computers for Gamers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>Vimeo to GIF How to Make a GIF From Vimeo Video</u></a></li>
+</ul></div>
 

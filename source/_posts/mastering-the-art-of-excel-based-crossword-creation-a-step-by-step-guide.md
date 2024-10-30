@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide"
-date: 2024-10-13T21:35:57.725Z
-updated: 2024-10-18T18:23:24.187Z
+date: 2024-10-23T07:03:59.561Z
+updated: 2024-10-30T02:16:06.706Z
 tags:
   - games
   - tv
@@ -35,22 +35,16 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel spreadsheet with all cell widths changed to 3.43.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-cell-sizes.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, select the area that will form your crossword grid, and in the Home tab on the ribbon, open the borders drop-down (grid icon) and click "All Borders."
 
 ![An Excel grid with 'All Borders' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/all-borders-on-grid.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 2: Add Your Words
 
@@ -58,23 +52,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel sheet with a crossword grid and some words added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-words-in-crossword.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Every Word Must Cross
 
  Let me start by emphasizing one golden rule—never have any hanging words. In other words, every word you add must cross another one. This means that each time your solver correctly works out one word, they've got some letters for the next word, and they will soon master a certain region of your puzzle. This is the whole premise of a crossword, so it must be respected at all times.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Aim for Symmetry
 
@@ -83,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ###  But Don't Add Words for the Sake Of It
 
  Making your crossword symmetrical and trying to fill your grid with as many words as possible can tempt you into squeezing in words that you know, deep down, you're not happy with. Writing a crossword often involves taking two steps forward and one step back—don't be afraid to re-craft an area of your puzzle so that you're completely happy with the outcome.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Limit Short Words
 
@@ -96,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  As you add your words, think ahead about how you might lure your solver to guess them. Ask yourself, "How will I tantalize my quizzer with a clever clue?"—and if you can't answer that question, choose another word. Another way to approach this is to use words with more than one meaning, which will give you more flexibility.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 3: Black Out Empty Squares
 
  Having gone through the time-consuming process of adding, removing, and re-adding your words, the next step is particularly satisfying. After you've blacked out the empty squares in your puzzle, you'll really see it taking shape.
@@ -104,15 +98,28 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 4: Add Your Numbers
@@ -121,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
 
 ##  Step 5: Write Your Clues
@@ -128,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  You now need to craft your clues to the words you've chosen. Start with the "Across" clues, and then do the "Down" clues using the numbers you added in the previous step. You should also add the number of letters in the word to your clue so your solver can consider solutions without having to look back and forth between the clues and the grid. Here's what my clues for "Dispensable" and "Performance" (my first two horizontal words on the top row) will look like:
 
 ![An Excel sheet with two crossword clues typed underneath the main grid. Each clue has a square reference number, a hint, and the number of letters in brackets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-clues.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ​​​As well as single-word synonym-type clues like those used above, you can vary the types of hints you offer:
 
@@ -154,35 +161,22 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
 
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
@@ -208,24 +202,18 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-spotting-instagram-followers-lost/"><u>[New] 2024 Approved Spotting Instagram Followers Lost</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-beat-the-bounds-of-voice-modification-the-leading-chrome-apps-unveiled/"><u>2024 Approved Beat the Bounds of Voice Modification The Leading Chrome Apps Unveiled</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-quickvideocapture-simple-desktop-app-for-w10/"><u>2024 Approved QuickVideoCapture Simple Desktop App for W10</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/authentic-basketball-action-awaits-you-in-nba-2k19/"><u>Authentic Basketball Action Awaits You in NBA 2K19</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-wireless-network-extenders-of-the-year-2024/"><u>Best Wireless Network Extenders of the Year 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-quality-videos-a-guide-to-apple-device-screen-recording-for-2024/"><u>Crafting Quality Videos A Guide to Apple Device Screen Recording for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-success-a-thorough-assessment-of-truecaller-app/"><u>Decoding the Success: A Thorough Assessment of Truecaller App</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-consoles-dominating-2024s-gaming-scene/"><u>Discover the Elite Consoles Dominating 2024'S Gaming Scene</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-stunning-iphone-hdr-results/"><u>In 2024, Achieving Stunning iPhone HDR Results</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/quick-fix-tips-effortlessly-restore-excel-documents-following-a-system-hiccup/"><u>Quick Fix Tips: Effortlessly Restore Excel Documents Following a System Hiccup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-fujitsu-scansnap-ix1es-performance-in-home-offices-and-smbs/"><u>Review of the Fujitsu ScanSnap iX1e's Performance in Home Offices and SMBs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/selecting-the-perfect-apc-uninterruptible-power-supply-ups-to-support-your-high-end-gaming-system/"><u>Selecting the Perfect APC Uninterruptible Power Supply (UPS) to Support Your High-End Gaming System</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-audacity-crossfading-process/"><u>Step-by-Step Audacity Crossfading Process</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/testing-the-value-a-deep-dive-into-amazonbasics-6-sheet-document-destroyer-evaluation/"><u>Testing the Value - A Deep Dive Into AmazonBasics 6-Sheet Document Destroyer Evaluation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-the-finest-steam-deck-experiences-of-202n/"><u>Ultimate List: The Finest Steam Deck Experiences of 202N</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lighter-side-of-gaming-plants-vs-zombies-battle-for-neighborville-insights-and-rating/"><u>Unveiling the Lighter Side of Gaming: Plants Vs. Zombies - Battle for Neighborville Insights and Rating</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-iphone-reveal-forecasting-price-points-release-dates-and-rumored-specifications/"><u>Upcoming iPhone Reveal: Forecasting Price Points, Release Dates, and Rumored Specifications</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/0x80242fff/"><u>「エラーコード0x80242FFFの解決：ウィンズ・アップデイトにおける最適なファックス」</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-audio-driver-software-free-download-options-available/"><u>ASUS Audio Driver Software: Free Download Options Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-comfortable-and-durable-x-chair-x4-executive-seat/"><u>Comprehensive Review of the Comfortable and Durable X-Chair X4 Executive Seat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-differences-between-iphone-15-pro-max-vs-samsung-s24-ultra-smartphone-showdown/"><u>Decoding the Differences Between iPhone 15 Pro Max Vs. Samsung S24 Ultra Smartphone Showdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-brookstones-photoframes-excellence/"><u>Discover Brookstone's PhotoFrames Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-collection-of-iphone-antivirus-programs-top-picks-for-optimal-safety/"><u>Discover the Ultimate Collection of iPhone Antivirus Programs - Top Picks for Optimal Safety</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevating-personal-fitness-with-fitbit-inspire-hr-an-exhaustive-assessment-of-the-always-on-tracker/"><u>Elevating Personal Fitness with Fitbit Inspire HR - An Exhaustive Assessment of the Always-On Tracker</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-pixel-slate-pros-cons-and-chromeos-challenges/"><u>Expert Insights on Pixel Slate: Pros, Cons, and ChromeOS Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-msvcr110dll-error-for-helldivers-2-essential-solutions-to-try/"><u>Fix the 'MSVCR110.dll' Error for Helldivers 2: Essential Solutions to Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-wma-files-into-mp3-format-using-movavi/"><u>Free Online Conversion: Transform WMA Files Into MP3 Format Using Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/should-you-consider-getting-applecareplus-for-your-device/"><u>Should You Consider Getting AppleCare+ for Your Device?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-colors-in-french-quick-pronunciation-guide/"><u>The Colors In French – Quick Pronunciation Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
 </ul></div>
 

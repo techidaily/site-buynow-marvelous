@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2024-10-16T16:28:03.764Z
-updated: 2024-10-18T18:02:28.246Z
+date: 2024-10-29T08:55:34.082Z
+updated: 2024-10-29T23:57:13.588Z
 tags:
   - games
   - tv
@@ -21,18 +21,18 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -47,10 +47,10 @@ Jordan Gloor / How-To Geek
 ![Labelled HDMI inputs on the back of a television.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
@@ -58,10 +58,10 @@ Jason Fitzpatrick / How-To Geek
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
@@ -71,6 +71,13 @@ Jason Fitzpatrick / How-To Geek
  You'll want to be familiar with the name your TV's manufacturer uses to refer to HDMI-CEC functionality since many of them use in-house names. However, in most cases, you will find the option under your TV's general settings, under "External Device Manager" or a similar name, where you will be able to turn it on.
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -99,13 +106,6 @@ Jason Fitzpatrick / How-To Geek
  You should also give your remote a specific name after setting it up so it will be easy to find for later access. Granted, this method primarily expects that you will use the Apple TV remote as your main input across your media setup, though if you're on an Apple TV, this may already be the case anyway.
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
@@ -138,22 +138,15 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comparative-analysis-of-top-screen-recorders-with-a-spotlight-on-apeaksoft/"><u>[Updated] In 2024, Comparative Analysis of Top Screen Recorders with a Spotlight on Apeaksoft</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-hisense-40h5590f-smart-tv-is-it-worth-your-budget-comprehensive-review/"><u>Evaluating the Hisense 40H5590F Smart TV – Is It Worth Your Budget? Comprehensive Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-seatechs-external-blu-ray-burner-inconsistent-results/"><u>Expert Analysis of SeaTech's External Blu-Ray Burner: Inconsistent Results</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-familiar-with-blinks-robust-4-camera-outdoor-surveillance-floodlight-system/"><u>Get Familiar with Blink's Robust 4-Camera Outdoor Surveillance Floodlight System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y27s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y27s To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-microphone-fixes-on-xbox-avoid-common-pitfalls-and-apply-our-best-solutions/"><u>Mastering Microphone Fixes on Xbox - Avoid Common Pitfalls & Apply Our Best Solutions !</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-tools-for-your-freelance-business-bing-chat-vs-chatgpt-and-8-critical-points-to-ponder/"><u>Navigating AI Tools for Your Freelance Business: Bing Chat Vs. ChatGPT and 8 Critical Points to Ponder</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ranking-the-handheld-contenders-why-the-nintendo-switch-reigns-supreme/"><u>Ranking the Handheld Contenders: Why the Nintendo Switch Reigns Supreme</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-amazon-echo-show-10-3rd-generation-the-robotic-camera-that-follows-you-everywhere/"><u>Review of Amazon Echo Show 10 (3Rd Generation): The Robotic Camera That Follows You Everywhere</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-experience-endless-high-quality-sound-with-ion-audio-tailgater-plus/"><u>Review: Experience Endless High-Quality Sound with Ion Audio Tailgater Plus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-mornings-with-the-totobay-2nd-gen-wake-up-light-budget-masterpiece-inside/"><u>Revolutionize Your Mornings with the Totobay 2Nd Gen Wake-Up Light - Budget Masterpiece Inside!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-phantom-v-flip-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Phantom V Flip Phone Pattern Lock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-masterpiece-in-depth-analysis-and-thoughts-on-the-samsung-galaxy-s10-elite-model/"><u>Unveiling the Masterpiece: In-Depth Analysis and Thoughts on the Samsung Galaxy S10 Elite Model</u></a></li>
-<li><a href="https://win-net.techidaily.com/windows-11-audio-revival-guide-how-to-refresh-and-reset-your-systems-soundscape/"><u>Windows 11 Audio Revival Guide: How to Refresh and Reset Your System's Soundscape</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-catastrophic-windows-11-crashes-expert-fix-for-event-tracing-issues/"><u>Winning the Battle Against Catastrophic Windows 11 Crashes: Expert Fix for Event Tracing Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-hd-video-converter-deluxe-faq-common-tech-questions-and-solutions-for-digiarty-software-users/"><u>WinX HD Video Converter Deluxe FAQ: Common Tech Questions & Solutions for Digiarty Software Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-comprehensive-guide-to-nikon-d7500-performance-for-2024/"><u>[New] Comprehensive Guide to Nikon D7500 Performance for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mi-drone-reviewed-capturing-landscapes-in-full-resolution-for-2024/"><u>[New] MI Drone Reviewed Capturing Landscapes in Full Resolution for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlock-full-potential-of-streaming-with-dual-display-on-netflix-for-2024/"><u>[New] Unlock Full Potential of Streaming with Dual Display on Netflix for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>[Updated] 2024 Approved Mastering Video Capture A Deep Dive Into Tunefab Products</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-instagram-and-soundtracks-demystifying-legalities/"><u>[Updated] In 2024, Instagram & Soundtracks Demystifying Legalities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-top-streamers-apple-tv-4k-against-the-roku-ultra/"><u>Comparing Top Streamers: Apple TV 4K Against the Roku Ultra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-fitbit-versa-2-your-ultimate-guide-to-a-smart-active-lifestyle/"><u>Comprehensive Analysis of the Fitbit Versa 2 - Your Ultimate Guide to a Smart, Active Lifestyle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-minecraft-campfire-tales-outfit-collection/"><u>Comprehensive Evaluation of the Minecraft Campfire Tales Outfit Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-netgear-orbi-rb50-y-amp/"><u>Comprehensive Evaluation of the Netgear Orbi RB50 Y Amp</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 Pro 5G Phones with/without a PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-10-22T04:38:28.611Z
-updated: 2024-10-23T19:57:49.970Z
+date: 2024-10-23T19:38:14.559Z
+updated: 2024-10-30T06:00:16.802Z
 tags:
   - games
   - tv
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  There's nothing worse than the sinking feeling of disappointment you get after purchasing a shiny new graphics card when you realize that it doesn't work correctly. Before you lose your cool and return it, follow these troubleshooting tips to make sure the card was installed correctly.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check the Video Cable
 
  Before we dive into more involved troubleshooting steps, have you double-checked that your monitor's cable is plugged into the graphics card and not the motherboard? In standard computer cases, the graphics card video ports are always below the motherboard I/O. If you plug your monitor into the motherboard, the [integrated graphics will take over](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/), and your shiny graphics card will just sit unused.
@@ -49,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![The back of a computer with the graphics card I/O in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rsz_img20240205151519.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
@@ -85,30 +66,31 @@ Ismar Hrnjicevic / How-To Geek
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Once you've made sure that everything is disconnected, pull the graphics card out completely. In some cases, dust and debris can get stuck in the PCIe slot on your motherboard, so make sure to [dust it with some compressed air](https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/) while you're at it.
 
  After that, push the graphics card back in until you feel it click into place, put your side panel back on, reconnect the cables, flip the switch on your power supply, and boot your PC again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Fully Uninstall Old Graphics Drivers Before Installing New Ones
 
  If you upgraded from one graphics card to another, you must do a [clean driver install](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/) if you want the card to work correctly. That's because leftover bits of code stay in Windows, even if you uninstalled the old drivers using conventional methods. The leftover code can cause issues with how the operating system utilizes the graphics card.
 
  Thankfully, the solution is rather quick and painless. All you have to do is download and install [Display Driver Uninstaller (DDU)](https://www.guru3d.com/download/display-driver-uninstaller-download/), select your graphics card brand, and follow the on-screen prompts. When you're done, do a fresh installation of your graphics card drivers.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check the In-Game Temperatures and Usage
 
@@ -123,10 +105,10 @@ Jason Fitzpatrick / How-To Geek
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -140,10 +122,16 @@ Justin Duino / How-To Geek
  So, open up your dusty Steam library and download a few recent triple-A titles. If your graphics card has great FPS in those titles, it's the original game that's at fault and not your graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Play Around With Windows Settings
@@ -173,17 +161,14 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-dslr-or-mirrorless-the-ultimate-question-for-videographers-for-2024/"><u>[New] DSLR or Mirrorless? The Ultimate Question for Videographers for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-efficiently-embedding-your-imovie-clips-in-a-vimeo-account/"><u>[New] Efficiently Embedding Your iMovie Clips in a Vimeo Account</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/03014130-new-get-unlimited-echoes-for-online-content-makers/"><u>[New] Get Unlimited Echoes for Online Content Makers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-to-acquire-latest-drivers-for-acer-aspire-computers-running-windows/"><u>Comprehensive Tutorial to Acquire Latest Drivers for Acer Aspire Computers Running Windows</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/gratuito-transformacion-de-musica-en-formato-ogg-a-mp3-mediante-el-servicio-web-de-conversion-de-movavi/"><u>Gratuito Transformación De Música en Formato OGG a MP3 Mediante El Servicio Web De Conversión De Movavi</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-narzo-60-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme Narzo 60 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-sony-xperia-1-v-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Sony Xperia 1 V</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-offworld-trading-company-strategies-merciless-trade-for-ultimate-empire-growth-review/"><u>Unveiling Offworld Trading Company Strategies: Merciless Trade for Ultimate Empire Growth Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-tp-links-av130pert-system-an-extender-that-falls-short/"><u>Unveiling the Capabilities of TP-Link's AV130pert System: An Extender That Falls Short</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-clever-design-detailed-review-of-twelve-souths-bookbook-v2-case/"><u>Unveiling the Clever Design: Detailed Review of Twelve South's BookBook V2 Case</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/upgrading-windows-10-from-basic-home-to-advanced-pro/"><u>Upgrading Windows 10: From Basic Home to Advanced Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/urban-masterpiece-unleashed-cities-skylines-game-analysis-and-addiction-factor/"><u>Urban Masterpiece Unleashed - Cities: Skylines Game Analysis & Addiction Factor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-your-computers-malfunctioning-optical-drive/"><u>How To Repair Your Computer's Malfunctioning Optical Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy F14 5G Phone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimizing-your-web-page-essential-techniques-for-improved-search-engine-ranking/"><u>Optimizing Your Web Page: Essential Techniques for Improved Search Engine Ranking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-express-unveiled-top-tier-content-at-an-unbeatable-price-point-a-users-guide-to-savings-and-variety/"><u>Roku Express Unveiled: Top-Tier Content at an Unbeatable Price Point - A User's Guide to Savings and Variety</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/safeguard-your-iphone-top-antivirus-solutions-reviewed/"><u>Safeguard Your iPhone: Top Antivirus Solutions Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x85f-premium-65-4k-led-smart-uhd-tv-assessment-great-value-for-money/"><u>Sony XBR65X85^F - Premium 65 4K LED Smart UHD TV Assessment, Great Value for Money</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-how-to-seamlessly-integrate-multiple-videos-into-one-cohesive-video/"><u>Step-by-Step Tutorial: How to Seamlessly Integrate Multiple Videos Into One Cohesive Video</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-tug-of-war-making-the-right-choice-between-an-amazon-fire-or-a-samsung-device/"><u>Tablet Tug-of-War: Making the Right Choice Between an Amazon Fire or a Samsung Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-essential-list-of-online-video-ripper-tools-for-2024/"><u>The Essential List of Online Video Ripper Tools for 2024</u></a></li>
 </ul></div>
 

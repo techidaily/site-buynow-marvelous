@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-10-16T20:30:52.835Z
-updated: 2024-10-18T20:05:58.070Z
+date: 2024-10-25T16:46:21.800Z
+updated: 2024-10-29T17:24:15.916Z
 tags:
   - games
   - tv
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 ![Death Stranding's Capital Knot City.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/death_stranding.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Death Stranding_  
 Tim Brookes / How-To Geek
 
@@ -51,10 +58,10 @@ Tim Brookes / How-To Geek
  However, people in the gaming world throw this word around a little liberally. There's the tongue-in-cheek stuff like _Surgeon Simulator_ where the joke is that it's the opposite of a simulator, but then there's a fuzzy area where some games that have a veneer of realism are referred to as simulators as well. Add to this, that simulation fidelity can vary and games often have very simplified simulations of some things in service of gameplay, and not realism, and it's easy to apply the term where it doesn't belong.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Isometric
@@ -63,23 +70,9 @@ Tim Brookes / How-To Geek
 
 ![Fallout 2 from Black Isle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fallout_2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Interplay/Bethesda Softworks
 
  The silliest use I've seen myself is in reference to _Baldur's Gate 3,_which is a true 3D game, with a movable camera that can be moved from a top-down perspective all the way down to an over-the-shoulder view. So it's not isometric in any sense of the word. To be even more pedantic, many "isometric" games from the classic gaming era weren't isometric either. The first _Fallout_ game, for example, was trimetric.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  RPG
 
@@ -91,6 +84,13 @@ _Starfield_
 Tim Brookes / How-To Geek
 
  In recent years, more and more games outside the RPG genre have adopted elements of these games into their own designs. However, just like bolting wings to your car does not make it a plane, adding XP and item stats to an action adventure game does not make it a true RPG.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pay-To-Win
 
@@ -104,28 +104,15 @@ Arrowhead Game Studios
  Whether you approve of "P2W" games or not, the term only applies to games where money can get you a significant advantage over other players. So, for example, it can never apply to a single-player game. Likewise, it can't apply to a PvE (Player Versus Enemy) game such as _Helldivers II_ because all the players are on the same side and the enemies are non-player characters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Microtransaction vs DLC
 
  This is a curious one I saw for the first time not too long before writing this. There might be some disagreement on the finer details, but a [microtransaction](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) is a small payment you can make over and over again in a game to ge some sort of resource. Such as buying premium currency, or buying lootboxes. DLC (Downloadable content) are digital items you buy once and keep forever. Examples would include new weapons or outfits that are permanently added to your game, or even major game and story expansions.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Lag Vs Frame Rate
 
@@ -139,22 +126,35 @@ Arrowhead Game Studios
 
  However, installing something from local media is not "downloading". That only applies to data that you receive from a server.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ray Tracing
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
 
 [Ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) is a graphics rendering technique that simulates how light in the real world interacts with objects. It's the closest we've come to truly photorealistic graphics, but plenty of people can't tell when something is an example of ray tracing or not. There's a misconception that any reflections in a game that look realistic means the game has ray tracing, but that's simply not true. To muddy things even more, ray tracing can be applied selectively to global lights like the sun, to local light, to reflections, and to shadows. For example, many games with ray tracing on current-generation consoles have ray-traced shadows, but not reflections. Yet many players think the reflections are ray-traced. Here's a tip: ray-traced reflections usually reflect objects that are not currently visible on-screen.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Indie Games
 
@@ -179,14 +179,19 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-the-font-inclusion-process-in-ae/"><u>[New] 2024 Approved Breaking Down the Font Inclusion Process in AE</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-transformative-power-of-instavids-planning-your-marketing-journey/"><u>2024 Approved Transformative Power of InstaVids Planning Your Marketing Journey</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-razer-book-13-portability-meets-power/"><u>Comprehensive Review of the Razer Book 13: Portability Meets Power</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/delving-into-the-advanced-features-of-b550-xt/"><u>Delving Into the Advanced Features of B550-XT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-how-to-choose-between-small-large-or-medium-trackers-a-deep-dive-into-gps-security-devices-and-their-uses/"><u>Discover How to Choose Between Small, Large, or Medium Trackers - A Deep Dive Into GPS Security Devices and Their Uses</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-c67-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme C67 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-peak-frame-rate-for-exceptional-slow-motion-video/"><u>In 2024, Selecting Peak Frame Rate for Exceptional Slow Motion Video</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-ssl-certs-worth-the-savings/"><u>Inexpensive SSL Certs: Worth the Savings?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-hd-graphics-4400-driver-update-how-to-get-it-fast/"><u>Intel HD Graphics #4400 Driver Update: How to Get It Fast</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-write-a-good-documentary-script/"><u>[New] How to Write a Good Documentary Script</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-social-sharing-uploading-360-degree-images-on-mobile-platforms-for-2024/"><u>[Updated] Maximizing Social Sharing Uploading 360-Degree Images on Mobile Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converting-your-m4v-videos-into-compatible-formats-like-mp4-avi-and-mkv-on-mac-computers/"><u>Converting Your M4V Videos Into Compatible Formats Like MP4, AVI & MKV on Mac Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-pair-sony-wireless-bluetooth-headphones-a-simple-guide/"><u>How to Pair Sony Wireless Bluetooth Headphones: A Simple Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-proficiently-post-360-degree-content-on-fb/"><u>How to Proficiently Post 360-Degree Content on FB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-rating-of-the-sumind-bt70b-fm-transmitter/"><u>In-Depth Analysis and Rating of the Sumind BT70B FM Transmitter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-corsair-one-pro-the-ultimate-gamers-workstation/"><u>In-Depth Analysis of Corsair ONE PRO: The Ultimate Gamer's Workstation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-gaomon-pd1560-digital-drawing-pad-for-artists-and-designers/"><u>In-Depth Analysis of the Gaomon PD1560 Digital Drawing Pad for Artists and Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x1-nano-assessment-the-ultimate-compact-workhorse/"><u>In-Depth Lenovo ThinkPad X1 Nano Assessment - The Ultimate Compact Workhorse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-ring-video-doorbell-pro-assessment-intelligently-advanced-features-explored/"><u>In-Depth Ring Video Doorbell Pro Assessment: Intelligently Advanced Features Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-star-wars-squadrons-game-analysis-engrossing-galactic-battles-await/"><u>In-Depth Star Wars Squadrons Game Analysis - Engrossing Galactic Battles Await!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/migracion-de-datos-entre-windows-10-y-11-tres-tecnicas-faciles-para-transferir-archivos-eficientemente/"><u>Migración De Datos Entre Windows 10 Y 11: Tres Técnicas Fáciles Para Transferir Archivos Eficientemente</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/pc-and-tumblr/"><u>PC & スマートフォンで「Tumblr」動画閲覧・保存ガイド</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 70 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
 

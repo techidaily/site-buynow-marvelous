@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
-date: 2024-10-17T14:26:56.767Z
-updated: 2024-10-23T17:33:03.738Z
+date: 2024-10-26T21:46:48.844Z
+updated: 2024-10-30T05:18:10.796Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
@@ -37,21 +37,28 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -94,10 +101,10 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -108,14 +115,14 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: 35 miles**
 
@@ -124,13 +131,6 @@ Lifewire / Erika Rawes
  Even with the short-range, I was able to pick up 16 channels on my first attempt, including The CW, PBS, and more. In a different room in my test home, I was able to get 23 channels, but this is probably because there’s less tree cover outside of the house on that side of the property. Considering the location of my test home, 23 channels is pretty good.
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Super affordable**
 
@@ -181,19 +181,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/-simple-yet-powerful-strategies-to-skyrocket-your-youtube-views-for-2024/"><u>[New] 5 Simple Yet Powerful Strategies to Skyrocket Your YouTube Views for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-rights-overload-immediate-content-scrapping/"><u>[Updated] In 2024, Rights Overload Immediate Content Scrapping</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-metaverse-marketing-landscapes/"><u>[Updated] Navigating Metaverse Marketing Landscapes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-13-mini-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 13 mini using icloud website</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-x100-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo X100 to iPad | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-romer-chargeable-spotlight-analysis-a-high-powered-and-eco-friendly-illuminator-for-adventures/"><u>Revolutionary Romer Chargeable Spotlight Analysis: A High-Powered & Eco-Friendly Illuminator for Adventures</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rigorous-testing-of-kensuns-portable-pneumatic-tool-sturdy-build-and-unmatched-mobility-revealed-in-this-thorough-assessment/"><u>Rigorous Testing of Kensun's Portable Pneumatic Tool - Sturdy Build and Unmatched Mobility Revealed in This Thorough Assessment</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/self-filmed-flair-tips-for-captivating-solo-videos-for-2024/"><u>Self-Filmed Flair Tips for Captivating Solo Videos for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/start-your-glow-journey-with-studio-agg814-kit/"><u>Start Your Glow Journey with Studio AGG814 Kit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-the-newly-reviewed-super-portable-samsung-galaxy-chromebook-2/"><u>The Definitive Guide to the Newly Reviewed, Super-Portable Samsung Galaxy Chromebook 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-flexispot-theodore-examined-a-stylish-modern-choice-for-your-professional-space/"><u>The Flexispot Theodore Examined: A Stylish, Modern Choice for Your Professional Space</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-11-and-10hevch265-4k/"><u>Windows 11 & 10上的卓越HEVC/H.265 4K视频编码转换工具</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stream-vs-record-deciding-on-obs-studio-or-bandicam/"><u>[New] Stream vs Record Deciding on OBS Studio or Bandicam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unveil-8-reliable-video-promotion-services/"><u>[Updated] In 2024, Unveil 8 Reliable Video Promotion Services</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-hulu-why-it-excels-as-a-service/"><u>Assessing Hulu: Why It Excels as a Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-list-of-professional-scanners-for-docs-and-photos/"><u>Discover the Elite List of Professional Scanners for Docs & Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-knack-assessment-standout-gaming-persona-meets-lackluster-adventure/"><u>Exclusive Knack Assessment: Standout Gaming Persona Meets Lackluster Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ghostrunner-not-working-troubleshoot-and-resolve-windows-11-issues-with-ease/"><u>Ghostrunner Not Working? Troubleshoot and Resolve Windows 11 Issues with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-faceoff-the-ultimate-camera-showdown-guide/"><u>Gopro Faceoff The Ultimate Camera Showdown Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illustrator-tips-achieving-natural-motion-blur/"><u>Illustrator Tips Achieving Natural Motion Blur</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s17e-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S17e Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-thinkpad-x12-detachable-review-good-2-in-1-great-keyboard/"><u>Lenovo ThinkPad X12 Detachable Review: Good 2-in-1, Great Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/misez-une-conversion-gratuite-flv-a-mpg-en-ligne-utilisation-simple-de-movavi/"><u>Misez Une Conversion Gratuite Flv À Mpg en Ligne - Utilisation Simple De Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/readers-guide-to-understanding-the-kobo-clara-colour-an-extensive-review-and-comparison/"><u>Readers' Guide to Understanding the Kobo Clara Colour: An Extensive Review and Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-rated-battery-pack-review-travel-with-confidence-using-dbpower-600a-mains-charger/"><u>The Best Rated Battery Pack Review – Travel with Confidence Using DBPower 600A Mains Charger</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-latest-and-greatest-in-depth-review-of-the-7gen-amazon-kindle-paperwhite-for-bibliophiles/"><u>The Latest and Greatest: In-Depth Review of the 7Gen Amazon Kindle Paperwhite for Bibliophiles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-j5-tactical-v1-pro-the-top-choice-for-durable-and-miniaturized-illumination/"><u>Ultimate Guide to the J5 Tactical V1-Pro - The Top Choice for Durable and Miniaturized Illumination</u></a></li>
 </ul></div>
 

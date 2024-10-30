@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2024-10-21T01:24:34.826Z
-updated: 2024-10-23T21:55:06.066Z
+date: 2024-10-25T06:27:09.574Z
+updated: 2024-10-29T23:35:43.035Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -41,13 +41,6 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B00D2ZK1IG/?tag=lifewire-onsite-prod-20&ascsubtag=4778324%7Cn8b17d62e028148938085d16c4455799211%7CB00D2ZK1IG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/dying-light/10111372.html)
@@ -73,6 +66,13 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Straight into the action**
 
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
@@ -80,26 +80,13 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -114,10 +101,10 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -138,6 +125,13 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -149,10 +143,10 @@ Harran is a whole different city at night.
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Worth the cost, especially with a friend**
@@ -192,22 +186,19 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-a-comprehensive-tutorial-for-transforming-vids-into-dollars/"><u>[New] 2024 Approved A Comprehensive Tutorial for Transforming Vids Into Dollars</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlabs-obs-review-and-alternative-for-2024/"><u>[New] Streamlabs OBS Review and Alternative for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterful-webcam-hacks-for-creative-sessions/"><u>2024 Approved Masterful Webcam Hacks for Creative Sessions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-travel-blogging-essentials-step-by-step-path-to-success/"><u>2024 Approved Travel Blogging Essentials Step-by-Step Path to Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creare-un-gif-da-file-mp4-o-flv-con-convertitore-3gpp-di-gratis-di-movavi/"><u>Creare Un GIF Da File MP4 O FLV Con Convertitore 3GPP Di Gratis Di Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-cost-effective-and-miniaturized-samsung-galaxy-s10e/"><u>Expert Review of the Cost-Effective & Miniaturized Samsung Galaxy S10e</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-verdict-on-xiaomi-mi-smart-band-t-the-best-value-for-money-fitness-monitor/"><u>Expert Verdict on Xiaomi Mi Smart Band T: The Best Value for Money Fitness Monitor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-uncharted-territory-comprehensive-guide-to-leveraging-preview-for-creative-photo-manipulation-on-macos/"><u>Exploring the Uncharted Territory: Comprehensive Guide to Leveraging Preview for Creative Photo Manipulation on macOS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/find-the-best-budget-friendly-cell-service-top-picks/"><u>Find the Best Budget-Friendly Cell Service : Top Picks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gps-vs-cellular-comparing-features-of-the-latest-apple-watch-models/"><u>GPS Vs. Cellular: Comparing Features of the Latest Apple Watch Models</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hydroclear-scan-reliable-soundproofing-capacity/"><u>HydroClear Scan: Reliable Soundproofing Capacity</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ideal-strategies-for-recording-app-activity-for-2024/"><u>Ideal Strategies for Recording App Activity for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/imo-instant-messaging-software-review-what-users-are-saying/"><u>Imo Instant Messaging Software Review - What Users Are Saying</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-reno-11f-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo Reno 11F 5G Easily?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazonbasics-7-port-usb-30-hub-for-optimal-port-usage/"><u>In-Depth Analysis of AmazonBasics 7-Port USB 3.0 Hub for Optimal Port Usage</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-videos-the-top-10-editing-software-options-for-2024/"><u>Updated Elevate Your Videos The Top 10 Editing Software Options for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>Updated In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-save-your-guide-to-androidmac-video-savings-for-2024/"><u>[Updated] Capture, Save Your Guide to Android/Mac Video Savings for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-chatgpt-can-revolutionize-your-time-management-techniques-5-tips-inside/"><u>Discover How ChatGPT Can Revolutionize Your Time-Management Techniques (5 Tips Inside)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-drawing-experience-with-the-latest-driver-update-for-huion-h610-pro-graphics-pad/"><u>Enhance Your Drawing Experience with the Latest Driver Update for Huion H610 Pro Graphics Pad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-robust-apc-back-ups-pro-nv1500-unmatched-energy-backup-with-plenty-of-outlets-and-hot-swappable-cells-for-seamless-power-continuity/"><u>Evaluating the Robust APC Back-UPS Pro Nv1500: Unmatched Energy Backup with Plenty of Outlets and Hot Swappable Cells for Seamless Power Continuity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-enhanced-convenience-with-mods-innovative-easy-sidecar-electric-bike/"><u>Experience Enhanced Convenience with Mod's Innovative Easy Sidecar Electric Bike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-venu-review-a-smart-247-fitness-and-health-tracking-companion/"><u>Garmin Venu Review: A Smart 24/7 Fitness and Health-Tracking Companion</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-frame-your-filmmaking-the-3-secrets-to-instagram-borders/"><u>In 2024, Frame Your Filmmaking The 3 Secrets to Instagram Borders</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-download-and-installation-of-wacom-intuos-graphics-tablet-drivers-revised-version/"><u>Instant Download & Installation of Wacom Intuos Graphics Tablet Drivers - Revised Version</u></a></li>
+<li><a href="https://extra-support.techidaily.com/magix-vpx-the-ultimate-software-showdown-for-2024/"><u>Magix VPX The Ultimate Software Showdown for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-photos-the-ultimate-guide-to-using-and-reviewing-anthropicss-smart-editing-tool/"><u>Master Your Photos: The Ultimate Guide to Using and Reviewing Anthropics's Smart Editing Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revitalize-your-gaming-with-the-99-chromax-black-noctua-cooler-the-highest-quality-in-air-ventilation-technology/"><u>Revitalize Your Gaming with the £99 Chromax Black Noctua Cooler: The Highest Quality in Air Ventilation Technology</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-the-revo-uninstaller-app-on-your-smartphone/"><u>Step-by-Step Guide: Setting Up & Enabling the Revo Uninstaller App on Your Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-affordable-digital-delights-with-the-2020-lenovo-tab-m10-hd-a-review-for-budget-tech-enthusiasts/"><u>Unlock Affordable Digital Delights with The 2020 Lenovo Tab M10 HD: A Review for Budget Tech Enthusiasts</u></a></li>
 </ul></div>
 

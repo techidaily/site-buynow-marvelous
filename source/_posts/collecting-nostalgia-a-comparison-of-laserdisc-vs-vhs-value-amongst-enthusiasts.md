@@ -1,7 +1,7 @@
 ---
 title: "Collecting Nostalgia: A Comparison of Laserdisc Vs. VHS Value Amongst Enthusiasts"
-date: 2024-10-13T20:45:43.393Z
-updated: 2024-10-18T19:37:23.334Z
+date: 2024-10-28T16:23:43.075Z
+updated: 2024-10-29T16:45:16.045Z
 tags:
   - games
   - tv
@@ -25,27 +25,20 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  As it dawns on us that the internet isn't forever, and you don't really have control over your digital media, it's becoming more popular to collect physical media. While DVDs and Blu-ray media are a non-issue, what about older formats like LaserDisc and VHS? Should anyone be collecting these? If so, which one makes the most sense?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Quality and Format Differences
 
  LaserDisc is a higher quality format than VHS, period. LaserDisc offered almost twice as many horizontal lines of detail than VHS, so there really is no comparison. However, with LaserDisc you'll have to flip the disc over partway through most films. Like me, you probably have rose-tinted memories of what VHS looked like, but if you head to YouTube and look at digitized VHS recordings, you'll soon realize we could barely see what was going on. While LDs are still short of DVDs in quality, on the right equipment it can still look great.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Longevity and Durability
 
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
 
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  One thing I do worry about is the longevity of the actual players, since LDs will eventually break down when the lasers don't work anymore, and VHS players are mechanically complex and were unreliable even when new. Well, at least the mainstream models my family could afford were. Whether there will be any way to play these media decades from now is debatable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rarity and Availability
@@ -69,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Packaging and Artwork
 
 ![A NIghtmare Before Christmas Laserdisc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-nightmare-before-christmas-laserdisc.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Erman Gunes / Shutterstock.com](https://www.shutterstock.com/image-photo/ankara-turkey-january-19-2023-old-2251853805)
 
@@ -122,22 +122,22 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-rotation-producer-series/"><u>[New] Rotation Producer Series</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-charting-the-path-to-previous-imagery-a-facebook-centric-guide/"><u>[Updated] 2024 Approved Charting the Path to Previous Imagery A Facebook-Centric Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024-ultimate-list-leading-pc-audio-solutions-for-gamers/"><u>2024 Ultimate List: Leading PC Audio Solutions for Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/develop-a-research-timeline/"><u>Develop a Research Timeline:</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-assessment-of-battery-operated-google-wireless-doorbells/"><u>Expert Assessment of Battery Operated Google Wireless Doorbells</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-12-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 12 In Easy Steps | Stellar</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13t-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13T Pro FRP</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-best-online-education-resources-with-our-expert-picks-for-top-notch-course-platforms/"><u>Navigate the Best Online Education Resources with Our Expert Picks for Top-Notch Course Platforms</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-art-of-color-correction-a-final-cut-pro-guide/"><u>New 2024 Approved The Art of Color Correction A Final Cut Pro Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fix-laser-print-nozzle-blockage/"><u>Quick Fix: Laser Print Nozzle Blockage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-thinkpad-x1-titanium-yoga-exposed-why-this-top-of-the-line-2-in-1-is-a-must-have-for-die-hard-thinkpad-fans/"><u>The Lenovo ThinkPad X1 Titanium Yoga Exposed: Why This Top-of-the-Line 2-in-1 Is a Must-Have for Die-Hard ThinkPad Fans!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-viair-88p-compressor-exceptional-force-hindered-by-specific-drawbacks/"><u>Unveiling the Viair 88P Compressor: Exceptional Force Hindered by Specific Drawbacks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/your-daily-dose-of-ig-meme-joy-and-sorrow-the-best-groups/"><u>Your Daily Dose of IG Meme Joy & Sorrow The Best Groups</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-key-approaches-to-microphone-and-computer-speaker-documentation/"><u>[New] 2024 Approved Key Approaches to Microphone & Computer Speaker Documentation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>[Updated] Unlock Potential While Unwinding Top Tasks for Podcast Lovers</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-x50-gt-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X50 GT Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/following-the-future-top-25-social-media-pioneers-on-instagram/"><u>Following The Future Top 25 Social Media Pioneers on Instagram</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>In 2024, 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-this-article-we-are-going-to-take-you-through-some-of-the-best-currently-available-software-and-we-are-going-to-show-you-how-you-can-turn-a-video-int/"><u>New In This Article, We Are Going to Take You Through some of the Best Currently Available Software and We Are Going to Show You How You Can Turn a Video Into a Captivating Cartoon</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/omotn-t1-tablet-support-a-cost-effective-and-reliable-solution-for-users/"><u>Omotn T1 Tablet Support: A Cost-Effective and Reliable Solution for Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paramountplus-announces-another-round-of-price-hikes-a-predictable-pattern/"><u>Paramount+ Announces Another Round of Price Hikes: A Predictable Pattern</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/philips-somneo-hf365060-sleep-and-wake-up-light-therapy-lamp-review/"><u>Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-j5-tactical-v1-pro-a-compact-beam-for-nighttime-operations-and-resilience/"><u>Reviewing the J5 Tactical V1-Pro: A Compact Beam for Nighttime Operations and Resilience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-propella-7s-n40-the-ideal-choice-for-savvy-shoppers-seeking-lightness-and-efficiency/"><u>Reviewing the Propella 7S N4.0: The Ideal Choice for Savvy Shoppers Seeking Lightness and Efficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-wearables-the-timeless-attractiveness-and-smart-features-of-withings-move/"><u>Revolutionizing Wearables: The Timeless Attractiveness and Smart Features of Withings Move</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-big-with-exclusive-benq-monitorprojector-promotions-this-prime-day/"><u>Save Big with Exclusive BenQ Monitor/Projector Promotions This Prime Day</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stanley-j5c09-review-large-but-capable/"><u>STANLEY J5C09 Review: Large but Capable</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-fitbit-versa-2-review-merging-fitness-goals-with-smartwatch-technology-for-an-all-in-one-wearable-device/"><u>The Fitbit Versa 2 Review: Merging Fitness Goals With Smartwatch Technology for an All-in-One Wearable Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016020783-trouble-with-astro-a50s-mic-heres-how-you-can-fix-it/"><u>Trouble with Astro A50's Mic? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-13-pro-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 13 Pro files after scanning? | Stellar</u></a></li>
 </ul></div>
 

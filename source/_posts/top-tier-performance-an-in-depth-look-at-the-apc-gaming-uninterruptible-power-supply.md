@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-10-20T06:39:25.700Z
-updated: 2024-10-24T07:21:54.441Z
+date: 2024-10-24T23:32:42.936Z
+updated: 2024-10-30T06:44:58.777Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -67,6 +67,19 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Flimsy and difficult to use**
 
  The first thing we noticed about the Docooler USB 2.0 12 Megapixel is how cheap it feels. The camera itself has a plastic, silver housing with a shiny silver focus ring on the end. It feels like it could break at any moment. The base is made of a transparent plastic, which is also available in blue and black. The plastic is so rigid that we expect it to break under regular use. Every time we adjusted the camera, the plastic creaked like a rusty door in a haunted house. Even in our short testing period, the joints started getting loose. We had to check several times just to make sure it wasn’t broken.
@@ -75,14 +88,14 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
 
- Lifewire / James Huenink
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / James Huenink
 
 ## **Setup process: Awkward to position**
 
@@ -102,6 +115,13 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Underwhelming performance in video and audio**
 
  We used[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test out the video and audio performance using the webcam for recording and[conference calls](https://www.lifewire.com/top-free-web-conferencing-tools-2377241) . It was difficult to position the Docooler USB 2.0 12 Megapixel correctly, because by the time we clipped it on and sat down, the camera had slipped out of position. This happened several times before we finally resigned ourselves to using a tilted camera in our calls.
@@ -114,23 +134,9 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Falls short**
 
@@ -147,10 +153,10 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -185,24 +191,19 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevate-chat-dynamics-pin-messages-with-confidence-in-discord/"><u>[New] In 2024, Elevate Chat Dynamics Pin Messages with Confidence in Discord</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>[New] In 2024, Instant Transformation Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-your-cameras-screen-recording-features/"><u>[New] Unlocking Your Camera's Screen Recording Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-covert-call-keepers-selective-voice-trapping-on-devices-androidios/"><u>[Updated] 2024 Approved Covert Call Keepers Selective Voice Trapping on Devices (Android/iOS)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-2023s-must-watch-alternatives-to-top-films/"><u>[Updated] In 2024, 2023'S Must-Watch Alternatives to Top Films</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins-for-2024/"><u>[Updated] The Inverted Illusion Guide Transforming Visual Content Through Angled Spins for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-download-various-format-options-zapkolik-video-in-mp4-mov-avi-flv-and-more/"><u>1. Download Various Format Options: Zapkolik Video in MP4, MOV, AVI, FLV, and More</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-swagtrons-chic-and-modern-electric-commuting-scooter/"><u>Evaluating Swagtron’s Chic and Modern Electric Commuting Scooter</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-t2x-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo T2x 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-linksyss-ea9500-a-smart-high-speed-internet-gateway/"><u>In-Depth Look at Linksys's EA9500: A Smart, High-Speed Internet Gateway</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-netgear-orbi-a-superior-mesh-router-option-for-unmatched-home-networking-experience/"><u>In-Depth Look at Netgear Orbi - A Superior Mesh Router Option for Unmatched Home Networking Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/innovative-auto-encryption-unravelers-2024-outlook/"><u>Innovative Auto Encryption Unravelers, 2024 Outlook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/innovative-ways-to-infuse-voiceovers-into-your-media-for-2024/"><u>Innovative Ways to Infuse Voiceovers Into Your Media for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-at-the-fourth-generation-echo-dot-modernized-appearance-same-great-alexa-experience/"><u>Inside Look at the Fourth Generation Echo Dot: Modernized Appearance, Same Great Alexa Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-the-acoustics-a-comprehensive-review-of-creativs-sound-blaster-zxr-the-2nd-flagship-model/"><u>Inside the Acoustics: A Comprehensive Review of Creativ's Sound Blaster ZXR - The 2nD Flagship Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-cable-modemrouter-duos-of-the-year-a-2024-selection/"><u>Leading Cable Modem/Router Duos of the Year - A 2024 Selection</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-assessment-quality-construction-meets-simple-performance/"><u>Lenovo Ideapad Assessment: Quality Construction Meets Simple Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-tab-m10-hd-2020-review-a-comprehensive-guide-to-a-high-quality-cost-effective-media-streaming-device/"><u>Lenovo Tab M10 HD 2020 Review: A Comprehensive Guide to a High-Quality, Cost-Effective Media Streaming Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/masterclass-on-the-samsung-galaxy-s10-an-in-depth-look-at-its-premium-features-and-capabilities/"><u>Masterclass on the Samsung Galaxy S10: An In-Depth Look at Its Premium Features and Capabilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-capturing-tiktok-videos-saving-on-modern-smartphones/"><u>[New] 2024 Approved Capturing TikTok Videos Saving on Modern Smartphones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-farming-game-to-immortal-status-with-these-7-14-mods-for-2024/"><u>[New] Elevate Your Farming Game to Immortal Status with These #7-14 Mods for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cost-free-chromebook-video-capturing-leaders/"><u>[New] In 2024, Cost-Free Chromebook Video Capturing Leaders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-masterful-moments-made-simple-the-snapchat-lens-guide/"><u>2024 Approved Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazonbasics-cost-effective-solution-for-document-security-a-detailed-review-of-their-6-sheet-cross-cut-shredder/"><u>AmazonBasics' Cost-Effective Solution for Document Security: A Detailed Review of Their 6 Sheet Cross Cut Shredder</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-a-youtubing-brand-from-scratch-with-these-8-courses-for-2024/"><u>Building a YouTubing Brand From Scratch with These 8 Courses for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-linksys-ac1900-mesh-wifi-system-your-perfect-home-network-solution/"><u>Comprehensive Guide to the Linksys AC1900 Mesh WiFi System - Your Perfect Home Network Solution</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/copyright-free-gaming-scores-the-10-leading-sources/"><u>Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fresh-start-how-to-refresh-device-drivers-on-windows-10-without-hitches/"><u>Fresh Start: How to Refresh Device Drivers on Windows 10 Without Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-rocket-league-from-crashing-on-your-device-updated-guide/"><u>How to Prevent Rocket League From Crashing on Your Device (Updated Guide )</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-how-does-the-lenovo-thinkpad-x1-nano-stand-up-as-a-featherweight-laptop/"><u>In-Depth Analysis: How Does the Lenovo ThinkPad X1 Nano Stand Up as a Featherweight Laptop?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/snapseed-essentials-conquering-image-enhancement-for-2024/"><u>Snapseed Essentials Conquering Image Enhancement for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-immersive-gaming-and-music-experiences-with-top-pc-sound-cards/"><u>Unleash Immersive Gaming & Music Experiences with Top PC Sound Cards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zmi-powerpack-20000-unveiled-a-comprehensive-review-of-this-mighty-portable-charger/"><u>ZMI PowerPack 20000 Unveiled: A Comprehensive Review of This Mighty Portable Charger</u></a></li>
 </ul></div>
 

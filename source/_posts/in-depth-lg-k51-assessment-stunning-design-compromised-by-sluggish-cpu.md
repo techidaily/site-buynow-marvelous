@@ -1,7 +1,7 @@
 ---
 title: "In-Depth LG K51 Assessment: Stunning Design Compromised by Sluggish CPU"
-date: 2024-08-15T09:11:58.198Z
-updated: 2024-08-16T09:11:58.198Z
+date: 2024-10-24T21:43:11.666Z
+updated: 2024-10-29T23:49:56.954Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth LG K51 Assessment: Stunning Design Compromised by Sluggish CPU"
@@ -42,9 +42,6 @@ Lifewire / Erika Rawes
 ## Ubiquiti Amplifi HD Mesh Wi-Fi System
 
 ![Amplifi HD](https://www.lifewire.com/thmb/Njd1HQu0FsmaveVCH4FDT0Spa6c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_HeroSquare-fdb67079a06b415b98467919ec8e34a6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -81,17 +78,18 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Couldn’t get any easier**
 
  The setup for the Amplifi HD system is probably the easiest setup process I’ve encountered. The app walks you through the process step-by-step, with pictures to guide you on each instruction. The most difficult part was deciding where to place the two mesh points in my test home. I placed one in the far bedroom and one in my office, two rooms that notoriously experience drop-offs.
 
  By default, the app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways. You can create separate 2.4 and 5Ghz networks, or make other adjustments as you see fit though. You can change the band on the mesh points (from 2.4 to 5Ghz), create additional SSIDs, and more. For the purpose of testing, I used the default combined network and allowed the system to direct network traffic between bands.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: Lags when you add too many devices**
 
  The Amplifi HD system is not Wi-Fi 6 capable.[It has 802.11ac](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) , and it's backwards compatible. On the back of the router sit four gigabit LAN ports in addition to the WAN connection. There’s no multigig port, but the four ports were a welcome addition.
@@ -99,6 +97,13 @@ Lifewire / Erika Rawes
  The Amplifi HD seems to be designed for[optimal signal range](https://www.lifewire.com/best-long-range-routers-4122554) , as opposed to device quantity. This is an ideal system for someone with a large area to cover, but it’s not a powerhouse capable of managing an army of devices like the Nighthawk AX12 or the TP-Link Archer AX6000\. The Amplifi system thrives in terms of its ability to push a signal over a long distance, as it can cover areas up to 20,000 square feet. The Amplifi system doesn’t exactly thrive in its ability to manage dozens of devices simultaneously.
 
  In my test home, speeds from my ISP max out at 500 Mbps. In the same room as the main router, Ookla measured the speed at 131 Mbps. The speed remained consistent throughout the home, even in rooms that typically experience drop offs with other routers. However, outside in the backyard, the speed reduced to 111 Mbps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Key Features: A display screen**
 
@@ -108,9 +113,6 @@ Lifewire / Erika Rawes
 
  The app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Amplifi App**
 
  In the Amplifi App, you can set up a guest network, manage devices, pause the internet, check the health of the system, and check your speeds on your entire network and on individual devices. You can optimize the priority level for each of your devices between normal, streaming, or gaming.
@@ -119,15 +121,26 @@ Lifewire / Erika Rawes
 
 ![Amplifi HD](https://www.lifewire.com/thmb/2X1DxWPlS1VXqnwsUCG5qviJXwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_03-56584e48b76942519745c71443c2e8d5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: A little steep**
 
  The Amplifi HD system isn’t cheap. The package I tested, which came with the router and two mesh points, retails for $340\. You can find mesh systems for much less, and of course, some mesh systems are much more expensive. But, the Amplifi system’s design, easy setup, and feature set help justify the price.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Amplifi HD vs. Nest Wi-Fi**
 
  A Nest Wi-Fi package sells for around the same price as the Amplifi system. However, with the Nest system, all of the components match, while the Amplifi router looks very different from its mesh points. The Nest system points also serve as Google Assistant speakers, and the system features some more advanced technologies (like WPA3 encryption). However, one big issue with the Nest system is that it only has two Ethernet ports, while the Amplifi router has four spare ports.
@@ -138,9 +151,6 @@ Lifewire / Erika Rawes
 
  The Amplifi HD mesh system is attractive and does provide coverage for a huge area, but it doesn’t deliver lightning-fast speeds in a home with dozens of connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Amplifi HD Mesh Wi-Fi System
@@ -159,14 +169,11 @@ Lifewire / Erika Rawes
 * Remote connect  Yes
 * What’s included  Amplifi HD Router, two mesh points, power and Ethernet cables, guides
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +182,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-essential-list-premium-free-video-player-apps-pc-and-mobile/"><u>[New] In 2024, Essential List Premium Free Video Player Apps (PC & Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creator-payment-frequency-on-youtube-platform-for-2024/"><u>[Updated] Creator Payment Frequency on YouTube Platform for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-teacher-friendly-screen-recording-software/"><u>[Updated] In 2024, Essential Teacher-Friendly Screen Recording Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-pixelperfection-suite-windowsmac-screen-grabbers/"><u>[Updated] In 2024, PixelPerfection Suite Windows/Mac Screen Grabbers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-for-novices-a-primer-on-av1-technology/"><u>2024 Approved For Novices A Primer on AV1 Technology</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crafting-connections-the-art-and-science-of-personalized-facebook-profiles-for-2024/"><u>Crafting Connections The Art and Science of Personalized Facebook Profiles for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/docooler-usb-20-12-megapixel-review-too-good-to-be-true/"><u>Docooler USB 2.0 12 Megapixel Review: Too Good to Be True</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-navigating-through-the-essentials-of-snap-camera-on-ms-teams/"><u>In 2024, Navigating Through the Essentials of Snap Camera on MS Teams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-soundtracks-compilation-for-vids/"><u>In 2024, Superior Soundtracks Compilation for Vids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-how-netgear-orbi-rbs70w-unit-transforms-your-backyard-wi-fi-experience/"><u>In-Depth Evaluation: How Netgear Orbi RBS70W Unit Transforms Your Backyard Wi-Fi Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/omnicharge-omni-20-portable-power-bank-review-versatile-portable-charging-including-qi-wireless/"><u>Omnicharge Omni 20 Portable Power Bank Review: Versatile Portable Charging Including Qi Wireless</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pre-purchase-checklist-selecting-the-right-printer-for-your-needs/"><u>Pre-Purchase Checklist: Selecting the Right Printer for Your Needs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-showdown-google-nest-audio-vs-nest-mini-speaker-guide/"><u>Ultimate Showdown: Google Nest Audio Vs. Nest Mini Speaker Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-aeony-solar-generator-with-pure-sine-wave-technology-the-preferred-choice-for-medical-appliances-review/"><u>Unveiling the AeonY Solar Generator with Pure Sine Wave Technology - The Preferred Choice for Medical Appliances Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-tropico-6-a-paradise-under-siege/"><u>Unveiling the Truth About Tropico 6: A Paradise Under Siege</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/watch-dogs-legion-review-a-new-setting-for-the-series/"><u>Watch Dogs: Legion Review: A New Setting for the Series</u></a></li>
+</ul></div>
 

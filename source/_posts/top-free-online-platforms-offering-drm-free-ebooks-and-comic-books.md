@@ -1,7 +1,7 @@
 ---
 title: Top Free Online Platforms Offering DRM-Free Ebooks & Comic Books
-date: 2024-09-24T19:59:45.608Z
-updated: 2024-10-01T19:51:19.145Z
+date: 2024-10-23T01:08:41.895Z
+updated: 2024-10-30T06:56:58.585Z
 tags:
   - games
   - tv
@@ -29,13 +29,6 @@ When I bought my first physical eReader, I was devastated to learn that I didn't
 
 ![Story Bundle website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045807.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The folks behind Story Bundle saw what the Humble Bundle folks were doing with games and decided to apply the same model to books (back before Humble Bundle decided to also get into books). The formula is the same. Choose your own price and get a bundle of books, with a portion of the sale going to charity.
 
  While Humble Bundle now attracts major publishers, Story Bundle still keeps the focus on independent writers. It's a good place to stumble upon works you're likely to have overlooked otherwise.
@@ -44,10 +37,6 @@ When I bought my first physical eReader, I was devastated to learn that I didn't
 
 ![Google Play Books website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045811.jpg) 
 
- Like Amazon, Barnes & Noble, and Kobo, Google primarily sells books restricted with DRM. What sets Google Play apart is that when a publisher doesn't restrict their books, Google will make this information clear. You will either see "This book is DRM restricted" or "This book is DRM-free" listed among the details when you check the "About this Book" section of a book in the Play Store.
-
-![Book details on Google Play showing a book is DRM free.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045825.png) 
-
 <!-- affiliate ads begin -->
 <a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
   <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -55,29 +44,26 @@ When I bought my first physical eReader, I was devastated to learn that I didn't
 <img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
- Google also provides a straightforward way of exporting the books you purchase. When you access your Play Books library in a web browser, click the three dots next to a book and select the "Export" option. Ebooks will usually be available as EPUB files, while comics are offered as either EPUBs or PDFs. As someone who [reads ebooks directly on my phone](https://win-howtos.techidaily.com/how-to-successfully-resolve-error-code-0x80ebbbb-on-windows-updates-proven-techniques-inside/), I like being able to purchase books, export them from my Google Play library, and read them all on the same device.
+ Like Amazon, Barnes & Noble, and Kobo, Google primarily sells books restricted with DRM. What sets Google Play apart is that when a publisher doesn't restrict their books, Google will make this information clear. You will either see "This book is DRM restricted" or "This book is DRM-free" listed among the details when you check the "About this Book" section of a book in the Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+![Book details on Google Play showing a book is DRM free.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045825.png) 
+
+ Google also provides a straightforward way of exporting the books you purchase. When you access your Play Books library in a web browser, click the three dots next to a book and select the "Export" option. Ebooks will usually be available as EPUB files, while comics are offered as either EPUBs or PDFs. As someone who [reads ebooks directly on my phone](https://win-howtos.techidaily.com/how-to-successfully-resolve-error-code-0x80ebbbb-on-windows-updates-proven-techniques-inside/), I like being able to purchase books, export them from my Google Play library, and read them all on the same device.
 
 ## 4 [Image Comics](https://imagecomics.com/) 
 
 ![Image Comics website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045805.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Comics is one of the largest comic publishers in the US. The company used to sell DRM-free comics directly through its own website. While that option is no more, digital comics that come from Image Comics remain DRM-free.
 
  When I want to read a new digital comic, I search the Image Comics website for something that catches my eye and then head to Google Play to make the purchase. It's easier than browsing Google's store directly, where you're more like to come across Marvel and DC titles that will not let you download a non-restricted digital copy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 [Tor](https://torpublishinggroup.com/) 
 
@@ -87,9 +73,29 @@ When I bought my first physical eReader, I was devastated to learn that I didn't
 
  Tor offers casual fare for readers of both genres, but you can also find multi-volume fantasy epics and hard sci-fi alike.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 [J Novel Club](https://j-novel.club/) 
 
 ![J Novel Club website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045820.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The largest manga publishers aren't keen on distributing digital copies of their bestselling titles without restricting where you can read them. Fortunately, that doesn't mean there isn't manga to be found. If you grow impatient waiting for manga to appear on Humble Bundle, consider J Novel Club.
 
@@ -103,16 +109,16 @@ When I bought my first physical eReader, I was devastated to learn that I didn't
 
  When you're ready to purchase a book, the site links you to other publishers. Again, I would stick with Google Play and export the EPUB immediately after purchase.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 [Standard Ebooks](https://standardebooks.org/) 
 
 ![Standard Ebooks website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1000045824.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Project Gutenberg](https://www.gutenberg.org/) is a well-established source of DRM-free ebooks that are in the public domain. These aren't modern books by any means, with most being well over half a century old. The bigger issue, though, is that formatting can be all over the place.
 
@@ -137,18 +143,20 @@ When I bought my first physical eReader, I was devastated to learn that I didn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-directly-upload-and-share-videos-to-twitter-from-your-phone/"><u>[New] Directly Upload and Share Videos to Twitter From Your Phone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capture-life-in-motion-on-your-ipad/"><u>2024 Approved Capture Life in Motion on Your iPad</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-streams-save-as-mp3-beat-for-easy-playback/"><u>2024 Approved FB Streams Save as MP3 Beat for Easy Playback</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-current-performance-of-the-fitbit-charge-3-is-it-holding-up/"><u>Assessing the Current Performance of the Fitbit Charge 3 - Is It Holding Up?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/asus-rog-rapture-gt-ax11000-router-tested-excelling-at-fast-connectivity-for-enhanced-gaming-experience/"><u>Asus ROG Rapture GT-AX11000 Router Tested: Excelling at Fast Connectivity for Enhanced Gaming Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-umbrella-lights-review-studiokit-ez/"><u>Budget Umbrella Lights Review: StudioKit EZ</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-byb-e430-led-swing-arm-light-assessment/"><u>Comprehensive BYB E430 LED Swing Arm Light Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-samsung-galaxy-note-9-unmatched-leader-among-phones-with-bigger-screens/"><u>Comprehensive Review of the Samsung Galaxy Note 9: Unmatched Leader Among Phones with Bigger Screens</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-xbox-one-elite-series-2-controller-analysis-the-epitome-of-gaming-perfection/"><u>Comprehensive Xbox One Elite Series 2 Controller Analysis: The Epitome of Gaming Perfection</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-xs-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone XS iCloud Activation Lock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-voice-windows-10-audio-basics/"><u>In 2024, Unleashing Voice Windows 10 Audio Basics</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-10-iphone-voice-capture-apps-the-ultimate-list/"><u>Top 10 iPhone Voice Capture Apps The Ultimate List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-upload-tweets-no-retweets-on-mobile/"><u>[New] In 2024, How to Upload Tweets - No Retweets on Mobile?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-impact-best-9-video-thumbnail-makers-reviewed-for-2024/"><u>[Updated] Crafting Impact Best 9 Video Thumbnail Makers Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-making-an-impact-professional-thumbnail-design-for-youtube/"><u>[Updated] Making an Impact Professional Thumbnail Design for YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8-must-have-methods-for-crafting-memorable-gifs/"><u>8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-cumuluspro-standing-desk-mat-assessment-your-ideal-support-system/"><u>Comprehensive CumulusPRO Standing Desk Mat Assessment: Your Ideal Support System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-netgear-nighthawk-x6-wi-fi-mesh-extender-features-and-performance/"><u>Comprehensive Evaluation of Netgear Nighthawk X6 Wi-Fi Mesh Extender – Features and Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-why-the-xbox-one-elite-series-2-is-a-gaming-icon/"><u>Comprehensive Review: Why the Xbox One Elite Series 2 Is a Gaming Icon</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/creative-labs-sound-blaster-zxr-an-in-depth-review-of-the-powerful-2013-gaming-audio-card/"><u>Creative Labs Sound Blaster ZXR - An In-Depth Review of the Powerful 2013 Gaming Audio Card</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/determining-what-to-look-for-in-videography-tools/"><u>Determining What to Look For in Videography Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-premier-home-cinema-pc-picks-for-an-unmatched-viewing-pleasure/"><u>Discover the Premier Home Cinema PC Picks for an Unmatched Viewing Pleasure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-risks-in-googles-password-storage-system/"><u>Evaluating the Risks in Google's Password Storage System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-meizu-21-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Meizu 21 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-no-fee-visual-aids/"><u>Navigating the World of No-Fee Visual Aids</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-privilege-errors-in-steam-games-a-complete-solution/"><u>Overcoming Privilege Errors in Steam Games - A Complete Solution</u></a></li>
 </ul></div>
 

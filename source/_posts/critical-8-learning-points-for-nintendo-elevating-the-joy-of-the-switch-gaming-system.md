@@ -1,7 +1,7 @@
 ---
 title: "Critical 8 Learning Points for Nintendo: Elevating the Joy of the Switch Gaming System"
-date: 2024-09-24T21:07:26.718Z
-updated: 2024-10-01T20:56:56.389Z
+date: 2024-10-23T18:34:06.431Z
+updated: 2024-10-30T10:16:01.616Z
 tags:
   - games
   - tv
@@ -26,16 +26,16 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  After decades of console launches that have set both industry highs and (relative) lows, there are critical lessons that Nintendo must learn from the competition and the company's past. Nobody wants the Switch 2 to be another Wii U.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Backwards Compatibility Is a Must 
 
 ![Nintendo Switch game cases.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/super_mario_wonder_switch.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -49,6 +49,13 @@ Tim Brookes / How-To Geek
 
 ![The Legend of Zelda: Breath of the Wild running on a Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/shutterstock_1454397305.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Natalia Lobon/Shutterstock.com](https://www.shutterstock.com/image-photo/boy-playing-zelda-on-nintendo-switch-1454397305)
 
  One of the smartest moves made by Sony and Microsoft in the transition to the current console generation was to [offer graphical and performance upgrades to the last-gen catalog](https://techidaily.com/unlock-android-phone-if-you-forget-the-infinix-zero-30-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/). The standard has been set and Nintendo needs to follow suit.
@@ -60,13 +67,6 @@ Tim Brookes / How-To Geek
 ## 3  Exclusive Killer Apps Make the Case 
 
 ![Person playing MarioKart on a Nintendo Switch with the USB wireless dongle of the JBL Quantum TWS Air plugged in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52872394896_a556b54ca4_o-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -93,10 +93,10 @@ Nintendo
  Adding new consoles to the fold like the GameCube would also get people excited, though I wouldn’t hold it against Nintendo to keep that card in their back pocket for a dry season. What’s most important for the Switch 2’s launch is that they simply let us keep what we already have.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Improved Online Paves the Way 
@@ -111,15 +111,22 @@ Kris Henges / How-To Geek
 
  I’d be remiss if I didn’t also mention the potential to bring MMOs to a portable system. The likes of _Final Fantasy XIV_ and _World of Warcraft_ don’t currently have dedicated handheld ports, but could massively benefit from the form-factor. I can only imagine how much less of a hassle it would feel like to grab a Switch 2 for my daily Mini Cactpot log-in, or to complete a few side-quests before bed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6  Give the UI a Facelift 
 
 ![A game is highlit with the cursor on the Nintendo Switch home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/game_highlit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While I love how the [Switch’s no-nonsense user interface keeps the focus on the games](https://facebook-video-recording.techidaily.com/updated-crafting-powerful-hashtags-for-fb-brand-identity-for-2024/), it’s ripe for improvement.
@@ -134,13 +141,6 @@ Kris Henges / How-To Geek
 
 ![Nintendo Switch Pro Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/032b2cc9-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nintendo
 
  It’s no secret that the Pro Controller market has been profitable for Nintendo given that many players don’t find Joy-Cons suitable for docked play. Garroting this market would be a big risk, but the statement it would make would help cement its dominance in the gaming landscape.
@@ -150,10 +150,10 @@ Nintendo
  Additionally, we’ve talked about backward compatibility for games, and I believe that should also apply to controllers. Unless there’s a substantial new feature that warrants a refresh, Nintendo should continue supporting Switch controllers. I’d go as far as to say this support outweighs any gimmicks they could add. That said, new models that [fix stick drift issues](https://instagram-video-files.techidaily.com/new-discreet-insta-story-enthusiasts-best-5-tools/) would be appreciated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Don’t Muddle the Message 
@@ -187,22 +187,20 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-outstanding-photos-ios-and-androids-leading-sticker-adders/"><u>[New] From Ordinary to Outstanding Photos IOS & Android's Leading Sticker Adders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premium-mac-programming-solutions-excluded-from-bandicam/"><u>[Updated] 2024 Approved Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-presence-making-videos-on-mobile-for-2024/"><u>[Updated] Elevate Your Online Presence Making Videos on Mobile for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-view-old-stories-on-facebook-find-story-archive-easily/"><u>[Updated] In 2024, How to View Old Stories on Facebook Find Story Archive Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stream-snipping-specialists-2023-version/"><u>[Updated] In 2024, Stream Snipping Specialists, 2023 Version</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-blending-youtube-audio-features-into-video-projects/"><u>2024 Approved Blending YouTube Audio Features Into Video Projects</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-faces-to-films-the-mi-11s-advanced-screenshot-technology/"><u>2024 Approved From Faces to Films The Mi 11'S Advanced Screenshot Technology</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quickshot-recorder-evaluation-summary/"><u>2024 Approved QuickShot Recorder Evaluation Summary</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-ios-vs-website-the-6-compelling-reasons-to-choose-mobile-accessibility/"><u>ChatGPT iOS Vs. Website: The 6 Compelling Reasons to Choose Mobile Accessibility</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-hidden-treasures-in-spyro-reignited-trilogy-how-a-small-sized-dragon-packed-big-worthwhile-experience/"><u>Discovering Hidden Treasures in Spyro Reignited Trilogy – How a Small-Sized Dragon Packed Big Worthwhile Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/distinguished-vehicle-cypher-crafters-2024-edition/"><u>Distinguished Vehicle Cypher Crafters, 2024 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/durable-sunbriteveranda-55/"><u>Durable SunBriteVeranda 55</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/embrace-the-journey-with-adaptive-patekfly-12s-support/"><u>Embrace the Journey with Adaptive Patekfly 12'S Support</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-acurite-pro-weather-station-model-01036m-user-friendly-setup-and-reliable-design-reviewed/"><u>Evaluating the AcuRite Pro Weather Station (Model 01036M): User-Friendly Setup & Reliable Design Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-razer-portal-for-gamers-unveiling-the-ultimate-wireless-setup/"><u>Expert Insight on Razer Portal for Gamers: Unveiling the Ultimate Wireless Setup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-which-ipad-is-right-for-you-a-detailed-analysis/"><u>Expert Reviews: Which iPad Is Right for You? A Detailed Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fast-lan-and-wireless-speeds-meet-gaming-perks-in-our-in-depth-look-at-the-asus-rog-rapture-gt-ax11000/"><u>Fast LAN and Wireless Speeds Meet Gaming Perks in Our In-Depth Look at the Asus ROG Rapture GT-AX11000</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>[Updated] Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-constant-media-recording-specialists/"><u>2024 Approved Constant Media Recording Specialists</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-11-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 11 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-generate-an-iso-file-for-system-installation-on-windows-10-using-native-utilities/"><u>How to Generate an ISO File for System Installation on Windows 10 Using Native Utilities</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-sony-xperia-1-v-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Sony Xperia 1 V to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-live-streamers/"><u>In 2024, The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-hyper-analysis-standout-performances-at-an-affordable-price-point/"><u>Motorola One Hyper Analysis: Standout Performances at an Affordable Price Point</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-best-and-brightest-of-netgear-routers/"><u>Navigate Through The Best and Brightest of Netgear Routers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-elgoog-insiders-review-of-the-premier-website-mirroring-service/"><u>Navigating elgooG: Insider's Review of the Premier Website Mirroring Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pitfalls-of-pixel-slate-an-investigative-review-of-its-chromeos-capabilities/"><u>Navigating the Pitfalls of Pixel Slate - An Investigative Review of Its ChromeOS Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-fortnite-an-insiders-review-of-the-thrilling-new-seasonal-content/"><u>Rediscovering Fortnite: An Insider's Review of the Thrilling New Seasonal Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-caixun-75-inch-4k-television-quality-performance-at-a-low-price-point/"><u>Review of the Caixun 75-Inch 4K Television: Quality Performance at a Low Price Point</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-windowmaster-your-essential-toolkit-for-efficient-files-and-folders-purging/"><u>Stellar WindowMaster: Your Essential Toolkit for Efficient Files & Folders Purging</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-for-integrating-frame-elements-with-images/"><u>Top Picks for Integrating Frame Elements with Images</u></a></li>
 </ul></div>
 

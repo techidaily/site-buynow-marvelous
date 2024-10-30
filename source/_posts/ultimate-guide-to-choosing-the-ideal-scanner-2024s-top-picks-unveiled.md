@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Choosing the Ideal Scanner - 2024'S Top Picks Unveiled
-date: 2024-10-20T10:07:08.258Z
-updated: 2024-10-23T19:40:44.792Z
+date: 2024-10-24T20:39:34.207Z
+updated: 2024-10-29T17:54:25.457Z
 tags:
   - buying-guides
 categories:
@@ -68,23 +68,9 @@ Best Film Scanner
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Photo Scanner Overall: [Epson Perfection V600](https://amazon.com/dp/B002OEBMRU?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003493&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-photo-scanners%2F&asc%5Fcampaign=Commerce) 
 
 ![An Epson Perfection V600 photo scanner next to a laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/epson-perfection-v600.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Epson_
 
@@ -110,13 +96,6 @@ _Epson_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best Photo Scanner Overall
 
 #####  Epson Perfection V600
@@ -124,6 +103,19 @@ Best Photo Scanner Overall
 The versatile Epson Perfection V600 offers excellent value with its high optical resolution, delivering vibrant colors and precise detail from a variety of formats.
 
 [$350 at Amazon](https://www.amazon.com/dp/B002OEBMRU?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003493&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-photo-scanners%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Epson-Perfection-V600-Photo-Color-Scanner-6400-x-9600-dpi-Black/15118926) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2003493%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fepson-perfection-series-perfection-v600%25252Fp%25252F2T4-00KC-00JP5%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fepson-perfection-series-perfection-v600%252Fp%252F2T4-00KC-00JP5) 
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Budget Photo Scanner: [Canon CanoScan LiDE 400](https://amazon.com/dp/B07G5YBS1W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003493&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-photo-scanners%2F&asc%5Fcampaign=Commerce) 
 
@@ -185,6 +177,13 @@ _Epson_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best Premium Photo Scanner
 
 #####  Epson Perfection V850
@@ -196,13 +195,6 @@ The Epson Perfection V850 is a premium photo scanner with premium performance. I
 ##  Best Photo Screen for Bulk Scanning: [Epson FastFoto FF-680W](https://amazon.com/dp/B07DLX26BB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003493&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-photo-scanners%2F&asc%5Fcampaign=Commerce) 
 
 ![A FastFoto FF-680W on the desk next to a woman using her laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fastfoto-ff-680w.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Epson_
 
@@ -225,10 +217,10 @@ _Epson_
 ![Epson FastFoto FF-680W](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/epson-fastfoto-ff-680w.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -244,13 +236,6 @@ Digitize your photo prints with Epson's FastFoto FF-680W, which can scan up to 3
 ##  Best Portable Photo Scanner: [Epson Perfection V39 II](https://amazon.com/dp/B0C35V1CLK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003493&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-photo-scanners%2F&asc%5Fcampaign=Commerce) 
 
 ![An Epson Perfection V39 II budget scanner connected to a laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/epson-perfection-v39-ii.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Epson_
 
@@ -272,14 +257,14 @@ _Epson_
 
 ![Epson Perfection V39 II](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/epson-perfection-v39-ii.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Portable Photo Scanner
 
@@ -315,14 +300,14 @@ _Plustek_
 
 ![A Plustek Opticfilm 8200i SE film scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/plustek-opticfilm-8200i-se.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Film Scanner
 
@@ -340,11 +325,25 @@ The Plustek Opticfilm 8200i SE is a top-quality film scanner with a high 7,200dp
 
  Printers with scanners and other features are often referred to as an [all-in-one (AIO) printer](https://hardware-help.techidaily.com/download-geforce-rtx-3060-ti-driver-for-windows-1011/) or a multifunction printer (MFP). They can be a good choice if you’re just an occasional photo scanner or if you often scan other document types and print hard copies. If high-res photo scanning isn’t a priority and budget is also a concern, an AIO printer may be the better choice. So, before buying any kind of scanner, it is best to [find the right one for your needs](https://digital-screen-recording.techidaily.com/navigating-the-complexities-of-obs-a-beginners-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the best scanning resolution for scanning older photos?
 
  Scanning older photos between 300 and 600 DPI is usually sufficient. The former is generally enough for quality digital images and standard prints. This resolution can capture ample detail and is a good balance between quality and file size. If your photos have fine details or if you plan on enlarging the image, 600 DPI should be sufficient. For slides and film negatives, or if your photos are very small, you might want to consider a higher resolution than 600 DPI. 
 
  However, the higher the resolution, the bigger the file size and the longer the scanning time. But, professionals such as graphic designers, photographers, and historians who archive old photos need these large resolutions. But even the casual scanner who prints significantly enlarged copies or is looking for detailed restorations of old or damaged photos should consider higher resolutions. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is DPI and why does it matter for scanning?
 
@@ -353,6 +352,13 @@ The Plustek Opticfilm 8200i SE is a top-quality film scanner with a high 7,200dp
  It matters because a higher DPI means more dots per inch, which results in a higher resolution and, therefore, better image quality. The more DPI, the better the detail in your photos. However, the higher the resolution, the higher the file size and the longer the scan time. 
 
  A high DPI (over 600) is often necessary for professional scans and enlargements. But if you’re just sharing images online or storing and viewing them on your computer, lower DPIs are fine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is a film scanner?
 
@@ -377,20 +383,21 @@ The Plustek Opticfilm 8200i SE is a top-quality film scanner with a high 7,200dp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlocking-tiktoks-true-potential-with-apples-voice-activated-system/"><u>[New] Unlocking TikTok's True Potential with Apple's Voice-Activated System</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-blueprint-to-rip-and-burn-cds-with-windows-media-player/"><u>[Updated] 2024 Approved The Ultimate Blueprint to Rip & Burn Cds with Windows Media Player</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity/"><u>[Updated] In 2024, The Complete Blueprint for Screen Capture Excellence with Adobe Captivity</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-photographers-route-to-perfectly-trimmed-web-pics-for-2024/"><u>[Updated] The Photographer's Route to Perfectly Trimmed Web Pics for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-movie-magic-solutions-questions-answered/"><u>2024 Approved Movie Magic Solutions Questions Answered</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-choice-8-best-converters-from-sub-to-srt/"><u>Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-wildlife-of-capcoms-epic-adventure-monster-hunter-world-reviewed/"><u>Exploring the Wildlife of Capcom's Epic Adventure - Monster Hunter: World Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-review-samsung-galaxy-s24-ultra-against-s23-ultra-features-and-performance/"><u>Head-to-Head Review: Samsung Galaxy S24 Ultra Against S23 Ultra Features and Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/high-def-excellence-with-logitech-c920-pro-hd-camera-in-depth-analysis/"><u>High-Def Excellence with Logitech C920 Pro HD Camera - In-Depth Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-comparison-of-gaming-capabilities-discover-the-best-iphone-for-players/"><u>In-Depth Comparison of Gaming Capabilities – Discover the Best iPhone for Players!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-barnes-and-noble-nook-glowlight-3-for-enjoyable-reading-at-night/"><u>In-Depth Review of the Barnes & Noble Nook GlowLight 3 for Enjoyable Reading at Night</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ipad-or-amazon-fire-tablet-which-device-ticks-all-your-boxes/"><u>IPad or Amazon Fire Tablet: Which Device Ticks All Your Boxes?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-winegard-fl5500a-worth-it-a-detailed-look-at-its-functionality-and-value/"><u>Is the Winegard FL5500A Worth It? A Detailed Look at Its Functionality & Value</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-printing-your-epub-ebooks/"><u>Step-by-Step Guide: Printing Your EPUB eBooks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/onetizing-on-youtube-can-you-earn-monthly-in-2024/"><u>[New] Monetizing on YouTube Can You Earn Monthly, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-your-ultimate-guide-to-finding-tiktok-wallpapers/"><u>[Updated] In 2024, Your Ultimate Guide to Finding TikTok Wallpapers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-premier-vintage-controller-selections-for-gaming-on-pc-and-raspberry-pi/"><u>2024'S Premier Vintage Controller Selections for Gaming on PC & Raspberry Pi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-mobile-charger-alternatives-2024s-handy-companion-devices-ranked/"><u>Best Mobile Charger Alternatives - 2024'S Handy Companion Devices Ranked</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-premier-ebook-readers-on-the-market-expert-reviews-and-comparisons/"><u>Discover the Premier eBook Readers on the Market : Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-upgrades-for-meta-quest-3-in-2er-2024-ultimate-accessory-guide/"><u>Essential Upgrades for Meta Quest 3 in 2Er: 2024 Ultimate Accessory Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-poco-c55-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco C55 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-40i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 40i to iPod | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lincoln-childrens-zoo/"><u>Lincoln Children's Zoo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-wisely-tips-every-student-should-heed-to-enhance-their-studies/"><u>Navigating ChatGPT Wisely: Tips Every Student Should Heed to Enhance Their Studies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-failed-drag-and-drop-on-win11/"><u>Troubleshoot Failed Drag-and-Drop on Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-mount-and-blade-2-bannerlord-game-crashes-step-by-step/"><u>Ultimate Fixes for Mount & Blade 2: Bannerlord Game Crashes - Step by Step</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-premium-bluetooth-keyboards-for-2nnnd-century-tech-enthusiasts/"><u>Ultimate Selection of Premium Bluetooth Keyboards for 2Nnnd Century Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-elite-tv-backlights-reviewed/"><u>Ultimate Selection: Elite TV Backlights Reviewed</u></a></li>
 </ul></div>
 

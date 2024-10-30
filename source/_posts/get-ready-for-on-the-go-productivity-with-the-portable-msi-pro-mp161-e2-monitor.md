@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-10-20T22:47:14.162Z
-updated: 2024-10-24T12:46:32.137Z
+date: 2024-10-27T10:23:54.186Z
+updated: 2024-10-30T05:19:23.750Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -43,13 +43,6 @@ Lifewire / Andy Zahn
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
 
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
@@ -82,6 +75,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -97,6 +97,13 @@ Lifewire / Andy Zahn
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery life: No worries**
 
@@ -120,13 +127,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -142,6 +142,13 @@ Lifewire / Andy Zahn
  RAW files are rich and detailed, and[JPEG images](https://www.lifewire.com/jpeg-myths-and-facts-1701548) are well-rendered, though JPEG images do show the compression artifacts typical of point-and-shoot cameras. The built-in flash raises and lowers manually and is functional if unexceptional.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Modes: Plenty to choose from (and only some are useful)**
 
@@ -172,10 +179,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: Lots of options**
@@ -189,10 +196,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
@@ -216,13 +223,6 @@ Lifewire / Andy Zahn
  **A tremendously fun camera that is exceedingly well-rounded if a bit pricey.**
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -264,18 +264,24 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-premiered-top-8-crowd-pleasing-ae-setups/"><u>[New] In 2024, Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-go-to-fb-video-tool-for-desktops-and-phones/"><u>2024 Approved Your Go-To FB Video Tool for Desktops and Phones</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-x-how-to-unlock-a-disabled-apple-iphone-x-drfone-by-drfone-ios/"><u>Disabled Apple iPhone X How to Unlock a Disabled Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/exploring-the-advantages-and-drawbacks-of-desktop-virtualization/"><u>Exploring the Advantages & Drawbacks of Desktop Virtualization</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-10-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 10 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor Magic 5 Pro</u></a></li>
-<li><a href="https://facebook.techidaily.com/one-star-uprising-activist-movements-shake-up-social-app-ratings/"><u>One-Star Uprising: Activist Movements Shake Up Social App Ratings</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-creating-your-own-protective-usb-key-for-windows-10-defense/"><u>Step-by-Step Guide: Creating Your Own Protective USB Key for Windows 10 Defense</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wrist-supports-for-keyboards-in-2/"><u>Top-Rated Wrist Supports for Keyboards in 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-ax6000-vs-nighthawk-ax12-comprehensive-head-to-head-review/"><u>TP-Link Archer AX6000 Vs. Nighthawk AX12: Comprehensive Head-to-Head Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlock-savings-on-bulletin-boards-experience-free-posting-with-oodle/"><u>Unlock Savings on Bulletin Boards: Experience Free Posting with Oodle</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-omnicharge-omni-20-an-insightful-guide-to-its-all-purpose-portable-charging-abilities-and-integrated-wireless-feature-set/"><u>Unpacking the Omnicharge Omni 20: An Insightful Guide to Its All-Purpose Portable Charging Abilities & Integrated Wireless Feature Set</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unstoppable-energy-how-the-moto-g-power-packed-a-daylong-battery-in-style/"><u>Unstoppable Energy: How the Moto G Power Packed a Daylong Battery in Style</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-keep-your-virtual-talks-on-record-for-2024/"><u>[New] How to Keep Your Virtual Talks on Record for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-vimeo-video-logging-for-2024/"><u>[Updated] Essential Tips for Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-pick-elite-usb-wi-fi-adapters-reviewed/"><u>Best Pick: Elite USB Wi-Fi Adapters Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-cost-effective-amazon-basics-6-sheet-cross-cut-shredder-a-thorough-review/"><u>Evaluating the Cost-Effective Amazon Basics 6 Sheet Cross Cut Shredder – A Thorough Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/examining-amds-innovation-and-its-effect-on-gaming-hardware-sales/"><u>Examining AMD's Innovation and Its Effect on Gaming Hardware Sales</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-sense-your-go-to-smartwatch-for-enhanced-health-and-vitality/"><u>Fitbit Sense: Your Go-To Smartwatch for Enhanced Health and Vitality</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-activating-secure-file-confinement-on-win1011-os/"><u>Guide to Activating Secure File Confinement on Win10/11 OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Gionee F3 Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>In 2024, Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-worth-it-to-upgrade-from-copilot-to-copilot-pro-a-comprehensive-breakdown/"><u>Is It Worth It to Upgrade From Copilot to Copilot Pro? A Comprehensive Breakdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-solutions-comprehensive-review-of-network-servers-racks-and-enclosures-2024-edition/"><u>Leading Solutions: Comprehensive Review of Network Servers Racks & Enclosures - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/moto-g-stylus-phone-review-where-quality-meets-affordability-in-your-pocket/"><u>Moto G Stylus Phone Review: Where Quality Meets Affordability in Your Pocket</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-2024s-superior-smart-vision-tech/"><u>Navigating Through 2024'S Superior Smart Vision Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-black-and-white-errors-in-microsoft-shop/"><u>Remedy Black and White Errors in Microsoft Shop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-radar-detector-spotlight-on-the-durable-and-precise-uniden-r3-model/"><u>The Ultimate Guide to Choosing a Radar Detector - Spotlight on the Durable and Precise Uniden R3 Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-list-of-small-form-factor-gaming-rigs/"><u>The Ultimate List of Small Form Factor Gaming Rigs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-how-does-the-aphaca-bt69-wireless-transmitter-compare-in-todays-market/"><u>Unboxing and Testing: How Does the Aphaca BT69 Wireless Transmitter Compare in Today's Market?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-nokia-c12-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia C12 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zdnet-reveals-the-4-iphone-and-macbook-models-best-to-skip-this-year/"><u>ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2024-10-13T19:58:36.180Z
-updated: 2024-10-18T19:56:15.677Z
+date: 2024-10-25T19:36:53.545Z
+updated: 2024-10-30T01:38:51.855Z
 tags:
   - games
   - tv
@@ -34,10 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
@@ -45,6 +45,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The problem with offering so many games as freebies that share the same theme is that the audience gets fatigued. After my fifth management game, I realized I might not be getting a bit bored of the free lunch. I was pretty much only extending the number of games in my catalog that I had yet to finish.
 
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Game Saturation, or Having Too Much To Play
 
@@ -58,16 +65,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -80,10 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The EGS has a long way to go before becoming as usable as storefronts like Steam. But the approach of offering weekly free games is paying off in some ways.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There Are Some Benefits to This Approach
@@ -99,13 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
 
@@ -126,18 +126,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/blancco-commander-a-commercial-data-erasure-solution-designed-for-enterprise-environments-offering-features-like-remote-wipe-commands-usage-tracking-and-com36/"><u>Blancco Commander: A Commercial Data Erasure Solution Designed for Enterprise Environments, Offering Features Like Remote Wipe Commands, Usage Tracking, and Compliance Management with Various Regulatory Standards.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bypass-netflix-screen-time-rules-a-simple-method-for-unrestricted-viewing/"><u>Bypass Netflix Screen Time Rules - A Simple Method for Unrestricted Viewing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/catch-your-favorite-games-live-on-budget-friendly-mlb-networks-new-streaming-subscription/"><u>Catch Your Favorite Games Live on Budget-Friendly MLB Network's New Streaming Subscription!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/chromecasts-unheeded-demise-a-tale-of-googles-neglect/"><u>Chromecast’s Unheeded Demise: A Tale of Google's Neglect</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-enigmatic-new-level-of-luxury-in-spotifys-exclusive-premium-program/"><u>Discover the Enigmatic New Level of Luxury in Spotify's Exclusive Premium Program</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-fun-unlocking-gaming-experiences-right-on-your-youtube/"><u>Discover the Fun: Unlocking Gaming Experiences Right on Your YouTube!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-youtube-equipment-for-starting-your-channel-for-2024/"><u>Essential YouTube Equipment For Starting Your Channel for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-reactivate-and-ensure-siri-suggestions-display-correctly-on-your-iphone/"><u>How to Reactivate and Ensure Siri Suggestions Display Correctly on Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-downloads-4-prime-ringtones-providers/"><u>In 2024, Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/infinite-storage-pathways-select-services-showcase/"><u>Infinite Storage Pathways Select Services Showcase</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/slash-prices-on-cameras-best-value-list-of-top-6-under-100-for-2024/"><u>Slash Prices on Cameras Best Value List of Top 6 Under $100 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-resolving-nvidia-cp-denial-in-ws1110/"><u>Strategies for Resolving Nvidia CP Denial in WS11/10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[New] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-content-game-with-these-powerful-youtube-shortcuts-for-2024/"><u>[Updated] Elevate Your Content Game with These Powerful YouTube Shortcuts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-guide-to-scheduling-and-recording-online-meetings-with-slack-and-filmora/"><u>[Updated] The Complete Guide to Scheduling & Recording Online Meetings with Slack & Filmora</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/4-ways-to-set-up-your-youtube-talking-head-shots/"><u>4 Ways To Set Up Your YouTube Talking-Head Shots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advancing-your-yi-action-recordings-with-top-accessories-for-2024/"><u>Advancing Your YI Action Recordings with Top Accessories for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-movie-watching-10-options-similar-to-netflix-without-the-fee/"><u>Affordable Movie Watching: 10 Options Similar to Netflix Without the Fee</u></a></li>
+<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reliable-budget-friendly-option-cheetah-dual-arm-assessment/"><u>Reliable Budget-Friendly Option: Cheetah Dual Arm Assessment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-order-visual-savings-secured/"><u>Restored Order: Visual Savings Secured</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-v30-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo V30 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-linksys-ea9500-experience-high-performance-internet-gateway-with-smart-connectivity/"><u>The Linksys EA9500 Experience: High-Performance Internet Gateway with Smart Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pinnacle-of-audio-our-list-of-excellent-wired-earbuds/"><u>The Pinnacle of Audio: Our List of Excellent Wired Earbuds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-the-toshiba-55lf711u20-why-its-a-game-changer-for-loyal-amazon-prime-members/"><u>The Ultimate Guide to Using the Toshiba 55LF711U20: Why It's a Game-Changer for Loyal Amazon Prime Members</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-the-newly-released-fitbit-charge-amoled-watch-tracker/"><u>The Ultimate Verdict on the Newly Released Fitbit Charge Amoled Watch Tracker</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-steam-deck-titles/"><u>Top 10 Must-Play Steam Deck Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-romer-solar-powered-flashlights-the-ultimate-guide/"><u>Top Romer Solar-Powered Flashlights - The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-gateway-devices/"><u>Top-Rated Wireless Gateway Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-your-next-tablet-why-the-apple-ipad-pro-2018-leads-the-pack/"><u>Ultimate Guide to Choosing Your Next Tablet: Why the Apple iPad Pro 2018 Leads the Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-exploring-the-features-a-comprehensive-review-of-the-samsung-qn55q60rafxza-4k-tv-with-hdr10plus-technology/"><u>Unboxing and Exploring the Features: A Comprehensive Review of the Samsung QN55Q60RAFXZA 4K TV with HDR10+ Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Powerhouse Portable Radio Transceiver - A Detailed Look at the Midland GXT1000VP4
-date: 2024-08-15T09:12:26.526Z
-updated: 2024-08-16T09:12:26.526Z
+date: 2024-10-26T19:34:44.631Z
+updated: 2024-10-29T21:39:04.685Z
 categories:
   - BestProducts
 description: This Article Describes The Powerhouse Portable Radio Transceiver - A Detailed Look at the Midland GXT1000VP4
@@ -39,15 +39,9 @@ Lifewire / Andy Zahn
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -82,8 +76,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -96,12 +94,16 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery life: No worries**
 
@@ -109,9 +111,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -129,8 +128,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -147,6 +150,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -161,9 +171,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -187,6 +194,13 @@ Lifewire / Andy Zahn
  There is also the option to connect to a[Canon printer](https://www.lifewire.com/best-canon-printers-4584899) and print your images directly from the camera. We found these features useful but also something of a hassle, since the process of connecting devices to the camera is pretty tedious.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
 
@@ -241,8 +255,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +262,24 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-analyzing-t-series-revenue-generation-on-youtube-channels/"><u>[New] 2024 Approved Analyzing T-Series' Revenue Generation on Youtube Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-vr-exercise-machines-the-leading-treadmills-uncovered/"><u>[New] 2024 Approved VR Exercise Machines The Leading Treadmills Uncovered</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-copyright-compliance-and-photovideo-sharing/"><u>[New] Copyright Compliance & Photo/Video Sharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-explore-10-open-source-teleconference-applications/"><u>[New] Explore 10 Open Source Teleconference Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlined-methods-for-iphone-screen-capture/"><u>[New] Streamlined Methods for iPhone Screen Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-all-weather-action-cameras-ranking-top-7-summary/"><u>[Updated] All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-science-fiction-realm-in-torment-tides-of-numenera-an-in-depth-game-analysis/"><u>Exploring the Science Fiction Realm in 'Torment: Tides of Numenera' - An In-Depth Game Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-motorola-edgeplus-truly-a-mid-range-marvel-or-just-falling-below-high-end-hopes/"><u>Is the Motorola Edge+ Truly a Mid-Range Marvel or Just Falling Below High-End Hopes?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/noiseguard-high-fidelity-mufflers-assessment/"><u>NoiseGuard High-Fidelity Mufflers Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723017415102-revolutionize-your-energy-needs-with-zmi-powerpack-2pectation-1638/"><u>Revolutionize Your Energy Needs with ZMI PowerPack 2Pectation: 1,638,</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/romer-powerflash-solar-flashlight-review-a-trustworthy-light-source-that-never-fades-in-nature/"><u>Romer PowerFlash Solar Flashlight Review - A Trustworthy Light Source That Never Fades in Nature</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-advanced-sound-cards-of-the-year-2024-for-enhanced-gaming/"><u>The Most Advanced Sound Cards of the Year 2024 for Enhanced Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-prime-day-discounts-unbeatable-prices-on-benq-monitors-and-projectors/"><u>Top Prime Day Discounts: Unbeatable Prices on BenQ Monitors and Projectors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-tivo-vs-comcast-x1-which-dvr-offers-the-most-bang-for-your-buck/"><u>Updated 2024 Approved TiVo vs Comcast X1 Which DVR Offers the Most Bang for Your Buck ?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-compendium-of-selecting-premium-audio-formats-for-2024/"><u>Updated The Ultimate Compendium of Selecting Premium Audio Formats for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/waterproof-kobo-libra-h2o-ultimate-readers-guide/"><u>Waterproof Kobo Libra H2O - Ultimate Reader's Guide</u></a></li>
+</ul></div>
 

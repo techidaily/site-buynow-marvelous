@@ -1,7 +1,7 @@
 ---
 title: Exploring How and Why PlayStation Classic Struggled with Graphic Stability
-date: 2024-10-14T19:02:09.194Z
-updated: 2024-10-18T18:28:46.167Z
+date: 2024-10-28T17:52:19.741Z
+updated: 2024-10-30T02:25:57.274Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It’s All About Floating Points
@@ -37,10 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Z-Buffer Not Found
@@ -56,10 +56,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -70,16 +70,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -104,19 +104,17 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-list-the-finest-no-money-video-player-tools-and-software-pcmobile/"><u>[New] Master List The Finest No-Money Video Player Tools & Software (PC/Mobile)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-slash-the-size-efficient-techniques-for-reducing-youtube-video-lengths/"><u>[Updated] Slash the Size Efficient Techniques for Reducing YouTube Video Lengths</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazon-flash-sale-alert-snag-the-ultra-cheap-iphone-15-pro-max-just-a-penny-learn-more-inside/"><u>Amazon Flash Sale Alert: Snag the Ultra-Cheap iPhone 15 Pro Max - Just a Penny! Learn More Inside</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-kindle-vs-amazon-fire-tablet-comparing-two-giants/"><u>Amazon Kindle Vs. Amazon Fire Tablet: Comparing Two Giants</u></a></li>
-<li><a href="https://fox-links.techidaily.com/crafting-a-professional-rss-feed-for-your-podcast-for-2024/"><u>Crafting a Professional RSS Feed for Your Podcast for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-bargains-near-you-with-oodles-complimentary-neighborhood-advertisements/"><u>Discover Bargains Near You with Oodle's Complimentary Neighborhood Advertisements</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-garmin-forerunner-265-smartwatch-a-full-review/"><u>Expert Insights on the Garmin Forerunner 265 Smartwatch – A Full Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-discover-every-feature-on-the-samsung-gear-s3-frontier-smartwatch-a-full-review/"><u>Expert Insights: Discover Every Feature on the Samsung Gear S3 Frontier Smartwatch – A Full Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix?</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-retrieving-kodi-directory-information-solutions-for-connection-problems/"><u>Successfully Retrieving Kodi Directory Information: Solutions for Connection Problems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-ax6000-vs-nighthawk-ax12-comparative-review-which-is-the-winner/"><u>TP-Link Archer AX6000 Vs. Nighthawk AX12: Comparative Review - Which Is the Winner?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-gamers-choice-the-elite-consoles-of-2024-unveiled/"><u>Ultimate Gamers' Choice: The Elite Consoles of 2024 Unveiled</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-picks-leading-crm-solutions-of-2022-tailored-for-smb-efficiency-and-growth/"><u>ZDNet's Expert Picks: Leading CRM Solutions of 2022 Tailored for SMB Efficiency and Growth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724313632985-abbyy/"><u>コダック・アラリスがABBYYと世界的にパートナーシップを強化</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevating-art-advanced-techniques-for-curving-photos/"><u>[New] In 2024, Elevating Art Advanced Techniques for Curving Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>[New] Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-vr-devices-unveiled-in-depth-evaluations-and-ratings-from-industry-experts-cnet/"><u>2024'S Elite VR Devices Unveiled: In-Depth Evaluations and Ratings From Industry Experts | CNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-heres-a-step-by-step-guide-to-fixing-the-problem/"><u>Astro A10 Mic Not Working? Here's a Step-by-Step Guide to Fixing the Problem!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hear-today-sound-tomorrow-a-look-at-paww-audio-triad/"><u>Hear Today, Sound Tomorrow: A Look at Paww Audio Triad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hours-of-gaming-made-easy-the-ultimate-mavix-m9-gaming-chair-assessment/"><u>Hours of Gaming Made Easy: The Ultimate Mavix M9 Gaming Chair Assessment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-v29-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo V29 Lock Screen Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-cream-of-the-crop-roku-bargains-on-prime-day-extravaganza/"><u>Hunt for the Cream of the Crop Roku Bargains on Prime Day Extravaganza</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immerse-yourself-with-the-lg-c9-65-inch-oled-masterpiece-an-in-depth-guide-to-its-breathtaking-display-and-advanced-technology-for-tv-connoisseurs/"><u>Immerse Yourself with the LG C9 65-Inch OLED Masterpiece: An In-Depth Guide to Its Breathtaking Display and Advanced Technology for TV Connoisseurs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/x-voice-capture-software-pc-for-2024/"><u>X-Voice Capture Software, PC for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Sun with Aeiusny Portable Generators: How Their Pure Sine Wave Inverters Safeguard Your Medical Equipment"
-date: 2024-10-17T16:05:48.289Z
-updated: 2024-10-24T02:49:05.841Z
+date: 2024-10-23T05:58:39.423Z
+updated: 2024-10-30T06:09:56.797Z
 categories:
   - BestProducts
 description: "This Article Describes Harnessing the Sun with Aeiusny Portable Generators: How Their Pure Sine Wave Inverters Safeguard Your Medical Equipment"
@@ -36,15 +36,28 @@ Lifewire / Rebecca Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mavix M9 Gaming Chair
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/cetpXlFoWgl601rjUieYjdXgVCA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_HeroSquare-97a9344411454147b8772f86cd75bca7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
@@ -70,10 +83,10 @@ Lifewire / Rebecca Isaacs
  A poor computer chair may lead to backaches, pains, and a whole mess of skeletal and muscular issues. When I began to have these symptoms, I decided it was time for a change to my chair, and got the Mavix M9 Gaming Chair for review. After over 20 hours of testing, it’s safe to say that I’ve found my favorite piece of gaming equipment.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design: A gamer’s dream
@@ -81,6 +94,13 @@ Lifewire / Rebecca Isaacs
  The M9 comes in four different color options, but to play it safe with my pets, I chose to get it in the sleek black option. In fact, those with pets will want to take note, as my first impression of the chair was that while most of it was black leather, the Dynamic Variable Lumbar support consisted of multilayered nylon, mesh material. It’s great for gamers’ backs—but can collect pet hair if your furry friends decide the M9 is a great place to snooze.
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/tSFIFAR8G-C5W7DBBLPJ5GiE3EM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_03-8842478b07bd4585ba7f1843afcd29dc.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -98,13 +118,6 @@ Lifewire / Rebecca Isaacs
 
 ![Mavix M9 Gaming Chair headrest ](https://www.lifewire.com/thmb/dk-8es8V-f2VzVltDiUNw0nCs2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_02-acc7e137bc7a4b25837fbbe065ac1416.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Rebecca Isaacs
 
 ## Performance and Usage: Amazing day-to-day
@@ -119,6 +132,13 @@ Lifewire / Rebecca Isaacs
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/WWvjEhKERcoOvm-8u1GtzfLuV7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_05-91c5a721612e45cbbdc432ec9ab67e4b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
  And even better, if you decide that a nap is in order but you’d prefer not to move, you can invoke the M9’s Extended Recline, which allows the chair to recline up to 127 degrees. If you’re feeling a nap, it’s great. Personally, using the entirety of the 127 degrees made me a little nervous, but the good news is that the degree recline is also adjustable.
@@ -127,13 +147,6 @@ Lifewire / Rebecca Isaacs
 
  Only want to go back a few degrees? You can adjust that thanks to the levers underneath the chair seat. This feature also helped relieve my back when I started feeling like I’d been sitting in the chair too long. It’s a great, relaxing addition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Price: Hits the wallet hard
 
  For the price of $1,000, the Mavix M9 chair can be yours. That’s a lot of money to invest in a chair, especially when most places will charge a fraction of that for a desk chair. This isn’t just a desk chair, however—this is an ergonomic gamer’s chair, and as such, it’s designed to make gaming comfortable and easy. So, while it seems like a lot of money, realistically, you’re paying for a plethora of adjustability options, and ergonomics.
@@ -141,13 +154,6 @@ Lifewire / Rebecca Isaacs
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/_eJYTViir2syGINJQq7Fxl1ofHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_04-d42bbf02273f4d0aa7c25351b201dc2c.jpg)
 
 Lifewire / Rebecca Isaacs
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mavix M9 vs. XChair X4 Chair
 
@@ -194,18 +200,18 @@ Lifewire / Rebecca Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-android-technique-accessing-and-saving-twitter-videos/"><u>[New] 2024 Approved Android Technique Accessing and Saving Twitter Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>[New] Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-rapid-playback-in-spotify-safe-practices-revealed/"><u>[Updated] In 2024, Mastering Rapid Playback in Spotify Safe Practices Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-and-earning-through-youtubes-cp2024-plan/"><u>[Updated] Understanding and Earning Through YouTube's CP2024 Plan</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/artists-insight-on-the-functionality-of-gaomon-pd1560-pen-display/"><u>Artist's Insight on the Functionality of Gaomon PD1560 Pen Display</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-mini-gaming-rigs-for-enthusiasts-and-gamers-alike/"><u>Best Mini Gaming Rigs for Enthusiasts and Gamers Alike</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-distinctiveness-of-knack-against-predictable-gaming-environments/"><u>Breaking Down the Distinctiveness of Knack Against Predictable Gaming Environments</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-or-unreliable-a-comprehensive-look-at-the-thermopro-tp67-device/"><u>Budget-Friendly or Unreliable? A Comprehensive Look at the ThermoPro TP67 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/centrifugal-pumps-use-rotational-energy-from-an-impeller-to-create-fluid-flow/"><u>Centrifugal Pumps Use Rotational Energy From an Impeller to Create Fluid Flow</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-budget-friendly-beantech-bitwatch-s1plus-for-savvy-shoppers/"><u>Comprehensive Analysis of the Budget-Friendly Beantech Bitwatch S1+ for Savvy Shoppers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone SE (2022)?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-update-lenovo-docking-station-device-drivers/"><u>Step-by-Step Process to Update Lenovo Docking Station Device Drivers</u></a></li>
-<li><a href="https://techidaily.com/vivo-t2-pro-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo T2 Pro 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-guide-to-free-screen-recorders/"><u>[New] 2024 Approved Detailed Guide to Free Screen Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>[Updated] Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rich-resource-repository-prime-sites-for-free-high-quality-vector-art/"><u>2024 Approved Rich Resource Repository Prime Sites for Free High-Quality Vector Art</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/best-tools-for-retrieving-lost-or-unreadable-drives-partition-recovery-solutions/"><u>Best Tools for Retrieving Lost or Unreadable Drives: Partition Recovery Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-agile-and-pricey-swagtron-swagboard-t1/"><u>Expert Evaluation of the Agile and Pricey Swagtron Swagboard T1</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-pixel-5-assessment-striking-a-balance-between-budget-friendly-power-and-luxurious-features/"><u>Google Pixel 5 Assessment: Striking a Balance Between Budget-Friendly Power and Luxurious Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-7-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 7 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-youtube-ad-creation-with-no-cost-guide-inside/"><u>Master YouTube Ad Creation with No Cost – Guide Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-ps4-camera-positioning-a-comprehensive-guide-to-enhanced-gaming-streams/"><u>Mastering PS4 Camera Positioning: A Comprehensive Guide to Enhanced Gaming Streams</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-companion-for-your-oculus-quest-2-a-comprehensive-review-of-the-premium-elite-strap-and-protective-case-ensemble/"><u>The Ultimate Companion for Your Oculus Quest 2: A Comprehensive Review of the Premium Elite Strap and Protective Case Ensemble</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-value-how-apple-ipad-air-grovels-with-ipad-pro-performance-at-a-lower-price-point/"><u>Unveiling the Value: How Apple iPad Air Grovels with iPad Pro Performance at a Lower Price Point</u></a></li>
 </ul></div>
 

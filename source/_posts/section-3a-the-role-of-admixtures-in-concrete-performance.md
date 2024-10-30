@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: The Role of Admixtures in Concrete Performance"
-date: 2024-09-29T20:26:46.125Z
-updated: 2024-10-01T20:58:08.244Z
+date: 2024-10-26T22:16:01.293Z
+updated: 2024-10-30T00:29:12.135Z
 tags:
   - games
   - tv
@@ -84,6 +84,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
@@ -94,28 +101,15 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -138,13 +132,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -155,22 +142,29 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
 
@@ -207,19 +201,16 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-flashcapture-quick-image-hold-manual/"><u>[Updated] In 2024, FlashCapture Quick Image Hold Manual</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-viral-video-vanguards-top-10-with-staggering-subscriber-growth-for-2024/"><u>[Updated] Viral Video Vanguards Top 10 with Staggering Subscriber Growth for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>2024 Approved Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-completing-the-hitman-saga-with-hitman-3/"><u>Expert Insights on Completing the Hitman Saga with Hitman 3</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/explore-the-best-free-passport-picture-creation-services-online/"><u>Explore the Best Free Passport Picture Creation Services Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/free-television-experience-with-antop-at-127-an-in-depth-product-analysis-and-review/"><u>Free Television Experience with Antop AT-127: An In-Depth Product Analysis and Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/future-proof-communication-solutions-best-wireless-range-extenders/"><u>Future-Proof Communication Solutions: Best Wireless Range Extenders</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gamereviewer-pro-exploring-yakuza-like-a-dragon-an-indispensable-entry-in-the-jrpg-world/"><u>GameReviewer Pro: Exploring 'Yakuza: Like a Dragon,' An Indispensable Entry in the JRPG World</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/garmin-forerunner-945-the-ultimate-review-for-serious-runners-and-cyclists/"><u>Garmin Forerunner 945: The Ultimate Review for Serious Runners and Cyclists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-add-subtitles-to-windows-media-player-for-2024/"><u>How to Add Subtitles to Windows Media Player for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-increase-the-number-of-games-on-your-nes-classic-edition-console/"><u>How To Increase The Number Of Games On Your NES Classic Edition Console</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016705383-quick-fixes-for-those-irritating-cracks-in-your-headphones/"><u>Quick Fixes for Those Irritating Cracks in Your Headphones!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-win-11-update-error-code-0xc190n0028-troubleshooting-guide/"><u>The Ultimate Fix for Win 11 Update Error Code 0Xc190n0028 - Troubleshooting Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-photo-finesse-leading-edits-for-social-media-savvy/"><u>[New] 2024 Approved Photo Finesse Leading Edits for Social Media Savvy</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>[Updated] In 2024, Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>2024 Approved 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-world-of-diy-robotics-with-our-complete-review-on-makeblocks-mbot-construction-set/"><u>Explore the World of DIY Robotics with Our Complete Review on Makeblock's mBot Construction Set</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-classic-videogames-an-in-depth-evaluation-of-the-legendary-nintendo-game-and-watch-with-a-focus-on-super-mario-bros/"><u>Exploring Classic Videogames: An In-Depth Evaluation of the Legendary Nintendo Game & Watch with a Focus on Super Mario Bros</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-mobvoi-ticwatch-pro-cufflinks-4g-a-standout-selection-in-the-world-of-smart-wearables/"><u>Exploring the Features of Mobvoi TicWatch Pro Cufflinks 4G: A Standout Selection in the World of Smart Wearables</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-performance-meets-luxury-in-glion-dolly-electric-scooter-a-comprehensive-review/"><u>High Performance Meets Luxury in Glion Dolly Electric Scooter - A Comprehensive Review</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-xr-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone XR and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-insights-on-the-minecraft-campfire-tales-apparel-set/"><u>In-Depth Analysis and Insights on the Minecraft Campfire Tales Apparel Set</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safe-techniques-for-eliminating-audio-interference-in-videos/"><u>Safe Techniques for Eliminating Audio Interference in Videos</u></a></li>
+<li><a href="https://win-data.techidaily.com/spontane-herunterfahrungen-bei-wiederherstellung-von-backups-im-betriebssystem-windows-vista/"><u>Spontane Herunterfahrungen Bei Wiederherstellung Von Backups Im Betriebssystem Windows Vista</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10"
-date: 2024-10-14T17:02:53.139Z
-updated: 2024-10-18T17:19:51.185Z
+date: 2024-10-25T09:56:52.319Z
+updated: 2024-10-30T04:42:03.436Z
 tags:
   - games
   - tv
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
@@ -44,33 +44,46 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click on "Manage Sound Devices".
 
@@ -82,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pairing and Configuring a PS5 Controller for Steam
 
  Steam will often automatically recognize the DualSense controller and swap action and game control accordingly, but if something is not working correctly, there are a few easy ways to troubleshoot the issue.
@@ -90,38 +110,24 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
@@ -158,20 +164,24 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-hero-vs-hero-upgraded-edition/"><u>[Updated] Hero Vs Hero Upgraded Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-guide-to-excellent-voice-recorders-for-macs/"><u>[Updated] In 2024, Guide to Excellent Voice Recorders for Macs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-fixes-enhancing-colors-with-ps-tools/"><u>[Updated] Quick Fixes Enhancing Colors with PS Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-securing-footage-techniques-for-obscuring-sensitive-info-for-2024/"><u>[Updated] Securing Footage Techniques for Obscuring Sensitive Info for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-convert-talk-to-text-the-costless-alternative/"><u>2024 Approved Convert Talk to Text The Costless Alternative</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elevate-your-live-streaming-with-phone-webcams-and-filming-hacks-for-2024/"><u>Elevate Your Live Streaming with Phone Webcams and Filming Hacks for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhanced-gaming-shares-on-steam-platform/"><u>Enhanced Gaming Shares on Steam Platform</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-streaming-services-with-unique-value-added-features/"><u>Enhancing Streaming Services with Unique Value-Added Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-pc-gaming-in-hd-connect-your-steam-deck-to-the-tv-with-an-easy-docking-solution/"><u>Experience PC Gaming in HD: Connect Your Steam Deck to the TV with an Easy Docking Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-wonders-of-web-prehistory-with-googles-new-lego-inspired-chrome-dino-collection/"><u>Experience the Wonders of Web Prehistory with Google's New Lego-Inspired Chrome Dino Collection</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-top-notch-affordable-3d-fun-why-refurbished-nintendo-3ds-offers-unbeatable-value/"><u>Experience Top-Notch, Affordable 3D Fun - Why Refurbished Nintendo 3DS Offers Unbeatable Value</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-disconnect-understanding-why-modern-gamers-overlook-vintage-video-game-titles/"><u>Exploring the Disconnect: Understanding Why Modern Gamers Overlook Vintage Video Game Titles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-world-of-close-up-imagery-understanding-macro-photography/"><u>Exploring the World of Close-Up Imagery: Understanding Macro Photography</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-trendy-ways-to-save-your-gaming-moments/"><u>[New] Trendy Ways to Save Your Gaming Moments</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cross-sonic-blending-a-deep-dive-into-crossfade/"><u>[Updated] In 2024, Cross-Sonic Blending - A Deep Dive Into Crossfade</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-affordable-action-cam-tech-maximizing-your-moneys-worth/"><u>2024 Approved Affordable Action Cam Tech - Maximizing Your Money's Worth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beatits-mighty-marvel-an-expert-review-on-bt-d11-portable-charger/"><u>Beatit's Mighty Marvel - An Expert Review on BT-D11 Portable Charger</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/benchmarking-the-google-pixel-5-a-closer-look-at-its-competitive-edge-and-premium-aspects/"><u>Benchmarking the Google Pixel 5: A Closer Look at Its Competitive Edge and Premium Aspects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-why-chatgpt-plus-remains-the-choice-over-free-gpt-n-the-ultimate-6-point-argument/"><u>Discover Why ChatGPT Plus Remains the Choice Over Free GPT-N: The Ultimate 6-Point Argument</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone SE (2020)? | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-sonys-2024-event-breakthrough-gadgets-news-highlights-and-future-outlook/"><u>Inside Sony's 2024 Event: Breakthrough Gadgets, News Highlights & Future Outlook</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-cookiebot-for-improved-seo-and-user-experience/"><u>Leverage Cookiebot for Improved SEO and User Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-seat-not-a-throne/"><u>Productivity Seat, Not a Throne</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/simple-steps-quick-guide-to-converting-videos-into-gifs/"><u>Simple Steps: Quick Guide to Converting Videos Into GIFs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-first-impressions-of-the-advanced-apple-iphone-n15-pro-an-interactive-guide/"><u>Unboxing & First Impressions of the Advanced Apple iPhone N15 Pro: An Interactive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-your-digital-library-with-an-audible-membership/"><u>Unlocking Your Digital Library with an Audible Membership</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-benefits-microsoft-sculpt-keyboards-ultimate-comfort-and-quality/"><u>Unpacking the Benefits: Microsoft Sculpt Keyboard's Ultimate Comfort & Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-capabilities-a-detailed-look-at-the-netgear-nighthawk-x4-wireless-mesh-extender-functionality-and-efficiency/"><u>Unpacking the Capabilities: A Detailed Look at the Netgear Nighthawk X4 Wireless Mesh Extender Functionality and Efficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-topmate-c302-an-economical-and-efficient-laptop-cooler-assessment/"><u>Unveiling the TopMate C302 - An Economical and Efficient Laptop Cooler Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-value-proposition-a-closer-look-at-the-alienware-aurora-r7s-performance-and-pricing/"><u>Unveiling the Value Proposition: A Closer Look at the Alienware Aurora R7's Performance and Pricing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808091210-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend - Everything You Need to Know About It</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yongnuo-yn560-iv-wireless-flash-speedlite-master-review/"><u>Yongnuo YN560 IV Wireless Flash Speedlite Master Review</u></a></li>
 </ul></div>
 

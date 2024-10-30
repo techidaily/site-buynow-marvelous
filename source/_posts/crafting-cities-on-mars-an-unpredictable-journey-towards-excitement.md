@@ -1,7 +1,7 @@
 ---
 title: Crafting Cities on Mars - An Unpredictable Journey Towards Excitement
-date: 2024-08-15T09:11:16.422Z
-updated: 2024-08-16T09:11:16.422Z
+date: 2024-10-24T20:18:43.796Z
+updated: 2024-10-29T18:30:16.009Z
 categories:
   - BestProducts
 description: This Article Describes Crafting Cities on Mars - An Unpredictable Journey Towards Excitement
@@ -42,6 +42,13 @@ Lifewire / Kelsey Simon
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/pXP4DrL3GC0-M_12FqdQQWlLjXk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-HeroSquare-5886d4533ee146b18daef3a40898b264.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Steampowered.com](https://store.steampowered.com/app/578650/The%5FOuter%5FWorlds/)
@@ -61,8 +68,12 @@ Lifewire / Kelsey Simon
  The Outer Worlds is a single-player[action-adventure game](https://www.lifewire.com/game-play-and-streaming-4781449) full of guns, colonists, spaceships, and monsters. You’ll venture out into a sci-fi world and try to save your ship which has had a serious malfunction. The shooting in Outer Worlds is fun, but the game’s best feature is its choice-driven story. We played the game on PC for roughly 20 hours, thoroughly enjoying its dark humor and fun gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Story: Engaging dialogue and dark humor**
 
  The Outer Worlds is a science fiction game with a focus on dry, dark humor. You’ll start the game by waking up on a malfunctioning spaceship. A man has woken you from stasis and says he needs you to save the ship and all the people living in stasis upon it. His name is Phineas Welles, and he’ll give you a very brief rundown that you’re to meet a smuggler who will take you to someone who can save your ship and people. As you go through this short cutscene sequence, you’ll be prompted to make your character, select your aptitude, skills, and attributes, before Phineas will drop you in a pod down to a planet where you’re to meet the smuggler, Hawthorne.
@@ -82,15 +93,9 @@ Lifewire / Kelsey Simon
  The only thing lacking about the plot and story of The Outer Worlds is that the premise behind the game isn’t overly original—but this is a weak complaint. Overall, the story and plot are fun and enticing, and more than enough to grip you in proceeding forward.
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/6e7gsLSJwKWV8-Gpw6vMnU6_ohk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-02-03e4afcdc62d4528a5e0b6e4e19ae03b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## **Gameplay: Shooting enemies for story progression**
 
  The Outer Worlds is a first-person shooter role-playing adventure. The game allows for a fairly open world exploration, but has a more linear story path with main missions, and the occasional side mission. You can choose to explore open areas and kill the enemies that lurk out in the wild, but there isn’t really the same incentive to doing so as there is in games such as[Skyrim](https://www.lifewire.com/the-elder-scrolls-v-skyrim-review-4685718) . Mostly, you’ll stick to the main story path and occasionally venture off it to finish a simple side mission before venturing back.
@@ -104,31 +109,27 @@ Lifewire / Kelsey Simon
  The main focus of Outer Worlds is to offer players a fun and humorous story with interesting dialogue prompts that can change the plot and effect characters. The shooting is just a fun way to progress the story.
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/ax345l2R5dAgwtloXADYi2mrtKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-03-933e9037c06d4754b04cca743675f3e5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Graphics: Average, but solid**
 
  The Outer Worlds doesn’t attempt to do anything amazing with its graphics, which is totally fine. There’s no artistic flair like with Borderlands, nor is there an attempt at extremely realistic textures like with Monster Hunter: World, but the Outer Worlds does enough. The graphics are on par with other big name titles, and the landscapes of the various planets you’ll visit are interesting and different enough. This helps make exploration fun, but really, there isn’t anything amazing about the graphics. They are what they need to be. The only other thing also worth mentioning is the slightly humorous, constant propaganda that you’ll come across in various areas. In Emerald Vale, the starting area, you’ll start to see this theme and it will be carried through the rest of the game.
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/sJTEo9nCHPyxpxLeue9TFUvPEaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-04-2e28a12a6aac4163a86a580d2dac979f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
 ## **Price: Not bad if you enjoy story-driven games**
 
  The Outer Worlds costs $60 new, although you might be able to catch it on sale if you watch closely. Even at full cost, it’s a game worth buying if you enjoy science fiction inspired first-person shooters―or more specifically, single-player shooter games with a focus on storytelling. As someone who often doesn’t like spending loads of money on a new game, I will say that Outer Worlds was one I didn’t mind buying. The game is fun and well written. It’s an adventure to be had, and while it’s not the best game that’s ever been made, it’s a solid, well-made game that most will enjoy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Sci-fi games with strong series**
 
@@ -140,6 +141,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  The Outer Worlds is a story-drive first-person shooter that has a great sense of humor. Each decision you make will impact how the game unfolds. The shooting, while basic, is fun and provides the perfect vehicle to propel you forward on your adventure. Overall, The Outer Worlds is a solid game if you’re looking for a fun, humorous single-player experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  The Outer Worlds
@@ -148,14 +156,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * ESRB Descriptors  Blood and gore, Intense violence, Strong language
 * Genre  Role Playing
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +169,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-express-faster-window-photo-sorter/"><u>[New] 2024 Approved Express Faster Window Photo Sorter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-insiders-10-list-top-terraria-upgrades/"><u>[New] Insider's 10 List Top Terraria Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>[Updated] A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y77t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y77t Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-features-of-samsung-galaxy-budsplus/"><u>A Closer Look at the Features of Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-in-depth-review-how-the-outer-worlds-blends-fun-with-futuristic-fiction/"><u>An In-Depth Review: How 'The Outer Worlds' Blends Fun with Futuristic Fiction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choose-your-champion-unveiling-distinct-features-of-iphone-15-pro-max-vs-samsung-galaxy-s2n-ultra/"><u>Choose Your Champion: Unveiling Distinct Features of iPhone 15 Pro Max Vs. Samsung Galaxy S2n Ultra</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-no-caller-id-on-your-iphone-step-by-step-guide/"><u>How to Fix 'No Caller ID' On Your iPhone - Step by Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-mobvois-latest-the-ticwatch-pro-3-with-gps-and-extended-dual-screen-life-reviewed/"><u>In-Depth Look at Mobvoi's Latest: The TicWatch Pro 3 with GPS and Extended Dual Screen Life Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-home-atmosphere-detectors-reviewed/"><u>Leading Home Atmosphere Detectors Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/soaring-to-new-heights-an-in-depth-review-of-djis-mavic-3-for-advanced-aerial-photographers/"><u>Soaring to New Heights: An In-Depth Review of DJI's Mavic 3 for Advanced Aerial Photographers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syma-107g-flyer-a-cost-effective-rc-helicopter-for-home-enjoyment-detailed-insights/"><u>Syma 107G Flyer: A Cost-Effective RC Helicopter for Home Enjoyment - Detailed Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-dell-non-lenovo-business-laptops-the-ideal-picks-for-your-workspace-insights/"><u>Top Non-Dell, Non-Lenovo Business Laptops: The Ideal Picks for Your Workspace - Insights</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-installation-and-registration/"><u>Updated In 2024, Installation and Registration</u></a></li>
+</ul></div>
 

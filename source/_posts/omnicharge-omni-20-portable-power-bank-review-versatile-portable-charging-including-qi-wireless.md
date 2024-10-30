@@ -1,7 +1,7 @@
 ---
 title: "Omnicharge Omni 20 Portable Power Bank Review: Versatile Portable Charging Including Qi Wireless"
-date: 2024-08-15T09:11:22.851Z
-updated: 2024-08-16T09:11:22.851Z
+date: 2024-10-25T01:16:51.630Z
+updated: 2024-10-30T04:49:52.361Z
 categories:
   - BestProducts
 description: "This Article Describes Omnicharge Omni 20 Portable Power Bank Review: Versatile Portable Charging Including Qi Wireless"
@@ -37,13 +37,21 @@ Lifewire / Rebecca Isaacs
 4.6
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Ergodriven Topo Standing Desk Mat
 
 ![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/GZTKidZtByl51GvkYiB-jNjEjbE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Ergodriven-Topo-Comfort-Mat-1-ccd96f7c454945c3b974a2f5cba4fe79.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
@@ -66,9 +74,6 @@ Lifewire / Rebecca Isaacs
  A standing desk isn’t complete without a standing desk mat, at least not if you value your comfort. We tried out the Topo by Ergodriven Standing Desk Mat, testing it for comfort, design, and performance. We decided to test it for a few hours a day over the course of a week to see how it worked.
 
 ![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/KYfJPJ0jHZhmy15IUeGxDL8kmRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ergodriven-Topo-Comfort-Mat-2-547d9823c4ac47cbb5a360040866172a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -81,8 +86,12 @@ Lifewire / Rebecca Isaacs
 Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Flawed, but still solid**
 
  As we previously stated, one of the features of this mat is the massage mound in the center. When we first stepped onto the mat, we really disliked how we couldn’t shift without bumping the massage mound. It’s a great feature if you want to change your ankle stances or relieve your foot pain. However, if you’re standing on the mat for extended hours at a time, your feet are stuck off to the sides and you really can’t shift around as time progresses.
@@ -103,9 +112,6 @@ Lifewire / Rebecca Isaacs
 
  For a standing desk mat with some exercise features, the Ergodriven Topo is a fairly decent choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Topo Ergodriven vs. CubeFit TerraMat**
 
  We decided to compare the Ergodriven Topo against CubeFit’s TerraMat. Price-wise, they’re very similar, retailing around $100\. They also come with massage mounds and various power wedges. However, the TerraMat has more features on the mat itself, including a balance bar and plantar mounds off to the sides, as well as a massage mound in the front. None of the actual features are located in the TerraMat’s center, unlike the Topo mat.
@@ -121,17 +127,12 @@ Lifewire / Rebecca Isaacs
  For a standing desk mat with some exercise features, the Ergodriven Topo is a fairly decent choice. While we think there are other, better mats out there, but the Topo does hide dirt better, and the deep rear wedges stretch the hamstrings more than most other models on the market. If you want a solid stretch, then the Ergodriven Topo is the best choice for you.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Topo Standing Desk Mat
@@ -142,14 +143,11 @@ Lifewire / Rebecca Isaacs
 * Warranty  Seven Years
 * Connectivity Options  None
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +156,20 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-tailoring-composite-results-blend-mode-proficiency-for-2024/"><u>[New] Tailoring Composite Results Blend Mode Proficiency for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-dissecting-the-ultra-clear-aesthetic-of-lgs-4k-screen/"><u>[Updated] In 2024, Dissecting the Ultra-Clear Aesthetic of LG's 4K Screen</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/4-solutions-for-the-mystery-of-quirky-marks-on-macbooks/"><u>4 Solutions for the Mystery of Quirky Marks on MacBooks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-game-changer-for-travelers-and-nature-enthusiasts-nikon-coolpix-p1000/"><u>A Game-Changer for Travelers & Nature Enthusiasts – Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-image-size-retain-resolution-for-2024/"><u>Boost Image Size, Retain Resolution for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/can-you-still-recommend-the-samsung-galaxy-tab-s3-today-a-comprehensive-analysis/"><u>Can You Still Recommend the Samsung Galaxy Tab S3 Today? A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-stanley-j5c09-reviews-powerful-and-spacious/"><u>Comprehensive Stanley J5C09 Reviews: Powerful and Spacious</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/digital-pioneers-guide-combining-pcmac-dslr-for-engaging-streams/"><u>Digital Pioneer's Guide Combining PC/Mac, DSLR for Engaging Streams</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/discover-the-enhanced-functionality-of-apowensofts-latest-release-the-remarkable-background-eraser/"><u>Discover the Enhanced Functionality of Apowensoft's Latest Release - The Remarkable Background Eraser!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-new-ps5-worth-its-price-discover-four-benefits/"><u>Is the New PS5 Worth Its Price? Discover Four Benefits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sabrent-compact-travel-mouse-with-high-precision-tracking-and-detachable-cord/"><u>Sabrent Compact Travel Mouse with High-Precision Tracking & Detachable Cord</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cutting-edge-in-photo-editing-review-and-breakdown-of-anthropics-smart-photo-editor/"><u>The Cutting Edge in Photo Editing: Review and Breakdown of Anthropics Smart Photo Editor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlock-pinterests-treasure-trove-with-top-free-video-downloads-for-2024/"><u>Unlock Pinterest's Treasure Trove with Top Free Video Downloads for 2024</u></a></li>
+</ul></div>
 

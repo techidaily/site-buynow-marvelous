@@ -1,7 +1,7 @@
 ---
 title: Latest News on Future Smartphones by Tech Giants, Google & Samsung
-date: 2024-10-10T18:17:46.431Z
-updated: 2024-10-12T19:39:14.490Z
+date: 2024-10-27T22:24:27.547Z
+updated: 2024-10-29T23:11:51.769Z
 tags:
   - games
   - tv
@@ -17,34 +17,15 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ##  The Big News
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
@@ -57,33 +38,46 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-Valve
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Valve
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
@@ -106,10 +100,10 @@ Motorola
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Other Stuff
@@ -133,19 +127,20 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-up-your-gameplay-with-these-5-best-rated-ps2-android-emulators/"><u>[New] 2024 Approved Step Up Your Gameplay with These 5 Best-Rated PS2 Android Emulators</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-internet-speech-capture-tools/"><u>[New] In 2024, Top Internet Speech Capture Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success-for-2024/"><u>[Updated] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-enhance-audibility-with-adjusted-obs-settings/"><u>[Updated] In 2024, How to Enhance Audibility with Adjusted OBS Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-c12-plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia C12 Plus To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-activatedeactivate-pip-in-ios-web-experience/"><u>How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-moto-g14-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Moto G14 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-elgoog-insiders-review-of-the-premier-website-mirroring-service/"><u>Navigating elgooG: Insider's Review of the Premier Website Mirroring Service</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pitfalls-of-pixel-slate-an-investigative-review-of-its-chromeos-capabilities/"><u>Navigating the Pitfalls of Pixel Slate - An Investigative Review of Its ChromeOS Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-fortnite-an-insiders-review-of-the-thrilling-new-seasonal-content/"><u>Rediscovering Fortnite: An Insider's Review of the Thrilling New Seasonal Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/remote-play-made-simple-launch-your-pc-games-on-steam-deck/"><u>Remote Play Made Simple: Launch Your PC Games on Steam Deck</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-caixun-75-inch-4k-television-quality-performance-at-a-low-price-point/"><u>Review of the Caixun 75-Inch 4K Television: Quality Performance at a Low Price Point</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/road-mastery-selecting-supreme-cars-gps/"><u>Road Mastery: Selecting Supreme Cars GPS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsungs-latest-titans-clash-analyzing-the-s24-ultra-against-s23-ultra-features/"><u>Samsung's Latest Titans Clash: Analyzing the S24 Ultra Against S23 Ultra Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-insta-video-backup-two-methods-for-seamless-access/"><u>[Updated] In 2024, Insta Video Backup Two Methods for Seamless Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-mac-video-capturer/"><u>[Updated] Perfect Mac Video Capturer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-windows-10-switch-from-32-bit-to-64-bit/"><u>Elevate Your Windows 10: Switch From 32-Bit to 64-Bit</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-jaco-smartpro-digital-tire-pump-your-compact-high-power-solution-reviewed/"><u>Expert Analysis of the Jaco SmartPro Digital Tire Pump: Your Compact, High-Power Solution Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-logitech-c615-camera-combining-cost-effectiveness-and-efficiency/"><u>Expert Analysis of the Logitech C615 Camera: Combining Cost-Effectiveness & Efficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-x-plane-11-global-flight-simulator-stunning-visuals-meet-next-gen-tech/"><u>Expert Insights on X-Plane 11 Global Flight Simulator - Stunning Visuals Meet Next-Gen Tech!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-value-routers-an-in-depth-look-at-the-tp-link-archer-c9-model-review/"><u>Exploring the Best Value Routers: An In-Depth Look at the TP-Link Archer C9 Model Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-brother-mfc-9130cw-printer-software-downloads/"><u>Free Brother MFC-9130CW Printer Software Downloads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-curve-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze Curve 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-7-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 7 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cost-efficient-sky-companions-drone-guide-(500/"><u>In 2024, Cost-Efficient Sky Companions Drone Guide <$500</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-future-of-interaction-with-microsofts-hololens-review/"><u>In 2024, The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-guide-to-finding-cheap-transcript-extractors-for-2024/"><u>Master Guide to Finding Cheap Transcript Extractors for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210774009-9798889130413-well-being-unlock-your-inner-potential-and-achieve-optimal-well-being/"><u>Well-being: Unlock Your Inner Potential and Achieve Optimal Well-being | Free Book</u></a></li>
 </ul></div>
 

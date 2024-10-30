@@ -1,7 +1,7 @@
 ---
 title: Leading Mirrorless Interchangeable Lens Options for Photographers - Ranked and Reviewed
-date: 2024-10-16T18:22:12.093Z
-updated: 2024-10-24T08:44:50.789Z
+date: 2024-10-23T06:22:00.474Z
+updated: 2024-10-29T23:58:08.571Z
 tags:
   - buying-guides
 categories:
@@ -63,10 +63,10 @@ Best Mirrorless Macro Lens
 ![A man holding a camera with a Tamron 17-28mm f2.8 Di III RXD lens attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/tamron-17-28mm-f2-8-di-iii-rxd-sony-e.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Tamron_
@@ -91,13 +91,6 @@ _Tamron_
  With all that said, this lens's primary strength is its excellent image quality. Center sharpness is solid across various focal lengths and apertures, especially at wider f/stops. Edge softening is minor and detectable only to the trained eye. Chromatic aberration, distortion, and vignetting are also well controlled. Altogether, it’s an excellent choice for those seeking quality and value.
 
 ![Tamron 17-28mm f2.8 Di III RXD (Sony E)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/tamron-17-28mm-f2-8-di-iii-rxd-sony-e-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
@@ -131,13 +124,6 @@ _Fujifilm_
 
 ![Fujinon XF 8-16mm f2.8 R LM WR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-8-16mm-f2-8-r-lm-wr.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mirrorless Ultra-Wide-Angle Lens
@@ -149,13 +135,6 @@ $1499 $2000 Save $501
 The Fujinon XF 8-16mm f/2.8 R LM WR is an exceptional ultra-wide angle lens for Fujifilm X-mounts. It delivers impressive image quality and is a robust, weather-sealed lens suitable for taking to the extremes.
 
 [$1499 at Amazon](https://amazon.com/dp/B07FQ83W5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/FUJIFILM-XF-8-16mm-f-2-8-R-LM-WR-Lens-16591570/210245570) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best Mirrorless Telephoto Lens: [Sigma 100-400mm F5-6.3 DG DN OS Contemporary](https://amazon.com/dp/B08BHPVZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) 
 
@@ -183,13 +162,20 @@ _Sigma_
 ![Sigma 100-400mm F5-6.3 DG DN OS Contemporary](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sigma-100-400mm-f5-6-3-dg-dn-os-contemporary-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best Mirrorless Telephoto Lens
 
@@ -202,6 +188,13 @@ The Sigma 100-400mm F5-6.3 DG DN OS Contemporary is an excellent telephoto lens 
 ##  Best Mirrorless Portrait Lens: [Sony FE 85mm f/1.8](https://www.walmart.com/ip/Sony-FE-85mm-f-1-8-Lens-SEL85F18/376142797) 
 
 ![Sony SEL85F18 85mm F:1.8-22](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-sel85f18-85mm-f-1-8-22.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Sony_
 
@@ -224,14 +217,14 @@ _Sony_
 
 ![Sony FE 85mm f1.8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-fe-85mm-f1-8.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mirrorless Portrait Lens
 
@@ -240,19 +233,6 @@ Best Mirrorless Portrait Lens
 The Sony FE 85mm f/1.8 is an affordable 85mm lens that's an excellent choice for portrait photography. It's light and compact and delivers excellent image quality with pleasing bokeh.
 
 [See at Walmart](https://www.walmart.com/ip/Sony-FE-85mm-f-1-8-Lens-SEL85F18/376142797) [$598 at Amazon](https://www.amazon.com/dp/B07XF2HBKK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) [See at adorama](https://adorama.rfvk.net/c/156932/51926/1036?subId1=UUhtgUeUpU2003286&subId2=ehtg&u=https%3A%2F%2Fwww.adorama.com%2Fiso8518.html) 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best Mirrorless Macro Lens: [Fujinon XF 80mm f/2.8 R LM OIS WR Macro](https://www.walmart.com/ip/Fujifilm-Fujinon-XF-Macro-Lens-80-mm-f-2-8-R-LM-OIS-WR-X-Mount-Series-X-A10-X-A5-X-A7-X-E3-X-H1-X-S10-X-T100-X-T20-X-T200-X-T3-X-T30-X-T4/935289588) 
 
@@ -281,19 +261,26 @@ _Fujifilm_
 
 ![Fujinon XF 80mm f2.8 R LM OIS WR Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-80mm-f2-8-r-lm-ois-wr-macro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Mirrorless Macro Lens
@@ -309,6 +296,13 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 ### Can I use a mirrorless lens with my DSLR camera?
 
  Mirrorless lenses are designed specifically for mirrorless cameras. So, you can't use them on your old DSLR. However, the good news is your DSLR lenses will fit your mirrorless camera with the correct adapter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is there one photography lens I can use for all types of photos?
 
@@ -339,24 +333,20 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-roadmap-how-youtube-is-cultivating-a-flourishing-short-form-video-culture-for-2024/"><u>[New] The Roadmap How YouTube Is Cultivating a Flourishing Short-Form Video Culture for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-6-metaverse-case-studies-for-in-depth-understanding/"><u>[New] Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reducing-decibels-gradually-in-fl/"><u>[Updated] Reducing Decibels Gradually in FL</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-photography-toolkit-a-comprehensive-app-analysis/"><u>2024 Approved Photography Toolkit A Comprehensive App Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-picsart-analysis-and-tutorial/"><u>2024 Approved Ultimate PicsArt Analysis & Tutorial</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-look-at-what-sets-ipad-pro-apart-from-macbook-pro/"><u>A Comprehensive Look at What Sets iPad Pro Apart From MacBook Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-seamlessly-join-mp3-songs-using-windows-11-tools/"><u>How to Seamlessly Join MP3 Songs Using Windows 11 Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-docking-station-driver-update-a-comprehensive-walkthrough-for-smooth-connectivity/"><u>Lenovo Docking Station Driver Update – A Comprehensive Walkthrough for Smooth Connectivity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/er-asmr-vloggers-you-cant-miss/"><u>Premier ASMR Vloggers You Can't Miss</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-constructing-and-coding-your-robot-using-the-makeblock-mbot-kit-users-insight/"><u>The Ultimate Guide to Constructing & Coding Your Robot Using the Makeblock mBot Kit – User's Insight</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-microsofts-ergonomic-keyboard-quality-and-comfort-in-every-keystroke/"><u>The Ultimate Guide to Microsoft's Ergonomic Keyboard: Quality and Comfort in Every Keystroke</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-elite-fitness-bands-for-the-modern-athlete/"><u>The Ultimate Selection of Elite Fitness Bands for the Modern Athlete</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-web-development-online-courses/"><u>The Ultimate Selection of Web Development Online Courses</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-unihertx-atom-xl-a-tiny-rugged-phone-that-delivers-impressive-power/"><u>The Unihertx Atom XL - A Tiny, Rugged Phone that Delivers Impressive Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/thorough-analysis-and-critique-of-apples-ebook-reader-books-app/"><u>Thorough Analysis and Critique of Apple's eBook Reader - Books App</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-internet-gadgets-for-travellers-in-2ebyte-2024/"><u>Top-Rated Wireless Internet Gadgets for Travellers in 2Ebyte 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-features-of-the-zee-edge-z3plus-affordable-intuitive-dash-cam-unveiled/"><u>Unpacking the Features of the Zee Edge Z3+ - Affordable, Intuitive Dash Cam Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-oneplus-nord-n10-5g-a-budget-marvel-you-cant-overlook/"><u>Unveiling the OnePlus Nord N10 5G: A Budget Marvel You Can't Overlook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-adventure-the-best-6-gopro-mounts-revealed-for-2024/"><u>[New] Mastering Adventure The Best 6 GoPro Mounts Revealed for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-customizing-your-youtube-channel-url/"><u>[New] Step-by-Step Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-maximize-iphone-visual-capture-selective-photo-and-video-tools/"><u>[Updated] In 2024, Maximize iPhone Visual Capture Selective Photo & Video Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-aural-experience-on-windows-11-with-updated-sound-drivers/"><u>Elevate Aural Experience on Windows 11 with Updated Sound Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/key-factors-to-evaluate-prior-to-purchasing-your-next-printer/"><u>Key Factors to Evaluate Prior to Purchasing Your Next Printer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-the-court-with-nba-2k19-elite-basketball-game/"><u>Master the Court with NBA 2K19 - Elite Basketball Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-digital-art-with-xp-pens-latest-innovation-the-artist-16-pro-review/"><u>Mastering Digital Art with XP-Pen's Latest Innovation – The Artist 16 Pro Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-go-on-a-budget-can-it-resolve-its-identity-crisis/"><u>Microsoft Surface Go on a Budget - Can It Resolve Its Identity Crisis?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nokia-31-cellphone-assessment-an-ideal-beginners-device/"><u>Nokia 3.1 Cellphone Assessment: An Ideal Beginner's Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prime-spots-for-buying-cutting-edge-mobile-technology/"><u>Prime Spots for Buying Cutting-Edge Mobile Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/raspberry-pi-400-analysis-portable-mini-pc-designed-as-a-keyboard/"><u>Raspberry Pi 400 Analysis: Portable Mini PC Designed as a Keyboard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-itel-a70-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-g42-5g-by-drfone-android/"><u>Universal Unlock Pattern for Nokia G42 5G</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mastering-image-cropping-in-fcpx-advanced-techniques/"><u>Updated In 2024, Mastering Image Cropping in FCPX Advanced Techniques</u></a></li>
 </ul></div>
 

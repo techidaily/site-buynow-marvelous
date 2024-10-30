@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2024-10-21T20:27:35.724Z
-updated: 2024-10-24T14:37:57.763Z
+date: 2024-10-23T01:13:25.263Z
+updated: 2024-10-29T17:07:48.854Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -39,16 +39,16 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 3.6
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -93,10 +93,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Stick to the on-screen instructions**
@@ -105,18 +105,18 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
@@ -140,13 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
@@ -154,6 +147,13 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: A bit sluggish but good enough**
 
@@ -168,6 +168,13 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Browsing through the interface, we did find it to be a bit laggy and choppy at times, which can be quite frustrating. Hopefully, this can be fixed down the line when new versions of Android TV make their way to the device.
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Not bad for the size, but not the cheapest**
 
@@ -194,13 +201,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 **A solid IPS panel 4K TV.**
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -231,21 +231,22 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/35578242-new-2024-approved-free-youtube-channel-art-templates-find-them-here/"><u>[New] 2024 Approved Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-melodic-beginnings-curbside-sound-sources/"><u>[New] Melodic Beginnings Curbside Sound Sources</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>[Updated] The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-11-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 11 Pro online without jailbreak</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-urban-commutes-insider-look-at-the-high-speed-gotrax-gxl-v2-scooter/"><u>Mastering Urban Commutes: Insider Look at the High-Speed Gotrax GXL V2 Scooter</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-review-a-clunky-buggy-and-expensive-mess/"><u>Microsoft Surface Duo Review: A Clunky, Buggy, and Expensive Mess</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/primetrackings-small-gps-tracer-the-secret-weapon-to-protect-your-valuables-unbiased-reviews-and-in-depth-analysis/"><u>PrimeTracking's Small GPS Tracer: The Secret Weapon to Protect Your Valuables – Unbiased Reviews & In-Depth Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reflecting-on-whether-id-benefit-most-from-new-watch-innovations/"><u>Reflecting on Whether I'd Benefit Most From New Watch Innovations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-perfect-marriage-of-aesthetics-and-functionality-in-fitbit-charge-4/"><u>Reviewing the Perfect Marriage of Aesthetics & Functionality in Fitbit Charge 4</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/spotlight-on-whats-not-there-a-critical-review-of-samsung-galaxy-tab-a-2020s-key-omissions/"><u>Spotlight on What's Not There - A Critical Review of Samsung Galaxy Tab A (2020)'S Key Omissions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tech-talk-decoded-which-will-win-in-the-iphone-vs-android-battle-for-your-preferences/"><u>Tech Talk Decoded: Which Will Win in the iPhone Vs. Android Battle for Your Preferences?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-17-book-downloads-find-amazing-free-reads-online/"><u>Top 17 Book Downloads: Find Amazing Free Reads Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleash-your-adventure-essential-tactics-for-saving-your-vr-gaming-experience-for-2024/"><u>Unleash Your Adventure Essential Tactics for Saving Your VR Gaming Experience for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-your-thaumaturge-game-fixes-for-pc-startup-failures-and-glitches/"><u>Unlock Your Thaumaturge Game: Fixes for PC Startup Failures & Glitches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-instant-techniques-to-shuffle-youtube-song-sequences/"><u>[New] 2024 Approved Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-counterclockwise-playback-in-instagram-videos-for-2024/"><u>[New] Counterclockwise Playback in Instagram Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-investigating-the-innovation-in-burst-mode-filming-techniques/"><u>[Updated] In 2024, Investigating the Innovation in Burst Mode Filming Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-youtube-sounds-through-screen-capture/"><u>2024 Approved Unlocking YouTube Sounds Through Screen Capture</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/5o6s6zmk5yplusv55ar5zwp6agm77ya6auy5pwi6kej5rg65bel5l2c5yplusw5lik55qe5pah5lu25asx6lmk5pa55rov/"><u>排除可疑問題：高效解決工作台上的文件失蹤方法</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-tp-link-re200-ac750-wifi-extender-review-great-value-for-money/"><u>Budget-Friendly TP-Link RE200 AC750 WiFi Extender Review: Great Value for Money</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-electric-vehicles-handle-intense-heat-or-freezing-cold/"><u>Can Electric Vehicles Handle Intense Heat or Freezing Cold?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/examining-bose-sports-tech-solid-reliable-performance/"><u>Examining Bose Sports Tech: Solid, Reliable Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-mobvoi-ticwatch-pro-3-the-power-behind-gps-precision-and-extended-battery-via-dual-displays/"><u>Exploring the Features of the Mobvoi TicWatch Pro 3 - The Power Behind GPS Precision and Extended Battery via Dual Displays</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-knacks-originality-through-its-memorable-hero-set-against-a-backdrop-of-classic-gaming-themes/"><u>Exploring The Knack's Originality Through Its Memorable Hero, Set Against a Backdrop of Classic Gaming Themes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-price-low-impact-a-comprehensive-review-of-samsungs-un65nu8000fxza-smart-tv/"><u>High Price, Low Impact: A Comprehensive Review of Samsung's UN65NU8000FXZA Smart TV</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a05-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A05 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-keypad-performance-in-windows-operating-systems-win-1187-effective-remedies/"><u>Restoring Keypad Performance in Windows Operating Systems (Win 11/8/7): Effective Remedies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-ion-audio-tailgater-plus-ultimate-party-speaker-for-nonstop-boosted-sound/"><u>Review: ION Audio Tailgater Plus - Ultimate Party Speaker for Nonstop Boosted Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch3-review/"><u>Samsung Galaxy Watch3 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-cycwagens-latest-innovation-an-exclusive-test-drive-of-the-electric-cargo-e-bike/"><u>The Ultimate Guide to CycWagen's Latest Innovation - An Exclusive Test Drive of the Electric Cargo E-Bike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-oculus-quest-potential-outstanding-vr-adventure-for-great-savings/"><u>Unlocking the Oculus Quest Ⅱ Potential - Outstanding VR Adventure for Great Savings!</u></a></li>
 </ul></div>
 

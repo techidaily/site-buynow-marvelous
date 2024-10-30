@@ -1,7 +1,7 @@
 ---
 title: "Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive"
-date: 2024-10-13T16:24:20.768Z
-updated: 2024-10-18T17:08:38.572Z
+date: 2024-10-24T00:00:41.539Z
+updated: 2024-10-30T00:21:56.849Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  As the range of games available on consoles expands to include genres previously exclusive to PC, many couch gamers are seeking to add a Bluetooth keyboard to their arsenal. One popular option is a keypad that plugs into the bottom of your controller, but are these gadgets as nifty as they appear?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Controllers Weren't Designed with Keypads In Mind
 
  For the past two months, I’ve been using one of these keypads: the [MoKo Keyboard for PS5 controllers](https://www.amazon.com/MoKo-Controller-Backlight-Playstation-Accessories/dp/B0BMKTNKNS/ref=sr%5F1%5F3?crid=2APOSQFJEH4VP&dib=eyJ2IjoiMSJ9.Sfef8D7Q9tOqt-sKBOaHmwtnSh4OO7BUl2oNLmBW5Qbblm8qBYmpCnMpBcAPvFIRJHJyMqemyVvG2%5F44hEdthApdtQL%5FOtuWiLLO1SbYFR97ZxpebDnGIBk8h2EFpXxSVJp2XGded10f5Qx6p7TcUIdMYJcDD4DF7UsT77Co6791MbnPVyFIoCsXCfae2CA7-J9kwJAIwc2Q0-xSRBbSFpk4PIKfwpxegAlbXLUiPmw.jDI0mEqr0f1gl8CrJP0b9ne%5FViVjkdvjFAiT6nMSyys&dib%5Ftag=se&keywords=ps5+controller+keyboard&qid=1718389982&sprefix=ps5+controllerkeybo%2Caps%2C88&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003653&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-tested-a-mini-controller-keyboard-so-you-dont-have-to%2F&asc%5Fcampaign=Evergreen), which Amazon lists as its “Overall Pick” among many near-identical offerings. The add-on is clever in concept and aesthetic, filling the gap between grips with an easy-to-access keyboard.
@@ -37,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![A PlayStation 5 DualSense controller with mini keypad connected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6258.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -53,6 +46,13 @@ Tim Rattray / How-To Geek
 
  It didn’t need to be this way. The DualSense’s speaker is located below its touchpad and therefore isn’t obfuscated by this device. While this won’t seem like an important flaw to many gamers, it makes the keypad feel distractingly cheap every time sounds are played (something common for _Final Fantasy XIV_, the most popular game that benefits from a Bluetooth keyboard).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Not Entirely Useless
 
  There’s a myriad of smaller issues that unfortunately add up to making this an impractical product. Some buttons are rearranged from where you’d expect them on [a standard QWERTY keyboard](https://extra-guidance.techidaily.com/iphone-image-transfer-methods-explained-for-2024/), such as the placement of the backspace key to the left of the space bar and Alt functions being assigned to different buttons than they normally are.
@@ -62,10 +62,10 @@ Tim Rattray / How-To Geek
 ![Bottom of a clip-on controller keypad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6259.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -75,16 +75,10 @@ Tim Rattray / How-To Geek
  Lastly, it’s neat that the keys light up in case you’re gaming in the dark, something applicable to me as I game on [an OLED television](https://youtube-webster.techidaily.com/-views-via-strategic-tagging-tactics/) so the darker the room the better.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Stick to Standard Bluetooth Keyboards
@@ -108,24 +102,14 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-complete-users-manual-to-mac-dvd-burning/"><u>[Updated] 2024 Approved The Complete User's Manual to Mac DVD Burning</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-vr-gear-for-drone-operators/"><u>[Updated] Leading VR Gear for Drone Operators</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-picture-by-picture-insta-gallery/"><u>[Updated] Picture by Picture Insta Gallery</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly/"><u>2024 Approved Instant Media Transformation Enhance FB Videos to HD/MP4 on the Fly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/align-windows-11plus7plus81-drivers-to-optimized-intel-hardware/"><u>Align Windows 11+7+8.1 Drivers to Optimized Intel Hardware</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comment-pouvez-vous-recouvrer-les-informations-dun-pc-defectueux-sous-windows-11/"><u>Comment Pouvez-Vous Recouvrer Les Informations D’Un PC Défectueux Sous Windows 11?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/critique-of-cyberpunk-2077-a-brilliant-concept-plagued-with-issues/"><u>Critique of Cyberpunk 2077: A Brilliant Concept Plagued with Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-t1-edition-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ (T1) Edition to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/les-6-meilleurs-outils-de-sauvegarde-pour-gmail-en-2024-comparatif-apercu-des-benefices-et-defis/"><u>Les 6 Meilleurs Outils De Sauvegarde Pour Gmail en 2024: Comparatif Aperçu Des Bénéfices Et Défis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premium-storage-solutions-the-ultimate-guide-to-the-most-high-quality-sd-cards-of-2023/"><u>Premium Storage Solutions: The Ultimate Guide to the Most High-Quality SD Cards of 2023</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-expert-picks-for-the-finest-gopro-models-of-2024/"><u>The Ultimate Selection: Expert Picks for the Finest GoPro Models of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-affordable-android-smartphones-a-comprehensive-guide/"><u>Top Affordable Android Smartphones : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-android-watch-pickups-the-ultimate-guide-to-the-finest-wearable-tech/"><u>Top Android Watch Pickups: The Ultimate Guide to the Finest Wearable Tech</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-iphone-13-pro-max-protective-covers-a-comprehensive-guide/"><u>Top Rated iPhone 13 Pro Max Protective Covers : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-ready-to-assemble-desktops/"><u>Top-Ranking Ready-to-Assemble Desktops</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-tkl-mechanical-keyboard-picks-a-buyers-guide/"><u>Top-Ranking TKL Mechanical Keyboard Picks: A Buyer's Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-bluetooth-earbuds-for-nintendo-switch-gamers/"><u>Top-Rated Bluetooth Earbuds for Nintendo Switch Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-computer-mice-ranked/"><u>Top-Rated Computer Mice Ranked</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-your-chatgpt-discover-the-top-4-causes-of-access-denials-and-solutions/"><u>Unlocking Your ChatGPT: Discover the Top 4 Causes of Access Denials and Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] In 2024, Taming Echoes Syncing Voices to OBS Channel</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skillful-tactics-for-procuring-image-archives/"><u>[Updated] Skillful Tactics for Procuring Image Archives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chromecast-vs-roku-face-off-which-device-wins-the-streaming-war/"><u>Chromecast Vs. Roku Face-Off: Which Device Wins the Streaming War?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-innovation-awaits-exploring-the-features-of-the-hp-stream-11/"><u>Compact Innovation Awaits: Exploring the Features of the HP Stream 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/configuring-your-personal-nintendo-account-on-the-handheld-gaming-system-3ds/"><u>Configuring Your Personal Nintendo Account on the Handheld Gaming System, 3DS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/constructing-urban-dreams-in-depth-review-of-the-captivating-city-builder-cities-skylines/"><u>Constructing Urban Dreams: In-Depth Review of the Captivating City-Builder, Cities: Skylines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-ace-2-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus Ace 2 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-visionary-4k-cameras-leading-brands-a-to-z-top-18/"><u>In 2024, Visionary 4K Cameras Leading Brands A-to-Z (Top 18)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-stellar-repair-for-video-doesnt-work-properly-on-some-of-my-files/"><u>Why Stellar Repair for Video Doesn’t Work Properly on Some of My Files?</u></a></li>
 </ul></div>
 

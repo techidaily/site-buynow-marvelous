@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Monoprice Graphic Tablet: Exceptional Value on a Low Budget"
-date: 2024-08-15T09:12:27.585Z
-updated: 2024-08-16T09:12:27.585Z
+date: 2024-10-23T09:39:39.046Z
+updated: 2024-10-30T10:34:59.667Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review of the Monoprice Graphic Tablet: Exceptional Value on a Low Budget"
@@ -40,9 +40,6 @@ Lifewire / Erika Rawes
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -74,11 +71,15 @@ Lifewire / Erika Rawes
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Easier than most**
 
@@ -89,8 +90,12 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -98,9 +103,6 @@ Lifewire / Erika Rawes
  The attached coax cable isn’t as long as I’ve seen on other similarly-priced antennas, but it is long enough (10 feet) to place the antenna up high without an extender.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -112,13 +114,24 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -133,9 +146,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -152,14 +162,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +175,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/omprehensive-instructions-for-disposing-of-video-downloads-for-2024/"><u>[New] Comprehensive Instructions for Disposing of Video Downloads for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-k70e-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi K70E Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/buyers-guide-the-8-key-aspects-to-evaluate-when-selecting-a-tablet/"><u>Buyer's Guide: The 8 Key Aspects to Evaluate When Selecting a Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-arlo-video-doorbell-analysis-your-complete-guide-to-an-integrated-security-solution/"><u>Comprehensive Arlo Video Doorbell Analysis - Your Complete Guide To An Integrated Security Solution</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/effortless-editing-with-quicktime-pro-master-cutting-splitting-rotating-and-enhancing-your-videos/"><u>Effortless Editing with QuickTime Pro: Master Cutting, Splitting, Rotating & Enhancing Your Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-gimp-as-a-universal-and-no-cost-photo-retouching-tool/"><u>Evaluating GIMP as a Universal and No-Cost Photo Retouching Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-launching-valorant-successfully-overcoming-pc-hurdles-in-2/"><u>Expert Advice on Launching Valorant Successfully: Overcoming PC Hurdles in 2</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/fixing-audio-only-issues-resolving-windows-1011-video-display-problems/"><u>Fixing Audio-Only Issues: Resolving Windows 10/11 Video Display Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-vivomove-hr-unveiled-the-sophisticated-daily-wearable-that-tracks-your-fitness-journey/"><u>Garmin Vivomove HR Unveiled: The Sophisticated Daily Wearable that Tracks Your Fitness Journey</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-tecno-spark-10-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Tecno Spark 10 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-iphone-release-cycles-to-determine-upgrades/"><u>Navigating iPhone Release Cycles to Determine Upgrades</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-cu13-insights-and-analysis-pushing-the-boundaries-of-ultralight-laptop-innovation-and-performance/"><u>Razer Blade Stealth Cu13 Insights & Analysis: Pushing the Boundaries of Ultralight Laptop Innovation and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-11-clipchamp-setup-tips-and-tricks/"><u>Seamless Windows 11 ClipChamp Setup Tips & Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-go-to-accessory-for-active-individuals-a-detailed-examination-of-the-garmin-vivomove-hr-watch/"><u>The Go-To Accessory for Active Individuals: A Detailed Examination of the Garmin Vivomove HR Watch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unify-apple-ecosystem-macx-a-convenient-solution-to-share-files-between-iphoneipodipad-and-mac-computers/"><u>Unify Apple Ecosystem: MacX - A Convenient Solution to Share Files Between iPhone/iPod/iPad and Mac Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yamaha-mcr-b020bl-small-speakers-with-big-impact/"><u>Yamaha MCR-B020BL: Small Speakers with Big Impact</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Call for Improved Refund Strategies at Sony and Nintendo: The Industry Talks Back"
-date: 2024-10-17T18:35:40.422Z
-updated: 2024-10-18T16:28:36.490Z
+date: 2024-10-27T03:58:30.304Z
+updated: 2024-10-29T16:38:22.563Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  With the world shifting from physical to digital game media, it would be nice if everyone could agree on how refunds work. Unfortunately while some companies are leading the charge in consumer friendliness, others seem to be more than a little behind the times.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Sony and Nintendo’s Current Refund Policies
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  Which is a polite way of saying your only option is not to buy a broken or incorrect item in the first place! All sales are final, no refunds!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Other Platforms Handle Refunds
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  On PC, digital storefronts have similarly convenient refund policies. Steam offers automatic refunds for games that have been played for less than two hours and have been purchased in the last 14 days. I have also successfully refunded games in the past that had more than two hours of playtime by explaining that it was because of trying to get the game to work or another legitimate reason to have more than two hours on the clock. However, anything outside of the eligibility window is at Valve's discretion. Also, in case you didn't know, if you bought a game shortly before it went on sale, you can ask for a refund and then re-buy the game at the new lower price! The [Epic Games Store refund policy](https://www.epicgames.com/site/en-US/store-refund-policy) is almost exactly the same, so both Steam and EGS are virtually on par when it comes to refunds.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why This Will Be Good for You, Sony & Nintendo
@@ -81,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  Letting players get automatic refunds using the 14 day, two-hour rule is a small price to pay if it makes it more likely that people will hit that buy button in the first place. Perhaps even more important than that, it's a simple way to generate goodwill from your customer base.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What We Want From Your Refund Policy
@@ -116,24 +110,21 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-channel-your-creativity-convert-youtube-clips-into-dynamic-gifs/"><u>[New] 2024 Approved Channel Your Creativity Convert YouTube Clips Into Dynamic Gifs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-price-point-in-online-advertising/"><u>[New] The Price Point in Online Advertising</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-stock-image-memes-real-life-narratives/"><u>[New] Top 10 Stock Image Memes Real Life Narratives</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-success-with-spotify-marketing-tips-for-2024/"><u>[New] Unlocking Success with Spotify Marketing Tips for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-blackout-blitz-60-second-effort/"><u>[Updated] 2024 Approved Blackout Blitz 60-Second Effort</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-best-photo-video-maker-with-music/"><u>5 Best Photo Video Maker With Music</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1728480914528-windows2/"><u>回復用パーティションをWindowsでアタッチするための2コツ</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-tablets-and-ereaders-compared-ipad-vs-kindle-vs-nook-explained/"><u>Best Tablets & Ereaders Compared: IPad Vs. Kindle Vs. Nook Explained</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-14-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi 14 Pro FRP Locks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nostalgia-and-value-why-its-worth-holding-onto-your-classic-gaming-consoles/"><u>Nostalgia and Value: Why It's Worth Holding Onto Your Classic Gaming Consoles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals-for-2024/"><u>Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-my-love-for-video-games-through-engaging-discord-play-sessions/"><u>Rediscovering My Love for Video Games Through Engaging Discord Play Sessions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reevaluating-your-needs-how-you-can-skip-the-expensive-core-i9-and-still-achieve-optimal-computing-power/"><u>Reevaluating Your Needs: How You Can Skip the Expensive Core I9 and Still Achieve Optimal Computing Power</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-compact-mini-controller-keyboards-save-space-and-stay-productive/"><u>Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/safeguard-your-virtual-fortunes-expert-tips-for-treating-gaming-accounts-with-bank-level-security/"><u>Safeguard Your Virtual Fortunes: Expert Tips for Treating Gaming Accounts with Bank-Level Security</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/skip-the-middleman-directly-record-games-using-steams-built-in-features/"><u>Skip the Middleman – Directly Record Games Using Steam's Built-In Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-pulse-explorer-buds-in-depth-analysis-of-gaming-headphones-with-zero-delay/"><u>Sony Pulse Explorer Buds - In-Depth Analysis of Gaming Headphones with Zero Delay</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/syncing-spotify-with-fitbit-a-guide-to-playing-tunes-during-workouts/"><u>Syncing Spotify with Fitbit: A Guide to Playing Tunes During Workouts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-battle-intensifies-as-more-users-block-advertisements-on-youtube/"><u>The Battle Intensifies as More Users Block Advertisements on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection-for-2024/"><u>[New] Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-speed-removing-ssgnatures-immediately/"><u>[Updated] Mastering Speed Removing Ssgnatures Immediately</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-earnings-in-beauty-vlogs/"><u>[Updated] Maximizing Earnings in Beauty Vlogs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cutting-edge-tips-for-outshining-others-in-facebooks-social-space/"><u>2024 Approved Cutting-Edge Tips for Outshining Others in Facebook's Social Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-personalized-chatbot-versions-using-generative-pre-trained-transformer-technology/"><u>Creating Personalized Chatbot Versions Using Generative Pre-Trained Transformer Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/eight-vital-considerations-for-making-an-informed-choice-on-your-new-tablet-purchase/"><u>Eight Vital Considerations for Making an Informed Choice on Your New Tablet Purchase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/eufy-t8200-video-doorbell-review-say-goodbye-to-subscriptions-and-hello-to-smart-home-convenience/"><u>Eufy T8200 Video Doorbell Review - Say Goodbye to Subscriptions & Hello to Smart Home Convenience!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exceptional-aesthetics-meet-functionality-in-our-detailed-review-of-dell-xps-13-7390-convertible-laptop/"><u>Exceptional Aesthetics Meet Functionality in Our Detailed Review of Dell XPS 13 (7390) Convertible Laptop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-lensdirects-prescription-blue-light-blocking-eyewear/"><u>Expert Analysis of LensDirect's Prescription Blue Light-Blocking Eyewear</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-galaxy-s10-an-exceptional-luxury-phone-experience/"><u>Expert Analysis of the Samsung Galaxy S10: An Exceptional Luxury Phone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-how-the-mid-range-tablet-samsung-galaxy-tab-s7-stands-out-in-the-android-marketplace/"><u>Expert Analysis: How the Mid-Range Tablet Samsung Galaxy Tab S7 Stands Out in the Android Marketplace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-ideal-mac-companion-mouse/"><u>Explore the Ideal Mac Companion Mouse</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ios-snapshot-spectrum-your-quick-reference/"><u>IO's Snapshot Spectrum Your Quick Reference</u></a></li>
+<li><a href="https://win-studio.techidaily.com/latest-version-notes-on-aomei-backupper-detailed-release-history-insights/"><u>Latest Version Notes on AOMEI Backupper: Detailed Release History Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-screen-and-sound-recordings-with-the-updated-windows-11-snipping-tool-max-156/"><u>Optimizing Your Screen & Sound Recordings with the Updated Windows 11 Snipping Tool (Max 156)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Blu-Ray & DVD Players : The Ultimate Selection"
-date: 2024-10-18T20:47:39.660Z
-updated: 2024-10-24T01:42:52.319Z
+date: 2024-10-22T21:33:54.696Z
+updated: 2024-10-30T08:31:17.950Z
 tags:
   - buying-guides
 categories:
@@ -53,16 +53,16 @@ Best Blu-Ray and DVD Player for Travel
 
  Most Blu-ray players will also play CDs, but it’s worthwhile to check if audio is part of your plans. Not all players will support high-resolution audio formats like DVD-Audio (DVD-A) and SACD (Super Audio CD). If you consider yourself an audiophile and you want the best sound from your player, it’s best to check that it supports these formats.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Blu-Ray and DVD Player Overall: [Panasonic DP-UB820-K](https://amazon.com/dp/B07N3PQM5N?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004822&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-blu-ray-and-dvd-players%2F&asc%5Fcampaign=Commerce) 
 
 ![A Panasonic DP-UB820-K under a giant, vibrant TV screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/panasonic-dp-ub820-k.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Panasonic_
 
@@ -86,14 +86,14 @@ _Panasonic_
 
 ![Panasonic DP-UB820-K](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/panasonic-dp-ub820-k.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best Blu-Ray and DVD Player Overall
 
@@ -106,22 +106,15 @@ The Panasonic DP-UB820-K offers exceptional 4K image quality, vibrant colors, an
 [$420 at Amazon](https://www.amazon.com/dp/B07N3PQM5N?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004822&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-blu-ray-and-dvd-players%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&cuid=UUhtgUeUpU2004822&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPanasonic-DP-UB820-K-4K-Ultra-HD-Blu-ray-Player-with-HDR10-and-Dolby-Vision-Playback%2F352729721) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2004822%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fp%25252F12K-005E-002M2%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F12K-005E-002M2) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Budget Blu-Ray and DVD Player: [Panasonic DP-UB154-K](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&cuid=UUhtgUeUpU2004822&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPanasonic-4K-Blu-Ray-Player-Ultra-HD-Premium-Video-Playback-and-Hi-Res-Audio-DP-UB150-K%2F852048134) 
 
 ![A Panasonic DP-UB154-K](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/panasonic-dp-ub154-k.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _Panasonic_
 
@@ -141,6 +134,13 @@ _Panasonic_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best Budget Blu-Ray and DVD Player
 
 #####  Panasonic DP-UB154-K
@@ -150,13 +150,6 @@ $168 $198 Save $30
 The Panasonic DP-UB154-K is an excellent, no-frills 4K Blu-ray player that delivers high-quality disc playback at an attractive price point. It focuses on its core function, making it an ideal choice for those who simply want to enjoy their physical media collection without unnecessary extras.
 
 [See at Walmart](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&cuid=UUhtgUeUpU2004822&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPanasonic-4K-Blu-Ray-Player-Ultra-HD-Premium-Video-Playback-and-Hi-Res-Audio-DP-UB150-K%2F852048134) [$168 at Amazon](https://www.amazon.com/dp/B0BX4RLH68?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004822&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-blu-ray-and-dvd-players%2F&asc%5Fcampaign=Commerce) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best 4K Blu-Ray and DVD Player: [Panasonic DP-UB9000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2004822%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fpanasonic%25252Fp%25252F0R4-000P-000D4%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fpanasonic%252Fp%252F0R4-000P-000D4) 
 
@@ -184,6 +177,13 @@ _Panasonic_
 
 ![Panasonic DP-UB9000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/panasonic-dp-ub9000.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best 4K Blu-Ray and DVD Player
@@ -199,10 +199,10 @@ The Panasonic DP-UB9000 is a premium Blu-ray player that delivers exceptional pi
 ![A Sony UBP-X800M2 next to a TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sony-ubp-x800m2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Sony_
@@ -243,6 +243,13 @@ The Sony UBP-X800M2 offers excellent 4K picture quality and high-res audio perfo
 
 ![A NAVISKAUTO Dual Screen Blu-Ray DVD Player strapped to the back of a car headrest.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/naviskauto-dual-screen-blu-ray-dvd-player.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _NAVISKAUTO_
 
 | Pros                                     | Cons                 |
@@ -264,19 +271,6 @@ _NAVISKAUTO_
 ![A NAVISKAUTO Dual Screen Blu-Ray DVD Player with remote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/naviskauto-dual-screen-blu-ray-dvd-player.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best Blu-Ray and DVD Player for Travel
 
@@ -303,16 +297,10 @@ The NAVISKAUTO Dual Screen Blu-Ray DVD Player is an excellent entertainment solu
  The PS3, PS4, and PS4 Pro, and the original Xbox One support standard Blu-rays only. In other words, they won’t play 4K Ultra HD Blu-rays, just regular, old Full HD (1080p) discs.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are Blu-rays better than streaming?
@@ -338,20 +326,20 @@ The NAVISKAUTO Dual Screen Blu-Ray DVD Player is an excellent entertainment solu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-social-media-trends-with-data-graphics/"><u>[New] 2024 Approved Charting Social Media Trends with Data Graphics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-comprehensible-approach-to-personal-branding-in-the-youtube-sphere-for-2024/"><u>[New] A Comprehensible Approach to Personal Branding in the YouTube Sphere for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-budget-friendly-multiview-cameras-for-professional-use/"><u>[New] Budget-Friendly Multiview Cameras for Professional Use</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-boosting-game-speed-optimizing-minecrafts-ram-usage/"><u>[Updated] Boosting Game Speed Optimizing Minecraft's RAM Usage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-thrilling-teamwork-in-dying-lights-first-person-co-op-adventure/"><u>Experience Thrilling Teamwork in Dying Light's First-Person Co-Op Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-top-home-theater-pcs-dominating-the-market-this-year/"><u>Expert Picks: The Top Home Theater PCs Dominating the Market This Year</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-cost-efficiency-in-portable-music-devices/"><u>Exploring Cost Efficiency in Portable Music Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-of-budget-hobby-drones-with-syma-s111g-for-indoors-enthusiasts/"><u>Exploring the Best of Budget Hobby Drones with Syma S111G for Indoors Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lenovo-ideapad-130s-when-limited-horsepower-powers-seamless-operations/"><u>Exploring the Lenovo IdeaPad 130S: When Limited Horsepower Powers Seamless Operations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-onetastic-improve-your-microsoft-onenote-experience-our-in-depth-analysis/"><u>How Does Onetastic Improve Your Microsoft OneNote Experience? Our In-Depth Analysis</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-a58-4g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo A58 4G Phone Now with These Tips</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/prevent-plagiarism-copyright-check-for-uploading-videos-2e/"><u>Prevent Plagiarism Copyright Check for Uploading Videos (2E)</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-persistent-edge-toolbar-items/"><u>Removing Persistent Edge Toolbar Items</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tiktoks-triumph-the-most-shared-videos-on-twitter/"><u>[New] 2024 Approved TikTok's Triumph The Most Shared Videos on Twitter</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pinnacle-montage-apps-androidiphones-creative-powerhouses-for-2024/"><u>[New] Pinnacle Montage Apps Android/iPhone's Creative Powerhouses for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-guide-to-professional-fbx-game-capture-for-2024/"><u>[New] The Complete Guide to Professional FBX Game Capture for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-effective-wi-fi-signal-amplifiers-reviewed-and-ranked/"><u>2024'S Most Effective Wi-Fi Signal Amplifiers Reviewed and Ranked</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-innovative-and-advanced-smartwatch-models-reviewed/"><u>2024'S Most Innovative and Advanced Smartwatch Models Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-motorola-edgeplus-bridging-mid-range-and-high-end-but-missing-key-marks/"><u>A Closer Look at the Motorola Edge+ - Bridging Mid-Range and High-End but Missing Key Marks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-the-user-friendly-netatmo-weather-station-for-tech-savvy-homeowners/"><u>A Comprehensive Review of the User-Friendly Netatmo Weather Station for Tech Savvy Homeowners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-cleaning-solutions-at-home-the-complete-rundown-of-the-dreame-bot-l1-0-pro-review/"><u>Advanced Cleaning Solutions at Home - The Complete Rundown of the Dreame Bot L1 0 Pro Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-ipad-102-inch-8th-generation-review-apples-most-affordable-ipad-is-better-than-ever/"><u>Apple iPad 10.2-Inch (8Th Generation) Review: Apple’s Most Affordable iPad Is Better Than Ever</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-with-surface-pro-4-drivers/"><u>Enhance Windows with Surface Pro 4 Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-x50-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor X50 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-reno-11-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Reno 11 5G Through Google Earth?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-strategies-to-speed-up-your-instagram-on-smartphones-iosandroid/"><u>Six Strategies to Speed Up Your Instagram on Smartphones (iOS/Android)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-rated-no-cost-tools-for-effortless-windows-mobile-video-format-transformation/"><u>Top Rated No-Cost Tools for Effortless Windows Mobile Video Format Transformation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722995655947-user-experience-insights-on-the-microsoft-sculpt-keyboard-an-incredible-deal/"><u>User Experience Insights on the Microsoft Sculpt Keyboard - An Incredible Deal!</u></a></li>
 </ul></div>
 

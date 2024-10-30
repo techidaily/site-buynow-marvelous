@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2024-10-11T18:17:49.604Z
-updated: 2024-10-18T18:47:36.404Z
+date: 2024-10-27T23:15:19.604Z
+updated: 2024-10-30T04:34:23.742Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  Macro photography is kind of a big deal, but many people don't know what it is despite having the hardware to take macro photos. So let's clear up the big and small details of this fascinating photographic art.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Macro Photography Is About Getting Close and Personal
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ![Sigma 105mm F2.8 EX DG OS HSM Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sigma-105mm-f2-8-ex-dg-os-hsm-macro-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #####  Sigma 105mm F2.8 EX DG OS HSM Macro
 
 $525 $669 Save $144 
@@ -60,24 +67,18 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
  Finally, though they are rare to see these days, many compact dedicated digital cameras also have a "macro mode", but the results from this mode have never been great, and really don't let you get nearly as close to the subject as a true macro lens does.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Macro Photography Lighting Can Be a Challenge
 
  With their extremely short focal distances, and very shallow depth of field, macro photos often suffer from a lack of good lighting. Lighting is paramount in any sort of photography (it literally means the capture of light after all), but perhaps never more than with macro shots. This is why many macro lenses, and macro cameras on some phones have a built-in LED ring to light up the subject.
 
  Some of the most specialized (and expensive!) macro lenses are called ["probe" lenses](https://www.amazon.com/Venus-Laowa-24mm-14-Probe/dp/B07JYHGNHQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002766&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-is-macro-photography%2F&asc%5Fcampaign=Evergreen), which can be inserted into tight spaces such as the inside of a log or into crevices. These lenses almost always have built-in lights for the same reason. When I take macro photos with my phone, I often use a supplementary light, such as the flashlight from someone else's phone, or even a dedicated ring light. For natural outdoor lighting, it's all about the angle and letting direct or bouncing from the sun illuminate the subject.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Best Subjects for Macro Photography
 
@@ -93,13 +94,6 @@ Sydney Louw Butler / How-To Geek
 
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler / How-To Geek
 
  I will never, ever get tired of shooting photos of these teeny-tiny jumping spiders.
@@ -107,10 +101,10 @@ Sydney Louw Butler / How-To Geek
 ![Macro photo of jumping spider on a leaf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-jumping-spider-on-a-leaf.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-to Geek
@@ -140,16 +134,19 @@ Sydney Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-transforming-your-facebook-display-photo-quickly/"><u>2024 Approved Transforming Your Facebook Display Photo Quickly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-15-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 15 Pro Max Space | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>In 2024, Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-2024-mirrorless-cameras-the-ultimate-guide-for-photography-enthusiasts/"><u>Leading 2024 Mirrorless Cameras: The Ultimate Guide for Photography Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-computing-units-ranked-by-power-and-efficiency/"><u>Leading Computing Units Ranked by Power and Efficiency</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premier-skill-building-workshops-on-linkedin-to-elevate-your-career/"><u>Premier Skill-Building Workshops on LinkedIn to Elevate Your Career</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-the-ideal-streaming-service/"><u>The Ultimate Guide to Choosing the Ideal Streaming Service</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-quality-turntables-you-cant-miss/"><u>Top Quality Turntables You Can't Miss</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-widescreen-displays-ultimate-choices/"><u>Top-Ranked Widescreen Displays: Ultimate Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-solve-missing-dynamic-link-library-errors-in-windows-systems/"><u>Troubleshoot and Solve Missing Dynamic Link Library Errors in Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-camon-20-premier-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Camon 20 Premier 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-leverage-popular-tiktok-hashes-for-increased-interactions-for-2024/"><u>[New] Leverage Popular TikTok Hashes For Increased Interactions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] 2024 Approved Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discover-the-art-of-vocal-variation-for-enhanced-gameplay-experience-free-guide/"><u>[Updated] Discover the Art of Vocal Variation for Enhanced Gameplay Experience (Free Guide)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>2024 Approved SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-primer-on-selecting-superior-free-srt-translator-platforms/"><u>In 2024, A Primer on Selecting Superior Free SRT Translator Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-gaming-laptops-a-feature-focused-approach/"><u>Mastering Gaming Laptops: A Feature-Focused Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-post-vlc-dominance-for-2024/"><u>Navigating the Landscape Post-VLC Dominance for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-market-eight-important-factors-to-look-at-when-shopping-for-a-tablet/"><u>Navigating the Market: Eight Important Factors to Look at When Shopping for a Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/picking-the-right-tablet-here-are-8-key-aspects-to-evaluate-first/"><u>Picking the Right Tablet? Here Are 8 Key Aspects to Evaluate First!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-picks-the-finest-8-games-for-your-google-play-subscription/"><u>Premium Picks: The Finest 8 Games for Your Google Play Subscription</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviving-zombies-a-comprehensive-review-of-7-days-to-die-and-its-single-sandbox-format/"><u>Reviving Zombies: A Comprehensive Review of '7 Days to Die' And Its Single-Sandbox Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-playtime-with-the-wonder-workshop-dash-a-comprehensive-product-overview/"><u>Revolutionizing Playtime with the Wonder Workshop Dash - A Comprehensive Product Overview</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-breakdown-of-huions-inspiroy-g10t-illustrator-board-top-notch-construction-and-artistic-precision/"><u>The Ultimate Breakdown of Huion's Inspiroy G10T Illustrator Board: Top-Notch Construction & Artistic Precision</u></a></li>
 </ul></div>
 

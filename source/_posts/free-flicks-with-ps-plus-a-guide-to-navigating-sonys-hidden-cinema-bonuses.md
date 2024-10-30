@@ -1,7 +1,7 @@
 ---
 title: Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses
-date: 2024-10-07T17:55:16.770Z
-updated: 2024-10-12T21:41:19.119Z
+date: 2024-10-28T22:31:16.659Z
+updated: 2024-10-29T18:00:42.329Z
 tags:
   - games
   - tv
@@ -29,6 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The catch, of course, is that the service exclusively includes films produced or distributed by Sony in some form. This catalog is still sizable and features the likes of _Spider-Man_ and both _Venom_ films, so it's worth a look if you're wondering what to watch tonight.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Find and Install Sony Pictures Core
 
  Accessing the Sony Pictures Core service is simply a matter of installing the service on your console. If you are on the PS5, you can press the R1 button on your controller while on the console's home screen to access the "Media" tab. This will show media apps like Netflix, Hulu and Amazon Prime.
@@ -40,26 +47,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The "TV and Video" section on the PS5's "Media" tab, showing off new movies and TV shows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131024.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scrolling down from here should eventually reveal the Sony Pictures Core App, which you can download for free.
 
 ![The icon for the Sony Pictures Core app on the "TV & Movies" tab on the PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131158-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "Media" tab on the PS5 is also where you will open the app once it is installed, as all streaming services appear there.
 
  On a PS4 you can launch the PlayStation Store app and search for "Sony Pictures Core" and then launch the app from the main interface.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Find Free Movies on Sony Pictures Core
 
@@ -68,13 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The PlayStation Plus section of Sony Pictures Core that offers free movies for Premium tier subscribers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130349.jpg) 
 
  Here, you will find a select library of movies of various genres that are available to stream immediately with no purchase required. Titles range from animated video game tie-ins to classic sci-fi and drama films, with over 100 total movies available as of the time of this writing.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Purchase or Rent Movies in Core Too
 
@@ -87,10 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The main screen on Sony Pictures Core when users select a film, with the options to rent or purchase it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229124327.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Zachary Cimaglio/How-To Geek
@@ -116,18 +116,15 @@ Zachary Cimaglio/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprerancial-free-imagery-tips-and-tricks/"><u>[New] Comprerancial Free Imagery Tips and Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-deciding-your-gopro-comparative-analysis-at-hand-for-2024/"><u>[New] Deciding Your GoPro Comparative Analysis at Hand for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-effortless-ios-screen-recording-techniques/"><u>[Updated] In 2024, Effortless iOS Screen Recording Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-prime-6-mobile-movie-collections/"><u>2024 Approved Prime 6 Mobile Movie Collections</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-troubleshooting-diagnosing-and-fixing-the-soundless-gameplay/"><u>Apex Legends Audio Troubleshooting: Diagnosing and Fixing the Soundless Gameplay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/leveraging-facebook-for-automatic-video-views/"><u>Leveraging Facebook for Automatic Video Views</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wi-fi-signal-boosters/"><u>Top Rated Wi-Fi Signal Boosters</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transforming-mobile-computing-the-ultimate-review-of-the-m1-chip-powered-ipad-pro/"><u>Transforming Mobile Computing: The Ultimate Review of the M1 Chip-Powered iPad Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-modern-readers-dream-a-detailed-review-of-the-amazon-kindle-paperwhite/"><u>Unboxing the Modern Reader’s Dream - A Detailed Review of the Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/user-experience-and-opinions-on-viber-out-calling-features/"><u>User Experience and Opinions on Viber Out Calling Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-rise-and-reality-of-magix-paintbox/"><u>2024 Approved The Rise and Reality of MAGIX Paintbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-old-directx-gaming-via-dxvk-powered-upgrades/"><u>Amplifying Old DirectX Gaming via DXVK-Powered Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-asus-dvd-driver-downloads-here/"><u>Get the Newest Asus DVD Driver Downloads Here!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-drivers-route-guides-automotive-edition/"><u>Next-Level Drivers' Route Guides: Automotive Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/now-played-then-made-the-new-console-era/"><u>Now Played, Then Made: The New Console Era</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ourlink-usb-wireless-adapter-model-u631-powerful-performance-in-a-compact-form-factor/"><u>Ourlink USB Wireless Adapter, Model U631: Powerful Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pruveeos-bargain-basement-fhd-dash-camera-comprehensive-performance-review/"><u>Pruveeo's Bargain Basement FHD Dash Camera: Comprehensive Performance Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/radiation-therapy-may-be-employed-for-pain-management-and-fracture-prevention-in-cases-of-significant-osteoblastic-growths/"><u>Radiation Therapy May Be Employed for Pain Management and Fracture Prevention in Cases of Significant Osteoblastic Growths</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-errors-in-terraria-proven-strategies-to-follow/"><u>Resolving Connection Errors in Terraria: Proven Strategies to Follow</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/untangling-the-web-of-a-sluggish-connection-expert-strategies-inside/"><u>Untangling the Web of a Sluggish Connection: Expert Strategies Inside</u></a></li>
 </ul></div>
 

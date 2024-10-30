@@ -1,7 +1,7 @@
 ---
 title: "Creating an Intimate Presentation Device From a Raspberry Pi: A Step-by-Step Guide"
-date: 2024-10-17T18:12:24.946Z
-updated: 2024-10-18T17:20:41.927Z
+date: 2024-10-28T19:03:12.933Z
+updated: 2024-10-30T03:46:01.431Z
 tags:
   - games
   - tv
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  If the practical reasons aren't enough, you'll also get the satisfaction of creating a personalized device that does exactly what you want it to do. Building a slideshow machine with a Raspberry Pi is a rewarding DIY project, and we'll show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Choosing the Right Tools
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  The most important part of this project is [choosing the right Raspberry Pi](https://extra-hints.techidaily.com/top-10-guidelines-for-breaking-through-cover-art/). For this project, the Raspberry Pi 4 Model B is a great choice, as it is a powerful device at an affordable price. However, if you can't get your hands on an RPi 4, a Raspberry Pi 3 Model B+ will work well for slideshows, though you'll lose some power and performance.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Some Sort of Display or Projector
 
  Next, you'll need something to display the photos on. Depending on your situation, you could go for a projector or a display. A [small 10-inch monitor](https://www.amazon.com/Monitor-Raspberry-Speakers-Display-Computer/dp/B0CR2YY37K/ref=sr%5F1%5F4?crid=ZH9VD71QTRD&dib=eyJ2IjoiMSJ9.OG2RHNsy3Fo5zvkK9nMW3pdAUDeDpGC9wilwEUmEHlRBJWJGUeEbu6rnu5twP7VnxAusRJ14lny7G7qx-dYTsYApxGVThaKFcsJW-S-MBP4H%5FxNaro5l7isc5mWiiGWD-NJhIXp5scdtfS%5FHpH5TQqT9DawyNnPOp3ePauF-yO5Zptdcebtc-IoqE2U6PE1ZOBbYaCA69quovnmiWxiP1dJg%5FSxz6OekxdvDtgBLROM.VTKtB6vO4vDX6HpNogfLSZIcPmKPz6dIvNB6gfWJGN0&dib%5Ftag=se&keywords=10%2Binch%2Bmonitor&qid=1717098172&sprefix=10%2Binch%2B%2Caps%2C97&sr=8-4&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003208&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-turned-a-raspberry-pi-into-a-private-slideshow-machine-heres-how%2F&asc%5Fcampaign=Evergreen) would be a great choice if you're trying to create your own digital photo frame. There are also plenty of [affordable projectors](https://www.amazon.com/Projector-Video-Projector-Multimedia-Compatible-Smartphone/dp/B07MTCMHZX/ref=sr%5F1%5F6?crid=3E28BOUMDSHP4&dib=eyJ2IjoiMSJ9.gyotn6s9zDatEztLHmbFN1HOX3zuiMlCrEbcYnAJTJUZK53qV9wlM%5FlnFprinkxrt9o4QoJ33sCvUDihngwOzN%5FksWGMLfSUFdB6QaRBM9c0qPG%5Fv1eZAdsSFUrxEzGMhuGZRrE9WGI6r1opgwfKBL4gDJVX8%5FLuueu-7aCxKU8J4atonAzCUmEIyjgw%5FGMLOIhLIjlx3F8GZqAwxTl7-6QOyULDH1W70fNGql4rcfg.2QzQDxeLafbtufVavgkcsVeaMOYH3EwBs8G2XYCI9TU&dib%5Ftag=se&keywords=projector&qid=1717098219&sprefix=projector%2Caps%2C104&sr=8-6&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003208&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-turned-a-raspberry-pi-into-a-private-slideshow-machine-heres-how%2F&asc%5Fcampaign=Evergreen) to choose from if you want to display photos for a party.
@@ -49,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 ###  Essential Software to Get Started
 
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Building Your Slideshow Machine
 
@@ -200,19 +206,19 @@ sudo sh ~/lightdm-changer.sh
 ![The RPi Slideshow session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-select-session.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the script restarts the login screen (LightDM), you'll be logged out. From here, select "Slideshow" from the session menu and log in. When you log in, your slideshow will commence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Customizing Your Slideshow
@@ -256,21 +262,22 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/"><u>[New] In 2024, A Comprehensive Guide to Implementing & Evaluating FB In-Stream Ads</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[New] Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-potential-ps4-recording-techniques-in-obs-for-2024/"><u>[Updated] Unlocking the Potential PS4 Recording Techniques in OBS for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-cutting-edge-technology-behind-the-ring-video-doorbell-pro/"><u>Analyzing the Cutting-Edge Technology Behind the Ring Video Doorbell Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-persona/"><u>Comprehensive Guide to Fixing Persona</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-endurance-in-jabras-tough-buds/"><u>Evaluating Endurance in Jabra's Tough Buds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-literary-bliss-with-the-2019-kindle-oasis-your-next-reading-companion/"><u>Experience Literary Bliss with the 2019 Kindle Oasis - Your Next Reading Companion</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-yokus-island-express-unexpected-grand-adventure-encounters/"><u>In-Depth Look at Yoku's 'Island Express': Unexpected Grand Adventure Encounters</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-exploring-the-arlo-digital-safety-network/"><u>Interactive Guide: Exploring the Arlo Digital Safety Network</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mending-common-faults-a-guide-to-fixing-6-gpt-issues/"><u>Mending Common Faults: A Guide to Fixing 6 GPT Issues</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revive-your-cars-battery-with-ease-using-the-formidable-beatit-bt-d11-review/"><u>Revive Your Car's Battery with Ease Using the Formidable Beatit BT-D11 Review</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a34-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-6-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 6 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-ace-3-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Ace 3 Phone Pattern Lock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tier-performance-an-in-depth-look-at-the-apc-gaming-uninterruptible-power-supply/"><u>Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-navigate-to-the-best-10-sites-for-vector-image-download/"><u>[New] In 2024, Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-entrepreneurship-building-a-recognizable-brand/"><u>[New] In 2024, YouTube Entrepreneurship Building a Recognizable Brand</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-leveraging-ai-for-dynamic-gaming-video-coverage/"><u>2024 Approved Leveraging AI for Dynamic Gaming Video Coverage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-strategic-overview-of-imperator-rome-successes-and-pitfalls-in-empire-expansion/"><u>A Strategic Overview of 'Imperator: Rome': Successes and Pitfalls in Empire Expansion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-advantages-and-disadvantages-of-using-webex-for-virtual-conferences/"><u>Analyzing the Advantages and Disadvantages of Using Webex for Virtual Conferences</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/are-all-features-in-youtube-tv-worth-your-subscription/"><u>Are All Features in YouTube TV Worth Your Subscription?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/barnes-and-nobles-nook-glowlight-3-the-perfect-e-reader-for-evening-bookworms/"><u>Barnes & Noble's Nook GlowLight 3 - The Perfect E-Reader for Evening Bookworms!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-signal-strength-with-the-durable-netgear-nighthawk-x6s-extender/"><u>Boost Your Signal Strength with the Durable Netgear Nighthawk X6S Extender</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-powerhouse-in-depth-analysis-of-the-audew-portable-air-compressor/"><u>Compact Powerhouse: In-Depth Analysis of the Audew Portable Air Compressor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-the-differences-ps5-slim-vs-standard-ps5-console/"><u>Comparing the Differences: PS5 Slim Vs. Standard PS5 Console</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-examination-of-eero-pro-wifi-routers-for-extensive-home-wireless-reach-and-quality-connection/"><u>Complete Examination of Eero Pro WiFi Routers for Extensive Home Wireless Reach and Quality Connection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-creme-de-la-creme-of-fluid-interactive-games/"><u>In 2024, The Crème De La Créme of Fluid Interactive Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-13-examined-a-thorough-review-of-specs-and-user-experience/"><u>IPhone 13 Examined: A Thorough Review of Specs and User Experience</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/securing-your-lenovo-laptop-on-windows-11-two-effective-strategies/"><u>Securing Your Lenovo Laptop on Windows 11: Two Effective Strategies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-a15-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy A15 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-archivo-mkv-a-formato-avi-gratuitamente-via-internet-con-movavi/"><u>Transforma Archivo MKV a Formato AVI Gratuitamente Vía Internet Con Movavi</u></a></li>
 </ul></div>
 
