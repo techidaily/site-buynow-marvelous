@@ -1,7 +1,7 @@
 ---
 title: Elite Ergonomic Keyboard Supports - Expert Picks for Optimal Wrist Health
-date: 2024-08-15T09:08:42.920Z
-updated: 2024-08-16T09:08:42.920Z
+date: 2024-11-03T04:30:30.267Z
+updated: 2024-11-05T01:04:01.161Z
 categories:
   - BestProducts
 description: This Article Describes Elite Ergonomic Keyboard Supports - Expert Picks for Optimal Wrist Health
@@ -39,9 +39,6 @@ Lifewire / Emily Isaacs
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Surface Ergonomic Keyboard
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/OTYRC4PtfZO9h5RTG8oHiroYrDg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
@@ -67,10 +64,6 @@ Lifewire / Emily Isaacs
 
  Microsoft is no stranger to computers and their accessories, and it’s obvious with the Microsoft Surface Keyboard that they’ve put a considerable amount of thought into its design. This[ergonomic keyboard](https://www.lifewire.com/best-ergonomic-keyboards-4147386) is not only built with high-quality materials to ensure its longevity, but it’s comfortable and intuitive to use. We tested this keyboard over the period of a week, read on to see what we found.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## **Design: Sleek and comfortable**
 
  The Surface is a sleek ergonomic keyboard and a welcome addition to the Microsoft family. Like many ergonomic keyboards, it’s designed to help your wrists sit at an instinctive, comfortable angle that encourages natural movement to prevent[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) . The keys have a slight divot in the center so fingers naturally conform to their shape, making the keys comfortable and easy to type on.
@@ -87,9 +80,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Unlike some ergonomic keyboards that can hog space, forcing users to overreach for mice which can lead to shoulder injuries in place of wrist injuries, the Surface is wide enough that your hands sit comfortably but small enough that it’s easy to reach for your mouse when you want it. It’s the Goldilocks of keyboards with a fit that feels just right.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: Easy for PCs**
 
  The Microsoft Surface Ergonomic Keyboard arrives in a mid-size box containing the Surface itself as well as a small white box tucked underneath it. This contains a product information pamphlet and quick start setup guide.
@@ -100,26 +90,47 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Features: Well-conceived function keys**
 
  The Surface has function keys for pausing multimedia, skipping forward or backward in multimedia, increasing or decreasing volume, muting volume, increasing brightness or decreasing brightness, and several others. It really feels like Microsoft thought of every way their users interact with keyboards and tried to meet their needs.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery Life: Excellent, but at the expense of backlighting**
 
  The keyboard[features Bluetooth 4.0 technology](https://www.lifewire.com/what-is-bluetooth-2377412) , so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices. It’s worth noting that it does use two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) . These offer a shelf life of up to 12 months, so you’re not likely to run out of power anytime soon. If you do need to change them, it’s easy to press the battery compartment lid down so that it pops out to replace them. One drawback to this design, however, is that the keyboard doesn’t feature backlighting. While this isn’t the end of the world by any means, it is something we definitely missed when using it.
 
  The keyboard features Bluetooth 4.0 technology, so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Expensive, but worth it for the quality**
 
  Retailing for $129 (MSRP) or around $99 on Amazon, the Surface is a pricey little keyboard. Between the quality of the build materials, the comfort of the keyboard’s design, its wireless capabilities, and its great battery life, the Surface is a worthwhile investment for people who spend a significant amount of time in front of a PC. If you don’t spend much time on your PC, however, a cheaper, non-ergonomic model may be a better fit.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## **Microsoft Surface Ergonomic Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
  The Microsoft Sculpt Ergonomic Keyboard is a direct competitor to the Surface. Interestingly, the Sculpt seems to have inspired a significant portion of the Surface’s design, with the Surface feeling like a fancier version of the Sculpt thanks to its quality materials and matte finish. This difference shows in their price points as well, with the Sculpt generally retailing for around $80 whereas the Surface retails for around $129 (MSRP) or $100 on Amazon.
@@ -145,8 +156,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The Microsoft Surface Ergonomic Keyboard is a quality, wireless ergonomic keyboard that’s well worth the investment if you spend a significant portion of your time typing on your computer. It’s a splurge to be sure, but it’s worth the price for the quality you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Surface Ergonomic Keyboard
@@ -169,8 +184,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +191,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-guide-finding-perfect-music-for-unpack-videos/"><u>[Updated] 2024 Approved Guide Finding Perfect Music For Unpack Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-disable-igtv-feature/"><u>[Updated] How to Disable IGTV Feature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-swiftly-fix-red-eyes-in-iphone-photography-at-no-cost/"><u>[Updated] Swiftly Fix Red Eyes in iPhone Photography at No Cost</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g14-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G14 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-elite-list-10-websites-with-superior-vectors/"><u>In 2024, The Elite List 10 Websites with Superior Vectors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-review-a-clunky-buggy-and-expensive-mess/"><u>Microsoft Surface Duo Review: A Clunky, Buggy, and Expensive Mess</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/primetrackings-small-gps-tracer-the-secret-weapon-to-protect-your-valuables-unbiased-reviews-and-in-depth-analysis/"><u>PrimeTracking's Small GPS Tracer: The Secret Weapon to Protect Your Valuables – Unbiased Reviews & In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reflecting-on-whether-id-benefit-most-from-new-watch-innovations/"><u>Reflecting on Whether I'd Benefit Most From New Watch Innovations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-perfect-marriage-of-aesthetics-and-functionality-in-fitbit-charge-4/"><u>Reviewing the Perfect Marriage of Aesthetics & Functionality in Fitbit Charge 4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/spotlight-on-whats-not-there-a-critical-review-of-samsung-galaxy-tab-a-2020s-key-omissions/"><u>Spotlight on What's Not There - A Critical Review of Samsung Galaxy Tab A (2020)'S Key Omissions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-gratis-techniken-zur-komprimierung-von-mkv-filmen-gelernt-fur-effizientere-speicherung/"><u>Top 4 Gratis Techniken Zur Komprimierung Von MKV-Filmen - Gelernt Für Effizientere Speicherung</u></a></li>
+</ul></div>
 

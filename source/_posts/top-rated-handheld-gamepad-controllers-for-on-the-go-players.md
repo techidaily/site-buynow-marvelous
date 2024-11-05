@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Handheld Gamepad Controllers for On-the-Go Players
-date: 2024-10-24T02:05:20.217Z
-updated: 2024-10-29T20:44:59.064Z
+date: 2024-10-31T18:01:18.793Z
+updated: 2024-11-05T03:27:43.343Z
 tags:
   - buying-guides
 categories:
@@ -58,6 +58,19 @@ Best Mobile Gaming Controller for Android
 
 ![GameSir G8 Galileo mobile controller being played by someone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/53377539428_9bf62b7e4a_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
 | Pros                                               | Cons                        |
@@ -74,14 +87,14 @@ Sergio Rodriguez / How-To Geek
 
 ![Coros Apex 2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/coros-apex-2-pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best Mobile Gaming Controller Overall
 
@@ -94,13 +107,6 @@ The GameSir G8 Galileo essentially took the best parts of a console controller a
 ##  Best Budget Mobile Gaming Controller: [8Bitdo Pro 2](https://www.amazon.com/dp/B0CSPH1JYV?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![8Bitdo Pro 2 wireless controller in hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52747881260_dc28f8fe69_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek Jordan Gloor / Review Geek Jordan Gloor / LifeSavvy
 
@@ -120,13 +126,6 @@ Jordan Gloor / How-To Geek Jordan Gloor / Review Geek Jordan Gloor / LifeSavvy
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best Budget Mobile Gaming Controller
 
 #####  8Bitdo Pro 2
@@ -135,16 +134,16 @@ Not only is the 8Bitdo Pro 2 a fantastic budget pick, it's also one of the best 
 
 [$50 at Amazon](https://www.amazon.com/dp/B0CSPH1JYV?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F8bitdo-pro-2-bluetooth-gamepad-gray%2F6475678.p%3FskuId%3D6475678) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Mobile Gaming Controller for iPhone: [Backbone One (2nd Gen)](https://www.amazon.com/BACKBONE-Mobile-Gaming-Controller-Android-iOS/dp/B0CCT2LWT8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -163,10 +162,10 @@ Jason Montoya / How-To Geek
 ![Backbone One PlayStation Edition for Android showing Backbone app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/ocase.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -211,20 +210,27 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 [$60 at Amazon](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Razer-Kishi-V2-Mobile-Gaming-Controller-iPhone-Console-Quality-Controls-Universal-Fit-Stream-PC-Xbox-PlayStation-Games-Customizable-Triggers-Ergonomi/407553024) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### What controllers work with my mobile device?
 
  For controllers, it's on a case-by-case basis. Some controllers, like the GameSir G8 Galileo, support both Android and iOS. Others, like the Razer Kishi V2, have separate models configured for both operating systems.
 
  What's important is that you read the fine print and double-check the controller supports your operating system and version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can I use a PS5 controller with my phone?
 
@@ -247,10 +253,10 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
  As with the PS5 controller, you can go for a direct connection too, using a USB cable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will phone controllers also work with tablets?
@@ -272,17 +278,24 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[Updated] Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-comedic-skills-in-ai-does-chatgpt-stand-up-against-its-peers/"><u>Assessing Comedic Skills in AI: Does ChatGPT Stand Up Against Its Peers?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/t-synthetic-followers-for-true-popularity-peak-for-2024/"><u>Defeat Synthetic Followers for True Popularity Peak for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-travelers-dream-the-amazing-versatility-of-the-amazon-basics-tablet-stand/"><u>Evaluating the Traveler's Dream: The Amazing Versatility of the Amazon Basics Tablet Stand</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-use-telegram-web-step-by-step-guide/"><u>In 2024, How To Use Telegram Web Step-By-Step Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-the-melody-of-text-vocal-styling-for-ppt/"><u>In 2024, Mastering the Melody of Text Vocal Styling for PPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sing-like-a-star-the-top-karaoke-devices-of-2024-revealed/"><u>Sing Like a Star: The Top Karaoke Devices of 2024 Revealed!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-truth-about-mobvoi-ticwatch-e2-a-low-price-doesnt-mean-quality/"><u>Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-enigma-of-reality-meets-fiction-8-intriguing-ways-artificial-intelligence-makes-it-happen/"><u>Unveiling the Enigma of Reality Meets Fiction: 8 Intriguing Ways Artificial Intelligence Makes It Happen</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-detailed-review-of-the-corsair-one-pro-gaming-desktop/"><u>Unveiling the Powerhouse - Detailed Review of the Corsair One Pro Gaming Desktop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-from-playback-to-perfection-expert-steam-video-guidance/"><u>[New] In 2024, From Playback to Perfection Expert Steam Video Guidance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-syncing-tunes-with-video-posts-on-facebook/"><u>[Updated] In 2024, Syncing Tunes with Video Posts on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-top-notch-gif-utilities-on-ios-devices/"><u>2024 Approved Exploring Top-Notch GIF Utilities on iOS Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-personalize-with-free-youtube-profile-designs/"><u>2024 Approved Personalize With FREE YouTube Profile Designs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>2024 Approved Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-fun-with-amazing-karaoke-usa-deals-sing-your-heart-out-for-just-150-bucks-or-less/"><u>Budget-Friendly Fun with Amazing Karaoke USA Deals - Sing Your Heart Out For Just 150 Bucks or Less!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-ipad-pro-and-macbook-pro-unveiling-key-distinctions/"><u>Comparing iPad Pro & MacBook Pro: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-amazon-halo-cutting-edge-insight-into-your-health-and-lifestyle/"><u>Discover the Amazon Halo: Cutting-Edge Insight Into Your Health and Lifestyle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-ultimate-portability-with-msi-pro-mp161-e2-your-compact-display-solution/"><u>Experience the Ultimate Portability with MSI Pro MP161 E2 - Your Compact Display Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/fortify-against-vr-motion-sickness/"><u>Fortify Against VR Motion Sickness</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x9a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>In 2024, USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/making-a-big-impact-in-a-small-package-the-ultimate-iphone-12-mini-review/"><u>Making a Big Impact in a Small Package: The Ultimate iPhone 12 Mini Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-showdown-a-detailed-comparison-of-the-switch-lite-and-switch-oled-models/"><u>Nintendo Showdown: A Detailed Comparison of the Switch Lite and Switch OLED Models</u></a></li>
+<li><a href="https://app-tips.techidaily.com/switch-from-lastpass-to-icloud-passwords-on-windows-a-step-by-step-guide-zdnet/"><u>Switch From LastPass to iCloud Passwords on Windows - A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-titans-clash-a-side-by-side-analysis-of-the-new-ipad-air-4-and-galaxy-tab-s7plus-for-tech-enthusiasts/"><u>Tablet Titans Clash: A Side-by-Side Analysis of the New iPad Air 4 and Galaxy Tab S7+ for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-compilation-of-leading-edge-cable-modem-and-wifi-router-sets/"><u>The Ultimate Compilation of Leading-Edge Cable Modem & WiFi Router Sets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2e24/"><u>Top-Rated Rechargeable Battery Charger Units in 2E24</u></a></li>
 </ul></div>
 

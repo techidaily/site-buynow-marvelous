@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-10-24T23:32:42.936Z
-updated: 2024-10-30T06:44:58.777Z
+date: 2024-10-29T00:44:54.417Z
+updated: 2024-11-05T04:02:39.482Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -42,6 +42,13 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / James Huenink
 
 [View On Amazon](https://www.amazon.com/dp/B00OB883F6/?tag=lifewire-onsite-prod-20&ascsubtag=4784227%7Cnb8fa7df8bea04ca4a06f94beab613f8802%7CB00OB883F6)
@@ -65,20 +72,20 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
 
- Lifewire / James Huenink
-
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / James Huenink
 
 ## **Design: Flimsy and difficult to use**
 
@@ -87,13 +94,6 @@ Lifewire / James Huenink
  The base looks like a binder clip with a hinge on the back end. The front of the camera houses the focus ring, which twists to focus in or out but doesn’t turn very smoothly. When we used it for the first time, it didn’t feel like it was supposed to rotate at all. Just like everything else, the focus ring feels like it will crack or fall out at any moment. One side of the clip has a squishy pad to keep the camera from slipping when it’s mounted on a smooth surface. The two are connected by a ball joint, which allows the camera to spin around 360 degrees and tilt approximately 15 degrees forward or backward or side to side.
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
@@ -116,10 +116,10 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Underwhelming performance in video and audio**
@@ -153,10 +153,10 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -191,19 +191,17 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-capturing-tiktok-videos-saving-on-modern-smartphones/"><u>[New] 2024 Approved Capturing TikTok Videos Saving on Modern Smartphones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-farming-game-to-immortal-status-with-these-7-14-mods-for-2024/"><u>[New] Elevate Your Farming Game to Immortal Status with These #7-14 Mods for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cost-free-chromebook-video-capturing-leaders/"><u>[New] In 2024, Cost-Free Chromebook Video Capturing Leaders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-masterful-moments-made-simple-the-snapchat-lens-guide/"><u>2024 Approved Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazonbasics-cost-effective-solution-for-document-security-a-detailed-review-of-their-6-sheet-cross-cut-shredder/"><u>AmazonBasics' Cost-Effective Solution for Document Security: A Detailed Review of Their 6 Sheet Cross Cut Shredder</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/building-a-youtubing-brand-from-scratch-with-these-8-courses-for-2024/"><u>Building a YouTubing Brand From Scratch with These 8 Courses for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-linksys-ac1900-mesh-wifi-system-your-perfect-home-network-solution/"><u>Comprehensive Guide to the Linksys AC1900 Mesh WiFi System - Your Perfect Home Network Solution</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/copyright-free-gaming-scores-the-10-leading-sources/"><u>Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fresh-start-how-to-refresh-device-drivers-on-windows-10-without-hitches/"><u>Fresh Start: How to Refresh Device Drivers on Windows 10 Without Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-rocket-league-from-crashing-on-your-device-updated-guide/"><u>How to Prevent Rocket League From Crashing on Your Device (Updated Guide )</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-how-does-the-lenovo-thinkpad-x1-nano-stand-up-as-a-featherweight-laptop/"><u>In-Depth Analysis: How Does the Lenovo ThinkPad X1 Nano Stand Up as a Featherweight Laptop?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/snapseed-essentials-conquering-image-enhancement-for-2024/"><u>Snapseed Essentials Conquering Image Enhancement for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleash-immersive-gaming-and-music-experiences-with-top-pc-sound-cards/"><u>Unleash Immersive Gaming & Music Experiences with Top PC Sound Cards</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/zmi-powerpack-20000-unveiled-a-comprehensive-review-of-this-mighty-portable-charger/"><u>ZMI PowerPack 20000 Unveiled: A Comprehensive Review of This Mighty Portable Charger</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-zero-downloads-the-ultimate-list-of-seamless-gif-to-video-tools/"><u>[New] Zero Downloads The Ultimate List of Seamless GIF to Video Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-igtv-to-fb-exposure-guide-5-top-methods/"><u>[Updated] In 2024, IGTV to FB Exposure Guide (5 Top Methods)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-excellence-in-depth-look-at-the-nokia-71s-screen-and-camera-features/"><u>Budget-Friendly Excellence: In-Depth Look at the Nokia 7.1'S Screen and Camera Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-sea-techs-portable-usb-blu-ray-recorder-a-look-at-its-erratic-effectiveness/"><u>Comprehensive Analysis of Sea Tech's Portable USB Blu-Ray Recorder - A Look at Its Erratic Effectiveness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-tp-link-ac1200-wifi-booster-re305-evaluation-a-users-guide/"><u>Comprehensive TP-Link AC1200 WiFi Booster Re305 Evaluation - A User's Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cp24-criacry-bluetooth-fm-transmitter-evaluation-space-saving-yet-imperfect/"><u>CP24 CriaCry Bluetooth FM Transmitter Evaluation: Space-Saving Yet Imperfect</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-magic-v2-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor Magic V2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y55s-5g-2023-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y55s 5G (2023) Through Google Earth?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-14-5-ways-to-get-into-a-locked-apple-iphone-14-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 14? 5 Ways to get into a Locked Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mejora-de-la-experiencia-del-correo-electronico-con-bandeja-de-entrada-de-hotmail/"><u>Mejora De La Experiencia Del Correo Electrónico Con Bandeja De Entrada De Hotmail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rewind-on-the-fly-ios-video-flip/"><u>Rewind on the Fly IOS Video Flip</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-breakdown-audifree-audit-tool-performance-for-2024/"><u>The Complete Breakdown AudiFree Audit Tool Performance for 2024</u></a></li>
 </ul></div>
 

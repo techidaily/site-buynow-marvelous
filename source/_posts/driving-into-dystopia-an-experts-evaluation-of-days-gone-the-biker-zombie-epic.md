@@ -1,7 +1,7 @@
 ---
 title: "Driving Into Dystopia: An Expert's Evaluation of 'Days Gone' - The Biker-Zombie Epic"
-date: 2024-08-15T09:08:51.508Z
-updated: 2024-08-16T09:08:51.508Z
+date: 2024-11-01T20:09:21.648Z
+updated: 2024-11-04T19:02:14.871Z
 categories:
   - BestProducts
 description: "This Article Describes Driving Into Dystopia: An Expert's Evaluation of 'Days Gone' - The Biker-Zombie Epic"
@@ -40,6 +40,13 @@ Lifewire / Kelsey Simon
 
 ![Days Gone](https://www.lifewire.com/thmb/OhLBxtaDQ5jb89rJmIMnan1soS4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Days-Gone-Zombie-Game-PS4-1-ecafdc83e8e0460cbc31b8b0e4976faa.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B01GW8XRCG/?tag=lifewire-onsite-prod-20&ascsubtag=4778364%7Cnab23bfa6ad6a414d9db9cc2812411ddf11%7CB01GW8XRCG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/days-gone/10131616.html)
@@ -65,20 +72,21 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: A long installation process**
 
  If you purchased the game on disc, when you first pop it into your PlayStation 4 you’ll have to update. The update is fairly large, so be prepared to wait. The game finally launches, you'll be prompted to select between easy, normal, or hard difficulty, and then treated to a scene-setting introductory cutscene.
 
 ![Days Gone](https://www.lifewire.com/thmb/HE8j4XoxbKMWIQagUtGCXFf6bKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-2-3b29272bf1b2423781e104041dc00457.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Plot: A man who lost his wife**
 
  The first cutscene you’re shown involves three characters: the protagonist Deacon, his loyal friend Boozer, and Sarah, Deacon’s wife. Sarah has been stabbed, and with chaos breaking out as a deadly virus spreads through the city, the trio is desperate to find help. When a helicopter lands nearby, they load Sarah onboard, but there's only room for two passengers. When Boozer refuses to board, Deacon stays behind to make sure he gets out of the city alive. You don’t actually see any zombies in this beginning sequence, or even much of the world. It's about establishing the relationships between these people and the desperate circumstances unfolding around them.
@@ -92,9 +100,6 @@ As in most zombie fiction, the real monster is man.
  You'll have issues with a cult group called Rippers, and bandits who survive by preying on anyone who's not well armed or capable enough to defend what's theirs. Unfortunately, Boozer gets badly hurt in one of these encounters, and while you’re trying to find him the help he needs, you get a lead that perhaps Sarah, who you assumed was dead, is still alive. The rest of the game involves exploring this open-world, helping the people you meet, and trying to find Sarah, all while keeping your friend Boozer alive.
 
 ![Days Gone](https://www.lifewire.com/thmb/XWR-CgFF865KBE1ipv7cwdi-P3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-5-b1914ac9859b409d9460fea24fc7f251.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -111,17 +116,23 @@ As in most zombie fiction, the real monster is man.
  Unfortunately, Days Gone overcomplicates a huge number of its systems and interactions. It feels like there’s a button you have to press, hold, or mash for every interaction. Then there's the crafting system, which is overly complicated and unintuitive. A little streamlining on the design side would've dramatically improved the quality of the entire game.
 
 ![Days Gone](https://www.lifewire.com/thmb/9B_OIRiqlP1YbsMLjs-zzDc3WAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-3-cc2a2d9c613d4330b5d4d38408d6eae3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Graphics: Smooth and detailed**
 
  The graphics, on the other hand, are remarkable. The details of the characters feel real, especially with Deacon. His tattoos, attire, even the rings on his fingers are well rendered. The scenery also looks great—cracks in the roads are filled with grass and wildflowers, and pine trees have individual needles rather than compressed, low-res clumps of green.
@@ -135,15 +146,16 @@ The powerful video editing program for your Windows PC</a>
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Still expensive as a newer release**
 
  On the official PlayStation Store, the game goes for $40, but you can regularly find it on sale on Amazon or other online retailers (as of this writing, it's down to $20). At a discount, Days Gone is an easy purchase, a big, entertaining, open-world zombie romp that rarely if ever stagnates until the credits roll.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Days Gone vs. The Last of Us Remastered**
 
  There are a fair amount of other zombie survival games out there. On the PlayStation 4, another popular title is The Last of Us Remastered. The Last of Us doesn't have the expansive open world that Days Gone does, but the crafting system is far better, and the plot is stronger.
@@ -160,14 +172,11 @@ The powerful video editing program for your Windows PC</a>
 * Price  $40.00
 * Available Platforms  Playstation 4
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +185,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-15-top-rated-screen-capture-tools-to-support-education-for-2024/"><u>[New] 15 Top-Rated Screen Capture Tools to Support Education for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prime-tools-elevating-digital-collaboration/"><u>[New] In 2024, Prime Tools Elevating Digital Collaboration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-leveraging-connected-networks-fb-to-whatsapp-video-sharing-strategies-for-2024/"><u>[New] Leveraging Connected Networks FB to WhatsApp Video Sharing Strategies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-opengl-glitches-in-minecraft-comprehensive-tips-for-gamers/"><u>Eliminating OpenGL Glitches in Minecraft - Comprehensive Tips for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-a18-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from A18?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 14</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-review-of-the-latest-innovations-from-apples-iphone-16-launch-from-artificial-intelligence-to-the-tenth-generation-apple-watch-and-beyond/"><u>In-Depth Review of the Latest Innovations From Apple's iPhone 16 Launch: From Artificial Intelligence to the Tenth Generation Apple Watch and Beyond</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insightful-review-discovering-the-intelligent-design-within-tcl-roku-s325-32-inch-led-tv/"><u>Insightful Review: Discovering the Intelligent Design Within TCL Roku S325 32-Inch LED TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-monterey-worth-installing-your-guide/"><u>Is Monterey Worth Installing? Your Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-youtubes-premium-service-worth-your-money/"><u>Is YouTube's Premium Service Worth Your Money?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llm-specialists-near-you-weighing-pros-and-cons-for-your-legal-needs/"><u>LL.M. Specialists Near You: Weighing Pros and Cons for Your Legal Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meet-the-new-wave-of-audio-introducing-flexus-200/"><u>Meet the New Wave of Audio: Introducing Flexus 200</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/offer-excellent-customer-service/"><u>Offer Excellent Customer Service</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-hearing-aids-m06-wireless-review/"><u>Revolutionary Hearing Aids: M06 Wireless Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-virtual-sky-with-x-plane-11-a-comprehensive-look-at-its-next-gen-graphics-and-features/"><u>Revolutionize Your Virtual Sky with X-Plane 11 - A Comprehensive Look at Its Next-Gen Graphics & Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-cf591-a-detailed-review-on-its-capabilities-as-a-gaming-screen/"><u>Samsung CF591 - A Detailed Review on Its Capabilities as a Gaming Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-big-on-oneplus-premier-bargains-of-the-prime-day-extravaganza/"><u>Save Big on OnePlus - Premier Bargains of the Prime Day Extravaganza</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206764675-troubleshooting-skype-microphone-malfunctions-successful-fixes-and-tips/"><u>Troubleshooting Skype Microphone Malfunctions – Successful Fixes and Tips</u></a></li>
+</ul></div>
 

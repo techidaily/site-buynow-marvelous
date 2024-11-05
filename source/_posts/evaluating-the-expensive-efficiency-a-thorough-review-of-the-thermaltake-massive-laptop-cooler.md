@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Expensive Efficiency: A Thorough Review of the Thermaltake Massive Laptop Cooler"
-date: 2024-08-15T09:07:50.174Z
-updated: 2024-08-16T09:07:50.174Z
+date: 2024-11-01T18:04:39.541Z
+updated: 2024-11-04T19:27:05.399Z
 categories:
   - BestProducts
 description: "This Article Describes Evaluating the Expensive Efficiency: A Thorough Review of the Thermaltake Massive Laptop Cooler"
@@ -43,6 +43,13 @@ Lifewire / Andy Zahn
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/ymdujoeG8lwdw1L7OD6l0EFi1ug=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
 [View On Amazon](https://www.amazon.com/Star-Wars-Squadrons-Online-Game/dp/B08B8BZFCC/?tag=lifewire-onsite-prod-20&ascsubtag=5086656%7Cn7a4d5af5c6f040bfb3038a22bcfdeda919%7CB08B8BZFCC) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fstar-wars-squadrons-windows-digital%2F6415793.p%3FskuId%3D6415793)
@@ -67,8 +74,12 @@ Lifewire / Andy Zahn
  Chances are, whether you grew up with Star Wars or discovered the franchise later in life, you’ve considered just how awesome it would be to swing a lightsaber or pilot your very own X-Wing fighter. Star Wars: Squadrons grants you the second of these fantasies to a never before seen degree. This long-overdue follow up to the 1993 classic Star Wars: X-Wing aims to offer the same intense dogfighting, but with the advantages of modern tech. I reviewed the PC version.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Some tinkering required**
 
  Star Wars: Squadrons has a fairly hefty download before it's playable, so be sure your hard drive has at least 26.4 GB of storage space. When the game boots up you can alter basic settings to set language, volume, display settings, and everything else needed to optimize your experience. I struggled a bit to get it to play well with my dual-screen setup, but eventually, I was able to get it to a playable state on my ultra-widescreen Samsung CHG90 display. In the end, I found it more comfortable to play on a standard 16:9 aspect ratio monitor.
@@ -77,9 +88,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Story: Passable, but skip the exposition dumps**
 
  The game picks up after the destruction of Alderaan in A New Hope. You get to play both sides of the conflict in alternating story missions as both an Imperial pilot and a Rebel pilot. Both characters are customizable with a range of preset options. I always appreciate it when a game gives me the option to create my own character.
@@ -95,9 +103,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
  The story is passable, if not terribly deep or ambitious, and is basically there to connect the battle sequences and give context to the fight. Voice acting varies from mediocre to passable, and there’s clearly some effort put into establishing likeable characters. However, though the character models are good, there’s definitely a bit of the uncanny valley on display here, and it’s particularly noticeable in the first-person conversations where you stare dumbly on as an NPC spouts exposition at you.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/_MN0adYtaTCJ1Qhmsivk-M-DkXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-3-31074635684244d48b1d792540a477e2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -123,17 +128,11 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  There’s also ship customization, which allows you to alter various aspects of your aircraft such as armament, hull, and engines to enhance various attributes, though this usually comes at a cost to other capabilities. For example, you can trade speed for extra agility and vice versa. It requires a deep understanding of the ship you’re customizing so you’ll probably want to wait to touch this till you’ve had plenty of practice in battle. There are also cosmetic customizations, such as paint jobs and ornaments. Both gameplay and cosmetic customizations are purchased with separate types of in-game currency.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Attention to detail**
 
  Star Wars: Squadrons is drop-dead gorgeous. Ships are lovingly rendered and great detail was paid to getting the lighting, environments, and effects just right. The cockpits of the different ships you pilot are fully realized and mesmerizing in their realism. It’s easy to get sucked into ogling a grand alien vista or just reveling in the experience of being in the cockpit of an honest to goodness X-Wing. Explosions, lasers, enemy ships tearing apart in fiery gouts of flame, and the realistic damage to your own ship, provoke many tense situations that hit home and are bound to get your heart racing.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/a-_aXPmbq5vlMG21Sutf0cIe4BI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-7-dc3679df974e4da793c52f2fb2831eac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -144,8 +143,12 @@ Star Wars: Squadrons is drop-dead gorgeous.
  With the vast majority of video games, your experience is almost as dependent on what you hear as what you see. In this regard, Squadrons is a masterpiece. This game perfectly replicates the epic feel of classic Star Wars space combat from the laser fire, to the roar of your engines, to the exhilarating whoosh of grazing an asteroid. There’s also the unforgettable John Williams soundtrack, which is fully present here and is just as vital to the experience of the game as it is to the films.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Solid on moderately powerful PCs**
 
  I was able to get consistently high frame rates during gameplay with my custom gaming PC running 32 GB of DDR4 RAM, an AMD Ryzen 7 2700X processor, and an Nvidia RTX 2070 GPU. However, I experienced some odd stuttering in the hanger between missions, which seemed more of a graphical bug than an issue with the power of my PC. I also played Squadrons on a laptop with a less powerful processor, 16GB of RAM, and a Nvidia RTX 2060 Max-Q. The game performed well and provided a smooth gameplay experience at maximum graphical settings.
@@ -157,8 +160,12 @@ Star Wars: Squadrons is drop-dead gorgeous.
  Squadrons offers customizable support for a wide range of different control schemes, from gamepads to HOTAS flight sticks to mouse and keyboard. I had to fiddle with a few settings to get my stick and thrust control up and running, but when I did, it added an extra layer of immersion to the experience. However, mouse and keyboard is clearly the optimal and intended control method for Squadrons.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Multiplayer: Challenging dogfights**
 
  Squadrons features a basic but robust multiplayer mode, the bread and butter of which are team-based dogfights. These are exciting and challenging matches that truly test your skill at the game, and thanks to a decent selection of varied maps it really doesn’t get old.
@@ -169,16 +176,17 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  The other mode features massive large scale multi-stage fleet battles, which require careful team coordination to advance across the battlefield and destroy the enemies’ flagship. It’s a good idea to save this for after you’ve played through most of the campaign, learned the controls, and have tried your hand at a few multiplayer dogfights.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Good value**
 
  With an MSRP of just $40 Star Wars: Squadrons is a surprisingly reasonably priced game that bucks the trend of modern AAA games uniformly releasing for $60 regardless of what content they are able to offer. It’s not the longest game, and there is a limit to end-game multiplayer content, so $40 is pretty much the exact right price for Squadrons. It’s refreshing to see a distinct lack of any extra monetization in the game, with no annoying microtransactions or loot boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Star Wars: Squadrons vs. Elite Dangerous**
 
  If you’re looking for a deeper, more daunting, complex space sim, Elite Dangerous is the next step. Squadrons is far more exciting, being laser-focused on intense aerial combat. Elite Dangerous is a more methodical game, with a focus on exploration and trading, though there’s also exciting combat there if you want it.
@@ -188,6 +196,13 @@ Star Wars: Squadrons is drop-dead gorgeous.
  An exhilarating space combat experience that is particularly well suited to VR.
 
  Star Wars: Squadrons is a fine successor to classic space combat games, and is an undeniably exciting and realistic experience. It’s best if played with a VR headset, but is worth your time and money on a traditional screen as well. The memory of my first flight at the helm of a TIE Fighter in this game has stuck with me with surprising clarity in a way that few moments in video games do, and it’s something you really have to experience for yourself to understand.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -203,8 +218,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +225,18 @@ Star Wars: Squadrons is drop-dead gorgeous.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-zero-to-hero-how-to-generate-fb-trends-for-2024/"><u>[New] From Zero to Hero How to Generate Fb Trends for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-best-sound-gear-matching-mics-with-4k-cameras/"><u>[Updated] In 2024, The Best Sound Gear Matching Mics with 4K Cameras</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-color-correction-with-gopro-studio/"><u>In 2024, Innovative Approaches to Color Correction with GoPro Studio</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-ideapad-notebook-assessment-robust-design-and-usability-tested/"><u>In-Depth Lenovo IdeaPad Notebook Assessment - Robust Design and Usability Tested</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-monterey-revolutionizing-my-mac-experience/"><u>Is Monterey Revolutionizing My Mac Experience?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-extension-pad-picks-your-comprehensive-selection-for-2n24/"><u>Leading Extension Pad Picks: Your Comprehensive Selection for 2N24</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209855553-9781938015465-leap-of-faith/"><u>Leap of Faith | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mars-metropolis-mayhem-crash-landing-builders-create-whirlwind-spectacle/"><u>Mars Metropolis Mayhem: Crash-Landing Builders Create Whirlwind Spectacle</u></a></li>
+<li><a href="https://win-net.techidaily.com/wiederholung-verlorener-daten-eine-schritt-fur-schritt-anleitung-zur-wiederherstellung-nicht-erkennbarer-datentrager/"><u>Wiederholung Verlorener Daten: Eine Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Nicht Erkennbarer Datenträger</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Nest Audio Review
-date: 2024-08-15T09:04:08.767Z
-updated: 2024-08-16T09:04:08.767Z
+date: 2024-10-31T23:33:12.629Z
+updated: 2024-11-05T01:49:10.839Z
 categories:
   - BestProducts
 description: This Article Describes Nest Audio Review
@@ -39,9 +39,6 @@ Lifewire / Gannon Burgett
 
 ## Anker PowerCore+ 26800 Battery Pack
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Anker](https://www.lifewire.com/thmb/B8fIpC1_9JQjWCu_QhJoNePOP2Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_HEROWebSQUARE-5c90fd70c9e77c0001eb1cc6.jpg)
 
 Lifewire / Gannon Burgett
@@ -67,15 +64,16 @@ Lifewire / Gannon Burgett
  Anker has made a name for itself as one of the most reliable gadgets and accessories manufacturers in the game. Despite their reasonable prices, the quality continues to impress and its Anker PowerCore+ 26800 PD with 30W Power Delivery Charger is no exception. We've spent some time with this laptop battery charger and put it to the test to see just how well Anker's compact battery pack holds up against a variety of gadgets.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Plush and light for travelers**
 
  If you've owned any Anker products, you'll immediately recognize the PowerCore+ 26800\. It features a minimal rectangular design made of extruded aluminum with rounded edges for a very smooth look and feel. It weighs roughly 1.3 pounds, which gives it a premium feel without feeling too heavy.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Anker](https://www.lifewire.com/thmb/brfc42RYlVrJLOHjyc0IbNzEQ0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_5Web-5c90fc18c9e77c0001ac191d.jpg)
 
  Lifewire / Gannon Burgett
@@ -88,6 +86,13 @@ Lifewire / Gannon Burgett
 
 ![Anker](https://www.lifewire.com/thmb/Ps-fDFicjMGSS8OppN-xw5yn_mg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_1-Web-5c90fc3dc9e77c0001eb1cc5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
  Our device came approximately 50% charged based on the battery life indicator lights on the top. We immediately burned through what battery life it had so we could start fresh with testing to see how quickly the 30W wall charger could fill the 26800mAh capacity.
@@ -95,8 +100,12 @@ Lifewire / Gannon Burgett
  It's a no-frills design that looks great when paired with any clean, modern device if you care about form as much as function.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
  From zero percent battery life, the PowerCore+ 26800 charged to 100% in four hours flat, both in our initial test and our eight additional battery cycles, with only ten or fifteen-minute variances. This time lines up perfectly with Anker's given timeframe, which states it will charge in four hours when using the included 30W[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) wall charger and USB Type-C cable.
@@ -107,25 +116,23 @@ Lifewire / Gannon Burgett
 
  For the smartphones, we made sure the PowerCore+ 26800 was charged up entirely and ran both the iPhone XS and Samsung Galaxy S8 Active through complete battery cycles until the battery pack was out of juice. The iPhone XS was charged six and a half times with an average time of an hour and a half using the PowerIQ USB port with a Lightning cable. The Samsung Galaxy S8 Active, on the other hand, managed seven and a half charges with an average charge time of an hour and fifteen minutes using the included USB Type-C to USB Type-C cable.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Anker](https://www.lifewire.com/thmb/tJwshohQXfV-U0_iKVTCkHEhFLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_6Web-5c90fcc6c9e77c0001a92733.jpg)
 
  Lifewire / Gannon Burgett
 
  We tested the PowerCore+ 26800 on our 2016 MacBook Pro 15-inch four different times to get a solid average. With the laptop completely dead, the battery pack managed to charge it to 100% in just three and a half hours with a little battery life to spare.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Perfectly priced for its power**
 
  The Anker PowerCore+ 26800 retails for $129.99\. That alone is a deal in terms of power output, but add in the 30W USB wall charger and the two cables and it's an absolute steal. The USB wall charger alone goes for $25.99 and the cables easily add up to $10 together, meaning you're effectively paying $100 for the charger.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Anker PowerCore+ 26800 vs. RAVPower 26800**
 
  Anker PowerCore+ 26800 has an almost identical competitor, the RAVPower 26800\. The two battery packs feature the exact same capacity and both are capable of outputting 30W charging via their respective USB Type-C ports.
@@ -161,14 +168,11 @@ Lifewire / Gannon Burgett
 * Warranty  18 months
 * Compatibility  Android, iOS
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +181,18 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-shootout-max-360-vs-hero-11-performance-analysis/"><u>[New] GoPro Shootout Max 360 vs Hero 11 Performance Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-effortless-metaverse-creation-a-comprehensive-avatar-guide/"><u>2024 Approved Effortless Metaverse Creation A Comprehensive Avatar Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/avatar-makeover-building-your-cartoon-personality-for-2024/"><u>Avatar Makeover Building Your Cartoon Personality for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-chromecast-unveiled-a-comprehensive-review-and-alternatives-compared/"><u>Google TV Chromecast Unveiled: A Comprehensive Review & Alternatives Compared</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-on-chromecast-a-new-contender-against-amazons-firetv-exclusive-review/"><u>Google TV on Chromecast: A New Contender Against Amazon's FireTV - Exclusive Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-130-music-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia 130 Music by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-bargains-spectacular-deals-on-benq-tech-during-prime-sales-event/"><u>Hunt for Bargains: Spectacular Deals on BenQ Tech During Prime Sales Event</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersing-in-the-gloom-a-comprehensive-review-of-bloodbornes-haunting-world/"><u>Immersing in the Gloom: A Comprehensive Review of Bloodborne's Haunting World</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/important-aspects-to-think-about-before-buying-an-independent-smartphone/"><u>Important Aspects to Think About Before Buying an Independent Smartphone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
+</ul></div>
 

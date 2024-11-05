@@ -1,7 +1,7 @@
 ---
 title: Is the Motorola Edge+ Truly a Mid-Range Marvel or Just Falling Below High-End Hopes?
-date: 2024-08-15T09:08:14.520Z
-updated: 2024-08-16T09:08:14.520Z
+date: 2024-10-29T22:07:21.443Z
+updated: 2024-11-05T01:15:22.018Z
 categories:
   - BestProducts
 description: This Article Describes Is the Motorola Edge+ Truly a Mid-Range Marvel or Just Falling Below High-End Hopes?
@@ -37,12 +37,16 @@ Lifewire / Gannon Burgett
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Alienware Aurora R7
 
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/emzd7Km2ZWo2iwJHim7f3cQirPc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_2LW4045927-1-7ee01493034d4631894328a424e3ac52.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -73,8 +77,12 @@ Lifewire / Gannon Burgett
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: No need to whip out your toolbox**
 
  Taking inspiration from other computers in Dell’s lineup, most notably the Area 51 PC, the Aurora R7 features a black and gunmetal exterior with plenty of ventilation on the top, sides, and bottom of the case. There’s also an array of customizable RGB lights on the side that can be changed to whatever colors suit your style.
@@ -89,11 +97,22 @@ Lifewire / Gannon Burgett
 
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/D2eCHDgSj6P_M0PYbrxB8UEnWw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4045927-6-5c5c421e3ce842339e931c622f5ee7fc-037237f24b934550859cfea611274f64.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Complex settings, simplified**
 
  Setting up the Alienware Aurora R7 was fairly straightforward. In the box was the tower, a mouse, a keyboard, and the power cable. After connecting the Aurora R7 to power, plugging in the mouse and keyboard, and attaching a monitor, it was just a matter of going through Window 10’s setup process to get the ball rolling.
@@ -113,15 +132,16 @@ Lifewire / Gannon Burgett
  Overall, the Aurora R7 tested on-par or ahead of other PCs with similar specs. As is to be expected, it excelled in the graphics department, but it certainly didn’t struggle with multitasking and everyday tasks.
 
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/tHYfoI6_7SBEzzlShmeBOabqaNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4045927-5-05e1d507405c4e0288fa00242bf06396.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network: Powerful, consistent connections**
 
  The Alienware Aurora R7 has both wired and wireless connectivity for internet access. On the rear of the PC is a Gigabit Ethernet (RJ-45) port for a hardwired internet connection. On the wireless front, the Aurora R7 uses two external 5GHz amplifiers for strong uplink and downlink speeds. These are boosted by Alienware’s Killer Wireless, an internal lag and latency reduction technology to improve long-distance range and intelligently prioritize the most important traffic.
@@ -132,9 +152,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## **Software: Baked in goodies to simplify a few pain points of gaming**
 
  As is to be expected for a gaming PC, the Alienware Aurora R7 runs on Windows 10 64-bit. It’s a typical install in every sense of the word, but it does come with a few extra bits of software specifically designed for Alienware, including Alienware Command Center, AlienFusion, and OC Controls.
@@ -148,8 +165,12 @@ Lifewire / Gannon Burgett
  OC Controls is a dedicated program for controlling overclocking levels of the memory and CPU. The program not only makes it easy to control the overclocking settings, but also helps you keep an eye on temperatures while you game.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Pricey compared to DIY, but otherwise a solid value**
 
  The Alienware Aurora R7 with the aforementioned specifications retails for $1,699 (MSRP). Compared to other pre-built computers, it’s a bit high as we’ll see below. It’s also a good bit more expensive than other DIY gaming builds. Convenience isn’t cheap and the Aurora R7 is no exception.
@@ -160,9 +181,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Convenience rules above all else**
 
  Judging competitors of the Alienware Aurora R7 can get incredibly tricky considering all the different configurations available, not to mention the option of building your own computer. That said, one pre-built gaming PC stands out alongside the Aurora R7 in terms of specs and value—the MSI Infinite X.
@@ -205,8 +223,6 @@ Lifewire / Gannon Burgett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +230,21 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-authority-in-education-10-tips-for-youtube-channel-creation/"><u>[Updated] 2024 Approved Building Authority in Education 10 Tips for YouTube Channel Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>[Updated] 2024 Approved Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-the-way-in-video-production-comprerant-free-youtube-intro-makers/"><u>[Updated] Leading the Way in Video Production Compreran't Free YouTube Intro Makers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-and-dailymotion-notable-contrasts-for-2024/"><u>Comparing YouTube and Dailymotion Notable Contrasts for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-performance-of-linksys-wrt1900acs-an-insightful-look-at-an-innovative-open-source-router/"><u>Decoding the Performance of Linksys WRT_1900ACS - An Insightful Look at an Innovative Open Source Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-assessment-of-sea-techs-external-usb-blu-ray-writer-a-user-experience-with-mixed-results/"><u>Detailed Assessment of Sea Tech's External USB Blu-Ray Writer - A User Experience with Mixed Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ebook-enthusiasts-guide-deciding-between-apple-ipad-amazon-kindle-and-barnes-and-noble-nook/"><u>EBook Enthusiasts' Guide: Deciding Between Apple iPad, Amazon Kindle & Barnes & Noble NOOK</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/epic-showdown-reviewing-the-playful-action-and-strategy-of-plants-vs-zombies-in-battle-for-neighborhood/"><u>Epic Showdown: Reviewing the Playful Action and Strategy of Plants Vs. Zombies in 'Battle for Neighborhood'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-samsung-galaxy-s20-fe-5g-analysis-top-pick-for-5g-enthusiasts/"><u>Exclusive Samsung Galaxy S20 FE 5G Analysis - Top Pick for 5G Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-to-address-disappeared-event-listings-on-your-iphone-agenda/"><u>Expert Tips to Address Disappeared Event Listings on Your iPhone Agenda</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-reverse-videos-on-android/"><u>How to Reverse Videos on Android ?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-complementing-core-shots-with-b-roll/"><u>In 2024, Strategies for Complementing Core Shots with B-Roll</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oneplus-ace-2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your OnePlus Ace 2 Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-better-relationships-with-chatgpts-insights-on-dating-success/"><u>Unlock Better Relationships with ChatGPT's Insights on Dating Success</u></a></li>
+</ul></div>
 

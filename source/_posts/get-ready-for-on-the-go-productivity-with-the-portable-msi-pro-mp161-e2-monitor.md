@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-10-27T10:23:54.186Z
-updated: 2024-10-30T05:19:23.750Z
+date: 2024-11-02T17:57:13.464Z
+updated: 2024-11-04T19:46:10.774Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -43,6 +43,13 @@ Lifewire / Andy Zahn
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
@@ -76,10 +83,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Built to last, great to use**
@@ -97,13 +104,6 @@ Lifewire / Andy Zahn
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Battery life: No worries**
 
@@ -144,10 +144,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Modes: Plenty to choose from (and only some are useful)**
@@ -178,13 +178,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -196,10 +189,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
@@ -223,6 +216,13 @@ Lifewire / Andy Zahn
  **A tremendously fun camera that is exceedingly well-rounded if a bit pricey.**
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -264,24 +264,16 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-how-to-keep-your-virtual-talks-on-record-for-2024/"><u>[New] How to Keep Your Virtual Talks on Record for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-vimeo-video-logging-for-2024/"><u>[Updated] Essential Tips for Vimeo Video Logging for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-pick-elite-usb-wi-fi-adapters-reviewed/"><u>Best Pick: Elite USB Wi-Fi Adapters Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-cost-effective-amazon-basics-6-sheet-cross-cut-shredder-a-thorough-review/"><u>Evaluating the Cost-Effective Amazon Basics 6 Sheet Cross Cut Shredder – A Thorough Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/examining-amds-innovation-and-its-effect-on-gaming-hardware-sales/"><u>Examining AMD's Innovation and Its Effect on Gaming Hardware Sales</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fitbit-sense-your-go-to-smartwatch-for-enhanced-health-and-vitality/"><u>Fitbit Sense: Your Go-To Smartwatch for Enhanced Health and Vitality</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-activating-secure-file-confinement-on-win1011-os/"><u>Guide to Activating Secure File Confinement on Win10/11 OS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Gionee F3 Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>In 2024, Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-worth-it-to-upgrade-from-copilot-to-copilot-pro-a-comprehensive-breakdown/"><u>Is It Worth It to Upgrade From Copilot to Copilot Pro? A Comprehensive Breakdown</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-solutions-comprehensive-review-of-network-servers-racks-and-enclosures-2024-edition/"><u>Leading Solutions: Comprehensive Review of Network Servers Racks & Enclosures - 2024 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/moto-g-stylus-phone-review-where-quality-meets-affordability-in-your-pocket/"><u>Moto G Stylus Phone Review: Where Quality Meets Affordability in Your Pocket</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-2024s-superior-smart-vision-tech/"><u>Navigating Through 2024'S Superior Smart Vision Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-black-and-white-errors-in-microsoft-shop/"><u>Remedy Black and White Errors in Microsoft Shop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-radar-detector-spotlight-on-the-durable-and-precise-uniden-r3-model/"><u>The Ultimate Guide to Choosing a Radar Detector - Spotlight on the Durable and Precise Uniden R3 Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-list-of-small-form-factor-gaming-rigs/"><u>The Ultimate List of Small Form Factor Gaming Rigs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-how-does-the-aphaca-bt69-wireless-transmitter-compare-in-todays-market/"><u>Unboxing and Testing: How Does the Aphaca BT69 Wireless Transmitter Compare in Today's Market?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-nokia-c12-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia C12 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnet-reveals-the-4-iphone-and-macbook-models-best-to-skip-this-year/"><u>ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-full-review-of-the-latest-powerdirector-app-24/"><u>[New] 2024 Approved Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-balancing-speed-and-quality-choosing-between-lower-and-higher-fps/"><u>[Updated] 2024 Approved Balancing Speed & Quality Choosing Between Lower and Higher FPS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-your-video-posts-with-properly-uploaded-srt-files/"><u>[Updated] In 2024, Elevating Your Video Posts with Properly Uploaded SRT Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-the-kindle-oasis-2019-experience-book-like-ease-and-pleasure/"><u>A Comprehensive Review of the Kindle Oasis (2019): Experience Book-Like Ease & Pleasure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fashionable-functionality-or-just-a-flashy-facade-evaluating-the-amazfit-gts-hybrid-watch-review/"><u>Fashionable Functionality or Just a Flashy Facade? Evaluating the Amazfit GTS Hybrid Watch Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-innovation-for-simplifying-hr-workflows/"><u>GPT Innovation for Simplifying HR Workflows</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-why-xbox-one-x-reigns-supreme-among-modern-consoles/"><u>In-Depth Analysis: Why Xbox One X Reigns Supreme Among Modern Consoles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-extra-large-desktop-mats-for-enhanced-comfort/"><u>Leading Extra-Large Desktop Mats for Enhanced Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-photography-essentials-discover-the-leading-tripods-on-the-market-2023-edition/"><u>Professional Photography Essentials: Discover the Leading Tripods on the Market - 2023 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-tiktoks-potential-changing-your-profile-number/"><u>Unlocking TikTok's Potential Changing Your Profile Number</u></a></li>
 </ul></div>
 

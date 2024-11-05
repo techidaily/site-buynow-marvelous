@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-10-23T19:38:14.559Z
-updated: 2024-10-30T06:00:16.802Z
+date: 2024-10-31T02:56:51.633Z
+updated: 2024-11-05T03:14:53.944Z
 tags:
   - games
   - tv
@@ -35,14 +35,14 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 ![The back of a computer with the graphics card I/O in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rsz_img20240205151519.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ismar Hrnjicevic / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the Power Cables
 
@@ -54,9 +54,35 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A graphics card inside a computer iwth a missing 6-pin power supply cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_17h16_49.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ismar Hrnjicevic / How-To Geek
 
  If you have a transparent side panel, you can visually inspect it to see if all power supply cables are plugged in. If they aren't, shut off the computer, turn off the power supply, and remove the side panel. Find an unoccupied and appropriate power connector from your power supply, gently plug it into the graphics card until it clicks, and that's it.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Reseat the Graphics Card
 
@@ -66,31 +92,24 @@ Ismar Hrnjicevic / How-To Geek
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Once you've made sure that everything is disconnected, pull the graphics card out completely. In some cases, dust and debris can get stuck in the PCIe slot on your motherboard, so make sure to [dust it with some compressed air](https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/) while you're at it.
 
  After that, push the graphics card back in until you feel it click into place, put your side panel back on, reconnect the cables, flip the switch on your power supply, and boot your PC again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fully Uninstall Old Graphics Drivers Before Installing New Ones
 
  If you upgraded from one graphics card to another, you must do a [clean driver install](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/) if you want the card to work correctly. That's because leftover bits of code stay in Windows, even if you uninstalled the old drivers using conventional methods. The leftover code can cause issues with how the operating system utilizes the graphics card.
 
  Thankfully, the solution is rather quick and painless. All you have to do is download and install [Display Driver Uninstaller (DDU)](https://www.guru3d.com/download/display-driver-uninstaller-download/), select your graphics card brand, and follow the on-screen prompts. When you're done, do a fresh installation of your graphics card drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check the In-Game Temperatures and Usage
 
@@ -104,13 +123,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  You can check what BIOS your graphics card has through AMD or NVIDIA software, but it might not tell you the full version. For instance, AMD doesn't show the last few numbers that identify your exact graphics card model. Instead, download and install [GPU-Z](https://www.techpowerup.com/gpuz/). It'll tell you the BIOS version under the "Graphics Card" tab, which you can check against [TechPowerUp's repository](https://www.techpowerup.com/) by selecting your graphics card model. If it's a match, that's great, but if not, you'll have to download and [flash the stock BIOS](https://appuals.com/how-to-flash-the-bios-on-an-amd-gpu/).
@@ -121,24 +133,18 @@ Justin Duino / How-To Geek
 
  So, open up your dusty Steam library and download a few recent triple-A titles. If your graphics card has great FPS in those titles, it's the original game that's at fault and not your graphics card.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Play Around With Windows Settings
 
  As far as gaming goes, Windows is a lot better than it used to be. Still, some features can mess with how your computer operates, the most notorious of which is [Game Mode](https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/). Microsoft has fixed and improved Game Mode over the years, but it can still cause issues, especially in older titles.
 
  Try [turning Game Mode on and off](https://vp-tips.techidaily.com/updated-optimize-visual-design-top-10-must-have-type-plugins-for-ae/) under Windows settings to see if it helps. We also have a [Windows 11 gaming optimization guide](https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/) that'll help you squeeze out even more performance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Maybe Your Other Hardware Is Holding You Back
 
@@ -161,14 +167,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-your-computers-malfunctioning-optical-drive/"><u>How To Repair Your Computer's Malfunctioning Optical Drive</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy F14 5G Phone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/optimizing-your-web-page-essential-techniques-for-improved-search-engine-ranking/"><u>Optimizing Your Web Page: Essential Techniques for Improved Search Engine Ranking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/roku-express-unveiled-top-tier-content-at-an-unbeatable-price-point-a-users-guide-to-savings-and-variety/"><u>Roku Express Unveiled: Top-Tier Content at an Unbeatable Price Point - A User's Guide to Savings and Variety</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/safeguard-your-iphone-top-antivirus-solutions-reviewed/"><u>Safeguard Your iPhone: Top Antivirus Solutions Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x85f-premium-65-4k-led-smart-uhd-tv-assessment-great-value-for-money/"><u>Sony XBR65X85^F - Premium 65 4K LED Smart UHD TV Assessment, Great Value for Money</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-how-to-seamlessly-integrate-multiple-videos-into-one-cohesive-video/"><u>Step-by-Step Tutorial: How to Seamlessly Integrate Multiple Videos Into One Cohesive Video</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tablet-tug-of-war-making-the-right-choice-between-an-amazon-fire-or-a-samsung-device/"><u>Tablet Tug-of-War: Making the Right Choice Between an Amazon Fire or a Samsung Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-essential-list-of-online-video-ripper-tools-for-2024/"><u>The Essential List of Online Video Ripper Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-flawless-free-download-of-youtube-video-covers-no-hurdles/"><u>[New] In 2024, Flawless Free Download of YouTube Video Covers - No Hurdles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-smooth-video-viewing-experience-enabledisable-pip-for-iphone-youtube/"><u>[New] In 2024, Smooth Video Viewing Experience Enable/Disable PIP for iPhone YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transforming-youtube-content-using-the-power-of-imovie/"><u>[New] In 2024, Transforming YouTube Content Using the Power of iMovie</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beginners-backstage-pass-to-photo-tricks/"><u>[Updated] Beginner's Backstage Pass to Photo Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-echo-pop-and-echo-dot-key-features-and-functionalities/"><u>Comparing Echo Pop and Echo Dot: Key Features & Functionalities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-performance-of-the-stylish-aukey-usb-nhub-is-it-worth-your-investment/"><u>Evaluating the Performance of the Stylish Aukey USB nHub: Is It Worth Your Investment?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evolution-or-revolution-exploring-the-design-and-capabilities-of-the-new-echo-dot-gen-4/"><u>Evolution or Revolution? Exploring the Design & Capabilities of the New Echo Dot (Gen 4)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-antitower-at-127-exceptional-free-broadcast-quality-with-elegance/"><u>Exploring the Antitower AT-127: Exceptional Free Broadcast Quality with Elegance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m14-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M14 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-portable-powerhouse-samsung-galaxy-chromebook-2/"><u>In-Depth Look at the Portable Powerhouse - Samsung Galaxy Chromebook 2</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssful-youtubing-master-end-credits-and-makers-sources-for-2024/"><u>Successful YouTubing Master End Credits and Makers' Sources for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-midland-gxt1000vp4-and-its-superior-voice-clarity/"><u>The Ultimate Guide to the Midland GXT1000VP4 and Its Superior Voice Clarity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-of-easily-identifying-bios-version-for-windows-11-users/"><u>Unlock the Secrets of Easily Identifying BIOS Version for Windows 11 Users</u></a></li>
 </ul></div>
 

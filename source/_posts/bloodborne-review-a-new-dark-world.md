@@ -1,7 +1,7 @@
 ---
 title: "Bloodborne Review: A New Dark World"
-date: 2024-08-15T09:08:34.359Z
-updated: 2024-08-16T09:08:34.359Z
+date: 2024-11-02T21:33:29.170Z
+updated: 2024-11-04T17:12:21.637Z
 categories:
   - BestProducts
 description: "This Article Describes Bloodborne Review: A New Dark World"
@@ -36,14 +36,15 @@ Lifewire / Kelsey Simon
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Days Gone
 
 ![Days Gone](https://www.lifewire.com/thmb/OhLBxtaDQ5jb89rJmIMnan1soS4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Days-Gone-Zombie-Game-PS4-1-ecafdc83e8e0460cbc31b8b0e4976faa.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -68,9 +69,12 @@ Lifewire / Kelsey Simon
  Days Gone is another action-adventure survival game in the zombie genre. It does a lot of things that other similar titles do―crafting, stealth, and gathering resources―but with an added emphasis on your character’s vehicle.
 
 ![Days Gone](https://www.lifewire.com/thmb/ryi3-WPMYdCrQ8y_6kRDMiMzxZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-6-0cbb39a028324cf9a576db1941bce0a4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -81,7 +85,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Days Gone](https://www.lifewire.com/thmb/HE8j4XoxbKMWIQagUtGCXFf6bKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-2-3b29272bf1b2423781e104041dc00457.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Plot: A man who lost his wife**
 
@@ -97,20 +115,15 @@ As in most zombie fiction, the real monster is man.
 
 ![Days Gone](https://www.lifewire.com/thmb/XWR-CgFF865KBE1ipv7cwdi-P3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-5-b1914ac9859b409d9460fea24fc7f251.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: Standard zombie action with bikers**
 
  Days Gone is a third-person, action-adventure, zombie survival game with single-player gameplay. It operates in an open-world where you drive around your bike and explore different camps to collect supplies and complete missions. You’ll find a range of enemies from wild animals, zombies, and even other survivors.
@@ -136,9 +149,6 @@ As in most zombie fiction, the real monster is man.
  Character animations also look great. Deacon moves in a way that feels natural and real, whether he’s slitting someone's throat or sneaking around an enemy camp. The bike is smooth visually and looks good drifting around corners. Even the zombies have their own sort of animalistic movements that give them a creepy, predatory feel.
 
 ![Days Gone](https://www.lifewire.com/thmb/gE-LorHWCGsO4NUFW801LGts5t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-4-a82aed08ab7a4b29bce78268b729563b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -146,9 +156,6 @@ As in most zombie fiction, the real monster is man.
 
  On the official PlayStation Store, the game goes for $40, but you can regularly find it on sale on Amazon or other online retailers (as of this writing, it's down to $20). At a discount, Days Gone is an easy purchase, a big, entertaining, open-world zombie romp that rarely if ever stagnates until the credits roll.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Days Gone vs. The Last of Us Remastered**
 
  There are a fair amount of other zombie survival games out there. On the PlayStation 4, another popular title is The Last of Us Remastered. The Last of Us doesn't have the expansive open world that Days Gone does, but the crafting system is far better, and the plot is stronger.
@@ -159,23 +166,17 @@ As in most zombie fiction, the real monster is man.
 
  Days Gone is a game that tried very hard to combine two tropes very much in the entertainment zeitgeist in the past few years—zombies and bikers. It's graphically strong, with great character animations and detailed environments and character models. The clunky controls and some pacing issues may make recommending it at full price difficult, but on sale, it's an easy pickup, especially for zombie fans shopping for an entertaining PS4 game.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Days Gone
 * Price  $40.00
 * Available Platforms  Playstation 4
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +185,24 @@ As in most zombie fiction, the real monster is man.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-the-code-to-content-creator-commerce-with-carminati-ajay/"><u>[Updated] 2024 Approved Unlocking the Code to Content Creator Commerce with Carminati (AJay)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-effortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>2024 Approved Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/eufy-t8200-in-depth-review-why-its-a-game-changer-for-no-subscription-video-bell-systems/"><u>Eufy T8200 In Depth Review: Why It's a Game Changer for No-Subscription Video Bell Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-updated/"><u>How to Stop Dead by Daylight From Crashing (Updated )</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y55s-5g-2023-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y55s 5G (2023) via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y27-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y27 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-new-surface-lineup-could-this-be-enough-for-me-to-give-up-my-macbook/"><u>Microsoft's New Surface Lineup: Could This Be Enough for Me to Give Up My MacBook?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sounds-simple-and-affordable-reviewing-agpteks-mp3-player/"><u>Sounds Simple & Affordable: Reviewing AGPTEK's MP3 Player</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-asus-bw-16d1x-u-blu-ray-disc-burner-an-attractive-device-with-some-curious-quirks/"><u>The Asus BW-16D1X-U Blu-Ray Disc Burner - An Attractive Device with Some Curious Quirks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-p11-pro-assessment-outstanding-tablet-with-minor-flaws-explored/"><u>The Lenovo P11 Pro Assessment: Outstanding Tablet with Minor Flaws Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sound-warriors-apple-airpods-pro-versus-galaxy-buds-pro/"><u>The Sound Warriors: Apple AirPods Pro Versus Galaxy Buds Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-webcam-evaluating-logitechs-c615-for-quality-at-an-affordable-price-point/"><u>The Ultimate Guide to Choosing a Webcam: Evaluating Logitech's C615 for Quality at an Affordable Price Point</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-hp-stream-14-an-insightful-review-of-performance-for-budget-buyers/"><u>The Verdict on HP Stream 14: An Insightful Review of Performance for Budget Buyers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-for-premium-quality-in-tech-dissecting-the-features-of-the-samsung-galaxy-tab-ssamsung-galaxy-tab-s7plus-an-elite-android-experience-detailed-rev114/"><u>Top Review for Premium Quality in Tech: Dissecting the Features of the Samsung Galaxy Tab SSamsung Galaxy Tab S7+: An Elite Android Experience Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-quality-fitness-tracking-at-great-value-inside-look-at-the-fitbit-versa-lite/"><u>Top-Quality Fitness Tracking at Great Value: Inside Look at the Fitbit Versa Lite</u></a></li>
+</ul></div>
 

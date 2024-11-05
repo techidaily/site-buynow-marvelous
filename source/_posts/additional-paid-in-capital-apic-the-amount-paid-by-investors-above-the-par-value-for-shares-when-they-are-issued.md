@@ -1,7 +1,7 @@
 ---
 title: Additional Paid-In Capital (APIC) = The Amount Paid by Investors Above the Par Value for Shares when They Are Issued
-date: 2024-08-15T09:04:48.360Z
-updated: 2024-08-16T09:04:48.360Z
+date: 2024-10-31T23:58:59.070Z
+updated: 2024-11-04T20:02:03.578Z
 categories:
   - BestProducts
 description: This Article Describes Additional Paid-In Capital (APIC) = The Amount Paid by Investors Above the Par Value for Shares when They Are Issued
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 2K NBA 2K19 (PlayStation 4)
 
 ![NBA 2K19](https://www.lifewire.com/thmb/_uesF1Rk1gzjvzZAGzjTXOSkWPM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353-HeroSquare-3b0318500db84677b58649cacfa1d321.jpg)
@@ -72,23 +68,37 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![NBA 2K19](https://www.lifewire.com/thmb/YMXeWIxicIbj-86epw-TmdCR6Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_04-8c4928a895a842cfa8abf52e0e1beb01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Just install**
 
  Getting things ready is just a matter of putting in the disc and waiting for updates to install or doing a digital download. Nothing more to it.
 
 ![NBA 2K19](https://www.lifewire.com/thmb/M0pJx3LQWfKzQz2c6Cn61WEoZGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_07-bbd2e90a40b241c097157fea5b64a6f7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Gameplay: Easy to Learn, Difficult to master**
 
  Basketball is a relatively simple sport to grasp, and the same can be applied to the video game adaptation. Shooting can either be done by holding a button or holding the right stick while a shot meter begins to fill up. The goal is to let go the second the meter is full, which is surprisingly challenging. The speed of the bar can change depending on where on the court you’re shooting from, and how good your shooting stats are.
@@ -99,12 +109,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Defense feels especially rewarding, with high-speed steals and ever-present blocks forcing nearly every offensive engagement into a tactical matchup. The controls are easy to learn but tricky to master, resulting in a satisfying balance if you have the patience. Completely new players may be in for a bit of a hill to climb, however, as the practice mode tutorial is a hot mess of laborious tooltips.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/Sy1Ow0C2SYcU7a6suicNTH7_juQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_03-328b17a765df4296b364ba758a1cb996.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Game Modes: Leagues, teams, and players**
 
@@ -116,12 +137,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The MyTeam mode is all about earning (or purchasing) random booster packs filled with players, jerseys, coaches, arenas, and contracts. How much you enjoy this mode relies heavily on how feel about getting everything you need through random card packs. Packs can be earned by winning games, while Virtual Currency, 2K’s much maligned money system, can be earned through completing challenges. It’s fun to unlock star players but when it comes to microtransactions and the prevalent cost of using VC and cards, 2K ranks among the worst of mobile game offenders—and this for a $60 console game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/fQL8t4zVGC3TbDs-So90d2zQRUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_05-f274e7c4b78f4b329eb75f1baf368922.jpg)
 
  Lifewire / Eric Watson
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **The Way Back: Go mad Ants!**
 
@@ -139,9 +164,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Graphics: Impressive player models**
 
  With a small number of on-screen players and little in the way of padding or helmets, an NBA sports game demands some of the best and most realistic player models and physics. Fortunately, NBA 2K19 delivers. Animations are fluid, with exciting dunks and realistic player collisions. Players are modeled well, even in close-ups. The only cringey moments occur when players are interviewed.
@@ -152,9 +174,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio: Excellent commentary and soundtrack**
 
  Kevin Harlan and Greg Anthony continue to be fantastic commentators for NBA 2K19\. In NBA 2K19 they’re also joined by Bill Simmons, Kobe Bryant, and Kevin Garnett. NBA 2K19 features some of the best commentaries for any sports game, with insightful breakdowns, fun player anecdotes, and up tempo play-by-plays. The on-action commentary lags a bit behind when playing online, however, as Harlan shouts excitedly about a dunk after the other team is already at half court.
@@ -169,9 +188,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  NBA 2K19 20th Anniversary Edition is a much steeper asking price of $99, including a substantial head start with 100,000 Virtual Currency, 50,000 MyTeam points, 30 MyTeam card packs and more. If you have money to burn and want to catch up with friends and other players online, the 20th anniversary edition can provide a big boost, and like the standard edition, is also heavily discounted throughout the year.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Close match between NBA Live and 2K**
 
  Basketball is one of the few major sports games to have two major competitors between NBA 2K19 and[EA’s NBA Live](https://www.easports.com/nba-live) . Ultimately both games have more similarities than differences. Live looks a bit more realistic in its color palette and superior-looking courts but 2K19 features more defined player models. NBA Live’s controls and gameplay are a bit more new player friendly and arcade-like, while 2K19 is more technical and advanced, and ultimately a better basketball simulator. One point we’ll definitely give to NBA Live: no microtransactions in its single player story mode.
@@ -182,9 +198,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Given the large number of dunks, passes, throws, and technical maneuvers you can perform, all while facing a shot clock, a stingy defense, and a boringly lame tutorial, NBA 2K19 may be one of the most difficult sports games to jump into. Your patience will be rewarded, however, as it’s a tight, deeply strategic and satisfying basketball simulator, with some fun extra modes and a surprisingly enjoyable career story. That said, we wish 2K would ease up on the virtual currency.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  NBA 2K19 (PlayStation 4)
@@ -195,14 +208,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * Multiplayer  Online, Local
 * Platforms  PC, PlayStation 4, Switch, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,4 +221,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-from-classic-quests-to-complex-escapades-for-2024/"><u>[New] From Classic Quests to Complex Escapades for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tinyvid-recorder-examination-and-reviews-for-2024/"><u>[New] TinyVid Recorder Examination & Reviews for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-use-luts-to-obs-studio-and-download-free-luts-for-2024/"><u>[Updated] How to Use LUTs to OBS Studio & Download Free LUTs for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-brief-vignettes-facebooks-fast-lane/"><u>[Updated] In 2024, Brief Vignettes Facebook’s Fast Lane</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flvmp33/"><u>FLVからMP3への変換手順：3つの効果的な方法</u></a></li>
+<li><a href="https://win11.techidaily.com/latency-less-viewing-optimizing-winx-media-with-these-fixes/"><u>Latency-Less Viewing: Optimizing WinX Media with These Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/rca-video-doorbell-comprehensive-review-of-an-efficient-security-camera/"><u>RCA Video Doorbell: Comprehensive Review of an Efficient Security Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-review-for-the-sumind-bt7-fm-transmitter-the-perfect-bluetooth-adapter-for-on-the-go-listeners/"><u>Top Rated Review for the Sumind BT7# FM Transmitter - The Perfect Bluetooth Adapter for On-The-Go Listeners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-cable-modem-models-a-comprehensive-guide/"><u>Top-Rated Cable Modem Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-binkw32dll-files-for-smooth-media-playback/"><u>Troubleshooting Missing BinkW32.dll Files for Smooth Media Playback</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-2021-apple-tv-4k-experience-reviewed-unleash-the-power-of-ultra-hd-and-siri-voice-controls/"><u>Ultimate 2021 Apple TV 4K Experience Reviewed: Unleash the Power of Ultra-HD and Siri Voice Controls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-buyers-guide-to-premium-bluetooth-phones-of-2024/"><u>Ultimate Buyer's Guide to Premium Bluetooth Phones of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-anker-usb-30-high-powered-hub-a-detailed-evaluation/"><u>Ultimate Guide to the Anker USB 3.0 High-Powered Hub - A Detailed Evaluation.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-firebreath-on-spyros-latest-adventure-a-comprehensive-review/"><u>Unleashing FireBreath on Spyro's Latest Adventure: A Comprehensive Review</u></a></li>
+</ul></div>
 

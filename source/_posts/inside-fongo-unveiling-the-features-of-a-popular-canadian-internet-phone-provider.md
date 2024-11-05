@@ -1,7 +1,7 @@
 ---
 title: "Inside Fongo: Unveiling the Features of a Popular Canadian Internet Phone Provider"
-date: 2024-08-15T09:03:42.375Z
-updated: 2024-08-16T09:03:42.375Z
+date: 2024-10-31T17:51:34.333Z
+updated: 2024-11-04T17:32:28.095Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Fongo: Unveiling the Features of a Popular Canadian Internet Phone Provider"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ## Netgear C3700 Cable Modem Router
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/HeiIUMzNfcdABm8uXby7X0Qo3dE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
 
 Lifewire / Bill Thomas
@@ -40,9 +37,23 @@ Lifewire / Bill Thomas
 
 3.4
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -74,10 +85,14 @@ Lifewire / Bill Thomas
 
  This definitely works in the Netgear C3700’s favor. The[wireless performance](https://www.lifewire.com/ways-to-boost-a-wifi-signal-818296) is already weak (which we’ll go into a bit later), so the fact that you can leave it out and unobscured is a benefit.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -90,8 +105,12 @@ Lifewire / Bill Thomas
  Lifewire / Bill Thomas
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -102,6 +121,13 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -110,9 +136,6 @@ Lifewire / Bill Thomas
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -121,10 +144,6 @@ Lifewire / Bill Thomas
 
  Thankfully, this means that an attached router would be able to keep up, which is what we’d recommend. The wireless performance isn’t great and you’re going to have a much better experience with a separate router.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
  Lifewire / Bill Thomas
@@ -139,18 +158,12 @@ Lifewire / Bill Thomas
 
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: It pays for itself
 
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -160,9 +173,6 @@ Lifewire / Bill Thomas
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
@@ -194,8 +204,6 @@ Lifewire / Bill Thomas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +211,19 @@ Lifewire / Bill Thomas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-best-practices-in-embedding-real-time-videos-from-fb/"><u>[New] Best Practices in Embedding Real-Time Videos From FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-recovery-pathways-from-youtube-disqualification/"><u>[Updated] Recovery Pathways From YouTube Disqualification</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/creating-professional-podcasts-at-home/"><u>Creating Professional Podcasts at Home</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-and-solving-the-persistent-black-monitor-issue-on-windows-11-computers/"><u>Demystifying and Solving the Persistent Black Monitor Issue on Windows 11 Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/prevent-crt-screen-blinks-abruptly/"><u>Prevent CRT Screen Blinks Abruptly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-wasteland-2-directors-cut-analysis-an-engrossing-tactical-role-playing-game/"><u>The Wasteland 2 - Director's Cut Analysis: An Engrossing Tactical Role-Playing Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-windows-shift-moving-from-7-to-11/"><u>The Windows Shift: Moving From 7 to 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-network-servers-rack-systems-and-cabinets-for-2eplust3-yoplusr-2024-lineup/"><u>Top Pick Network Servers Rack Systems & Cabinets for 2E+t3, Yo+r 2024 Lineup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wearable-tracker-an-in-depth-look-at-the-samsung-galaxy-fit/"><u>Top-Rated Wearable Tracker: An In-Depth Look at the Samsung Galaxy Fit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/understanding-group-dynamics-in-zoom-sessions/"><u>Understanding Group Dynamics in Zoom Sessions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-barriers-why-cant-you-send-presents-from-your-apple-product/"><u>Understanding the Barriers: Why Can't You Send Presents From Your Apple Product?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-version-updates-fixed-bd-issues-in-ms-driver/"><u>Windows Version Updates: Fixed BD Issues in MS DRIVER</u></a></li>
+</ul></div>
 

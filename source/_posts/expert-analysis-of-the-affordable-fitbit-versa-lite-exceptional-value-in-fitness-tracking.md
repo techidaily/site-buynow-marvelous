@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Affordable Fitbit Versa Lite - Exceptional Value in Fitness Tracking!
-date: 2024-08-15T09:04:16.834Z
-updated: 2024-08-16T09:04:16.834Z
+date: 2024-10-28T17:59:51.992Z
+updated: 2024-11-04T21:07:16.863Z
 categories:
   - BestProducts
 description: This Article Describes Expert Analysis of the Affordable Fitbit Versa Lite - Exceptional Value in Fitness Tracking!
@@ -13,15 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/FzJNmoIVdYnNkY9ObdnYpm1fjtY=/400x300/fi
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## GoPro HERO7 Black
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/-ao16__RvzZ8ftZrr0-WWsV13Lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
 
 Lifewire / Jeff Dojillo
@@ -49,10 +42,6 @@ Lifewire / Jeff Dojillo
 
 ## GoPro HERO7 Black
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/GYZOA14ZRWOM3tJzi8ZbmTTASe8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
 
 Lifewire / Jeff Dojillo
@@ -87,8 +76,12 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Classic action camera design**
 
  The GoPro HERO7 Black measures in at 2.4 x 1.3 x 1.8 inches, so it’s super compact and almost a cube. The device is all black with a very nice rubber casing around the unit that makes it feel soft to the touch.
@@ -99,15 +92,19 @@ Lifewire / Jeff Dojillo
 
  While testing the GoPro HERO7 Black we noticed that the body of the device becomes very hot when used for long periods of time. We tested it for a few hours nonstop and noticed it was still very warm even when it was not recording. This can be a big concern if the device is used for long recordings in hot temperatures.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Display: Bright and visible**
 
  The back of the GoPro HERO7 Black has a two-inch touchscreen that is bright and easy to read. While testing the camera, we were able to navigate through the menus with the single touch of a finger, which are intuitive and easy to adjust. Simply tap to select.
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Updates out of the box**
 
  The GoPro HERO7 Black did not have much battery life out of the box. Once we powered it on, we set the date, time, and location. It then prompted us to update the software, which required a blank memory card and fully-charged battery to complete.
@@ -115,6 +112,19 @@ Lifewire / Jeff Dojillo
  The HERO7 Black has both Wi-Fi and Bluetooth compatibility, which makes it easy to pair with a smartphone that has the GoPro App downloaded. We were able to make the camera discoverable in the Preferences menu, and then the app could automatically scan and connect to the camera when it was opened.
 
  Lifewire / Jeff Dojillo
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sensor: Small but mighty**
 
@@ -127,6 +137,13 @@ Lifewire / Jeff Dojillo
 ## **Lens: Great for video**
 
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Video Quality: Amazing 4K quality with variable frame rates**
 
@@ -143,8 +160,12 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Photo Quality: Nothing to brag about**
 
  The photo quality on the GoPro HERO7 Black is average, though it does have the ability to create HDR (High Dynamic Range) images.
@@ -153,9 +174,6 @@ Lifewire / Jeff Dojillo
 
  But generally speaking, the GoPro HERO7 Black is not a camera known for its stunning photographs—it is known for its stunning video capabilities. It’s not for someone that wants to use it specifically for still photographs.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Sound Quality: Sensitive to the touch**
 
  The GoPro HERO7 Black’s microphones are sensitive and record ambient noise easily. The microphones are located on the body of the camera and any slight touch becomes audible in your video. When taking some handheld footage, we accidentally covered up the microphones with our fingers, which caused the audio to sound muffled in our video.
@@ -168,9 +186,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: Speedy Wi-Fi and Bluetooth pairing**
 
  Wifi and Bluetooth connectivity is a breeze with the GoPro HERO7 Black. Once we installed the GoPro app on our smartphone, the camera connected instantly. The app also gave us a much larger and easier-to-read interface, plus a live view function that allowed us to use our phone to frame and compose videos and remotely control the camera.
@@ -183,9 +198,6 @@ Lifewire / Jeff Dojillo
 
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Fairly priced for what you get**
 
  Retailing for $400 but often selling for less, the GoPro HERO7 Black is reasonably priced for its amazing features. 4K recording, HyperSmooth image stabilization, high frame rates, Bluetooth connectivity, a waterproof body, and live streaming features make this camera well worth the asking price.
@@ -216,6 +228,13 @@ Lifewire / Jeff Dojillo
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [AKASO EK7000 Pro 4K Action Camera](https://www.lifewire.com/akaso-ek7000-pro-4k-action-camera-review-4770265)
@@ -244,8 +263,6 @@ Lifewire / Jeff Dojillo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +270,23 @@ Lifewire / Jeff Dojillo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades/"><u>[New] The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-sourcing-premium-videography-talent/"><u>[New] Tips for Sourcing Premium Videography Talent</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-the-persistent-brightness-issue-on-your-laptop-display/"><u>Diagnosing and Repairing the Persistent Brightness Issue on Your Laptop Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-amd-radeon-rx-5700-xt-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download Latest AMD Radeon RX 5700 XT Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/driving-destiny-physical-vs-virtual-input-choice-for-gamers/"><u>Driving Destiny: Physical Vs. Virtual Input Choice for Gamers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/embracing-a-digital-future-psa-security-network-enhances-operations-with-electronic-accounts-payable-system/"><u>Embracing a Digital Future: PSA Security Network Enhances Operations with Electronic Accounts Payable System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-enter-safe-mode-in-windows-11-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 11, 7, 8, 8.1, XP & Vista</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-motorola-mg7700-a-speedy-choice/"><u>In-Depth Analysis of the Motorola MG7700: A Speedy Choice?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-the-capabilities-and-performance-of-the-rca-video-doorbell/"><u>In-Depth Evaluation: The Capabilities and Performance of the RCA Video Doorbell</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-garmin-forerunner/"><u>In-Depth Look at the Garmin Forerunner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insider-look-at-jacos-smartpro-digital-tire-inflator-unmatched-power-in-a-portable-package-evaluation/"><u>Insider Look at Jaco's SmartPro Digital Tire Inflator – Unmatched Power in a Portable Package Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactive-review-of-the-portable-msi-mp161e2-a-travel-companion/"><u>Interactive Review of the Portable MSI MP161E2 - A Travel Companion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-going-digital-the-future-of-books/"><u>Is Going Digital the Future of Books?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-mobvoe-ticwatch-e2-worth-it-an-affordable-smartwatch-review/"><u>Is Mobvoe TicWatch E2 Worth It? An Affordable Smartwatch Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranking-htpc-picks-the-ultimate-guide-to-the-ideal-htpc-systems/"><u>Top-Ranking HTPC Picks: The Ultimate Guide to the Ideal HTPC Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-m54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy M54 5G</u></a></li>
+</ul></div>
 

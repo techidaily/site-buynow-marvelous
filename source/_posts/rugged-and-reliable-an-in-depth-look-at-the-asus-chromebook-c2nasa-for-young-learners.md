@@ -1,7 +1,7 @@
 ---
 title: "Rugged and Reliable: An In-Depth Look at the Asus Chromebook C2nASA for Young Learners"
-date: 2024-08-15T09:04:04.770Z
-updated: 2024-08-16T09:04:04.770Z
+date: 2024-10-31T04:39:50.811Z
+updated: 2024-11-04T18:23:00.089Z
 categories:
   - BestProducts
 description: "This Article Describes Rugged and Reliable: An In-Depth Look at the Asus Chromebook C2nASA for Young Learners"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 ## Amazfit GTS Smartwatch
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Amazfit GTS](https://www.lifewire.com/thmb/BMrWIhRHdBvfqR68yWXTZcyH-28=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_HeroSquare-067af9089d9c4269979450e8963726c9.jpg)
 
 Lifewire / Yoona Wagener
@@ -42,9 +39,6 @@ Lifewire / Yoona Wagener
 
 ## Amazfit GTS Smartwatch
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Amazfit GTS](https://www.lifewire.com/thmb/A_Lpmewuqg5_v_xhsfuydQ5zl6E=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_HeroSquare-067af9089d9c4269979450e8963726c9.jpg)
 
 Lifewire / Yoona Wagener
@@ -88,8 +82,12 @@ Lifewire / Yoona Wagener
  I was unable to test this device’s 50-meter water resistance for swimming or other aquatic workouts, but I did wear it in the shower without experiencing any issue. The manufacturer does note, however, that this wearable isn’t safe for hot showers or other water sports such as scuba diving, diving, and high-speed water sports, generally.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comfort: Easy to wear but not as user-friendly
 
  While the Amazfit GTS is stylish enough to wear all day and easily coordinate with your wardrobe and comfortable to sleep with, confusing interface issues impaired overall ease of use. Along with the modular watch faces, there are screens for nearly every data point measured, accessible by swiping up from the bottom of the device.
@@ -104,13 +102,24 @@ Lifewire / Yoona Wagener
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/BCJ0gqS-gzR_dq3WSGazLqPMNCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_05-9f844a14ab734d9291e338b6fa2519da.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  While the display looks great and is responsive, the lack of clarity about certain menu options, both the meaning and how to activate them, and the lack of control over data widget order, takes a few points away from the overall stylish look.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance: Solid GPS and decent activity tracking
 
  The Amazfit GTS supports 12 common workout profiles, including running and walking, which I used the most. While it wasn’t spot-on compared with my usual tracking device, the[Garmin Venu](https://www.lifewire.com/garmin-venu-review-4843916) , it wasn’t way off the mark. On one 3-mile run, the Amazfit GTS was less than 1 minute behind and the pace also followed suit at 9 seconds slower and 275 steps shorter, while heart rate was less accurate at about 15 beats faster than the Venu. Another pleasant consistency was the reliable onboard GPS and automatic stop/start feature that worked fairly well, though with some delay.
@@ -127,9 +136,6 @@ Lifewire / Yoona Wagener
 
  While sleep data is elaborate, it’s presented in a way that requires a lot of scrolling or tapping back and forth across screens. For that reason, I never felt like I received a concise tip for bettering or understanding my sleep habits, which made the data feel a little too overwhelming and repetitive to make it approachable. This is an issue I had with referring to the app for any supplementary information.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Software: More style than substance
 
  The best fitness trackers and[smartwatches](https://www.lifewire.com/best-smartwatches-4048042) also have intuitive companion apps, but that’s not a great strength of the Amazfit GTS. Like most[wearables](https://www.lifewire.com/smart-watches-and-wearables-4781531) , the Zepp app (formerly Amazfit) is required to initially set up the device and view tracked data in more detail.
@@ -144,9 +150,6 @@ Lifewire / Yoona Wagener
 
  Also, the arrangement of data and explanations about how this data is sourced can feel like a bit of a maze to maneuver. There’s an icon in the upper-right corner of the app home screen that leads to all data, which is broken down into categories that aren’t wildly intuitive, such as Status data and Health sign.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Amazfit GTS](https://www.lifewire.com/thmb/hqD81eq-Q8n6BPE_n48M4SpkIRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_03-97749edaabac498bb95b0f8a9f569f0a.jpg)
 
 Lifewire / Yoona Wagener
@@ -155,9 +158,6 @@ Lifewire / Yoona Wagener
 
  While I gathered that a PAI of 100 seemed to be ideal for cardiovascular health, the app further complicated things by suggesting, for example, a 120-minute indoor workout to gain 15 PAI. It was difficult to grasp why that would be worth it or realistic, and like many areas of the software, it felt more flashy and underdeveloped than insightful.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery: Solid but considerably shy of the 14-day claim
 
  The manufacturer bills the battery longevity at an impressive 14 days with typical usage in smartwatch mode, which includes continuous heart rate and sleep monitoring and logging workouts three times a week.
@@ -169,6 +169,13 @@ Lifewire / Yoona Wagener
  The Amazfit GTS retails for about $120, though it’s possible to purchase it closer to $100\. While it’s more on the budget-friendly end of the spectrum, its Apple Watch-adjacent design doesn’t extend to the benefit of the first-rate fitness technology you’ll find in its alter ego.
 
  Spending between $100 to $130 for a style-conscious, band-style fitness tracker from heavy hitters such as[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) and Garmin could increase the tracking benefits considerably with extras like VO2 Max and SPO2 monitoring. For a little more (or less), gaining a user-friendly layout and companion app could be worth losing the Apple Watch aesthetic this device works hard to mirror.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazfit GTS vs. Garmin vivosmart 4
 
@@ -182,15 +189,25 @@ Lifewire / Yoona Wagener
 
  The Amazfit GTS is comfortable and stylish and performs the basic fitness tracking tasks relatively well, but the confusing ecosystem diminishes the polish. If you love the look of the Apple Watch, this is a budget-friendly look-alike. But if you want a strong balance between performance and looks, the Amazfit GTS may not deliver.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch SE](https://www.lifewire.com/apple-watch-se-review-5088223)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Garmin Vivomove HR](https://www.lifewire.com/garmin-vivomove-hr-review-4843913)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  GTS Smartwatch
@@ -213,8 +230,6 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +237,26 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-comparative-evaluation-of-cost-effective-clouds/"><u>[New] 2024 Approved Comparative Evaluation of Cost-Effective Clouds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ringing-youtube-to-life-on-google-slides-for-2024/"><u>[New] Bringing YouTube to Life on Google Slides for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-the-art-of-captions-a-short-guide-to-facebook-videos-for-2024/"><u>[New] Unlocking the Art of Captions A Short Guide to Facebook Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-iphone-x-animoji-your-comprehensive-users-manual-for-2024/"><u>[Updated] Mastering iPhone X Animoji Your Comprehensive User's Manual for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-guide-to-legal-gaming-music-without-price-tag/"><u>Exclusive Guide to Legal Gaming Music Without Price Tag</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-p40-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel P40 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-galaxy-s24-by-fonelab-android-recover-video/"><u>How to recover old videos from your Galaxy S24</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211275849-9798869275462-hysterical-strength-the-extraordinary-display-of-super-human-strength/"><u>Hysterical Strength-The extraordinary display of super human strength | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-t2x-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo T2x 5G Without PUK Codes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maisto-rc-rock-crawler-review-a-family-friendly-rc-car/"><u>Maisto RC Rock Crawler Review: A Family-Friendly RC Car</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-dying-light-together-an-exhilarating-co-op-parkour-laden-adventure-reviewed/"><u>Navigating Dying Light Together: An Exhilarating Co-Op, Parkour Laden Adventure Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/overwatch-breakdown-fun-filled-battles-and-intense-strategic-gameplay-for-competitive-gamers/"><u>Overwatch Breakdown: Fun-Filled Battles and Intense Strategic Gameplay for Competitive Gamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-x100-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo X100 and Browser | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-the-past-with-powershots-g9x2-camera/"><u>Rediscovering the Past with PowerShot's G9X2 Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-on-the-go-reading-the-ultimate-guide-to-the-kobo-clara-hd-ebook-reader/"><u>Revolutionizing On-the-Go Reading: The Ultimate Guide to the Kobo Clara HD Ebook Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-tab-s6-unveiled-diving-into-its-innovative-features-including-s-pen-and-dex-mode-technology/"><u>The Samsung Galaxy Tab S6 Unveiled: Diving Into Its Innovative Features Including S Pen & DeX Mode Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-enjoying-low-cost-flight-in-depth-look-at-the-syma-s111g-hovercraft-for-indoors/"><u>The Ultimate Guide to Enjoying Low-Cost Flight: In-Depth Look at the Syma S111G Hovercraft for Indoors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-prime-day-bargains-on-iphones-and-macs/"><u>Top Prime Day Bargains on iPhones & Macs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-asus-rog-rapture-gt-ax11000-unleashing-top-performance-for-gamers/"><u>Ultimate Guide to Asus ROG Rapture GT-AX11000: Unleashing Top Performance for Gamers</u></a></li>
+</ul></div>
 

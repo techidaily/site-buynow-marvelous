@@ -1,7 +1,7 @@
 ---
 title: Start Your Lighting Journey with Studio AGG814 Kit
-date: 2024-08-15T09:06:07.968Z
-updated: 2024-08-16T09:06:07.968Z
+date: 2024-10-31T20:28:44.602Z
+updated: 2024-11-04T20:08:45.524Z
 categories:
   - BestProducts
 description: This Article Describes Start Your Lighting Journey with Studio AGG814 Kit
@@ -38,8 +38,12 @@ Lifewire / Todd Braylor
 3.8
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
@@ -66,8 +70,12 @@ Lifewire / Todd Braylor
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design:** **A bit cheap**
 
  The S55 is palm-sized, about comparable in size and shape to most other radar detectors. The plastic material feels a bit cheaper than other radar detectors I've tested, though the control buttons worked well and felt long-lasting and I never had issues with them sticking. The Passport S55 comes with a very small windshield mount that's functional, but you may want to consider an aftermarket mount. It's minimal with small suction cups and I'm not confident it will last long. Luckily, the lightweight design of the S55 means it doesn't need much to hold it in place.
@@ -79,17 +87,18 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Easy installation**
 
  The S55 is straightforward and easy to install. Simply stick the windshield mount in place and plug the SmartCord lighter adapter into your car's DC cigarette lighter input. Plugging the modular jack into the S55 will automatically power on the radar detector and you can quickly customize settings for display brightness, detector sensitivity levels, and volume. Then you're ready to hit the road.
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Range: Impressive detection**
 
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
@@ -110,11 +119,6 @@ Lifewire / Todd Braylor
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
  A popular competitor brand to Escort that makes a wide selection of radar detectors is Uniden. The Uniden DFR9 (view on[Amazon](https://www.amazon.com/Uniden-DFR9-Detection-Cameras-Display/dp/B07F6PZXHM/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7C) ) is a model that can be considered the next price tier above the S55\. The DFR9's MSRP is $300 but it can often be found on sale for about $270.
@@ -128,8 +132,12 @@ The powerful video editing program for your Windows PC</a>
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Passport S55
@@ -150,8 +158,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +165,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-basics-to-brilliance-the-fb-cover-video-journey-for-2024/"><u>[New] From Basics to Brilliance The FB Cover Video Journey for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-from-playtime-to-prestige-capturing-sims-mastery/"><u>[New] In 2024, From Playtime to Prestige Capturing Sims Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-golden-grounds-guided-the-finest-treasure-maps/"><u>[Updated] In 2024, Golden Grounds Guided The Finest Treasure Maps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-clarity-an-in-depth-look-at-the-midland-gxt1000vp4-handheld-radio/"><u>Achieving Perfect Clarity: An In-Depth Look at the Midland GXT1000VP4 Handheld Radio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/all-about-the-new-apple-m4-chip-timeline-features-and-performance-insights/"><u>All About the New Apple M4 Chip: Timeline, Features & Performance Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-zenwifi-router-model-xt8-ax6600-evaluation-ultimate-mesh-networking-performance-unveiled/"><u>ASUS ZenWiFi Router Model XT8 AX6600 Evaluation: Ultimate Mesh Networking Performance Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-home-security-in-depth-review-of-vuebells-video-doorbell/"><u>Budget-Friendly Home Security: In-Depth Review of VueBell's Video Doorbell</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-the-gsdll32dll-could-not-be-found-problem/"><u>Effective Solutions for the 'gSDLL32.DLL Could Not Be Found' Problem</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-your-kyocera-printer-up-and-running-in-windows-driver-downloads-and-setup-instructions/"><u>Getting Your KYOCERA Printer Up & Running in Windows: Driver Downloads & Setup Instructions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723035879935-hero7-blacks-impact-on-high-quality-action-films/"><u>HERO7 Black's Impact on High-Quality Action Films</u></a></li>
+<li><a href="https://fox-info.techidaily.com/lifting-legends-top-10-super-strong-drones-for-2024/"><u>Lifting Legends Top 10 Super-Strong Drones for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncompromised-quality-a-side-by-side-comparison-of-apples-ipad-air-4-and-samsungs-galaxy-tab-s7plus/"><u>Uncompromised Quality: A Side-by-Side Comparison of Apple's iPad Air 4 & Samsung's Galaxy Tab S7+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-fun-and-learning-with-djis-robomaster-s1-an-exciting-battlebot-experience/"><u>Unleash Fun & Learning with DJI's RoboMaster S1: An Exciting Battlebot Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-dual-nature-of-nixplay-w15a-frame-designs/"><u>Unveiling the Dual Nature of Nixplay W15A Frame Designs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126213-9781609251703-your-guardian-angel-and-you/"><u>Your Guardian Angel and You | Free Book</u></a></li>
+</ul></div>
 

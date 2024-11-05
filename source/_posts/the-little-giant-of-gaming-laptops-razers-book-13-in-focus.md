@@ -1,7 +1,7 @@
 ---
 title: The Little Giant of Gaming Laptops - Razer's Book 13 in Focus
-date: 2024-08-15T09:04:19.923Z
-updated: 2024-08-16T09:04:19.923Z
+date: 2024-11-02T19:04:45.745Z
+updated: 2024-11-04T16:09:45.192Z
 categories:
   - BestProducts
 description: This Article Describes The Little Giant of Gaming Laptops - Razer's Book 13 in Focus
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/OomZdI0PtJL71IHhEOPe4BVnJwE=/400x300/fi
 * It's perfect for gaming and working.
 * The ability to put 2 video inputs up on screen at once is a killer feature.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Phillips Evnia 49-inch OLED Curved Gaming Monitor with Homeworld 3 on screen](https://www.lifewire.com/thmb/govWkxNkIY0F9rqtR6hrAUFAc88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeworldonevnia-6fcc806d2eca4fd08204bf54f11de53e.png)
 
  Showing off Homeworld 3.
@@ -30,9 +27,6 @@ Lifewire / Rob LeFebvre
 
  The[last big curved gaming monitor](https://www.lifewire.com/hands-on-45-inch-curved-aoc-agon-pro-8636916) I tried out is taller than this one, and at first, I was worried this would be too wide. Luckily, both my Mac and my PC are able to manage the 5120 pixels across by 1440 pixels tall to give me a ton of real estate for immersive gaming as well as working with a ton of windows up onscreen at once.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Visuals of the OLED Gaming Monitor
 
 ![Evnia 49-Inch curved gaming monitor on a table with two laptops connected](https://www.lifewire.com/thmb/4iaxQSd3_iBhSZVJ4w1Rv13wumE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualpictureevnia-9f424ca1818d4510ad0a1fdee2c08aff.png)
@@ -50,14 +44,22 @@ Lifewire / Rob LeFebvre
  There are a bunch of visual modes, too, catering to gamers, like an FPS mode that improves dark themes in games, letting you see more stuff in the shadows, a Racing Mode that adapts the display for fast visuals and high color, and an RTS mode that can highlight specific areas on the map to help you focus in on the game. Changing these provides some subtle differences visually, but it's already such a great monitor, it wasn't something that made me go "wow" too much.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Easy to Set Up and Use
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Diablo IV stretched across the Evnia Gaming monitor](https://www.lifewire.com/thmb/diVzTpgv1ZE8USl-Esp9opMkvaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stretchydiabloivevnia-37234b1b03594c2fa3b3e2b02c979570.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Diablo IV stretched across the screen.
 
@@ -74,16 +76,22 @@ This is definitely my new favorite monitor for gaming and work.
  The Evnia 49M2C8900 has four 7.5-watt speakers built-in, giving you up to 30W of sound output. I don't game much without a headset, but playing Spotify tunes through the speakers was pretty nice when I needed a break from my headphones at work. Good in a pinch, but you won't want to rely on them for gaming or high-end music.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Is the Phillips Evnia 49-inch OLED Curved Gaming Monitor Worth It?
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![The backside of the Evnia 49M2C8900](https://www.lifewire.com/thmb/qYxVHCte_noCbzFQ-CZuBvMXEk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/backsideevnia-cbcf2e43ca23478e8e5ffcbc2cfc982f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The backside with lights and stylish stand.
 
@@ -111,14 +119,11 @@ Tell us why!
 
  Submit
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +132,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-learn-the-ultimate-snap-sharing-trick-today-for-2024/"><u>[New] Learn the Ultimate Snap Sharing Trick Today for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-music-infused-videos-perfecting-sound-with-inshot/"><u>[New] Music-Infused Videos Perfecting Sound with InShot</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-pet-surveillance-petcubes-top-hd-camera-choice/"><u>Affordable Pet Surveillance: Petcube's Top HD Camera Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-choice-exceptional-earphones-of-2024/"><u>Audiophiles' Choice - Exceptional Earphones of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-functionality-and-style-a-comprehensive-look-at-the-iphone-se-2e-2020/"><u>Balancing Functionality and Style - A Comprehensive Look at the iPhone SE (2E) 2020</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/battery-powered-nest-doorbell-comprehensive-google-reviews-and-insights/"><u>Battery-Powered Nest Doorbell: Comprehensive Google Reviews and Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-digital-duplicates-to-increase-youtube-exposure/"><u>Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-security-discover-expressvpns-latest-addition-a-password-management-tool/"><u>Enhance Your Security: Discover ExpressVPN's Latest Addition - A Password Management Tool</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-interface-secret-techniques-to-master-windows-11/"><u>In 2024, Beyond the Interface Secret Techniques to Master Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/learn-screen-casting-on-macbook-air-step-by-step-for-2024/"><u>Learn Screen Casting on Macbook Air, Step by Step for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/massive-outage-affects-microsoft-365-services-understanding-the-cause-tech-news-by-zdnet/"><u>Massive Outage Affects Microsoft 365 Services: Understanding the Cause | Tech News by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-issues-with-cortanas-unresponsiveness-a-step-by-step-guide/"><u>Solving Issues with Cortana's Unresponsiveness: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722979937479-ultimate-guide-to-choosing-your-next-computer-apples-powerhouse-imac-reviewed/"><u>Ultimate Guide to Choosing Your Next Computer: Apple's Powerhouse iMac Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-lg-gram-17-notebook-top-performance-in-an-ultra-thin-frame/"><u>Unpacking the LG Gram 17 Notebook: Top Performance in an Ultra-Thin Frame</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-2024s-most-economical-smartphone-contract-options/"><u>Unveiling 2024'S Most Economical Smartphone Contract Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-review-of-samsungs-qn55q6f-ultra-hd-smart-tv/"><u>Unveiling the Benefits: A Review of Samsung's QN55Q6F Ultra HD Smart TV</u></a></li>
+</ul></div>
 

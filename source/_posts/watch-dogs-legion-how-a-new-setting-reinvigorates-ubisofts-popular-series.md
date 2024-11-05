@@ -1,7 +1,7 @@
 ---
 title: "'Watch Dogs: Legion': How a New Setting Reinvigorates Ubisoft’s Popular Series"
-date: 2024-08-15T09:05:00.619Z
-updated: 2024-08-16T09:05:00.619Z
+date: 2024-11-03T20:36:34.346Z
+updated: 2024-11-04T21:51:20.256Z
 categories:
   - BestProducts
 description: "This Article Describes 'Watch Dogs: Legion': How a New Setting Reinvigorates Ubisoft’s Popular Series"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/c3a01c2ae3f81e16b541392d97981a23b54ae2c3a
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/F035WaL3U8Q-n4fK2WBE6844lMo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
@@ -44,11 +41,15 @@ Lifewire / Emily Isaacs
 
 4.4
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Sculpt Ergonomic Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
 Lifewire / Emily Isaacs
@@ -77,6 +78,13 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  One unique feature of the Sculpt we loved was the function switch. Located on the upper-right hand side of the keyboard, this switch allows you to toggle the functionality of the top row keys, replacing the function key. Options include refreshing the active page, navigating to the home page in web, opening up the computer’s settings, a play/pause button, switching between active windows, and increasing or decreasing volume.
@@ -85,26 +93,16 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -113,9 +111,6 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
@@ -123,6 +118,19 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -134,10 +142,14 @@ Lifewire / Emily Isaacs
 
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -172,8 +184,6 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +191,21 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-connecting-players-and-friends-stream-xbox-to-fb/"><u>[New] In 2024, Connecting Players & Friends Stream Xbox to FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveil-the-subject-background-removal-techniques-in-photopea/"><u>[Updated] Unveil the Subject Background Removal Techniques in Photopea</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly/"><u>2024 Approved Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-practices-saving-whatsapp-conversations-audio-wise-for-2024/"><u>Best Practices Saving WhatsApp Conversations Audio-Wise for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-m3-macbook-airs-financial-justification/"><u>Delving Into M3 MacBook Air's Financial Justification</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-iphone-virus-protection-programs-available-today/"><u>Discover the Finest iPhone Virus Protection Programs Available Today</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-economical-cell-phone-deals-for-2atur2024-savings-that-count/"><u>Discover the Most Economical Cell Phone Deals for 2Atur2024: Savings That Count!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-top-ranking-accessories-the-best-mice-tailored-for-ipads/"><u>Discover Top-Ranking Accessories: The Best Mice Tailored for iPads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/echo-pop-vs-echo-dot-which-one-suits-you-best/"><u>Echo Pop Vs. Echo Dot - Which One Suits You Best?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-selection-of-extended-computer-mats-for-enhanced-precision-2024-edition/"><u>Elite Selection of Extended Computer Mats for Enhanced Precision - 2024 Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-of-social-networking-facebook-tweetdeck-gramflex-and-vidplay/"><u>Exploring the Big Four of Social Networking: FaceBook, TweetDeck, GramFlex & VidPlay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-v27-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Vivo V27 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-10-best-trending-background-music-for-youtube-shorts/"><u>In 2024, The 10 Best Trending Background Music for YouTube Shorts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-end-to-end-guide-to-picsart-for-2024/"><u>The End-to-End Guide to PicsArt for 2024</u></a></li>
+</ul></div>
 

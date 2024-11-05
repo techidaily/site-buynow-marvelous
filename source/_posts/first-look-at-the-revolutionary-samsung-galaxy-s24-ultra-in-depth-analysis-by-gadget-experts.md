@@ -1,7 +1,7 @@
 ---
 title: First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
-date: 2024-10-26T23:59:34.370Z
-updated: 2024-10-30T07:51:05.682Z
+date: 2024-11-01T00:23:27.138Z
+updated: 2024-11-04T20:23:25.293Z
 categories:
   - BestProducts
 description: This Article Describes First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
@@ -41,13 +41,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
@@ -74,13 +67,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -89,6 +75,13 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Comfort: You’ll forget you’re wearing it**
@@ -96,6 +89,13 @@ Lifewire / Erika Rawes
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -115,21 +115,7 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Garmin Connect App**
 
@@ -142,10 +128,10 @@ Lifewire / Erika Rawes
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -156,9 +142,29 @@ Lifewire / Erika Rawes
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -210,19 +216,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] 2024 Approved Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-masterful-mac-microphone-software-ranking-the-excellent-five/"><u>[New] In 2024, Masterful Mac Microphone Software Ranking the Excellent Five</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazons-best-deal-on-e-readers-the-reliable-and-economical-kindle-of-2019/"><u>Amazon's Best Deal on E-Readers - The Reliable and Economical Kindle of 2019</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-the-garmin-forerunner-amoeba-745-a-game-changer-in-fitness-tracking-technology/"><u>Comprehensive Review: The Garmin Forerunner Amoeba 745 - A Game Changer in Fitness Tracking Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elegance-of-skagen-falster-2-the-sleek-challenger-to-apples-dominance/"><u>Discover the Elegance of Skagen Falster 2 - The Sleek Challenger to Apple's Dominance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/disrupting-the-market-dyson-enters-with-ontrac-wireless-earbuds-vs-apples-airpods-pro/"><u>Disrupting the Market: Dyson Enters with OnTrac Wireless Earbuds vs Apple's AirPods Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-radeon-hd/"><u>Download & Update AMD Radeon HD</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y27s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y27s without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max Passcode Screen?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-huawei-nova-y71-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Huawei Nova Y71 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-5-essentials-preparing-to-purchase-a-secondhand-ipad/"><u>Top 5 Essentials: Preparing to Purchase a Secondhand iPad</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-photos-with-nixplay-iriss-cloud-capability/"><u>Transform Your Photos with Nixplay Iris's Cloud Capability</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshoot-windows-11-startup-issues-using-revouninstaller-a-step-by-step-guide/"><u>Troubleshoot Windows 11 Startup Issues Using RevoUninstaller - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-average-podcast-income-whats-the-payoff/"><u>[New] Average Podcast Income What's the Payoff?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-rapid-rendering-powerpoint-recordings/"><u>[New] Rapid Rendering PowerPoint Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-meeting-mastery-how-to-navigate-effortlessly-through-zoom-sessions-for-2024/"><u>[Updated] Virtual Meeting Mastery How to Navigate Effortlessly Through Zoom Sessions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exquisite-photographic-saga-assembler/"><u>2024 Approved Exquisite Photographic Saga Assembler</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-external-hard-drive-choices-for-xbox/"><u>2024 Approved Premier External Hard Drive Choices for Xbox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-bip-review/"><u>Amazfit Bip Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-xbox-series-ss-remarkable-miniature-build-and-advanced-technology/"><u>Comprehensive Analysis of the Xbox Series S's Remarkable Miniature Build and Advanced Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-the-huawei-p20-pro-delivers-stellar-image-capabilities-in-a-well-rounded-smartphone/"><u>Comprehensive Review: The Huawei P20 Pro Delivers Stellar Image Capabilities in a Well-Rounded Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critical-analysis-of-the-google-pixel-6-impressions-and-photos/"><u>Critical Analysis of the Google Pixel 6: Impressions and Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-graphics-for-stunning-visuals/"><u>Enhance Graphics for Stunning Visuals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersing-into-new-horizons-with-watch-dogs-legion-game-review-and-analysis/"><u>Immersing Into New Horizons with 'Watch Dogs: Legion' - Game Review & Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-x-flip-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo X Flip Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-galactic-warfare-revealing-the-thrills-within-the-world-of-star-wars-squadrons/"><u>Mastering Galactic Warfare: Revealing the Thrills Within the World of Star Wars: Squadrons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-with-ease-an-all-inclusive-guide-to-powerdirector-2024/"><u>Navigate with Ease An All-Inclusive Guide to PowerDirector 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-gaming-with-razer-controllers-download-and-keep-updated-on-any-version-of-windows/"><u>Seamless Gaming with Razer Controllers: Download and Keep Updated on Any Version of Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secure-your-stream-with-these-top-5-mac-tools-for-2024/"><u>Secure Your Stream with These Top 5 Mac Tools for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-guide-to-the-samsung-galaxy-tab-s5e-your-ultimate-android-tablet-choice-revealed/"><u>The Complete Guide to the Samsung Galaxy Tab S5e – Your Ultimate Android Tablet Choice Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-hp-stream-11-your-essential-space-saving-computing-solution/"><u>The HP Stream 11 – Your Essential, Space-Saving Computing Solution</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>Updated In 2024, The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
 </ul></div>
 

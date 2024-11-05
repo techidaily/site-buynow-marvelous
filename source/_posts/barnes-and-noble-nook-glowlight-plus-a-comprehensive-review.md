@@ -1,7 +1,7 @@
 ---
 title: Barnes & Noble Nook GlowLight Plus - A Comprehensive Review
-date: 2024-08-15T09:09:06.986Z
-updated: 2024-08-16T09:09:06.986Z
+date: 2024-10-28T22:02:36.633Z
+updated: 2024-11-05T04:22:36.961Z
 categories:
   - BestProducts
 description: This Article Describes Barnes & Noble Nook GlowLight Plus - A Comprehensive Review
@@ -39,12 +39,16 @@ Lifewire / Andy Zahn
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Razer Book 13
 
 ![Razer Book 13](https://www.lifewire.com/thmb/0i6VvZqT39MNfVUbDSY7z3l8-Tw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_HeroSquare-80401fcfbef94a1b8444cd0832388aac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -72,9 +76,6 @@ Lifewire / Andy Zahn
 
  An[ultrabook](https://www.lifewire.com/best-laptops-to-buy-4043650) is typically a thing of compromises, and if you want a laptop that’s thin and light, power is often sacrificed. However, the Razer Book 13 challenges that stereotype and offers a sleek and attractive alternative to other high-end[ultra-portables](https://www.lifewire.com/best-lightweight-laptops-to-buy-4065134) . I tested it for 40 hours to find if it can live up both to its stunning ultrabook looks and Razer’s prowess in building high-powered gaming laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Beauty in minimalism
 
  Razer is known for their flashy gaming-focused laptops, mice, and keyboards that are clearly marketed towards gamers, but they have always also employed a certain degree of restraint over some more exuberant gaming products. With the Book 13, that restraint is pushed even further with only a few tasteful reminders of the laptop’s gaming heritage—the twisted snaky Razer logo on the top, and of course RGB backlighting for the keyboard.
@@ -91,16 +92,10 @@ Lifewire / Andy Zahn
 
  For such a thin laptop, there’s a surprising amount of ports included with the Book 13\. You get 4[Thunderbolt ports](https://www.lifewire.com/what-is-thunderbolt-832713) , a USB type-A port,[HDMI port](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a microSD slot, and a 3.5mm headphone/microphone combo port. Such a versatile array of inputs is not to be taken for granted these days, and is a big point in the Book 13’s favor.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Setup Process: Very straightforward
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Display: Positively stunning
 
  The Razer Book 13 configuration we tested comes with an absolutely gorgeous 13.5-inch UHD 60Hz display that is both very color accurate and provides stunning visuals. This is great for both creative tasks that require color accuracy, and for media consumption. The 16:10 aspect ratio is definitely tailored for productivity. The bezel is attractively thin, and the screen is made of Gorilla Glass 6, making it highly scratch resistant.
@@ -122,13 +117,30 @@ Lifewire / Andy Zahn
  The Book 13 is equipped with a 512GB SSD. This is good enough, but it would have been nice to have a full terabyte of storage.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Software: No bloat
 
  I’m pleased to report that the Book 13 is pretty much free of bloat. Aside from the usual bits and bobs you get with Windows 10 Home, the laptop does come with Razer Synapse installed, which is absolutely essential as it allows you to control the customizable RGB backlighting in the keyboard, among a few other useful functions.
 
 ![Razer Book 13](https://www.lifewire.com/thmb/hKfA1c1e0-bRVVhMU22PtI2GewM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_03-23b08f335541443ebe1e7d7763140eca.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -136,28 +148,32 @@ Lifewire / Andy Zahn
 
  With[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , the Book 13 had no trouble taking full advantage of my home network. It provides a fast and reliable connection, and Bluetooth 5.0 is available as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Battery: Juice for the day
 
  Razer claims a battery life of up to 10 hours or even a bit more, and I found this to be accurate. The Book 13 should get you through a day at the office without needing to recharge, depending upon use, of course.
 
 ![Razer Book 13](https://www.lifewire.com/thmb/6yYQ1e8vR0Ldvs2GP61CrvFy3zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_05-1c8a8e1bdd78413fb72cc6307a07ea40.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Audio: Big sound for a small laptop
 
  You wouldn’t expect to get good audio out of such a small laptop, but the Book 13 does quite well in this regard. It features THX spatial audio and delivers a remarkably good listening experience. It’s certainly loud enough to deliver sound at max volume without noticeable distortion. 2Cellos cover of “Thunderstruck” is my go-to song for testing speakers and headphones, and I also listened to their new cover of “Livin’ on a Prayer.” The Book 13 rendered them both beautifully.
 
 ![Razer Book 13](https://www.lifewire.com/thmb/PL2MokPWQ_egcxv3fE0tw_k09Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_04-6eed60095cbe467c9552c651ba4c9d46.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -168,6 +184,13 @@ Lifewire / Andy Zahn
 
  The webcam on the Book 13 is about average for a laptop. It captures 720p video and is perfectly acceptable, though not exceptional in any way. Video quality looks decent, even in relatively challenging situations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Price: The cost of quality
 
  The configuration of the Razer Book 13 I tested is definitely pricey at $2,000\. That’s a decent chunk of change, and you could certainly buy a laptop with more graphical power for the money, but the Book 13 isn’t made for high-end gaming.
@@ -175,6 +198,13 @@ Lifewire / Andy Zahn
  Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
 
  This is a premium, ultra-portable device designed more for professional work, and its ability to game is basically a nice bonus. Considering the competition from Dell and Apple, it’s not unreasonably priced.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Razer Book 13 vs. Dell XPS 13 7390 2-in-1
 
@@ -188,9 +218,6 @@ Lifewire / Andy Zahn
 
  There’s a lot to love about the Razer Book 13, and not a lot of negative things to say about it. It’s not a graphical powerhouse, but the fact that it’s able to game at all is remarkable. Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Laptop Go](https://www.lifewire.com/microsoft-surface-laptop-go-review-5088869)
@@ -220,8 +247,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +254,19 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-giggles-galore-an-in-depth-look-at-the-goofy-film-for-2024/"><u>[New] 'Giggles Galore' – An In-Depth Look at The Goofy Film for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-incredible-method-unlock-mac-using-apple-watch/"><u>[Updated] In 2024, Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expanding-minds-virtualizing-classrooms/"><u>2024 Approved Expanding Minds, Virtualizing Classrooms</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-meizu-21-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Meizu 21 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-discovering-charismatic-faces-on-your-snaps/"><u>In 2024, Discovering Charismatic Faces on Your Snaps</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/raid-ahci/"><u>RAID と AHCI:どっちのパフォーマンスが上回りますか？</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-over-60-savings-on-amazons-fire-hd-ebox-tablet-exclusive-deals-curated-by-zdnet/"><u>Score a Steal with Over 60% Savings on Amazon's Fire HD Ebox Tablet – Exclusive Deals Curated by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-getting-microsoft-edge-back-online/"><u>Solving Common Issues: Getting Microsoft Edge Back Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-the-streaming-devices-which-is-superior-chromecast-or-roku/"><u>The Battle of the Streaming Devices: Which Is Superior, Chromecast or Roku?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-2024s-best-audio-equipment/"><u>The Ultimate Guide to 2024'S Best Audio Equipment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-free-hdtv-on-a-budget-experience-with-the-amazonbasics-antenna/"><u>The Ultimate Guide to Free HDTV on a Budget - Experience with the AmazonBasics Antenna</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-audio-headphones-of-2024-ultimate-list/"><u>Top Audio Headphones of 2024 - Ultimate List</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The HP OMEN Obelisk Unveiled: High-End Gaming Desktop for a Steal of a Deal"
-date: 2024-08-15T09:08:26.351Z
-updated: 2024-08-16T09:08:26.351Z
+date: 2024-10-28T16:04:37.176Z
+updated: 2024-11-05T00:28:50.027Z
 categories:
   - BestProducts
 description: "This Article Describes The HP OMEN Obelisk Unveiled: High-End Gaming Desktop for a Steal of a Deal"
@@ -37,10 +37,6 @@ Lifewire / Jonno Hill
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
@@ -72,9 +68,6 @@ Lifewire / Jonno Hill
  How has HP reconciled all these things, and what does it mean for potential owners? Let’s take a look at the performance, build quality, and usability of this space-conscious gaming desktop.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -99,15 +92,9 @@ Lifewire / Jonno Hill
  The lighting system is also approachable and understated, giving a little bit of customizable flare without going too over the top. As you’ll see later in the software section, HP has made it very straightforward to tweak any of these settings to your satisfaction.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -129,8 +116,12 @@ Lifewire / Jonno Hill
  Lastly, I ran the notoriously resource-heavy Deus Ex: Mankind Divided using a few different profiles. On Ultra settings, the OMEN Obelisk saw just 55.7fps on average, with a minimum of 44.6fps and a maximum of 61.6fps. Dialing things down one level to Very High, things looked only slightly rosier: 58.1fps average, 49.5fps minimum, 62.2fps maximum. Finally, turning it down one more level to High found a sweet spot: 75.8fps average, 62.8fps minimum, 96.6 FPS maximum.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -142,9 +133,12 @@ Lifewire / Jonno Hill
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Just enough options**
 
  The HP OMEN Obelisk comes with the OMEN Command Center, which is used to manage your desktop as well as any other OMEN products such as headsets, keyboards, and mice. From here, you have the option to click on your desktop and start managing your PC or choose from one of the various other options such as rewards, coaching, remote play, and My Games (a game launcher).
@@ -155,6 +149,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -162,11 +163,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -199,14 +211,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,4 +224,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>[Updated] 2024 Approved Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>[Updated] 2024 Approved Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-adding-subtitles-a-step-by-step-youtube-video-approach/"><u>[Updated] In 2024, Adding Subtitles A Step-by-Step YouTube Video Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-sharpen-your-vision-in-the-world-of-roblox/"><u>2024 Approved How to Sharpen Your Vision in the World of Roblox</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-in-depth-comparison-of-trillers-features-to-tiktok-max-156-chars/"><u>In 2024, In-Depth Comparison of Triller's Features to TikTok (Max 156 Chars)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/locking-down-your-secrets-not-on-ai-platforms/"><u>Locking Down Your Secrets, Not on AI Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-webcam-driver-updates-for-optimal-performance-in-windows-10/"><u>Mastering Webcam Driver Updates for Optimal Performance in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quickscreencapture-simple-windows-10-app-for-2024/"><u>QuickScreenCapture Simple Windows 10 App for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/redefining-user-experience-with-the-compact-charm-of-samsungs-galaxy-s21/"><u>Redefining User Experience with the Compact Charm of Samsung's Galaxy S21</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-7-days-to-die-transforming-the-undead-in-7-nights-on-solo-play/"><u>Review of '7 Days to Die': Transforming the Undead in 7 Nights on Solo Play</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-screen-time-with-taylor-swift-movie-marathon-essentials/"><u>Sequential Screen Time with Taylor Swift: Movie Marathon Essentials</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-smartphone-experience-with-google-pixel-4a-a-complete-review/"><u>Simplified Smartphone Experience with Google Pixel 4A - A Complete Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ihome-zenergy-mattress-side-sleep-enhancer-transforming-slumber-into-invigorating-dawns-product-reviewed/"><u>The IHome Zenergy Mattress-Side Sleep Enhancer: Transforming Slumber Into Invigorating Dawns – Product Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-increasing-game-selection-on-your-nes-classic-system/"><u>The Ultimate Guide: Increasing Game Selection on Your NES Classic System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-hd-webcam-evaluation-the-logitech-c920-pro/"><u>Top Rated HD Webcam Evaluation: The Logitech C920 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+</ul></div>
 

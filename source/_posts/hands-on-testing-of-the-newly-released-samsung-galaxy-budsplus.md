@@ -1,7 +1,7 @@
 ---
 title: Hands-On Testing of the Newly Released Samsung Galaxy Buds+
-date: 2024-08-15T09:05:31.918Z
-updated: 2024-08-16T09:05:31.918Z
+date: 2024-10-28T19:31:01.715Z
+updated: 2024-11-04T17:48:47.637Z
 categories:
   - BestProducts
 description: This Article Describes Hands-On Testing of the Newly Released Samsung Galaxy Buds+
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/GCJz_I8wo6QSdRbJ0vDUONx3v98=/400x300/fi
 
 ## Assassin's Creed Valhalla (PC)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AC Vallhalla](https://www.lifewire.com/thmb/uNOEoXtNzm8yuWudHDVzDNDutY8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Assassins-Creed-Valhalla-1-b7cabc5b5656439bbb47518048f57aa5.jpg)
 
  Lifewire / Andy Zahn
@@ -42,8 +39,12 @@ thumbnail: https://www.lifewire.com/thmb/GCJz_I8wo6QSdRbJ0vDUONx3v98=/400x300/fi
 4.8
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Assassin's Creed Valhalla (PC)
 
 ![AC Vallhalla](https://www.lifewire.com/thmb/1uTfLpDv2WlYuf-Ekg6qBUTQqP4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Assassins-Creed-Valhalla-1-b7cabc5b5656439bbb47518048f57aa5.jpg)
@@ -93,9 +94,12 @@ thumbnail: https://www.lifewire.com/thmb/GCJz_I8wo6QSdRbJ0vDUONx3v98=/400x300/fi
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Easy to pick up, challenging to master**
 
  Valhalla’s gameplay will be familiar to fans of the Assassin's Creed franchise, particularly the more recent entries in the series. As usual, there are tweaks and innovations, but it was easy enough for me to pick up, with my most recent experience being with AC Unity. Players who’ve played Origins and Odyssey will find much to be familiar. The fluid movement and iconic parkour makes navigating around the expansive open world fun and engaging, though novices may accidentally fling themselves off a cliff or two by accident as they learn the ropes.
@@ -110,9 +114,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Ubisoft has truly mastered the mechanics of boats, and sailing is just pure joy with your loyal crew singing their way down the fjords as the wind whistles in the rigging, your ship riding the realistic swells. Alternatively, your bard may accompany your seafaring with diverting tales. If there’s one downside is that unlike Odyssey, there’s no ship-to-ship naval combat, but perhaps that makes sense because the Vikings were more land raiders despite their extensive use of longboats to travel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![AC Valhalla 3](https://www.lifewire.com/thmb/giaP-JV9QK6uFcdU_di4iWkvszw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-5-56a01de51a2a4540ae8650bece502873.jpg)
 
  Lifewire / Andy Zahn
@@ -141,16 +142,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Orlog is an interesting dice game that I would honestly like to own in real life, and the drinking minigame is a highly enjoyable reflex-based challenge. A nice touch is that the results of imbibing huge amounts of mead persist for a period of time after the minigame is complete. After all, are you really a Viking warrior if you’re not completely drunk all the time?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AC tattoos](https://www.lifewire.com/thmb/trRirIDsjFej03o-_HDCFsnnrzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-6-5449cde060b441a499a5189fda9a7a0a.jpg)
 
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Customization: Lots of stuff to tweak**
 
  As in Odyssey, the game allows you to play as either male or female, and offers a range of cosmetic options, mainly by way of tattoos and hairstyles. New tattoo patterns are acquired through parkour challenges. What’s more interesting is the gameplay affecting clothing and weapons that alter your appearance—I particularly appreciated that upgrading those items affects their looks. You can choose from different ravens and horses, and change the appearance of your longship. Eventually, you will also be able to customize the appearance of your settlement.
@@ -163,12 +165,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Towns and cities are richly detailed, with people going about their daily business in this muddy and gritty medieval setting. The wilderness is also magnificent, with wild natural beauty and towering ruins in equal measure. Wildlife and farm animals are both present in this world, adding vibrancy to the countryside.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![AC Mountain](https://www.lifewire.com/thmb/YazM4IIiw6qfR_cd-AfR8Cek9pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-10-b813058de14c4b92978d22f84715ab98.jpg)
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process and Performance: A rough start**
 
@@ -178,10 +184,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  When I first jumped into the game after the intro cutscene, I was greeted with the most horrendous graphics glitching I’ve ever experienced. Thinking this was because I had foolishly maxed the settings I restarted after tweaking down graphics, but upon restart, the glitches were appearing in the menu itself. I exited the game and the glitches persisted for about 10 seconds after Valhalla had closed. The built-in benchmarking tool in the game refused to run entirely. In the end, I decided not to push my luck with the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![AC ruins](https://www.lifewire.com/thmb/R1pb8_CqlpJqAmK9Ka9-pgyOyJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-3-ea07cee8afaa4cc89c4e2bb286b894a0.jpg)
 
  Lifewire / Andy Zahn
@@ -191,15 +193,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Of course, if you’re playing on[console](https://www.lifewire.com/best-gaming-consoles-4154610) you don’t have to worry about performance issues since the game is better optimized. It’s currently available for Xbox One and PlayStation 4, and will be available for the Xbox Series X and PlayStation 5 at launch. You can also get it on[Google Stadia](https://www.lifewire.com/google-stadia-review-4788032) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Typical AAA**
 
  The base game will set you back the typical $60, while the gold edition bundles in the season pass and costs a full $100\. That will include the planned expansions which will add Ireland and France to the map. Expensive though $100 is, it does promise a potentially huge amount of content. The game also has microtransactions, which is a bit of a bummer, though these weren’t integrated into the game at the time of writing.
 
 ![AC horse](https://www.lifewire.com/thmb/teY5MG-6xAT5sxNurIFy_iYPPvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-2-58ab82ef1f624e01b1c1c6dab8bca06b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Assassin’s Creed: Valhalla vs. Watch Dogs: Legion**
 
@@ -211,9 +231,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Assassin’s Creed: Valhalla exceeds, as Assassin’s Creed games so often do, in creating the most painstakingly detailed virtual recreation of a place and period possible. It’s got exploration, intense combat, and enthralling stories by the bucket full, and it’s easy to get lost in its sheer scope and scale. Just beware if you’re playing on a PC that will test the limits of your gaming rig.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Assassin's Creed Valhalla (PC)
@@ -222,14 +239,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Platforms  PC, Xbox Series X, Xbox One, PlayStation 5, PlayStation 4, Stadia
 * Rating  M
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,4 +252,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-conference-room-to-youtube-google-meet-broadcasting/"><u>[New] 2024 Approved From Conference Room to Youtube Google Meet Broadcasting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-into-action-efficient-office-photography-tips/"><u>[Updated] Snap Into Action Efficient Office Photography Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>2024 Approved The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-features-of-the-iphone-13-expert-review/"><u>Breaking Down the Features of the iPhone 13 - Expert Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-tp-link-re200-ac750-wifi-signal-booster-review-value-and-performance-insights/"><u>Budget-Friendly TP-Link RE200 AC750 WiFi Signal Booster Review: Value and Performance Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/caixuns-75-4k-smart-tv-a-budget-conscious-buyers-guide-and-performance-review/"><u>Caixun's 75 4K Smart TV: A Budget-Conscious Buyer's Guide and Performance Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/catalina-transition-made-simple-the-ultimate-guide/"><u>Catalina Transition Made Simple: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/charge-your-fitness-journey-with-fitbit-charge-n-review-and-competitive-assessment/"><u>Charge Your Fitness Journey with Fitbit Charge N: Review & Competitive Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-a71-5g-the-smart-choice-beyond-top-tier-phones/"><u>Comprehensive Analysis of the Samsung Galaxy A71 5G - The Smart Choice Beyond Top-Tier Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-if-a-macos-sonoma-transition-fits-my-needs/"><u>Deciding if a MacOS Sonoma Transition Fits My Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-brilliant-picture-quality-on-lgs-4k-oled-c9-a-comprehensive-65-inch-smart-television-review/"><u>Discover Brilliant Picture Quality on LG's 4K OLED C9 – A Comprehensive 65-Inch Smart Television Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-drive-how-the-escort-ix-radar-detectors-adaptive-learning-technology-keeps-you-one-step-ahead-on-the-road/"><u>Elevate Your Drive: How the Escort iX Radar Detector's Adaptive Learning Technology Keeps You One Step Ahead on the Road</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-how-to-keep-graphics-drivers-current-in-windows-11/"><u>Expert Advice: How to Keep Graphics Drivers Current in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-tool-convert-mp4-audio-tracks-to-high-quality-mp3-files/"><u>Free Online Tool: Convert MP4 Audio Tracks to High-Quality MP3 Files</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-auditory-insights-into-ffmpeg-audio-processing/"><u>In 2024, Auditory Insights Into FFmpeg Audio Processing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safeguarding-your-privacy-erasing-iphone-and-ipad-contents-from-afar/"><u>Safeguarding Your Privacy: Erasing iPhone & iPad Contents From Afar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-relying-on-ai-5-critical-reasons-to-doubt-chatgpts-health-guidance/"><u>The Risks of Relying on AI: 5 Critical Reasons to Doubt ChatGPT's Health Guidance</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-fluctuating-frame-rates-solutions-and-tips/"><u>Unraveling the Mystery Behind Fluctuating Frame Rates: Solutions and Tips</u></a></li>
+</ul></div>
 

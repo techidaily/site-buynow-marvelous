@@ -1,7 +1,7 @@
 ---
 title: "The Traveler's Essential: Universal MoKo Bluetooth Keyboard with Folding Design"
-date: 2024-08-15T09:04:30.559Z
-updated: 2024-08-16T09:04:30.559Z
+date: 2024-10-28T20:34:55.924Z
+updated: 2024-11-04T22:02:23.450Z
 categories:
   - BestProducts
 description: "This Article Describes The Traveler's Essential: Universal MoKo Bluetooth Keyboard with Folding Design"
@@ -39,29 +39,22 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2K NBA 2K19 (PlayStation 4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/F87icpH4iTJJpiVp_cNJbOlHFPQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353-HeroSquare-3b0318500db84677b58649cacfa1d321.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Eric Watson
 
@@ -86,9 +79,6 @@ Key features:
 
  It’s the 20th anniversary of 2K sports’ long-running basketball franchise with NBA 2K19\. The 2K series has earned its place among top tier sports games thanks to tight controls and advanced ball-handling techniques, as well as robust modes for a story-based career, a card-based[fantasy team](https://www.lifewire.com/how-to-put-together-a-winning-team-in-final-fantasy-xii-4066654) , and leading an entire franchise to legendary stardom. NBA 2K has weathered past complaints of focusing too much on the ever-prevalent virtual currency microtransactions, which continue to mar an otherwise solid basketball game.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/YMXeWIxicIbj-86epw-TmdCR6Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_04-8c4928a895a842cfa8abf52e0e1beb01.jpg)
 
  Lifewire / Eric Watson
@@ -97,19 +87,20 @@ Key features:
 
  Getting things ready is just a matter of putting in the disc and waiting for updates to install or doing a digital download. Nothing more to it.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/M0pJx3LQWfKzQz2c6Cn61WEoZGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_07-bbd2e90a40b241c097157fea5b64a6f7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Eric Watson
 
@@ -123,16 +114,10 @@ Key features:
 
  Defense feels especially rewarding, with high-speed steals and ever-present blocks forcing nearly every offensive engagement into a tactical matchup. The controls are easy to learn but tricky to master, resulting in a satisfying balance if you have the patience. Completely new players may be in for a bit of a hill to climb, however, as the practice mode tutorial is a hot mess of laborious tooltips.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/Sy1Ow0C2SYcU7a6suicNTH7_juQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_03-328b17a765df4296b364ba758a1cb996.jpg)
 
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Game Modes: Leagues, teams, and players**
 
  NBA 2k19 features the usual quick play modes where you can take your favorite team on a full season-long journey, or simply grab a few players for some casual blacktop basketball. Numbers range from one-on-one to five-on-five and everything in between.
@@ -146,6 +131,13 @@ Key features:
 ![NBA 2K19](https://www.lifewire.com/thmb/fQL8t4zVGC3TbDs-So90d2zQRUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_05-f274e7c4b78f4b329eb75f1baf368922.jpg)
 
  Lifewire / Eric Watson
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **The Way Back: Go mad Ants!**
 
@@ -161,6 +153,13 @@ Key features:
 
 ![NBA 2K19](https://www.lifewire.com/thmb/i0CH0_5PrBA7hMefnDah7sN9tL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_06-5d9dbed07cd6485ab0ffa086aa6159c8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
 ## **Graphics: Impressive player models**
@@ -169,10 +168,14 @@ Key features:
 
  On the flip side, the story campaign in MyPlayer looks like it includes actual motion captured actors and proper facial animations. It wouldn’t fare well against actual RPGs or cinematic action-adventure games, but it’s more than good enough to immerse us into the silly, but enjoyable, sports drama story.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![NBA 2K19](https://www.lifewire.com/thmb/GQqDajx1FiwtAGoQNa9kvOdWSm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_02-ec4a0e03284c40609e12cab38f96f030.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Eric Watson
 
@@ -184,10 +187,6 @@ Key features:
 
 [The soundtrack](https://www.liveabout.com/gaming-4842275) is also solid, featuring over 50 hip-hop and rock-pop tracks mixed and curated by rapper Travis Scott (who also provides five of the tracks). Other artists include Alison Wonderland, Migos, Bruno Mars, Brockhampton, and Angel the God.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## **Price: Pricey anniversary edition**
 
  Like all major sports game franchises, NBA 2K19 always launches with a full $60 price tag, and like most games, that price will drop and get discounted throughout the year. NBA 2K19 enjoys deeper discounts and sale prices than most sports games, however, often at prices of $20 or less depending on how long you’re willing to wait. Even at full price NBA 2K19 is an easy recommendation for sports fans.
@@ -205,8 +204,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Given the large number of dunks, passes, throws, and technical maneuvers you can perform, all while facing a shot clock, a stingy defense, and a boringly lame tutorial, NBA 2K19 may be one of the most difficult sports games to jump into. Your patience will be rewarded, however, as it’s a tight, deeply strategic and satisfying basketball simulator, with some fun extra modes and a surprisingly enjoyable career story. That said, we wish 2K would ease up on the virtual currency.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  NBA 2K19 (PlayStation 4)
@@ -217,14 +220,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Multiplayer  Online, Local
 * Platforms  PC, PlayStation 4, Switch, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,4 +233,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-stream-to-screen-how-to-download-youtube-on-iphoneipad-for-2024/"><u>[Updated] From Stream to Screen How to Download Youtube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-gif-tool-guide-tips-from-the-experts/"><u>[Updated] In 2024, Essential GIF Tool Guide Tips From the Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-all-you-need-to-know-about-the-apple-m1-max-clip/"><u>2024 Approved All You Need to Know About the Apple M1 Max Clip</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-online-helpdesk-expert-guidance-on-winx-dvd-rip-and-convert-suite/"><u>Comprehensive Online Helpdesk: Expert Guidance on WinX DVD Rip & Convert Suite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-value-in-gaming-laptops-the-acer-predator-triton-300-se-breakdown/"><u>Exploring the Best Value in Gaming Laptops: The Acer Predator Triton 300 SE Breakdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-budget-friendly-alcatel-joy-tab-2-with-built-in-lte-a-comprehensive-review/"><u>Exploring the Budget-Friendly Alcatel Joy Tab 2 with Built-In LTE - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fashionable-fitness-on-your-wrist-an-amazfit-gts-analysis/"><u>Fashionable Fitness on Your Wrist: An Amazfit GTS Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-disconnected-speakers-or-noise-absence-problems-on-windows-computers/"><u>Fix Disconnected Speakers or Noise Absence Problems on Windows Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-track-to-trail-pro-runner-reviews-garmin-forerunner-45-the-gps-device-for-serious-athletes/"><u>From Track to Trail: Pro Runner Reviews Garmin Forerunner 45 - The GPS Device for Serious Athletes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-the-features-and-performance-of-apple-watch-series-9-vs-fitbit-charge-n/"><u>Head-to-Head Comparison: The Features and Performance of Apple Watch Series 9 Vs. Fitbit Charge N</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/imaginefx-editor-for-2024/"><u>ImagineFX Editor for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-techniques-and-tools-for-fast-quality-image-reductions/"><u>In 2024, Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-apple-iphone-12-why-its-a-game-changer/"><u>In-Depth Analysis of the Apple iPhone 12: Why It's a Game-Changer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x12-reveal-a-top-tier-2-in-1-device-with-exceptional-keyboard-quality/"><u>In-Depth Lenovo ThinkPad X12 Reveal: A Top-Tier 2-in-1 Device with Exceptional Keyboard Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-virtual-hiring-9-proven-tips-for-skype-interviews/"><u>Mastering Virtual Hiring: 9 Proven Tips for Skype Interviews</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
+</ul></div>
 

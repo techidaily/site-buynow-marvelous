@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Testing of the Samsung Galaxy Note20 Ultra with 5G Capability
-date: 2024-08-15T09:05:33.952Z
-updated: 2024-08-16T09:05:33.952Z
+date: 2024-10-28T20:00:11.806Z
+updated: 2024-11-04T19:29:23.603Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Testing of the Samsung Galaxy Note20 Ultra with 5G Capability
@@ -37,12 +37,16 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy Fit
 
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/RBJ_qd0-iPj3u7qSA3GAXNn2byQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_04LW4161013-1-760c721cdfb74062a7b7a34dffa00d9e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -75,9 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Functional and slightly elevated**
 
  The Samsung Galaxy Fit is a fitness-oriented device, and the design reflects this. It’s clean, minimal, and straightforward. Not only is this wearable extremely lightweight at only 0.81 ounces, but it’s also quite slim, which gives it a bracelet-like appearance.
@@ -100,16 +101,17 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
 
  After that, we downloaded the compatible app for the device, called Galaxy Fit. We were able to pair the device in just a few seconds. We also had to download the Samsung Health app in order to access our activity data.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/E_Ki7o6LChwW9AdtjDKL2L1lHjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4161013-4-abd906dedc9c440188c23a5aabdfebe0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Comfort: Almost undetectable**
 
  Like the[Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-4174640) , this device also features a tucked-in strap. The difference is that there’s a little pin with a round head instead of the straight pin that most watch buckles have. This detail makes for an extremely close fit that verges on almost too close.
@@ -124,16 +126,10 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
 
  So while it was mostly comfortable for general wear and during exercise activities, we found that the fit suffered from being either too tight or too loose because the adjustments weren’t incremental enough. It was hard to find a just-right middle ground.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/SRdpyMKwwNLE2m_Dnn2o9thnpQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4161013-3-40a8d98ca4a04e7c9b5b18531df43e6f.jpg)
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: High marks for accuracy**
 
  Since fitness tracking is really the name of the game for this device, we had high hopes that it would perform well. We weren’t disappointed by what we found. We were pleased with its ability to automatically track running, swimming, and sleep activities.
@@ -153,17 +149,24 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Good for a full week of use**
 
  Samsung says this watch is good for up to seven to eight days with regular activity and use, and up to eleven days with minimal use. We found that this watch lasted on the initial charge for a full[eight days](https://www.lifewire.com/fitness-trackers-with-the-best-battery-life-4077272) , which lined up with the manufacturer claims. It’s hard to say how the battery life would stack up to multiple workouts in a day—we typically only did one a day over the course of a week, but our experience with the device supports the strong battery life claims.
 
  When we did have to charge the device again, we found that process to be speedy: it took only two hours to recharge in full.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Dial up your fitness with the Samsung Health app**
 
  Unlike other Samsung smartwatches, the Samsung Galaxy Fit is built on a FreeRTOS (real time operation software) platform. This OS relies heavily on the companion smartphone app and the Samsung Health app for a well-rounded experience.
@@ -173,13 +176,24 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
  In addition to controlling the watch settings easily from the[mobile app](https://www.lifewire.com/what-are-apps-1616114) , the Samsung Health app is the other go-to resource. Here you can view all the information captured by the activity tracker, including fitness, sleep, and even stress levels. You can also take this a step further by using the app to monitor calories, weight, and water intake.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Great for what you get**
 
  The Samsung Galaxy Fit retails for $99.99, which makes it a strong competitor in the fitness tracker market. Similarly-priced devices from the Fitbit brand offer an equivalent bundle of all-day activity tracking and general wellness features but lack the vibrant display of the Galaxy Fit.
 
  There are cheaper options out there, too, like the Garmin vívofit 4, which sells for between $60 and $80\. But it lacks a heart rate monitor or the smart capabilities of the Fit, like canned text-messaging responses and the ability to send calls straight to voicemail. For the activity tracking and smart device functionality, the Fit is a fair price and maybe even a bargain for some.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Samsung Galaxy Fit vs. Fitbit Inspire HR**
 
@@ -194,6 +208,13 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
 **An all-around winner for fitness-minded shoppers.**
 
  The Samsung Galaxy Fit is an appealing option for those who want a bit of smartwatch functionality and a heavy emphasis on exercise monitoring—without shelling out too much money. The fit, ironically, may be the largest issue. But if you’re able to find the right size, this may be everything you want in a fitness tracker.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -216,14 +237,11 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
 * Connectivity  Bluetooth 5.0 (LE only)
 * Warranty  1 year
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -232,4 +250,21 @@ thumbnail: https://www.lifewire.com/thmb/b7Z-Mphn3zMSLFDkGH3XE8_R30Y=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-ps4-game-capture-via-obs-studio/"><u>[Updated] 2024 Approved Mastering PS4 Game Capture via OBS Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[Updated] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
+<li><a href="https://discover-able.techidaily.com/2024mac-mac/"><u>「2024年度絕對不可失的Mac媲美品播放解 -【完全免費Mac影音資料夾選錯見！】」</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-leveraging-youtube-luck-a-no-ad-earnings-blueprint-for-content-masters/"><u>2024 Approved Leveraging YouTube Luck A No-Ad Earnings Blueprint for Content Masters</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-digital-assistance-with-abbyys-latest-innovation-the-new-mobile-capture-sdk-transforming-the-way-customers-experience-technology/"><u>Enhancing Digital Assistance with ABBYY's Latest Innovation: The New Mobile Capture SDK - Transforming the Way Customers Experience Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-radpowers-powerful-radcity-5-plus-a-heavyweight-contender-in-e-bikes/"><u>In-Depth Review: RadPower's Powerful RadCity 5 Plus - A Heavyweight Contender in E-Bikes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-explore-the-features-of-the-arlo-smart-security-solution/"><u>Interactive Guide: Explore the Features of the Arlo Smart Security Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-pro-vs-microsoft-surface-pro-a-comprehensive-feature-comparison/"><u>IPad Pro Vs. Microsoft Surface Pro: A Comprehensive Feature Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-netgear-c3000-a-vintage-choice-in-modern-modems-and-routers-a-critical-product-analysis/"><u>Is the Netgear C3000 a Vintage Choice in Modern Modems and Routers: A Critical Product Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leap-into-modernity-upgrading-from-windows-7-to-10/"><u>Leap Into Modernity: Upgrading From Windows 7 To 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/m06s-audio-offering-a-bluetooth-link-triumph/"><u>M06's Audio Offering: A Bluetooth Link Triumph</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-video-from-text-easily-step-by-step/"><u>New 2024 Approved How To Create Video From Text Easily Step-by-Step</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-resurrecting-non-displayed-fb-video-posts-2023/"><u>The Ultimate Guide Resurrecting Non-Displayed FB Video Posts, 2023</u></a></li>
+</ul></div>
 

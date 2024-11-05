@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Lenovo ThinkPad X12: A Stellar 2-in-1 Device with an Impressive Keyboard for Productivity Enthusiasts"
-date: 2024-08-15T09:05:26.299Z
-updated: 2024-08-16T09:05:26.299Z
+date: 2024-10-29T01:47:03.395Z
+updated: 2024-11-04T17:30:54.516Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing the Lenovo ThinkPad X12: A Stellar 2-in-1 Device with an Impressive Keyboard for Productivity Enthusiasts"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
 ## Microsoft Sculpt Ergonomic Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/F035WaL3U8Q-n4fK2WBE6844lMo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
 Lifewire / Emily Isaacs
@@ -44,9 +41,6 @@ Lifewire / Emily Isaacs
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
@@ -71,17 +65,18 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -101,9 +96,6 @@ Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -113,8 +105,18 @@ Lifewire / Emily Isaacs
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
@@ -123,9 +125,6 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
  The Sculpt’s main competition is the Microsoft Surface Ergonomic Keyboard. It’s a split-style ergonomic keyboard that connects wirelessly to a PC. Instead of using plastic materials, the Surface has a higher quality build that is not only more comfortable but slightly more sound-absorbent as well. And, better yet, the Surface uses the fan-favorite Alcantara fabric, an Italian material with a suede-like feel to it, as part of its wrist pad which makes it incredibly comfortable. Its numpad is attached, however, and it doesn’t include a magnetic riser. If you prefer your wrist sitting at a raised, more neutral angle, or if you like the idea of a detached numpad, the Sculpt is the clear winner here.
@@ -138,6 +137,13 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  The Surface is a high-end keyboard, but that quality comes at a higher price. The Surface tends to retail for around $129, much more than the Sculpt which retails for around $80\. That said, it’s an upgrade in almost every way. If you’re on a budget, the Sculpt is a great option, but if you’re able to splurge, the Surface is our top pick for wireless ergonomic keyboards.
@@ -149,6 +155,13 @@ Lifewire / Emily Isaacs
  **A secure, mid-priced wireless keyboard with lots of customization options.**
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -171,8 +184,6 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +191,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/nlightenment-streams-foremost-ed-resources-online/"><u>[New] Enlightenment Streams Foremost Ed Resources Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-bur-background-in-google-meet/"><u>[New] In 2024, How to Bur Background in Google Meet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>[New] Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-circle-construction-techniques-for-the-aspiring-minecraft-artist-for-2024/"><u>[Updated] Circle Construction Techniques for the Aspiring Minecraft Artist for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-seamlessly-download-igtv-for-iphoneandroid-users/"><u>2024 Approved Seamlessly Download IGTV for iPhone/Android Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-durability-and-display-unveiling-samsungs-upgraded-galaxy-z-fold-5-with-superior-hinge-design-and-more-luminous-screen-technology/"><u>Enhanced Durability and Display: Unveiling Samsung's Upgraded Galaxy Z Fold 5 with Superior Hinge Design and More Luminous Screen Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hardness-must-be-balanced-with-biocompatibility-to-prevent-damage-to-opposing-teeth-and-tissues/"><u>Hardness Must Be Balanced with Biocompatibility to Prevent Damage to Opposing Teeth and Tissues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-c33-2023-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme C33 2023 to Protect Your Individual Information</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-dji-phantom-4-pro-v2-release-closer-to-drone-excellence/"><u>In-Depth Analysis of DJI Phantom 4 Pro V2 Release - Closer to Drone Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-moto-g-stylus-evaluation-impressive-functionality-with-satisfactory-battery-endurance/"><u>In-Depth Moto G Stylus Evaluation: Impressive Functionality with Satisfactory Battery Endurance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-durable-easy-setup-acurite-pro-01036m-weather-monitoring-system/"><u>In-Depth Review of the Durable, Easy Setup AcuRite Pro 01036M Weather Monitoring System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ion-audio-tailgaterplus-exclusive-test-infinite-playtime-with-boosted-bass-sound-in-a-single-touch/"><u>ION Audio Tailgater+ Exclusive Test - Infinite Playtime with Boosted Bass Sound in a Single Touch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/large-softbox-lighting-from-studiofx-rated-high/"><u>Large Softbox Lighting From StudioFX Rated High</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-connection-with-the-netgear-c3700-router-more-than-just-a-router-its-a-modem/"><u>Maximizing Your Connection with the Netgear C3700 Router - More Than Just a Router, It's A Modem!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-mg7700-speed-reviewed-a-look-at-its-reliable-rapid-connection/"><u>Motorola MG7700 Speed Reviewed: A Look at Its Reliable Rapid Connection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-capable-and-sturdy-radpower-radcity-5-plus-an-seo-guide-for-cyclists/"><u>Reviewing the Capable & Sturdy RadPower RadCity 5 Plus – An SEO Guide for Cyclists</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlock-the-power-of-vocal-performance-in-digital-media-production-for-2024/"><u>Unlock the Power of Vocal Performance in Digital Media Production for 2024</u></a></li>
+</ul></div>
 

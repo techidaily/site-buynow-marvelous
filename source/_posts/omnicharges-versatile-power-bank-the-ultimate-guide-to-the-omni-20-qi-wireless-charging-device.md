@@ -1,7 +1,7 @@
 ---
 title: Omnicharge's Versatile Power Bank - The Ultimate Guide to the Omni 20 Qi Wireless Charging Device
-date: 2024-08-15T09:03:44.333Z
-updated: 2024-08-16T09:03:44.333Z
+date: 2024-10-31T23:35:13.097Z
+updated: 2024-11-05T04:22:49.865Z
 categories:
   - BestProducts
 description: This Article Describes Omnicharge's Versatile Power Bank - The Ultimate Guide to the Omni 20 Qi Wireless Charging Device
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/66LeVNnz8txit9791TA87-n13HI=/400x300/fi
 
 ## Omni 20+ Wireless Power Bank
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/0PqspYn0Ny1UT0fFzdIhza4naCk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -76,9 +73,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
 
  The Omni 20+ is a great looking device, with an all-black case and gem-cut edges that fit in nicely when used alongside my[HP Spectre x360](https://www.lifewire.com/hp-spectre-x360-15t-touch-laptop-review-4773540) . The top and bottom are completely bereft of any markings, hiding the presence of a Qi wireless charger hidden in the top, and the labels that it does have for inputs and outputs are understated.
@@ -92,8 +86,12 @@ Lifewire / Jeremy Laukkonen
  For a premium device with a premium price like the Omni 20+, I’d like to see a different material used for the case.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Initial Setup: Frustrating due to a lack of documentation**
 
  While it’s clear that a lot of thought and care went into designing the Omni 20+, it’s just as clear that almost no thought was given over to the packaging and documentation. When you open the box, you’re greeted with the battery itself, a USB-A to C cable, a[USB-C](https://www.lifewire.com/usb-c-4149490) to C cable, and a couple of brochures. One of those brochures is marked as a quick start guide, but it really isn’t.
@@ -108,10 +106,14 @@ Lifewire / Jeremy Laukkonen
 
  Once you’ve fully charged the Omni 20+, you need to discharge and then charge it again to completely calibrate the battery. The USB-C port is plug and play, meaning you can plug any USB-C device in and power it up without changing any settings, but you do have to use the somewhat confusing LCD display if you want to charge using the power outlet, barrel connector, or the USB-A ports. None of this is terribly complicated, but I did need to download an instructions PDF from the official Omnicharge site.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/QOfV3Sc5THi3Z0gKZq0e-ciPUEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-5-000854ae3c4347b7adc13130dcb9d1b9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -122,8 +124,12 @@ Lifewire / Jeremy Laukkonen
  I’ve already covered the issue with the manual in the previous section, so suffice it to say I recommend avoiding frustration and just downloading the manual from the Omnicharge website rather than trying to figure out the display and controls on your own.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Sockets and Ports: Excellent array, including wireless**
 
  The Omni 20+ includes a nice array of sockets and ports, managing to cover all of the important bases with ease. On one side, you’ll find a USB-C port and a barrel connector port, which are both capable of charging the Omni 20+ or providing power to other devices.
@@ -152,16 +158,17 @@ Lifewire / Jeremy Laukkonen
 
  When charged over USB-C using an appropriate charger, like my Nintendo Switch charger, the Omni 20+ takes about three hours to charge to full. Charging it with a weaker charger, or over the barrel connector, takes a bit longer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/aZDfINCcUg9uIHRuhVr2k3wmX94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-1-815fe3c777eb4f46a77cb00127bd88c2.jpg)
 
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Charging Speed: True fast charging available for some USB-C devices**
 
  For the most part, the Omni 20+ is able to charge each device as fast as it’s designed to be charged. Older devices that charge over standard USB-A ports will draw between 1 and 3 A, depending on the device, and charge quite slowly. But if you have a Qualcomm 3.0 compatible device, you can plug it into the appropriate USB port and enjoy faster charging.
@@ -176,13 +183,23 @@ Lifewire / Jeremy Laukkonen
 
  The built-in Qi charger is capable of putting out 10 watts, and I found it to work just as well as other 10 watt Qi chargers I’ve used. It is a bit touchy in terms of positioning, but I was able to get the hang of it pretty fast.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: High end**
 
  With an MSRP of $200, Omni 20+ is a high-end battery bank with a high-end price. You get a whole lot of functionality for that price, but the device does lag behind in terms of both battery capacity and included accessories. The glaring issue is that you can find more powerful battery banks for less money, even if you won’t find one with the exact same functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## **Omni 20+ vs. Pilot Pro 2**
 
  With an MSRP of $90, you could buy two[Pilot Pro 2](https://www.lifewire.com/poweradd-pilot-pro2-review-4843548) battery packs for the price of a single Omni 20+. With that disparity in price, it would seem like these devices aren’t even in the same category, but they actually have some important similarities. In fact, the 23,000 mAh battery in the Pilot Pro 2 is even a bit more powerful than the Omni 20+.
@@ -210,14 +227,11 @@ Lifewire / Jeremy Laukkonen
 * Output  100W (outlet), 60W (USB-C), 10W (wireless)
 * Warranty  One year
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -226,4 +240,20 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ead-the-pack-with-these-top-7-android-tools-against-ads-for-2024/"><u>[New] Lead the Pack with These Top 7 Android Tools Against Ads for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stand-out-strong-tailoring-templates-for-video-gaming-logos/"><u>[New] Stand Out Strong Tailoring Templates for Video Gaming Logos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-saving-facebook-gifs-on-computer-phone-and-tablet/"><u>[Updated] 2024 Approved Saving Facebook GIFs on Computer, Phone & Tablet</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-device-a-comprehensive-look-at-amazons-kindle-versus-fire-tablets/"><u>Choosing Your Device: A Comprehensive Look at Amazon's Kindle Versus Fire Tablets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-newly-launched-samsung-galaxy-budsplus/"><u>Comprehensive Guide to the Newly Launched Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critical-appraisal-of-googles-newest-smartphone-the-pixel-6-experience-revealed/"><u>Critical Appraisal of Google's Newest Smartphone: The Pixel 6 Experience Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-game-experiences-for-your-steam-deck-this-year/"><u>Discover the Finest Game Experiences for Your Steam Deck This Year</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-digital-sketchpads-on-the-market/"><u>Discover the Leading Digital Sketchpads on the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-aerial-play-with-the-budget-friendly-syma-s1n11g-rc-helicopter-a-review-for-enthusiasts/"><u>Dive Into Aerial Play with the Budget-Friendly Syma S1n11G RC Helicopter: A Review for Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-microsoft-teams-down-right-now-identifying-network-issues-vs-service-disruptions/"><u>Is Microsoft Teams Down Right Now? Identifying Network Issues Vs. Service Disruptions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-memory-support-for-sony-alpha-7sii/"><u>Optimal Memory Support for Sony Alpha 7SII</u></a></li>
+</ul></div>
 

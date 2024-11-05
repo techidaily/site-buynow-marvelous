@@ -1,7 +1,7 @@
 ---
 title: Evaluating Motorola Edge+ - A Shortfall in High-End Competition
-date: 2024-08-15T09:04:59.643Z
-updated: 2024-08-16T09:04:59.643Z
+date: 2024-11-02T00:34:32.829Z
+updated: 2024-11-04T17:09:17.163Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating Motorola Edge+ - A Shortfall in High-End Competition
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
 
 ## Assassin's Creed Valhalla (PC)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![AC Vallhalla](https://www.lifewire.com/thmb/uNOEoXtNzm8yuWudHDVzDNDutY8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Assassins-Creed-Valhalla-1-b7cabc5b5656439bbb47518048f57aa5.jpg)
 
  Lifewire / Andy Zahn
@@ -41,28 +38,8 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assassin's Creed Valhalla (PC)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![AC Vallhalla](https://www.lifewire.com/thmb/1uTfLpDv2WlYuf-Ekg6qBUTQqP4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Assassins-Creed-Valhalla-1-b7cabc5b5656439bbb47518048f57aa5.jpg)
 
  Lifewire / Andy Zahn
@@ -97,6 +74,19 @@ Key features:
 
 ![AC Vallhalla 2](https://www.lifewire.com/thmb/pWujlWPf0ylYYpeoTEbp7X8U0yM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-4-07677871281c40a384f2df55f83e86a4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  Perhaps more interesting than the main plot are the side quests sprinkled liberally about the world. These are typically informal, chance encounters and, though they do grant experience towards skill points, their primary point is to tell an intriguing story, which they accomplish with aplomb. The characters are almost invariably well-acted, and while short, these quests are remarkably well written and worth seeking out.
@@ -105,9 +95,6 @@ Key features:
 
  In total, the game’s various open world areas cover a staggering 140 square kilometers, nearly ten times the size of the prologue area. By this rough estimate, there should be at least 120 hours worth of content in this game, including a roughly 60-hour main campaign. Missions, mysteries, and treasure in abundance ensure that the wilderness never grows stale.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![AC sneak](https://www.lifewire.com/thmb/Vk4XvoE4lJwcjde1C_tJUVBc0Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-9-a5e8ef2a5bef455d8cbaa9e749167f53.jpg)
 
  Lifewire / Andy Zahn
@@ -126,10 +113,14 @@ Key features:
 
  Ubisoft has truly mastered the mechanics of boats, and sailing is just pure joy with your loyal crew singing their way down the fjords as the wind whistles in the rigging, your ship riding the realistic swells. Alternatively, your bard may accompany your seafaring with diverting tales. If there’s one downside is that unlike Odyssey, there’s no ship-to-ship naval combat, but perhaps that makes sense because the Vikings were more land raiders despite their extensive use of longboats to travel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![AC Valhalla 3](https://www.lifewire.com/thmb/giaP-JV9QK6uFcdU_di4iWkvszw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-5-56a01de51a2a4540ae8650bece502873.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -143,10 +134,14 @@ Key features:
 
  Raiding becomes a vital component of the game, as raids are the only way to build your settlement. It’s not a particularly complex base building mechanic, as it only involves raiding the requisite supplies and returning them to your settlement, whereupon a new building magically appears. It’s fun to watch your settlement grow, and you gradually unlock a variety of different functions and quests.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![AC ship](https://www.lifewire.com/thmb/n9S5L4JClTiqP1vYa_7cTGw6o0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-7-d89d4a9941b8488ea6ef1aeba6486895.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -155,8 +150,12 @@ Key features:
  Valhalla gives you plenty of ways to customize your experience. You can adjust the difficulty of stealth, combat, and exploration separately, so you can choose which gameplay elements are difficult and which you’d rather not get in the way. Additionally, mature elements in the game such as blood and gore can be toggled on and off, which will be a[relief to parents](https://www.lifewire.com/best-pc-games-4147292) and a boon to anyone who doesn’t fancy seeing severed heads flying through the air.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Minigames: Enjoyable diversions**
 
  There’s more to do than fighting and exploring; in Valhalla there are a number of intriguing minigames to divert you from quests. I particularly enjoyed Flyting, which is a battle of words These are timed, competitive poetry contests where you must quickly select the most appropriate verse from a list of options. It’s both amusing and character building.
@@ -167,14 +166,18 @@ Key features:
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Customization: Lots of stuff to tweak**
 
  As in Odyssey, the game allows you to play as either male or female, and offers a range of cosmetic options, mainly by way of tattoos and hairstyles. New tattoo patterns are acquired through parkour challenges. What’s more interesting is the gameplay affecting clothing and weapons that alter your appearance—I particularly appreciated that upgrading those items affects their looks. You can choose from different ravens and horses, and change the appearance of your longship. Eventually, you will also be able to customize the appearance of your settlement.
 
  I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Graphics: Epic good looks**
 
@@ -182,9 +185,6 @@ Key features:
 
  Towns and cities are richly detailed, with people going about their daily business in this muddy and gritty medieval setting. The wilderness is also magnificent, with wild natural beauty and towering ruins in equal measure. Wildlife and farm animals are both present in this world, adding vibrancy to the countryside.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![AC Mountain](https://www.lifewire.com/thmb/YazM4IIiw6qfR_cd-AfR8Cek9pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-10-b813058de14c4b92978d22f84715ab98.jpg)
 
  Lifewire / Andy Zahn
@@ -214,8 +214,12 @@ Key features:
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Assassin’s Creed: Valhalla vs. Watch Dogs: Legion**
 
  It’s interesting that Ubisoft decided to launch two third-person action games set in England within a span of a few weeks. Where Valhalla is set in the Middle Ages,[Watch Dogs: Legion](https://www.lifewire.com/watch-dogs-legion-review-a-new-setting-for-the-series-5085469) is set in a near-future sci-fi dystopia, though in both games you are battling against tyrannical rulers in England. Choose Watch Dogs if you want sci-fi focused on hackers and non-violent solutions, and Valhalla if you love bloody medieval fighting and exploration.
@@ -226,6 +230,13 @@ Key features:
 
  Assassin’s Creed: Valhalla exceeds, as Assassin’s Creed games so often do, in creating the most painstakingly detailed virtual recreation of a place and period possible. It’s got exploration, intense combat, and enthralling stories by the bucket full, and it’s easy to get lost in its sheer scope and scale. Just beware if you’re playing on a PC that will test the limits of your gaming rig.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Assassin's Creed Valhalla (PC)
@@ -234,14 +245,11 @@ Key features:
 * Platforms  PC, Xbox Series X, Xbox One, PlayStation 5, PlayStation 4, Stadia
 * Rating  M
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -250,4 +258,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/udio-integration-your-youtube-playlist/"><u>[New] Audio Integration Your YouTube Playlist</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-efficient-techniques-sharing-video-content-from-youtube-fb/"><u>[Updated] In 2024, Efficient Techniques Sharing Video Content From YouTube FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-unlink-lively-logos-from-your-profile-mobilepc/"><u>[Updated] In 2024, How to Unlink Lively Logos From Your Profile (Mobile/PC)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breakneck-speeds-and-top-tier-features-a-detailed-look-at-the-asus-rog-rapture-gt-ax11000-for-gamers/"><u>Breakneck Speeds and Top-Tier Features: A Detailed Look at the Asus ROG Rapture GT-AX11000 for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breakthrough-in-tech-shopping-an-in-depth-exploration-of-all-ipad-models/"><u>Breakthrough in Tech Shopping: An In-Depth Exploration of All iPad Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-freestyle2-blue-on-macos-a-top-pick-for-cupertino-devotees/"><u>Comprehensive Assessment of Freestyle2 Blue on MacOS: A Top Pick for Cupertino Devotees</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-synology-rt2ac-wi-fi-router-with-enhanced-signal-range-and-built-in-parental-controls/"><u>Comprehensive Review of Synology RT2#AC Wi-Fi Router with Enhanced Signal Range & Built-In Parental Controls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-ring-doorbell-plus-performance-analysis-a-detailed-user-guide/"><u>Comprehensive Ring Doorbell Plus Performance Analysis: A Detailed User Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/consideration-weighing-the-pros-and-cons-of-an-ipad-purchase/"><u>Consideration: Weighing the Pros and Cons of an iPad Purchase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crucial-aspects-to-think-about-before-investing-in-a-video-game-console/"><u>Crucial Aspects to Think About Before Investing in a Video Game Console</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-xps-13-7390-2-in-1-laptop-analysis-stunning-design-meets-remarkable-versatility/"><u>Dell XPS 13 (7390) 2-in-1 Laptop Analysis: Stunning Design Meets Remarkable Versatility</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-completely-erase-irrelevant-applications-from-itunes-for-good/"><u>How To Completely Erase Irrelevant Applications From iTunes for Good</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-hot-30i-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Hot 30i?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c210-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C210 Phone that is Locked?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-script-architect-space/"><u>In 2024, Superior Script Architect Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-controllers-in-smartphone-entertainment/"><u>Leading Controllers in Smartphone Entertainment</u></a></li>
+</ul></div>
 

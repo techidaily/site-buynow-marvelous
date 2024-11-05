@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Google Nest Hub (Gen 2): Why We Need a Camera for Enhanced Functionality?"
-date: 2024-08-15T09:03:59.205Z
-updated: 2024-08-16T09:03:59.205Z
+date: 2024-11-02T02:50:44.686Z
+updated: 2024-11-04T20:16:23.017Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the New Google Nest Hub (Gen 2): Why We Need a Camera for Enhanced Functionality?"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
 3.6
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/bJGZVvLPIuXJptw8uPYtObxbpMQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
@@ -42,14 +39,8 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
 3.6
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
  Lifewire / Zach Sweat
@@ -74,14 +65,18 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -98,13 +93,24 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -112,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
  This section is perhaps the most important for a TV, and while the XBR65X850F performs pretty well in some aspects here, it also has a few weak points.
@@ -137,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
@@ -145,9 +155,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: A bit sluggish but good enough**
 
  Android TV has come a long way since its debut, but not all TVs are getting timely updates, and these lower-end Sony TVs are notoriously slow for this. While some TVs are already running Android TV 9.0, many are stuck with older versions.
@@ -162,9 +169,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -172,6 +176,13 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -205,14 +216,11 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 * Speakers  2 full range, 2ch
 * Connectivity Options  4 HDMI
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -221,4 +229,17 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-special.techidaily.com/1728489185685-vmware/"><u>全方位教程：如何在VMware中成功克隆物理硬件伺服器</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-the-power-play-top-pickup-of-best-rechargeable-battery-chargers-in-202eight/"><u>Ace the Power Play: Top Pickup of Best Rechargeable Battery Chargers in 202Eight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-audio-wireless-gadgets-trucker-friendly-bluetooth-selection-guide/"><u>Affordable Audio Wireless Gadgets: Trucker-Friendly Bluetooth Selection Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-rog-gt-ac5300-review-built-for-the-tech-savvy-and-gaming-enthusiasts/"><u>Asus ROG GT-AC5300 Review: Built for the Tech-Savvy and Gaming Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-value-laptop-cooling-solutions-in-depth-analysis-of-topmate-c302-desk-pad/"><u>Best Value Laptop Cooling Solutions: In-Depth Analysis of TopMate C302 Desk Pad</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-why-photo-booth-videos-freeze-suddenly-for-2024/"><u>Exploring Why Photo Booth Videos Freeze Suddenly for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-watermark-video-merger-software-top-7-picks/"><u>Updated No-Watermark Video Merger Software Top 7 Picks</u></a></li>
+</ul></div>
 

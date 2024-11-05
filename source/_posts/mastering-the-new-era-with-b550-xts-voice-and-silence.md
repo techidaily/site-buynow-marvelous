@@ -1,7 +1,7 @@
 ---
 title: Mastering the New Era with B550-XT’s Voice and Silence
-date: 2024-08-15T09:05:07.721Z
-updated: 2024-08-16T09:05:07.721Z
+date: 2024-11-02T22:27:03.478Z
+updated: 2024-11-05T04:09:50.357Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the New Era with B550-XT’s Voice and Silence
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/FxvBKIRnBT2XG9lCb2oSle0dpoY=/400x300/fi
 
 ## Apple MacBook Pro 13-inch (M1, 2020)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MacBook Pro 13-inch](https://www.lifewire.com/thmb/wgDqqSKgbk3vMOZODaC0J9eWK-I=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macbook_Pro_M1_2020_04-4d24391cc1a74240a35da5017f4f6a79.jpg)
 
 Alice Newcome-Beill / Lifewire
@@ -42,13 +39,14 @@ Alice Newcome-Beill / Lifewire
 4.9
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apple MacBook Pro 13-inch (M1, 2020)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![MacBook Pro 13-inch](https://www.lifewire.com/thmb/TqAmFtyGvc2unYMhCqBwCNA1p1o=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macbook_Pro_M1_2020_04-4d24391cc1a74240a35da5017f4f6a79.jpg)
 
 Alice Newcome-Beill / Lifewire
@@ -89,6 +87,13 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 
  The MacBook Pro features two Thunderbolt/USB 4 ports that support charging, DisplayPort, Thunderbolt 3, and USB 3.1 Gen 2\. If you want additional slots like an SD card reader of USB ports, you’ll need to use a USB-C hub.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keyboard: A great typing and productivity experience
 
  If you've used a MacBook keyboard recently, you'll know what to expect here as they still use the scissor-type switches. The keys are a backlit chiclet-style design with low travel distance. I initially thought that the keyboard might be too crowded, and while making the leap from a[17-inch laptop](https://www.lifewire.com/best-17-inch-laptops-832683) layout to a 13-inch initially seemed pretty drastic, my fingers quickly acclimated to the smaller layout without too many missteps.
@@ -99,9 +104,6 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 
  Alice Newcome-Beill / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Touchpad: A soft touch
 
  While it didn't feel mushy, the "barely-there" haptic response on the touchpad initially left me wishing for something a little punchier. But Apple has done quite a bit more than just provide us with a large singular button here.
@@ -118,12 +120,23 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 
  The display can hit an impressive 500 nits of brightness, features rich, accurate colors, and great viewing angles. Another noteworthy improvement is the remarkably slim bezel on the 13-inch display, which lends a slick futuristic look to the laptop and gives you just a little more usable real-estate on your screen without increasing the size of the device itself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![MacBook Pro 13-inch](https://www.lifewire.com/thmb/-G_75srm3Qddt1nvHSP6rMO7yyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macbook_Pro_M1_2020_05-10007afca69547238297d4135852b975.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alice Newcome-Beill / Lifewire
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: Get up and go
 
@@ -153,27 +166,18 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 
  This shift represents an effort on the part of Apple to prove that it can once again innovate in the realm of computing now that it has more control over the overall architecture being used in its systems. While this new silicon boasts some truly impressive boosts to performance overall, there is a small drawback in that some apps that you lean on for productivity may not be fully optimized to work with the M1, even with the improvements brought by Big Sur.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery: This fruit has juice
 
  Another of the more noticeable improvements to the MacBook Pro is the extended battery life. I’m happy to report that in my testing, running a[4K](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) movie at maximum brightness on loop, it took the MacBook a little over 18 hours to deplete its charge. This makes Apple's latest laptop one of the best laptops for battery life currently available. What's even more amazing is how quickly it can be topped off. From being completely drained, we were able to boot up and get fully charged using the included adapter in just under an hour and a half.
 
  I was surprised to find the MacBook more than holding its own in gaming benchmarks, matching or exceeding the performance offered by many Windows ultrabooks like the HP Spectre x360.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Software: Big Sur optimized better than ever
 
  The M1 chip also allows the MacBook to run apps that are normally reserved for iPadOS. While this doesn't necessarily sound all that exciting on paper, it does open up some interesting possibilities. This greatly expands the software library available to the[MacOS](https://www.lifewire.com/what-is-macos-4691239) and helps to corral all of Apple's hardware into a singular ecosystem.
 
  The new MacBook can still use applications built on the Intel x86 architecture like Slack and Chrome through the built-in Rosetta 2 emulator almost seamlessly. Of course, it isn't quite as fast as native applications, but any slowdown is hardly noticeable.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Price: A bargain at twice the price
 
  Starting at $1,299, going all the way up to $2,300 for the highest-end configuration, the MacBook Pro with the M1 processor offers incredible value. By comparison, a 13-inch MacBook that uses a 10th gen intel processor costs roughly $400 more and can't really match the performance offered by the M1 CPU. Adopting this new hardware also seems to have cut away much of the premium we see associated with Apple products, achieving price parity with many of the ultrabooks outside of the Apple ecosystem.
@@ -182,11 +186,15 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 
 ![MacBook Pro 13-inch](https://www.lifewire.com/thmb/laPPg5mKf354wXXqoaU3Vz_jRuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macbook_Pro_M1_2020_04-4d24391cc1a74240a35da5017f4f6a79.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alice Newcome-Beill / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple MacBook Pro (M1) vs. HP Spectre x360
 
  The HP Spectre x360 does offer slightly more flexibility at a similar price point, thanks to Windows. But even the latest 10th Gen i7 Intel processors really can't match the performance of the new Apple CPUs. The x360 is a slightly more robust machine, in terms of both size and hardware, incorporating more RAM, more storage, and a beefier GPU for better gaming performance. Unfortunately, the extra hardware makes the x360 much heavier, as well as making it run substantially warmer and louder when under load. The extra hardware is also more demanding of the battery, giving the x360 a drastically reduced battery life when compared to the MacBook Pro.
@@ -204,6 +212,13 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 **A powerful new CPU changes the game.**
 
  With the smattering of performance improvements that Apple has brought to the table this year, it begs the question, should you upgrade? While there are some significant changes to last year's model, you won't be missing out on much if you've bought a new MacBook in the past year or two. However, if you've been biding your time for several generations, waiting for a substantial upgrade for your MacBook Pro, we can unequivocally say that the time is now.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -229,14 +244,11 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
 * Battery Capacity  58.2 Wh
 * Ports  2x Thunderbolt 4 (USB-C), 3.5mm headphone jack
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -245,4 +257,24 @@ _We purchased the MacBook Pro_   _so our reviewer could test out the laptop. Kee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/harting-the-course-to-youtube-fame-strategic-video-release-frequency/"><u>[New] Charting the Course to YouTube Fame Strategic Video Release Frequency</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-nature-on-android-best-animal-simulation-games/"><u>[Updated] Explore Nature on Android Best Animal Simulation Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/byb-e430-led-light-fixture-assessment-expert-insight-on-high-quality-swing-arm-design/"><u>BYB E430 LED Light Fixture Assessment: Expert Insight on High-Quality Swing Arm Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-and-overview-of-aphacas-bt69-the-leading-choice-for-bluetooth-enabled-car-radio-upgrades/"><u>Comprehensive Analysis and Overview of Aphaca's BT69 - The Leading Choice for Bluetooth-Enabled Car Radio Upgrades</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x12-detachable-a-fantastic-hybrid-with-an-excellent-keyboard/"><u>Comprehensive Review of the Lenovo ThinkPad X12 Detachable: A Fantastic Hybrid with an Excellent Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-the-motorola-mg7700-swift-and-steady-connectivity/"><u>Comprehensive Test of the Motorola MG#7700 - Swift and Steady Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cost-effective-solution-in-depth-analysis-of-the-philips-hf3520-alarm-device/"><u>Cost-Effective Solution: In-Depth Analysis of the Philips HF3520 Alarm Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-hidden-treasures-in-spyro-reignited-trilogy-how-a-small-sized-dragon-packed-big-worthwhile-experience/"><u>Discovering Hidden Treasures in Spyro Reignited Trilogy – How a Small-Sized Dragon Packed Big Worthwhile Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/distinguished-vehicle-cypher-crafters-2024-edition/"><u>Distinguished Vehicle Cypher Crafters, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/durable-sunbriteveranda-55/"><u>Durable SunBriteVeranda 55</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-analysis-of-the-microsoft-surface-go-3-compact-and-adaptable-2-in-1-with-subpar-battery-performance-techreviewznet/"><u>Expert Analysis of the Microsoft Surface Go 3: Compact & Adaptable 2-in-1 with Subpar Battery Performance | TechReviewZNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-bluetooth-mouse-working-again-on-a-windows-machine/"><u>Expert Tips to Get Your Bluetooth Mouse Working Again on a Windows Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/recording-skype-meetings-on-modern-operating-systems/"><u>Recording Skype Meetings on Modern Operating Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tcls-affordable-marvel-in-depth-look-at-the-50s425-50-4k-roku-television-2019/"><u>TCL's Affordable Marvel: In-Depth Look at the 50S425 50” 4K Roku Television (2019)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-game-meta-interpretation-and-adherence/"><u>Unmasking Game 'Meta': Interpretation & Adherence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/wifi-ambient-weather-ws-1002-overview-premium-features-matched-with-elevated-cost/"><u>WIFI Ambient Weather WS-1002 Overview: Premium Features Matched with Elevated Cost</u></a></li>
+</ul></div>
 

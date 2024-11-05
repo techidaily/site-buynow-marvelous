@@ -1,7 +1,7 @@
 ---
 title: "Razer Blade Stealth Cu13 Insights & Analysis: Pushing the Boundaries of Ultralight Laptop Innovation and Performance"
-date: 2024-08-15T09:08:02.069Z
-updated: 2024-08-16T09:08:02.069Z
+date: 2024-11-04T04:06:55.785Z
+updated: 2024-11-05T01:57:09.711Z
 categories:
   - BestProducts
 description: "This Article Describes Razer Blade Stealth Cu13 Insights & Analysis: Pushing the Boundaries of Ultralight Laptop Innovation and Performance"
@@ -37,12 +37,16 @@ Lifewire / Kelsey Simon
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -69,18 +73,28 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Straight into the action**
 
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## **Plot: A character torn between obligation and friendship**
 
  The initial cutscene starts with you on a plane, preparing to jump. Your name is Kyle Crane, and you’re an undercover operative. You’ll parachute to the earth while your boss explains your mission―to find a stolen file―but the second you hit the ground, things don’t go as planned. You’re attacked and forced to fire your weapon to scatter your attackers. Of course, in zombie-infested Harran, a gunshot is zombie bait. Suddenly they're swarming toward you and things look very dire, until you're rescued by a pair of strangers, a man and a woman. The man dies saving you but you and the woman escape. Her name is Jade, and she’ll play a big role throughout the story as you try to win her and her brother’s trust.
@@ -92,15 +106,29 @@ Harran is a whole different city at night.
  This is a fairly linear game with regards to the plot. There's a main storyline for you to follow, with some optional side quests that you can take or leave. The narrative does a decent job of building up the circumstances for Kyle feeling torn between his mission and these people, and you’ll learn more about the virus as you go, as well as Antizin, the fictional drug that could lead to a cure.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Parkour and zombies galore**
 
  You won’t have to wait long in the game before you’re introduced to its main unique mechanic: parkour. Other zombie games focus on having slow zombies you can run away from, or dumb zombies you sneak past, but Dying Light takes a completely different approach. Instead, the basic zombies are fast and almost always know where you are―but they can’t climb or jump. This means you can stay safe by leaping between rooftops, running up ramps, balancing across bars, etc. The parkour feature is the biggest thing that makes Dying Light unique in an oversaturated genre, and also part of what makes the game so much fun. It’s entertaining to cross the city running as fast as you can without pausing, challenging yourself to get from point A to point B without ever touching the ground.
@@ -117,9 +145,6 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -127,15 +152,9 @@ Harran is a whole different city at night.
  Character animation is also excellent, and the buildings and other objects within the world offer a variety of ways to jump, climb, and crawl. The open urban landscape of Harran allows players to decide how they want to explore, acquire materials, and fight. You’ll be able to come at certain locations from a variety of angles,and it's this sense of freedom and attention to the environments that brings Dying Light together.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
@@ -158,14 +177,11 @@ Harran is a whole different city at night.
 * Price  $14.00
 * Available Platforms  PC (Steam) Playstation 4 Xbox One OS X Linux
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +190,26 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>[Updated] 2024 Approved The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-camera-operational-obs-challenge-won/"><u>[Updated] In 2024, Camera Operational OBS Challenge Won</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimizing-ps4-games-for-live-capture-in-obs/"><u>[Updated] Optimizing PS4 Games for Live Capture in OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-archivists-edge-cutting-edge-strategies-for-social-downloads/"><u>[Updated] The Archivist's Edge Cutting-Edge Strategies for Social Downloads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-premier-game-consoles-review-find-your-perfect-match/"><u>2024'S Premier Game Consoles Review – Find Your Perfect Match</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-sitting-game-inside-look-at-the-ergonomic-marvel-mavix-m9/"><u>Ace Your Sitting Game: Inside Look at the Ergonomic Marvel, Mavix M9</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-functional-in-depth-fitbit-versa-examination/"><u>Affordable and Functional: In-Depth Fitbit Versa Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/american-karaoke-extravaganza-premium-fun-for-less-your-guide-to-sub-150-entertainment/"><u>American Karaoke Extravaganza: Premium Fun for Less – Your Guide to Sub-$150 Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aqua-exploration-at-your-will-discover-the-insta360-one-x2-review/"><u>Aqua Exploration at Your Will - Discover the Insta360 One X2 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-upgrades-of-apple-watch-series-6-excellence-maintained-with-subtle-improvements/"><u>Assessing the Upgrades of Apple Watch Series 6 - Excellence Maintained with Subtle Improvements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-fortnite-mic-ultimate-troubleshooting-tips/"><u>How to Repair a Malfunctioning Fortnite Mic - Ultimate Troubleshooting Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Honor 100 Pro Phone Without Password?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-smart-tv-market-7-crucial-points-to-keep-in-mind-pre-purchase/"><u>Navigating the Smart TV Market: 7 Crucial Points to Keep in Mind Pre-Purchase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pros-and-cons-gopro-hero-4-vs-drift-ghost-s-racing-edition-for-2024/"><u>Pros & Cons GoPro Hero 4 Vs. Drift Ghost-S Racing Edition for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reengage-the-printing-pro-saving-brother-printer-from-isolation/"><u>Reengage the Printing Pro: Saving Brother Printer From Isolation</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-behind-the-phenomenal-execution-of-tasks-by-dells-versatile-xps-13-2-in-1-laptop-a-thorough-review-analysis/"><u>Unveiling the Secrets Behind the Phenomenal Execution of Tasks by Dell's Versatile XPS 13 2-in-1 Laptop: A Thorough Review Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/waterproof-wonders-discovering-insta360-one-x2-features/"><u>Waterproof Wonders: Discovering Insta360 One X2 Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/winter-edition-of-soundbot-reviewed-superb-sound-quality-meets-occasional-hiccups/"><u>Winter Edition of SoundBot Reviewed: Superb Sound Quality Meets Occasional Hiccups</u></a></li>
+</ul></div>
 

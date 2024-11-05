@@ -1,7 +1,7 @@
 ---
 title: "Dell Alienware Aurora R9 Review: Futuristic Gaming PC Design"
-date: 2024-08-15T09:04:25.945Z
-updated: 2024-08-16T09:04:25.945Z
+date: 2024-10-31T22:13:09.292Z
+updated: 2024-11-04T20:12:22.054Z
 categories:
   - BestProducts
 description: "This Article Describes Dell Alienware Aurora R9 Review: Futuristic Gaming PC Design"
@@ -41,9 +41,6 @@ Lifewire / Erika Rawes
 
 ## Alienware Aurora R11
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Alienware Aurora R11 Review](https://www.lifewire.com/thmb/s3I5Cw7w0g8bE2MkogNY13CmpcM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Alienware-Aurora-R11-Desktop-PC-1-2d25241deb1445b5af4661451cda9988.jpg)
 
 Lifewire / Erika Rawes
@@ -80,16 +77,17 @@ Lifewire / Erika Rawes
 
  I tested the second-tier model with the 10th Gen Intel Core i7 10700F, the NVIDIA GeForce RTX 2060 (6GB GDDR6), 16 GB of RAM, dual drives (256GB SSD + 1TB SATA), and the Dark Side of the Moon chassis with Low-Profile Smart Cooling CPU Heatsink and 550W Power Supply. The model I tested had air cooling, but you can get liquid cooling in this model for as little as $20 added to the base price.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Alienware Aurora R11](https://www.lifewire.com/thmb/hRBDZ5clhMthsEMeqGYzOi7oIE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alienware-Aurora-R11-Desktop-PC-2-e6bece84be7c48a3af3db3806a85a31e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: A mature gaming rig**
 
  While some gaming PC towers boast bold designs with transparent glass, RGB fans, and enough colors to make you feel like you’re at a rave, the Aurora R11 takes a much different design approach. The R11 is unassuming—not too flashy and not too loud. It's elegant and simple in appearance with subtle strips of lighting on the front trim of the oblong chassis. This looks like a computer for someone with refined taste, as opposed to a colorful spectacle.
@@ -101,9 +99,12 @@ Lifewire / Erika Rawes
  There are ports galore on this rig. It has multiple USB ports, and it even has USB-C ports. One of the front USB ports has PowerShare, which is a nice feature for charging devices.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Display: OC Ready**
 
  The NVIDIA GeForce RTX 2060 (6GB GDDR6) has a base clock of 1,365 MHz. The card is OC ready though, so it’s built for overclocking. It supports a maximum resolution of up to 7680 x 4320\. The card also supports VR, and multiple monitors (up to four).
@@ -122,9 +123,6 @@ Lifewire / Erika Rawes
 
  Boot times are fast, and it jumps around different applications at lightning speed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Gaming: Played most games on the highest settings**
 
  Although the rig I tested is a lower level Alienware Aurora R11 model, this is by no means a lower level gaming desktop. I would say it’s an upper-to-mid range, as it deftly handled most games on the highest level settings. The first game I tested was[_Destiny 2_](https://www.liveabout.com/destiny-2-cheat-codes-4158004) , not the most graphically intensive game but no slouch either, and it can definitely lag on some machines during intense action sequences. With the vsync cap set at 60, I turned_Destiny 2_ up to its highest setting, and it ran at a solid 60 FPS throughout.
@@ -140,22 +138,40 @@ Lifewire / Erika Rawes
  The R11 handled Far Cry 5’s internal benchmark, and it maintained lag-free gaming on the ultra settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Productivity: Free optional keyboard and optical mouse**
 
  The Aurora R11 is designed as a gaming PC, but you could absolutely use it for work. Since this PC has ample processing power and gaming-grade graphics, you could also use it for photo or video editing. The R11 includes a free keyboard and optical mouse, but you have to specifically indicate that you want those free options. Otherwise, you’ll just get the tower and power cord.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Audio: 7.1 surround sound**
 
  The R11 has a number of options for audio sources, including ports for connecting a microphone, headphones, and[surround sound speakers](https://www.lifewire.com/what-is-surround-sound-1846802) . It even has an optical audio port. You should have no problem finding an audio solution that fits your needs. The R11 doesn’t include speakers in the box, but it does have integrated 7.1 channel audio (with SPDIF port).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network: Want Wi-Fi 5 or Wi-Fi 6?**
 
  The R11 includes the Dell Wireless DW1810 802.11ac Wireless card (Wi-Fi, Wireless LAN, and Bluetooth 5.0). For $20 added to the price, you can upgrade to the Killer AX1650 (2x2) 802.11ax Wireless Card and get Bluetooth 5.1 and Wi-Fi 6 capability.
@@ -165,6 +181,13 @@ Lifewire / Erika Rawes
  As long as you have a good router, the R11 will hold a great connection for gaming. I often have trouble with 5G networks in my house, but this adapter was rock solid, and I could maintain a stable 5G connection. Of course, you can also choose to hardwire and connect an Ethernet cable if you prefer.
 
 ![Alienware Aurora R11](https://www.lifewire.com/thmb/sCKseoBNmM15udE4RMrggTlWuBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alienware-Aurora-R11-Desktop-PC-5-6b37b663752e4eada4c8832152dd9882.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -184,9 +207,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Upgradability: A latch system**
 
  The R11 is not quite as easy to open as a chassis with an easy-remove glass side panel, but it still offers easy upgradability. The tower opens with a lock and latch system that releases the side panel. Once you remove the side panel, you can move the power supply out of the way so you can better access the internals.
@@ -195,16 +215,17 @@ Lifewire / Erika Rawes
 
  If you opt for the liquid-cooled unit, your upgrading options could be more limited simply because it might be more difficult to find compatible parts. That is, unless you plan to stick with Alienware gear over the long run.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Alienware Aurora R11](https://www.lifewire.com/thmb/jzGkH061o51TFghPHwP5n6bmE34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alienware-Aurora-R11-Desktop-PC-3-7a87edbb11b041818dbf44880e3c79fd.jpg)
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Not bad**
 
  The price of your R11 is going to vary widely depending on how much you want to put into it. You can get an Aurora R11 for under a grand though. The R11 configuration I tested retails for $1410, but it was $30 less because the test model included the lower tier chassis (without RGB lighting in the word “Alienware” along the side). For the lower tier models, the prices are reasonable, and you can upgrade the PC later on.
@@ -246,8 +267,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +274,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expedited-guide-to-effective-double-take-technique-for-2024/"><u>[New] Expedited Guide to Effective Double-Take Technique for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet-for-2024/"><u>[New] How to Captivate Audiences with PPT on Mobile/Laptop in GMeet for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audiophiles-dilemma-podcast-or-youtube-dominance/"><u>[Updated] Audiophile's Dilemma Podcast or YouTube Dominance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g-stylus-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G Stylus (2023) Fingerprint Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-8-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 8? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-blended-media-experience-with-tunes/"><u>In 2024, Crafting a Blended Media Experience with Tunes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/reviewing-the-unseen-assessing-your-facebook-past-for-2024/"><u>Reviewing the Unseen Assessing Your Facebook Past for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-voice-communication-in-modern-warfare-online-play/"><u>Solved! How to Restore Voice Communication in Modern Warfare Online Play</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-on-creating-a-gif-from-your-favorite-youtube-video/"><u>Step-by-Step Guide on Creating a GIF From Your Favorite YouTube Video</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-gamers-seat-inspected-comprehensive-evaluation-of-the-mavix-mgaming-chair/"><u>The Ultimate Gamer’s Seat Inspected: Comprehensive Evaluation of the Mavix Mˈgaming Chair</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-for-long-range-robust-uniden-r3-radar-detector/"><u>The Ultimate Review for Long-Range, Robust Uniden R3 Radar Detector</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-on-cumuluspro-ergonomic-desk-mats-your-guide-to-an-improved-standing-surface/"><u>The Ultimate Review on CumulusPRO Ergonomic Desk Mats: Your Guide to an Improved Standing Surface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-savings-hack-for-crystal-clear-picture-quality-caixuns-affordable-75-inch-android-tv/"><u>The Ultimate Savings Hack for Crystal Clear Picture Quality: Caixun's Affordable 75-Inch Android TV!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-cable-modem-and-wi-fi-router-bundles-to-elevate-your-internet-experience-in-202-4/"><u>Top 10 Cable Modem and Wi-Fi Router Bundles to Elevate Your Internet Experience in 202 4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-microsoft-office-substitutes/"><u>Top Microsoft Office Substitutes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-wireless-experience-expert-review-on-tp-link-deco-p9-mesh-network/"><u>Transforming Wireless Experience – Expert Review on TP-Link Deco P9 Mesh Network</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-cable-modem-and-wi-fi-router/"><u>Ultimate Guide to Choosing the Perfect Cable Modem and Wi-Fi Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-worlds-best-educational-websites-for-e-learning/"><u>Ultimate Guide to World's Best Educational Websites for E-Learning</u></a></li>
+</ul></div>
 

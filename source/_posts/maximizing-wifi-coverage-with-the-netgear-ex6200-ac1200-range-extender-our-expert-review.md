@@ -1,7 +1,7 @@
 ---
 title: Maximizing WiFi Coverage with the Netgear EX6200 AC1200 Range Extender - Our Expert Review
-date: 2024-08-15T09:05:24.279Z
-updated: 2024-08-16T09:05:24.279Z
+date: 2024-10-31T00:04:57.436Z
+updated: 2024-11-04T19:14:36.642Z
 categories:
   - BestProducts
 description: This Article Describes Maximizing WiFi Coverage with the Netgear EX6200 AC1200 Range Extender - Our Expert Review
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/TmDOFeGHXlA2eEwc65iiUVoWGUY=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/kFg5xi-56ujXYZRJ5JqhJueaSnw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
@@ -44,9 +41,6 @@ Lifewire / Erika Rawes
 
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/_gP-SgRbIGXPYdlmqqhNJSxhmSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
 
 Lifewire / Erika Rawes
@@ -81,16 +75,17 @@ Lifewire / Erika Rawes
 
  The eight antennas are housed inside of the two wings, so they’re not visible. The antennas are supposed to be ideally pre-positioned for you to get the best possible connection. However, because the eight individual antennas are housed within the wings, you can’t adjust them to your liking. The wings are on hinges though, so can fold down the wings to store the router, as the unit is somewhat large and bulky. It weighs three pounds, and it measures about a foot wide and almost eight inches in depth.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/fw0FJuD9bAOkQEHuAZ9OFq5toXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_05-2a03227466354aad82fe55b884b76ac6-4d18f476974a44b081aafc943a8e56b1.jpg)
 
 Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Quick and easy**
 
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
@@ -105,14 +100,23 @@ Lifewire / Erika Rawes
 
  The RAX120 has four Gigabit Ethernet ports on the back (two of which can be combined to support a larger file transfer rate of 2 GB) and a multigig Ethernet port that supports speeds up to 5 gigs. I was impressed overall with the location and specifications of the ports, but I would have liked to see more Ethernet ports on a router this expensive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network performance: Stellar**
 
@@ -126,9 +130,6 @@ The powerful video editing program for your Windows PC</a>
 
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Key Features: Quality hardware, lacks antivirus**
 
  Under the hood, the Nighthawk RAX120 has a 64-bit[Quad-core](https://www.lifewire.com/multiple-core-processors-832453) 2.2GHz processor. The quality hardware helps ensure stable and reliable performance. The router has two USB 3.0 storage ports on the back for connecting an external hard drive.
@@ -141,16 +142,10 @@ The powerful video editing program for your Windows PC</a>
 
  The router has two USB 3.0 storage ports on the back for connecting an external hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Nighthawk App**
 
  In the Nighthawk app, you can change your router’s settings, create a guest network, control your router remotely, manage your devices individually, and you can test your network speeds. However, when testing my network speeds, they consistently clock much faster on the Nighthawk app than on other platforms like Ookla and VeeApps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
  Lifewire / Erika Rawes
@@ -158,6 +153,13 @@ The powerful video editing program for your Windows PC</a>
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -168,6 +170,13 @@ The powerful video editing program for your Windows PC</a>
  **A cool looking router that’s faster and more powerful than you probably need.**
 
  The Nighthawk RAX120 performs impressively, but it‘s costly and lacks some user-friendly features like strong parental controls and easy-to-manage antivirus, so it’ll be more desirable for those with heavier networking demands than the average user.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -192,14 +201,11 @@ The powerful video editing program for your Windows PC</a>
 * Processor  AX optimized powerful 64-bit Quad-core 2.2GHz processor
 * Range  3,500 square feet
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -208,4 +214,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unified-tint-harmonizer/"><u>[Updated] In 2024, Unified Tint Harmonizer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-bose-qc35-ii-quiet-comfort-for-everyone/"><u>Discover Bose QC35 II - Quiet Comfort for Everyone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-benefits-of-tango-app-for-free-communication-calling-in-depth-review/"><u>Discover the Benefits of Tango App for Free Communication - Calling In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-voice-assistants-and-speakers-your-ultimate-list/"><u>Discover the Leading Voice Assistants & Speakers - Your Ultimate List!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-enhanced-features-in-apple-watch-series-6/"><u>Evaluating the Enhanced Features in Apple Watch Series 6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-critique-on-cyberpunk-2077-an-incomplete-triumph-in-gaming/"><u>Expert Critique on Cyberpunk 2077: An Incomplete Triumph in Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-fun-djis-robomaster-s1-a-unique-blend-of-drone-play-coding-mastery-and-competitive-battles/"><u>Explore the Fun: DJI's RoboMaster S1 – A Unique Blend of Drone Play, Coding Mastery & Competitive Battles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-to-edit-top-10-online-video-editors-with-no-watermark-limitations/"><u>Free to Edit Top 10 Online Video Editors with No Watermark Limitations</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone SE Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-rectifying-half-volume-issues-on-fb-media/"><u>In 2024, Rectifying Half-Volume Issues on Fb Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-to-toggle-picture-in-picture-on-your-ios-youtube-app-for-2024/"><u>Learn to Toggle Picture-in-Picture on Your iOS YouTube App for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-chromebook-freezing-issue-a-step-by-step-guide/"><u>Solving the Chromebook Freezing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-red-magic-9-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nubia Red Magic 9 Pro Device</u></a></li>
+</ul></div>
 

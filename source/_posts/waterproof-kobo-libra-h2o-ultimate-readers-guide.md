@@ -1,7 +1,7 @@
 ---
 title: Waterproof Kobo Libra H2O - Ultimate Reader's Guide
-date: 2024-08-15T09:08:13.454Z
-updated: 2024-08-16T09:08:13.454Z
+date: 2024-10-30T20:18:50.798Z
+updated: 2024-11-04T18:58:06.715Z
 categories:
   - BestProducts
 description: This Article Describes Waterproof Kobo Libra H2O - Ultimate Reader's Guide
@@ -38,8 +38,12 @@ Lifewire / Kelsey Simon
 4.6
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Ubisoft Rayman Legends
 
 ![Rayman Legends](https://www.lifewire.com/thmb/BWfy9xiaiEgYE-OIFR3VbBg-LW8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_HERO_RaymanLegends_20190118184305-5c8ff9e046e0fb00016ee128.jpg)
@@ -65,8 +69,12 @@ Lifewire / Kelsey Simon
  Rayman Legends is a 2D platformer from Ubisoft that has the option for cooperative gameplay. It comes from a long series of Rayman games but brings an upgrade in graphics and gameplay, creating a game that not only longtime fans will be happy with, but first-time players, too. We played this game on the PS4 to further explore the game’s plot, gameplay, graphics, and sound design―and we were not disappointed.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Easy as it should be**
 
  Setup for Rayman Legends is what you would expect. You’ll open up the[PlayStation 4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) case (or if you buy the game electronically through your PS4, you’ll begin the download process after purchase), pop in the disk, and you’ll be ready to play. Be aware, though, that certain features of the game will not be accessible if your PS4 is not connected to the internet. Specifically, you won’t be able to access the Challenges mode, where you can play weekly challenges against other Rayman Legends players.
@@ -82,10 +90,6 @@ Lifewire / Kelsey Simon
  You’ll chase after him, jumping from platform to platform, slaying the occasional enemy as you go. That's about it when it comes to the plot of Rayman Legends. Sometimes the Magician will give you a specific enemy to dodge, like a giant red dragon, and at the end of certain maps, you’ll get an opportunity to catch him. But really, Rayman Legends isn’t focused on plot; it’s more interested in providing outstanding gameplay.
 
 ![Rayman Legends](https://www.lifewire.com/thmb/-Un250xgOCxgaGgFeykC6pihaaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118212347-5c8ffe8d46e0fb0001f8d0cc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -103,6 +107,13 @@ Lifewire / Kelsey Simon
 
 ![Rayman Legends](https://www.lifewire.com/thmb/oJz1vIp26cdVH1115RCHTapRpTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118215643-5c8ffe7346e0fb000146adbb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
  When you’ve reached a certain number of Lums, you’ll be able to unlock new heroes, which there is no shortage of. The levels grow gradually more complex as you progress, and while we admit that most levels weren’t too difficult, a few at the end of the game will be challenging for even well-practiced players.
@@ -118,17 +129,11 @@ Lifewire / Kelsey Simon
  Rayman Legends has a unique look, which is represented fairly well by its bright and eye-catching cover. It doesn’t attempt to be realistic but embraces cartoon-like graphics, with goofy characters and villains mildly reminiscent of real-life creatures. In the level titled Toad Story, you’ll come across screaming toad monsters carrying swords and shields.
 
 ![Rayman Legends](https://www.lifewire.com/thmb/ccE0U5KQNuFzIwrnVe2EtwkrG_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118211106-5c90015f46e0fb000146adbe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
  In the Fiesta De Los Muertos level, be prepared to smash brightly colored mariachi skeletons. No matter which level, though, the art style is consistent, and while not traditionally beautiful, it’s enjoyable and fun―a perfect fit for the game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio: A hidden treasure**
 
  Generally speaking, the sound and music in Rayman Legends is well designed and fits with the feel of the rest of the game. But there is one thing worth mentioning when it comes to the sound and music of the game―and in our opinion, it’s the coolest thing about Rayman Legends.
@@ -136,13 +141,30 @@ Lifewire / Kelsey Simon
  At the end of each level, a special map is unlocked. This map is themed to fit with the level’s design, and each features a specific song. You’ll load in, be told to prepare yourself to run at full speed while jumping and smashing enemies, and then, as you set off, the first notes of the song begin.
 
 ![Rayman Legends](https://www.lifewire.com/thmb/JIMvxIzHzgo1AXBmpTp3LxpzmTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118210656-5c9001cd46e0fb000172f0b1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
  The beauty of these maps is how well the gameplay is designed to match the beats of the song, from how each jump will strike with the strum of a guitar, or how the smash of a drum will be timed with the slaying of an enemy. The levels might take you a few tries to finish, as they’re timed and require precision, but they’re fun enough you won’t mind doing them again.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Very reasonable for the content**
 
@@ -154,9 +176,6 @@ Lifewire / Kelsey Simon
 
  Sometimes PlayStation will put the item on sale, and you might even be able to get a copy for less than $15.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: More co-op platformers**
 
  If you enjoy the Rayman characters and style, there are a lot more Rayman games to explore. We probably wouldn’t suggest getting Rayman Origins since much of that gameplay is included in Rayman Legends, but one could look at Rayman Adventures. If you’re looking for other fun co-op platformers, we would suggest any of the Trine games, which focus on character-swapping and puzzles more than Rayman Legends, or Nintendo’s New Super Mario Bros. U Deluxe for the classic Mario experience.
@@ -188,14 +207,11 @@ Lifewire / Kelsey Simon
 * Recommended Age  10+
 * Available Platforms  Microsoft Windows (Origin), Nintendo Switch, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,4 +220,26 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-daily-revenue-of-podcasters-worldwide/"><u>[New] Daily Revenue of Podcasters Worldwide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-expense-yes-watch-one-frame-at-a-time-on-youtube/"><u>[New] No Expense? Yes! Watch One Frame at a Time on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-guide-to-twitter-videos-meet-aspect-ratio-criteria-for-2024/"><u>[New] Quick Guide to Twitter Videos Meet Aspect Ratio Criteria for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-apeak-soft-recording-performance-and-reliability-assessed-for-2024/"><u>[Updated] Apeak Soft Recording Performance and Reliability Assessed for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>[Updated] The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-editing-experience-windows-photos-meets-story-remix/"><u>[Updated] Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-motherboard-compatibility-updating-and-installing-drivers-in-windows/"><u>ASUS Motherboard Compatibility: Updating and Installing Drivers in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-standout-features-a-detailed-appraisal-of-the-huion-inspiroy-g10t-tablets-excellence-and-durability/"><u>Exploring the Standout Features: A Detailed Appraisal of the Huion Inspiroy G10T Tablet's Excellence and Durability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gotrax-gxl-v2-commuting-electric-scooter-review-fast-urban-scooter/"><u>GOTRAX GXL V2 Commuting Electric Scooter Review: Fast, Urban Scooter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/grand-escapades-in-yokus-island-express-an-in-depth-game-experience-review/"><u>Grand Escapades in Yoku's Island Express: An In-Depth Game Experience Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hitman-trilogys-grand-finale-in-depth-review-of-hitman-3/"><u>Hitman Trilogy's Grand Finale - In-Depth Review of Hitman 3</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-the-echo-pop-stand-out-from-the-echo-dot/"><u>How Does the Echo Pop Stand Out From the Echo Dot?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-apple-watch-series-6-slight-enhancements-preserve-its-leading-status/"><u>In-Depth Analysis of Apple Watch Series 6: Slight Enhancements Preserve Its Leading Status</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-apple-books-ebook-reader/"><u>In-Depth Assessment of the Apple Books eBook Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-how-the-blade-blh4100-stands-up-to-outdoor-rc-flight-challenges/"><u>In-Depth Review: How the Blade BLH4100 Stands Up to Outdoor RC Flight Challenges</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-tutorial-on-inspecting-web-content-pre-upload-for-optimal-quality/"><u>In-Depth Tutorial on Inspecting Web Content Pre-Upload for Optimal Quality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211345822-9783892014010-moi-moi-moi-laraignee-dans-sa-toile/"><u>Moi, moi, moi, l'araignée dans sa toile | Free Book</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-eliminating-the-critical-process-died-blue-screen-issue-on-windows-11/"><u>Step-by-Step Guide: Eliminating the 'Critical Process Died' Blue Screen Issue on Windows 11</u></a></li>
+</ul></div>
 

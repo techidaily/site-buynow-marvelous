@@ -1,7 +1,7 @@
 ---
 title: Expert Verdict on the Highly Acclaimed Philips Somneo Alarm Clocks
-date: 2024-08-15T09:09:02.272Z
-updated: 2024-08-16T09:09:02.272Z
+date: 2024-11-04T03:04:57.861Z
+updated: 2024-11-05T00:52:05.831Z
 categories:
   - BestProducts
 description: This Article Describes Expert Verdict on the Highly Acclaimed Philips Somneo Alarm Clocks
@@ -41,12 +41,16 @@ Lifewire / Emily Isaacs
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -69,18 +73,11 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WPjeQmKmzof_KVFE5_fIwN92cXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_05-24f7f07146ae45cd86d2c5bdd4791ee5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -101,22 +98,34 @@ Lifewire / Emily Isaacs
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## **Connectivity: A wired connection for reliability**
 
  The Fellowes connects to a PC via a USB cord. We couldn’t help but appreciate the simplicity of this design choice, especially as more and more companies are looking for ways to cut cords. Cutting down on cables is great when it makes sense, but the corded connection here allows for a dependable product, since you never have to worry about a low battery, and also means that the keyboard is more reliable for[faster typists](https://www.lifewire.com/typing-speed-tests-1356663) . It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed. This is useful if you type faster than conventional keyboards can keep up with, making it less likely for you to lose a stroke.
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
@@ -147,8 +156,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Microban Split Design Keyboard
@@ -161,14 +174,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * Compatibility  As plug-and-play device with Windows OS
 * Warranty  3-year limited warranty
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +187,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-alliance-of-creativity-brands-and-youtubes-fusion-for-2024/"><u>[New] Alliance of Creativity Brands and YouTube's Fusion for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-comparing-cloud-prices-for-maximum-savings/"><u>[New] In 2024, Comparing Cloud Prices for Maximum Savings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-overlay-solutions-for-your-videos/"><u>[Updated] Best Overlay Solutions for Your Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-stability-a-comprehensive-review-of-the-omoton-t1-tablet-stand/"><u>Affordable Stability: A Comprehensive Review of the Omoton T1 Tablet Stand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/artists-insight-on-the-functionality-of-gaomon-pd1560-pen-display/"><u>Artist's Insight on the Functionality of Gaomon PD1560 Pen Display</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-mini-gaming-rigs-for-enthusiasts-and-gamers-alike/"><u>Best Mini Gaming Rigs for Enthusiasts and Gamers Alike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-distinctiveness-of-knack-against-predictable-gaming-environments/"><u>Breaking Down the Distinctiveness of Knack Against Predictable Gaming Environments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-or-unreliable-a-comprehensive-look-at-the-thermopro-tp67-device/"><u>Budget-Friendly or Unreliable? A Comprehensive Look at the ThermoPro TP67 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/centrifugal-pumps-use-rotational-energy-from-an-impeller-to-create-fluid-flow/"><u>Centrifugal Pumps Use Rotational Energy From an Impeller to Create Fluid Flow</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-budget-friendly-beantech-bitwatch-s1plus-for-savvy-shoppers/"><u>Comprehensive Analysis of the Budget-Friendly Beantech Bitwatch S1+ for Savvy Shoppers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-bugs-a-guide-to-correcting-ring-of-elysium-tomb-raider-crashes/"><u>Fixing Game Bugs: A Guide to Correcting Ring of Elysium (Tomb Raider) Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-preventing-auto-sleep-mode-on-your-apple-computer/"><u>Guide: Preventing Auto-Sleep Mode on Your Apple Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>In 2024, The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ual-approach-mastering-two-point-of-view-techniques-in-your-youtube-reaction-video-content/"><u>The Dual Approach – Mastering Two-Point of View Techniques in Your YouTube Reaction Video Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tracing-the-progress-in-depth-analysis-of-each-ios-version-from-10-to-180/"><u>Tracing the Progress: In-Depth Analysis of Each iOS Version, From 1.0 to 18.0</u></a></li>
+</ul></div>
 

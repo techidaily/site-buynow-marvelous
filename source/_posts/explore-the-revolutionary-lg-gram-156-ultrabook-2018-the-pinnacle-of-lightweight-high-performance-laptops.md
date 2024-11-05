@@ -1,7 +1,7 @@
 ---
 title: Explore the Revolutionary LG Gram 15.6 Ultrabook (2018) - The Pinnacle of Lightweight, High-Performance Laptops
-date: 2024-08-15T09:05:49.732Z
-updated: 2024-08-16T09:05:49.732Z
+date: 2024-11-03T00:41:13.451Z
+updated: 2024-11-05T02:06:50.172Z
 categories:
   - BestProducts
 description: This Article Describes Explore the Revolutionary LG Gram 15.6 Ultrabook (2018) - The Pinnacle of Lightweight, High-Performance Laptops
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ## LG Gram 15.6-inch (2018)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/UTcUqy8dPDWlsYUZPdsu5EVj8HU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
 
 Lifewire / Andrew Hayward
@@ -44,14 +40,8 @@ Lifewire / Andrew Hayward
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## LG Gram 15.6-inch (2018)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/R_aYhYLFGT6--hIRDTNUJTlIVn8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
 
 Lifewire / Andrew Hayward
@@ -83,6 +73,13 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/radDS_2IRuzjTlZxUS5og2a3PIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Top_04-b051e3660efc406ab97f92df654d3762.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Amazingly light, but not wholly convincing**
@@ -105,23 +102,21 @@ Lifewire / Andrew Hayward
 
  The entry-level model we reviewed comes with a meaty 256GB solid state drive (SSD), which is double the SSD storage we typically see in a base model laptop. While 128GB might be cutting it close for some users, the boosted tally provides plenty more space for game downloads and storing local media.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/1qu1WvdEgTzjUQ8QH_Lssx79xF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Trackpad_05-f0d9dc63b03e4650a92e30747090889a.jpg)
 
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Just follow the directions**
 
  There's little reason to worry about getting the LG Gram 15.6-inch laptop up and running quickly. It has Windows 10 pre-installed, so you'll simply follow the onscreen prompts to enter your Wi-Fi info, check for updates, select a few options, and ultimately find yourself ready to roll on the desktop. It shouldn't take more than a handful of minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Display: Large and capable enough**
 
  The LG Gram's 15.6-inch screen is good, but not great. It's certainly large: the widescreen panel stretches out longer than the 13-inch screens seen on a lot of ultraportable computers, and the extra real estate is absolutely noticeable. It gives you enough extra space to comfortably multitask, such as having a web browser and a document side-by-side, or a Slack window in full view to distract you from whatever you're supposed to be doing for work.
@@ -158,7 +153,21 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/AhDZOG33ttJ8LfKQnzvHO7K-S8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Closed_02-d40445064b4945729278aeae3d8ae1c0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery: Seriously amazing**
 
@@ -169,17 +178,18 @@ Lifewire / Andrew Hayward
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Hello, Windows (but no Windows Hello)**
 
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
 
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Solidly priced, considering its strengths**
 
  Originally priced at $1,249, the entry-level LG Gram 15.6-inch (2018) can now be found for about $999 as of this writing. LG has rolled out newer 2019 versions that look identical and have the same core features, but upgrade to the latest generation of Intel Core processors. You should see a little bit more speed in benchmark testing, although it's unclear whether there's any noticeable difference during regular usage.
@@ -191,8 +201,12 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **LG Gram 15.6-inch (2018) vs. Microsoft Surface Laptop 2: Better than Microsoft's own?**
 
  The LG Gram 15.6-inch and Microsoft Surface Laptop 2 are similarly equipped, in terms of having the same processor and integrated graphics chip, although they vary quite a bit from there. As noted, the LG Gram's claim to fame comes with the resilient battery and large screen for such a lightweight computer.
@@ -207,9 +221,6 @@ Lifewire / Andrew Hayward
 
  There are better all-around ultraportable laptops in this price range, and we had some issues with the feeling of the build, the keyboard layout, and the merely good display quality. However, if you're in the market for an incredibly light laptop with a big screen and a battery that lasts and lasts, it's hard to ignore the LG Gram 15.6-inch (2018). You get a very capable computer for the price, and it's a notebook that can legitimately last through a full workday even at max brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Gram 15.6-inch (2018)
@@ -227,14 +238,11 @@ Lifewire / Andrew Hayward
 * Battery Capacity  72 Wh
 * Ports  1x USB-C, 3x USB-3, HDMI, microSD, 3.5mm headphone port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -243,4 +251,22 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>[New] In 2024, How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/csrssexe-threat-analysis-identifying-trojans-vs-viruses-and-comprehensive-removal-guide/"><u>CSRSS.exe Threat Analysis: Identifying Trojans Vs. Viruses & Comprehensive Removal Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-setting-up-your-vizio-tv-for-optimal-usb-movie-playback-performance/"><u>Easy Guide: Setting Up Your Vizio TV For Optimal USB Movie Playback Performance</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-facile-pour-configurer-un-formatage-de-cle-usb-en-mode-de-lecture-unique/"><u>Guide Facile Pour Configurer Un Formatage De Clé USB en Mode De Lecture Unique</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/how-to-efficiently-transfer-your-tracks-from-digital-to-compact-disc-using-windows-11-and-macos/"><u>How To: Efficiently Transfer Your Tracks From Digital to Compact Disc Using Windows 11 and macOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/macbook-face-off-detailing-key-differences-between-macbook-air-and-macbook-pro/"><u>MacBook Face-Off: Detailing Key Differences Between MacBook Air and MacBook Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-paperwork-in-depth-review-of-the-robust-fujitsu-scansnap-ix1-600-desktop-scanner/"><u>Mastering Paperwork: In-Depth Review of the Robust Fujitsu ScanSnap iX1 600 Desktop Scanner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-connectivity-on-a-budget-with-the-tp-link-archer-c50-a-users-guide/"><u>Maximizing Connectivity on a Budget with the TP-LInk Archer C50 - A User's Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meet-the-cutting-edge-amazon-halo-redefining-personal-health-tracking-tech-innovatively/"><u>Meet the Cutting-Edge Amazon Halo: Redefining Personal Health Tracking Tech Innovatively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-hyper-review/"><u>Motorola One Hyper Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-outside-blu-ray-recording-drives-your-2-reliable-guide-to-2024s-options/"><u>Navigating the Best Outside Blu-Ray Recording Drives: Your 2# Reliable Guide to 2024'S Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-lens-lightweight-frame-the-sx620-hs/"><u>Powerful Lens, Lightweight Frame: The SX620 HS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-five-new-facebook-features-you-should-know-for-2024/"><u>Top Five New Facebook Features You Should Know for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zoom-for-the-first-timer-easy-to-follow-guidelines-for-2024/"><u>Zoom for the First Timer Easy-to-Follow Guidelines for 2024</u></a></li>
+</ul></div>
 

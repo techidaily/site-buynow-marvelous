@@ -1,7 +1,7 @@
 ---
 title: "Expand Your NES Collection: A Step-by-Step Guide to Adding New Titles"
-date: 2024-08-15T09:08:46.099Z
-updated: 2024-08-16T09:08:46.099Z
+date: 2024-10-28T20:20:32.233Z
+updated: 2024-11-05T01:35:05.276Z
 categories:
   - BestProducts
 description: "This Article Describes Expand Your NES Collection: A Step-by-Step Guide to Adding New Titles"
@@ -39,9 +39,6 @@ Andrew Hayward / Lifewire
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Meta Quest 2
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/KO4q8p9NOXatDIXmzsBBpQgN5eA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
@@ -86,15 +83,23 @@ Andrew Hayward / Lifewire
  Oculus now sells a $49 Elite Strap attachment that’s more akin to the original Quest strap, and while the Quest 2 straps are usable, I’ll probably make the upgrade and buy the better strap.
 
 ![Oculus Rift 2](https://www.lifewire.com/thmb/JkgQv_Sk0ofSL0Sp-jKmqe84xak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-2-a7792535288542dba45c8bc32f882be2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Tracking and Controllers: Some improvements, some drawbacks
 
  The Oculus Quest 2 uses the same kind of “inside-out” tracking system that relies on four cameras on the visor to track the wireless controllers or even your hands, rather than relying on external tracking sensors as some PC-based systems do. Like the original, it works amazingly well, allowing for fluid, six-degrees-of-freedom movement in games and minimizing both initial setup and the time it takes to get going each session. It also means that you can use the Oculus Quest 2_anywhere_ without the need for any kind of external hardware or accessories.
@@ -102,8 +107,12 @@ Andrew Hayward / Lifewire
  The Quest 2’s wireless, motion-sensing Oculus Touch controllers are identical in function to the original, but are a little heavier and have a larger surface with space to rest your thumb when not in use. That’s handy. Each has an analog stick and two face buttons, along with a trigger button and a grip button. Oculus also swapped out the magnetically-attached battery doors from the first Quest controllers—which would sometimes slide open when I used the original—for ones that simply click into place. That’s a win for function over form.
 
 ![Oculus Quest 2 ](https://www.lifewire.com/thmb/1aG6kdNHMuvnim8p8_i1RwH9QG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-3-eec6cabc11db4ed9be5254aa2bc46ec1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
@@ -118,9 +127,6 @@ Andrew Hayward / Lifewire
 
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Setup Process: You’ll need a phone… and Facebook
 
  You should charge the Oculus Quest 2 out of the box, as the modest total battery life means a partially-charged headset isn’t going to last very long. You will need a[smartphone](https://www.lifewire.com/best-smartphones-4043781) , either Android or iPhone, and the free Oculus app to complete setup, as well. Once the headset has a good charge, begin setup from the mobile app and then follow the guided directions, which will involve putting on, adjusting, and getting familiar with the headset itself.
@@ -128,6 +134,13 @@ Andrew Hayward / Lifewire
  Part of the setup process, and the process each time you use the headset, is to designate your play space by “drawing” a barrier within the augmented view of your surroundings seen through the headset’s cameras. From there, the headset determines whether you have enough space for active, room-scale experiences, or you can choose a stationary setup for seated play modes. During active play, a virtual barrier called the Oculus Guardian appears when you get close to the edges of your designated play space to help you avoid crashing into your surroundings. It’s all rather clever and effective.
 
  There’s one other potential hitch with the Oculus Quest 2 that wasn’t present with the original: the new headset_requires_ a[Facebook account](https://www.lifewire.com/tutorial-how-facebook-works-2654610) and there’s no way around it. Facebook owns Oculus, and while the first Quest could be used simply with an Oculus account, the new one requires the social media account. For some, that may be a deal-breaker, given frustrations over privacy and the increasing role that Facebook plays in our society, so just know that going in.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: It’s a big upgrade
 
@@ -151,9 +164,6 @@ Andrew Hayward / Lifewire
 
  Plugging in headphones delivers a more closed-off, immersive experience, but the Oculus Quest 2’s built-in speaker does a solid job of delivering audio and music. It does sound a tiny bit louder and fuller than the original Quest’s speaker, but not significantly so. Still, if you want to play without being fully shut-off from your surroundings, it works just fine.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery: You’ll get a couple hours
 
  Like the original headset, the Oculus Quest 2 is rated for 2-3 hours of usage on a full charge. For such a compact, standalone headset, I think that’s reasonable. You get a couple hours to play, and then you can take a breather and do other things while it charges.
@@ -175,13 +185,17 @@ Andrew Hayward / Lifewire
  Using a[Razer Blade 15 (2019)](https://www.lifewire.com/razer-blade-15-review-4845229) gaming laptop, I was able to play the visually demanding and deeply immersive Half-Life: Alyx on the Oculus Quest 2—a game that it could never run using its own internal hardware. It ran a little less smoothly than it did using the PC-native Valve Index headset, but not significantly so. This is a great way to experience higher-end VR games, including the new[Star Wars: Squadrons](https://www.lifewire.com/star-wars-squadrons-review-5086656) , for example. And with Oculus announcing plans to phase out PC-only headsets, it will also be a key part of the Quest platform’s future.
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/72vxixVr7kdKoLfUC3QkIrBl26I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-6-12fcb6054cf2475191bc613a3f26bcfc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Games: A good, growing selection
 
@@ -194,9 +208,6 @@ Andrew Hayward / Lifewire
  There’s a lot of great stuff on Quest 2, ranging from simple arcade-like experiences to larger-scale adventures, quirky interactive experiences, and more. And on top of that, there are the aforementioned video services for 360-degree videos, plus fitness apps and games, VR chat for communicating with friends and random people, a web browser, and more.
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/FqVvo044zoPghSD_PR1g2e0L2rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-5-216bbf638cbe407b8b6f332abc94ae47.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -208,10 +219,6 @@ Andrew Hayward / Lifewire
 
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Oculus Quest 2 vs. PlayStation VR
 
  Amazingly, there is no direct analog to the Oculus Quest 2 on the market: Oculus seems to be the only company that can release such a powerful device at this kind of price and with this kind of software support. That said, if I had to compare it to another VR headset, I’d put it up against Sony’s PlayStation VR, which requires a PlayStation 4 or[PlayStation 5](https://www.lifewire.com/sony-playstation-5-review-5088394) console.
@@ -227,13 +234,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The significant performance upgrade and surprising price drop outweigh some of the annoying design shifts with the Oculus Quest 2, making it the must-have VR headset for just about everyone. Not only does it play a great library of on-headset games, but it can also connect to a powerful PC to play even more games on top of that. Add to that the ease of use, quality gameplay, and immersive visuals, and the Oculus Quest 2 is another brilliant VR game console.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Oculus Rift S](https://www.lifewire.com/oculus-rift-s-review-4764112)
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 * [Valve Index](https://www.lifewire.com/valve-index-review-4775604)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -257,8 +275,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +282,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-youtube-videos-with-professional-techniques-using-wmm/"><u>[New] Enhancing YouTube Videos with Professional Techniques Using WMM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-benchmark-next-gen-ai-measurement-models/"><u>Beyond The Benchmark: Next-Gen AI Measurement Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-lenovo-thinkpad-x12-detachable-analysis-exceptional-convertible-tablet-and-superior-typing-experience/"><u>Comprehensive Lenovo ThinkPad X12 Detachable Analysis: Exceptional Convertible Tablet & Superior Typing Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-netgear-ac750-wi-fi-repeater-ex3700/"><u>Comprehensive Review: Netgear AC750 Wi-Fi Repeater EX3700</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-assessment-the-perfect-blend-of-elegance-and-performance-in-the-4k-215-apple-imac/"><u>Detailed Assessment: The Perfect Blend of Elegance & Performance in the 4K, 21.5 Apple iMac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-17-inch-notebooks-dominating-2024s-market/"><u>Discover the Finest 17-Inch Notebooks Dominating 2024'S Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-literature-like-never-before-with-the-newly-improved-kindle-paperwhite-2018-our-expert-review-inside/"><u>Dive Into Literature Like Never Before with the Newly Improved Kindle Paperwhite (2018) - Our Expert Review Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-economic-alternatives-for-petcube-technology/"><u>Evaluating Economic Alternatives for Petcube Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/making-money-with-videos-strategies-for-the-aspiring-vlogger/"><u>Making Money with Videos Strategies for the Aspiring Vlogger</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-a-disconnected-steam-contacts-circle-solutions-at-hand/"><u>Troubleshooting a Disconnected Steam Contacts Circle – Solutions at Hand</u></a></li>
+<li><a href="https://article-tips.techidaily.com/win-with-these-8-free-superior-3d-video-tools/"><u>Win with These 8 Free, Superior 3D Video Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-how-to-manually-adjust-your-clock-region/"><u>Windows: How to Manually Adjust Your Clock Region</u></a></li>
+</ul></div>
 
