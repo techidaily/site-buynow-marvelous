@@ -1,7 +1,7 @@
 ---
 title: "APC's BE6BAT UPS Model M1: Expert Analysis on Efficiency and Features Including Built-In Charger Functionality"
-date: 2024-08-22T17:40:10.219Z
-updated: 2024-08-23T17:40:10.219Z
+date: 2024-11-10T21:17:27.580Z
+updated: 2024-11-15T10:39:59.707Z
 categories:
   - BestProducts
 description: "This Article Describes APC's BE6BAT UPS Model M1: Expert Analysis on Efficiency and Features Including Built-In Charger Functionality"
@@ -45,6 +45,13 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon $65](https://www.amazon.com/Garmin-010-01995-10-v%C3%ADvosmart-Activity-Midnight/dp/B07GM7WHBG?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7CB07GM7WHBG) [View On Walmart $97](https://www.walmart.com/ip/Garmin-Fitness-Trackers-Vivo-smart-4-Large/546172113?slfpid=3) [View On Garmin.com $130](https://buy.garmin.com/en-US/US/p/605739/pn/010-01995-10)
@@ -68,19 +75,26 @@ Lifewire / Erika Rawes
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
 
  The Vivosmart 4 has a unibody design, and you cannot remove the tracker portion from the band. I was somewhat disappointed to see that I couldn’t switch out the bands for other colors and styles, especially considering Garmin has such attractive band options. Unfortunately, you can only choose one—grey with rose gold trim, berry with light gold trim, azure blue with silver trim, or the band I tested, black with midnight trim. The band also comes in small/medium or large sizes. The small/medium size fit my wrist well, but when I had my husband try on the band, it wouldn’t fit around his wrist. Other trackers, like the Fitbit Charge 4, come with both a small and large band.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -106,16 +120,10 @@ Lifewire / Erika Rawes
 
  Overall, the Garmin Vivosmart 4 is capable of providing an abundance of useful data, but it requires a bit more effort on the part of the user to obtain this information. If you do things like add a custom stride length, edit any activities that didn’t track accurately, track hydration and weight goals, use the female health features, and pair the Garmin Connect app with the My Fitness Pal app, you can get a comprehensive health and fitness tracking experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -124,13 +132,23 @@ Lifewire / Erika Rawes
 
  The Garmin Connect app allows you to dive as deep into your fitness tracking as you want. If you’re a runner, it can track everything from your cadence to your max pace. It provides charts and graphs of your long term activity level, heart rate, stress, body battery, and more. You can also use insights to compare that data with the averages in your age and gender category.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery: May last a full seven days**
 
@@ -142,9 +160,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
  I found the Garmin Vivosmart 4 much more comfortable than the Fitbit Charge 3\. I also like the body battery and stress monitoring features in the Vivosmart 4\. On the other hand, the[Fitbit Charge 3](https://www.lifewire.com/fitbit-charge-3-review-5072527) has a more accurate heart monitor (according to testing). The Fitbit Charge 3 (view on[Amazon](https://www.amazon.com/dp/B07FTN21JL/?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7C) ) also offers a ton of workouts in its Fitbit app, and slightly more seamless activity tracking for weight training and high-intensity workouts. If you want a day-to-day fitness tracker to track your sleep, stress, and energy levels, the Vivosmart 4 is a great option. If you want a larger screen and easy tracking for activities like weight training and cycling, you may prefer the Fitbit Charge 3.
@@ -155,9 +170,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Vivosmart 4
@@ -183,14 +195,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Other features  training, planning and analysis, heart rate, running, cycling, swimming, kids activity tracking
 * What’s included  Vívosmart 4 smart activity tracker, Charging/data cable, Manuals
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +208,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access/"><u>[New] Effortlessly Download Top 5 Chromium Plug-Ins for FB Video Access</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-best-sd-card-options-for-gopro-hero-8-plus-7-cameras/"><u>[New] In 2024, Best SD Card Options for GoPro Hero 8 + 7 Cameras</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-direct-video-tweet-release-avoid-the-rt-for-2024/"><u>[Updated] Direct Video Tweet Release Avoid the 'RT' For 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unwind-with-our-top-10-serene-games-for-2024/"><u>[Updated] Unwind With Our Top 10 Serene Games for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/excellent-choices-of-podcast-listening-tools-on-apples-mobile-platform/"><u>Excellent Choices of Podcast Listening Tools on Apple's Mobile Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-causes-of-high-latency-tips-for-reducing-your-game-lag/"><u>Exploring the Causes of High Latency: Tips for Reducing Your Game Lag</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/free-flicks-with-ps-plus-a-guide-to-navigating-sonys-hidden-cinema-bonuses/"><u>Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/from-simple-sounds-to-complex-compositions-empowering-audio-artists-with-chatgpt/"><u>From Simple Sounds to Complex Compositions: Empowering Audio Artists with ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-more-bang-for-your-buck-discover-the-ultimate-5-tips-to-utilize-apple-music-valuefully/"><u>Get More Bang for Your Buck - Discover the Ultimate 5 Tips to Utilize Apple Music Valuefully</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/go-the-extra-mile-with-a-portable-solar-lantern-ideal-for-wilderness-adventures-and-emergency-backups/"><u>Go the Extra Mile with a Portable Solar Lantern – Ideal for Wilderness Adventures & Emergency Backups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonizing-with-inshot-music-integration-guide/"><u>Harmonizing with InShot Music Integration Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-has-the-advancement-of-todays-televisions-impacted-classic-light-gun-video-games/"><u>How Has the Advancement of Today's Televisions Impacted Classic Light Gun Video Games?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C22 Without Them Knowing? | Dr.fone</u></a></li>
+</ul></div>
 

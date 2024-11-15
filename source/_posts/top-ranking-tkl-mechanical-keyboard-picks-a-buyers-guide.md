@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking TKL Mechanical Keyboard Picks: A Buyer's Guide"
-date: 2024-11-02T21:51:13.909Z
-updated: 2024-11-05T04:07:47.508Z
+date: 2024-11-09T20:08:04.972Z
+updated: 2024-11-15T06:27:33.301Z
 tags:
   - buying-guides
 categories:
@@ -47,13 +47,6 @@ Best Wireless TKL Keyboard
 Best TKL Keyboard for Mac  
 [$100 at Amazon](https://www.amazon.com/gp/product/B0869J8XD9?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What to Look For in a TKL Mechanical Keyboard in 2024
 
  If you’re working with a small desk or want to free up space for sweeping mouse movements, it’s hard to go wrong with a TKL mechanical keyboard. These offer much of the same functionality as a full-size keyboard, though they lack a keypad---which frees up significant space and makes TKL keyboards so much smaller. They’re not as tiny as 60% keyboards, however, and with 87 keys they’re the perfect combination of form and function.
@@ -75,13 +68,6 @@ Best TKL Keyboard for Mac
 
 ![SteelSeries Apex Pro TKL on a gaming desk with red and pink lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/steelseries-pro-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _SteelSeries_
 
 | Pros                          | Cons      |
@@ -101,13 +87,6 @@ _SteelSeries_
 
 ![apex pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/apex-pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best TKL Keyboard Overall
@@ -121,10 +100,10 @@ Offering adjustable switches, built-in OLED display, and a premium wrist rest, t
 [$210 at Amazon](https://www.amazon.com/New-SteelSeries-Apex-Wireless-2023/dp/B0BF67DM6K?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) [See at steelseries](https://steelseries.com/gaming-keyboards/apex-pro-tkl-wireless-2023) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Budget TKL Keyboard: [HyperX Alloy Origins Core TKL](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
@@ -163,13 +142,6 @@ Built with a premium aluminum body and support for the HyperX NGENUITY Software,
 
 ![Razer Huntsman V2 TKL on a gaming desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/razer-huntsman-v2-tkl-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Razer_
 
 | Pros                     | Cons                |
@@ -188,7 +160,21 @@ _Razer_
 
 ![huntsman V2 TKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/huntsman-v2-tkl.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best TKL Keyboard for Gaming
 
@@ -199,6 +185,13 @@ $92 $160 Save $68
 The Huntsman V2 TKL offers a great polling rate for improved latency, reliable construction, and allows you to choose between a few different switches depending on your preference.
 
 [$92 at Amazon](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Wireless TKL Keyboard: [Logitech G915 Lightspeed](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
@@ -221,13 +214,6 @@ _Logitech_
 ![logitech G915 TKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/logitech-g915-tkl.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best Wireless TKL Keyboard
 
@@ -261,7 +247,21 @@ _Keychron_
 
 ![keychron K8-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/keychron-k8-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best TKL Keyboard for Mac
 
@@ -272,16 +272,10 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 [$100 at Amazon](https://www.amazon.com/gp/product/B0869J8XD9?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -295,10 +289,10 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
  A TKL keyboard will have 87 or 88 keys, although you may find some models with macro keys that slightly inflate this number.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are TKL keyboards good for programming?
@@ -324,16 +318,19 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-maximize-your-videos-a-curated-list-of-top-flv-to-youtube-apps/"><u>[New] In 2024, Maximize Your Videos A Curated List of Top FLV-to-YouTube Apps</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effortless-music-extraction-choose-the-right-apps-for-youtube-and-mp3/"><u>2024 Approved Effortless Music Extraction Choose the Right Apps for YouTube & MP3</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lenovo-thinkphone-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lenovo ThinkPhone to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-extract-audio-from-tweets-and-save-as-mp3s/"><u>In 2024, How to Extract Audio From Tweets and Save as MP3s</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kidizooms-fun-filled-dual-camera-series/"><u>Kidizoom's Fun-Filled Dual Camera Series</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-choice-compact-gaming-computers-the-ultimate-list/"><u>Top Choice Compact Gaming Computers: The Ultimate List</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-eyewear-options/"><u>Top Rated Smart Eyewear Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-enhanced-gameplay-of-the-wasteland-2-directors-cut-a-riveting-turn-based-adventure-review/"><u>Unveiling the Enhanced Gameplay of The Wasteland 2: Director’s Cut - A Riveting Turn-Based Adventure Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/watch-dogs-legion-analysis-fresh-location-familiar-thrills/"><u>Watch Dogs: Legion Analysis - Fresh Location, Familiar Thrills</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/pokemon-shining-pearl-unlocking-the-secrets-to-an-unforgettable-and-fun-playthrough/"><u>'Pokemon Shining Pearl': Unlocking the Secrets to an Unforgettable and Fun Playthrough</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>[New] Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-shake-reduction-companion-for-cams/"><u>[New] Quick Shake Reduction Companion for Cams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-camguard-elite-mesh-patch/"><u>[Updated] 2024 Approved CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-advanced-computing-the-expertise-of-toms-hardware-reviews/"><u>Decoding Advanced Computing: The Expertise of Tom's Hardware Reviews</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-youtubes-economic-strategy-the-rise-of-short-videos-for-2024/"><u>Decoding YouTube’s Economic Strategy The Rise of Short Videos for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-analysis-unveiling-a-costly-device-marred-by-glitches/"><u>Microsoft Surface Duo Analysis: Unveiling a Costly Device Marred by Glitches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-review-falls-short-of-flagship-excellence/"><u>Motorola Edge+ Review: Falls Short of Flagship Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/"><u>Navigating the Pre-Owned iPad Market: A Buyer's Top Five Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-nickwatch-comes-to-us-during-kids-choice-awards/"><u>New NickWatch Comes to US During Kids' Choice Awards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pocket-friendly-pleasures-with-oneplus-buds/"><u>Pocket-Friendly Pleasures with OnePlus Buds</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-disabled-windows-sign-in-options/"><u>Steps for Restoring Disabled Windows Sign-In Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-collaborating-with-chatgpt-for-advanced-vehicle-customization-ideas/"><u>The Ultimate Guide to Collaborating with ChatGPT for Advanced Vehicle Customization Ideas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-code-interpreter-why-is-it-so-important/"><u>What Is the ChatGPT Code Interpreter? Why Is It So Important?</u></a></li>
 </ul></div>
 

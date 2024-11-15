@@ -1,7 +1,7 @@
 ---
 title: "EX6200 in Focus: Detailed Insights Into the Netgear Wireless Range Amplifier - A Key Player in Home Networking Solutions"
-date: 2024-10-28T16:47:48.788Z
-updated: 2024-11-04T19:21:34.558Z
+date: 2024-11-08T21:14:53.974Z
+updated: 2024-11-14T21:54:29.201Z
 categories:
   - BestProducts
 description: "This Article Describes EX6200 in Focus: Detailed Insights Into the Netgear Wireless Range Amplifier - A Key Player in Home Networking Solutions"
@@ -40,13 +40,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -65,6 +58,13 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -79,18 +79,18 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -105,13 +105,6 @@ Lifewire / Kelsey Simon
  Overall, this game was a weak attempt at offering players the experience of a novel in[video game](https://www.lifewire.com/game-play-and-streaming-4781449) format. The storytelling is very heavy-handed. The writing is weak and full of repeated telling of things you can easily see on-screen around you. There’s little to no direction about where to go or what exactly you should be doing, and combined with the long paragraphs of text, things becomes boring fast. The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way. It’s just a shame that it gets buried under such heavy, inactive storytelling.
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Graphics: Outdated and simplistic**
 
@@ -132,10 +125,10 @@ Lifewire / Kelsey Simon
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
@@ -149,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,19 +173,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/limbing-the-youtube-search-rankings-key-seo-strategies-unveiled/"><u>[New] Climbing the YouTube Search Rankings Key SEO Strategies Unveiled</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tagging-made-easy-with-these-high-impact-instagram-hashtags/"><u>[New] In 2024, Tagging Made Easy with These High-Impact Instagram Hashtags</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-components-for-next-gen-streaming/"><u>[New] Premium Components for Next-Gen Streaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-netgear-ac750-ex3700-wireless-range-extender/"><u>Comprehensive Review of the Netgear AC750 EX3700 Wireless Range Extender</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enhancing-media-creation-skills-with-windows-movie-maker-windows-8-edition/"><u>Enhancing Media Creation Skills with Windows Movie Maker (Windows 8 Edition)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-opinion-on-mophies-powerstation-ac-charger-worth-every-penny-for-its-ease-of-use/"><u>Expert Opinion on Mophie's Powerstation AC Charger - Worth Every Penny for Its Ease of Use</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-google-pixel-the-essence-of-android-in-a-phone/"><u>In-Depth Look at Google Pixel 지오블: The Essence of Android in a Phone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-mg2800-series-drivers-install-for-windows-11-8-and-7-systems/"><u>Latest Canon MG2800 Series Drivers - Install for Windows 11, 8 and 7 Systems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigating-the-nebula-of-file-elimination-a-step-by-step-guide-to-stellar-secure-wipe-on-windows/"><u>Navigating the Nebula of File Elimination: A Step-by-Step Guide to Stellar Secure Wipe on Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/start-shooting-smart-top-15-shot-techniques-for-beginners-for-2024/"><u>Start Shooting Smart Top 15 Shot Techniques for Beginners for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-paper-sculpting-in-collages/"><u>The Art of Paper Sculpting in Collages</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-6-online-stores-where-you-can-find-the-perfect-television/"><u>Top 6 Online Stores Where You Can Find the Perfect Television</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-in-depth-analysis-the-new-google-pixel-6-launch-review/"><u>Unboxing and In-Depth Analysis: The New Google Pixel 6 Launch Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-samsung-galaxy-note-9-reigns-supreme-amongst-giants-of-the-smartphone-screen-world/"><u>Why Samsung Galaxy Note 9 Reigns Supreme Amongst Giants of the Smartphone Screen World</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uilding-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[New] Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-ustreams-offerings-and-opponents/"><u>[Updated] Unveiling Ustream's Offerings and Opponents</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-tips-to-overcome-stuttering-and-freezing-in-outriders-on-your-computer/"><u>Effective Tips to Overcome Stuttering & Freezing in Outriders on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-c65-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco C65 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy M54 5G Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazonbasics-7-port-usb-30-hub-for-optimal-port-usage/"><u>In-Depth Analysis of AmazonBasics 7-Port USB 3.0 Hub for Optimal Port Usage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-gaomon-pd1560-tablet-analysis-unveiling-the-perfect-digital-canvas/"><u>In-Depth Gaomon PD1560 Tablet Analysis – Unveiling the Perfect Digital Canvas</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-alcatel-joy-tab-2-the-best-of-low-cost-lte-tech/"><u>In-Depth Look at the Alcatel Joy Tab 2: The Best of Low-Cost LTE Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-experiencing-the-lenovo-9-inch-nook-tablet/"><u>In-Depth Review: Experiencing the Lenovo 9-Inch Nook Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/invest-in-ink-kindle-unlimiteds-essential-traits-explored/"><u>Invest in Ink: Kindle Unlimited's Essential Traits Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/summit-elite-25-testing-analysis-for-2024/"><u>Summit Elite 25 Testing Analysis for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
 

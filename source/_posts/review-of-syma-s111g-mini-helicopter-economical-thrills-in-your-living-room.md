@@ -1,7 +1,7 @@
 ---
 title: "Review of Syma S111G Mini Helicopter: Economical Thrills in Your Living Room"
-date: 2024-08-22T17:43:10.813Z
-updated: 2024-08-23T17:43:10.813Z
+date: 2024-11-13T21:14:17.282Z
+updated: 2024-11-15T09:50:20.792Z
 categories:
   - BestProducts
 description: "This Article Describes Review of Syma S111G Mini Helicopter: Economical Thrills in Your Living Room"
@@ -38,19 +38,8 @@ Lifewire / Andy Zahn
 
 4.7
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ASUS ROG Zephyrus G14
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/d6Jx1iTN6v3IBRBliZFXUcAGKnY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Asus-Zephyrus-G14-Laptop-1-0c79bc44ec9d4b908614464513fff4ba.jpg)
 
 Lifewire / Andy Zahn
@@ -81,9 +70,6 @@ Lifewire / Andy Zahn
 
  The Asus Zephyrus G14 is remarkably restrained as gaming products go, aside from the sci-fi keyboard font and a few conspicuous design elements. There’s no RGB or glowing red[LEDs](https://www.lifewire.com/what-does-led-stand-for-4153820) , though if you opt for the more expensive model the rear of the screen features a programmable LED dot display. It’s thin and light and incredibly portable given the power packed inside. Its 14-inch size is an excellent middle ground between portability and ease of use.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/TuyIrZyRQl2CL5ySEh17guSvz5Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Zephyrus-G14-Laptop-2-e8dfe2e6de5f44fb86856d5041a60446.jpg)
 
  Lifewire / Andy Zahn
@@ -100,23 +86,21 @@ Lifewire / Andy Zahn
 
  It’s worth noting that the G14 lacks a built-in webcam, which may be a dealbreaker for some who need to use Zoom or streaming services like Twitch. However, there are advantages to this exclusion in terms of privacy. A lack of a webcam negates the security risk inherent in such devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Numerous and necessary updates**
 
  Starting up the Zephyrus G14, I was greeted by the typical Windows 10 installation process which was as streamlined and straightforward as usual. I took extra time to fine-tune my privacy settings here, as Windows tends to be pretty invasive in terms of privacy by default. Next, it was necessary to run a number of updates to get everything running at 100%. Every component from the keyboard to the screen to the operating system needed an update, and this process took some time.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/_q5z_l0zInSUuvdsUZnfaTAoqkA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Zephyrus-G14-Laptop-4-c8d1000bd3c94f3498535b61063eb40c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Display: Fast and vibrant**
 
  With the Zephyrus G14, you have the option of either a 1080p 120-hertz display or a 4K 60-hertz display. I tested the 1080p model, and it’s definitely the one I would recommend for most people. The 4K version will technically be superior for color accuracy and resolution, but on a 14-inch display 1080p looks crisp and clear, and I found that this panel renders colors with remarkable accuracy and clarity. It looks great, and the 120-hertz refresh rate is awesome. It’s primarily useful for games, but even if you’re browsing the web or editing photos, it has a noticeable positive impact on the experience of using the laptop.
@@ -124,8 +108,12 @@ Lifewire / Andy Zahn
  It’s not the brightest display I’ve ever used, but it’s good enough to use in difficult outdoor conditions and has excellent viewing angles. The finish of the display is more matte than gloss, which helps minimize reflections. My only gripe would be the somewhat chunky bezels. I can’t help but wish that the 16:9 display was another inch taller to give more room for productivity. However, 16:9 is ideal for games and movies, so I don’t mind too much.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Buckets of power**
 
  It’s hard to believe that such a thin laptop is capable of hiding a Nvidia RTX 2060 Max-Q graphics card paired with 16GB of RAM and an AMD Ryzen 9 4900HS processor. This thing is a little monster with both serious graphics and processing horsepower and lightning-fast response times thanks to its 1TB M.2 NVMe PCIe solid state drive. It boots up in seconds and is remarkably fast at any given task.
@@ -133,6 +121,13 @@ Lifewire / Andy Zahn
  In my GFXBench tests it was able to achieve a 120fps average framerate in the Aztec Ruins DirectX 12 High Tier 1440p test. This performance was reflected in the variety of demanding video games I played on the Zephyrus G14.[World of Tanks](https://www.lifewire.com/world-of-tanks-812290) and Dota 2 were easily able to deliver well over 120fps at max settings, as was Star Wars: Squadrons. Doom: Eternal also ran smoothly at ultra-nightmare graphics settings. This is a laptop capable of handling pretty much anything you can throw at it.
 
 ![Asus Zephyrus G14](https://www.lifewire.com/thmb/szuTe29U4JfgzZfQV8XZ2pZ60nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Asus-Zephyrus-G14-Laptop-7-9b5bffe7a0484c9b938043315427258a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -150,9 +145,6 @@ Lifewire / Andy Zahn
 
  Built-in speakers rarely stand out for their stellar performance, but those in the Zephyrus G14 surprised me with their high-quality output. My go-to audio track for testing speakers is 2Cellos Thunderstruck, and the G14 did a remarkable job of reproducing accurate highs and mids with this track. Bass performance was merely OK - acceptable, but not particularly great. Overall, whether playing games, watching movies, or listening to music, the G14 is quite capable of standing on its own without extra speakers or headphones. Part of this audio excellence is thanks to the integration of[Dolby Atmos technology](https://www.lifewire.com/dolby-atmos-cinema-to-home-theater-1847278) , which also benefits audio performance when listening through connected devices in addition to the built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: Fast and reliable**
 
  The Zephyrus G14 features[Wi-Fi 6](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) technology capable of keeping up with even the fastest Wi-Fi network. I never experienced issues with connectivity or network speed while using it, and[Bluetooth 5.0](https://www.lifewire.com/bluetooth-5-4160255) support is a welcome feature.
@@ -161,23 +153,38 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery: Surprisingly long-lasting**
 
  Surprisingly for such a powerful laptop, the G14 is power efficient in addition to being powerful. Asus advertises up to 10.7 hours of battery life on a single charge, and this claim seems reasonably accurate so long as you aren’t doing any power-intensive tasks like gaming. With moderate usage, the G14 got me through a day of work without recharging. It also supports USB Type-C charging, which means it can be charged from a compatible USB battery bank, and conversely, the G14 can be used to quickly charge cell phones or other compatible devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## **Software: Useful bloatware**
 
  The Zephyrus G14 runs[Windows 10](https://www.lifewire.com/windows-10-2626217) , and though it packs in a few pieces of Asus software, they aren’t overly intrusive and annoying. Asus Armoury Crate has a physical button dedicated to it on the keyboard and is actually quite useful with its monitoring and fine-tuning capabilities, and My Asus offers helpful troubleshooting and maintenance features. AMD Radeon Settings Lite was a little redundant, but also potentially useful. Dolby Access also comes preinstalled and provides various options for audio customization. In the end, while this included software might technically be bloatware, it's useful and inoffensive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Good value**
 
  Given its performance and portability, the Zephyrus G14 delivers remarkable value despite a somewhat premium $1500 price tag. That’s certainly a lot of money, but not so much for a gaming laptop with so few significant compromises. At this price point, you’d be hard-pressed to find a better bargain.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Asus Zephyrus G14 vs. Razer Blade 15**
 
@@ -211,8 +218,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +225,24 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-battle-of-bros-hero5-black-and-virb-ultra-face-off/"><u>[Updated] In 2024, Battle of Bros Hero5 Black & VIRB Ultra Face Off</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimizing-your-mac-for-big-sur-release-for-2024/"><u>[Updated] Optimizing Your Mac for Big Sur Release for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quick-windows-data-evaluation-guide/"><u>[Updated] Quick Windows Data Evaluation Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instasnap-upload-essentials/"><u>2024 Approved InstaSnap Upload Essentials</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-cream-of-the-crop-roku-bargains-on-prime-day-extravaganza/"><u>Hunt for the Cream of the Crop Roku Bargains on Prime Day Extravaganza</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immerse-yourself-with-the-lg-c9-65-inch-oled-masterpiece-an-in-depth-guide-to-its-breathtaking-display-and-advanced-technology-for-tv-connoisseurs/"><u>Immerse Yourself with the LG C9 65-Inch OLED Masterpiece: An In-Depth Guide to Its Breathtaking Display and Advanced Technology for TV Connoisseurs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-rating-of-the-sumind-bt70b-fm-transmitter/"><u>In-Depth Analysis and Rating of the Sumind BT70B FM Transmitter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-corsair-one-pro-the-ultimate-gamers-workstation/"><u>In-Depth Analysis of Corsair ONE PRO: The Ultimate Gamer's Workstation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-gaomon-pd1560-digital-drawing-pad-for-artists-and-designers/"><u>In-Depth Analysis of the Gaomon PD1560 Digital Drawing Pad for Artists and Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x1-nano-assessment-the-ultimate-compact-workhorse/"><u>In-Depth Lenovo ThinkPad X1 Nano Assessment - The Ultimate Compact Workhorse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-ring-video-doorbell-pro-assessment-intelligently-advanced-features-explored/"><u>In-Depth Ring Video Doorbell Pro Assessment: Intelligently Advanced Features Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-star-wars-squadrons-game-analysis-engrossing-galactic-battles-await/"><u>In-Depth Star Wars Squadrons Game Analysis - Engrossing Galactic Battles Await!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-conversion-guide-upgrading-your-dvd-collection-to-premium-mkv-quality/"><u>Seamless Conversion Guide: Upgrading Your DVD Collection to Premium MKV Quality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-mobile-mobas-for-android-gamers/"><u>Top 10 Mobile MOBAs for Android Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-if-vac-isnt-verifying-your-online-gaming-session/"><u>Troubleshooting Tips If VAC Isn't Verifying Your Online Gaming Session</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-your-budget-is-better-spent-elsewhere-not-on-hdr/"><u>Why Your Budget Is Better Spent Elsewhere, Not on HDR</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G24 | Dr.fone</u></a></li>
+</ul></div>
 

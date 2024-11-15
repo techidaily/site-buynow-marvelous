@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-11-02T17:57:13.464Z
-updated: 2024-11-04T19:46:10.774Z
+date: 2024-11-10T01:13:22.057Z
+updated: 2024-11-15T08:59:22.351Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -39,16 +39,16 @@ Lifewire / Andy Zahn
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -82,13 +82,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -105,11 +98,25 @@ Lifewire / Andy Zahn
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
 
@@ -118,6 +125,19 @@ Lifewire / Andy Zahn
  The electronic viewfinder (EVF) is bright and clear with 2,360,000 dots. It’s not the best EVF we’ve ever used as it seems slightly small and cramped, but it gets the job done. A sensor automatically detects when you put your eye up to it (a function that can be adjusted in the settings), which means you don’t have to hunt for a button to switch the EVF on.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Autofocus: Blazing fast**
 
@@ -142,13 +162,6 @@ Lifewire / Andy Zahn
  RAW files are rich and detailed, and[JPEG images](https://www.lifewire.com/jpeg-myths-and-facts-1701548) are well-rendered, though JPEG images do show the compression artifacts typical of point-and-shoot cameras. The built-in flash raises and lowers manually and is functional if unexceptional.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Modes: Plenty to choose from (and only some are useful)**
 
@@ -188,18 +201,18 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -216,13 +229,6 @@ Lifewire / Andy Zahn
  **A tremendously fun camera that is exceedingly well-rounded if a bit pricey.**
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -264,16 +270,24 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-full-review-of-the-latest-powerdirector-app-24/"><u>[New] 2024 Approved Full Review of the Latest PowerDirector App - '24</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-balancing-speed-and-quality-choosing-between-lower-and-higher-fps/"><u>[Updated] 2024 Approved Balancing Speed & Quality Choosing Between Lower and Higher FPS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-your-video-posts-with-properly-uploaded-srt-files/"><u>[Updated] In 2024, Elevating Your Video Posts with Properly Uploaded SRT Files</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-the-kindle-oasis-2019-experience-book-like-ease-and-pleasure/"><u>A Comprehensive Review of the Kindle Oasis (2019): Experience Book-Like Ease & Pleasure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fashionable-functionality-or-just-a-flashy-facade-evaluating-the-amazfit-gts-hybrid-watch-review/"><u>Fashionable Functionality or Just a Flashy Facade? Evaluating the Amazfit GTS Hybrid Watch Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-innovation-for-simplifying-hr-workflows/"><u>GPT Innovation for Simplifying HR Workflows</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-why-xbox-one-x-reigns-supreme-among-modern-consoles/"><u>In-Depth Analysis: Why Xbox One X Reigns Supreme Among Modern Consoles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-extra-large-desktop-mats-for-enhanced-comfort/"><u>Leading Extra-Large Desktop Mats for Enhanced Comfort</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/professional-photography-essentials-discover-the-leading-tripods-on-the-market-2023-edition/"><u>Professional Photography Essentials: Discover the Leading Tripods on the Market - 2023 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-tiktoks-potential-changing-your-profile-number/"><u>Unlocking TikTok's Potential Changing Your Profile Number</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-windows-10-picture-and-media-importer/"><u>[New] The Ultimate Guide to Windows 10 Picture & Media Importer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insightful-viewership-data-for-your-insta-pics/"><u>[Updated] 2024 Approved Insightful Viewership Data for Your Insta Pics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-ultimate-fb-media-downloader-optimized-for-firefox-use/"><u>[Updated] 2024 Approved Ultimate FB Media Downloader Optimized for Firefox Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-consoles-for-gamers-find-your-perfect-match/"><u>2024'S Elite Consoles for Gamers: Find Your Perfect Match</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-motorola-edgeplus-a-bargain-compromise-on-luxury-standards/"><u>Analyzing the Motorola Edge+: A Bargain Compromise on Luxury Standards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audio-anatomy-dissecting-airpods-pro-and-galaxy-buds-pro/"><u>Audio Anatomy: Dissecting AirPods Pro & Galaxy Buds Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-google-pixel-7a-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Google Pixel 7a? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blade-blh4100-120-s-rc-helicopter-review-ready-to-fly-outdoors/"><u>Blade BLH4100 120 S RC Helicopter Review: Ready To Fly Outdoors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bose-quietcontrol-30-review-amazing-but-flawed/"><u>Bose Quietcontrol 30 Review: Amazing But Flawed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bouncie-autotracker-overview-a-straightforward-and-economical-car-location-solution/"><u>Bouncie AutoTracker Overview: A Straightforward and Economical Car Location Solution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/capturing-clarity-iphone-low-light-techniques-for-2024/"><u>Capturing Clarity IPhone Low Light Techniques for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-between-classics-an-in-depth-review-of-the-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>Choosing Between Classics: An In-Depth Review of the Nintendo Switch Lite vs Nintendo Switch OLED</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/clearsound-pro-ear-defenders-analysis/"><u>ClearSound Pro Ear Defenders Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nubia-z50-ultra-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nubia Z50 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-gamescript-replacements-for-fbx-files/"><u>In 2024, Leading Gamescript Replacements for FBX Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlocking-creative-potential-integrating-custom-graphic-elements-into-your-story/"><u>In 2024, Unlocking Creative Potential Integrating Custom Graphic Elements Into Your Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-top-led-strips/"><u>Unveiling the Top LED Strips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-google-pixel-4a-stands-out-a-review-for-casual-users/"><u>Why the Google Pixel 4a Stands Out: A Review for Casual Users</u></a></li>
 </ul></div>
 

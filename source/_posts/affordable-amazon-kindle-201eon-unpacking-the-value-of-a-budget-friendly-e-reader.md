@@ -1,7 +1,7 @@
 ---
 title: "Affordable Amazon Kindle (201Eon): Unpacking the Value of a Budget-Friendly E-Reader"
-date: 2024-08-22T17:39:32.745Z
-updated: 2024-08-23T17:39:32.745Z
+date: 2024-11-09T01:55:49.863Z
+updated: 2024-11-15T08:19:25.569Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Amazon Kindle (201Eon): Unpacking the Value of a Budget-Friendly E-Reader"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgH6j34_PXXE9fO2vS4Nr4d3pSM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
@@ -39,9 +36,6 @@ Lifewire / James Huenink
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
@@ -68,6 +62,13 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/86PZ5XCiq91ihr7-8UNmM5io9pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_4_Final_Horiz-bad356a5002b4156859dca672e8a8eb4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 ## **Design:** **Flexible, foldable design**
@@ -80,9 +81,6 @@ Lifewire / James Huenink
 
  The camera section is made of black plastic with a cropped silver plastic circle around the lens. To the left of the lens there’s an indicator light to show when the camera is on, and the microphone sits to the right of the lens. The 360 swivel not only makes the Logitech C615 easy to position, it also makes it possible to fold the camera lens in on itself to protect it on the go.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgQ_lVlvzgmXFPpBg5nEd6pgV_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_12_Final_Horiz-e97c48d3af6842eb88775a9d703ce2b6.jpg)
 
  Lifewire / James Huenink
@@ -97,26 +95,24 @@ Lifewire / James Huenink
 
  The video is 1080p, and looks it. Recorded video was detailed and the focus was sharp as long as the webcam only had one subject to follow, though it does suffer from some minor depth of field issues when multiple people are in frame.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
 
  When we used Skype to make calls everything worked great. The HD camera made the video look great, and video and sound were in sync. Close up, the sound was clear but with a thin, distorted tone. From 10 feet away, we heard only a small amount of echo in the call. We also tried using the camera mic with video game noise in the background. The camera clearly caught our voices and downplayed the background noise, helping us focus on what we wanted to hear.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/C2UBXNFmxG8nA0udy1IprMH4LBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_9_Final_Horiz-1af52951f8704af9b76d7dd1ec9744a9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
@@ -125,8 +121,18 @@ Lifewire / James Huenink
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Acquits itself well against the competition**
 
 **_Docooler USB 2.0 12 Megapixel_ :** The Docooler USB 2.0 12 Megapixel is one of the cheapest cameras on the market, going for between $8 and $15\. But there's a reason it retails so cheaply; it's a nightmare to use, the audio quality is torturous, and the camera doesn't approach the advertised 12 MP. Despite being nearly $60 more expensive, the C615 is the obvious winner here.
@@ -142,6 +148,13 @@ Lifewire / James Huenink
  **Strikes a balance between affordability and performance.**
 
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -166,8 +179,6 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +186,26 @@ Lifewire / James Huenink
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-5-chrome-plug-ins-for-snatching-fb-videos/"><u>[Updated] 2024 Approved Top 5 Chrome Plug-Ins for Snatching FB Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>[Updated] Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-success-top-six-tactics-for-the-automation-era-jobscape/"><u>Adapting to Success: Top Six Tactics for the Automation Era Jobscape</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ankers-affordable-sound-core-life-q30-a-detailed-anc-headphone-review/"><u>Anker's Affordable Sound Core Life Q30 - A Detailed ANC Headphone Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts-for-2024/"><u>Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-ideas-to-slide-decks-creating-stellar-presentations-with-chatgpt/"><u>From Ideas to Slide Decks: Creating Stellar Presentations with ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-ipad-proves-superior-to-ipad-air-exploring-the-disparities/"><u>How iPad Proves Superior to iPad Air - Exploring the Disparities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-gaming-fluidity-top-6-fixes-for-eliminating-stutters-and-drops-in-elden-ring/"><u>Improve Gaming Fluidity: Top 6 Fixes for Eliminating Stutters and Drops in Elden Ring</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-jabra-talk-45s-precision-audio-plus-resilient-power-cell/"><u>In-Depth Analysis: Jabra Talk 45'S Precision Audio + Resilient Power Cell</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipod-touch-7th-edition-review-mobile-tech-transitionary/"><u>IPod Touch 7Th Edition Review: Mobile Tech Transitionary</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-gaming-unleashed-on-linux-systems/"><u>Mobile Gaming Unleashed on Linux Systems</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mobile-friendly-video-posts-on-twitter-excluding-retweets-for-2024/"><u>Mobile-Friendly Video Posts on Twitter Excluding Retweets for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oneplus-9-analysis-why-the-calculations-dont-add-up/"><u>OnePlus 9 Analysis: Why the Calculations Don't Add Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalizing-fitness-leveraging-chatgpt-technology-for-tailored-training-programs/"><u>Personalizing Fitness: Leveraging ChatGPT Technology for Tailored Training Programs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pure-sound-with-no-cables-audio-technica-lp60xbt/"><u>Pure Sound with No Cables: Audio-Technica LP60XBT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-s21-unveiled-smart-simplicity-in-every-detail/"><u>The Samsung Galaxy S21 Unveiled: Smart Simplicity in Every Detail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-wireless-gaming-headset-razer-portal-insights/"><u>The Ultimate Guide to Choosing a Wireless Gaming Headset: Razer Portal Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-protective-case-for-macbook-unveiling-its-smart-features/"><u>Ultimate Review of Twelve South's BookBook V2 Protective Case for MacBook: Unveiling Its Smart Features</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>Updated In 2024, The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Samsung UN65NU8000FXZA: An Expensive Entry in the Smart TV Market That Falls Short"
-date: 2024-08-22T17:40:42.442Z
-updated: 2024-08-23T17:40:42.442Z
+date: 2024-11-10T21:45:42.764Z
+updated: 2024-11-15T01:34:41.108Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung UN65NU8000FXZA: An Expensive Entry in the Smart TV Market That Falls Short"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 
 ## Samsung UN65NU8000FXZA
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Samsung UN65NU8000FXZA](https://www.lifewire.com/thmb/p_vV8LWwbJ2oMuL1UYGHR2p4huI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Samsung-NU8000FXZA-65-Inch-4K-Smart-LED-TV-1-97ff5fdad950453785f7a3f5491bf8fd.jpg)
 
 Lifewire / Andy Zahn
@@ -42,9 +39,23 @@ Lifewire / Andy Zahn
 
 2.9
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung UN65NU8000FXZA
 
 ![Samsung UN65NU8000FXZA](https://www.lifewire.com/thmb/J81HLCswW9vG3SGkOY0nkv2_soM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Samsung-NU8000FXZA-65-Inch-4K-Smart-LED-TV-1-97ff5fdad950453785f7a3f5491bf8fd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -68,16 +79,10 @@ Lifewire / Andy Zahn
 
  On paper, the Samsung 65” NU8000FXZ might seem like a bargain. This[smart TV](https://www.lifewire.com/best-smart-tvs-4135681) shares most of its specifications with the newer RU8000, but can potentially be found at a discounted price due to its relative age. However, it turns out that apparent similarities are only skin deep, and the value of an older, less expensive display is called into question.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Samsung UN65NU8000FXZA](https://www.lifewire.com/thmb/_yzFIL-bClIpQ2-BreG8tli1L2g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-NU8000FXZA-65-Inch-4K-Smart-LED-TV-4-a802a799a7c34067905c9ff965feea8e.jpg)
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Big and tough**
 
  The Samsung NU8000 is an elegant television with an attractive rear exterior, thin profile, and discretely sized bezels. As a 65” display you can expect it to dominate all but the most cavernous living rooms, but thanks to that slim profile and its slender bezels it occupies the minimum amount of space possible for such a large screen.
@@ -95,8 +100,12 @@ Lifewire / Andy Zahn
  We did encounter one troublesome bug where the remote partially de-synced from the display so that only the power button functioned properly. This is obviously a known issue, as on-screen instructions immediately appeared to reset the remote and re-establish the connection, and we found these instructions repeated inside the battery compartment of the remote. We also missed having dedicated buttons for popular streaming services such as Netflix and Hulu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Some assembly required**
 
  The sturdiness of the NU8000’s stand comes at a small price in terms of ease of setup. The back panel of the pillar must be popped off to screw the stand together. The assembled base is then attached to the screen via a plate that slides into place and is then secured by more screws. The caveat is that unless you have a large table available for this process then it's very difficult and requires the cooperation of at least two other people. Once this is complete, insert the batteries into the remote, attach the power cord and any other wired connections, and you’re ready to go.
@@ -105,11 +114,15 @@ Lifewire / Andy Zahn
 
 ![Samsung UN65NU8000FXZA](https://www.lifewire.com/thmb/bOGvBL3-atPnw9kBu9ugoXGE9ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-NU8000FXZA-65-Inch-4K-Smart-LED-TV-3-44ef4614305946739623813ea1476c2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Image Quality: A real letdown**
 
  The good news is the NU8000 delivers great[4k](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) details; the bad news is that colors and contrast are flawed and muted. We immediately noticed the problems this TV has with rendering HDR content. Watching films and TV shows in movie mode provided the best experience, but trying to view nature shows, high-resolution photos, or other content where highly accurate colors and dynamic range are important demonstrated this screen’s faults.
@@ -126,10 +139,14 @@ Lifewire / Andy Zahn
 
  Overall we were disappointed by the quality of image of this TV, and that’s a big mark against a device whose primary purpose is to provide an excellent cinematic viewing experience. With a less expensive display, we would not be so bothered by such issues, but the $1,000 price tag warrants holding the NU8000 to a higher standard.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Samsung UN65NU8000FXZA](https://www.lifewire.com/thmb/0imcVI8dzYw11TAOKkt8EnXJE5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-NU8000FXZA-65-Inch-4K-Smart-LED-TV-2-0c325c2d3f1e448d9d0b10f24152a097.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -141,10 +158,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Software: A little slow**
 
  Samsung has built an excellent interface for its smart TVs, and the NU8000 is no exception. All your favorite apps are here, many of them pre-installed. Navigation is easy, and we had no trouble changing settings or finding our way around apps. Smart home, AI assistant, and voice integration capability allow you to configure it as a nerve center for your connected devices.
@@ -171,9 +184,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The Samsung UN65NU8000FXZ is capable, provides high resolution, and has excellent, flexible software with a good selection of apps. It's also exceptionally thin with a screen that's almost bezel-less, but unless the extremely sturdy stand is the most important feature to you, then RU8000 is just a better display at the exact same MSRP.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  UN65NU8000FXZA
@@ -193,8 +203,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +210,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>[New] 2024 Approved Masterclass in Digital Animation The Art of Creating GIFs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-preserving-the-past-a-comprehensible-process-of-photograph-digitization/"><u>[New] 2024 Approved Preserving the Past A Comprehensible Process of Photograph Digitization</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2023s-most-secure-authentication-devices-a-comprehensive-review/"><u>2023'S Most Secure Authentication Devices: A Comprehensive Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-your-fly-top-tips-for-choosing-drone-propellers/"><u>2024 Approved Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-selection-high-performance-sd-memory-cards-for-professional-camera-gear/"><u>2024'S Ultimate Selection: High-Performance SD Memory Cards for Professional Camera Gear</u></a></li>
+<li><a href="https://win-hot.techidaily.com/come-sincronizzare-automaticamente-il-tuo-disco-rigido-esterno-gratis-una-guida-dettagliata/"><u>Come Sincronizzare Automaticamente Il Tuo Disco Rigido Esterno Gratis: Una Guida Dettagliata</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-macbook-selection-for-2eplustplusrplusy-expert-reviews-and-rankings/"><u>Discover the Ultimate MacBook Selection for 2E+t+r+y - Expert Reviews & Rankings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/diving-deep-into-gopro-variants-comprehensive-guide-for-2024/"><u>Diving Deep Into Gopro Variants Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-f5-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco F5 Pro 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x5-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X5 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/studiofx-mega-bright-kit-sturdy-illumination/"><u>StudioFX Mega Bright Kit - Sturdy Illumination</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-hardware-showdown-discover-what-toms-experts-say/"><u>The Ultimate Hardware Showdown: Discover What Tom's Experts Say</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-network-attached-storage-nas-device-for-your-needs/"><u>Ultimate Guide to Choosing the Perfect Network Attached Storage (NAS) Device for Your Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-premier-linux-notebooks-of-2er-year-2023/"><u>Ultimate Guide to the Premier Linux Notebooks of 2Er Year 2023</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-nintendo-switch-upgrades-for-gamers/"><u>Ultimate Guide: Leading Nintendo Switch Upgrades for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-2024s-premium-microsd-memory-cards-expert-reviews-and-ratings/"><u>Ultimate Selection of 2024'S Premium MicroSD Memory Cards - Expert Reviews and Ratings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-the-leading-smart-glasses-innovations-unveiled/"><u>Ultimate Selection: The Leading Smart Glasses Innovations Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-elite-gamers-choice-premier-headsets-of-2024/"><u>Unveiling the Elite Gamers' Choice: Premier Headsets of 2024</u></a></li>
+</ul></div>
 

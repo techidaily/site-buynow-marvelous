@@ -1,7 +1,7 @@
 ---
 title: "Review: Michael Kors' Access Gen Nv0718-08 Fashion and Utility in One"
-date: 2024-08-15T09:07:25.327Z
-updated: 2024-08-16T09:07:25.327Z
+date: 2024-11-09T16:54:29.374Z
+updated: 2024-11-14T16:37:25.170Z
 categories:
   - BestProducts
 description: "This Article Describes Review: Michael Kors' Access Gen Nv0718-08 Fashion and Utility in One"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/7e3fbcfe204dfbd52573599aedc96b853d77272f3
 
 ## Michael Kors Access Gen 5E MKGO
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/IH76ZF0jleVs-bjw9J2WoFen0eE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_HeroSquare-6cc84a98de3e43e1a252acfbcc81fbb3.jpg)
 
 Lifewire / Yoona Wagener
@@ -42,9 +39,6 @@ Lifewire / Yoona Wagener
 
 ## Michael Kors Access Gen 5E MKGO
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/4iXRVsuxT7GiqqU4k4vdl39TFNg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_HeroSquare-6cc84a98de3e43e1a252acfbcc81fbb3.jpg)
 
 Lifewire / Yoona Wagener
@@ -85,10 +79,14 @@ Lifewire / Yoona Wagener
 
  Though it’s a slight contrast to the high-end details of the face, the MKGO version of the Access Gen 5E comes with a comfortable and flexible Michael Kors branded rubber strap. This added touch offers practicality and comfort without taking away from the upscale design fit for fancier occasions, too.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/Al5yHGgflExrdPzuv1O8nFyRL0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_03-4a139c21df9b44ce8a0a5b5604859b26.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -113,18 +111,26 @@ Lifewire / Yoona Wagener
  Without onboard GPS, the only way to measure distance is to use a tethered GPS connection with a smartphone. Acquiring a signal was generally fast, but unfortunately, the watch’s summary was more than a little off. Compared with a Garmin, the Access Gen 5E overshot by 1 mile, and the pace registered at about 90 seconds faster. However, for walking workouts, step count differed only slightly compared with a Garmin smartwatch and the iOS Health app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Software: Friendliest to Android users
 
  As a[Wear OS](https://www.lifewire.com/best-tips-and-tricks-for-wear-os-4583030) device, it should be no surprise that the Access Gen 5E offers the most well-rounded experience to Android users. If that’s you, you’ll enjoy more seamless integration between your favorite[Google Play](https://www.lifewire.com/what-is-google-play-1616720) apps, whether for fitness or listening to music. And if you have more than one Wear OS device, you can pair both freely with the companion app. With an iPhone, I could pair only one device with the app, and Google Play connectivity was less than ideal.
 
  Several conveniences work well across operating systems. The Bluetooth phone call feature for accepting or rejecting calls applies to both Android and iOS phones. The Access Gen 5E also comes preinstalled with the Spotify app, which makes controlling playback easy. Sadly, since Wear OS doesn’t support Spotify music storage, Android and iPhone users are limited to music playback alone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/wOui4ekzG1ONLwrBgvw2GBdAZ3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_05-cb3f4f64742c45c19c0dd82970916f73.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -146,9 +152,6 @@ Lifewire / Yoona Wagener
 
  At about $250, the Access Gen 5E doesn’t require a premium buy-in like some of the latest, feature-loaded smartwatches from the Fossil and Michael Kors partnership. It’s also available from some retailers for less than $200, which adds even more value, given its solid smartwatch feature set.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/wVQl98NhNnzvvYRzkBP9Uzgvfw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_04-a6c2bd0b7bdd422d81b96dde2c213f72.jpg)
 
 Lifewire / Yoona Wagener
@@ -156,8 +159,12 @@ Lifewire / Yoona Wagener
  When comparing this device to other fashion smartwatches, it’s challenging to find a competitor outside of the Michael Kors/Fossil sphere that differs in any notable way. If you’re looking for something comparably priced with more of a fitness bent, the Samsung Galaxy Watch Active2 is worth a look.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Michael Kors Access Gen 5E vs. Samsung Galaxy Watch Active2
 
  While it’s less glamorous than the Samsung Galaxy Watch Active2 (which also retails for around $250), the Active2 still offers some style with various silicone band colors and a sleek aluminum case. The display lacks a pave design but has the benefit of a touch bezel and a narrower and slightly thinner build that weighs just 26 grams—that’s about twice as light as the Access Gen 5E.
@@ -174,14 +181,18 @@ Lifewire / Yoona Wagener
 
  The Michael Kors Access Gen 5E MKGO is an upscale smartwatch with luxury looks and a slightly sporty sensibility. Its Wear OS and Fossil Gen 5E foundation provide a solid foundation for everyday ease with features like Bluetooth calling, Google Assistant, and battery modes. And while it offers some fitness tracking, this wearable dazzles primarily as a lifestyle accessory.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 6](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Garmin Venu](https://www.lifewire.com/garmin-venu-review-4843916)
 * [Mobvoi TicWatch Pro 4G LTE](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -206,8 +217,6 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +224,19 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>[New] ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-driving-and-race-replicas/"><u>[New] Top 5 Driving & Race Replicas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-picks-of-external-ssds-for-xbox-gaming/"><u>[Updated] 2024 Approved Top Picks of External SSDs for Xbox Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-fast-and-cheap-the-most-affordable-in-car-car-chargers-reviewed-discover-the-best/"><u>Compact, Fast & Cheap: The Most Affordable In-Car Car Chargers Reviewed - Discover the Best</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/consistent-care-for-your-pets-using-the-petsafe-six-serving-dispenser/"><u>Consistent Care for Your Pets Using the PetSafe Six-Serving Dispenser</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/first-timers-review-kid-approved-waterproof-cameras/"><u>First Timer's Review: Kid-Approved Waterproof Cameras</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>In 2024, Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-why-the-samsung-galaxy-s20-fe-is-a-must-have-5g-device-in-todays-market/"><u>In-Depth Analysis: Why the Samsung Galaxy S20 FE Is a Must-Have 5G Device in Today's Market</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/melodic-moments-curating-the-best-10-sounds-for-podcasts-for-2024/"><u>Melodic Moments Curating the Best 10 Sounds for Podcasts for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-checklist-for-selecting-your-perfect-tablet-device/"><u>The Ultimate Checklist for Selecting Your Perfect Tablet Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-low-cost-photography-with-kodaks-fz53-review/"><u>Unlock Low-Cost Photography with Kodak's FZ53 Review</u></a></li>
+</ul></div>
 

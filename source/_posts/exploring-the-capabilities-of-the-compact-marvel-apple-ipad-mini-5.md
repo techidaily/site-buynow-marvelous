@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
-date: 2024-11-01T16:53:16.010Z
-updated: 2024-11-04T23:03:11.402Z
+date: 2024-11-09T19:34:45.560Z
+updated: 2024-11-15T08:56:39.978Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
@@ -75,13 +75,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -94,13 +87,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
@@ -110,6 +96,13 @@ Lifewire / Andy Zahn
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
 
@@ -157,6 +150,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -172,10 +172,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: Lots of options**
@@ -189,10 +189,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
@@ -200,13 +200,6 @@ Lifewire / Andy Zahn
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -223,6 +216,13 @@ Lifewire / Andy Zahn
  **A tremendously fun camera that is exceedingly well-rounded if a bit pricey.**
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -264,22 +264,18 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-premium-4k-displays-top-ten-elite-selections/"><u>[New] In 2024, Premium 4K Displays Top Ten Elite Selections</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-lunas-performance-breakdown-an-unanticipatedly-cohesive-streaming-platform-for-gamers/"><u>Amazon Luna's Performance Breakdown: An Unanticipatedly Cohesive Streaming Platform for Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparative-insights-how-fitbit-sense-leads-in-comprehensive-health-monitoring-over-apples-offering/"><u>Comparative Insights: How Fitbit Sense Leads in Comprehensive Health Monitoring Over Apple's Offering</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-wireless-tv-excellence-with-the-antop-at-127-antenna-review/"><u>Discover Wireless TV Excellence with the Antop AT-127 Antenna Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/early-birds-advantage-on-apple-vision-pro-begin-your-journey-with-testflight-a-step-by-step-tutorial/"><u>Early Bird's Advantage on Apple Vision Pro: Begin Your Journey with TestFlight - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/galaxys-most-entertaining-urban-project-mars-city-construction-sparks-cosmic-twisters/"><u>Galaxy's Most Entertaining Urban Project: Mars City Construction Sparks Cosmic Twisters!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-asus-laptops-broken-fn-keys/"><u>How to Restore Functionality of Your Asus Laptop's Broken Fn Keys</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-narrative-scripts-dialogue-excellence/"><u>In 2024, Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-gopro-4k-editing-basics/"><u>In 2024, Step-by-Step GoPro 4K Editing Basics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>In 2024, The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s17e-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S17e Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-clear-communication-via-skype-for-2024/"><u>Mastering Clear Communication via Skype for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/masterpiece-display-with-brookstones-frame/"><u>Masterpiece Display with Brookstone's Frame</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-mobile-spectrum-elite-list-of-signal-boosters-dominating-2024/"><u>Navigate the Mobile Spectrum: Elite List of Signal Boosters Dominating 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/optimizing-fb-techniques-for-shooting-and-posting-360-vids/"><u>Optimizing FB Techniques for Shooting & Posting 360 Vids</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/outstanding-and-budget-friendly-fossil-sports-watches-a-comprehensive-review/"><u>Outstanding & Budget-Friendly Fossil Sports Watches: A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-elite-selection-of-uninterruptible-power-supplies-for-optimal-reliability/"><u>The Elite Selection of Uninterruptible Power Supplies for Optimal Reliability</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-perfect-portraits-changing-picture-sizes-on-ios/"><u>[New] 2024 Approved Perfect Portraits Changing Picture Sizes on iOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-audio-to-text-the-5-most-acclaimed-zoom-transcribing-platforms-freepaid/"><u>[Updated] 2024 Approved From Audio to Text The 5 Most Acclaimed Zoom Transcribing Platforms (Free/Paid)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-polaroid-xs-100i-action-camera-review/"><u>2024 Approved Polaroid XS 100I Action Camera Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-why-av1-may-outshine-vp9-in-video-compression/"><u>2024 Approved Why AV1 May Outshine VP9 in Video Compression</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-you-need-to-know-about-downloading-wm6-for-2024/"><u>All You Need to Know About Downloading WM6 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/configuring-windows-11-for-automatic-hdr-mode/"><u>Configuring Windows 11 for Automatic HDR Mode</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-high-definition-hub-alert-relax/"><u>Fixed High-Definition Hub Alert, Relax</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-skyrocketing-popularity-youtube-visibility-techniques/"><u>In 2024, Skyrocketing Popularity YouTube Visibility Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-permission-manager-with-revouninstaller/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Permission Manager with RevoUninstaller</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-m-mooc-1000a-portable-car-jump-starter-with-18000-mah-battery-comprehensive-review/"><u>Top-Rated M MOOC 1000A Portable Car Jump Starter with 18,000 mAh Battery - Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-power-inverter-models-in-2n4-a-comprehensive-guide/"><u>Top-Rated Power Inverter Models in 2N4: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-deco-p9-review-mesh-wi-fi-made-easy/"><u>TP-Link Deco P9 Review: Mesh Wi-Fi Made Easy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-your-perfect-usb-drive/"><u>Ultimate Guide to Choosing Your Perfect USB Drive</u></a></li>
 </ul></div>
 

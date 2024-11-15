@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2024-11-01T23:40:33.095Z
-updated: 2024-11-04T21:18:03.267Z
+date: 2024-11-12T19:40:28.432Z
+updated: 2024-11-14T21:58:20.104Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -64,13 +64,6 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/_0yEidfS3S4dy57s584t378TZYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-5-4ec68914607c4b56acff25a78887af7f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Setup Process: Straight into the action**
@@ -80,13 +73,6 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -101,20 +87,13 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Gameplay: Parkour and zombies galore**
 
@@ -130,13 +109,26 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Graphics: Attention to detail**
@@ -146,6 +138,13 @@ Harran is a whole different city at night.
  Character animation is also excellent, and the buildings and other objects within the world offer a variety of ways to jump, climb, and crawl. The open urban landscape of Harran allows players to decide how they want to explore, acquire materials, and fight. You’ll be able to come at certain locations from a variety of angles,and it's this sense of freedom and attention to the environments that brings Dying Light together.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -164,6 +163,13 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -186,20 +192,19 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elevate-your-productions-with-key-obs-studio-tips/"><u>[New] Elevate Your Productions with Key OBS Studio Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-first-steps-in-ps-essential-editing-techniques-unlocked/"><u>[Updated] First Steps in PS Essential Editing Techniques Unlocked</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/are-you-overdue-for-a-new-ipad/"><u>Are You Overdue For a New iPad?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-and-training-custom-chat-gpt-versions-on-individual-user-data/"><u>Building and Training Custom Chat GPT Versions on Individual User Data</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/buying-secondhand-ipads-wisely-these-5-tips-will-guide-your-decision/"><u>Buying Secondhand iPads Wisely? These 5 Tips Will Guide Your Decision</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevate-your-setup-with-these-top-8-5k-models-for-2024/"><u>Elevate Your Setup with These Top 8 5K Models for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-elgoog-the-definitive-guide-to-understanding-the-funniest-search-engine/"><u>Exploring elgooG: The Definitive Guide to Understanding the Funniest Search Engine</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-edit-mp4-video-in-macwindows-windows-8-included-for-2024/"><u>How to Edit MP4 Video in Mac/Windows (Windows 8 Included) for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/infiltration-mastery-at-its-peak-insights-on-hitman-trilogys-finale/"><u>Infiltration Mastery at Its Peak – Insights on Hitman Trilogy's Finale</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/is-the-smoothing-effect-in-photoshop-a-game-changer-or-not/"><u>Is the Smoothing Effect in Photoshop a Game Changer or Not?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimal-locations-finding-your-ideal-spot-for-a-ps4-webcam/"><u>Optimal Locations: Finding Your Ideal Spot for a PS4 Webcam</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamless-system-sharing-quick-and-effective-techniques-for-transferring-files-for-2024/"><u>Seamless System Sharing Quick and Effective Techniques for Transferring Files for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleash-your-reading-potential-with-kindle-unlimited-the-top-4-advantages-you-need-to-know/"><u>Unleash Your Reading Potential with Kindle Unlimited – The Top 4 Advantages You Need to Know</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-true-potential-of-android-in-depth-google-pixel-3-analysis/"><u>Unveiling the True Potential of Android: In-Depth Google Pixel 3 Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-chaptered-cinema-on-vimeo-cutting-techniques-explained-for-2024/"><u>[New] Chaptered Cinema on Vimeo Cutting Techniques Explained for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>[Updated] In 2024, Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-infinite-views-looping-videos-on-your-iphone/"><u>[Updated] Infinite Views Looping Videos on Your iPhone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723034124714-exciting-fortnite-chapter-return-an-engaging-review-of-the-fresh-seasons-thrills/"><u>Exciting Fortnite Chapter Return: An Engaging Review of the Fresh Season's Thrills!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-g310-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia G310 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-unearth-your-secret-snapshots/"><u>How to Unearth Your Secret Snapshots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfect-order-for-enjoying-every-x-men-movie-a-step-by-step-plan/"><u>Perfect Order for Enjoying Every X-Men Movie – A Step-by-Step Plan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-how-to-simulate-a-different-gps-position-on-smartphones/"><u>Step-by-Step Tutorial: How to Simulate a Different GPS Position on Smartphones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-the-garmin-gpsmap-n-series-for-enthusiastic-explorers/"><u>Unveiling the Capabilities of the Garmin GPSMAP N Series for Enthusiastic Explorers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-elegance-of-taotronics-a-comprehensive-review-of-the-tt-dl1nngled-in-style/"><u>Unveiling the Elegance of TaoTronics: A Comprehensive Review of the TT-DL1nngled in Style</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/voice-and-silence-integrated-the-future-in-b550-xt/"><u>Voice & Silence Integrated: The Future in B550-XT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/which-smartphone-wins-comparing-iphones-and-androids-for-ideal-user-satisfaction/"><u>Which Smartphone Wins?: Comparing iPhones and Androids for Ideal User Satisfaction</u></a></li>
 </ul></div>
 

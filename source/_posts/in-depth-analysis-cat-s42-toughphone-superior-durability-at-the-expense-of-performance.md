@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: CAT S42 Toughphone - Superior Durability at the Expense of Performance"
-date: 2024-08-22T17:44:35.076Z
-updated: 2024-08-23T17:44:35.076Z
+date: 2024-11-12T16:04:33.622Z
+updated: 2024-11-14T17:40:39.884Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis: CAT S42 Toughphone - Superior Durability at the Expense of Performance"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ## Logitech C615 HD Laptop Webcam
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgH6j34_PXXE9fO2vS4Nr4d3pSM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
 Lifewire / James Huenink
@@ -39,14 +36,8 @@ Lifewire / James Huenink
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Logitech C615 HD Laptop Webcam
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
 Lifewire / James Huenink
@@ -69,16 +60,17 @@ Lifewire / James Huenink
 
  The inexpensive webcam makes it possible for just about anyone to make a[video call,](https://www.lifewire.com/apps-for-free-video-chat-3426695) stream games on Twitch, or to record a quick video for YouTube. A good webcam has HD resolution, quality sound, and is easy to use. We tested the Logitech C615 Webcam to see whether it can deliver what you need to start recording your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/86PZ5XCiq91ihr7-8UNmM5io9pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_4_Final_Horiz-bad356a5002b4156859dca672e8a8eb4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -91,11 +83,15 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgQ_lVlvzgmXFPpBg5nEd6pgV_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_12_Final_Horiz-e97c48d3af6842eb88775a9d703ce2b6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -106,9 +102,6 @@ Lifewire / James Huenink
 
  The video is 1080p, and looks it. Recorded video was detailed and the focus was sharp as long as the webcam only had one subject to follow, though it does suffer from some minor depth of field issues when multiple people are in frame.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
  Lifewire / James Huenink
@@ -127,6 +120,13 @@ Lifewire / James Huenink
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Competition: Acquits itself well against the competition**
 
 **_Docooler USB 2.0 12 Megapixel_ :** The Docooler USB 2.0 12 Megapixel is one of the cheapest cameras on the market, going for between $8 and $15\. But there's a reason it retails so cheaply; it's a nightmare to use, the audio quality is torturous, and the camera doesn't approach the advertised 12 MP. Despite being nearly $60 more expensive, the C615 is the obvious winner here.
@@ -142,6 +142,19 @@ Lifewire / James Huenink
  **Strikes a balance between affordability and performance.**
 
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -166,8 +179,6 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +186,21 @@ Lifewire / James Huenink
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>[New] Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-enhance-your-edm-skills-with-free-online-beat-analysis-software/"><u>[New] In 2024, Enhance Your EDM Skills with Free Online Beat Analysis Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eamlessly-retrieve-tags-list-of-7-premium-free-youtube-extractors/"><u>[New] Seamlessly Retrieve Tags List of 7 Premium Free YouTube Extractors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[New] Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-scooping-tech-step-by-step-guide-to-screen-recording/"><u>[Updated] Scooping Tech Step-by-Step Guide to Screen Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-obs-skype-screen-recording/"><u>[Updated] Step-by-Step OBS Skype Screen Recording</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-linksys-wrt1900ac-r7200-eaebody-multi-device-data-steering-and-performance-insights-an-in-depth-review/"><u>Analyzing the Linksys WRT1900AC R7200 (EAebody): Multi-Device Data Steering & Performance Insights - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-pet-nutrition-solution-six-meal-dispensing-by-petsafe/"><u>The Ultimate Pet Nutrition Solution: Six-Meal Dispensing by PetSafe</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-budget-friendly-video-doorbells-(50-exploring-the-iseebell-model/"><u>Top Rated Budget-Friendly Video Doorbells <$50 - Exploring the ISeeBell Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-no-cost-cross-platform-graphics-editor-gimp-feature-breakdown/"><u>Top Rated No-Cost Cross-Platform Graphics Editor - GIMP Feature Breakdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-samsung-electronics-offers-for-prime-day-exclusive-discounts-not-to-miss/"><u>Top Samsung Electronics Offers for Prime Day: Exclusive Discounts Not to Miss</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/topmate-c302-the-ultimate-guide-on-cheap-powerful-laptop-cooling-systems/"><u>TopMate C302 - The Ultimate Guide on Cheap, Powerful Laptop Cooling Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-the-yahoo-mail-failure-to-receive-new-messages-problem/"><u>Understanding and Fixing the Yahoo Mail Failure to Receive New Messages Problem</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-achieving-balanced-video-audios-four-essential-techniques/"><u>Updated Achieving Balanced Video Audios Four Essential Techniques</u></a></li>
+</ul></div>
 

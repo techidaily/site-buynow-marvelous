@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the OnePlus 8T: Impressive Velocity Marred by Mediocre Camera System"
-date: 2024-08-22T17:39:08.064Z
-updated: 2024-08-23T17:39:08.064Z
+date: 2024-11-14T03:36:06.391Z
+updated: 2024-11-15T00:18:27.756Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking the OnePlus 8T: Impressive Velocity Marred by Mediocre Camera System"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/WFGRUAsDxA0krS7sPX6WGqtdVbQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
@@ -39,6 +36,13 @@ Apple
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/nPYphnTjSnL2fpeSHarRr-eDzuw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
@@ -61,10 +65,14 @@ Apple
 
  It's nice to have my own. With an excellent battery, cool features, and a comfortable fit, the Apple Watch Series 9 is a great buy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple Watch Series 9 on a wrist.](https://www.lifewire.com/thmb/-MmQLsH_4EYd8KhLmLkRZehkEQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_wrist-69497d2de4864606b425effeba1dca5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire/Molly McLaughlin
 
@@ -80,10 +88,14 @@ Lifewire/Molly McLaughlin
 
  The last few models have had the same processor, but the Series 9 gets the S9 chip, which promises 30 percent more speed and all-day battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Apple Watch Series 9 on a desk next to its charger.](https://www.lifewire.com/thmb/fnvFdlUB4ml_QaA-kIP14u1pQsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_withcharger-11e49fb444df404b834b2127b3ebcab0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire/Molly McLaughlin
 
@@ -99,6 +111,13 @@ Lifewire/Molly McLaughlin
 
 [How to Ping Your iPhone From Your Apple Watch](https://www.lifewire.com/ping-iphone-from-apple-watch-7570320)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Theater Mode
 
  One of my favorite features is Theater Mode, which prevents the screen from lighting up when you glance at it or receive a notification. It's perfect for the movies and theater, of course, but it also came in handy when I was recently on jury duty during the trial and needed to keep distractions to a minimum.
@@ -109,18 +128,12 @@ Lifewire/Molly McLaughlin
 
 [Smart Watches & Wearables](https://www.lifewire.com/theater-mode-on-apple-watch-5115897)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Fitness Tracking
 
  I use the watch for fitness tracking and try to "close my rings" daily. After a few bike rides where my average speed was skewed because I forgot to pause or unpause the workout during or after a break, I was pleased to find that you can enable automatic pausing (auto-pause) for biking and running.
 
  In my experience, the watch was quick to pause when I stopped at traffic lights and resume once I started moving again. (This is also helpful if you forget to end a workout.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Who Should Buy It?
 
  If you have a Series 6 or older, it's worth moving up to the Series 9 as you're likely dealing with declining performance and a more easily depleted battery. The Series 9 costs the same as the Series 7 and 8, so there's little reason to purchase last year's model.
@@ -135,9 +148,6 @@ Lifewire/Molly McLaughlin
 
 [Smart Watches & Wearables](https://www.lifewire.com/how-to-use-apple-watch-4584460)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Watch Series 9 GPS + Cellular 45mm
@@ -152,8 +162,6 @@ Lifewire/Molly McLaughlin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +169,19 @@ Lifewire/Molly McLaughlin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-your-gameplay-learn-to-use-kinemaster-effectively-then-compare-top-platforms/"><u>[Updated] 2024 Approved Elevate Your Gameplay Learn to Use KineMaster Effectively, Then Compare Top Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5yq55p6c55qe44gq5yuv55s757eo6zug44go5asj5oplusb44gu5oml6acg/"><u>効果的な動画編集と変換の手順</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-8-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 8 When You Forget the Passcode?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-mystery-of-slug-line-formats/"><u>In 2024, Unveiling the Mystery of Slug Line Formats</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-motorola-mg7nreview-consistent-velocity/"><u>In-Depth Analysis of the Motorola MG7nReview - Consistent Velocity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/innovative-strategies-for-vimeo-video-recording/"><u>Innovative Strategies for Vimeo Video Recording</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-world-of-pay-to-talk-a-detailed-analysis-of-viber-out-services/"><u>Inside the World of 'Pay to Talk': A Detailed Analysis of Viber Out Services</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/schritt-fur-schritt-guide-finden-sie-ihre-verschobenen-dateien-unter-windows-11-muhelos-zuruck/"><u>Schritt-Für-Schritt-Guide: Finden Sie Ihre Verschobenen Dateien Unter Windows 11 Mühelos Zurück</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-asus-rog-gt-c5300-revolutionizing-connectivity-for-tech-enthusiasts-and-gamers/"><u>The Definitive Guide to Asus ROG GT-C5300: Revolutionizing Connectivity for Tech Enthusiasts and Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-sony-xbr65x850f-is-this-reasonably-priced-65-inch-4k-tv-worth-it/"><u>Unboxing the Sony XBR65X850F - Is This Reasonably Priced 65 Inch 4K TV Worth It?</u></a></li>
+</ul></div>
 

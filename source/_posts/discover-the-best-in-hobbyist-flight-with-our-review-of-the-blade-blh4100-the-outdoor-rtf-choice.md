@@ -1,7 +1,7 @@
 ---
 title: Discover the Best in Hobbyist Flight with Our Review of the Blade BLH4100 - The Outdoor RTF Choice
-date: 2024-08-15T09:07:05.317Z
-updated: 2024-08-16T09:07:05.317Z
+date: 2024-11-11T21:10:26.554Z
+updated: 2024-11-15T06:07:52.324Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best in Hobbyist Flight with Our Review of the Blade BLH4100 - The Outdoor RTF Choice
@@ -13,15 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/0k72WSI9zpSx_0NVgOzieZdbYDg=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Fitbit Versa Lite
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/cLfckr_Y6BZxrI48GvfteHPwShs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-HeroSquare-771afa6a985240f0ab5fe71246b3d502.jpg)
 
 Lifewire / Todd Braylor
@@ -43,6 +36,13 @@ Lifewire / Todd Braylor
 [View On Amazon $149](https://www.amazon.com/dp/B07MFZ9MHM?tag=lifewire-onsite-prod-20&ascsubtag=4768625%7Cne7e30477dce44991aba0d4ad06c424c419%7CB07MFZ9MHM) [View On Walmart $150](https://www.walmart.com/ip/Fitbit-Versa-LITE-Edition-Smartwatch/452035295)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fitbit Versa Lite
 
@@ -77,9 +77,6 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Customizable and instinctive**
 
  With a host of different color options, wristbands, and downloadable clock faces, the Fitbit Versa Lite is a stylish digital watch that’s ready to be customized. The full-color[LCD](https://www.lifewire.com/what-is-liquid-crystal-display-lcd-2625913) touch screen exudes a smartwatch look with a square screen and metallic bezels that lay flush against it to prevent dirt or moisture from getting trapped. The unit is thoroughly water-resistant, making a day at the ocean or laps at the pool no cause for worry.
@@ -104,7 +101,21 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/BD_8kRJ7n6qQdf5LY9rLKiYigTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-05-fac178f5e6b240c29ff8d1e1e4fcb96f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Comfort: Attractive and confident wearability**
 
@@ -132,31 +143,24 @@ Lifewire / Todd Braylor
 
  It is unclear how many users are affected by this glitch (it seems other users are unaffected) but we experienced it with the Versa Lite Edition we tested. The only way for us to exit the swim exercise app was to hold down the side button for about 10 seconds in order to escape with the factory power cycle feature. This was one of the only significant flaws we found with the Versa Lite, but it did mean that all data for the swim workout was lost after restarting the Fitbit. This essentially rendered the swim mode unusable on our unit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/97XADSG__Ti-9y6W9YfT6A-sRLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-04-a5baf62c5de749cb93986be2eab3ad2d.jpg)
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Battery Life: Days of activity**
 
  Fitbit promised four or more days of battery life for the Versa Lite, and they weren’t lying. The Versa Lite we tested lasted almost four and a half days before draining all the way down to zero. This made so many days of daily wear and daily runs seem hassle-free.
 
  It also charged back up to 100% in just about two hours—for a device that gives you a range of stats, this speedy battery top-up means the fitness freaks among us won't have to sacrifice too much time away from our metrics.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/NkHZ0M514IlrqowHF6M_QWHxgj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-06-be4c149f1dff4214acfe0fbc3a4d63e6-1-f6f110eb54e142c992dd3f613bdb9f28.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -169,8 +173,12 @@ Lifewire / Todd Braylor
  A host of other smartwatch apps come standard with the Versa Lite, including alarms, a weather app, a stopwatch, a relaxation app that guides you through short mindfulness exercises, and the specific exercise apps mentioned above. As far as additional apps for the Versa Lite, this is it—the Lite Edition does not have the ability to add extra apps.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A deal for under $200**
 
  Retailing for $159.95 and occasionally selling for less on sale, the Versa Lite is a price-conscious but solid piece of tech that prioritizes exercise. It's a great introduction to the smartwatch lifestyle with all the notifications you need to be connected and without an overwhelming amount of distractions.
@@ -194,17 +202,18 @@ Lifewire / Todd Braylor
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Garmin Forerunner 945](https://www.lifewire.com/garmin-forerunner-945-review-4768586)
 * [Fitbit Inspire HR](https://www.lifewire.com/fitbit-inspire-hr-review-4768656)
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Versa Lite
@@ -224,14 +233,11 @@ Lifewire / Todd Braylor
 * Memory Capacity  7 days of activity data, 30 days of daily totals
 * What's included  Fitbit Versa Lite Edition watch, small wrist band, large wrist band, USB charging cradle
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -240,4 +246,23 @@ Lifewire / Todd Braylor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-in-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-blending-past-and-present-film-aesthetics/"><u>[Updated] In 2024, Blending Past and Present Film Aesthetics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-skills-for-youtube-success-8-free-online-courses/"><u>[Updated] In 2024, Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-tech-marvel-motorola-one-the-budget-friendly-iphone-lookalike/"><u>Affordable Tech Marvel: Motorola One - The Budget-Friendly iPhone Lookalike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/auditory-equipment-what-to-watch-out-for/"><u>Auditory Equipment: What to Watch Out For</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boost-your-ps5-gaming-experience-by-integrating-with-discord/"><u>Boost Your PS5 Gaming Experience by Integrating with Discord</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-prowess-explored-evaluating-the-stylish-and-powerful-dell-alienware-aurora-r9-gaming-system/"><u>Cutting-Edge Prowess Explored: Evaluating the Stylish and Powerful Dell Alienware Aurora R9 Gaming System</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-craft-your-own-film-finale-templates-no-cost/"><u>In 2024, Craft Your Own Film Finale Templates, No Cost</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-your-ultimate-guide-to-streaming-google-meet-on-youtube/"><u>In 2024, Your Ultimate Guide to Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-dell-alienware-aurora-r9-assessment-a-revolutionary-approach-to-modern-gaming-systems/"><u>In-Depth Dell Alienware Aurora R9 Assessment: A Revolutionary Approach to Modern Gaming Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactively-testing-the-arlo-network-for-home-safety-solutions/"><u>Interactively Testing the Arlo Network for Home Safety Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mediatek-usb-vcom-drivers-instant-download-guide/"><u>MediaTek USB VCOM Drivers: Instant Download Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-mac-mouse-picks-your-comprehensive-guide/"><u>Top-Rated Mac Mouse Picks : Your Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722882231103-toshiba-55lf711u20-55-smart-tv-with-alexa-built-in-perfect-for-prime-video-lovers/"><u>Toshiba 55LF711U20 55 Smart TV with Alexa Built-In - Perfect for Prime Video Lovers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-transforming-your-android-or-iphone-into-a-windows-microphone-device/"><u>Ultimate Tutorial: Transforming Your Android or iPhone Into a Windows Microphone Device</u></a></li>
+</ul></div>
 

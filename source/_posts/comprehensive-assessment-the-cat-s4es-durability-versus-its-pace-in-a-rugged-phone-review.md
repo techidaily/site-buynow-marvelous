@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review"
-date: 2024-10-29T16:32:52.020Z
-updated: 2024-11-04T16:29:53.961Z
+date: 2024-11-14T06:24:30.764Z
+updated: 2024-11-14T23:26:32.181Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review"
@@ -38,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Insignia NS-43DF710NA19 43" 4K Fire TV
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/Zu1XJXI9ru8-HVTz9rG_PZoTkxw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4135681-1-3cce4a8c20b848baa2594db3b20ec943.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -85,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Thick body, thick bezel, but light enough for one person to handle**
 
  The Insignia NS-43DF710NA19 is thick and boxy, with a fairly wide bezel, and large feet that mount perpendicularly instead of angling like a lot of other inexpensive sets. It isn’t anything special to look at, but that’s to be expected from a budget line like Insignia. The good thing is that it’s fairly light, at less than 20 pounds, and the large feet make it quite steady.
@@ -100,6 +93,19 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  While this set does have Alexa built right in, it works like a Fire TV Stick and not like a[Fire TV Cube](https://www.lifewire.com/amazon-fire-tv-cube-4172274) or[Echo device](https://www.lifewire.com/what-is-the-amazon-echo-4147189) . What that means is it lacks far-field microphones, so you have to give commands via the remote. The remote itself is the same basic design that’s included with other Fire TV devices, but it includes volume buttons, a live TV button, and preset shortcuts for a few streaming services.
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/8ovvGrqb8Me9IvWHrQc7UW02kw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-4-acb78e6d55e4488ca394495d5c74c754.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -137,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/OfRGDj7hZY6nrkoT_HqDEM1S9Ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-2-8b38ffeb5ce44c0d9a6c7aa7f6dce4cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
 ## **Ports: Full complement of digital and analog inputs and outputs**
@@ -159,20 +158,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 ![Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/thmb/V97gOTfZ6Zys4aZv9gzGupbwRi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4135681-3-b8a8cb21803f40ada92bf08de6ee6fc0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Built-in Fire TV with Alexa voice controls is snappy and responsive**
 
@@ -192,6 +184,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
  The Insignia NS-43DF710NA19 has an MSRP of $299.99, but it’s typically available for around $249.99\. Priced at around $249.99, it’s right in the general neighborhood of other 43-inch class smart televisions, including other Fire TVs, sets built around Roku, and others with proprietary systems. There are a lot of decent options in the general $200 to $250 range, but this one is the best of the bunch if you’re firmly entrenched in Amazon’s ecosystem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Competition: Beats out other Fire TV models**
 
  Compared to previous 43-inch class televisions built on the Fire TV platform, the Insignia NS-43DF710NA19 is the clear winner. For example, the Toshiba 43LF421U19 is a 43-inch class set that’s also built on the Fire TV platform, and sells for about $299.99, but it’s worse than the Insignia in almost every category. It isn’t 4K or HDR-capable, the viewing angles are worse, colors aren’t as good, and the built-in Fire TV is sluggish compared to the Insignia unit that we tested.
@@ -205,6 +204,13 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  **This is the budget Fire TV to own if you can’t step up to a larger model.**
 
  The Insignia NS-43DF710NA19 isn’t perfect, but it’s probably as close as you’ll get at this price point. This is definitely the UHD TV to own in the 43-inch class if you’re deep in the Amazon ecosystem and really want to go with Fire TV as your smart TV platform. It has great color reproduction, excellent viewing angles, and even decent sound from the onboard stereo speakers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -243,18 +249,21 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-photocollage-mastery-building-visual-narratives/"><u>[New] PhotoCollage Mastery Building Visual Narratives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-kinemasters-secrets-to-transition-excellence/"><u>[Updated] In 2024, Kinemaster's Secrets to Transition Excellence</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-project-board-to-public-display-imovie-on-youtube/"><u>2024 Approved From Project Board to Public Display IMovie on YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-dji-x20-drone-vision-wear-review/"><u>2024 Approved The DJI X20 Drone Vision Wear Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-ipad-showdown-the-definitive-guide/"><u>Comprehensive iPad Showdown: The Definitive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cost-effective-time-management-in-depth-review-of-the-philips-hf352cuhc-alarm-clock/"><u>Cost-Effective Time Management: In-Depth Review of the Philips HF352cuhc Alarm Clock</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-safely-remove-outdated-backup-files-from-your-external-hard-drive/"><u>How to Safely Remove Outdated Backup Files From Your External Hard Drive</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-video-meetings-with-tighter-focus-areas/"><u>Optimizing Video Meetings with Tighter Focus Areas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/personalized-instagram-notification-melodies/"><u>Personalized Instagram Notification Melodies</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-ath-m50x-studio-headphone-capabilities/"><u>Unveiling ATH-M50x Studio Headphone Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-moto-g-play-robust-battery-power-paired-with-adequate-speed/"><u>Unveiling the Performance of Moto G Play: Robust Battery Power Paired with Adequate Speed</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-tecno-camon-30-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Camon 30 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-melding-audio-with-visuals-digitally/"><u>[New] 2024 Approved Melding Audio With Visuals Digitally</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-youtube-profits-studio-tips-for-all-gadgets/"><u>[New] In 2024, Mastering YouTube Profits Studio Tips for All Gadgets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cost-effective-recorder-selections-for-youtube-vloggers/"><u>[Updated] Cost-Effective Recorder Selections for YouTube Vloggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-the-process-dells-way-to-screen-recording/"><u>[Updated] Streamlining the Process Dell's Way to Screen Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-conversations-elevated-comparing-gemini-and-chatgpt-plus-features/"><u>AI Conversations Elevated: Comparing Gemini and ChatGPT Plus Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/greater-plant-growth-and-yield-as-a-result-of-better-nutrition/"><u>Greater Plant Growth and Yield as a Result of Better Nutrition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pro-max-or-just-plus-deciding-between-the-new-iphone-15-models/"><u>Pro Max or Just Plus? Deciding Between the New iPhone 15 Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviews-of-the-ideal-tv-setup-toshibe-55lf711u20-fire-tv-edition-a-prime-members-dream/"><u>Reviews of the Ideal TV Setup: Toshibe 55LF711U20 Fire TV Edition - A Prime Member’s Dream</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-gear-s3-frontier-review/"><u>Samsung Gear S3 Frontier Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-insight-the-moto-g-power-shines-with-impressive-battery-life-and-performance/"><u>Tech Insight: The Moto G Power Shines with Impressive Battery Life & Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-effortless-vinyl-player-a-look-at-the-lp60xbt/"><u>The Effortless Vinyl Player: A Look at the LP60XBT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-serious-readers-choice-a-comprehensive-review-of-kobo-formas-dedicated-design/"><u>The Serious Reader's Choice: A Comprehensive Review of Kobo Forma's Dedicated Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-premium-tv-streaming-apps-2024-edition/"><u>The Ultimate Selection: Premium TV Streaming Apps 2024 Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722947534130-unveiling-the-best-budget-friendly-wi-fi-expansion-gadget-tp-link-re200-reviewed/"><u>Unveiling the Best Budget-Friendly Wi-Fi Expansion Gadget - TP-Link RE200 Reviewed</u></a></li>
 </ul></div>
 

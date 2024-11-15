@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls
-date: 2024-10-31T03:55:59.861Z
-updated: 2024-11-04T16:35:53.313Z
+date: 2024-11-12T16:59:25.996Z
+updated: 2024-11-15T08:48:10.910Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls
@@ -36,19 +36,6 @@ Lifewire / Jonno Hill
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
 
 4
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## HP Omen Obelisk
 
@@ -109,10 +96,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance** :**Great components for gaming and productivity**
@@ -122,6 +109,13 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -137,27 +131,20 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jonno Hill
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -169,6 +156,13 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -176,6 +170,13 @@ Lifewire / Jonno Hill
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -190,13 +191,6 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -232,21 +226,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-premium-top-11-list-ultimate-recording-gear-for-2024/"><u>[New] Premium Top 11 List - Ultimate Recording Gear for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/7-key-revelations-from-the-facebook-papers/"><u>7 Key Revelations From The Facebook Papers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-asus-rog-phone-8-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/connect-and-share-fun-with-friends-using-your-xbox-one-the-ultimate-tips/"><u>Connect and Share Fun with Friends Using Your Xbox One - The Ultimate Tips!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/conquer-any-terrain-with-the-top-race-rc-rock-crawler-an-expert-review/"><u>Conquer Any Terrain with the Top Race RC Rock Crawler - An Expert Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-wisdom-for-the-virtual-realm-30plus-metaverse-quotes/"><u>Crafting Wisdom for the Virtual Realm 30+ Metaverse Quotes</u></a></li>
-<li><a href="https://win-unique.techidaily.com/download-free-professional-templates-and-essential-utilities-for-successful-flips-start-at-flipbuildercom/"><u>Download Free Professional Templates & Essential Utilities for Successful Flips - Start at FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/galaxy-s24-ultra-vs-s23-ultra-comparing-the-latest-flagship-smartphones-from-samsung/"><u>Galaxy S24 Ultra Vs. S23 Ultra: Comparing the Latest Flagship Smartphones From Samsung</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-roblox-not-launching-issues-with-fresh-strategies-2022-tips/"><u>How To Overcome Roblox Not Launching Issues with Fresh Strategies [2022 Tips]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-google-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Google Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-macos-updates-your-ultimate-guide-to-version-comparisons-and-features/"><u>Navigating Through macOS Updates: Your Ultimate Guide to Version Comparisons and Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ourlink-u631-usb-wi-fi-adapter-review/"><u>Ourlink U631 USB Wi-Fi Adapter Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-home-internet-with-amplifi-hd-no-wi-fi-zone-left-behind/"><u>Revolutionizing Home Internet with Amplifi HD - No Wi-Fi Zone Left Behind</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m14-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M14 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-pick-in-depth-analysis-of-aphacas-wireless-bt69-fm-transmitter-perfect-for-automobile-audio-upgrades/"><u>Top Pick: In-Depth Analysis of Aphaca's Wireless BT69 FM Transmitter - Perfect for Automobile Audio Upgrades</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-home-network-potential-the-synology-rt2600ac-reviewed-for-distance-and-child-safety-features/"><u>Unlocking Home Network Potential: The Synology RT2600ac Reviewed for Distance & Child Safety Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hannel-expansion-techniques-for-30plus-online-platforms-for-2024/"><u>[New] Channel Expansion Techniques for 30+ Online Platforms for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>[Updated] 2024 Approved Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-become-an-instagram-star-9-tips/"><u>[Updated] Become an Instagram Star [9 Tips]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamlabs-vs-obs-which-livestream-tool-reigns-supreme/"><u>[Updated] Streamlabs Vs. OBS Which Livestream Tool Reigns Supreme?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy A05s Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-11r-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11R</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-s23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel S23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hp-notebook-15-with-amd-processor-review-is-this-budget-friendly-option-up-to-the-task/"><u>HP Notebook 15 with AMD Processor Review – Is This Budget-Friendly Option Up to the Task?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-x7b-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor X7b Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-non-number-registration-guide-for-telegram-and-more/"><u>The Non-Number Registration Guide for Telegram & More</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-why-the-samsung-galaxy-tab-s7-stands-out-for-android-users/"><u>The Ultimate Guide to Choosing a Tablet: Why the Samsung Galaxy Tab S7 Stands Out for Android Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-headphone-selection-lovers/"><u>The Ultimate Headphone Selection Lovers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-iphone-security-software-protect-your-device-with-these-antivirus-apps/"><u>Top 6 iPhone Security Software: Protect Your Device with These Antivirus Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-sketchpads-the-ultimate-guide-to-the-leading-drawing-devices/"><u>Top-Ranked Sketchpads: The Ultimate Guide to the Leading Drawing Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-evaluation-of-apples-latest-ipad-mini-the-compact-tech-marvel/"><u>Ultimate Evaluation of Apple's Latest iPad Mini - The Compact Tech Marvel</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-portable-powerhouse-evaluation-lenovos-newly-released-thinkpad-x1-nano/"><u>Ultra-Portable Powerhouse Evaluation: Lenovo's Newly Released ThinkPad X1 Nano</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbox-the-style-sony-ps-lx310bt-review/"><u>Unbox the Style: Sony PS-LX310BT Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-test-drive-of-the-lg-stylo-6-where-elegance-meets-productivity/"><u>Unboxing & Test Drive of the LG Stylo 6: Where Elegance Meets Productivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-secrets-a-thorough-review-of-fitbits-charge-n-device/"><u>Uncovering the Secrets: A Thorough Review of Fitbit's Charge N Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like a Dragon - An Unmissable RPG Experience"
-date: 2024-08-15T09:06:57.406Z
-updated: 2024-08-16T09:06:57.406Z
+date: 2024-11-12T22:09:51.602Z
+updated: 2024-11-14T22:41:29.272Z
 categories:
   - BestProducts
 description: "This Article Describes Yakuza: Like a Dragon - An Unmissable RPG Experience"
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## SEGA Yakuza: Like a Dragon
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/a-p7jLzGh5XDa5UjESh5w8kXrPk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_HeroSquare-ea84381e359846e6951c77b6f7e7c5a0.jpg)
 
 Lifewire / Erika Rawes
@@ -69,14 +63,18 @@ Lifewire / Erika Rawes
 
  The[best PC games](https://www.lifewire.com/best-pc-games-4147292) offer something unique that keeps you coming back for more. Yakuza: Like a Dragon takes the standard Yakuza formula and stands it on its head, moving the fighting system from real-time to turn-based and making this entry to the series feel like a true JRPG. I played Yakuza: Like a Dragon[on PC](https://www.lifewire.com/best-pc-games-4147292) to find out if these changes make this game better or worse. Should you play the new Yakuza or skip it? Read on to check out my full review of Yakuza: Like a Dragon.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setting and Plot: A very long intro
 
  Yakuza: Like a Dragon places you in the shoes of Ichiban Kasuga, a young Yakuza upstart who was raised as an orphan in a Soap House by the owner and the women who worked there. Kasuga gets into a bit of trouble with a Yakuza family but is saved by Masumi Arakawa, the patriarch of the Arakawa family. Because of this, Kasuga pledges his life to Arakawa, promising to repay the debt.
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/Mo4mMH944CddmYJTyCxtMRxK9-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_05-e59c99ba9bd249e7a2241f532dd742dc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -84,9 +82,6 @@ Lifewire / Erika Rawes
 
  All of the aforementioned story takes place in what could be called the introductory stages of the game. The intro was incredibly slow and took around five to six hours. Finally, after the long intro, it felt like I was getting into the real meat where the world opens up. Even after the long preamble, I was still introduced to new items, concepts, and parts of the game. It felt like a lot of handholding, which was frustrating at times.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/_ksFqEWrm3B3MbfrBujuNtLpcXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_03-37ca82f2a4cd42c4ad65f34e2ca63b68.jpg)
 
 Lifewire / Erika Rawes
@@ -109,9 +104,6 @@ Lifewire / Erika Rawes
 
  Combat is handled with a turn-based system. During the fight, you have a menu of different selections, from regular attacks and items to defending and special attacks. This is where Yakuza: Like a Dragon really shines. The game provides you with a ton of options in the fight, and many of the moves are both over the top and quite funny. For instance, you can have a homeless teammate attack with a flock of pigeons, or maybe have your bartender attack with moves from her boxing fitness class.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/ZvcwNcecc79umImvw53CUJlLvIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_02-6396bcd8866c4a479331a02e160eb890.jpg)
 
 Lifewire / Erika Rawes
@@ -124,6 +116,13 @@ Lifewire / Erika Rawes
 
  This[PC game](https://www.lifewire.com/pc-gaming-reviews-4689600) plays just like it should, and the controls are top-notch. Everything just works, which is a rare feat these days. You should be able to finish the main story in around 45 to 55 hours, depending on how fast you run through it, but I highly recommend taking your time and enjoying all the wonderful diversions available.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Graphics: Excellent visuals
 
  The graphics and visuals are impressive. Details are accurate and in the right places. Food looks so realistic (and delicious), and there were some moments where I could even see the pores on a person's skin during cinematics.
@@ -134,16 +133,17 @@ Lifewire / Erika Rawes
 
  The game ran at a smooth 60fps (I played at[1080p resolution](https://www.lifewire.com/what-the-term-1080p-means-1846837) ), and rarely did I come across any graphical issues or bugs. The whole game has a very modern feel but also has so many nods to its JRPG roots. Things are both rooted in reality while also being completely over the top at times.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/zrV5S3jL3_76G0PVgT1K_Ty6WWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_04-e33b82262b344fecae27d668b3c92ba9-55ba8acb6d324eed81fbf5453e770db8.jpg)
 
 Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: The typical $60
 
  The base version of Yakuza: Like a Dragon comes in at $60 like most new titles. The price is reasonable for the amount of gameplay. However, you have two other purchase options as well. The Hero Edition, which costs $70, includes the Job Set and the Management Mode set and features two extra jobs and three sets of Management mode employees.
@@ -160,11 +160,25 @@ Lifewire / Erika Rawes
 
  A well-crafted masterpiece. Yakuza: Like a Dragon falls into the must-play category for anyone who loves a good story, JRPGs, or a wild game that will make you laugh. It’s definitely a departure from the rest of the series, but that contributes to a lot of the fun and uniqueness of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Cyberpunk 2077](https://www.lifewire.com/cyberpunk-2077-review-5113844)
 * [Godfall](https://www.lifewire.com/godfall-review-5095668)
 * [Torment: Tides of Numenera](https://www.lifewire.com/torment-tides-of-numenera-review-5077302)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -185,8 +199,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +206,22 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>[New] Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions-for-2024/"><u>[New] Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-viral-video-potential-analyzing-dslr-and-mirrorless-cameras/"><u>[New] Viral Video Potential Analyzing DSLR and Mirrorless Cameras</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-diversify-laptop-editing-with-alternatives-to-inshot-for-2024/"><u>[Updated] Diversify Laptop Editing with Alternatives to Inshot for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-learn-to-slow-down-video-speed-for-enhanced-viewer-experience-in-snapchat-for-2024/"><u>[Updated] Learn to Slow Down Video Speed for Enhanced Viewer Experience in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-low-cost-cameras-list-for-2024/"><u>[Updated] The Ultimate Low-Cost Cameras List for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/asli-top-6-aplikasi-pemadam-data-terbaik-untuk-linux-ideal-dan-tersenyawa-dengan-windows-11-10-8-atau-7/"><u>Asli Top 6 Aplikasi Pemadam Data Terbaik Untuk Linux: Ideal Dan Tersenyawa Dengan Windows 11, 10, 8, Atau 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demons-souls-remastered-immersive-visuals-and-timeless-excellence/"><u>Demon's Souls Remastered: Immersive Visuals and Timeless Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-forsaken-world-of-dying-light-a-captivating-first-person-co-op-survival-journey/"><u>Exploring the Forsaken World of Dying Light: A Captivating First-Person, Co-Op Survival Journey</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-g29-racing-wheel-software-for-windows-7-8-and-10-get-your-game-on/"><u>Free Logitech G29 Racing Wheel Software for Windows 7, 8 & 10: Get Your Game On!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-why-the-dji-mavic-2-pro-is-a-must-have-for-professional-photographers-and-videographers/"><u>In-Depth Evaluation: Why the DJI Mavic 2 Pro Is a Must-Have for Professional Photographers and Videographers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-13-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-midland-gxt1000vp4-two-way-radio-experience/"><u>The Ultimate Guide to the Midland GXT1000VP4 Two-Way Radio Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-discounted-samsung-gadgets-available-during-prime-day/"><u>Top Discounted Samsung Gadgets Available During Prime Day</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-delightful-experiences-in-pokemon-an-exploration-of-shining-pearl/"><u>Unlocking Delightful Experiences in Pokémon - An Exploration of Shining Pearl</u></a></li>
+</ul></div>
 

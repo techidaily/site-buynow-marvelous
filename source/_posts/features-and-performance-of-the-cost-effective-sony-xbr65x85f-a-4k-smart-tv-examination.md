@@ -1,7 +1,7 @@
 ---
 title: Features & Performance of The Cost-Effective Sony XBR65X85^F - A 4K Smart TV Examination
-date: 2024-08-15T09:06:50.134Z
-updated: 2024-08-16T09:06:50.134Z
+date: 2024-11-08T07:57:59.261Z
+updated: 2024-11-14T17:26:48.578Z
 categories:
   - BestProducts
 description: This Article Describes Features & Performance of The Cost-Effective Sony XBR65X85^F - A 4K Smart TV Examination
@@ -41,6 +41,13 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Bill Thomas
 
 [View On Amazon $25](https://www.amazon.com/dp/B00IF0JAYE/?tag=lifewire-onsite-prod-20&ascsubtag=4686094%7Cn04462eaac973429b8b417ec47f0b261514%7CB00IF0JAYE) [View On Walmart $76](https://www.walmart.com/ip/NETGEAR-N600-8x4-WiFi-Cable-Modem-Router-Combo-C3700-DOCSIS-3-0-Certified-for-XFINITY-by-Comcast-Spectrum-Cox-and-more-C3700-100NAS/36009477) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-dual-band-n600-router-with-8-x-4-docsis-3-0-cable-modem-black%2F3707003.p%3Fcmp%3DRMX%26skuId%3D3707003)
@@ -66,27 +73,43 @@ Lifewire / Bill Thomas
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
 
  This definitely works in the Netgear C3700’s favor. The[wireless performance](https://www.lifewire.com/ways-to-boost-a-wifi-signal-818296) is already weak (which we’ll go into a bit later), so the fact that you can leave it out and unobscured is a benefit.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -94,9 +117,6 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -128,8 +148,12 @@ Lifewire / Bill Thomas
  Lifewire / Bill Thomas
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Software: No frills
 
  We prefer a network backend that’s straight to the point, and that’s exactly what we got with the Netgear C3700.
@@ -140,18 +164,12 @@ Lifewire / Bill Thomas
 
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Price: It pays for itself
 
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -161,17 +179,11 @@ Lifewire / Bill Thomas
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C3700 Cable Modem Router
@@ -198,8 +210,6 @@ Lifewire / Bill Thomas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +217,20 @@ Lifewire / Bill Thomas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/fficiently-engaging-with-numerous-youtube-lectures-for-2024/"><u>[New] Efficiently Engaging with Numerous YouTube Lectures for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>[New] In 2024, The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-review-of-the-cleverly-crafted-2019-tcl-32s325-smart-led-with-built-in-roku/"><u>A Review of the Cleverly Crafted 2019 TCL 32S325 Smart LED with Built-In Roku</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blade-e-flite-mcx2-rtf-rc-helicopter-the-consumers-go-to-guide-to-quality-and-performance/"><u>Blade E-Flite mCX2 RTF RC Helicopter: The Consumer's Go-To Guide to Quality and Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-anthropics-innovative-image-manipulation-tool-smart-photo-editor-review/"><u>Evaluating Anthropics’ Innovative Image Manipulation Tool – Smart Photo Editor Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-asus-chromebook-c202sa-stands-up-to-rough-use-by-students-and-kids/"><u>How the Asus Chromebook C202SA Stands Up to Rough Use by Students and Kids</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-8-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 8 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-rca-video-doorbell-exceptional-capabilities-and-features-explored/"><u>Reviewing the RCA Video Doorbell - Exceptional Capabilities and Features Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808342864-safe-shopping-how-to-shop-safely/"><u>Safe Shopping - How to Shop Safely</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gpu-face-off-supers-ti-and-rtx-4080-compared/"><u>The Ultimate GPU Face-Off: Supers, Ti & RTX 4080 Compared</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-filmora-editing-inquiries/"><u>Unraveling Filmora Editing Inquiries</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-in-ipados-18-official-release-dates-cost-free-accessibility-enhanced-capabilities-and-fresh-announcements-revealed/"><u>What's New in iPadOS 18? - Official Release Dates, Cost-Free Accessibility, Enhanced Capabilities & Fresh Announcements Revealed</u></a></li>
+</ul></div>
 

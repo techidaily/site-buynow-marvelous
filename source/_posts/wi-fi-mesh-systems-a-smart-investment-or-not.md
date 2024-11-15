@@ -1,7 +1,7 @@
 ---
 title: "Wi-Fi Mesh Systems: A Smart Investment or Not?"
-date: 2024-08-22T17:39:42.553Z
-updated: 2024-08-23T17:39:42.553Z
+date: 2024-11-08T04:01:12.170Z
+updated: 2024-11-15T00:22:52.133Z
 categories:
   - BestProducts
 description: "This Article Describes Wi-Fi Mesh Systems: A Smart Investment or Not?"
@@ -40,9 +40,6 @@ Lifewire / Gannon Burgett
 
 ## Microsoft Surface Studio 2
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft Surface Studio 2](https://www.lifewire.com/thmb/NDm3E4PyU6ziij20SUPJFRRc6pY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4045927-1-64302c6de74c465d96dcc32ed60ef388.jpg)
 
 Lifewire / Gannon Burgett
@@ -71,11 +68,15 @@ Lifewire / Gannon Burgett
 
 ![Microsoft Surface Studio 2](https://www.lifewire.com/thmb/qqvEiRPOz2etUltaB7qksjgtD6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4045927-5-62b14c26664249e3aaad156acf787b34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: A modern marvel of engineering**
 
  The design of the Microsoft Surface Studio 2 remains entirely unchanged from its first-generation predecessor, and with good reason—it’s stunning. The screen is unbelievably thin, and the arms holding the hinge and springs almost disappear due to their mirrored finish and contoured shape. The entire Surface Studio is subtle, appearing like a thin piece of glass-and-metal from the side, with a svelte, boxy base.
@@ -96,16 +97,24 @@ Lifewire / Gannon Burgett
 
  The software side of setup wasn’t nearly as quick as we had hoped. Despite having a fast internet connection, the setup time took approximately ten minutes, not including an additional system update, which added another five minutes. Microsoft’s Cortana walked us through the setup with audible and on-screen directions, and even tossed in a few snarky comments here and there along the way. Setup also included the process of adding your face for the facial recognition log-in option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Surface Studio 2](https://www.lifewire.com/thmb/2YGEvu4_h4VAgUiecjNAvd56F9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4045927-7-0e52038c30364530a5a9bd0ac7011cb7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Display: A treat for your eyes**
 
  The Surface Studio boasts a 28-inch 4500-by-3000 PixelSense display in a 3:2 aspect ratio. It’s a good size and ratio for drawing and graphic design, while the 192 pixels per inch (ppi) makes it crisper than 2K panels. It’s not as pixel-dense as the smaller screen on the 21.5-inch 4K iMac, but the resolution is actually about the same. And unlike the iMac, it’s a 10-point multitouch touchscreen, essentially turning the entire panel into a giant tablet.
@@ -120,9 +129,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Performance: Leaving much to be desired**
 
  The Microsoft Surface Studio 2 model we tested was the Intel Core i7 version with a discrete Nvidia Geforce GTX 1060 GPU, 16GB of RAM, and a 1TB SSD.
@@ -135,9 +141,6 @@ Lifewire / Gannon Burgett
 
  Overall, the Surface Studio 2 performed admirably considering the rather dated hardware inside, but it would’ve been nice to see a little more processing and graphics power from one of the most expensive desktops on the market. It will handle nearly any graphics program you can throw at it, including Adobe Photoshop, Adobe Lightroom, and various drawing/sketching applications, but don’t plan on rendering 4K video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft Surface Studio 2](https://www.lifewire.com/thmb/DQ79oTyDKH66WhnF-xIt9ZmemlY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4045927-2-ccf0f17e9c0743edafecfed3f5621135.jpg)
 
  Lifewire / Gannon Burgett
@@ -148,16 +151,27 @@ Lifewire / Gannon Burgett
 
  With both wireless and wired connections, the Surface Studio 2 excelled at every test we threw at it. It didn’t matter whether it was next to the router or a few rooms over, transfer speeds were on target every time with solid ping times to boot.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Microsoft Surface Studio 2](https://www.lifewire.com/thmb/rkvuGygIghO9k9Je4rikzH5HvaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4045927-4-1b719f36dcb3448c9da40160faa18954-a32c44e2f9ca4ed3b4d670458dc6d5f0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
 ## **Camera: Decent and usable**
 
  The only camera on the Surface Studio 2 is a 5-megapixel front-facing camera. In addition to capturing stills and Windows Hello facial authentication, it also records 1080p video with dual microphones for audio. The camera proved impressive for an integrated camera and is more than good enough to use for conference calls and even streaming if you have a decent light source on hand.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Still not a touchscreen or Pen-driven experience**
 
@@ -171,23 +185,21 @@ Lifewire / Gannon Burgett
 
  Of course, this could change with a future Windows update, especially considering Microsoft is clearly focused on providing a touch-first experience on much of its Studio product lineup. Still though, for the time being, it leaves much to be desired.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Surface Studio 2](https://www.lifewire.com/thmb/InfbJKGzeNqjfIRVMxjjUixt0sY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4045927-3-8fd4fb8053044a528f896d4dc2872611.jpg)
 
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: One word—ridiculous**
 
  At $3,499 MSRP, the Surface Studio 2 is incredibly expensive for the specs it offers. It’s twice as costly as the 21.5-inch 4K iMac ($1,299) and the base model of the 27-inch iMac ($1,799). The Surface Studio 2 is clearly trying to compete with the $4,999 iMac Pro, but with its older hardware and sometimes clunky software, it’s simply not as good of an experience for professionals and creatives, most of whom can get by with the more affordable iMac models anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: More affordable rivals, but lacking effective touchscreens**
 
  The Surface Studio 2 Lenovo IdeaCentre AIO 730S features a 24-inch screen compared to the 28-inch screen on the Surface Studio Pro 2\. On the processor side of things, it uses an 8th generation Intel Core i7-8559U CPU, with an integrated Intel UHD Graphics 620 GPU.
@@ -232,8 +244,6 @@ Lifewire / Gannon Burgett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +251,17 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-netflix-memories-capturing-every-view-with-mac/"><u>[New] 2024 Approved Netflix Memories Capturing Every View with Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-be-gone-expert-tips-for-seamless-connectivity-on-your-windows-10-system/"><u>Bluetooth Woes Be Gone! Expert Tips for Seamless Connectivity on Your Windows 10 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/did-rav-antivirus-suddenly-appear-on-your-windows-pc-heres-where-it-came-from-and-how-to-uninstall-it/"><u>Did RAV Antivirus Suddenly Appear on Your Windows PC? Here's Where It Came From & How to Uninstall It</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-steeply-discounted-roku-models-on-amazons-best-prime-day-deals/"><u>Hunt for Steeply Discounted Roku Models on Amazon's Best Prime Day Deals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ideal-watchlist-for-asmr-fans/"><u>Ideal Watchlist for ASMR Fans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-apples-m1-processor-showdown-m1-pro-versus-m1-max-differences/"><u>In 2024, Apple’s M1 Processor Showdown M1 Pro versus M1 Max Differences</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-a2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi A2 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-scoop-on-google-voice-communication-platform/"><u>Inside Scoop on Google Voice Communication Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-samsung-galaxy-s10plus-still-worth-it-compared-to-the-new-s20-a-thorough-review/"><u>Is the Samsung Galaxy S10+ Still Worth It Compared to the New S20? - A Thorough Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-montereys-release-what-to-expect/"><u>Navigating Monterey's Release: What to Expect</u></a></li>
+</ul></div>
 

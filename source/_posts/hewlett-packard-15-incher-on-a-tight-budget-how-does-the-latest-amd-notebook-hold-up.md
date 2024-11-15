@@ -1,7 +1,7 @@
 ---
 title: Hewlett-Packard 15 Incher on a Tight Budget? How Does the Latest AMD Notebook Hold Up?
-date: 2024-08-22T17:44:45.912Z
-updated: 2024-08-23T17:44:45.912Z
+date: 2024-11-10T19:40:49.171Z
+updated: 2024-11-15T08:04:10.067Z
 categories:
   - BestProducts
 description: This Article Describes Hewlett-Packard 15 Incher on a Tight Budget? How Does the Latest AMD Notebook Hold Up?
@@ -13,11 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/mBvIo0eST_lrxPWLaD1218eniAI=/400x300/fi
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
@@ -41,6 +36,13 @@ The powerful video editing program for your Windows PC</a>
 [Buy on Amazon](https://www.amazon.com/dp/B072BD98CM?tag=lifewire-onsite-prod-20&%2F=&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C)
 
 4.9
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -68,11 +70,22 @@ The powerful video editing program for your Windows PC</a>
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Small but powerful**
 
  The ZMI PowerPack 20000’s size is easily one of its biggest selling points. While it is a little heavy at 14.3 ounces, this power bank is the approximate width and height of a large smartphone, measuring up very closely to the size of my Apple iPhone 11 Pro at 6.3 x 3.2 inches (HWD). Of course, the 0.8-inch thickness is quite a bit larger than any phone today, but unlike most laptop-friendly charging banks, ZMI’s can still fit into a pocket or handbag with ease.
@@ -85,23 +98,21 @@ The powerful video editing program for your Windows PC</a>
 
  This power bank doesn’t have an AC port for full-sized power plugs, as some competing power banks do, but it also costs less and is much smaller than those alternatives typically are.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Charging Speed and Battery: It keeps going**
 
  The ZMI PowerPack 20000 has a hearty 20,000mAh cell within, and it charged my devices quickly without fully depleting the brick. I charged a[2019 MacBook Pro](https://www.lifewire.com/apple-macbook-pro-13-inch-2019-review-4770116) (13-inch) laptop from 0 percent to 100 percent in just 1 hour, 53 minutes using the ZMI PowerPack 20000’s USB-C PD port, with an effective charging rate of 42.92W (14.8Vx2.9A). When the charging process was complete, the PowerPack still had one light illuminated, indicating that there was still a little bit of battery life remaining.
@@ -120,9 +131,6 @@ Lifewire / Andrew Hayward
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
  ZMI’s PowerPack 20000 is about half the size and weight of the[Mophie Powerstation AC](https://www.lifewire.com/mophie-powerstation-ac-review-5071990) (see on[Amazon](https://www.amazon.com/dp/B078GYSBVR?linkCode=ogi&th=1&psc=1&tag=lifewire-onsite-prod-20&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C) ), which has a AC power port on one end, not to mention a larger 24,000mAh cell. Those are both stellar benefits, plus the fabric-lined exterior gives it a distinctive allure. That said, Mophie’s pack sells for $200, and we’d only recommend it if you must have the AC power outlet for charging a power-hungry laptop. If the ZMI PowerPack 20000 will meet your charging needs, however, it’s a much better bargain.
@@ -144,14 +152,11 @@ Lifewire / Andrew Hayward
 * Ports  1x USB-C, 2x USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +165,21 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-master-chromes-pip-for-enhanced-productivity/"><u>[New] How to Master Chrome’s PIP for Enhanced Productivity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-simplified-guide-to-implementing-speech-transcription-in-powerpoint/"><u>[New] Simplified Guide to Implementing Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-subtract-and-add-quick-srt-to-sub/"><u>[New] Subtract and Add Quick SRT to SUB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[Updated] Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-create-a-successful-video-earnings-model-on-vimeo/"><u>[Updated] How to Create a Successful Video Earnings Model on Vimeo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-price-for-peak-performance-evaluating-the-fitbit-versa-lites-features-and-value/"><u>Best Price for Peak Performance: Evaluating the Fitbit Versa Lite's Features and Value</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boses-best-kept-secret-the-qc35-ii-review-unveiled/"><u>Bose's Best-Kept Secret: The QC35 II Review Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-garmin-gpsmap/"><u>Comprehensive Garmin GPSMAP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-creations-master-resin-wash-and-cure-with-elegoos-essential-1econd-kit/"><u>Elevate Your 3D Creations: Master Resin Wash and Cure with Elegoo's Essential $1Econd Kit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hassle-free-methods-for-converting-dall-e-3s-webp-outputs-to-common-image-formats/"><u>Hassle-Free Methods for Converting DALL-E ^3'S WebP Outputs to Common Image Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-microsoft-office-365-fault-code-30015-26/"><u>Rectify Microsoft Office 365 Fault: Code 30015-26</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-new-features-with-macos-ventura-update-guide/"><u>Unlocking New Features with MacOS Ventura Update Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wonder-workshop-dash-unveiled-introducing-a-cutting-edge-and-interactive-connected-toy-for-kids/"><u>Wonder Workshop Dash Unveiled: Introducing a Cutting-Edge and Interactive Connected Toy for Kids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/z-edges-cost-effective-z3plus-cam-in-depth-performance-insights/"><u>Z-Edge's Cost-Effective Z3+ Cam: In-Depth Performance Insights</u></a></li>
+</ul></div>
 

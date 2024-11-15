@@ -1,7 +1,7 @@
 ---
 title: "Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay"
-date: 2024-11-01T20:25:32.481Z
-updated: 2024-11-04T23:49:04.207Z
+date: 2024-11-11T18:58:20.768Z
+updated: 2024-11-15T02:33:05.095Z
 categories:
   - BestProducts
 description: "This Article Describes Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay"
@@ -40,6 +40,13 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -58,25 +65,11 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -87,16 +80,10 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -104,13 +91,6 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -136,6 +116,13 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Only worth it if you’re keen on the story**
 
  Torment: Tides of Numenera is still an expensive game, costing $50 on[Steam](https://www.lifewire.com/best-free-steam-games-4176308) when it’s not on sale. It’s a game created with a very specific type of player in mind―and I suspect most people are not going to like it.
@@ -155,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,18 +173,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[New] In 2024, Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-volume-of-videos-on-a-64128gb-memory-bank/"><u>[New] The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-synchronized-aesthetics-audio-meets-picture/"><u>2024 Approved Synchronized Aesthetics Audio Meets Picture</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-uniherts-atom-xl-a-miniature-gadget-with-major-performance/"><u>Comprehensive Analysis of Uniherts Atom XL - A Miniature Gadget with Major Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-galaxy-ford-f-150-rc-truck-assessment-a-giant-in-the-hobby-world/"><u>Comprehensive Galaxy Ford F-150 RC Truck Assessment - A Giant in the Hobby World</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-how-the-new-ipad-pro-m1-2021-transforms-into-a-mobile-workstation/"><u>Comprehensive Review: How the New iPad Pro (M1, 2021) Transforms Into a Mobile Workstation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-audio-tech-with-m06s-pairwise-capability/"><u>Cutting-Edge Audio Tech with M06's Pairwise Capability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-apple-books-app-performance-expert-opinion-and-review/"><u>Decoding Apple Books App Performance: Expert Opinion & Review</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>In 2024, Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/updates-on-the-apple-autonomous-vehicle-pricing-details-launch-timeline-and-technical-specifications/"><u>Updates on the Apple Autonomous Vehicle: Pricing Details, Launch Timeline & Technical Specifications</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-105-classic-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unravel-the-mystery-of-reversed-videos-on-snapchat/"><u>[New] 2024 Approved Unravel the Mystery of Reversed Videos on Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-spectacular-gopro-time-lapses-made-easy/"><u>[New] Crafting Spectacular GoPro Time-Lapses Made Easy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-comprehensive-guide-downloading-from-instagram-to-iphone/"><u>[Updated] A Comprehensive Guide Downloading From Instagram to iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-choice-top-11-beginner-friendly-kids-camera-options/"><u>Essential Choice Top 11 Beginner-Friendly Kids' Camera Options</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guide-reparer-image-du-sys-volume-sur-windows-server-2003-etapes-faciles-a-suivre/"><u>Guide : Réparer Image Du Sys Volume Sur Windows Server 2003 - Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-infinix-smart-8-plus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Infinix Smart 8 Plus Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-premium-iphone-companions/"><u>Ultimate Guide to Choosing Premium iPhone Companions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-kobo-nia-is-it-a-strong-contender-in-the-kindle-arena/"><u>Unboxing the Kobo Nia - Is It a Strong Contender in the Kindle Arena?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-the-scope-of-upgrades-vs-routine-patching/"><u>Understanding the Scope of Upgrades Vs. Routine Patching</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unihertz-atom-xl-assessment-a-compact-durable-device-with-impressive-performance/"><u>Unihertz Atom XL Assessment: A Compact, Durable Device with Impressive Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-samsung-galaxy-a51-5g-an-affordable-top-tier-5g-phone/"><u>Unpacking the Samsung Galaxy A51 5G: An Affordable Top-Tier 5G Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-apeman-c450-an-insightful-budget-friendly-dashcam-review/"><u>Unveiling the Apeman C450: An Insightful Budget-Friendly Dashcam Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Fit2: The Perfect Pocket-Sized Exercise Monitor"
-date: 2024-08-22T17:41:46.374Z
-updated: 2024-08-23T17:41:46.374Z
+date: 2024-11-09T22:48:08.810Z
+updated: 2024-11-15T10:58:21.648Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Galaxy Fit2: The Perfect Pocket-Sized Exercise Monitor"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
 ## Insta360 One X2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Insta360 One X2](https://www.lifewire.com/thmb/9u9WmKWD9-s05N5xJb7xlPowUbc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
 
 Lifewire / Andy Zahn
@@ -46,6 +43,13 @@ Lifewire / Andy Zahn
 ## Insta360 One X2
 
 ![Insta360 One X2](https://www.lifewire.com/thmb/SA87_MJD5mJRnYY0t31c9ELFmlc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -90,8 +94,12 @@ Lifewire / Andy Zahn
  The One X2 came partially charged and ready to go once I inserted a[microSD card](https://www.lifewire.com/best-sd-cards-to-buy-4072362) , though first I had to install the Insta360 app on my phone and activate the camera. This turned out to be a bit of a pain, with the Bluetooth connection used to activate the One X2 and set up the Wi-Fi connection repeatedly timing out and failing. Eventually, I got it up and running, and aside from the one hiccup, the process was fairly smooth, if more complex than I’d typically expect from a camera.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Image Quality: Good light a necessity
 
  My initial impressions of the Insta360 One X2 were tinted by the weather conditions in which I initially tested it. Here in Western Washington, winter can be gloomy and dark, so I ended up shooting in fairly dim conditions much of the time. As a result, I couldn’t help be shocked by how poor the video looked when I went to edit it. However, when given plenty of light to work with, the One X2 produced fairly decent-looking photos and video.
@@ -104,16 +112,27 @@ Lifewire / Andy Zahn
 
  One thing to remember about the One X2 is that its 5.7K recording resolution isn’t as sharp and detailed as you might expect, and when you crop down to a standard 16:9 frame you end up with[1080p](https://www.lifewire.com/what-the-term-1080p-means-1846837) . That’s good enough for viewing on a phone or small tablet, but the low resolution, as well as noise and image artifacts, become pretty significant when viewed on a large computer monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio: Unimpressive overall
 
  The audio recording on the One X2 could be charitably described as mediocre. It’s there, and it’s useable, but in a camera that would otherwise be well suited to vlogging, given its portable size and ease of use, it's a little disappointing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Storage Requirements: Hefty file size
 
  Though it may be the bare minimum for decent 360 footage, the 5.7L video footage the One X2 captures is still highly demanding in how much storage space it requires. A single short video clip easily takes up hundreds of megabytes of space, so you’ll want a big microSD card and plenty of hard drive space on your PC and/or[smartphone](https://www.lifewire.com/best-smartphones-4043781) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software: Brilliant but buggy
 
@@ -131,25 +150,16 @@ Lifewire / Andy Zahn
 
  It’s also possible to take more control of your video editing on the computer via either Insta360's free editing studio software or via a plugin in Adobe Premiere. However, it was easier to get the shots I wanted by editing them on my phone via the app.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Accessories: A good amount of options
 
  A number of accessories are available for the Insta360 One X2\. These include, among others, a diving enclosure and a “bullet time” attachment used to twirl the One X2 around your head. It’s also a good idea to have a selfie stick to use with the One X2, and I found a tripod handy for recording timelapse videos.
 
 Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Price: Good value
 
  With an MSRP of $430, the One X2 is only a little more expensive than a high-end action camera, but it’s not bad for a 360 camera. It’s a good value if being able to shoot 360-degree video is a necessity for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Insta360 One X2 vs. GoPro Hero 9 Black
 
  You may well be trying to decide between a 360 camera and a traditional action camera, in which case the obvious choice to match against the Insta360 One X2 is the[GoPro HERO9 Black](https://www.lifewire.com/gopro-hero9-black-review-5120078) . On the surface, the GoPro looks like the obvious choice for far better image and audio quality with better durability at a lower price point. However, if what you want is to record special moments in your life without having to even think about the camera, then you should go with the One X2.
@@ -167,8 +177,12 @@ Lifewire / Andy Zahn
 * [GoPro HERO7 Black](https://www.lifewire.com/gopro-hero7-black-review-4705929)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  One X2
@@ -199,8 +213,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +220,26 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortless-lenovo-screen-casting-for-2024/"><u>[New] Effortless Lenovo Screen Casting for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-introducing-10-elusive-instagram-story-visionaries/"><u>[New] In 2024, Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android/"><u>[Updated] 2024 Approved Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-wide-angle-360-photos/"><u>[Updated] Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cityscapes-unleashed-discover-the-addiction-of-urban-design-in-cities-skylines-overview/"><u>Cityscapes Unleashed: Discover the Addiction of Urban Design in 'Cities: Skylines' Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-asus-bw-16d1x-u-blu-ray-writer-elegance-meets-minor-imperfections/"><u>Comprehensive Analysis of the Asus BW-16D1X-U Blu-Ray Writer: Elegance Meets Minor Imperfections</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-sony-xperia-amoled-snapdragon-slim-figures-meet-premium-pricing/"><u>Comprehensive Analysis of the Sony Xperia Amoled Snapdragon - Slim Figures Meet Premium Pricing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-tab-s6-unveiling-s-pen-and-multi-tasking-dex-modes/"><u>Comprehensive Guide to the Samsung Galaxy Tab S6 - Unveiling S Pen & Multi-Tasking DeX Modes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-hp-chromebook-11-analysis-ideal-device-for-academics-professionals-and-gamers/"><u>Comprehensive HP Chromebook 11 Analysis: Ideal Device for Academics, Professionals & Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-samsungs-newest-galaxy-watch-active-2-with-advanced-connections-and-insightful-tracking/"><u>Comprehensive Review of Samsung's Newest Galaxy Watch Active 2 with Advanced Connections & Insightful Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-discover-the-attractive-and-compact-lenovo-ideapad-320-with-its-distinctive-lenovo-keyboard-features/"><u>Comprehensive Review: Discover the Attractive and Compact Lenovo Ideapad 320 with Its Distinctive Lenovo Keyboard Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-through-cosmic-commerce-with-offworld-trading-company-a-complete-empire-blueprint/"><u>Cutting Through Cosmic Commerce with Offworld Trading Company - A Complete Empire Blueprint</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-inspiron-3671-computer-analysis-the-balanced-midrange-desktop-evaluation/"><u>Dell Inspiron 3671 Computer Analysis: The Balanced Midrange Desktop Evaluation</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-overcoming-severe-cxcrystalize-issues-smoothly/"><u>Expert Advice on Overcoming Severe Cx_Crystalize Issues Smoothly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compendium-hands-free-device-interaction/"><u>In 2024, The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-your-most-watched-fb-movies/"><u>In 2024, Unlocking Your Most-Watched Fb Movies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-websites-for-acoustic-phone-alerts-for-2024/"><u>Leading Websites for Acoustic Phone Alerts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-how-digital-video-recorders-work-a-complete-guide/"><u>Understanding How Digital Video Recorders Work: A Complete Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
+</ul></div>
 

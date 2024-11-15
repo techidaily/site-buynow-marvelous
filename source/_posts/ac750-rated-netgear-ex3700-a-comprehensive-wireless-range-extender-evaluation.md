@@ -1,7 +1,7 @@
 ---
 title: "AC750 Rated Netgear EX3700: A Comprehensive Wireless Range Extender Evaluation"
-date: 2024-08-22T17:43:21.703Z
-updated: 2024-08-23T17:43:21.703Z
+date: 2024-11-12T19:04:47.238Z
+updated: 2024-11-15T03:22:47.104Z
 categories:
   - BestProducts
 description: "This Article Describes AC750 Rated Netgear EX3700: A Comprehensive Wireless Range Extender Evaluation"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
@@ -42,12 +39,14 @@ Lifewire / Todd Braylor
 
 ## Escort Passport S55
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -71,8 +70,12 @@ Lifewire / Todd Braylor
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design:** **A bit cheap**
 
  The S55 is palm-sized, about comparable in size and shape to most other radar detectors. The plastic material feels a bit cheaper than other radar detectors I've tested, though the control buttons worked well and felt long-lasting and I never had issues with them sticking. The Passport S55 comes with a very small windshield mount that's functional, but you may want to consider an aftermarket mount. It's minimal with small suction cups and I'm not confident it will last long. Luckily, the lightweight design of the S55 means it doesn't need much to hold it in place.
@@ -82,6 +85,13 @@ Lifewire / Todd Braylor
  The speaker on this radar detector is very small, about a quarter-inch square, but the audio alerts are high volume. You can select between standard and loud tones. The SmartCord power cable for the S55 has a handy mute button on it so you don't have to reach over the dash.
 
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Easy installation**
 
@@ -103,18 +113,12 @@ Lifewire / Todd Braylor
 
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## **Price: You get what you pay for**
 
  With an MSRP of $128, the Passport S55 is a low-end radar detector priced accordingly. More advanced radar detectors can easily be several hundred dollars more expensive, and the S55 is a good deal if you plan to use it primarily on the highway. Door-openers along the city and commercial roads will frequently trigger false alerts. You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
  A popular competitor brand to Escort that makes a wide selection of radar detectors is Uniden. The Uniden DFR9 (view on[Amazon](https://www.amazon.com/Uniden-DFR9-Detection-Cameras-Display/dp/B07F6PZXHM/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7C) ) is a model that can be considered the next price tier above the S55\. The DFR9's MSRP is $300 but it can often be found on sale for about $270.
@@ -128,8 +132,18 @@ Lifewire / Todd Braylor
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Passport S55
@@ -150,8 +164,6 @@ Lifewire / Todd Braylor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +171,22 @@ Lifewire / Todd Braylor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-80s-family-flick-the-vhs-edition-of-the-goofys-for-2024/"><u>[Updated] '80S Family Flick The VHS Edition of The Goofys for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://win-superb.techidaily.com/6yen54plusplus5asx5y6755qe6yg654plusg77ya5l255so5lul5lil5ywn6lk75oml5rov5pc25pwr5qc85byp5yyw56gs56kf5lit55qe54wn54mh/"><u>重現失去的遺珠：使用以下免費手法搶救格式化硬碟中的照片</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-electronics-by-toms-hardware-specialist/"><u>Expert Analysis on Electronics by Tom's Hardware Specialist</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-se-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 SE Bootloader Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>In 2024, How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-perfect-sync-saving-your-camera-memories-seamlessly-on-snapchat/"><u>In 2024, Perfect Sync Saving Your Camera Memories Seamlessly on Snapchat</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-to-hp-stream-device-drivers-swift-setup-guaranteed/"><u>Instant Access to HP Stream Device Drivers - Swift Setup Guaranteed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kootek-laptop-chiller-excellence-the-ultimate-heat-beating-solution/"><u>Kootek Laptop Chiller Excellence: The Ultimate Heat-Beating Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterful-techniques-for-arranging-your-playstation-4-camera/"><u>Masterful Techniques for Arranging Your PlayStation 4 Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/panasonic-hc-v770-value-and-excellence-unite/"><u>Panasonic HC-V770: Value & Excellence Unite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pd-301-teatronics-sleek-design-premium-audio/"><u>PD-301 TeaTronics: Sleek Design, Premium Audio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/photographic-brilliance-with-user-interface-issues-in-nikon-a10/"><u>Photographic Brilliance with User Interface Issues in Nikon A10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-production-pro-the-alluring-tascam-cd-200bt-unveiled-and-reviews/"><u>Professional Production Pro: The Alluring Tascam CD-200BT Unveiled and Reviews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-5-android-emulators-for-playstation-2-gaming/"><u>Top 5 Android Emulators for PlayStation 2 Gaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A World Apart: 'Torment - Tides of Numenera' And Its Stellar Approach to Science Fiction RPG"
-date: 2024-08-22T17:38:59.450Z
-updated: 2024-08-23T17:38:59.450Z
+date: 2024-11-10T02:38:13.965Z
+updated: 2024-11-15T08:10:58.113Z
 categories:
   - BestProducts
 description: "This Article Describes A World Apart: 'Torment - Tides of Numenera' And Its Stellar Approach to Science Fiction RPG"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
 3
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/AjVVBONBD_MfQeA3voTlfDA2Jrc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
 3
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
@@ -67,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -89,14 +96,14 @@ thumbnail: https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f010976
 
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -116,19 +123,27 @@ No advertising on the website.
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other city-building games**
 
@@ -142,9 +157,6 @@ No advertising on the website.
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Surviving Mars
@@ -157,14 +169,11 @@ No advertising on the website.
 * Graphics  HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM
 * Game Updates  Green Planet, Project Laika, Space Race, Colony Design Set, Marsvision Song Contest
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +182,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-popular-video-threads/"><u>[Updated] 2024 Approved Discovering Popular Video Threads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-keep-unwanted-content-away-from-your-computer-and-phone-for-2024/"><u>[Updated] How to Keep Unwanted Content Away From Your Computer and Phone for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitterize-your-tiktok-posts/"><u>[Updated] In 2024, Twitterize Your TikTok Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-visual-storytelling-with-ar-and-luts/"><u>2024 Approved Unlocking Visual Storytelling with AR & LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/a-quick-fix-for-inadvertent-chrome-tab-openings-on-pc/"><u>A Quick Fix for Inadvertent Chrome Tab Openings on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-hulu-why-it-excels-as-a-service/"><u>Assessing Hulu: Why It Excels as a Service</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-channels-crafting-captivating-yt-descriptions-using-custom-templates-for-2024/"><u>Boost Your Channels Crafting Captivating YT Descriptions Using Custom Templates for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/catch-your-favorite-tunes-on-a-budget-with-karaoke-usa-exceptional-entertainment-under-150/"><u>Catch Your Favorite Tunes on a Budget with Karaoke USA - Exceptional Entertainment Under $150</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-list-of-professional-scanners-for-docs-and-photos/"><u>Discover the Elite List of Professional Scanners for Docs & Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-knack-assessment-standout-gaming-persona-meets-lackluster-adventure/"><u>Exclusive Knack Assessment: Standout Gaming Persona Meets Lackluster Adventure</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-compreeved-analysis-a-full-review-of-the-gecata-device/"><u>In 2024, Compreeved Analysis A Full Review of the Gecata Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/readers-guide-to-understanding-the-kobo-clara-colour-an-extensive-review-and-comparison/"><u>Readers' Guide to Understanding the Kobo Clara Colour: An Extensive Review and Comparison</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-remote-communication-the-emergence-of-an-innovative-lip-reading-challenger-for-microsoft-teams-and-zoom-zdnet/"><u>Revolutionizing Remote Communication: The Emergence of an Innovative Lip-Reading Challenger for Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-rated-battery-pack-review-travel-with-confidence-using-dbpower-600a-mains-charger/"><u>The Best Rated Battery Pack Review – Travel with Confidence Using DBPower 600A Mains Charger</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-latest-and-greatest-in-depth-review-of-the-7gen-amazon-kindle-paperwhite-for-bibliophiles/"><u>The Latest and Greatest: In-Depth Review of the 7Gen Amazon Kindle Paperwhite for Bibliophiles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-mp3-in-formato-vob-gratuitamente-su-internet-movavi/"><u>Trasforma I Tuoi File MP3 in Formato VOB Gratuitamente Su Internet - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016717982-trouble-with-speakers-resolve-your-windows-11-audio-glitches-here/"><u>Trouble with Speakers? Resolve Your Windows 11 Audio Glitches Here!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-j5-tactical-v1-pro-the-top-choice-for-durable-and-miniaturized-illumination/"><u>Ultimate Guide to the J5 Tactical V1-Pro - The Top Choice for Durable and Miniaturized Illumination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-features-move-to-ios-15-now/"><u>Unlocking Features: Move to iOS 15 Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Powerful Linksys WRT1900ACS - A Game Changing Open Source WiFi Router
-date: 2024-08-15T09:07:15.929Z
-updated: 2024-08-16T09:07:15.929Z
+date: 2024-11-08T23:46:02.366Z
+updated: 2024-11-14T20:25:31.438Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the Powerful Linksys WRT1900ACS - A Game Changing Open Source WiFi Router
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/If8GxErGHTjgANe1aTqz5h0ZVGM=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/hTth7_RTT4bEi0nhlZj7rPvMYL0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
@@ -45,9 +42,6 @@ Lifewire / Jeremy Laukkonen
 
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/eB886Wl9r3D8YMg227kYv9GRkJs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -74,18 +68,12 @@ Lifewire / Jeremy Laukkonen
 
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
 
  The A6 features four antennas, two on the back, and the other two on the sides. They rotate easily for better positioning, but they aren’t removable. That’s a bit of a knock on this unit, as the ability to remove and replace antennas is pretty standard even in budget devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/eeaRHW4APuNCYThw1t-TVwYpmSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_04-4739ffd6705348959e05e41ab9da2292.jpg)
 
  Lifewire / Jeremy Laukkonen
@@ -108,6 +96,13 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
  The TP-Link Archer A6 is an AC1200[dual-band router](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that supports MU-MIMO beamforming. The total throughput is a little on the light side if you have a lot of devices, but MU-MIMO is a nice feature to see in such an affordable unit.
@@ -115,6 +110,13 @@ Lifewire / Jeremy Laukkonen
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive. That isn’t completely unexpected from a budget router, but it would have been nice if it included at least one USB port.
 
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network Performance: Decent performance for a budget router**
 
@@ -133,8 +135,12 @@ Lifewire / Jeremy Laukkonen
  You may end up needing a Wi-Fi range extender with the Archer A6 even if your house isn’t that large.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Basic and easy to use**
 
  The Archer A6 uses the same familiar web interface TP-Link has used for years. If you’ve ever used a TP-Link router before, you’ll already be familiar with the system. If you haven’t, it’s very easy to pick up.
@@ -147,12 +153,16 @@ Lifewire / Jeremy Laukkonen
 
  In addition to the web interface, TP-Link also offers a phone app that lets you change basic settings. Advanced settings have to be accessed through the web portal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Good price for the features**
 
@@ -173,8 +183,12 @@ Lifewire / Jeremy Laukkonen
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Archer A6 AC1200 Gigabit Smart Wi-Fi Router
@@ -196,14 +210,11 @@ Lifewire / Jeremy Laukkonen
 * Range  Medium homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,4 +223,24 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/days-gone-one-riders-quest-to-conquer-the-post-apocalyptic-wasteland-and-its-zombie-menace/"><u>'Days Gone': One Rider's Quest to Conquer the Post-Apocalyptic Wasteland and Its Zombie Menace</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>[Updated] Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-your-online-skills-a-guide-to-youtube-editing-via-sony-vegas/"><u>2024 Approved Enhance Your Online Skills A Guide to YouTube Editing via Sony Vegas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mixed-media-mastery-evaluating-splitcams-edge/"><u>2024 Approved Mixed Media Mastery Evaluating SplitCam's Edge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-sonys-hdrcx405-hd-camcorder-features/"><u>Delving Into Sony's HDRCX405 HD Camcorder Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-fitbit-versa-an-economical-choice-for-a-smartwatch/"><u>In-Depth Analysis of the Fitbit Versa: An Economical Choice for a Smartwatch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-the-digital-canvas-an-in-depth-review-of-the-spacious-and-stunning-huion-kamvas-gt-191-drawing-tablet/"><u>Master the Digital Canvas: An In-Depth Review of the Spacious and Stunning Huion Kamvas GT-191 Drawing Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/outstanding-indoor-placement-and-modern-style-the-mohu-blade-television-aerial-assessment/"><u>Outstanding Indoor Placement & Modern Style: The Mohu Blade Television Aerial Assessment</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-technical-hurdles-resolving-stutter-and-fps-drops-in-dragons-dogma-2-for-an-optimal-adventure/"><u>Overcoming Technical Hurdles: Resolving Stutter and FPS Drops in Dragon's Dogma 2 for an Optimal Adventure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-revolutionary-rise-of-apples-2020-mac-mini-with-m1-chip-blowing-away-pc-rivals/"><u>The Revolutionary Rise of Apple's 2020 Mac Mini with M1 Chip - Blowing Away PC Rivals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-video-metadata-editors-for-windows-and-macos/"><u>Top Video Metadata Editors for Windows and macOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-amazon-prime-day-bargains-on-iphones-and-macbooks/"><u>Top-Rated Amazon Prime Day Bargains on iPhones & MacBooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-quick-fix-guide-to-correct-the-change-rendering-api-error-in-dota-2-error-2024/"><u>Ultimate Quick-Fix Guide to Correct the Change Rendering API Error in Dota 2 [Error 2024]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-evaluating-the-innovative-amazfit-bip-the-perfect-starter-smartwatch/"><u>Unboxing and Evaluating the Innovative Amazfit Bip - The Perfect Starter Smartwatch</u></a></li>
+<li><a href="https://discover-best.techidaily.com/unleash-precision-marketing-harness-the-power-of-cookiebot-technology/"><u>Unleash Precision Marketing: Harness the Power of Cookiebot Technology</u></a></li>
+</ul></div>
 

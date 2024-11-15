@@ -1,7 +1,7 @@
 ---
 title: Essential Servers & Racks Review - Ranking the Market Leaders of 2024
-date: 2024-08-22T17:38:43.722Z
-updated: 2024-08-23T17:38:43.722Z
+date: 2024-11-12T17:33:50.407Z
+updated: 2024-11-14T17:35:33.862Z
 categories:
   - BestProducts
 description: This Article Describes Essential Servers & Racks Review - Ranking the Market Leaders of 2024
@@ -41,10 +41,14 @@ Lifewire / Andy Zahn
 
 ## Canon PowerShot SX70
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -78,6 +82,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -94,18 +105,12 @@ Lifewire / Andy Zahn
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -115,8 +120,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -125,9 +134,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -145,8 +151,18 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -161,9 +177,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -194,6 +207,13 @@ Lifewire / Andy Zahn
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Competition: Dominating from the middle ground**
 
  Canon hasn’t tried to push any boundaries with the SX70 HS. Instead, it plays it safe and just does everything very well. Two of its main competitors in the superzoom arena, Panasonic and Nikon, offer intriguing alternatives by either cutting costs or offering groundbreaking technological advances.
@@ -216,10 +236,6 @@ Lifewire / Andy Zahn
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerShot SX70
@@ -245,8 +261,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -254,4 +268,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-top-ranked-list-of-high-quality-3ds-emulation-software-for-2024/"><u>[Updated] Top-Ranked List of High-Quality 3DS Emulation Software for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>2024 Approved Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-non-gta-narratives-urban-games-of-similar-flair/"><u>2024 Approved Non-GTA Narratives Urban Games of Similar Flair</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-itel-p55-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Itel P55 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/clickmeeting-compatible-webcams-with-manycam-features-best-options/"><u>ClickMeeting-Compatible Webcams with ManyCam Features: Best Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-sea-tech-external-usb-blu-ray-recorder-fluctuating-write-speeds-reviewed/"><u>Comprehensive Analysis: Sea Tech External USB Blu-Ray Recorder - Fluctuating Write Speeds Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-next-gen-television-with-the-sony-xbr4-groovy-x900f-a-4k-uhd-marvel-on-a-49-screen/"><u>Experience Next-Gen Television with the Sony XBR4 Groovy X900F - A 4K UHD Marvel on a 49 Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-elite-philips-somneo-bedside-alarm/"><u>Expert Insights on The Elite Philips Somneo Bedside Alarm</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-huawei-p30-pros-lasting-charms-a-reviewers-perspective/"><u>Expert Insights on The Huawei P30 Pro's Lasting Charms - A Reviewer's Perspective</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/extracting-audio-from-films-three-effective-methods-just-for-you/"><u>Extracting Audio From Films: Three Effective Methods Just for You</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-ring-video-doorbell-pro-an-intelligently-designed-security-solution/"><u>In-Depth Analysis of Ring Video Doorbell Pro: An Intelligently Designed Security Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-a-mesh-system-your-ideal-connectivity-solution/"><u>Is a Mesh System Your Ideal Connectivity Solution?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-magical-movies-on-a-budget-with-chatgpt-assisted-scripts/"><u>Making Magical Movies on a Budget with ChatGPT-Assisted Scripts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-pros-resource-for-cutting-edge-computer-peripherals-trust-toms-judgments/"><u>The Pro’s Resource for Cutting-Edge Computer Peripherals – Trust Tom’s Judgments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-the-cost-effective-topmate-c302-for-superior-laptop-cooling-performance/"><u>The Ultimate Verdict on the Cost-Effective TopMate C302 for Superior Laptop Cooling Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-motorola-one-hyper-an-insightful-review-of-an-outstanding-and-vibrant-mid-range-smartphone/"><u>Unveiling the Motorola One Hyper: An Insightful Review of an Outstanding and Vibrant Mid-Range Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-a-comprehensive-review-of-the-docooler-usb-20-12mp-imager/"><u>Unveiling the Truth: A Comprehensive Review of the Docooler USB 2.0 12MP Imager</u></a></li>
+</ul></div>
 

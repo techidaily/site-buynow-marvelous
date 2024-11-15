@@ -1,7 +1,7 @@
 ---
 title: Discovering the Most Effective Replacements for Microsoft Office
-date: 2024-08-22T17:38:18.464Z
-updated: 2024-08-23T17:38:18.464Z
+date: 2024-11-10T06:51:17.421Z
+updated: 2024-11-14T19:12:37.486Z
 categories:
   - BestProducts
 description: This Article Describes Discovering the Most Effective Replacements for Microsoft Office
@@ -35,14 +35,6 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 
 [Jump to Review](https://www.lifewire.com/#toc-easiest-on-the-budget-hyper-mega-tech-super-pocket)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Just Buy This (All Around Best)
 
 [Nintendo Switch OLED](https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB098RKWHHZ)
@@ -56,8 +48,12 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 **TL;DR:** Nintendo knows how to make great handheld gaming consoles with the Switch OLED the best of the bunch thanks to its great screen, huge amount of games, and lightweight build.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Why We Recommend This
 
  It might not be the most powerful console around but the Nintendo Switch OLED is the one that I’m most likely to grab before heading out for the day. It has all the charm you’d expect from a Nintendo console. It takes seconds to start up, its menu system is easy to figure out, and its game catalog is fantastic.
@@ -88,9 +84,6 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 * **Who else recommends it?** TechRadar, Wired, T3, Tom’s Guide, Digital Trends, and CNET recommend the Nintendo Switch OLED.
 * **What do buyers think?** 90% of buyers on Amazon have rated the Nintendo Switch OLED five stars, with the console having an average score of 4.8 out of 5.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Also Great
 
 [Valve Steam Deck](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M)
@@ -102,6 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 [$450 at Amazon](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M) [$459 at Walmart](https://www.walmart.com/ip/Valve-Steam-Deck-64-GB/2237665775) [$399 at Steampowered.com](https://store.steampowered.com/steamdeck)
 
 **TL;DR:** The Steam Deck makes PC gaming truly portable and much simpler than ever before. It’s all within a sleek and easy to hold shell with a great screen whether you go LED or OLED. As with the Switch, you can always dock it, and even install Windows if you want a full portable PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why We Recommend This
 
@@ -135,6 +135,13 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 * **Who else recommends it?** The Verge, Forbes, IGN, PCGamer, and Wired have all recommended the Steam Deck with the Steam Deck OLED considered a particular highlight.
 * **What do buyers think?** The Steam Deck has sold over 3 million units on the Steam website. Relatively recently featured on Amazon, it has 86% four- or five-star ratings across 564 reviews.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easiest on the Budget
 
 [Hyper Mega Tech Super Pocket](https://www.walmart.com/ip/Hyper-Mega-Tech-Capcom-Super-Pocket-Retro-System/5194946970)
@@ -147,9 +154,6 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 
 **TL;DR:** Old enough to remember the Nintendo Game Boy? This is a lot like that with plenty of nostalgic games on-board and more to be purchased separately. It’s perfect for anyone seeking nostalgia and it’s very keenly priced too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Why We Recommend This
 
  The Hyper Mega Tech Super Pocket approaches the handheld gaming market differently from other consoles. It’s focused squarely on offering great retro gaming experiences.
@@ -179,6 +183,13 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 * **Who else recommends it?** TechRadar, GamesRadar, Stuff, and The Guardian have all highly rated the Hyper Mega Tech Super Pocket.
 * **What do buyers think?** Between the two models, the Hyper Mega Tech Super Pocket has an average rating of 4.5 out of 5 on Amazon. 84% of customers have rated the Capcom version 4 or 5 stars, with 90% rating the Taito the same score.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I Test
 
  I reviewed every handheld gaming console featured here over a number of weeks. The Nintendo Switch OLED, Switch Lite, and Steam Deck were purchased by me, while the Hyper Mega Tech Super Pocket, and Logitech G Cloud were acquired on loan from the manufacturer.
@@ -189,9 +200,6 @@ thumbnail: https://www.lifewire.com/thmb/pmzOK2SOMQ0ZK4wbNCSSHMBgQW4=/540x405/fi
 
  The[Nintendo Switch Lite](https://www.amazon.com/dp/B092VT1JGD?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is the smaller and solely portable Switch option. It can’t be docked to your TV and has a weaker screen, but it’s cheaper and ideal for solo gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Logitech G Cloud.](https://www.lifewire.com/thmb/SMW56Oe3oBSahp0Lznq6lQGJiTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LogitechGCloud1-c2a2bb36b9ff4fa7bf3d6d8e65253de1.jpg)
 
 Logitech G Cloud.
@@ -200,9 +208,6 @@ Lifewire / Jennifer Allen
 
  The[Logitech G Cloud](https://www.amazon.com/Logitech-Handheld-Long-Battery-Touchscreen-Lightweight-Tablet/dp/B09T9FHZLH?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is a device that allows you to play games via the cloud with ease. It supports Xbox Game Pass, GeForce Now, and Steam Cloud, effectively working as a custom Android tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Look For
 
  Buying a handheld gaming console is a big decision. It’s important to consider what you want to achieve. What kind of games do you wish to play on it? Also, how portable do you need the console to be?
@@ -235,8 +240,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +247,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-boost-engagement-by-personalizing-your-twitter-videos-with-new-thumbnails-for-2024/"><u>[New] Boost Engagement by Personalizing Your Twitter Videos with New Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-decoding-fbs-interface-how-to-find-just-watched-content/"><u>[New] Decoding FB's Interface How To Find Just-Watched Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] In 2024, Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-connectivity-with-our-picks-for-best-signal-amplifiers-of-2amide-2024/"><u>Ace Your Connectivity with Our Picks for Best Signal Amplifiers of 2Amide 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-upcoming-google-pixel-timepiece-pricing-launch-date-and-potential-features/"><u>All You Need to Know About the Upcoming Google Pixel Timepiece: Pricing, Launch Date & Potential Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ar-5-by-arcshell-impressive-performance-meets-budget-friendly-pricing-reviewed/"><u>AR-5 by ArcShell: Impressive Performance Meets Budget-Friendly Pricing Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-acurite-pro-weather-station-model-01036m-features-and-ease-of-use/"><u>Comprehensive Guide to the AcuRite Pro Weather Station - Model 01036M Features and Ease of Use</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-14-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-art-of-image-saving-in-your-microsoft-word-projects/"><u>Mastering the Art of Image Saving in Your Microsoft Word Projects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-effectively-take-screenshots-with-a-logitech-keyboard/"><u>Step-by-Step Tutorial: How to Effectively Take Screenshots with a Logitech Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sweet-symphony-for-less-than-20-lc-41-speakers/"><u>Sweet Symphony for Less Than $20 - LC-41 Speakers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-troubles-with-chrome-os-on-pixel-slate-insights-and-evaluations/"><u>The Troubles with Chrome OS on Pixel Slate - Insights and Evaluations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-saving-your-sanity-and-your-project-fcp-best-practices/"><u>Updated 2024 Approved Saving Your Sanity (and Your Project) FCP Best Practices</u></a></li>
+</ul></div>
 

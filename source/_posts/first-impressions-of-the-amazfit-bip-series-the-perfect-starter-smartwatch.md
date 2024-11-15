@@ -1,7 +1,7 @@
 ---
 title: First Impressions of the Amazfit BiP Series – The Perfect Starter Smartwatch?
-date: 2024-08-22T17:41:29.413Z
-updated: 2024-08-23T17:41:29.413Z
+date: 2024-11-13T19:10:19.734Z
+updated: 2024-11-14T21:54:23.778Z
 categories:
   - BestProducts
 description: This Article Describes First Impressions of the Amazfit BiP Series – The Perfect Starter Smartwatch?
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/LeiiqUTsAWY9noKtce0-vGYdvI8=/400x300/fi
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
  Lifewire / Andrew Hayward
@@ -41,11 +38,15 @@ thumbnail: https://www.lifewire.com/thmb/LeiiqUTsAWY9noKtce0-vGYdvI8=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
  Lifewire / Andrew Hayward
@@ -72,6 +73,13 @@ thumbnail: https://www.lifewire.com/thmb/LeiiqUTsAWY9noKtce0-vGYdvI8=/400x300/fi
 
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Pretty awkward**
 
  The Netgear’s Nighthawk AX8 Wi-Fi 6 Mesh Extender is not only the largest and heaviest Wi-Fi extender I’ve tested at 10 inches tall and nearly two pounds, but it’s also one of the oddest-looking. It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward. Also, the little plastic feet don’t do a great job of supporting the weight, making it a bit wobbly on a flat surface.
@@ -81,8 +89,12 @@ thumbnail: https://www.lifewire.com/thmb/LeiiqUTsAWY9noKtce0-vGYdvI8=/400x300/fi
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Avoid the app**
 
  The setup options for the Netgear Nighthawk AX8 are the same as with Netgear’s other extenders—even those without Wi-Fi 6 support. You’ll begin with the extender plugged in near your router. If your router supports[WPS](https://www.lifewire.com/what-is-wps-4842308) , then you can pair the extender with it easily by following the process listed in the included booklet, which is as simple as pressing a button on the router and then doing the same on the extender.
@@ -111,9 +123,6 @@ thumbnail: https://www.lifewire.com/thmb/LeiiqUTsAWY9noKtce0-vGYdvI8=/400x300/fi
 
  Given the high max speeds, it wasn’t surprising to see strong gaming performance, as well. While playing Rocket League, I saw smooth gameplay across the wired Ethernet connection as well as both wireless networks, with a ping as low as 33 via the wired connection. The wireless ping was only a few points higher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
  Lifewire / Andrew Hayward
@@ -124,19 +133,12 @@ thumbnail: https://www.lifewire.com/thmb/LeiiqUTsAWY9noKtce0-vGYdvI8=/400x300/fi
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
 
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
  Both of these Netgear Nighthawk Wi-Fi extenders will set you back $200 or more, and the key difference between them—aside from design—is the Wi-Fi 6 compatibility of the Nighthawk AX8\. The Nighthawk X6S (see on[Amazon](https://www.amazon.com/NETGEAR-Wi-Fi-Range-Extender-EX8000/dp/B074F3M2W8/?tag=lifewire-onsite-prod-20&ascsubtag=4846125%7Cn35b11b2c61b54fa1a2d951691d1a61ed04%7C) ) doesn’t have that, but it does deliver excellent 5GHz range and has four Gigabit Ethernet ports for wired devices. The Nighthawk AX8 is more future-proof as a result, but at a greater cost that becomes increasingly difficult to justify the higher, it climbs.
@@ -146,6 +148,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  **Only for early adopters with Wi-Fi 6 routers and devices.**
 
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -164,8 +173,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +180,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-8-capture-tools-without-lag/"><u>[New] Leading 8 Capture Tools Without Lag</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-distinguished-samsung-galaxy-s10-a-quintessential-premium-smartphone-experience/"><u>A Closer Look at the Distinguished Samsung Galaxy S10: A Quintessential Premium Smartphone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordability-meets-functionality-an-in-depth-look-at-the-hp-stream-14-laptop-with-limitations/"><u>Affordability Meets Functionality: An In-Depth Look at the HP Stream 14 Laptop with Limitations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-comfort-in-wireless-headphones-senso-buds/"><u>Affordable Comfort in Wireless Headphones - Senso Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722976462725-affordable-laptop-ventilation-for-your-device-check-out-the-topmate-c3amator-review/"><u>Affordable Laptop Ventilation for Your Device? Check Out the TopMate C3amator Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-mpos-apple-computers-upgraded-fedora-linux-available-excluding-the-lone-exception-insights/"><u>All mPOS Apple Computers Upgraded: Fedora Linux Available, Excluding the Lone Exception Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-macbook-pro-13-inch-m1-2020-review-a-new-cpu-changes-the-game/"><u>Apple MacBook Pro 13-Inch (M1, 2020) Review: A New CPU Changes the Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beantechs-bitwatch-s1-plus-in-focus-a-compelling-look-at-an-economical-smartwatch-choice/"><u>Beantech's Bitwatch S1 Plus in Focus – A Compelling Look at an Economical Smartwatch Choice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dirt-5-crashing-effective-remedies-to-ensure-smooth-gaming-experience-on-pc/"><u>Dirt 5 Crashing: Effective Remedies to Ensure Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevating-content-strategy-with-effective-youtube-partnerships/"><u>In 2024, Elevating Content Strategy with Effective YouTube Partnerships</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>In 2024, Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-drones-key-parts-for-peak-performance/"><u>Mastering Drones Key Parts for Peak Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-m14-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy M14 4G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nostalgia-on-screen-step-by-step-for-image-to-video-conversion-for-2024/"><u>Nostalgia on Screen Step-by-Step for Image to Video Conversion for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-connect-your-apple-homepod-to-the-tv-an-easy-guide/"><u>Simple Steps to Connect Your Apple HomePod to the TV: An Easy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-process-for-clearing-out-gmail-inbox-on-the-go/"><u>Ultimate Step-by-Step Process for Clearing Out Gmail Inbox on the Go</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yakuza-like-a-dragon-review/"><u>Yakuza: Like A Dragon Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yearly-breakdown-best-in-class-auto-compasses/"><u>Yearly Breakdown: Best-in-Class Auto Compasses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yearly-roundup-affordable-cameras/"><u>Yearly Roundup: Affordable Cameras</u></a></li>
+</ul></div>
 

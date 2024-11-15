@@ -1,7 +1,7 @@
 ---
 title: Get More for Less with the Powerful and Economic Arcshell AR-5 Reviewed Here!
-date: 2024-08-22T17:44:48.119Z
-updated: 2024-08-23T17:44:48.119Z
+date: 2024-11-07T17:59:20.958Z
+updated: 2024-11-14T22:23:02.947Z
 categories:
   - BestProducts
 description: This Article Describes Get More for Less with the Powerful and Economic Arcshell AR-5 Reviewed Here!
@@ -37,11 +37,15 @@ Lifewire / Todd Braylor
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Garmin Forerunner 45
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/o718az7uF1ea0o2yiaw0vFBeQvU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-HeroSquare-2cc58de569434b0fa44a3c79eb0c1777.jpg)
 
 Lifewire / Todd Braylor
@@ -68,16 +72,10 @@ Lifewire / Todd Braylor
 
  Despite a heavy focus on running, walkers, hikers and bike riders will also get plenty out of this watch as it includes specific sport modes for each activity. In addition to a host of 'widgets' to track your daily fitness like heart rate, step counting, and calorie counting, the FR45 offers more advanced tools like on-screen workouts with the adaptive Garmin Coach training plans for racing various distances.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/oA3-JLbM6PIUG83S2eDF63Qprhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-02-2ae60f7c5a5345ccad8649eadf02637c.jpg)
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Charge, sync, and go**
 
  The Garmin Forerunner 45 is easy and quick to set up. Download the Garmin Connect app on your phone or tablet (available in the Apple App Store or Google Play Store) and you can easily sync it to the watch.
@@ -91,8 +89,12 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Traditional digital watch design with all-day comfort**
 
  Featuring a simple circular watch design and basic rubber wristband, the FR45 looks natural and feels sporty—it’s more understated than flashy. You could certainly wear this watch in a professional setting, but it does not exude the formal or super tech-savvy aesthetic that many smartwatches do these days.
@@ -103,9 +105,6 @@ Lifewire / Todd Braylor
 
  The wristband is made of a flexible silicone material and has a lightly textured exterior side, while the interior side of the band (against your skin) is smooth. Thanks to its comfortable band and smaller overall size, it’s can be worn overnight to get 24/7 heart rate data and sleep monitoring.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/nHZkcIXB7C8qBgrCAwhmdxoMV0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-03-b3713bbdd0f244b889d434fbe17613b7.jpg)
 
  Lifewire / Todd Braylor
@@ -130,22 +129,23 @@ Lifewire / Todd Braylor
 
  Garmin Coach can also adjust itself based on performance metrics like heart rate and V02 max to either push you if you’re improving or dial things back if you're going too hard.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery: Long battery life for days of activity or races**
 
  The Garmin Forerunner 45 has a rechargeable lithium battery that can last up to seven days in normal watch mode and up to 13 hours continuously when in GPS mode.
 
  13 hours in GPS mode means the FR45 won't die on you in the middle of a marathon, 50K, or possibly even longer races. During our testing process, we found the battery life lasted about four days with daily training runs, all of which lasted around 45 minutes. The FR45 charges back up to 100% in about an hour’s time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/n0CH4Oi-eCGFGFAbYCvyN1zYh5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-05-60bd2ccaf84c4b588407fb69ec57cf39.jpg)
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Minimal graphics with widgets in place of apps**
 
  The FR45 has a minimal OS and the visuals of the display are quite basic. The screen is always on and the simple graphics are designed for high visibility when you are on the move and working out, which is ideal for checking your progress during exercise. The display feels very utilitarian and the graphics do exactly what they intend to do: tell you the info you need to know without any distractions.
@@ -159,6 +159,13 @@ Lifewire / Todd Braylor
  The FR45 has a few safety features, including incident detection and safety alerts. Incident detection can tell if you fall while running or crash on your bike and can send an emergency message to a predetermined emergency contact.
 
  The safety alert is similar, allowing you to send a preset alert message with your location as a follow link to a designated emergency contact. But unlike incident detection, the safety alert is sent manually and designed to be used any time you find yourself in a potentially unsafe situation while out running or biking. Both of these features require that your smartphone is within Bluetooth range.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Training essentials for a decent price**
 
@@ -189,8 +196,12 @@ Lifewire / Todd Braylor
  The Garmin Forerunner 45 is streamlined to provide all your core training features at a good price. It is definitely geared towards runners and relies pretty heavily on a smartphone connection for its more advanced features. But if you are looking for a reliable GPS watch to help you train—and you don't want to spend too much—the Forerunner 45 is worth considering.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Amazfit Bip](https://www.lifewire.com/amazfit-bip-review-4773112)
@@ -223,8 +234,6 @@ Lifewire / Todd Braylor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +241,22 @@ Lifewire / Todd Braylor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-audiopiece-recorder-guide-installation-and-test/"><u>[New] AudioPiece Recorder Guide Installation & Test</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guidance-to-youtube-music-mix/"><u>2024 Approved Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upload-tunes-with-images-digitally/"><u>2024 Approved Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-ultimate-selection-of-bodycams/"><u>Expert Picks: The Ultimate Selection of Bodycams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-selected-illustrator-tablets-for-professionals/"><u>Expertly Selected Illustrator Tablets for Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-bluetooth-features-in-m06-audio-tech/"><u>Exploring Bluetooth Features in M06 Audio Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-barnes-and-nobles-new-giant-the-nook-glowlight-plus-review/"><u>Exploring the Features of Barnes & Noble’s New Giant: The Nook GlowLight Plus Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-ring-vs-nest-smart-doorbells/"><u>Head-to-Head Comparison: Ring vs Nest Smart Doorbells</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-6-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 6 Plus Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-nikon-a10-stunning-images-with-tricky-interface/"><u>Inexpensive Nikon A10: Stunning Images with Tricky Interface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inspect-your-online-material-a-comprehnensive-strategy-for-web-page-previews-before-publishing/"><u>Inspect Your Online Material: A Comprehnensive Strategy for Web Page Previews Before Publishing</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/title-personalizing-icon-gaps-on-modern-and-vintage-winoses/"><u>Title: Personalizing Icon Gaps on Modern & Vintage WinOSes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F14 5G Phone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/triumph-in-educations-freedom-journey/"><u>Triumph in Education's Freedom Journey</u></a></li>
+</ul></div>
 

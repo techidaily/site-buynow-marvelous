@@ -1,7 +1,7 @@
 ---
 title: "Review of Fallout: The New Wasteland Chapter 2 (Director's Cut) – A Captivating RPG Experience Unveiled"
-date: 2024-08-22T17:39:41.468Z
-updated: 2024-08-23T17:39:41.468Z
+date: 2024-11-13T00:56:17.919Z
+updated: 2024-11-15T07:25:17.683Z
 categories:
   - BestProducts
 description: "This Article Describes Review of Fallout: The New Wasteland Chapter 2 (Director's Cut) – A Captivating RPG Experience Unveiled"
@@ -37,11 +37,15 @@ Lifewire / Fred Meyer
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear AC1200 Wireless WiFi Range Extender (EX6200)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/ypwoGr7PKp9XOfm_EgF2BsvzZkg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4043312-1-5c924aa1c9e77c0001e11e41.jpg)
 
 Lifewire / Fred Meyer
@@ -68,9 +72,6 @@ Lifewire / Fred Meyer
 
  We spent a week testing it, evaluating the design, ease of setup, network performance, and software.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: A router’s aesthetics**
 
  The red-and-black color scheme of the EX6200 makes it look more like something out of Netgear's Nighthawk line rather than their standard series of extenders. It has a more premium feel than most extenders, and it's refreshing compared to the boring white plug-in boxes that house the majority of its peers.
@@ -88,8 +89,18 @@ Lifewire / Fred Meyer
  For example, our[router](https://www.lifewire.com/what-is-a-router-2618162) sits in the living room entertainment center against one wall. On the opposite side of the wall sits an entertainment center in our bedroom. Now, we could run an Ethernet cord around the wall, through the bedroom door, and to the entertainment center, which would be around 60 feet or so, or we could drill through the wall and install an Ethernet socket. However, with the EX6200 we didn’t have to do either. Since it's right on the other side of the wall, we can set up the EX6200 and get the full signal to hardwire our TV,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and Xbox One, which gives better speed and reliability than if we used them with WiFi-only.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: A familiar process**
 
  Getting the EX6200 up and running is the same process used with pretty much every wireless extender on the market. Pull the thing out of the box, plug it in within 10-15 feet of your Wi-Fi router, and hit the WPS button. Then head over to your router and hit the corresponding WPS button on it. Voila! You're good to go.
@@ -98,15 +109,25 @@ Lifewire / Fred Meyer
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/Lny9pSzLcp1hItabWfQAbx8cAoc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-2-5c924b5846e0fb0001f8d14a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Fred Meyer
 
  Once you've got that taken care of, you'll have to find the best place for your extender's new home. If you're trying to improve the signal or hardwire something 25 feet away from your router or less, just plop it down in the area and you should be good to go. For further distances, you'll need to use a bit more finesse. Place the extender halfway between the router and the area you're trying to extend your Wi-Fi. Then you can check the light on top that shows the status of the connection between the extender and the router. Red is bad, yellow is mediocre, and green is good. If you've got a green, head over to the previously dead Wi-Fi area and check your network.
 
  If you've followed the above steps and your Wi-Fi connection is strong, you're good-to-go and you can start living your life with the Wi-Fi coverage you always knew you deserved. Otherwise, you'll have to shuffle the extender either closer to the dead zone or closer to the router until you find the sweet spot.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Netgear magic**
 
  The Netgear EX6200 doesn't require any special software installation. If you need to access the interface, you just need to be connected to it in some manner, either through Wi-Fi or Ethernet, and you can open the control panel in a browser. You can access the extender by either using the local address (<www.mywifiext.net>) or via the device's IP.
@@ -119,11 +140,6 @@ Lifewire / Fred Meyer
 
 Lifewire / Fred Meyer
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## **Connectivity: Hardwire everything**
 
  The Netgear AC1200 Wireless WiFi Range Extender (EX6200) has dual-band Wi-Fi, boasting two antennas. It transmits and receives on the 2.4GHz and 5GHz bands and is compatible with Wi-Fi b/g/n/ac devices. The EX6200 is pretty run-of-the-mill when it comes to wireless connectivity, and its AC1200 rating (300Mbps+900Mbps) puts it roughly in the mid-range category. It's not a speed demon, but it's more than adequate for most applications.
@@ -138,16 +154,17 @@ The powerful video editing program for your Windows PC</a>
 
  If you have a wired connection to the internet, but no spare router, you can use the EX6200 in Access Point mode and it'll allow you to connect via Wi-Fi. However, unlike a router, it doesn't have a built-in DHCP server (Dynamic Host Configuration Protocol which provides an[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) ) so you'll still need a device that can handle that task somewhere in your network.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/ZHlEjP4KLtEcUqCvuXTg1eZBnFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-3-5c924c8f46e0fb0001770187-2a10c24af5834857aeb7b4cfcd1cc6a9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Fred Meyer
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## **Network Performance: Adequate but not spectacular**
 
  Again, the EX6200 is a mid-range unit with a great design and a few bonuses, so don't buy it thinking you're going to get high-end performance. We found the unit performed adequately, but didn't exceed expectations. Most of the time, the EX6200 hovered around 500 to 700 Mbps up to the 50 feet mark. By the time we had reached 75 feet that speed had more than halved to 200-250 Mbps. At 85-90 feet the speed had dropped to 50 to 70 Mbps and we started experiencing intermittent disconnects.
@@ -174,13 +191,17 @@ Lifewire / Fred Meyer
 
  If you're in the market for an extender, the EX6200 is one of our favorites. It doesn't excel in any category, but it does everything it’s designed to do well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Eero Pro Mesh Wi-Fi System](https://www.lifewire.com/eero-pro-mesh-wi-fi-system-review-4797008)
 * [TP-Link AC1200 RE305](https://www.lifewire.com/tp-link-ac1200-wifi-range-extender-re305-review-4589559)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -202,14 +223,11 @@ Lifewire / Fred Meyer
 * Number of Wired Ports  Five
 * Range  85 Feet Maximum
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,4 +236,16 @@ Lifewire / Fred Meyer
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-night-mode-magic-with-iphone-cameras/"><u>[Updated] Night Mode Magic with iPhone Cameras</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-viewing-experience-with-1byone-digitals-premium-indoor-hd-antenna-reviewed/"><u>Boost Your Viewing Experience with 1ByOne Digital's Premium Indoor HD Antenna Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevating-home-decor-auras-touch-on-modern-frames/"><u>Elevating Home Decor: Aura's Touch on Modern Frames</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-addressing-and-repairing-crash-issues-in-the-mass-effect-legendary-edition/"><u>Expert Advice: Addressing and Repairing Crash Issues in the Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-performance-battery-jumpstarters-2024/"><u>High-Performance Battery Jumpstarters, 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-how-to-add-text-to-photos-on-windows-and-mac/"><u>In 2024, How to Add Text to Photos on Windows and Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-charming-voice-alteration-methods-to-lighten-up-telephone-dialogues/"><u>New In 2024, 10 Charming Voice Alteration Methods to Lighten Up Telephone Dialogues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speed-up-your-data-transfer-quick-download-for-usb-rs232-drivers/"><u>Speed Up Your Data Transfer - Quick Download for USB RS232 Drivers!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-midland-gxt1000vp4-unveiled-a-comprehensive-review-on-exceptional-sound-communication/"><u>The Midland GXT1000VP4 Unveiled: A Comprehensive Review on Exceptional Sound Communication</u></a></li>
+</ul></div>
 
