@@ -1,7 +1,7 @@
 ---
 title: "Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers"
-date: 2024-10-23T04:25:29.697Z
-updated: 2024-10-30T08:39:20.313Z
+date: 2024-11-17T17:32:22.357Z
+updated: 2024-11-24T17:29:14.070Z
 tags:
   - games
   - tv
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ![Steam Deck Desktop Mode with the Application Launcher menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-02-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open Konsole, pull up the virtual keyboard by pressing the X button, type the following:
 
 thumbstick_cal
@@ -51,15 +55,16 @@ thumbstick_cal
 
 ![Steam Deck thumbstick recalibration tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-03.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now follow instructions to complete the calibration process. Firstly, let go of both sticks and press the A button. Next, tap the taskbar at the bottom of the desktop so that your cursor is out of focus of the Konsole window, and then rotate both joysticks 360 degrees two times, tap on the Konsole window to get back into focus, and press the A button again. That’s it.
 
  Now you can return to Game Mode and test the affected stick.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Increase the Joystick Deadzone in Game Mode
@@ -73,10 +78,7 @@ thumbstick_cal
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
@@ -87,29 +89,12 @@ thumbstick_cal
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clean the Affected Thumbstick With Compressed Air or Contact Cleaner
@@ -165,19 +150,24 @@ thumbstick_cal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-100-instagram-captions-to-show-yourself-to-the-world-filmora/"><u>[New] 100 Instagram Captions to Show Yourself to the World - Filmora</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-the-art-of-backup-phones-camera-roll-upload-to-social-apps/"><u>[New] 2024 Approved Master the Art of Backup Phone's Camera Roll Upload to Social Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>[Updated] How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-quickvision-w11-simple-desktop-capture-tool/"><u>[Updated] In 2024, QuickVision W11 Simple Desktop Capture Tool</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1724766467237-dvd/"><u>「カーナビ用DVDの視聴可能なフォーマットと再生失敗時の解決策」</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-gym-music-lineup/"><u>2024'S Ultimate Gym Music Lineup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-breakdown-of-the-microsoft-sculpt-ergonomic-keyboards-unbeatable-price-to-performance-ratio/"><u>A Breakdown of the Microsoft Sculpt Ergonomic Keyboard's Unbeatable Price-to-Performance Ratio</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/achieving-gaming-excellence-with-the-xbox-one-elite-series-2-the-pinnacle-of-gamepad-performance-reviewed/"><u>Achieving Gaming Excellence with the Xbox One Elite Series 2 - The Pinnacle of Gamepad Performance Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compatibility-check-can-the-nintendo-switch-play-netflix-shows-and-movies/"><u>Compatibility Check: Can The Nintendo Switch Play Netflix Shows and Movies?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-splitcams-rated-or-not-in-2024/"><u>Cutting-Edge SplitCams Rated or Not, In 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cyber-health-solutions-for-modern-medicine-for-2024/"><u>Cyber-Health Solutions for Modern Medicine for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96192723-9781620558560-the-mystery-of-the-grail/"><u>The Mystery of the Grail | Free Book</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-an-in-depth-review-of-the-performance-driven-dell-xps-nt-13-foldable-notebook/"><u>Unveiling the Pros and Cons: An In-Depth Review of the Performance-Driven Dell XPS N't 13 Foldable Notebook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-strong-battery-feature-in-moto-g-power-a-tech-review-insight/"><u>Unveiling the Strong Battery Feature in Moto G Power: A Tech Review Insight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-game-changer-2-ways-to-elevate-your-tiktok-video-creations-using-filmora/"><u>[New] 2024 Approved The Game Changer 2 Ways to Elevate Your TikTok Video Creations Using Filmora</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-understanding-du-recorder-through-this-guide/"><u>[New] Understanding Du Recorder Through This Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-expert-tips-for-documenting-computer-speakers-and-mics/"><u>[Updated] In 2024, Expert Tips for Documenting Computer Speakers & Mics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-text-to-slide-show-perfection-creating-presentations-with-chatgpt/"><u>From Text to Slide Show Perfection: Creating Presentations with ChatGPT</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo K11 5G Bootloader Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-timeless-telephony-a-compilation-of-calls/"><u>In 2024, Timeless Telephony A Compilation of Calls</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovating-your-fb-experience-with-stunning-video-covers/"><u>Innovating Your FB Experience with Stunning Video Covers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-wireless-with-linksys-velop-a-top-tier-router-assessment/"><u>Navigating the World of Wireless with Linksys Velop: A Top-Tier Router Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigational-brilliance-car-gps-tracks-rated/"><u>Navigational Brilliance: Car GPS Tracks Rated</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/protect-your-iphone-with-the-finest-antivirus-programs-a-selection-of-6-superior-options/"><u>Protect Your iPhone with the Finest Antivirus Programs - A Selection of 6 Superior Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rev-up-your-home-entertainment-system-with-the-blazingly-quick-amazon-fire-tv-cube/"><u>Rev up Your Home Entertainment System with the Blazingly Quick Amazon Fire TV Cube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-stanley-j5c09-big-in-size-efficient-in-performance/"><u>Review of Stanley J5C09: Big in Size, Efficient in Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalizing-your-laptop-a-cpu-upgrade-exploration/"><u>Revitalizing Your Laptop: A CPU Upgrade Exploration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-in-one-wearable-in-depth-review-of-fitbit-versa-2s-health-and-smart-integrations/"><u>The All-in-One Wearable: In-Depth Review of Fitbit Versa 2'S Health & Smart Integrations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ambient-ws-2902a-osprey-weather-station-an-economical-powerhouse-brimming-with-features/"><u>The Ambient WS-2902A Osprey Weather Station: An Economical Powerhouse Brimming With Features!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-aukey-usb-30-hub-unveiled-sleek-functional-and-superior-transfer-speeds-reviewed/"><u>The Aukey USB 3.0 Hub Unveiled: Sleek, Functional, and Superior Transfer Speeds Reviewed</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-videopad-video-editor-review-should-you-buy-it/"><u>Updated The Ultimate Videopad Video Editor Review Should You Buy It?</u></a></li>
 </ul></div>
 

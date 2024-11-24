@@ -1,7 +1,7 @@
 ---
 title: "Kensun Portable Tire Inflator Review: Sturdy, Reliable, and Portable"
-date: 2024-11-11T00:11:36.585Z
-updated: 2024-11-15T08:51:22.450Z
+date: 2024-11-17T16:03:45.832Z
+updated: 2024-11-24T20:05:12.065Z
 categories:
   - BestProducts
 description: "This Article Describes Kensun Portable Tire Inflator Review: Sturdy, Reliable, and Portable"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -37,21 +41,16 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -76,13 +75,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -105,18 +97,15 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
 
@@ -157,10 +146,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -188,24 +174,17 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-be-the-game-changer-xbox-one-screen-recording-mastery/"><u>[New] Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-master-download-manager-facebook-and-firefox-edition-tools/"><u>[Updated] In 2024, Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-essential-tutorial-on-using-instagram-filters/"><u>[Updated] The Essential Tutorial on Using Instagram Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcasters-guide-to-the-10-finest-mic-options/"><u>2024 Approved Podcaster's Guide to the 10 Finest Mic Options</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-vip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 VIP Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-chucklecrafts-create-meme-delight/"><u>In 2024, ChuckleCrafts Create Meme Delight</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1127053-9781612830223-out-of-body-exploring/"><u>Out-of-Body Exploring | Free Book</u></a></li>
-<li><a href="https://article-tips.techidaily.com/quieten-system-sounds-on-pc-and-mac-devices/"><u>Quieten System Sounds on PC and Mac Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-budget-friendly-point-and-shoot-fz53-review/"><u>The Budget-Friendly Point & Shoot: FZ53 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-future-proof-iphone-trade-in-get-new/"><u>The Future-Proof iPhone: Trade In, Get New</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-boosting-your-blog-income-through-buyselladscom-advertising/"><u>The Ultimate Guide to Boosting Your Blog Income Through buySellAds.com Advertising</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-gotrax-gxl-v2-electric-scooter-built-for-speed-and-city-living/"><u>The Ultimate Guide to the Gotrax GXL V2 Electric Scooter: Built for Speed and City Living</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-tips-for-transforming-videos-into-engaging-animated-gifs/"><u>Top 10 Tips for Transforming Videos Into Engaging Animated GIFs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-review-of-google-nest-wi-fi-high-speed-effortless-mesh-setup-and-connectivity/"><u>Top Review of Google Nest Wi-Fi: High-Speed, Effortless Mesh Setup and Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-xp-pens-advanced-16-pro-drawing-monitor-features-benefits-and-more/"><u>Top Reviews for XP-Pen's Advanced 16 Pro Drawing Monitor: Features, Benefits & More</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-optical-drive-models/"><u>Top-Ranking Optical Drive Models</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-yuva-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Yuva 3 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-ring-video-doorbell-2-top-smart-home-security-device/"><u>Ultimate Guide to Ring Video Doorbell 2 - Top Smart Home Security Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-kids-camera-companion-for-aquatic-exploration/"><u>Ultimate Kids' Camera Companion for Aquatic Exploration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-innovative-strategies-for-capturing-live-lectures-a-mac-centric-approach/"><u>[New] In 2024, Innovative Strategies for Capturing Live Lectures A Mac-Centric Approach</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-8-best-sketch-tools-for-digital-illustrators/"><u>[Updated] 2024 Approved The 8 Best Sketch Tools for Digital Illustrators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-ai-written-content-spotting-fake-texts/"><u>Beware of AI-Written Content: Spotting Fake Texts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-combination-of-affordability-and-quality-in-the-google-pixel-5-smartphone-review/"><u>Exploring the Combination of Affordability and Quality in the Google Pixel 5 Smartphone Review</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-n55frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo N55FRP Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/propel-your-world-with-freshly-launched-wins11-games/"><u>Propel Your World with Freshly-Launched Wins11 Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-chattips-to-curb-anxiety/"><u>Strategic ChatTips to Curb Anxiety</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-update-leading-chinese-flash-storage-company-boasts-equal-durability-between-qlc-and-tlc-nand-variants/"><u>Tech Update: Leading Chinese Flash Storage Company Boasts Equal Durability Between QLC and TLC NAND Variants</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-perks-how-digital-comics-on-tablets-triumph-over-paper-editions/"><u>Unveiling the Perks: How Digital Comics on Tablets Triumph over Paper Editions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/us-launch-of-tivo-television-units-scheduled-for-spring-season/"><u>US Launch of TiVo Television Units Scheduled for Spring Season</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/valves-steam-machine-anticipating-its-impressive-comeback/"><u>Valve's Steam Machine: Anticipating Its Impressive Comeback!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vinyl-and-film-reels-assessing-the-investment-potential-of-laserdiscs-versus-vhs-tapes-for-collectors/"><u>Vinyl and Film Reels: Assessing the Investment Potential of LaserDiscs Versus VHS Tapes for Collectors</u></a></li>
 </ul></div>
 

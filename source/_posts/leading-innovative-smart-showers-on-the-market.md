@@ -1,7 +1,7 @@
 ---
 title: Leading Innovative Smart Showers on the Market
-date: 2024-11-11T08:13:22.493Z
-updated: 2024-11-15T00:15:59.565Z
+date: 2024-11-20T20:12:02.148Z
+updated: 2024-11-24T20:17:00.710Z
 tags:
   - buying-guides
 categories:
@@ -34,6 +34,11 @@ Best Smart Shower for Tracking Water Usage
 * [](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41aohmawapl-_sl160_.jpg)  
 #####  Moen TS3304BL U Shower Controller with S3104 U Shower Valve  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Smart Shower Complete Kit  
 [See at amazon](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/Showerhead-Bluetooth-Rechargeable-Portable-K-28238-GKA-CP/dp/B08SHKWB3Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)  
@@ -46,13 +51,6 @@ Best Smart Shower for Alexa
 #####  Grohe 29137000 Grohtherm Dual Function Smart Thermostatic Trim  
 Best Smart Shower for Custom Sprays  
 [See at amazon](https://www.amazon.com/GROHE-29137000-Grohtherm-Smartcontrol-Thermostatic/dp/B085LW5TXL?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What to Look for in a Smart Shower in 2024
 
@@ -75,23 +73,9 @@ Best Smart Shower for Custom Sprays
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Smart Shower Overall: [Moen TS3302TB Smart Shower Controller](https://www.amazon.com/dp/B01MY07CZG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Moen Smart Shower Controller in shower](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/moen-smart-shower.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Moen
 
@@ -123,6 +107,10 @@ The Moen TS3302TB Smart Shower works with Alexa and Google Assistant, and enable
 
 [See at amazon](https://www.amazon.com/dp/B01MY07CZG?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Smart Shower for Tracking Water Usage: [Hai Smart Shower Head](https://www.amazon.com/hai-Installation-Charcoal-2-5-GPM/dp/B0BKK5LMPP?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Hai smart shower on pink and yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/Hai-smart-shower-head.jpg) 
@@ -149,6 +137,10 @@ Hai
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Smart Shower for Tracking Water Usage
 
 #####  Hai Smart Shower Head 
@@ -160,13 +152,6 @@ Track your water usage on your smartphone and set limits on your water consumpti
 ##  Best Smart Shower Complete Kit: [Moen TS3304BL U Shower Controller with U Shower Valve](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Moen Smart Shower setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/moen-ts3304BL.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Meon
 
@@ -189,10 +174,7 @@ Meon
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41aohmawapl-_sl160_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -205,9 +187,17 @@ Enjoy the benefits of a complete smart shower setup, including voice and app con
 
 [See at amazon](https://www.amazon.com/Moen-TS3304BL-Connected-Bathroom-Controller/dp/B07QF65NVS?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Smart Shower for Alexa: [Kohler Moxie Alexa Enabled Showerhead](https://www.amazon.com/Showerhead-Bluetooth-Rechargeable-Portable-K-28238-GKA-CP/dp/B08SHKWB3Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Person setting up Kohler smart shower](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/kohler-moxie-smart-shower-head.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Kohler
 
@@ -230,10 +220,7 @@ Kohler
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/41nt9ms-cdl-_sl160_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -249,6 +236,10 @@ With its magnetic IPX7 waterproof Alexa enabled Bluetooth speaker, the Kohler Mo
 ##  Best Smart Shower for Custom Spray Settings: [Grohe Grohtherm Smart Thermostatic Trim with Control Module](https://www.amazon.com/GROHE-29137000-Grohtherm-Smartcontrol-Thermostatic/dp/B085LW5TXL?tag=hotoge-20&ascsubtag=UUhtgUeUpU227997&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F897341%2Fbest-smart-showers%2F&asc%5Fcampaign=Commerce) 
 
 ![Grohe thermo controller on grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/grohe-smart-shower-head.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grohe
 
@@ -273,10 +264,7 @@ Grohe
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Smart Shower for Custom Sprays 
@@ -302,24 +290,20 @@ Customize water temperature and spray settings across three outlets, and combine
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-8-proven-video-growth-enhancers/"><u>[New] In 2024, Top 8 Proven Video Growth Enhancers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pixelpress-mastering-the-art-of-screen-recording/"><u>[Updated] 2024 Approved 'PixelPress' Mastering the Art of Screen Recording</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-save-photo-from-video-in-windows-10-photos-app/"><u>[Updated] 2024 Approved How to Save Photo From Video in Windows 10 Photos App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-whatsapps-secret-capabilities-for-efficiency/"><u>[Updated] 2024 Approved Unlocking WhatsApp's Secret Capabilities for Efficiency</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-teaching-tech-trends-the-elite-10-audio-visual-recorders-for-classrooms-for-2024/"><u>[Updated] Teaching Tech Trends The Elite 10 Audio-Visual Recorders for Classrooms for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/integrating-internet-access-into-your-home-cinema-experience-a-step-by-step-guide/"><u>Integrating Internet Access Into Your Home Cinema Experience: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-pro-7-review-solid-performance-refresh-but-no-big-changes/"><u>Microsoft Surface Pro 7 Review: Solid Performance Refresh, But No Big Changes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-to-xiaomi-converter-convert-mkv-for-xiaomi-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Xiaomi converter - convert MKV for Xiaomi </u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-severe-weather-with-expert-reviews-of-2024s-top-storm-tracker-apps/"><u>Navigating Severe Weather with Expert Reviews of 2024'S Top Storm Tracker Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-truecaller-an-expert-review-for-better-understanding/"><u>Navigating Truecaller: An Expert Review for Better Understanding</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/patek-fly-12-tripod-review-your-versatile-partner/"><u>Patek Fly 12 Tripod Review - Your Versatile Partner</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pre-purchase-tips-for-your-next-tv-recorder/"><u>Pre-Purchase Tips for Your Next TV Recorder</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-listening-experience-the-rotibox-wireless-beanie-hat-unveiled/"><u>Revolutionize Your Listening Experience - The Rotibox Wireless Beanie Hat Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rise-and-shine-with-heimvisions-sunrise-alarm-an-in-depth-look-at-the-a80s-model/"><u>Rise and Shine with HeimVision's Sunrise Alarm - An In-Depth Look at the A80S Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sleek-and-smart-the-ultimate-guide-to-the-taotronics-tt-dl16-stylish-led-solution/"><u>Sleek & Smart: The Ultimate Guide to the TaoTronics TT-DL16 Stylish LED Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-fastest-wireless-solution-a-comprehensive-review-of-the-netgear-nighthawk-rax120/"><u>The Fastest Wireless Solution? A Comprehensive Review of the Netgear Nighthawk RAX120</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-updating-broadcoms-gigabit-ethernet-driver-on-your-windows-11-pc/"><u>Troubleshooting Guide: Updating Broadcom's Gigabit Ethernet Driver on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-asmr-insights-harnessing-soundscapes-for-slumber-for-2024/"><u>[Updated] ASMR Insights Harnessing Soundscapes for Slumber for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mp4mpeg-audio-extraction-tool/"><u>[Updated] In 2024, MP4/MPEG Audio Extraction Tool</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transformative-techniques-podcast-covers-reimagined/"><u>[Updated] In 2024, Transformative Techniques Podcast Covers Reimagined</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-def-streaming-cameras-for-social-media-giants/"><u>2024 Approved High-Def Streaming Cameras for Social Media Giants</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Realme .</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/quick-photovideo-recovery-on-snapchat/"><u>Quick Photo/Video Recovery on Snapchat</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-transform-your-stereo-into-a-51-channel-audio-system/"><u>Steps to Transform Your Stereo Into a 5.1 Channel Audio System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-full-potential-a-detailed-evaluation-of-samsungs-feature-rich-gear-s3-frontier/"><u>Uncovering the Full Potential: A Detailed Evaluation of Samsung's Feature-Rich Gear S3 Frontier</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-secrets-of-the-amazfit-helio-ring-price-launch-info-and-complete-gadget-insights/"><u>Unlock the Secrets of the Amazfit Helio Ring - Price, Launch Info, and Complete Gadget Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-power-of-preview-on-your-mac-an-essential-image-editing-tutorial/"><u>Unlocking the Power of Preview on Your Mac: An Essential Image Editing Tutorial</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-benefits-of-choosing-the-x-chair-xe-executive-desk-chair-for-your-office-needs/"><u>Unveiling The Powerful Benefits of Choosing The X-Chair Xe Executive Desk Chair For Your Office Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/urban-armor-defender-for-macbook-pro-review-of-a-sturdy-and-functional-laptop-protector/"><u>Urban Armor Defender for MacBook Pro – Review of a Sturdy and Functional Laptop Protector</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/while-ipv6-is-designed-with-ipsec-support-actual-implementation-may-vary-security-measures-should-not-solely-rely-on-protocol-design-assumptions/"><u>While IPv6 Is Designed with IPsec Support, Actual Implementation May Vary; Security Measures Should Not Solely Rely on Protocol Design Assumptions.</u></a></li>
 </ul></div>
 

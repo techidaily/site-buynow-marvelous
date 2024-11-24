@@ -1,7 +1,7 @@
 ---
 title: "The Classy Rivalry: Skagen Falster 2 Vs. Apple's Mobile Monarchs Reviewed"
-date: 2024-08-27T10:35:02.078Z
-updated: 2024-08-28T10:35:02.078Z
+date: 2024-11-21T16:13:34.516Z
+updated: 2024-11-24T16:29:18.967Z
 categories:
   - BestProducts
 description: "This Article Describes The Classy Rivalry: Skagen Falster 2 Vs. Apple's Mobile Monarchs Reviewed"
@@ -14,13 +14,11 @@ thumbnail: https://thmb.techidaily.com/a0507e17ed881794538b9389fa94e191219e441e5
 5
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Urban Armor Gear UAG MacBook Pro 13-inch Laptop Case
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/FNlfCYB_21wFeQmfHx1o2Di2Jmc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4153328-1-7cd2eca904ca419e9039c9fdcbdfbbcd.jpg)
 
 Lifewire / Hayley Prokos
@@ -46,9 +44,6 @@ Lifewire / Hayley Prokos
 
 ## Urban Armor Gear UAG MacBook Pro 13-inch Laptop Case
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/FtpULeJDToDCBy6PB_Y8rD7mqOg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4153328-1-7cd2eca904ca419e9039c9fdcbdfbbcd.jpg)
 
 Lifewire / Hayley Prokos
@@ -78,9 +73,6 @@ Lifewire / Hayley Prokos
 
  Lifewire / Hayley Prokos
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Rugged looks**
 
  The UAG MacBook Pro 13-inch Laptop Case blows the competition out of the water in terms of sturdiness. When you look at this product, you see a thick, rubber-and-plastic frame that actually stands a chance of saving your delicate[MacBook](https://www.lifewire.com/best-laptops-to-buy-4043650) from a drop. A lot of budget cases feel cheap and flimsy both on and off of the laptop, but the UAG Laptop Case is more substantial.
@@ -97,20 +89,12 @@ Lifewire / Hayley Prokos
 
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/8sq4AYsbhOuB90hMOUtdeXMcaFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4153328-2-5987a4064c7a4932a172493350ec5000.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: A one-time deal**
 
  On the UAG website, you’ll find a YouTube video designed to guide users through the installation of the case. You should watch it before installing it yourself in order to avoid scratching or otherwise damaging your MacBook Pro.
@@ -119,6 +103,10 @@ Lifewire / Hayley Prokos
 
  Beware of the fact that getting the case off is much harder than getting it on the computer. This product is for those who are sure they want something with this kind of protection and who love the rugged design, and for those who aren’t inclined to take the case off regularly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Tough and reliable**
 
  Once you’ve installed the UAG MacBook Pro 13-inch[Laptop Case](https://www.lifewire.com/best-laptop-cases-and-sleeves-to-buy-4074109) , the case is, by all appearances, impervious and impact-resistant. The sturdy appearance is backed by a military drop test rating (the case is advertised to have endured 25 drops from 4 feet high with no damage). The extra protection neither compromises the ventilation nor access to the ports.
@@ -126,6 +114,10 @@ Lifewire / Hayley Prokos
  The only hassle we encountered when testing usability was the snap closure, which is great for keeping your laptop shut in transit but difficult to pry open when trying to use your computer.
 
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/9Y7LLmqrhHo_Pbzks49nRtjt4ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4153328-4-49105513ae5d4a97ac284ce462185b5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Hayley Prokos
 
@@ -138,8 +130,9 @@ Lifewire / Hayley Prokos
  We dropped the case from standing height on a variety of surfaces … and it sustained virtually no damage (a few superficial scratches at most).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: A small sum to pay to protect such expensive hardware**
 
  The Urban Armor Gear MacBook Pro 13-Inch Laptop Case retails for $79.95, which is definitely on the more expensive end of the spectrum for a laptop case. But if you are taking your laptop into rugged conditions or you’re simply accident-prone, we think $80 seems a fair amount to pay to keep your far-more-pricey MacBook safe.
@@ -164,9 +157,6 @@ Lifewire / Hayley Prokos
 * [Twelve South BookBook V2 MacBook Case](https://www.lifewire.com/twelve-south-bookbook-v2-macbook-case-review-4689949)
 * [Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/fintie-protective-case-for-macbook-pro-13-review-4689944)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  UAG MacBook Pro 13-inch Laptop Case
@@ -185,8 +175,6 @@ Lifewire / Hayley Prokos
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +182,23 @@ Lifewire / Hayley Prokos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/imperator-rome-overview-balancing-imperial-ambition-with-potential-downfall/"><u>'Imperator: Rome' Overview - Balancing Imperial Ambition with Potential Downfall</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-behind-the-scenes-how-to-remove-background-in-picsart/"><u>[Updated] 2024 Approved Behind the Scenes How to Remove Background in Picsart</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-precision-cinematography-ideal-lenses-for-digital-storytellers/"><u>[Updated] In 2024, Precision Cinematography Ideal Lenses for Digital Storytellers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-maximize-your-listening-experience-ios-podcast-mastery/"><u>[Updated] Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/battle-of-the-e-readers-ipad-kinged-and-nook-face-off/"><u>Battle of the E-Readers: IPAD, KINGED & NOOK Face Off</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-guide-to-installing-newest-logitech-g403-mouse-drivers-on-pc/"><u>Easy Guide to Installing Newest Logitech G403 Mouse Drivers on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-addressing-and-resolving-error-code-0x80070652-during-windows-updates/"><u>Expert Advice on Addressing and Resolving Error Code 0X80070652 During Windows Updates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-x5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco X5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-prime-insta-tunes-locator-a-guide-to-premium-sound-sets/"><u>In 2024, Prime Insta Tunes Locator A Guide to Premium Sound Sets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-turning-your-instagram-movies-inside-out/"><u>In 2024, Turning Your Instagram Movies Inside Out</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-game-time-with-the-mavix-m9-review-a-champions-seat-for-epic-sessions/"><u>Master Your Game Time with the Mavix M9 Review – A Champion's Seat for Epic Sessions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-modern-connectivity-a-deep-dive-into-the-best-open-source-router-experience-unlocking-potential-with-the-linksys-wrt3200acm/"><u>Mastering Modern Connectivity: A Deep Dive Into The Best Open-Source Router Experience - Unlocking Potential With the Linksys WRT3200ACM</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722873138340-reviewing-the-mighty-xbox-series-s-ultimate-performance-fits-snugly/"><u>Reviewing the Mighty Xbox Series S – Ultimate Performance Fits Snugly</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-encyclopedia-for-interpreting-facebook-icons-and-emojis/"><u>The Ultimate Encyclopedia for Interpreting Facebook Icons and Emojis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-online-stores-ranked-finding-the-ideal-place-to-buy-your-next-tv/"><u>Top 6 Online Stores Ranked: Finding the Ideal Place to Buy Your Next TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-the-premier-steam-deck-games-of-2023-you-cant-miss/"><u>Ultimate List: The Premier Steam Deck Games of 2023 You Can't Miss</u></a></li>
+</ul></div>
 

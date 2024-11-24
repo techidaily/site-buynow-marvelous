@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2024-10-23T09:13:02.841Z
-updated: 2024-10-30T00:04:53.538Z
+date: 2024-11-21T17:32:13.261Z
+updated: 2024-11-24T20:19:15.984Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Menu Themes](https://fox-blue.techidaily.com/2024-approved-race-away-slow-motion-on-your-android-device/)
@@ -23,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  Although the PlayStation 5 was initially criticized for lacking many useful features seen in its predecessor, the console has gradually added these features via software updates. Despite this, PS5 owners are still waiting for the return of a few notable PS4 features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Menu Themes 
 
  One of the most highly requested features among PlayStation 5 owners is menu themes. If you weren't happy with the standard blue background of the PlayStation 4's home menu, you had the option to change it using a theme.
@@ -37,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  Themes added a new background image, but many also changed the music, menu icons, and sound effects. These themes could be downloaded from the PlayStation Store, earned from certain games and demos, or [customized with your own pictures](https://vimeo-videos.techidaily.com/clip-of-fame-vimeo-quick-look/).
 
 ![A custom theme on the PlayStation 4 home menu based on "Xenoblade Chronicles X."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-custom-theme.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, the PlayStation 5 doesn't support themes at all. Any themes you own on your PS4 will be left behind when upgrading to the PS5, including those you paid for or received alongside certain games. The lack of themes is one of the most disappointing aspects of the PS5 for many console owners, but there are a few reasons for their omission.
 
@@ -46,16 +47,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![Game details for Stranger of Paradise: Final Fantasy Origin on PlayStation 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-stranger-of-paradise-details-page.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Much like the PS4's themes, the detail pages feature unique backgrounds and music for each game. As such, there are fewer opportunities to see the standard background on the PS5 than there were PS4, which makes the inclusion of themes far less important for the PS5.
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Update History 
 
@@ -66,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The PlayStation 4's update history page for World of Final Fantasy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-update-history-world-of-final-fantasy.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
@@ -81,16 +76,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
@@ -134,19 +120,22 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-leading-4k-gaming-pcs-top-ten-selection/"><u>[New] 2024 Approved Leading 4K Gaming PCs - Top Ten Selection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>[Updated] In 2024, Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-transformative-techniques-to-enhance-your-powerpoint-recordings/"><u>2024 Approved Transformative Techniques to Enhance Your PowerPoint Recordings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gaming-experience-with-razers-innovative-wi-fi-accessory-comprehensive-insights/"><u>Elevate Your Gaming Experience with Razer's Innovative Wi-Fi Accessory: Comprehensive Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-ultimate-multisport-companion-insights-on-the-garmin-forerunner-745-tracker/"><u>Evaluating the Ultimate Multisport Companion: Insights on the Garmin Forerunner 745 Tracker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-luxury-at-a-fraction-of-price-with-petcubes-hd-petcam/"><u>Experience Luxury at a Fraction of Price with Petcube's HD Petcam</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-kootek-portable-desktop-air-cooler-a-top-selection-for-every-user/"><u>Expert Analysis on Kootek Portable Desktop Air Cooler - A Top Selection for Every User</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-midland-gxt1000vp4-ensures-clear-connections-for-professionals-and-enthusiasts/"><u>Expert Review: Midland GXT1000VP4 Ensures Clear Connections for Professionals and Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expertly-selected-best-pc-sound-card-reviews-what-to-buy/"><u>Expertly Selected Best PC Sound Card Reviews - What to Buy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-your-creations-elite-resin-3d-printers-to-watch/"><u>Futureproof Your Creations: Elite Resin 3D Printers to Watch</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Phone Screen?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-turkish-learning-an-essential-phonetics-guidebook/"><u>Jumpstart Your Turkish Learning: An Essential Phonetics Guidebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-impact-with-customized-youtube-end-screen-templates-for-2024/"><u>Maximize Impact with Customized YouTube End Screen Templates for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/set-up-canon-mx870-on-win-10-7-and-8/"><u>Set up Canon MX870 on Win 10, 7, & 8</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elite-videography-the-top-tools-for-youtube-content/"><u>[New] 2024 Approved Elite Videography The Top Tools For YouTube Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-simplified-youtube-auto-subscribe-url-for-2024/"><u>[New] Crafting a Simplified YouTube Auto-Subscribe URL for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-recorded-tones-the-iphone-voicemail-keeper-for-2024/"><u>[New] Recorded Tones The iPhone Voicemail Keeper for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-spotlight-on-stories-crafting-three-effective-highlights/"><u>[Updated] 2024 Approved Spotlight on Stories Crafting Three Effective Highlights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-frame-rate-dilemma-30-vs-60-fps-in-video-production-for-2024/"><u>[Updated] Frame Rate Dilemma 30 Vs. 60 FPS in Video Production for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-mobile-and-desktop-video-player/"><u>Best Mobile and Desktop Video Player</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-d-links-powerline-2000-user-friendly-setup-and-swift-networking/"><u>The Ultimate Guide to D-Link's Powerline 2000: User-Friendly Setup and Swift Networking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-elegant-and-clever-samsung-un65ru8000fxza-televisor/"><u>The Ultimate Review of the Elegant & Clever Samsung UN65RU8000FXZA Televisor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-apples-latest-4k-streaming-device-gen-3-model/"><u>The Ultimate Verdict on Apple's Latest 4K Streaming Device, Gen 3 Model</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-power-upgrades-for-os-x-and-win-with-srt-systems-for-2024/"><u>Top 10 Power Upgrades for OS X and Win with SRT Systems for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-smartwatch-models-dominating-2024/"><u>Top-Ranking Smartwatch Models Dominating 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/travel-and-snapshots-made-wonderful-with-g9x-mark-ii/"><u>Travel & Snapshots Made Wonderful with G9X Mark II</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-d-link-powerline-adapter-plk-p8e-quick-installation-high-speed-performance/"><u>Ultimate Guide to D-Link Powerline Adapter (PLK-P8E): Quick Installation, High-Speed Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultraportable-powerhouse-in-depth-analysis-of-the-predator-300-se/"><u>Ultraportable Powerhouse: In-Depth Analysis of the Predator 300 SE</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-prime-day-offers-exclusive-apple-bargains/"><u>Unbeatable Prime Day Offers: Exclusive Apple Bargains</u></a></li>
 </ul></div>
 

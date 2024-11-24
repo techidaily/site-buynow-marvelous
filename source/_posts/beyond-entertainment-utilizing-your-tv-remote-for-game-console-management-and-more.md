@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2024-10-22T16:39:32.610Z
-updated: 2024-10-29T18:08:33.132Z
+date: 2024-11-19T19:22:36.408Z
+updated: 2024-11-24T17:06:08.996Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 ---
 
 ## Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  You can scroll through menus, browse streaming services and even control the volume of what you're watching from the comfort of your couch just like you would a TV. If you have multiple devices in your media repertoire, however, you can go even further and set up a system where your devices will turn on and display themselves on your screen automatically.
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Ultimate Solution: HDMI-CEC
 
@@ -39,16 +51,13 @@ Jordan Gloor / How-To Geek
 
 ![Labelled HDMI inputs on the back of a television.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
 
@@ -58,23 +67,9 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Console
 
@@ -85,6 +80,10 @@ Jason Fitzpatrick / How-To Geek
  On the PlayStation 5, navigate to the console's HDMI settings under Settings > System > HDMI, where you should find an option called "Enable HDMI Device Link." You can also turn on "One-Touch Play" to make your PS5 automatically boot up and switch to the proper input upon turning on your TV and "Power Off Link" to make it enter rest mode when your TV shuts off.
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
@@ -107,13 +106,6 @@ Jason Fitzpatrick / How-To Geek
  Apple TV users can always just use their packed-in remote control or [the companion iPhone app](https://ai-video-tools.techidaily.com/vn-video-editor-android-app-is-it-worth-downloading-for-2024/), but for others, any Bluetooth-enabled remote will work just fine. If you're looking for affordable options, an Amazon Fire TV remote is easy to get your hands on, or the PlayStation TV remote, both of which are compatible with Bluetooth devices.
 
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -138,20 +130,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-sharpen-your-iphone-hdri-discover-the-top-4-fixes-for-premiere-pro-professionals/"><u>[New] Sharpen Your iPhone HDRI Discover the Top 4 Fixes for Premiere Pro Professionals</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-digital-leaders-the-top-10-online-video-recorder-apps-for-2024/"><u>[Updated] Digital Leaders The Top 10 Online Video Recorder Apps for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-lineup-a-ranking-of-the-best-computer-brands-on-earth/"><u>2024'S Elite Lineup: A Ranking of the Best Computer Brands on Earth</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-choices-a-detailed-comparison-of-superior-ups-battery-backups/"><u>2024'S Top Choices: A Detailed Comparison of Superior UPS Battery Backups</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-selection-of-compact-and-efficient-laptop-charger-accessories/"><u>2024'S Top Selection of Compact and Efficient Laptop Charger Accessories</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-v29e-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo V29e to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-audiophiles-ally-oneplus-buds-analysis/"><u>Affordable Audiophile's Ally: OnePlus Buds Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2010-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2010 document online</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-lava-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Lava .</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-dynamics-a-thorough-appraisal-of-the-maxoak-185wh50k-mah-battery-bank-for-tech-enthusiasts/"><u>Unveiling the Power Dynamics: A Thorough Appraisal of the MaxOak 185Wh/50k mAh Battery Bank for Tech Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-from-beginner-to-pro-the-ultimate-selection-of-8-high-performing-daw-platforms-for-recording-mixing-and-mastering-success/"><u>Updated In 2024, From Beginner to Pro The Ultimate Selection of 8 High-Performing DAW Platforms for Recording, Mixing, and Mastering Success</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/when-should-i-consider-an-update-is-now-ideal-for-windows-11/"><u>When Should I Consider an Update: Is Now Ideal for Windows 11?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-online-interactions-master-microsoft-teams-snap/"><u>[New] 2024 Approved Elevate Your Online Interactions Master Microsoft Teams Snap</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-5-next-level-editors-to-transcend-the-standard-youtube-videos/"><u>[Updated] 2024 Approved 5 Next-Level Editors to Transcend the Standard Youtube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-can-a-128gb-drive-handle-huge-video-files/"><u>2024 Approved Can a 128GB Drive Handle Huge Video Files?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-summary-17-preferred-apps-for-quick-photo-editing/"><u>2024 Approved Expertise Summary 17 Preferred Apps for Quick Photo Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-no-fee-visual-aids/"><u>2024 Approved Navigating the World of No-Fee Visual Aids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/download-pc-sound-logger-x-recorder-app/"><u>Download Pc Sound Logger - X-Recorder App</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-and-value-of-the-tp-link-archer-a9-your-guide-to-a-budget-friendly-high-performance-router/"><u>Exploring the Features and Value of the TP-Link Archer A9 - Your Guide to a Budget-Friendly High-Performance Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-samsung-galaxy-a20-is-this-budget-phone-a-steal/"><u>Exploring the Features of the Samsung Galaxy A20 – Is This Budget Phone a Steal?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-syma-19a64mrc-an-economical-rc-helicopter-journey/"><u>Exploring the Skies with Syma 19A64MRC - An Economical RC Helicopter Journey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-unmatched-value-to-enhanced-performance-discover-the-remarkable-upgrades-in-apples-newest-102-inch-ipad-our-complete-review/"><u>From Unmatched Value to Enhanced Performance: Discover the Remarkable Upgrades in Apple's Newest 10.2 Inch iPad - Our Complete Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-battle-apple-tv-4k-versus-roku-ultra-features-reviewed/"><u>Head-to-Head Battle: Apple TV 4K Versus Roku Ultra Features Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hulus-partners-beyond-amazon-firetv/"><u>Hulu's Partners Beyond Amazon FireTV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-topmate-c302-portable-laptop-chiller-economical-yet-powerful-solution/"><u>In-Depth Assessment of the TopMate C302 Portable Laptop Chiller: Economical yet Powerful Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-urban-armor-macbook-pro-case-striking-the-balance-between-protection-and-practicality/"><u>In-Depth Review of Urban Armor MacBook Pro Case: Striking the Balance Between Protection and Practicality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-apple-vision-pro-worth-its-price-consider-these-points/"><u>Is the Apple Vision Pro Worth Its Price? Consider These Points</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-forces-in-creativity-creating-a-successful-duet-on-tiktok/"><u>Join Forces in Creativity: Creating a Successful Duet on TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-failed-payment-errors/"><u>Overcoming Steam's Failed Payment Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-external-monitor-not-responding-in-windows-os/"><u>Resolving External Monitor Not Responding in Windows OS</u></a></li>
 </ul></div>
 

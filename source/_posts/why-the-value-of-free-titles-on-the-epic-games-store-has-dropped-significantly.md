@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2024-10-25T19:36:53.545Z
-updated: 2024-10-30T01:38:51.855Z
+date: 2024-11-18T19:59:13.934Z
+updated: 2024-11-24T20:20:34.764Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Games Aren't What They Used to Be
 
  When the Epic Games Store launched its free games initiative, it captivated gamers by giving away blockbuster titles such as _Pathfinder: Kingmaker_, _Civilization VI_, and _Mirror's Edge_. These are high-quality, well-known games that Epic hopes would attract a broad audience. Even for [beginner PC gamers](https://tech-revival.techidaily.com/ethical-study-habits-sidestepping-chatgpt-misuse/), this was a big deal.
@@ -29,16 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
@@ -46,16 +47,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Game Saturation, or Having Too Much To Play
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8BitDo
 
@@ -65,16 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -87,10 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The EGS has a long way to go before becoming as usable as storefronts like Steam. But the approach of offering weekly free games is paying off in some ways.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  There Are Some Benefits to This Approach
@@ -126,24 +118,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[New] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-content-game-with-these-powerful-youtube-shortcuts-for-2024/"><u>[Updated] Elevate Your Content Game with These Powerful YouTube Shortcuts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-guide-to-scheduling-and-recording-online-meetings-with-slack-and-filmora/"><u>[Updated] The Complete Guide to Scheduling & Recording Online Meetings with Slack & Filmora</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/4-ways-to-set-up-your-youtube-talking-head-shots/"><u>4 Ways To Set Up Your YouTube Talking-Head Shots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advancing-your-yi-action-recordings-with-top-accessories-for-2024/"><u>Advancing Your YI Action Recordings with Top Accessories for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-movie-watching-10-options-similar-to-netflix-without-the-fee/"><u>Affordable Movie Watching: 10 Options Similar to Netflix Without the Fee</u></a></li>
-<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reliable-budget-friendly-option-cheetah-dual-arm-assessment/"><u>Reliable Budget-Friendly Option: Cheetah Dual Arm Assessment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-order-visual-savings-secured/"><u>Restored Order: Visual Savings Secured</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-v30-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo V30 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-linksys-ea9500-experience-high-performance-internet-gateway-with-smart-connectivity/"><u>The Linksys EA9500 Experience: High-Performance Internet Gateway with Smart Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pinnacle-of-audio-our-list-of-excellent-wired-earbuds/"><u>The Pinnacle of Audio: Our List of Excellent Wired Earbuds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-the-toshiba-55lf711u20-why-its-a-game-changer-for-loyal-amazon-prime-members/"><u>The Ultimate Guide to Using the Toshiba 55LF711U20: Why It's a Game-Changer for Loyal Amazon Prime Members</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-the-newly-released-fitbit-charge-amoled-watch-tracker/"><u>The Ultimate Verdict on the Newly Released Fitbit Charge Amoled Watch Tracker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-steam-deck-titles/"><u>Top 10 Must-Play Steam Deck Titles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-romer-solar-powered-flashlights-the-ultimate-guide/"><u>Top Romer Solar-Powered Flashlights - The Ultimate Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-gateway-devices/"><u>Top-Rated Wireless Gateway Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-your-next-tablet-why-the-apple-ipad-pro-2018-leads-the-pack/"><u>Ultimate Guide to Choosing Your Next Tablet: Why the Apple iPad Pro 2018 Leads the Pack</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-exploring-the-features-a-comprehensive-review-of-the-samsung-qn55q60rafxza-4k-tv-with-hdr10plus-technology/"><u>Unboxing and Exploring the Features: A Comprehensive Review of the Samsung QN55Q60RAFXZA 4K TV with HDR10+ Technology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-effective-measures-to-block-pesky-video-ads-online/"><u>[New] 2024 Approved Effective Measures to Block Pesky Video Ads Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense-for-2024/"><u>[New] A Look at Earnings Understanding Your Monthly Income From YouTube's AdSense for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-essential-tips-for-fisheye-360-photography/"><u>[New] In 2024, Essential Tips for Fisheye 360 Photography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-your-content-delivery-insights-on-igtv-and-youtube/"><u>[Updated] In 2024, Mastering Your Content Delivery Insights on IGTV and YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleash-the-potential-of-your-webcam-for-slideshows/"><u>[Updated] Unleash the Potential of Your Webcam for Slideshows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-legality-of-capturing-and-reproducing-youtube-video-playbacks/"><u>2024 Approved Legality of Capturing and Reproducing YouTube Video Playbacks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-optimizing-your-content-aspect-ratios-explained-for-youtube-users/"><u>2024 Approved Optimizing Your Content Aspect Ratios Explained for YouTube Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-fashion-and-exercise-synergy-in-amazfit-gts-watch-review/"><u>Exploring Fashion & Exercise Synergy in Amazfit GTS Watch Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-cost-effective-apple-watch-s-a-comprehensive-overview-and-assessment/"><u>Exploring the Cost-Effective Apple Watch S: A Comprehensive Overview and Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/flexispots-theodore-standing-desk-a-blend-of-style-and-ergonomic-design-for-professionals/"><u>Flexispot's Theodore Standing Desk: A Blend of Style and Ergonomic Design for Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fortnites-exciting-return-a-comprehensive-analysis-of-the-latest-season/"><u>Fortnite's Exciting Return: A Comprehensive Analysis of the Latest Season</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gps-vs-cellular-the-ultimate-guide-to-choosing-your-apple-watch/"><u>GPS Vs. Cellular – The Ultimate Guide To Choosing Your Apple Watch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhance-live-broadcast-quality-with-streamlabs-obs-tips/"><u>In 2024, Enhance Live Broadcast Quality with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-acer-predator-triton-300se-the-compact-powerhouse-with-remarkable-bargain/"><u>In-Depth Analysis of Acer Predator Triton 300SE - The Compact Powerhouse with Remarkable Bargain</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-lenovo-ideapad-notebook-solid-construction-with-fundamental-functions/"><u>In-Depth Analysis of the Lenovo Ideapad Notebook: Solid Construction with Fundamental Functions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-appraisal-of-the-apple-homepod-mini-a-deep-dive-on-music-streaming-siri-interactions-and-extra-benefits/"><u>In-Depth Appraisal of the Apple HomePod Mini - A Deep Dive on Music Streaming, Siri Interactions & Extra Benefits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-hp-zbook-firefly-15-g8-evaluation-a-portable-powerhouse/"><u>In-Depth HP ZBook Firefly 15 G8 Evaluation: A Portable Powerhouse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unboxing-the-future-of-fitness-trackers-with-the-apple-watch-series-8-release-date-features-and-price-insight/"><u>Unboxing the Future of Fitness Trackers with the Apple Watch Series 8 – Release Date, Features & Price Insight</u></a></li>
 </ul></div>
 

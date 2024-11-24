@@ -1,7 +1,7 @@
 ---
 title: "Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive"
-date: 2024-10-24T00:00:41.539Z
-updated: 2024-10-30T00:21:56.849Z
+date: 2024-11-23T19:04:51.299Z
+updated: 2024-11-24T16:33:51.637Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ---
 
 ## Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Highlights
 
@@ -30,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![A PlayStation 5 DualSense controller with mini keypad connected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6258.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -47,10 +48,7 @@ Tim Rattray / How-To Geek
  It didn’t need to be this way. The DualSense’s speaker is located below its touchpad and therefore isn’t obfuscated by this device. While this won’t seem like an important flaw to many gamers, it makes the keypad feel distractingly cheap every time sounds are played (something common for _Final Fantasy XIV_, the most popular game that benefits from a Bluetooth keyboard).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Not Entirely Useless
@@ -62,10 +60,7 @@ Tim Rattray / How-To Geek
 ![Bottom of a clip-on controller keypad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6259.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -75,10 +70,7 @@ Tim Rattray / How-To Geek
  Lastly, it’s neat that the keys light up in case you’re gaming in the dark, something applicable to me as I game on [an OLED television](https://youtube-webster.techidaily.com/-views-via-strategic-tagging-tactics/) so the darker the room the better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stick to Standard Bluetooth Keyboards
@@ -102,14 +94,17 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] In 2024, Taming Echoes Syncing Voices to OBS Channel</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skillful-tactics-for-procuring-image-archives/"><u>[Updated] Skillful Tactics for Procuring Image Archives</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/chromecast-vs-roku-face-off-which-device-wins-the-streaming-war/"><u>Chromecast Vs. Roku Face-Off: Which Device Wins the Streaming War?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-innovation-awaits-exploring-the-features-of-the-hp-stream-11/"><u>Compact Innovation Awaits: Exploring the Features of the HP Stream 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/configuring-your-personal-nintendo-account-on-the-handheld-gaming-system-3ds/"><u>Configuring Your Personal Nintendo Account on the Handheld Gaming System, 3DS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/constructing-urban-dreams-in-depth-review-of-the-captivating-city-builder-cities-skylines/"><u>Constructing Urban Dreams: In-Depth Review of the Captivating City-Builder, Cities: Skylines</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-ace-2-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus Ace 2 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-visionary-4k-cameras-leading-brands-a-to-z-top-18/"><u>In 2024, Visionary 4K Cameras Leading Brands A-to-Z (Top 18)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/why-stellar-repair-for-video-doesnt-work-properly-on-some-of-my-files/"><u>Why Stellar Repair for Video Doesn’t Work Properly on Some of My Files?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-creative-potential-with-top-rated-gif-makers/"><u>[New] In 2024, Unlocking Creative Potential with Top-Rated GIF Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astery-in-minimalism-essential-thumbnail-font-selection-for-2024/"><u>[New] Mastery in Minimalism Essential Thumbnail Font Selection for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fb-videos-to-audible-pleasures-online-mp3-creation-secrets/"><u>[Updated] 2024 Approved FB Videos to Audible Pleasures Online MP3 Creation Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-80s-movie-marathon-the-ultimate-guide/"><u>Essential '80S Movie Marathon: The Ultimate Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267216303-expert-phone-rescue-software-for-ios-devices-secure-your-data-instantly/"><u>Expert Phone Rescue Software for iOS Devices – Secure Your Data Instantly!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-elite-selection-of-police-body-cameras-available/"><u>Exploring the Elite Selection of Police Body Cameras Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-mobvoi-ticwatch-pro-4g-a-comprehensive-review-for-tech-enthusiasts/"><u>Exploring the Mobvoi Ticwatch Pro 4G: A Comprehensive Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-versa-3-the-ultimate-motivational-companion-with-inbuilt-gps-for-health-enthusiasts/"><u>Fitbit Versa 3: The Ultimate Motivational Companion with Inbuilt GPS for Health Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gimp-multiplatform-editor-an-in-depth-free-software-appraisal-for-graphic-designers/"><u>GIMP Multiplatform Editor: An In-Depth Free Software Appraisal for Graphic Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/globalization/"><u>Globalization</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-enabling-high-dynamic-range-auto-hdr-on-windows-11/"><u>Step-by-Step Guide to Enabling High Dynamic Range (Auto HDR) on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-achieve-official-verification-badge-on-instagram/"><u>Ultimate Guide: Steps to Achieve Official Verification Badge on Instagram</u></a></li>
 </ul></div>
 

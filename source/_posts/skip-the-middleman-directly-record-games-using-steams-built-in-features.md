@@ -1,7 +1,7 @@
 ---
 title: Skip the Middleman – Directly Record Games Using Steam's Built-In Features
-date: 2024-10-28T00:14:45.075Z
-updated: 2024-10-29T19:03:01.387Z
+date: 2024-11-17T19:15:07.829Z
+updated: 2024-11-24T16:46:24.517Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Skip the Middleman – Directly Record Games Using Steam's Built-In Features
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best screen recorders can be expensive, while free ones put an ugly watermark on your recordings. That's where Steam's built-in recorder comes in. It lets you record gameplay for both Steam games and games that aren't on Steam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Set Up Steam's Recording Feature
 
  Steam's gameplay recording feature is currently in beta. Before you start using it, you will need to opt in and turn it on. To do this, connect your device to the internet and open the Steam client. Then, click the "Steam" option in the top-left corner and choose "Settings."
@@ -43,17 +51,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Restart Now option in the Steam client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/restart-now-option-in-the-steam-client.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Steam's Recording Feature to Record Steam Games
@@ -70,22 +68,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Disk Space  Consumption of the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disk-space-consumption-of-the-steam-client.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also add a timeline marker, [record audio](https://win11-tips.techidaily.com/leveraging-windows-11-os-the-installation-of-outlook-preview-app/), and even [take a screenshot](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) during the recording using the shortcuts you've assigned for these actions.
 
 ![Shortcut keys section in the Game Recording window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/shortcut-keys-section-in-the-game-recording-window.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, the "Record Microphone" option lets you record your system microphone's sound along with the game audio.
 
@@ -98,13 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Perhaps the coolest part about Steam's gameplay recording feature is that it works for non-Steam games, too. To set it up, open the Steam client and click the "Library" option in the top bar. In the bottom-left corner, you'll see "Add a Game." Click that and choose "Add a Non-Steam Game."
 
 ![Add a Non-Steam Game option in the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-a-non-steam-game.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the game you want to record. If it's not on the list, click "Browse," navigate to the game's installation folder, and choose the game's executable file. Finally, click "Add Selected Programs."
 
@@ -121,10 +103,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Recordings & Screenshots option in the Steam Client.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/recordings-screenshots-option-in-the-steam-client.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This window will display all your captured screenshots and gameplay recordings made with Steam's recording feature. When you play a recording, the window will show markers on the timeline for any screenshots you took or markers you added during the recording.
@@ -133,15 +112,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Timeline marker in Steam recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/timeline-marker-in-steam-recording.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you didn't create markers, go to the desired starting point for your clip and click the "Clip" option in the bottom right corner. Next, use the clip slider to choose the ending point of your clip.
 
 ![Clip option in the Steam recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clip-option-in-the-steam-recording.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're happy, click the "Save/Share" option. This will give you different ways to use the clip you just created. You can also choose "Export Video File" option to save the clip directly to your computer.
@@ -173,24 +153,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>[New] Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-5-free-youtube-video-editor-apps-for-apple-users/"><u>[Updated] 2024 Approved Top 5 Free YouTube Video Editor Apps for Apple Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/craft-your-content-uniquely-with-openais-tailored-gpt/"><u>Craft Your Content Uniquely with OpenAI’s Tailored GPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/echoes-and-effects-auditory-enhancement-for-imovie/"><u>Echoes & Effects Auditory Enhancement for iMovie</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/find-your-perfect-signal-best-wifi-routers-for-maximum-coverage-2e24-lineup/"><u>Find Your Perfect Signal: Best WiFi Routers for Maximum Coverage - 2E24 Lineup</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-intel-hd-graphics-520-driver/"><u>Free Intel HD Graphics 520 Driver</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/g9-x-ii-camera-a-nostalgic-journey-for-the-present/"><u>G9 X II Camera – A Nostalgic Journey for the Present</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-amazon-echo-show-10-gen-3-revealed-innovative-roaming-features-for-your-space/"><u>In-Depth Amazon Echo Show 10 (Gen 3) Revealed: Innovative Roaming Features for Your Space</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-apple-watch-series-6-refined-enhancements-maintaining-its-top-position/"><u>In-Depth Look at the Apple Watch Series 6 - Refined Enhancements Maintaining Its Top Position</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-why-the-fujitsu-scansnap-ix1400-is-a-game-changer-for-home-office-efficiency-and-smb-productivity/"><u>In-Depth Review: Why the Fujitsu ScanSnap iX1400 Is a Game Changer for Home Office Efficiency & SMB Productivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-and-high-performance-review-for-the-philips-hf3520-digital-alarm-clock/"><u>Inexpensive and High-Performance Review for the Philips HF3520 Digital Alarm Clock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/innovative-scanner-selection-for-professional-and-personal-use/"><u>Innovative Scanner Selection for Professional & Personal Use</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-or-samsung-galaxy-an-ultimate-comparison-for-your-next-purchase/"><u>IPhone or Samsung Galaxy: An Ultimate Comparison for Your Next Purchase</u></a></li>
-<li><a href="https://win-special.techidaily.com/kopieren-von-datensatzen-in-microsoft-sql-server-vergleich-zweier-effektiver-strategien/"><u>Kopieren Von Datensätzen in Microsoft SQL Server - Vergleich Zweier Effektiver Strategien</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-cable-modem-and-wifi-router-packages-for-2n4-a-2024-guide/"><u>Leading Cable Modem & WiFi Router Packages for 2N4: A 2024 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-remedy-for-win-11-store-failures-code-x00000000/"><u>Swift Remedy for Win 11 Store Failures: Code X00000000</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-oled-laptop-picks-comprehensive-reviews-and-tests-by-tech-gurus/"><u>Top-Rated OLED Laptop Picks - Comprehensive Reviews and Tests by Tech Gurus</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-inaccessible-printer-network/"><u>Troubleshooting: Inaccessible Printer Network</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives-for-2024/"><u>Updated VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlocking-success-with-spotify-marketing-tips/"><u>[New] Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-collection-of-ae-plugins-unveiled/"><u>[Updated] The Premier Collection of AE Plugins Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-avoid-watermarks-in-stock-purchases/"><u>2024 Approved How To Avoid Watermarks in Stock Purchases</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y02t-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y02T Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/windows-11usb-m2-ssd/"><u>专业指南：使用Windows 11全面擦除USB M.2 SSD的安全方法</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-connectivity-woes-discover-6-fixes-for-seamless-transition-between-all-apple-devices/"><u>AirPods Connectivity Woes? Discover 6 Fixes for Seamless Transition Between All Apple Devices!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-fortnites-voice-chat-problems-instantly-effective-and-easy-methods-inside/"><u>Fix Fortnite's Voice Chat Problems Instantly: Effective & Easy Methods Inside!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-printing-hp-officejet-software-update/"><u>Optimize Your Printing: HP Officejet Software Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-and-sustain-gameplay-review-of-the-most-reliable-apc-gaming-uninterruptible-power-supplies/"><u>Secure and Sustain Gameplay: Review of the Most Reliable APC Gaming Uninterruptible Power Supplies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-pet-nutrition-the-ultimate-guide-to-the-petsafe-healthy-pet-automatic-feeder/"><u>Smart Pet Nutrition: The Ultimate Guide to the PetSafe Healthy Pet Automatic Feeder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-sound-showdown-analyzing-the-features-of-google-nest-audio-against-apple-homepod/"><u>Smart Sound Showdown: Analyzing the Features of Google Nest Audio Against Apple HomePod</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/studio-lighting-hacks-top-softbox-kits-reviewed/"><u>Studio Lighting Hacks: Top Softbox Kits Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-allure-of-moderation-exploring-the-exceptional-qualities-and-power-dynamics-in-the-google-pixel-5/"><u>The Allure of Moderation: Exploring the Exceptional Qualities & Power Dynamics in the Google Pixel 5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-the-streaming-devices-which-is-superior-chromecast-or-roku/"><u>The Battle of the Streaming Devices: Which Is Superior, Chromecast or Roku?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-2024s-best-audio-equipment/"><u>The Ultimate Guide to 2024'S Best Audio Equipment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-free-hdtv-on-a-budget-experience-with-the-amazonbasics-antenna/"><u>The Ultimate Guide to Free HDTV on a Budget - Experience with the AmazonBasics Antenna</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme C33 2023? | Dr.fone</u></a></li>
 </ul></div>
 

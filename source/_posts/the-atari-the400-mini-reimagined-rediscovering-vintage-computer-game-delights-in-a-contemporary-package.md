@@ -1,7 +1,7 @@
 ---
 title: The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package
-date: 2024-10-26T01:46:27.897Z
-updated: 2024-10-30T07:31:00.934Z
+date: 2024-11-18T18:29:35.123Z
+updated: 2024-11-24T19:37:03.444Z
 tags:
   - games
   - tv
@@ -69,13 +69,6 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 ![THE400 Mini by a TV with hands holding the joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-by-a-tv-with-hands-holding-the-joystick.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bill Loguidice / How-To Geek
 
 THE400 Mini and THECXSTICK in front of a television.
@@ -83,6 +76,10 @@ THE400 Mini and THECXSTICK in front of a television.
  Atari launched the Atari 400 and 800 computers back in 1979, eventually releasing a series of relatively minor technical updates with different case designs, including the 1200XL, 600XL, and 800XL in 1983, the 65XE, 800XE, and 130XE in 1985, and the XEGS in 1987\. Atari also released a large console, the Atari 5200 SuperSystem, in 1982, that, although not directly compatible, used a similar architecture as the computer line. THE400 Mini emulates the basic functionality of all of these systems but is specifically modeled after [the Atari 400 design](https://en.wikipedia.org/wiki/Atari%5F8-bit%5Ffamily#/media/File:Atari-400-Comp.jpg).
 
 ![Showing Package Contents of cables and accessories of THE400 Mini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-package-contents.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -112,6 +109,10 @@ The rear of THE400 Mini.
 
 ![THE400 Mini Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-joystick.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
 THECXSTICK.
@@ -128,16 +129,13 @@ Close
 
  THE400 Mini supports FAT32-formatted USB sticks, although I did have to try a few different brands to find one that was properly recognized. When inserting a compatible blank USB stick, a version of the [BASIC programming language](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20BASIC) is installed. Similarly, THE400 Mini didn't like my wireless Logitech K400r keyboard but had no issues with a wired [Razer BlackWidow V3 Pro](https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B08FQPLCNC/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority). Not every key on a modern keyboard maps correctly to the Atari 8-bit keyboard layout, but using the legend on the Mini can provide some clues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Games and Gameplay: Past Blasts** 
 
 ![THE400 Mini Front with USB-A ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-front.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -168,10 +166,7 @@ Close
  Finally, if you don't like the included THECXSTICK or just want more than one controller and don't want to use another THECXSTICK, THEJOYSTICK, or THEGAMEPAD, modern Microsoft Xbox, Sony PlayStation, and Nintendo Switch controllers can be used. For instance, I was able to use an [8BitDo USB Wireless Adapter 2](https://www.amazon.com/8Bitdo-Wireless-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) with an Xbox One controller for a nice wireless option.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Should You Buy the Atari THE400 Mini?** 
@@ -183,10 +178,7 @@ Close
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  THE400 Mini
@@ -214,17 +206,18 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovative-blueprint-top-6-futuristic-mc-villas/"><u>[New] In 2024, Innovative Blueprint Top 6 Futuristic MC Villas</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-kinemasters-expert-strategies-for-video-transitions-for-2024/"><u>[New] Kinemaster's Expert Strategies for Video Transitions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smartphone-streaming-success-without-a-massive-subscriber-base/"><u>[New] Smartphone Streaming Success Without a Massive Subscriber Base</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-surging-views-selecting-best-hashtags-for-yt/"><u>[New] Surging Views Selecting Best Hashtags for YT</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/44cm44oh44k444k44or55kw5akd44kk44oh44o844k455sf5oiq44o744oq44od44kv44ki44od44ox44ks44kk44oj44cn/"><u>「デジタル環境イメージ生成・バックアップガイド」</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y56-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y56 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/intergalactic-amusement-crafting-whirlwind-joy-from-mars-crash-landings/"><u>Intergalactic Amusement: Crafting Whirlwind Joy From Mars Crash Landings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/investigating-google-for-safe-password-storage/"><u>Investigating Google for Safe Password Storage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-future-here-examining-lenovos-trailblazing-foldable-notebook-x1-fold-review/"><u>Is the Future Here? Examining Lenovo's Trailblazing Foldable Notebook: X1 Fold Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovos-latest-gem-a-detailed-review-of-the-thinkpad-x1-titanium-yoga-perfectly-blending-tradition-and-innovation/"><u>Lenovo's Latest Gem: A Detailed Review of the ThinkPad X1 Titanium Yoga, Perfectly Blending Tradition and Innovation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/macbook-pro-versus-ipad-pro-which-one-suits-your-needs-best/"><u>MacBook Pro versus iPad Pro: Which One Suits Your Needs Best?</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-axon-40-lite-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Axon 40 Lite Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-clearview-cuts-excellence-in-4k-displays-for-editing/"><u>[New] In 2024, ClearView Cuts Excellence in 4K Displays for Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-streams-optimal-webm-converters-ranked/"><u>[Updated] 2024 Approved YouTube Streams Optimal WebM Converters Ranked!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snappy-solutions-maintaining-a-vigorous-snapstreak/"><u>[Updated] In 2024, Snappy Solutions Maintaining a Vigorous Snapstreak</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transition-techniques-elevating-your-kinemaster-filmography/"><u>[Updated] Transition Techniques Elevating Your Kinemaster Filmography</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/10-most-popular-mp3-recorder-for-windows-and-mac-for-2024/"><u>10 Most Popular MP3 Recorder for Windows and Mac for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services-for-2024/"><u>Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-factors-in-finding-the-perfect-tv/"><u>Deciding Factors in Finding the Perfect TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-monoprice-artists-companion-a-comprehensive-tablet-review-on-a-shoestring-budget/"><u>Discover the Monoprice Artist's Companion: A Comprehensive Tablet Review on a Shoestring Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-experience-on-samsung-galaxy-tab-s6-a-closer-look-at-the-revolutionary-s-pen-and-dex-mode-capabilities/"><u>Discover the Ultimate Experience on Samsung Galaxy Tab S6 - A Closer Look at the Revolutionary S Pen and DeX Mode Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dominating-island-politics-strategic-insights-from-a-tropico-amooring-experience/"><u>Dominating Island Politics: Strategic Insights From a Tropico Amooring Experience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-the-performance-and-functionality-of-apples-newest-smartwatch-series-9/"><u>Expert Insights on the Performance and Functionality of Apple's Newest Smartwatch, Series 9</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-issue-how-to-speed-up-a-sluggish-pc-that-frequently-crashes/"><u>Fixing the Issue: How to Speed Up a Sluggish PC That Frequently Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model"
-date: 2024-10-29T08:04:04.022Z
-updated: 2024-10-30T02:43:55.551Z
+date: 2024-11-18T17:22:37.526Z
+updated: 2024-11-24T18:54:48.833Z
 tags:
   - games
   - tv
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, but never got around to it. Now that I have a 3D printer, I wondered how much of these craft I can just make myself, and it turns out pretty much the whole thing!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3D Printing Is Revolutionizing the RC World
 
  Serious RC aircraft people have always made their own planes, but they would carve the models by hand from light wood types or from blocks of foam. To be sure, people still do that today, but the introduction of 3D printers has opened a whole new avenue for enthusiasts to make their own craft. It also makes it easier to modify commercial RC craft, or to replace parts that may no longer be available.
@@ -22,10 +26,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  You don't have to be a canny CAD user either, since many talented tinkerers will simply make their 3D printing files available online for free, or for a fee. All you have to do is print the parts out, add additional components such as the motors, speed controllers, etc., and then glue them all together. If all goes well you should be soaring through the sky in no time, or at least having a "fun" time crashing without knowing why.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printable Gliders
@@ -37,10 +38,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  This is where I personally want to start my 3D-printed aircraft adventures, because I want to get a feel for printing the fuselages of planes, and seeing how it all works before adding control surfaces and such. There are awesome popular glider designs like the [Stable Flyer VI](https://www.printables.com/model/408967-stable-flyer-vi-small-toy-glider) and the [Super Stratos](https://www.thingiverse.com/thing:97803/files) which you can print in no time at all. Many of these are print-in-place and don't need assembly either.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printable Planes
@@ -52,10 +50,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  CNC Kitchen has this great video of how they printed and built a plane using 3D Print Labs, so you can check out the whole process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printing My First Glider
@@ -64,18 +59,15 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 
 ![A yellow 3D printed glider inside a 3D Printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-inside-a-3d-printer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  It's a simple print-in-place glider that I can knock out in about 20 minutes on my [K1 Max](https://extra-hints.techidaily.com/3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro-for-2024/), which means I can also quickly iterate and modify some stuff if needed. Printing it out in its vanilla form, you just have to fold the wings and tail flaps up a bit and you're ready to try it out.
 
 ![A yellow 3D printed glider held in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-held-in-a-person-s-hand.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -96,20 +88,18 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/a-fresh-perspective-on-watch-dogs-legion-and-its-innovative-backdrop/"><u>A Fresh Perspective on Watch Dogs: Legion and Its Innovative Backdrop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/collecting-classics-copyrights-released-for-2024/"><u>Collecting Classics Copyrights Released for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevating-images-pro-techniques-for-photography-perfection/"><u>Elevating Images Pro Techniques for Photography Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expand-your-visual-palette-in-after-effects-for-2024/"><u>Expand Your Visual Palette in After Effects for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/hangout-history-capture-and-keep/"><u>Hangout History Capture & Keep</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-flipper-websites-no-download-required/"><u>New Free Video Flipper Websites No Download Required</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sensory-overload-vr-transforming-viewing-habits-for-2024/"><u>Sensory Overload VR Transforming Viewing Habits for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/0-platforms-revolutionizing-how-you-discover-youtube-keywords-for-2024/"><u>Top 10 Platforms Revolutionizing How You Discover YouTube Keywords for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-v-purse-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor V Purse Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-features-of-the-moderate-marvel-dell-inspiron-3671-pc-review/"><u>Unpacking the Features of the Moderate Marvel - Dell Inspiron ^ 3671 PC Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-samsungs-versatile-tab-s4-for-android-enthusiasts/"><u>Unveiling the Capabilities of Samsung's Versatile Tab S4 for Android Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-most-economical-mobile-network-offers-a-top-7-list/"><u>Unveiling the Most Economical Mobile Network Offers : A Top 7 List</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722979914012-unveiling-the-performance-of-the-netgear-c3700-more-than-just-a-modem/"><u>Unveiling the Performance of the Netgear C3700 - More Than Just a Modem</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-detailed-review-of-the-185wh-50000mah-maxoak-portable-charger/"><u>Unveiling the Performance: Detailed Review of the 185Wh / 50,000mAh MaxOak Portable Charger</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/value-and-versatility-combined-in-depth-review-of-the-2019-amazon-kindle/"><u>Value and Versatility Combined: In-Depth Review of the 2019 Amazon Kindle</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-best-practices-for-exporting-youtube-videos-to-facebook/"><u>[New] In 2024, Best Practices for Exporting YouTube Videos to Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-are-there-alternatives-to-googles-ar-gems/"><u>[Updated] Are There Alternatives to Google's AR Gems?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-guide-to-masterful-mileage-in-the-ultra-realistic-visuals-of-x-plane-global-flight-simulator/"><u>A Comprehensive Guide to Masterful Mileage in the Ultra-Realistic Visuals of X-Plane Global Flight Simulator</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ejecucion-perfecta-de-una-reflectividad-automatica-usando-aomei-backupper-en-tu-dispositivo-apple/"><u>Ejecución Perfecta De Una Reflectividad Automática Usando AOMEI Backupper en Tu Dispositivo Apple</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-stellaris-universe-an-expert-review-on-space-settlement-strategy-and-supremacy-battles/"><u>Navigating Stellaris' Universe: An Expert Review on Space Settlement, Strategy, and Supremacy Battles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-history-with-assassins-creed-valhalla-expert-reviews-and-insights-into-the-viking-saga/"><u>Navigating Through History with Assassin's Creed: Valhalla – Expert Reviews & Insights Into the Viking Saga</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-yet-easy-the-tt560-speedlite-experience/"><u>Powerful Yet Easy: The TT560 Speedlite Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-unsuccessful-dell-driver-updates-a-step-by-step-guide/"><u>Resolving Unsuccessful Dell Driver Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-home-internet-connectivity-with-orbis-mesh-wi-fi-6-system-an-in-depth-review-for-ultimate-performance/"><u>Revolutionizing Home Internet Connectivity with Orbi's Mesh Wi-Fi 6 System – An In-Depth Review for Ultimate Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/space-settlers-blunder-building-cities-on-mars-generates-whirlwind-entertainment/"><u>Space Settlers' Blunder: Building Cities on Mars Generates Whirlwind Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streaming-first-look-7-key-sites-for-upcoming-film-preview-galore/"><u>Streaming First Look: 7 Key Sites for Upcoming Film Preview Galore</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-print-screen-unresponsive-errors-on-windows-1110-computers/"><u>Troubleshooting Tips: Resolving 'Print Screen Unresponsive' Errors on Windows 11/10 Computers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme C67 4G | Dr.fone</u></a></li>
 </ul></div>
 

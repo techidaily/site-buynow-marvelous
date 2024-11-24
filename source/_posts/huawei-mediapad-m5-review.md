@@ -1,7 +1,7 @@
 ---
 title: Huawei MediaPad M5 Review
-date: 2024-11-08T20:43:04.145Z
-updated: 2024-11-15T08:11:32.412Z
+date: 2024-11-17T20:19:10.714Z
+updated: 2024-11-24T17:35:34.762Z
 categories:
   - BestProducts
 description: This Article Describes Huawei MediaPad M5 Review
@@ -37,16 +37,13 @@ Lifewire / Rui Yang
 
 4.7
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Wi-Fi
 
 ![Google Wifi](https://www.lifewire.com/thmb/1JG-edlMJWoUUvDsH0-3Y-yiDAY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4139748-5-5c91046146e0fb0001f8d0fa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rui Yang
 
@@ -92,6 +89,10 @@ Lifewire / Rui Yang
 
  Lifewire / Rui Yang
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Network admin for everyone**
 
  One thing that typically holds people back from really taking control over their networks is software. Having to dig through_ipconfig_ to find your network gateway, typing that into your web browser, then having to deal with the complicated backend isn’t our idea of a good time. But, that’s why the Google Wifi app is so noteworthy.
@@ -108,19 +109,6 @@ Lifewire / Rui Yang
 
  Lifewire / Rui Yang
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Connectivity: Limited, but modern**
 
  This lack of fine-tuned controls carries over to the Google Wifi’s general connectivity: it’s a bit sparse, at least as far as ports are concerned. Each node has two Gigabit Ethernet ports and a[USB-C port](https://www.lifewire.com/usb-c-4149490) , used for power. This does mean that you can have[LAN connections](https://www.lifewire.com/what-is-lan-4684071) in several parts of your home, but if you need several LAN ports in one room, you’ll be left wanting.
@@ -132,10 +120,7 @@ Lifewire / Rui Yang
  For instance, if you have several Google Wifi points set up throughout your home, you can walk around your house watching a YouTube video on your iPad, and Google Wifi will automatically shift to provide a wireless signal from whichever node is closest. You’ll never be interrupted and you don’t need to do anything manually, everything happens automatically behind the scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Network performance: Unrivaled reliability**
@@ -152,6 +137,10 @@ Lifewire / Rui Yang
 
  Google Wifi doesn’t support MU-MIMO, (or Multi-user, multiple input, multiple output,) but due to the nature of the mesh network, it almost doesn’t matter. Unless you’re doing heavy networking over a wireless connection, Google Wifi is going to be more than fast enough for everyday workloads. Which is all we can ask for in a router marketed to the average user.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Ahead of the curve**
 
  Google Wifi starts at $129 for a single Wifi point, which is perfect for most apartments. If you have a larger home, and you need the added coverage, you’re looking at $299\. That might sound like a lot of money, especially if you’ve been using the router built into your cable modem for a while, but trust us, it’s worth the cash. Compared to most other mesh routers, Google Wifi provides tons of performance and more individual nodes. This means that you can cover a greater area for less. And, with a performance this good, we can’t complain.
@@ -159,10 +148,7 @@ Lifewire / Rui Yang
  Compared to most other mesh routers, Google Wifi provides tons of performance and more individual nodes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Google Wifi vs. Netgear Orbi**
@@ -178,19 +164,6 @@ Lifewire / Rui Yang
 **An excellent router for almost everyone.**
 
  The Google Wifi might just be one of the best wireless routers on the market, and it’s hard to think of someone we wouldn’t recommend it to. It’s easy to set up, has stellar performance and reliability, and it looks good to boot. It’s not quite as versatile as some other routers out there, but most users will likely see that as a feature. If you don’t want to fiddle around with an obtuse settings menu, and want something that you can just plug in and be ready to browse, you really can’t go wrong with the Google Wifi.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -233,16 +206,22 @@ Lifewire / Rui Yang
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/aural-appeal-enhance-videos-with-windows-11s-sound-tools/"><u>Aural Appeal Enhance Videos with Windows 11'S Sound Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market/"><u>From Frame to Phrase Expertly Ranked 29 Video Translators on the Market</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-make-money-on-tiktok-in-8-ways/"><u>How to Make Money on TikTok in 8 Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-wearables-the-timeless-attractiveness-and-smart-features-of-withings-move/"><u>Revolutionizing Wearables: The Timeless Attractiveness and Smart Features of Withings Move</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-with-exclusive-benq-monitorprojector-promotions-this-prime-day/"><u>Save Big with Exclusive BenQ Monitor/Projector Promotions This Prime Day</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-resolving-non-functional-nvidia-overlay-problems/"><u>Solution Guide: Resolving Non-Functional NVIDIA Overlay Problems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stanley-j5c09-review-large-but-capable/"><u>STANLEY J5C09 Review: Large but Capable</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-fitbit-versa-2-review-merging-fitness-goals-with-smartwatch-technology-for-an-all-in-one-wearable-device/"><u>The Fitbit Versa 2 Review: Merging Fitness Goals With Smartwatch Technology for an All-in-One Wearable Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-mini-marvel-unpacking-features-of-the-new-gen-3-echo-dot-with-alexa-built-in-our-comprehensive-assessment/"><u>The Mini Marvel - Unpacking Features of the New Gen 3 Echo Dot with Alexa Built-In: Our Comprehensive Assessment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-chuckle-cache-discovering-twitters-humor-treasures-for-2024/"><u>[New] Chuckle Cache Discovering Twitters Humor Treasures for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twit-tumble-sharing-videos-seamlessly/"><u>[New] In 2024, Twit-Tumble Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-5-tools-to-transform-your-instant-feeds-into-videos/"><u>[Updated] 2024 Approved Top 5 Tools to Transform Your Instant Feeds Into Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-scenes-crafting-smooth-transitions-using-kinemaster/"><u>[Updated] Seamless Scenes Crafting Smooth Transitions Using Kinemaster</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-subtlety-at-the-helm-lowering-sound-intensity-in-fl-studio/"><u>[Updated] Subtlety at the Helm Lowering Sound Intensity in FL Studio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-8-a-budget-friendly-tablet-worthy-of-its-value/"><u>Amazon Fire HD 8 : A Budget-Friendly Tablet Worthy of Its Value</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-dream-realized-insight-into-sony-wh-1000xm4/"><u>Audiophile's Dream Realized: Insight Into Sony WH-1000XM4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-excellence-in-depth-review-of-tp-link-archer-a6-ac1200-wifi-router/"><u>Budget-Friendly Excellence: In-Depth Review of TP-Link Archer A6 AC1200 WiFi Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-kindle-paperwhite-7th-generation-ebook-reader-evaluation/"><u>Comprehensive Amazon Kindle Paperwhite 7Th Generation eBook Reader Evaluation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-efficiency-with-acers-low-profile-and-comprehensive-aio-desktop-acer-aspire-c27-review/"><u>Experience Unmatched Efficiency with Acer's Low Profile and Comprehensive AIO Desktop: Acer Aspire C27 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-unveiling-the-features-of-the-2019-apple-ipad-air-your-go-to-entertainment-hub/"><u>Expert Evaluation: Unveiling the Features of the 2019 Apple iPad Air - Your Go-To Entertainment Hub</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-5-best-gba-emulators-you-can-find-on-pc/"><u>In 2024, 5 Best GBA Emulators You Can Find on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-gadgets-to-boost-your-workouts-the-top-2024-fitness-trackers-reviewed/"><u>Innovative Gadgets to Boost Your Workouts: The Top 2024 Fitness Trackers Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-secure-the-best-deal-on-an-acer-gaming-laptop-for-under-650-shop-now-at-newegg-with-zdnets-exclusive-guide/"><u>Massive Discount: Secure the Best Deal on an Acer Gaming Laptop for Under $650 - Shop Now at Newegg with ZDNet's Exclusive Guide!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-your-guide-to-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Corner: Your Guide to the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/which-reigns-supreme-evaluating-the-pros-and-cons-of-apple-tv-4k-versus-roku-ultra/"><u>Which Reigns Supreme? Evaluating the Pros and Cons of Apple TV 4K Versus Roku Ultra</u></a></li>
 </ul></div>
 

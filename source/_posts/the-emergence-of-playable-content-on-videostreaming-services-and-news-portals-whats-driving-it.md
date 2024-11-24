@@ -1,7 +1,7 @@
 ---
 title: The Emergence of Playable Content on Videostreaming Services & News Portals - What's Driving It?
-date: 2024-10-22T17:43:19.957Z
-updated: 2024-10-30T07:31:57.719Z
+date: 2024-11-17T19:30:46.495Z
+updated: 2024-11-24T20:15:42.288Z
 tags:
   - games
   - tv
@@ -24,13 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Did you know The New York Times has become one of the most popular game publishers? They're not alone–everyone's baking games into their services now. You can play games on YouTube, Netflix, and even LinkedIn. We go to these sites for news and videos. Why are they serving up games?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Ad Revenue and Search Traffic Are Dropping
 
  There was once a time when you could make a profitable website by selling banner ads directly to companies, like in the days of physical newspapers. There was also a time when you received meaningful web traffic from a diverse set of search engines.
@@ -39,15 +32,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With [AI entering search results](https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-mini-after-forgetting-my-pin-code-by-drfone-ios/) or supplanting search altogether, along with unpredictable algorithm changes, many sites are seeing their web traffic plummet and their ad revenue shrink. That creates a need to find more ways to attract people that isn't so dependent on one outside company steering folks their way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Games Bring In More Visitors
 
 ![Merriam-Webster webpage displaying quizzes and games](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_142256_samsung-internet.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Games get us to visit a website or open an app out of habit. Sometimes, it's part of our morning routine. Maybe they help us unwind after work. Some are simple enough that they're how we idle away any moment when we feel the slightest unease. And they do this without us needing to open up a search engine except, perhaps, for the very first time we discover them.
@@ -58,16 +52,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  YouTube is particularly well setup to capitalize on gaming. It doesn't need to sell you anything. That's not its business model (though [YouTube Premium is a pretty good value](https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-potential-effective-use-of-split-screen-on-facebook/)). Games only need to get you to the site long enough to serve you ads or, even better, recommend a video that catches your attention for even longer so that you watch its ads as well. YouTube just needs games to bring you to the site. It can handle the rest from there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Games Give Extra Reason to Subscribe
 
 ![The New York Times website advertising games access as part of a subscription](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240612_151313_samsung-internet.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I wouldn't be surprised if games like Wordle and Connections bring more people to the New York Times each day than headlines do. Many visitors have no interest in whatever the paper is currently reporting. Games bring in a different audience, and some of the newcomers might start reading now that they're on the site. If you don't find the Times' coverage enough to justify jumping over the paywall, a few addictive games might be enough to change your mind. Even if people only visit the New York Times for the games, the company has gained subscribers.
 
@@ -76,10 +67,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It's the games that enticed me back to Netflix, personally. I wanted to try several of their titles since I'm a sucker for narrative-driven adventure games. Once I was back in, I noticed there were quite a few shows and movies that my family and I actually wanted to watch. I love Midnight Diner. My wife can't get enough of Heartstopper. My kids can watch Blippi without being exposed to YouTube Kids. Now, my family is more likely to cancel some of our other subscriptions before we cancel Netflix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Games Keep Us Coming Back
@@ -95,6 +83,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Sure, there is absolutely nothing cheap about AAA gaming. It's arguably an unsustainable bubble that could burst at any time. But those aren't the games that streaming platforms and social networks are gobbling up. The [millions the New York Times paid for Wordle](https://screen-capture.techidaily.com/updated-essential-9-mic-recorder-selections-for-online-use-in-23-for-2024/) pale compared to the hundreds of millions it took Microsoft to produce Starfield (though, according to [Forbes](https://www.forbes.com/sites/paultassi/2023/10/25/starfield-just-made-microsoft-and-xbox-a-ton-of-money/), Microsoft made good on that investment, too).
 
  A low-budget puzzle game can keep people coming back for years. In terms of dollars alone, that can generate more bang for your buck than investing millions per episode into a TV series that ultimately tanks. Before Avengers Endgame, Disney and Marvel were printing money. Since Endgame, we're now watching Disney set those same dollars on fire. We're just not flocking to see each new release anymore. But you know what is a hit? [Marvel Snap](https://www.forbes.com/sites/maryroeloffs/2023/09/01/marvel-snap-becomes-top-grossing-digital-trading-card-game--beating-yu-gi-oh-and-magicthe-gathering-arena/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adding Games Is Nothing New
 
@@ -119,16 +111,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-installation-masterclass-transitioning-to-macos-sierra/"><u>2024 Approved Installation Masterclass Transitioning to macOS Sierra</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-optimize-your-instagram-post-with-music-stickers-for-2024/"><u>How to Optimize Your Instagram Post with Music Stickers for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>In 2024, A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-speech-to-text-technology-absolutely-gratuitous/"><u>In 2024, Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/make-your-own-programmable-robot-with-makeblocks-mbot-kit-a-thorough-product-assessment/"><u>Make Your Own Programmable Robot with Makeblock’s mBot Kit - A Thorough Product Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-memories-printing-prowess-leading-services-in-24/"><u>Mastering Memories, Printing Prowess: Leading Services in '24</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-excitement-thorough-assessment-of-nhl-19s-virtual-arenas/"><u>Navigate Through the Excitement: Thorough Assessment of NHL 19'S Virtual Arenas</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimal-display-upgrade-laptop-gpu-journey/"><u>Optimal Display Upgrade: Laptop GPU Journey</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pixel-ers-perspective-how-the-google-pixel-4a-hits-all-necessary-marks-without-overwhelming/"><u>Pixel Er's Perspective: How the Google Pixel 4a Hits All Necessary Marks Without Overwhelming</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/precision-preservation-adding-dates-to-photos-with-ease-for-2024/"><u>Precision Preservation Adding Dates to Photos with Ease for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-home-theatre-devices-top-10-list-24/"><u>[New] In 2024, Ultimate Home Theatre Devices - Top 10 List '24</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-3-ways-add-captions-to-instagram-videos/"><u>2024 Approved [3 Ways] Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-mysteries-of-outdated-facebook-sharing-pcmobile-style/"><u>2024 Approved Decoding the Mysteries of Outdated Facebook Sharing, PC/Mobile Style</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-earning-more-utilizing-youtubes-income-tools-on-all-devices/"><u>2024 Approved Earning More Utilizing YouTube's Income Tools on All Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertir-archivos-de-video-con-facilidad-tres-maneras-gratuitas-para-cambiar-mts-en-mp4/"><u>Convertir Archivos De Video Con Facilidad: Tres Maneras Gratuitas Para Cambiar MTS en MP4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-functionality-of-the-pioneer-bdr-xd5b-blu-ray-recorder-examining-design-limitations/"><u>Evaluating the Functionality of the Pioneer BDR-XD^5B Blu-Ray Recorder - Examining Design Limitations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-google-pixel-4a-a-smartphone-that-offers-just-what-you-need/"><u>Evaluating the Google Pixel 4a - A Smartphone That Offers Just What You Need</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-ultimate-selection-of-bodycams/"><u>Expert Picks: The Ultimate Selection of Bodycams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-selected-illustrator-tablets-for-professionals/"><u>Expertly Selected Illustrator Tablets for Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-bluetooth-features-in-m06-audio-tech/"><u>Exploring Bluetooth Features in M06 Audio Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-barnes-and-nobles-new-giant-the-nook-glowlight-plus-review/"><u>Exploring the Features of Barnes & Noble’s New Giant: The Nook GlowLight Plus Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-ring-vs-nest-smart-doorbells/"><u>Head-to-Head Comparison: Ring vs Nest Smart Doorbells</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>In 2024, The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-nikon-a10-stunning-images-with-tricky-interface/"><u>Inexpensive Nikon A10: Stunning Images with Tricky Interface</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-blurriness-after-video-conversion/"><u>Overcoming Blurriness After Video Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-why-wont-my-new-ssd-appear-on-windows-discover-solutions/"><u>Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions</u></a></li>
 </ul></div>
 

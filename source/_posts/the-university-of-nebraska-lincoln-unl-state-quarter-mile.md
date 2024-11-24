@@ -1,7 +1,7 @@
 ---
 title: The University of Nebraska-Lincoln (UNL) State Quarter Mile
-date: 2024-11-13T19:56:12.891Z
-updated: 2024-11-14T22:04:31.869Z
+date: 2024-11-19T20:14:45.957Z
+updated: 2024-11-24T20:22:51.387Z
 tags:
   - buying-guides
 categories:
@@ -34,6 +34,11 @@ Best Budget 4K TV
 * [](https://www.amazon.com/dp/B0BVXF72HV?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce)  
 ![lg-c3-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg-c3-small-1.png)  
 #####  LG C3 OLED  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best 4K TV for Gaming  
 [$1397 at Amazon](https://www.amazon.com/dp/B0BVXF72HV?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/Sony-QD-OLED-inch-BRAVIA-Ultra/dp/B0BYPT328K/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce)  
@@ -42,6 +47,10 @@ Sony
 #####  Sony A95L  
 Best 4K TV for Movies  
 [See at Amazon](https://www.amazon.com/Sony-QD-OLED-inch-BRAVIA-Ultra/dp/B0BYPT328K/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Look For With a 4K TV
 
@@ -88,10 +97,7 @@ Josh Hendrickson / How-To Geek
 ![lg-g3-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg-g3-small-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -104,16 +110,13 @@ LG's OLED TVs have consistently ranked among the best TVs, and 2023's G3 is no e
 
 [See at Amazon](https://www.amazon.com/LG-65-Inch-Processor-AI-Powered-OLED65G3PUA/dp/B0BVX2RLV2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1752865-REG/lg%5Foled55g3pua%5Fg3%5F55%5F4k%5Fhdr.html/BI/22163/KBID/28708/SID/UUhtgUeUpU208713) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-55-class-g3-series-oled-4k-uhd-smart-webos-tv-with-one-wall-design%2F6535936.p%3FskuId%3D6535936) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Budget 4K TV: [Hisense U6H](https://www.amazon.com/dp/B0C6WLWQ5R/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![hisense u6k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/hisense-u6k_1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hisense
 
@@ -139,13 +142,6 @@ Hisense
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best Budget 4K TV
 
 #####  Hisense U6K Series
@@ -157,6 +153,10 @@ The U6K from Hisense is an excellent value for money. It runs on the Google TV p
 ##  Best 4K TV for Gaming: [LG C3](https://www.amazon.com/LG-65-Inch-Processor-AI-Powered-OLED65C3PUA/dp/B0BVXF72HV/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![lg c3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg_c3-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 LG
 
@@ -182,13 +182,14 @@ LG
 ![lg-c3-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg-c3-small-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best 4K TV for Gaming
 
@@ -203,6 +204,10 @@ The LG C3 shines as a 4K gaming TV. It is chockful of advanced gaming features, 
 ##  Best 4K TV for Movies: [Sony A95L](https://www.amazon.com/dp/B0BYPT328K/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) 
 
 ![sony a95l](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sony-a95l.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sony
 
@@ -242,13 +247,6 @@ The Sony A95L delivers a fantastic movie-watching experience with its top-notch 
 
 ![LG LED Evo G3 Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52604666437_9c2ca8de2c_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
 | Pros                                    | Cons      |
@@ -267,14 +265,11 @@ Hannah Stryker / How-To Geek
 
 ![lg-g3-small-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/lg-g3-small-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best 75-Inch 4K TV
 
@@ -286,20 +281,11 @@ If you want a 75-inch TV, there is no better option than the LG G3\. It has a sl
 
 [$3497 at Amazon](https://www.amazon.com/dp/B0BVWYRK3G/?tag=hotoge-20&ascsubtag=UUhtgUeUpU208713&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F754502%2Fbest-4k-tv%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1752863-REG/lg%5Foled77g3pua%5Fg3%5F77%5F4k%5Fhdr.html/BI/22163/KBID/28708/SID/UUhtgUeUpU208713) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-65-class-g3-series-oled-4k-uhd-smart-webos-tv-with-one-wall-design%2F6535928.p) 
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What does 4K mean?
 
@@ -308,13 +294,6 @@ If you want a 75-inch TV, there is no better option than the LG G3\. It has a sl
 ### How many pixels are in a 4K TV?
 
  4K TVs have a resolution of 3840 x 2160, which is 82,94,400 pixels. It's exactly four times the pixel count of full-HD TVs (1920 x 1080).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do you clean a 4K TV?
 
@@ -343,22 +322,16 @@ If you want a 75-inch TV, there is no better option than the LG G3\. It has a sl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-finding-the-right-wordmark-for-your-personalized-tiktok-stream-for-2024/"><u>[New] Finding the Right Wordmark for Your Personalized TikTok Stream for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-what-lies-beneath-the-surface-of-instagrams-reels/"><u>[Updated] 2024 Approved What Lies Beneath the Surface of Instagram's Reels</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-quality-in-the-fossil-sports-collection-an-in-depth-review/"><u>Affordable Quality in the Fossil Sports Collection - An In-Depth Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-firetv-vs-chromecast-with-google-tv-a-comprehensive-review-and-face-off/"><u>Amazon FireTV Vs. Chromecast with Google TV - A Comprehensive Review and Face-Off</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-tv-4k-generation-3-an-extensive-evaluation-for-tech-enthusiasts/"><u>Apple TV 4K Generation 3 - An Extensive Evaluation for Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bending-technology-with-lenovo-x1-fold-an-insightful-evaluation-of-its-brilliance-and-shortcomangs/"><u>Bending Technology with Lenovo X1 Fold: An Insightful Evaluation of Its Brilliance and Shortcomangs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-budget-petcam-in-high-definition/"><u>Best Budget Petcam in High Definition!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-tp-link-archer-c50-wifi-router-value-for-money-assessment/"><u>Budget-Friendly TP-Link Archer C50 WiFi Router - Value for Money Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choosing-the-right-tablet-ipad-kindle-or-nook-a-comprehensive-guide/"><u>Choosing the Right Tablet: IPad, Kindle or Nook - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-confusion-to-clarity-excel-made-simple-by-chatgpt/"><u>From Confusion to Clarity: Excel Made Simple by ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-do-windows-downloads-vary-cloud-across-borders-vs-disk-locally/"><u>How Do Windows Downloads Vary: Cloud Across Borders Vs. Disk Locally</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-edge-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Edge 2023 is off? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-3-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT 3</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/y-your-favorite-videos-top-free-converters-online-for-2024/"><u>MP3ify Your Favorite Videos Top Free Converters Online for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722988570558-the-all-new-samsung-ru7300-a-revolutionary-leap-in-4k-uhd-smart-tv-technology-reviewed/"><u>The All-New Samsung RU7300: A Revolutionary Leap in 4K UHD Smart TV Technology – Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-windows-update-failure-with-error-0x8007001f/"><u>Troubleshooting Tips for Windows Update Failure with Error 0X8007001F</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-creative-potential-the-ultimate-hdr-guide/"><u>2024 Approved Unleash Creative Potential The Ultimate HDR Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-lineup-a-ranking-of-the-best-computer-brands-on-earth/"><u>2024'S Elite Lineup: A Ranking of the Best Computer Brands on Earth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-choices-a-detailed-comparison-of-superior-ups-battery-backups/"><u>2024'S Top Choices: A Detailed Comparison of Superior UPS Battery Backups</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-selection-of-compact-and-efficient-laptop-charger-accessories/"><u>2024'S Top Selection of Compact and Efficient Laptop Charger Accessories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dusk-rising-the-fade-out-process/"><u>Dusk Rising The Fade Out Process</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-find-x6-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Find X6 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-asus-rog-phone-7-ultimate-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Asus ROG Phone 7 Ultimate Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/network-renaissance-facebooks-transformation-journey-to-meta/"><u>Network Renaissance: Facebook’s Transformation Journey to Meta</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-essential-tweets-a-beginners-guide-to-mastering-x/"><u>Top 10 Essential Tweets: A Beginner's Guide to Mastering X</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/when-should-i-consider-an-update-is-now-ideal-for-windows-11/"><u>When Should I Consider an Update: Is Now Ideal for Windows 11?</u></a></li>
 </ul></div>
 

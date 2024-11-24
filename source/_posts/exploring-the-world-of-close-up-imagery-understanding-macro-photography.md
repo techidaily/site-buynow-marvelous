@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2024-10-27T23:15:19.604Z
-updated: 2024-10-30T04:34:23.742Z
+date: 2024-11-18T18:54:08.335Z
+updated: 2024-11-24T16:31:58.290Z
 tags:
   - games
   - tv
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  Macro photography is kind of a big deal, but many people don't know what it is despite having the hardware to take macro photos. So let's clear up the big and small details of this fascinating photographic art.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Macro Photography Is About Getting Close and Personal
@@ -45,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![Sigma 105mm F2.8 EX DG OS HSM Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sigma-105mm-f2-8-ex-dg-os-hsm-macro-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Sigma 105mm F2.8 EX DG OS HSM Macro
@@ -74,10 +68,7 @@ A superb macro lens with image stabilization that offers a nice balance between 
  Some of the most specialized (and expensive!) macro lenses are called ["probe" lenses](https://www.amazon.com/Venus-Laowa-24mm-14-Probe/dp/B07JYHGNHQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002766&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-is-macro-photography%2F&asc%5Fcampaign=Evergreen), which can be inserted into tight spaces such as the inside of a log or into crevices. These lenses almost always have built-in lights for the same reason. When I take macro photos with my phone, I often use a supplementary light, such as the flashlight from someone else's phone, or even a dedicated ring light. For natural outdoor lighting, it's all about the angle and letting direct or bouncing from the sun illuminate the subject.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Best Subjects for Macro Photography
@@ -94,24 +85,25 @@ Sydney Louw Butler / How-To Geek
 
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  I will never, ever get tired of shooting photos of these teeny-tiny jumping spiders.
 
 ![Macro photo of jumping spider on a leaf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-jumping-spider-on-a-leaf.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler / How-to Geek
 
  Or, perhaps my favorite shot ever of this grasshopper hiding in an outdoor potted plant.
 
 ![macro photo of a grasshopper taken with S21 Ultra smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Grasshopper-Macro-S21.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Butler/How-To Geek
 
@@ -134,19 +126,19 @@ Sydney Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-leverage-popular-tiktok-hashes-for-increased-interactions-for-2024/"><u>[New] Leverage Popular TikTok Hashes For Increased Interactions for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] 2024 Approved Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-discover-the-art-of-vocal-variation-for-enhanced-gameplay-experience-free-guide/"><u>[Updated] Discover the Art of Vocal Variation for Enhanced Gameplay Experience (Free Guide)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>2024 Approved SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-a-primer-on-selecting-superior-free-srt-translator-platforms/"><u>In 2024, A Primer on Selecting Superior Free SRT Translator Platforms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-gaming-laptops-a-feature-focused-approach/"><u>Mastering Gaming Laptops: A Feature-Focused Approach</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-post-vlc-dominance-for-2024/"><u>Navigating the Landscape Post-VLC Dominance for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-market-eight-important-factors-to-look-at-when-shopping-for-a-tablet/"><u>Navigating the Market: Eight Important Factors to Look at When Shopping for a Tablet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/picking-the-right-tablet-here-are-8-key-aspects-to-evaluate-first/"><u>Picking the Right Tablet? Here Are 8 Key Aspects to Evaluate First!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premium-picks-the-finest-8-games-for-your-google-play-subscription/"><u>Premium Picks: The Finest 8 Games for Your Google Play Subscription</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviving-zombies-a-comprehensive-review-of-7-days-to-die-and-its-single-sandbox-format/"><u>Reviving Zombies: A Comprehensive Review of '7 Days to Die' And Its Single-Sandbox Format</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-playtime-with-the-wonder-workshop-dash-a-comprehensive-product-overview/"><u>Revolutionizing Playtime with the Wonder Workshop Dash - A Comprehensive Product Overview</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-breakdown-of-huions-inspiroy-g10t-illustrator-board-top-notch-construction-and-artistic-precision/"><u>The Ultimate Breakdown of Huion's Inspiroy G10T Illustrator Board: Top-Notch Construction & Artistic Precision</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-steps-to-acquire-fcp-for-zero-dollars/"><u>[New] 2024 Approved Steps to Acquire FCP for Zero Dollars</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-narrative-strategies-for-engaging-docu-films/"><u>[New] In 2024, Narrative Strategies for Engaging Docu-Films</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-quick-reference-for-iphone-memo-making-for-2024/"><u>[New] The Ultimate Quick Reference for iPhone Memo-Making for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-key-tips-to-capture-youtube-streams-effectively/"><u>[Updated] In 2024, Key Tips to Capture YouTube Streams Effectively</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-mac-gif-archiver/"><u>[Updated] In 2024, Master Mac GIF Archiver</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ranking-the-top-value-video-resources-online-for-2024/"><u>[Updated] Ranking the Top Value Video Resources Online for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-cutting-edge-strategies-for-dynamic-igtv-backgrounds/"><u>2024 Approved Cutting-Edge Strategies for Dynamic IGTV Backgrounds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-reach-a-millennium-of-youtube-followers-fast/"><u>2024 Approved Reach a Millennium of YouTube Followers Fast</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-lgs-famed-watch-style-discovering-the-pioneering-spirit-of-wear-os-smartwatches/"><u>A Critical Look at LG's Famed Watch Style: Discovering the Pioneering Spirit of Wear OS Smartwatches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audio-and-vision-in-harmony-rokus-new-frontier/"><u>Audio & Vision in Harmony: Roku's New Frontier</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723087402553-watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-asus-vg2e3h-is-the-ultimate-choice-for-hardcore-gamers/"><u>Why Asus VG2e3H Is the Ultimate Choice for Hardcore Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-i-should-consider-ios-17-what-are-my-options/"><u>Why I Should Consider iOS 17: What Are My Options?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ws-1002-wifi-ambient-weather-station-premium-features-justify-the-cost/"><u>WS-1002-WiFi Ambient Weather Station - Premium Features Justify the Cost</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lenovo 130S Review: Limited Power But Surprising Usability"
-date: 2024-08-27T10:37:17.174Z
-updated: 2024-08-28T10:37:17.174Z
+date: 2024-11-23T18:18:28.540Z
+updated: 2024-11-24T17:12:32.038Z
 categories:
   - BestProducts
 description: "This Article Describes Lenovo 130S Review: Limited Power But Surprising Usability"
@@ -36,14 +36,8 @@ Lifewire / Hayley Prokos
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Fintie Protective Case for MacBook Pro 13
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/goOcXE2tO9SSh1hSY-ThVo2fno0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_3LW4153328-1-e9bb0f4c17224eaf9a9f53245a5ca98c.jpg)
 
 Lifewire / Hayley Prokos
@@ -67,11 +61,16 @@ Lifewire / Hayley Prokos
 
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/2wqi6_bwCagRwxsWzy7XtPKD9nI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-2-fac9328a4d334a5bb04be08e857d3157.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Fetching and functional**
 
  This two-piece Fintie case is designed for the most recent 13-inch MacBook Pro models, with or without TouchBar. It’s robust enough to protect your laptop from scratches, abrasions, and impact from minor drops without feeling too bulky.
@@ -86,6 +85,10 @@ Lifewire / Hayley Prokos
 
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/oLEmxLNytxQINRktM9nWjKfhTZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-4-ec18ce2eec6b4e73853f562114489d01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
 ## **Setup Process: No instructions needed**
@@ -94,9 +97,6 @@ Lifewire / Hayley Prokos
 
  It is loose enough to remove without a hassle and tight enough to effectively protect your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/8MJsQD08tVeuvB93MreYpZrgwmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-3-df14864da5164b448b3f60a740cbc211-dbb4b2230f9c4d98be26fee390c8c2f3.jpg)
 
 Lifewire / Hayley Prokos
@@ -107,11 +107,12 @@ Lifewire / Hayley Prokos
 
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/pAJBO_JxTmzt9zzSECdDLtQl7VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-5-990a37f415024718b17d4b36b6e1dc3f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Fintie Protective Case vs. ProCase**
 
  As far as other laptop covers in this price range go, there are few that offer the refined design, utility, and price point of this Fintie case.
@@ -129,17 +130,15 @@ Lifewire / Hayley Prokos
  The Fintie Protective Case for MacBook Pro 13 is neither flimsy nor ill-fitting and is made from premium materials. If you want a case that protects your computer from scratches, dings, and the overall impact of minor drops, this one will certainly meet, if not exceed, your expectations.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/urban-armor-gear-macbook-pro-case-review-4689954)
 * [Twelve South BookBook V2 MacBook Case](https://www.lifewire.com/twelve-south-bookbook-v2-macbook-case-review-4689949)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Protective Case for MacBook Pro 13
@@ -150,14 +149,11 @@ Lifewire / Hayley Prokos
 * Color  Black, Vintage Brown, Z-Blossom, Z-Constellation, Z-Emerald Illusions, Z-Galaxy
 * Compatibility  13-inch MacBook Pro with/without Touch Bar (2016 models and newer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +162,24 @@ Lifewire / Hayley Prokos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-video-on-google-hangouts/"><u>[Updated] How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-conveniently-record-your-favorite-streams-top-5-grabber-apps/"><u>[Updated] In 2024, Conveniently Record Your Favorite Streams Top 5 Grabber Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-vivobook-11-user-assessment-compact-and-budget-friendly-multi-purpose-notebook/"><u>Asus VivoBook 11 User Assessment: Compact and Budget-Friendly Multi-Purpose Notebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-tango-enjoy-no-cost-audio-and-visual-conversations-in-any-format/"><u>Discovering Tango: Enjoy No-Cost Audio and Visual Conversations in Any Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gamers-choice-a-detailed-review-of-the-hp-omen-obelisk-premium-specs-low-cost/"><u>Gamer's Choice: A Detailed Review of the HP OMEN Obelisk – Premium Specs, Low Cost</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-digital-distortion-in-minutes/"><u>In 2024, Mastering the Art of Digital Distortion in Minutes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-flight-simulator-x-gold-ed-unmatched-quality-in-aviation-gaming-in-depth-analysis/"><u>Microsoft Flight Simulator X Gold Ed.: Unmatched Quality in Aviation Gaming - In-Depth Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-microphone-problems-with-these-handy-tips/"><u>Overcome iPhone Microphone Problems with These Handy Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prime-days-finest-hunt-down-the-ultimate-apple-bargains/"><u>Prime Day's Finest: Hunt Down the Ultimate Apple Bargains</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-asus-rog-phone-8-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Asus ROG Phone 8 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sleek-yet-imperfect-world-of-criacrs-bluetooth-fm-transmitter-the-cp24-model-analyzed/"><u>The Sleek Yet Imperfect World of CRIACR's Bluetooth FM Transmitter - The CP24 Model Analyzed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-portable-power-solutions-for-your-notebook-2024-selection/"><u>Top Portable Power Solutions for Your Notebook: 2024 Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-wi-fi-mesh-efficacy/"><u>Understanding Wi-Fi Mesh Efficacy</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a18-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A18 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-gateway-to-cutting-edge-ai-how-to-easily-harness-the-power-of-openais-new-gpt-service/"><u>Your Gateway to Cutting-Edge AI: How to Easily Harness the Power of OpenAI's New GPT Service</u></a></li>
+</ul></div>
 
