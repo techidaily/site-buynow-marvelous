@@ -1,7 +1,7 @@
 ---
 title: "Knack Analysis: Distinctive Protagonist in a Formulaic Adventure"
-date: 2024-09-04T20:06:44.393Z
-updated: 2024-09-05T20:06:44.393Z
+date: 2024-11-29T08:33:19.852Z
+updated: 2024-12-03T00:40:38.111Z
 categories:
   - BestProducts
 description: "This Article Describes Knack Analysis: Distinctive Protagonist in a Formulaic Adventure"
@@ -67,6 +67,10 @@ Lifewire / Eric Watson
 
 ![FIFA 19](https://www.lifewire.com/thmb/armPlzVHdRF2s3FTdP9XOHkUcdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4042353_02-c4118890cd324e70be964b32a2b81918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
 ## **Setup Process: Doesn’t get simpler**
@@ -74,11 +78,9 @@ Lifewire / Eric Watson
  Getting the game ready is just a matter of putting in that disc or doing a digital download from the[PlayStation Store](https://www.lifewire.com/playstation-store-for-pc-2792967) . It doesn’t get much easier than that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Gameplay: Phenomenal difficulty curve**
 
  Controlling the player and the ball is easy to learn, and feels more natural than ever. There are dedicated buttons for ground passes, lob passes, and through passes, and another for shooting. The Shot button can be held down to quickly add height to the kick, with a well-timed final press adding accuracy to the shot. Passing and shooting must be properly aimed with the left stick, as well as executing various feints and stutters to send the defense scurrying in the wrong direction.
@@ -93,18 +95,6 @@ Lifewire / Eric Watson
 
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Game Modes: Ultimate Team Strikes the Perfect Balance**
 
  Like many sports games, FIFA 19 features several different seasonal, career, and fantasy game modes, including Kick-Off, Ultimate Team, Champions League, and the conclusion of the story-based campaign, The Journey. Kick-Off is FIFA’s version of a quick play match, but with a new cloud-based progression system. Now you can create and sign into an ID that tracks Kick-Off stats no matter where you’re playing, a nice touch for those that play locally at a friend’s home.
@@ -117,14 +107,16 @@ Lifewire / Eric Watson
 
 ![FIFA 19](https://www.lifewire.com/thmb/Lknt7GDz1AGuKN5rbilA_mWnaY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4042353-04-a59b0933d87a4bdc90743aa9f3b572ff.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Plot: Three stories in one**
 
  FIFA was the original home of the RPG-like campaign when The Journey debuted in FIFA 17\. FIFA 19 represents the third and final act of Alex Hunter’s story. Hunter is already a superstar, achieving his dream of signing with Real Madrid while dealing with drama involving a new manager and the surge of fame that threatens his personal life and his career.
@@ -135,6 +127,10 @@ Lifewire / Eric Watson
 
  The Journey strikes an excellent balance between cutscenes, player choices, customization, training mini-games, and actual matches. Training mini-games are effective teaching tools for learning fundamentals and skills, such as passing, crossing, and sliding tackles. Earning high grades on these training sessions, as well as achieving objectives and high player ratings during games earns skills points and stat boosts, with each character having their own skill tree and skillset to improve upon. It’s a robust, lengthy, enjoyable story campaign, and a benchmark for how other sports games should tackle this emerging gameplay mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: A triumph on and off the field**
 
  The default camera is so far zoomed out in FIFA 19 that any player model inconsistencies aren’t as noticeable as other sports games. Yet the models, faces, and animations still look great, and the action shows up well during instant replays and highlights. The one model that doesn’t look as smooth is the goalkeeper. It looks too much like jerking from one animation to the next, without the appearance of how a human body would realistically react and move.
@@ -142,6 +138,10 @@ Lifewire / Eric Watson
  We were enamored with the sleek, simple, and effective menu designs. Navigating around FIFA 19’s gameplay modes is a breeze, and the same design philosophy extends to individual modes, like squad builder, and when opening card packs for quick sells or transfers. FIFA is not only one of the most attractive sports games on the field, but it’s also one of the most well designed.
 
 ![FIFA 19](https://www.lifewire.com/thmb/6o7jjFOM8KteaD2aDPNctgl5mso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4042353-03-ab635a5bdd964320936a809132c90715.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Eric Watson
 
@@ -153,22 +153,10 @@ Lifewire / Eric Watson
 
  The commentary is almost distractingly bad, however. Given the large amount of players and leagues in FIFA 19, Martin Tyler and Alan Smith have extremely limited responses and quips. You’ll hear the same “one-sided affair” and “he’ll be thinking about that one” comments several times over the course of the same match. On the plus side, the actual broadcast presentation is great, even featuring the last few lines of each side’s national anthem before a match. The highlights and instant replays also do a fantastic job capturing the action from both an audio and visual level.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A complete package**
 
  FIFA 19 launched with a full $60 price tag, though almost a year later you can typically find it on sale for around $30\. Each mode, from Ultimate Team to Champions League and The Journey, is a complete package featuring several different leagues and over 700 teams from around the world. There’s an exhaustive amount of content with a satisfying level of progression for skills and players, even if you never venture online.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **FIFA 19 vs. Pro Evolution Soccer**
 
  With[Pro Evolution Soccer’s](https://www.konami.com/wepes/2019/us/en-us/) loss of the UEFA Champions League license to FIFA 19 this year, the age-old rivalry, one of the last remaining among big sports video game series, rests firmly in FIFA’s favor. PES is still a decent soccer simulator with impressive ball and player physics, but FIFA has been steadily improving in this area, along with much deeper and more interesting gameplay modes, such as The Journey. As a final coup, FIFA 19 has added the National Women’s Soccer League as an entire gameplay mode as a free update this summer. Any game that lets us play as and alongside Alex Morgan and Megan Rapinoe is the clear winner.
@@ -179,18 +167,6 @@ Lifewire / Eric Watson
 
  Most sports games rely on obvious familiarity and love of the sport to get the most out of the simulation; FIFA 19 is just plain fun for anyone thanks to easy to learn controls, realistic physics, attentive AI, and a smooth difficulty curve. The third Journey arc is a solid conclusion to the Alex Hunter story, offering a three-in-one campaign with multiple dramatic arcs and plenty of opportunities for choices and skill progression, while the inclusion of the Champions League is a delicious cherry on top.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  FIFA 19
@@ -201,14 +177,11 @@ Lifewire / Eric Watson
 * Multiplayer  Online, Local
 * Platforms  PC, PlayStation 3, PlayStation 4, Switch, Xbox 360, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,4 +190,24 @@ Lifewire / Eric Watson
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-jokegenius-easy-login-creative-video-making/"><u>[New] JokeGenius Easy Login, Creative Video Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-camera-stabilizers-for-youtube/"><u>[Updated] In 2024, Best Camera Stabilizers for YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creative-sound-blaster-zxr-2013s-top-gaming-headset-from-creative-labs-explored/"><u>Creative Sound Blaster ZXR: 2013'S Top Gaming Headset From Creative Labs Explored</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-everything-in-our-detailed-review-of-the-high-tech-samsung-gear-s3-frontier/"><u>Discover Everything in Our Detailed Review of the High-Tech Samsung Gear S^3 Frontier</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a15-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A15 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-magic-5-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Magic 5 Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-romer-chargeable-spotlight-analysis-a-high-powered-and-eco-friendly-illuminator-for-adventures/"><u>Revolutionary Romer Chargeable Spotlight Analysis: A High-Powered & Eco-Friendly Illuminator for Adventures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rigorous-testing-of-kensuns-portable-pneumatic-tool-sturdy-build-and-unmatched-mobility-revealed-in-this-thorough-assessment/"><u>Rigorous Testing of Kensun's Portable Pneumatic Tool - Sturdy Build and Unmatched Mobility Revealed in This Thorough Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/start-your-glow-journey-with-studio-agg814-kit/"><u>Start Your Glow Journey with Studio AGG814 Kit</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-the-newly-reviewed-super-portable-samsung-galaxy-chromebook-2/"><u>The Definitive Guide to the Newly Reviewed, Super-Portable Samsung Galaxy Chromebook 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-flexispot-theodore-examined-a-stylish-modern-choice-for-your-professional-space/"><u>The Flexispot Theodore Examined: A Stylish, Modern Choice for Your Professional Space</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-syma-x5c-rc-quadcopter-unveiled-ideal-for-budget-conscious-hovercraft-enthusiasts/"><u>The SYMA X5C R/C Quadcopter Unveiled - Ideal for Budget Conscious Hovercraft Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-top-value-hd-petcam-a-petcube-showcase/"><u>The Top Value HD Petcam: A Petcube Showcase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-comparison-how-vive-cosmos-stacks-up-against-its-formidable-rivalry-in-vr-tech/"><u>The Ultimate Comparison: How Vive Cosmos Stacks Up Against Its Formidable Rivalry in VR Tech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-s24plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy S24+ Phones</u></a></li>
+</ul></div>
 

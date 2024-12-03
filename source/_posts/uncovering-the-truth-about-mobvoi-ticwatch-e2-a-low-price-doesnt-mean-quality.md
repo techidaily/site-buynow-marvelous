@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2024-11-19T18:28:36.389Z
-updated: 2024-11-24T19:03:56.767Z
+date: 2024-11-30T21:28:30.748Z
+updated: 2024-12-03T13:18:27.605Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -49,6 +49,10 @@ Lifewire / Emily Isaacs
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $78](https://www.amazon.com/Fellowes-Microban-Split-Design-Keyboard/dp/B0002CE0XO?tag=lifewire-onsite-prod-20&ascsubtag=4780294%7Cn668ce44e90054ecb91b1dbd3aca2275805%7CB0002CE0XO) [View On Walmart $78](https://www.walmart.com/ip/Fellowes-FEL98915-Split-Design-Ergonomic-Keyboard-with-Microban-1-Black/10363789) [View On Staples](https://www.staples.com/Fellowes-98915-Microban-Split-Design-Corded-Keyboard/product%5F806284)
@@ -71,7 +75,7 @@ Lifewire / Emily Isaacs
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Cleaner than the rest**
@@ -90,24 +94,16 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Features: Multimedia hotkeys for ease of use**
@@ -119,6 +115,10 @@ Lifewire / Emily Isaacs
  The Fellowes connects to a PC via a USB cord. We couldn’t help but appreciate the simplicity of this design choice, especially as more and more companies are looking for ways to cut cords. Cutting down on cables is great when it makes sense, but the corded connection here allows for a dependable product, since you never have to worry about a low battery, and also means that the keyboard is more reliable for[faster typists](https://www.lifewire.com/typing-speed-tests-1356663) . It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed. This is useful if you type faster than conventional keyboards can keep up with, making it less likely for you to lose a stroke.
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
@@ -175,22 +175,15 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-visual-mastery-the-ultimate-list-of-the-best-photo-editing-displays/"><u>[New] 2024 Approved Visual Mastery - The Ultimate List of the Best Photo Editing Displays</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experts-top-10-fcp-plugin-selection/"><u>[New] Expert's Top 10 FCP Plugin Selection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-syncopated-sounds-discovering-crossfades-for-2024/"><u>[New] Syncopated Sounds Discovering Crossfades for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-procure-no-cost-visual-aids-from-prominent-4-youtube-feeds/"><u>[Updated] 2024 Approved Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dynamic-discussions-for-regular-streaming-for-2024/"><u>[Updated] Dynamic Discussions for Regular Streaming for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-lg-k51-elegant-build-compromised-by-slow-chipset/"><u>Comprehensive Assessment of LG K51: Elegant Build Compromised by Slow Chipset</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723045760285-experience-enhanced-connectivity-with-synology-rt2600ac-wi-fi-router-parental-controls-included/"><u>Experience Enhanced Connectivity with Synology RT2600ac Wi-Fi Router: Parental Controls Included!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava .</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imovie-trimming-query-the-reason-behind-video-cropping-for-2024/"><u>IMovie Trimming Query The Reason Behind Video Cropping for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>In 2024, Ultimate Choice Top-Tier Webcam Mounts & Grips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-why-the-garmin-forerunner-945-is-a-game-changer-in-smartwatch-tech/"><u>In-Depth Review: Why the Garmin Forerunner 945 Is a Game-Changer in Smartwatch Tech</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/singing-machine-sml385btbk-karaoke-review-the-easiest-and-most-colorful-karaoke-machine-to-plug-and-play/"><u>Singing Machine SML385BTBK Karaoke Review: The Easiest and Most Colorful Karaoke Machine to Plug and Play</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-best-of-both-worlds-with-fossil-sportswear-high-end-and-inexpensive-review/"><u>The Best of Both Worlds with Fossil Sportswear: High-End and Inexpensive Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-apple-tv-4k-2021-guide-revolutionizing-hd-streaming-with-siri/"><u>The Comprehensive Apple TV 4K 2021 Guide: Revolutionizing HD Streaming with Siri</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-assessment-of-line-communication-app-what-you-need-to-know/"><u>The Ultimate Assessment of Line Communication App: What You Need to Know</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-and-evaluating-the-microsoft-surface-studio-2/"><u>The Ultimate Guide to Understanding and Evaluating the Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-for-the-linksys-max-stream-ac1900-compatible-efficient-and-powerful/"><u>The Ultimate Review for the Linksys Max-Stream AC1900 - Compatible, Efficient, and Powerful</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>[Updated] The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-transitioning-shadows-a-minute-later/"><u>2024 Approved Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-anc-ankers-innovative-life-q30-sound-review/"><u>Affordable ANC: Anker's Innovative Life Q30 Sound Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y28 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-winegard-fl5500a-is-this-flatwave-antenna-fairly-priced/"><u>In-Depth Analysis of the Winegard FL5500A - Is This FlatWave Antenna Fairly Priced?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/los-mejores-8-programas-gratuitos-de-conversion-fotografia-diseno-por-movavi/"><u>Los Mejores 8 Programas Gratuitos De Conversión Fotografía-Diseño Por Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-command-line-critical-cmd-shortcuts-you-must-learn-on-windows/"><u>Mastering the Command Line: Critical CMD Shortcuts You Must Learn on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-90-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor 90 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x850f-65-inch-oled-premium-quality-at-a-fair-price-reviewed/"><u>Sony XBR65X850F 65-Inch OLED: Premium Quality at a Fair Price Reviewed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-elite-range-routers-for-seamless-connectivity/"><u>The Ultimate Selection: Elite Range Routers for Seamless Connectivity</u></a></li>
 </ul></div>
 

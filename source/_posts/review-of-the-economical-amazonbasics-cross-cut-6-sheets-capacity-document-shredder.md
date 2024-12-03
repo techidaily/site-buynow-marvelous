@@ -1,7 +1,7 @@
 ---
 title: Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
-date: 2024-11-23T16:00:33.953Z
-updated: 2024-11-24T16:06:11.557Z
+date: 2024-11-28T10:52:31.518Z
+updated: 2024-12-03T00:00:11.330Z
 categories:
   - BestProducts
 description: This Article Describes Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/ZGkU_v50do17iYS5LwlJ7MnuhQI=/400x300/fi
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -44,16 +40,12 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -82,7 +74,7 @@ Lifewire / Jeremy Laukkonen
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and Controls: Decent enough app and a nearly flawless controller
@@ -102,7 +94,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -117,6 +109,10 @@ Lifewire / Jeremy Laukkonen
 
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup Process: Quick and easy
 
  Luna is just about as easy to use as a gaming service can be. To use Luna, there’s zero setup involved. If you’re playing on Windows, macOS, iOS, or Android, you can just connect a compatible controller, navigate to the Luna website, and start playing. The Fire TV app is similarly easy to get up and running.
@@ -124,6 +120,10 @@ Lifewire / Jeremy Laukkonen
  If you’re using the optional Luna controller, there is a bit of additional setup to work through. You can choose to have your controller automatically linked to your Amazon account when you buy it, which simplifies setup a bit, but it’s a fairly straightforward process either way.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -151,10 +151,6 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -166,6 +162,10 @@ Lifewire / Jeremy Laukkonen
  During the beta period, the basic Luna subscription gets you access to 70 games, with an additional two dozen games locked behind the Ubisoft+ subscription. The 70 games included with the basic subscription offer a ton of entertainment value, but most genres are woefully underrepresented, and others are missing altogether. For example, fans of fighting games won’t find anything to rally behind here.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -233,24 +233,18 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-optimal-visual-branding-best-practices-for-youtube-channel-size/"><u>[Updated] 2024 Approved Optimal Visual Branding Best Practices for YouTube Channel Size</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-elite-guide-to-gopro-side-by-side-shopping-for-2024/"><u>[Updated] The Elite Guide to GoPro Side-By-Side Shopping for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/achieve-professional-sound-quality-with-spotifys-in-car-equalizer-feature/"><u>Achieve Professional Sound Quality with Spotify's In-Car Equalizer Feature</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/anticipating-olympic-season-peacocks-upcoming-price-hike-announced-just-in-time/"><u>Anticipating Olympic Season: Peacock's Upcoming Price Hike Announced Just in Time</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/brace-yourself-higher-costs-await-in-the-max-market/"><u>Brace Yourself: Higher Costs Await in the 'Max' Market</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/can-apple-computers-gain-respect-as-a-gaming-powerhouse-among-enthusiasts/"><u>Can Apple Computers Gain Respect as a Gaming Powerhouse Among Enthusiasts?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choose-a-monitor-over-a-new-television-the-ultimate-upgrade-for-your-gaming-console/"><u>Choose a Monitor Over a New Television: The Ultimate Upgrade for Your Gaming Console</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-andaseat-flyquest-gaming-desk-evaluation-craftsmanship-meets-ergonomic-excellence/"><u>Comprehensive AndaSeat FlyQuest Gaming Desk Evaluation - Craftsmanship Meets Ergonomic Excellence</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critical-8-learning-points-for-nintendo-elevating-the-joy-of-the-switch-gaming-system/"><u>Critical 8 Learning Points for Nintendo: Elevating the Joy of the Switch Gaming System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/demystifying-live-service-games-how-do-they-divide-opinions/"><u>Demystifying Live Service Games: How Do They Divide Opinions?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-hidden-features-unlocking-vpn-capabilities-on-your-apple-tv/"><u>Discover Hidden Features: Unlocking VPN Capabilities on Your Apple TV</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-6s-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 6s with 3 Methods</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-6-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 6 without the Previous Owner?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-lol-to-omg-the-best-meme-creator-apps-for-android-and-ios/"><u>In 2024, From LOL to OMG The Best Meme Creator Apps for Android & iOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-k70e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi K70E Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-minute-video-crafters/"><u>In 2024, Minute Video Crafters</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>In 2024, Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/r-the-art-of-youtube-thumbnails-in-minutes-for-2024/"><u>Master the Art of YouTube Thumbnails in Minutes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-leaders-shaping-the-marvel-online-experience/"><u>[New] 2024 Approved Leaders Shaping the Marvel Online Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-conducting-the-crescendo-infusing-instagram-reels-with-sounds/"><u>[New] In 2024, Conducting the Crescendo Infusing Instagram Reels with Sounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>[Updated] 2024 Approved Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-zephyrus-g14-analysis-the-ultimate-non-compromising-gaming-machine/"><u>Asus Zephyrus G14 Analysis - The Ultimate Non-Compromising Gaming Machine</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/definitive-assessment-of-the-asus-zephyrus-g14-no-compromises-in-gaming-excellence/"><u>Definitive Assessment of the Asus Zephyrus G14 - No Compromises in Gaming Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnose-and-mend-dormant-usb-ports-the-windows-manual/"><u>Diagnose & Mend Dormant USB Ports - The Windows Manual</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lg-k92-does-its-5g-capability-deliver-value/"><u>Evaluating the LG K92: Does Its 5G Capability Deliver Value?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-days-gone-blend-zombies-and-bikes-a-detailed-review-insight/"><u>How Does 'Days Gone' Blend Zombies and Bikes? A Detailed Review Insight</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/joining-forces-with-friends-on-netflix-master-the-art-of-screen-mirroring/"><u>Joining Forces with Friends on Netflix? Master the Art of Screen Mirroring!</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-lava-blaze-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Blaze Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722957910011-seamless-connectivity-with-a-new-linksys-ae1200-driver-click-to-install-now/"><u>Seamless Connectivity with a New Linksys AE1200 Driver - Click to Install Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-tech-titans-how-does-ipad-pro-stack-up-against-macbook-pro/"><u>The Battle of Tech Titans: How Does iPad Pro Stack Up Against MacBook Pro?</u></a></li>
 </ul></div>
 

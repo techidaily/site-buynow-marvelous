@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2024-11-21T17:48:26.031Z
-updated: 2024-11-24T20:20:37.341Z
+date: 2024-11-30T07:02:41.319Z
+updated: 2024-12-03T05:09:05.176Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ## Experience the Ultimate Survival Adventure with 'Dying Light' – The Perfect Blend of Cooperative Gameplay and Parkour Excitement
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dying Light
 
@@ -66,6 +70,10 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Straight into the action**
 
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
@@ -73,13 +81,13 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
@@ -95,7 +103,7 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -114,11 +122,11 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Graphics: Attention to detail**
 
@@ -134,10 +142,6 @@ Harran is a whole different city at night.
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Competition: Other zombie and parkour games**
 
  There are a lot of other zombie survival games out there, but that doesn’t necessarily mean we’d recommend them if you liked Dying Light. You might consider Days Gone, another PlayStation 4 zombie apocalypse game set in an open world, but if the parkour was the main attraction, you might look into the game Mirror’s Edge Catalyst. The game follows a girl in a sci-fi world and features first-person parkour running and fighting. Instead of the rough and gritty world of Dying Light, Catalyst takes place in a sleek futuristic dystopia that's all glossy chrome and burnished glass.
@@ -149,10 +153,6 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,24 +175,21 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-online-presence-with-easy-video-sharing-on-fb/"><u>[New] Elevate Your Online Presence with Easy Video Sharing on FB</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-six-innovative-ways-to-screen-capture-netflix-flicks-on-your-macbook/"><u>[New] Six Innovative Ways to Screen Capture Netflix Flicks on Your MacBook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-huawei-p10-analysis-unveiling-performance-and-design/"><u>[Updated] 2024 Approved Huawei P10 Analysis Unveiling Performance & Design</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-expert-level-mp4-integrator-with-fb-compatibility/"><u>[Updated] Expert-Level MP4 Integrator with FB Compatibility</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/advanced-review-of-oculus-quest-2-accessory-set-the-essential-elite-strap-with-extra-power-and-secure-carrying-case/"><u>Advanced Review of Oculus Quest 2 Accessory Set - The Essential Elite Strap with Extra Power and Secure Carrying Case</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affordable-4k-cameras-guide-(1k-top-picks-for-2024/"><u>Affordable 4K Cameras Guide (<$1K) - Top Picks for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722880033241-deciding-between-building-or-purchasing-your-own-computer-find-out-the-best-option/"><u>Deciding Between Building or Purchasing Your Own Computer - Find Out the Best Option</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-playstation-4-pros-visual-enhancements-an-expert-critique-of-its-stunning-4k-display-features/"><u>Decoding the PlayStation 4 Pro's Visual Enhancements: An Expert Critique of Its Stunning 4K Display Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-fix-guide-overcoming-3-0x0001000b-in-rainbow-six-siege/"><u>Error Fix Guide: Overcoming 3-0X0001000B in Rainbow Six Siege</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-amazfit-bip-a-comprehensive-look-at-an-exceptional-budget-smartwatch/"><u>Exploring the Amazfit Bip: A Comprehensive Look at an Exceptional Budget Smartwatch</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-p55plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel P55+ Quickly | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-ipad-proves-superior-to-ipad-air-exploring-the-disparities/"><u>How iPad Proves Superior to iPad Air - Exploring the Disparities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ipod-touch-7th-edition-review-mobile-tech-transitionary/"><u>IPod Touch 7Th Edition Review: Mobile Tech Transitionary</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pro-stream-picks-expertly-chosen-hardware-and-software-combo-for-2024/"><u>Pro Stream Picks Expertly Chosen Hardware & Software Combo for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/settling-the-debate-which-is-better-for-you-iphone-or-android/"><u>Settling the Debate: Which Is Better for You, iPhone or Android?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/studiofx-large-box-review-long-lasting-glow/"><u>StudioFX Large Box Review: Long-Lasting Glow</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-telephones-your-ultimate-guide/"><u>Top-Rated Wireless Telephones : Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transforming-mobile-workstations-the-revolutionary-performance-leap-in-the-2021-ipad-pro-with-m1-chip/"><u>Transforming Mobile Workstations: The Revolutionary Performance Leap in the 2021 iPad Pro with M1 Chip</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 10 Update Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-transition-to-mixer-broadcast-on-macos/"><u>[New] Masterclass Transition to Mixer Broadcast on macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-maximize-impact-best-practices-for-fb-video-posts/"><u>[Updated] 2024 Approved Maximize Impact Best Practices for FB Video Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-flawless-transcription-mastery-with-googles-ai-for-2024/"><u>[Updated] Flawless Transcription Mastery with Google's AI for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>2024 Approved Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-selecting-premium-microphones-for-mac-users-reviewed/"><u>2024 Approved Selecting Premium Microphones for Mac Users (Reviewed)</u></a></li>
+<li><a href="https://win11.techidaily.com/file-management-revolution-making-multiple-directories-at-the-touch-of-a-button-in-windows/"><u>File Management Revolution: Making Multiple Directories at the Touch of a Button in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/h20-audio-stream-waterproof-review-good-underwater-audio/"><u>H20 Audio Stream Waterproof Review: Good Underwater Audio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-samsung-galaxy-watch-active-2-boasting-improved-connectivity-and-insightful-features-relative-to-original-version/"><u>In-Depth Review of Samsung Galaxy Watch Active 2: Boasting Improved Connectivity & Insightful Features Relative to Original Version</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-gram-156-inch-2018-review-a-big-incredibly-light-laptop-that-lasts-and-lasts/"><u>LG Gram 15.6-Inch (2018) Review: A Big, Incredibly Light Laptop that Lasts and Lasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-microsoft-teams-with-ease-using-the-advanced-capabilities-of-ai-assisted-copilot/"><u>Navigate Microsoft Teams with Ease Using the Advanced Capabilities of AI-Assisted Copilot</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-digital-pages-a-look-at-apple-books/"><u>Navigating the Digital Pages: A Look at Apple Books</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-process-to-crafting-impressive-youtube-shorts-templates-for-2024/"><u>Step-By-Step Process to Crafting Impressive YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/success-secrets-unveiled-the-journey-of-nintendos-revolutionary-wii-u/"><u>Success Secrets Unveiled: The Journey of Nintendo's Revolutionary Wii U</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-professional-grade-art-tablets-for-designers-2024-selection/"><u>Top 5 Professional-Grade Art Tablets for Designers - 2024 Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-mystery-why-are-my-desktop-icons-vanishing-in-windows-11-solved/"><u>Uncover the Mystery: Why Are My Desktop Icons Vanishing in Windows 11? [SOLVED]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-strengths-of-the-long-range-capable-uniden-r3-a-reviewers-perspective/"><u>Uncovering the Strengths of the Long-Range Capable Uniden R3 - A Reviewer's Perspective</u></a></li>
 </ul></div>
 

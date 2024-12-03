@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to the Aukey USB Hub (USB 3.0): When Elegance Meets Effectiveness"
-date: 2024-11-21T19:24:35.087Z
-updated: 2024-11-24T19:27:39.677Z
+date: 2024-11-27T00:29:31.780Z
+updated: 2024-12-03T03:27:41.690Z
 categories:
   - BestProducts
 description: "This Article Describes The Essential Guide to the Aukey USB Hub (USB 3.0): When Elegance Meets Effectiveness"
@@ -13,16 +13,12 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 2.7
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -44,13 +40,13 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -70,10 +66,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -88,11 +80,19 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -126,6 +126,10 @@ Lifewire / Kelsey Simon
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -137,10 +141,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -165,19 +165,19 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-a-comparative-look-at-rgb-and-srgb-for-designers/"><u>[New] 2024 Approved A Comparative Look at Rgb and Srgb for Designers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-elite-cyber-retailers-for-perfectly-tailored-presents/"><u>[New] Elite Cyber Retailers for Perfectly Tailored Presents</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-insight-into-burst-mode-for-dynamic-photography/"><u>[New] Insight Into Burst Mode for Dynamic Photography</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-streaming-stats-how-much-does-pewdiepie-earn/"><u>[New] Streaming Stats How Much Does PewDiePie Earn?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>[Updated] In 2024, Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-self-animated-wonders-cutting-edge-techniques-for-you/"><u>[Updated] Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-viral-video-quarterly-watch/"><u>2024 Approved Viral Video Quarterly Watch</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/solving-stick-drift-issues-a-comprehensive-guide-for-steam-deck-gamers/"><u>Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/start-your-fitness-journey-with-fun-why-nintendo-consoles-are-ideal-for-exercise-novices/"><u>Start Your Fitness Journey with Fun: Why Nintendo Consoles Are Ideal for Exercise Novices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stream-in-style-deciding-between-disneyplus-and-netflix-for-your-entertainment-needs/"><u>Stream in Style: Deciding Between Disney+ and Netflix for Your Entertainment Needs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/streamline-your-storytelling-spotifys-new-affordable-audiobook-subscription-at-just-999/"><u>Streamline Your Storytelling: Spotify's New Affordable Audiobook Subscription at Just $9.99!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-streaming-sticks-unveiling-the-distinctions-between-sling-orange-and-sling-blue-with-premium-add-ons/"><u>The Battle of Streaming Sticks: Unveiling the Distinctions Between Sling Orange & Sling Blue with Premium Add-Ons</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-evolution-of-editing-software-reviewed-magix-vpx/"><u>The Evolution of Editing Software Reviewed Magix VPX</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-impact-of-no-console-availability-on-enhancing-pc-gaming-quality-and-variety/"><u>The Impact of No Console Availability on Enhancing PC Gaming Quality and Variety</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-safest-video-call-options-for-your-smartphone-or-tablet-for-2024/"><u>[New] Discover the Safest Video Call Options for Your Smartphone or Tablet for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortlessly-muted-music-garagebands-quiet-methods-for-2024/"><u>[New] Effortlessly Muted Music Garageband's Quiet Methods for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamlining-in-game-video-production-a-complete-guide/"><u>[New] In 2024, Streamlining In-Game Video Production A Complete Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>[Updated] Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-detecting-instagram-disconnections-fast/"><u>2024 Approved Detecting Instagram Disconnections Fast</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-acer-chromebook-cb3-15-with-a-striking-15-inch-display-for-efficient-browsing/"><u>Comprehensive Review of the Acer Chromebook CB3-15 with a Striking 15-Inch Display for Efficient Browsing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-power-in-depth-analysis-of-the-top-race-rc-rock-crawler-for-ultimate-trail-conquest/"><u>Discovering the Power: In-Depth Analysis of the Top Race RC Rock Crawler for Ultimate Trail Conquest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfecting-your-video-conferencing-experience-with-slack-and-filmora/"><u>In 2024, Perfecting Your Video Conferencing Experience with Slack & Filmora</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-mavix-m9-gaming-chair-ultimate-comfort-for-extended-play/"><u>In-Depth Evaluation of the Mavix M9 Gaming Chair: Ultimate Comfort for Extended Play</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/proven-performance-expert-picks-for-premium-bd-drives-in-the-market-2024-edition/"><u>Proven Performance: Expert Picks for Premium BD Drives in the Market - 2024 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/scambio-di-formati-ogg-per-mp4-online-senza-costi-utilizzando-il-servizio-di-conversione-di-movavi/"><u>Scambio Di Formati Ogg per MP4 Online Senza Costi - Utilizzando Il Servizio Di Conversione Di Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs-for-2024/"><u>Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287027020-vlc-media-player/"><u>VLC Media Player 使用ガイド - 包括的な解説とコツ</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vyncs-link-evaluation-revealed-dependable-tracer-with-perplexing-membership-rates/"><u>Vyncs Link Evaluation Revealed: Dependable Tracer with Perplexing Membership Rates</u></a></li>
 </ul></div>
 

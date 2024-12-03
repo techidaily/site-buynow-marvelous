@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-11-21T17:13:17.143Z
-updated: 2024-11-24T16:22:57.161Z
+date: 2024-12-01T16:00:01.675Z
+updated: 2024-12-03T16:00:12.984Z
 tags:
   - games
   - tv
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  There's nothing worse than the sinking feeling of disappointment you get after purchasing a shiny new graphics card when you realize that it doesn't work correctly. Before you lose your cool and return it, follow these troubleshooting tips to make sure the card was installed correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Video Cable
 
  Before we dive into more involved troubleshooting steps, have you double-checked that your monitor's cable is plugged into the graphics card and not the motherboard? In standard computer cases, the graphics card video ports are always below the motherboard I/O. If you plug your monitor into the motherboard, the [integrated graphics will take over](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/), and your shiny graphics card will just sit unused.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![The back of a computer with the graphics card I/O in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rsz_img20240205151519.jpg) 
 
 Ismar Hrnjicevic / How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Check the Power Cables
 
@@ -51,13 +51,13 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A graphics card inside a computer iwth a missing 6-pin power supply cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_17h16_49.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ismar Hrnjicevic / How-To Geek
 
  If you have a transparent side panel, you can visually inspect it to see if all power supply cables are plugged in. If they aren't, shut off the computer, turn off the power supply, and remove the side panel. Find an unoccupied and appropriate power connector from your power supply, gently plug it into the graphics card until it clicks, and that's it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Reseat the Graphics Card
 
@@ -68,7 +68,7 @@ Ismar Hrnjicevic / How-To Geek
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
@@ -77,6 +77,10 @@ Jason Fitzpatrick / How-To Geek
 
  After that, push the graphics card back in until you feel it click into place, put your side panel back on, reconnect the cables, flip the switch on your power supply, and boot your PC again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Fully Uninstall Old Graphics Drivers Before Installing New Ones
 
  If you upgraded from one graphics card to another, you must do a [clean driver install](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/) if you want the card to work correctly. That's because leftover bits of code stay in Windows, even if you uninstalled the old drivers using conventional methods. The leftover code can cause issues with how the operating system utilizes the graphics card.
@@ -84,7 +88,7 @@ Jason Fitzpatrick / How-To Geek
  Thankfully, the solution is rather quick and painless. All you have to do is download and install [Display Driver Uninstaller (DDU)](https://www.guru3d.com/download/display-driver-uninstaller-download/), select your graphics card brand, and follow the on-screen prompts. When you're done, do a fresh installation of your graphics card drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the In-Game Temperatures and Usage
@@ -115,10 +119,6 @@ Justin Duino / How-To Geek
 
  Try [turning Game Mode on and off](https://vp-tips.techidaily.com/updated-optimize-visual-design-top-10-must-have-type-plugins-for-ae/) under Windows settings to see if it helps. We also have a [Windows 11 gaming optimization guide](https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/) that'll help you squeeze out even more performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Maybe Your Other Hardware Is Holding You Back
 
  If you've tried everything, yet nothing seems to work, perhaps it's not the new graphics card; maybe it's everything else. If you upgrade your computer with a new graphics card but keep everything else as is, it can cause a [bottleneck](https://tech-recovery.techidaily.com/troubleshooting-windows-11-what-to-do-if-your-system-fails-to-shut-down/).
@@ -140,20 +140,21 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-to-the-best-10-spotify-music-recorder-apps-for-2024/"><u>[New] Ultimate Guide to the Best 10 Spotify Music Recorder Apps for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-capture-the-light-filmographys-five-essential-camera-techniques-of-24-for-2024/"><u>[Updated] Capture the Light Filmography's Five Essential Camera Techniques of '24 for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-halo-bolt-jump-starter-and-portable-charger-analysis/"><u>Comprehensive Halo Bolt Jump Starter and Portable Charger Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/day-and-night-fitbit-inspire-hr-review-your-unyielding-partner-in-health-monitoring-and-fitness-goals/"><u>Day & Night, Fitbit Inspire HR Review - Your Unyielding Partner in Health Monitoring and Fitness Goals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-coolpix-w100s-rugged-value/"><u>Discover Coolpix W100's Rugged Value</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-best-free-darkroom-suite-lightzone-available-on-pc-mac-and-linux-platforms/"><u>Discover the Best Free Darkroom Suite - Lightzone Available on PC, Mac & Linux Platforms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/docooler-usb-camera-reviewed-assessing-whether-its-promises-outshine-its-actual-features-and-output/"><u>Docooler USB Camera Reviewed: Assessing Whether Its Promises Outshine Its Actual Features and Output</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/doggy-drama-review-heartwarming-family-watch/"><u>Doggy Drama Review: Heartwarming Family Watch</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-retro-gaming-setup-with-additional-nes-classics/"><u>Enhancing Your Retro Gaming Setup with Additional NES Classics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y200-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y200</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-sweet-screen-snatcher-examination-in-depth/"><u>In 2024, Sweet Screen Snatcher Examination In-Depth</u></a></li>
-<li><a href="https://win-able.techidaily.com/revive-your-mozilla-experience-8-key-fixes-for-when-firefox-stalls/"><u>Revive Your Mozilla Experience: 8 Key Fixes for When Firefox Stalls</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-installing-missing-device-drivers-in-windows-operating-systems/"><u>Step-by-Step Guide to Installing Missing Device Drivers in Windows Operating Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-narzo-60-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme Narzo 60 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/shing-video-popularity-leading-trackers-for-youtube-for-2024/"><u>Unleashing Video Popularity Leading Trackers for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-masked-image-softening-tricks/"><u>[Updated] Mastering Masked Image Softening Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-trending-14-moving-text-design-illustrations-for-2024/"><u>[Updated] Trending 14 Moving Text Design Illustrations for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unfollowers-alert-on-your-instagram-map/"><u>[Updated] Unfollowers Alert on Your Instagram Map</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-average-an-in-depth-look-at-the-avengers-by-marvel/"><u>Analyzing the Average: An In-Depth Look at 'The Avengers' By Marvel</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-reno-9a-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Reno 9A? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-linksys-velops-performance-in-modern-homes/"><u>Comprehensive Evaluation of Linksys Velop's Performance in Modern Homes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decision-time-which-is-better-apple-tv-4k-or-roku-ultra-for-seamless-viewing/"><u>Decision Time: Which Is Better? Apple TV 4K or Roku Ultra for Seamless Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-netgear-orbi-range-extender-rbs5-perfect-for-yards/"><u>Expert Review of the Netgear Orbi Range Extender (RBS5#) - Perfect for Yards</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-password-recovery-without-the-typical-contact-details-a-step-by-step-guide/"><u>Facebook Password Recovery Without the Typical Contact Details – A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-samsung-un65nu8000fxza-expensive-yet-unimpressive-smart-tv/"><u>In-Depth Analysis of Samsung UN65NU8000FXZA: Expensive Yet Unimpressive Smart TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-asus-rt-ac88u-a-worthy-contender-for-gamers/"><u>In-Depth Review of Asus RT-AC88U - A Worthy Contender for Gamers?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movavis-simplified-video-converter-livre-on-line-formatos-aberto-qt-and-wmv-incorporados/"><u>Movavi's Simplified Video Converter - Livre On-Line, Formatos Aberto QT & WMV Incorporados</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-magicard-rio-pro-driver-download-now-for-windows-7-81-and-10/"><u>New Release: Magicard Rio Pro Driver - Download Now for Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y100i-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y100i to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-withings-move-smartwatch-an-affair-of-retro-design-and-modern-features-our-complete-assessment/"><u>Unveiling The Withings Move Smartwatch: An Affair of Retro Design and Modern Features, Our Complete Assessment</u></a></li>
 </ul></div>
 
