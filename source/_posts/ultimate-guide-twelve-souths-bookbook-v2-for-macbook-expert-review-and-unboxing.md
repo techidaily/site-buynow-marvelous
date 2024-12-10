@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Twelve South's BookBook V2 for MacBook - Expert Review & Unboxing"
-date: 2024-09-13T09:34:37.675Z
-updated: 2024-09-14T22:53:25.216Z
+date: 2024-12-09T01:54:27.515Z
+updated: 2024-12-10T10:13:41.526Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Twelve South's BookBook V2 for MacBook - Expert Review & Unboxing"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 
 ![](https://www.lifewire.com/thmb/6eBth_cNXyUbw7QNSSRjRVSyMg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MC_Campfire_Tales_Blog_1024x576-58058f245f9b5805c27e632c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Minecraft / Mojang
 
  When Halloween comes around, these skins will definitely tickle your fancy in the area of spookiness. As the “Campfire Tales” skin pack is catered to the idea that the name suggests, it’s easy to come to the conclusion that these skins were designed to bring a new realm of creativity to the player, allowing them to make their own stories in-game or within their imagination. Each skin supposedly has its own story, with Mojang sharing a few of them in their recent post mentioning their existence. These various stories have been noted in the form of poems, with Ol’ Diggy’s and The Sea-Swallowed Captain’s being released.
@@ -23,6 +27,10 @@ Minecraft / Mojang
  Ol’ Diggy’s story has been noted as, “In mines and lonely caverns deep, you sometimes hear the sound: The tunk-tunk-tunk- of Diggy’s pick still prying at the ground. But light a torch and no one’s there, just shadows on the wall - No glimpse of Diggy’s greedy shade, still searching for his haul.”
 
  The Sea-Swallowed Captain’s story was released stating, “Upon the black and wicked sea, The Captain did once sail, until it called her to its depths with lightning, wind, and hail. Some say she stalks the salt-stained shores, a briney, weed-wrapped wight, seeking young folk to join her crew, down in eternal night.”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sixteen Skins
 
@@ -32,9 +40,17 @@ Minecraft / Mojang
 
  These various additions bring a new level of artistic vision to what was originally viewed as normal for design in terms of skins for players. While we, the players, are not able to create our own skins in this new “model” nature, we can enjoy the freedom of knowing there are plenty of skins with these specific concepts of design implemented.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pros and Cons
 
 ![](https://www.lifewire.com/thmb/6T6cL28OPsm_1U5VPkd6PBwgMIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/headless-haunter-580590743df78cbc2843ddb2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Minecraft / Mojang
 
@@ -46,22 +62,13 @@ Minecraft / Mojang
 
  Aside from the cost of the skin being the one negative, there are loads of positives. The designs are wonderful and fit with the Halloween season, the price isn’t as high as it honestly could be, and the diversity of characters are sure to make you learn everything about their appearance.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Personal Preference
 
 ![Minecraft Skins](https://www.lifewire.com/thmb/kTjWZONU4iWrxUPn3I5oAzkumkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/farlander-5805908a3df78cbc2843de47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Minecraft / Mojang
 
@@ -76,13 +83,6 @@ Minecraft / Mojang
  The Sea-Swallowed Captain makes his very blue debut in this skin pack, showcasing many of his interesting features. With his hook for a hand, a peg leg, his missing teeth, a pirate hat, and his deep blue skin, it’d be very hard to miss him in a crowd. Out of the bunch, his skin is arguably the most detailed. The colors, layers, carefully detailed body parts, and outright originality used to create this character bring many new possibilities for designing[mobs](https://www.lifewire.com/minecraft-mobs-explained-creepers-2363323) and entities for "Minecraft."
 
  While there are other honorable mentions that were very close to making it to my top four skins within this pack, these are the ones I felt deserved the most recognition out of the bunch.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## In Conclusion
 
@@ -117,5 +117,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-footprints-keeping-your-twitter-vids-safe-and-sound/"><u>[New] 2024 Approved Digital Footprints Keeping Your Twitter Vids Safe and Sound</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[Updated] In 2024, Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-crafting-gifs-from-youtube-detailed-step-by-step-guide-for-pcmobile/"><u>[Updated] In 2024, Crafting GIFs From YouTube Detailed Step-by-Step Guide for PC/Mobile</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-go-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark Go (2023) to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-terminal-in-quake-setting/"><u>Mastering Windows Terminal in Quake Setting</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-mystic-light-failure-on-windows-how-to-restore-proper-functionality/"><u>MSI Mystic Light Failure on Windows - How to Restore Proper Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/revitalize-your-matches-proven-techniques-to-combat-low-fps-problems-in-valorant-for-the-current-year/"><u>Revitalize Your Matches: Proven Techniques to Combat Low FPS Problems in Valorant for the Current Year</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-capture-must-haves-for-effective-google-meeting-use/"><u>Screen Capture Must-Haves for Effective Google Meeting Use</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-combat-wi-fi-woes-for-lol-in-windows/"><u>Steps to Combat Wi-Fi Woes for LoL in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-basketball-gaming-with-nba-2k19/"><u>Top-Tier Basketball Gaming with NBA 2K19</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transitioning-from-windows-7-to-10-a-comprehensive-guide/"><u>Transitioning From Windows 7 to 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-showdown-comparing-features-of-roku-vs-fire-tv-stick-to-find-your-ideal-streamer/"><u>Ultimate Showdown: Comparing Features of Roku Vs. Fire TV Stick to Find Your Ideal Streamer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-samsung-galaxy-tab-s7-the-ultimate-compact-device-for-fans-of-android-os/"><u>Unboxing and Testing the Samsung Galaxy Tab S7 - The Ultimate Compact Device for Fans of Android OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-potential-of-the-garmin-forerunner-245-a-fitness-enthusiasts-review/"><u>Uncovering the Potential of the Garmin Forerunner 245 - A Fitness Enthusiast's Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-microsoft-sculpt-ergonomic-keyboards-value-a-detailed-review/"><u>Unpacking the Microsoft Sculpt Ergonomic Keyboard's Value: A Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-detailed-look-at-samsungs-wellness-focused-smartwatch-galaxy-active/"><u>Unveiling the Benefits: A Detailed Look at Samsung's Wellness-Focused Smartwatch, Galaxy Active</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excellence-of-the-dell-xps-13-2-in-1-laptop-a-complete-review/"><u>Unveiling the Excellence of the Dell XPS 13 2-in-1 Laptop - A Complete Review</u></a></li>
+</ul></div>
 

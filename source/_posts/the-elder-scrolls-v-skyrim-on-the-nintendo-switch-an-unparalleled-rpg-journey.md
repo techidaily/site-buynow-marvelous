@@ -1,7 +1,7 @@
 ---
 title: "The Elder Scrolls V: Skyrim on the Nintendo Switch – An Unparalleled RPG Journey"
-date: 2024-09-09T07:40:29.139Z
-updated: 2024-09-14T19:07:23.200Z
+date: 2024-12-03T22:33:45.175Z
+updated: 2024-12-09T19:15:05.916Z
 categories:
   - BestProducts
 description: "This Article Describes The Elder Scrolls V: Skyrim on the Nintendo Switch – An Unparalleled RPG Journey"
@@ -68,7 +68,15 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/uXDVHaBrdIlv5tI-qRgiPK0Iig4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460721-e6a53664e7eb4e65a75bf5cceb928e28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Plot: A huge world with loads to explore**
 
@@ -87,6 +95,10 @@ Lifewire / Kelsey Simon
  When it comes to role-playing games, Skyrim balances player control perfectly with world immersion. You can learn everything there is to know about the world of Skyrim if you wish, or you can just run along killing things and doing the main missions. It’s really up to you.
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/1fxH7ty_kqxpugJDk2tIQndKvI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546078-6bdc67e56311473f9c1edeab00d2caa5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -110,16 +122,13 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Graphics: A bit outdated**
 
  The graphics in Skyrim aren’t awful, but they haven't progressed much since 2011\. If you’ve played any other version of Skyrim, you can overlook it, simply because you know what you’re getting into. Bethesda attempted to make Skyrim look realistic, likely in their desire to give you a fully immersive experience. But these days, Skyrim’s graphics just aren’t as realistic as what other, more recent games have accomplished. In places, the mountains look blocky and the grass a little patchy. Character’s faces sometimes seem deeply sunken around the eyes, with the skin looking more like leather than flesh. It’s not that the graphics are overly bad, they’re just not as good as what you can get with better hardware on the PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Platform: Take Skyrim on the go**
 
@@ -134,13 +143,6 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/Iik6f_7RIRMWo5R6zGYxgGeL4n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546076-8fb741faa7144fa6bafe386d2b7d8296.jpg)
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: A tad expensive**
 
@@ -161,10 +163,7 @@ Lifewire / Kelsey Simon
  Even though The Elder Scrolls V: Skyrim is a great game and the Switch is an amazing platform, our advice is only to buy Skyrim for the Switch if you’re looking to play on the go. Otherwise, we’d suggest purchasing Skyrim for the PC, where you’ll really be able to enjoy superior graphics and customization options.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -174,10 +173,7 @@ Lifewire / Kelsey Simon
 * [Splatoon 2](https://www.lifewire.com/splatoon-2-review-4688940)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -200,5 +196,24 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-cultivating-commitment-gentle-subscription-strategies/"><u>[New] 2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-win11s-ultimate-selection-of-free-screen-recording-software-1-5/"><u>[New] 2024 Approved Win11's Ultimate Selection of Free Screen Recording Software #1-5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elite-e-learning-platforms-beyond-udemy-explored-for-2024/"><u>[New] Elite E-Learning Platforms Beyond Udemy Explored for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-perfecting-sound-with-ideal-cam-mics-list-for-2024/"><u>[New] Perfecting Sound with Ideal Cam Mics List for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-eliminating-oculus-sickness-key-tactics/"><u>[Updated] 2024 Approved Eliminating Oculus Sickness Key Tactics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-tp-link-re505x-ultimate-guide-to-extending-your-wifi-coverage/"><u>A Closer Look at TP-Link RE505X - Ultimate Guide to Extending Your WiFi Coverage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/alexa-integrated-ultra-hd-ready-insignia-ns-43df710na19-fire-tv-edition-an-unbeatable-combination/"><u>Alexa Integrated, Ultra HD Ready Insignia NS-43DF710NA19 Fire TV Edition - An Unbeatable Combination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-face-off-exploring-differences-between-gps-and-cellular-connectivity/"><u>Apple Watch Face-Off: Exploring Differences Between GPS and Cellular Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-amazonbasics-review-for-crisp-clear-live-broadcasts-on-your-plasma-or-lcd-screen/"><u>Budget-Friendly AmazonBasics Review for Crisp, Clear Live Broadcasts on Your Plasma or LCD Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calculate-and-change-aspect-ratio-online-for-2024/"><u>Calculate and Change Aspect Ratio Online for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-the-features-of-low-cost-ws-2902a-osprey-weather-sensor-an-in-depth-review/"><u>Comparing the Features of Low-Cost WS-2902A Osprey Weather Sensor: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-google-nest-hello-security-camera-features/"><u>Comprehensive Analysis of the Google Nest Hello Security Camera Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968981480-enhance-your-display-downloadingupdating-asus-vg2-48qe-graphics-card-drivers-for-windows-effortlessly/"><u>Enhance Your Display: Downloading/Updating Asus VG2 48QE Graphics Card Drivers for Windows Effortlessly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-xs-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone XS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-process-of-batched-tiktok-content-extraction/"><u>Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wasteland-2-remastered-review-directors-cut-edition-delivers-an-unforgettable-turn-based-adventure/"><u>Wasteland 2 Remastered Review - Director's Cut Edition Delivers an Unforgettable Turn-Based Adventure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/whats-new-in-microsoft-surface-pro-7-we-dive-into-its-consistent-quality-and-reliable-enhancements/"><u>What's New in Microsoft Surface Pro 7? We Dive Into Its Consistent Quality and Reliable Enhancements</u></a></li>
+</ul></div>
 

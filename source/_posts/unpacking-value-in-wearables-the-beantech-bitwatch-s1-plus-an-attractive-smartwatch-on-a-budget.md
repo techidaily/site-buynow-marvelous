@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
-date: 2024-11-26T00:34:46.933Z
-updated: 2024-12-03T10:17:59.859Z
+date: 2024-12-04T20:37:51.254Z
+updated: 2024-12-10T14:02:58.698Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
@@ -37,12 +37,16 @@ Lifewire / Todd Braylor
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fitbit Versa Lite
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/O7QnNkdge4zffV7BYmgcQZadk2I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-HeroSquare-771afa6a985240f0ab5fe71246b3d502.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -72,10 +76,6 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/A3jXmqXMfkFi3FKj8NYHxxYKi84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-03-849db13f6309480cb88c9d05e512f1a1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Todd Braylor
 
 ## **Design: Customizable and instinctive**
@@ -93,7 +93,7 @@ Lifewire / Todd Braylor
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/ehQeP3qIsRUrUZp6p58PkmyfjZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-02-cbb859573ea64d6bbd3cb967820dbdec.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Todd Braylor
@@ -106,11 +106,11 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/BD_8kRJ7n6qQdf5LY9rLKiYigTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-05-fac178f5e6b240c29ff8d1e1e4fcb96f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Comfort: Attractive and confident wearability**
 
@@ -119,6 +119,10 @@ Lifewire / Todd Braylor
  Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed.
 
  Aesthetically, the Versa Lite's screen and wrist band are attractive and look sleek. You can confidently wear the Versa Lite in any professional setting—it's good-looking but not overly flashy. Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed and you might find yourself wanting to leave it on the bedside table instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Lean and effective**
 
@@ -140,11 +144,11 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/97XADSG__Ti-9y6W9YfT6A-sRLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-04-a5baf62c5de749cb93986be2eab3ad2d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery Life: Days of activity**
 
@@ -187,7 +191,7 @@ Lifewire / Todd Braylor
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -195,10 +199,6 @@ Lifewire / Todd Braylor
 * [Garmin Forerunner 945](https://www.lifewire.com/garmin-forerunner-945-review-4768586)
 * [Fitbit Inspire HR](https://www.lifewire.com/fitbit-inspire-hr-review-4768656)
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -234,22 +234,17 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-integrating-movie-capture-across-all-operating-systems/"><u>[New] 2024 Approved Integrating Movie Capture Across All Operating Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-easy-steps-to-archive-vimeo-video-recordings/"><u>[Updated] 2024 Approved Easy Steps to Archive Vimeo Video Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[Updated] 2024 Approved From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-smooth-sailing-with-kinemaster-in-film-edits-for-2024/"><u>[Updated] Smooth Sailing with Kinemaster in Film Edits for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-streamline-your-path-to-youtubes-srt-files-for-2024/"><u>[Updated] Streamline Your Path to YouTube's SRT Files for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-playability-eliminating-latency-issues-in-mass-effect-legendary-edition/"><u>Enhancing Playability: Eliminating Latency Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expertly-chosen-fastest-internet-portals-of-2024/"><u>Expertly Chosen Fastest Internet Portals of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-non-microsoft-suites-for-2eomdyo/"><u>Exploring the Best Non-Microsoft Suites for 2Eomdyo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-essential-data-protection-acronis-true-image-now-at-a-20-discounted-rate/"><u>Get Your Essential Data Protection - Acronis True Image Now at a 20% Discounted Rate!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-honor-100-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Honor 100</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-next-mac-os-version-sonoma-right-for-you/"><u>Is the Next Mac OS Version, Sonoma, Right for You?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-wifi-coverage-with-the-netgear-ex6200-ac1200-range-extender-our-expert-review/"><u>Maximizing WiFi Coverage with the Netgear EX6200 AC1200 Range Extender - Our Expert Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-internet-laughter-10-ultimate-memes/"><u>The Art of Internet Laughter - 10 Ultimate Memes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-creme-de-la-creme-of-karaoke-audio-gear-for-a-singing-sensation-in-karaokemachines/"><u>The Crème De La Crème of Karaoke Audio Gear for a Singing Sensation in #KaraokeMachines</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-smart-and-sleek-combo-an-insightful-review-of-tcls-32-325-series-roku-enabled-led-set-2019/"><u>The Smart and Sleek Combo: An Insightful Review of TCL's 32 325 Series Roku-Enabled LED Set (2019)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-audio-assault-apple-vs-samsung-for-hearing-supremacy/"><u>The Ultimate Audio Assault: Apple Vs. Samsung for Hearing Supremacy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-tech-face-off-iphone-vs-android-discover-your-ideal-device/"><u>The Ultimate Tech Face-Off: IPhone vs Android – Discover Your Ideal Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-guide-to-best-android-video-capture-software-5/"><u>[New] 2024 Approved Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[New] Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/desktop-level-prowess-in-a-portable-form-a-comprehensive-review-of-the-m1-powered-2021-ipad-pro/"><u>Desktop-Level Prowess in a Portable Form: A Comprehensive Review of the M1-Powered 2021 iPad Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-manfrotto-befree-tripod-industry-standard/"><u>Elite Manfrotto Befree Tripod: Industry Standard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-list-the-ultimate-linkedin-training-programs-for-professionals/"><u>Exclusive List: The Ultimate LinkedIn Training Programs for Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-a-refreshing-morning-with-the-totobay-wake-up-light-2nd-generation-top-affordable-option/"><u>Experience a Refreshing Morning with the Totobay Wake-Up Light 2Nd Generation - Top Affordable Option!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-revolutionary-combination-of-portability-and-performance-with-the-new-2021-ipad-pro-m1/"><u>Experience the Revolutionary Combination of Portability and Performance with the New 2021 iPad Pro (M1)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-samsungs-digital-photography-enhancements/"><u>In 2024, Examining Samsung's Digital Photography Enhancements</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-triple-widget-grid-layout-in-windows-11/"><u>Mastering the Triple Widget Grid Layout in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-frame-by-frame-how-to-convert-videos-to-images-with-these-10-powerful-tools/"><u>Updated 2024 Approved Frame by Frame How to Convert Videos to Images with These 10 Powerful Tools</u></a></li>
 </ul></div>
 

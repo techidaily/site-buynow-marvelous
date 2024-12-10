@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
-date: 2024-11-28T18:31:25.155Z
-updated: 2024-12-03T14:25:07.857Z
+date: 2024-12-03T16:01:41.555Z
+updated: 2024-12-09T22:55:02.758Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/KrDytBTanTcHvHFz_EGmqfJ1YHg=/400x300/fi
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -91,6 +95,10 @@ Lifewire / Andy Zahn
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
@@ -98,7 +106,7 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
@@ -109,10 +117,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -120,10 +124,6 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -141,6 +141,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -154,10 +158,6 @@ Lifewire / Andy Zahn
  A problem with all these automated modes and scene settings is that the images they produce are exclusively JPEG, with RAW being unavailable. Fortunately, Program mode is essentially the same as Auto, and you can enable RAW image recording there.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Video Quality: A mixed bag**
 
@@ -189,6 +189,10 @@ Lifewire / Andy Zahn
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Competition: Dominating from the middle ground**
 
  Canon hasn’t tried to push any boundaries with the SX70 HS. Instead, it plays it safe and just does everything very well. Two of its main competitors in the superzoom arena, Panasonic and Nikon, offer intriguing alternatives by either cutting costs or offering groundbreaking technological advances.
@@ -205,10 +209,6 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -216,7 +216,7 @@ Lifewire / Andy Zahn
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -253,19 +253,17 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-extraordinary-12-tools-for-endless-screen-capture/"><u>[Updated] In 2024, Extraordinary 12 Tools for Endless Screen Capture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/12-device-revolutionizes-unused-ssds-into-versatile-extermal-storage-solutions-the-complete-zdnet-tutorial/"><u>$12 Device Revolutionizes Unused SSDs Into Versatile Extermal Storage Solutions: The Complete ZDNET Tutorial</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/alexas-full-capabilities-packed-into-the-compact-echo-dot-gen-3-in-depth-review/"><u>Alexa's Full Capabilities Packed Into the Compact Echo Dot (Gen 3): In-Depth Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choosing-the-best-streamer-chromecast-vs-roku/"><u>Choosing the Best Streamer: Chromecast vs Roku</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critique-of-avengers-by-marvel-exceptional-average-or-just-overhyped/"><u>Critique of 'Avengers' By Marvel: Exceptional Average or Just Overhyped?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-a70-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel A70 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-component-supply-chains-expand-as-apple-relaxes-control-over-spare-part-procurement/"><u>IPhone Component Supply Chains Expand as Apple Relaxes Control Over Spare Part Procurement</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-process-to-install-latest-version-of-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Process to Install Latest Version of Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-enhancing-wireless-range-with-netgears-ac1200-extender-ex6200-reviews-and-insights/"><u>The Ultimate Guide to Enhancing Wireless Range with Netgear's AC1200 Extender (EX6200) - Reviews & Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-of-the-best-androidios-games/"><u>The Ultimate List of the Best Android/iOS Games</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-essential-iphone-gadgets-every-owner-must-have/"><u>Top Essential iPhone Gadgets Every Owner Must Have</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transforming-your-ipad-into-a-dual-display-a-step-by-step-guide-for-windows-users/"><u>Transforming Your iPad Into a Dual Display: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/turbocharging-your-journey-10-must-have-srt-converters/"><u>Turbocharging Your Journey 10 Must-Have SRT Converters</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-charms-and-challenges-of-the-asus-bw-16d1x-u-blu-ray-drive-a-comprehensive-review/"><u>Unveiling the Charms & Challenges of the Asus BW-16D1X-U Blu-Ray Drive: A Comprehensive Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-subscriber-sequence-strategizing-success-on-youtube/"><u>[Updated] In 2024, The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-companion-for-high-fps-filming-yi-hero/"><u>[Updated] In 2024, The Ultimate Companion for High FPS Filming Yi Hero</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-selecting-the-perfect-drone-stabilizer-a-guide/"><u>2024 Approved Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-gionee-f3-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Gionee F3 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/enjoy-free-downloads-of-heartwarming-kids-films-where-joy-welcomes-young-ones/"><u>Enjoy Free Downloads of Heartwarming Kids' Films Where Joy Welcomes Young Ones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-a71-5g-reviewed-why-its-a-wise-alternative-to-expensive-flagship-models/"><u>The Samsung Galaxy A71 5G Reviewed - Why It's a Wise Alternative to Expensive Flagship Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-blueear-wireless-bluetooth-beanie-stylish-headwear-meets-great-sound-quality/"><u>The Ultimate Guide to the Blueear Wireless Bluetooth Beanie: Stylish Headwear Meets Great Sound Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-entertaining-games-to-beat-boredom-anywhere-anytime/"><u>Top 10 Entertaining Games to Beat Boredom Anywhere, Anytime</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-long-distance-wireless-routers-reviews-and-comparisons/"><u>Top Long-Distance Wireless Routers - Reviews and Comparisons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-raw-photos-on-mac-and-linux-with-darktable-the-ultimate-free-editing-software/"><u>Transform Your RAW Photos on Mac & Linux with Darktable - The Ultimate Free Editing Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-windows-10s-pnp-detected-fatal-malfunction-a-step-by-step-guide/"><u>Winning Against Windows 10'S 'PNP Detected' Fatal Malfunction – A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Canon PowerShot SX740 HS Review: A Simple, Pocket-Sized Camera"
-date: 2024-09-08T23:34:59.275Z
-updated: 2024-09-15T11:40:52.035Z
+date: 2024-12-09T01:35:05.748Z
+updated: 2024-12-09T16:14:46.646Z
 categories:
   - BestProducts
 description: "This Article Describes Canon PowerShot SX740 HS Review: A Simple, Pocket-Sized Camera"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 4.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Anker PowerCore+ 26800 Battery Pack
 
 ![Anker](https://www.lifewire.com/thmb/lNQbd16pbRC0R9DGxN2t8vYzL7o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_HEROWebSQUARE-5c90fd70c9e77c0001eb1cc6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -36,6 +44,10 @@ Lifewire / Gannon Burgett
 [View On Amazon $100](https://www.amazon.com/dp/B07XRJZXKY?tag=lifewire-onsite-prod-20&ascsubtag=4589459%7Cne013ed3beb0f470caee172c55826658d22%7CB07XRJZXKY)
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anker PowerCore+ 26800 Battery Pack
 
@@ -73,18 +85,15 @@ Lifewire / Gannon Burgett
 
  The PowerCore+ 26800 features a single button on the top of the device to show remaining battery life and three ports on one of the two flat sides: two 5V/3A PowerIQ USB ports (Power IQ is Anker's proprietary smart-charging standard) and a power delivery[USB Type-C](https://www.lifewire.com/usb-c-4149490) port. It's a no-frills design that gets to the point without any unnecessary details or frills and it looks great when paired with any clean, modern device if you care about form as much as function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Simple to start, but there’s yet another adapter to carry around**
 
  As with most battery chargers, there's not much to the Anker PowerCore+ 26800\. Inside the box is the battery pack, a 30W USB Type-C wall charger, and two cables: a USB Type-C to USB Type-C and a micro USB to USB Type-C.
 
 ![Anker](https://www.lifewire.com/thmb/Ps-fDFicjMGSS8OppN-xw5yn_mg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_1-Web-5c90fc3dc9e77c0001eb1cc5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
@@ -105,10 +114,7 @@ Lifewire / Gannon Burgett
 ![Anker](https://www.lifewire.com/thmb/tJwshohQXfV-U0_iKVTCkHEhFLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_6Web-5c90fcc6c9e77c0001a92733.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
@@ -118,13 +124,6 @@ Lifewire / Gannon Burgett
 ## **Price: Perfectly priced for its power**
 
  The Anker PowerCore+ 26800 retails for $129.99\. That alone is a deal in terms of power output, but add in the 30W USB wall charger and the two cables and it's an absolute steal. The USB wall charger alone goes for $25.99 and the cables easily add up to $10 together, meaning you're effectively paying $100 for the charger.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Anker PowerCore+ 26800 vs. RAVPower 26800**
 
@@ -174,5 +173,26 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-famous-makeupbeauty-gurus-on-youtube-popular-2024/"><u>[Updated] 10 Famous Makeup/Beauty Gurus on YouTube [Popular 2024]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-newbies-guide-to-understanding-core-filming-techniques/"><u>[Updated] 2024 Approved The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-why-are-social-media-suggested-videos-evanescent/"><u>[Updated] In 2024, Why Are Social Media Suggested Videos Evanescent?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-online-tutorial-adding-youtube-playlists-to-your-site/"><u>2024 Approved Online Tutorial Adding YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-youtube-studios-power-for-professional-edits/"><u>2024 Approved Unlocking YouTube Studio's Power for Professional Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-faithful-functions-to-windows-ui-tools/"><u>Adding Faithful Functions to Windows' UI Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-a05s-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel A05s Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-s17e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo S17e Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-sony-xperia-10-v-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Sony Xperia 10 V FRP Bypass</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/simple-guide-converting-mp4-videos-into-amv-format-seamlessly/"><u>Simple Guide: Converting MP4 Videos Into AMV Format Seamlessly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbox-your-savings-with-low-cost-tv-mounting/"><u>Unbox Your Savings with Low-Cost Tv Mounting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-2018-lg-gram-156-the-ultimate-lightweight-powerhouse-on-the-market/"><u>Unboxing & Testing: 2018 LG Gram 15.6 - The Ultimate Lightweight Powerhouse on the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-netgear-nighthawk-x4-the-best-wireless-range-extender-on-the-market/"><u>Unboxing and Testing the Netgear Nighthawk X4 - The Best Wireless Range Extender on the Market?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-epic-battles-on-a-grand-scale-with-philips-evnias-49-curved-oled-gaming-screen/"><u>Unleash Epic Battles on a Grand Scale with Philips Evnia's 49” Curved OLED Gaming Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-advanced-editing-techniques-with-macos-preview-for-stunning-images/"><u>Unlocking Advanced Editing Techniques with macOS Preview for Stunning Images</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-potential-in-depth-performance-breakdown-of-the-linksys-wrt1/"><u>Unlocking Potential: In-Depth Performance Breakdown of the Linksys WRT1</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-features-of-the-moderate-marvel-dell-inspiron-3671-pc-review/"><u>Unpacking the Features of the Moderate Marvel - Dell Inspiron ^ 3671 PC Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-samsungs-versatile-tab-s4-for-android-enthusiasts/"><u>Unveiling the Capabilities of Samsung's Versatile Tab S4 for Android Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-most-economical-mobile-network-offers-a-top-7-list/"><u>Unveiling the Most Economical Mobile Network Offers : A Top 7 List</u></a></li>
+</ul></div>
 

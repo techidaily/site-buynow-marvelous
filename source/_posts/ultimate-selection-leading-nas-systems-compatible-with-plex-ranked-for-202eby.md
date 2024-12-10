@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection: Leading NAS Systems Compatible with Plex, Ranked for 202Eby"
-date: 2024-11-26T04:45:10.209Z
-updated: 2024-12-03T12:36:11.891Z
+date: 2024-12-09T12:04:22.163Z
+updated: 2024-12-09T17:53:57.344Z
 tags:
   - buying-guides
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  The best NAS devices for Plex make it easy to access your favorite media across a variety of devices. These four products offer you a great way to build your own server and upgrade your streaming game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 06/20/2024
@@ -29,15 +29,16 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png)  
 #####  Asustor AS5202T  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best NAS for Plex Overall  
 [$269 at Amazon](https://www.amazon.com/Asustor-AS5202T-Inspired-Attached-Dual-Core/dp/B07PW9DV56?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)  
 ![Terramaster-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/terramaster-1.png)  
 The Terramaster NAS on a white background.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  TerraMaster F2-223  
 Best Budget NAS for Plex  
 [See at Amazon](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce)
@@ -92,11 +93,11 @@ Asustor
 
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best NAS for Plex Overall
 
@@ -108,17 +109,9 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 [$269 at Amazon](https://www.amazon.com/Asustor-AS5202T-Inspired-Attached-Dual-Core/dp/B07PW9DV56?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best Budget NAS for Plex: [TerraMaster F2-223 Two-Bay NAS Storage](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
 ![Terramaster Lifestyle (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/terramaster-lifestyle-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Terramaster
 
@@ -136,6 +129,10 @@ Terramaster
 
 ![Terramaster-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/terramaster-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Budget NAS for Plex
@@ -147,12 +144,16 @@ Clocking in at a great price, the TerraMaster F2-223 is ideal for Plex thanks to
 [See at Amazon](https://www.amazon.com/TERRAMASTER-F2-223-2Bay-NAS-Storage/dp/B0BF4SWHQN?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best High-Capacity NAS for Plex: [QNAP TS-464-8G-US Four-Bay NAS](https://www.amazon.com/QNAP-TS-464-8G-US-High-Performance-Quad-core-Connectivity/dp/B0BQ5TWCL8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001147&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-nas-devices-plex%2F&asc%5Fcampaign=Commerce) 
 
 ![71DzS4Wr 5L._AC_SL1500 (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/71dzs4wr-5l-_ac_sl1500-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 QNAP
 
@@ -173,11 +174,11 @@ QNAP
 
 ![QNAP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/qnap.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best High-Capacity NAS for Plex
 
@@ -207,10 +208,6 @@ Synology
 
 ![1678837518_1757288](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1678837518_1757288.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mac NAS for Plex
@@ -221,19 +218,23 @@ The Synology DiskStation DS423+ not only works with Mac, but it offers four bays
 
 [$500 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1757288-REG/synology%5Fdiskstation%5Fds423%5F4%5Fbay%5Fnas.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2001147) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### What is Plex?
 
  Plex is a streaming service that hosts a massive library of media and allows you to upload your own content. Essentially, it can be used to catalog all your favorite content in one place and streamline your streaming. Learn more about Plex with our [extensive overview](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do I build a NAS for Plex?
 
  You'll first want to create a Plex account. Then, you'll need to hunt down a NAS that offers support for Plex. Here's a useful [spreadsheet](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit#gid=1274624273) provided by the company to help your search, though we'd recommend picking one of the four mentioned above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is RAID?
 
@@ -258,24 +259,24 @@ The Synology DiskStation DS423+ not only works with Mac, but it offers four bays
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-professionals-choice-top-10-ig-video-editing-platforms/"><u>[New] In 2024, Professionals' Choice Top 10 IG Video Editing Platforms</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-digital-gifs/"><u>[New] Navigating the World of Digital GIFs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-merriment-joining-and-leaving-rituals/"><u>2024 Approved Merriment Joining & Leaving Rituals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-new-era-for-sony-blu-ray-player-s6700/"><u>2024 Approved New Era for Sony Blu-Ray Player S6700</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-visual-capture-specialists-top-10-tools/"><u>2024 Approved Visual Capture Specialists' Top 10 Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/3d-software-for-dynamic-youtube-intros-for-2024/"><u>Best 3D Software for Dynamic YouTube Intros for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciphering-the-lg-watch-styles-heritage-a-detailed-assessment-of-iconic-wear-os-cuisine-20-timepiece-offerings/"><u>Deciphering the LG Watch Style's Heritage: A Detailed Assessment of Iconic Wear OS Cuisine 2.0 Timepiece Offerings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-the-uniden-r3s-superior-durability-and-long-range-signal-capture/"><u>Expert Review: The Uniden R3's Superior Durability and Long-Range Signal Capture</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-best-gaming-selection-with-google-play-pass-your-comprehensive-guide/"><u>Explore the Best Gaming Selection with Google Play Pass: Your Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hp-stream-11-in-depth-review-the-ideal-choice-for-basic-personal-computing/"><u>HP Stream 11 In-Depth Review: The Ideal Choice for Basic Personal Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-no-more-zombie-army-ebeam-dead-war-crashes/"><u>PC Players Rejoice: No More Zombie Army Ebeam: Dead War Crashes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pre-use-checklist-for-googles-password-security-features/"><u>Pre-Use Checklist for Google's Password Security Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quicktime-screen-recording-with-audio-guide-for-2024/"><u>QuickTime Screen Recording with Audio Guide for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-latest-echo-dot-4th-generation-refreshed-design-unveiled/"><u>Review of the Latest Echo Dot (4Th Generation): Refreshed Design Unveiled</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience/"><u>Streamlined Q&A List to Attract Podcast Audience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-the-winegard-fl5500a-reliable-signal-but-overpriced/"><u>The Pros and Cons of the Winegard FL5500A: Reliable Signal but Overpriced</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-the-dell-g5-5090-the-ultimate-choice-for-cost-effective-high-performance-gaming-computers/"><u>Top Review of the Dell G5 5090: The Ultimate Choice for Cost-Effective, High-Performance Gaming Computers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-a6-ac1200-router-uncovered-quality-performance-meets-wallet-friendly-price-point/"><u>TP-Link Archer A6 AC1200 Router Uncovered – Quality Performance Meets Wallet-Friendly Price Point</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/under-100-the-prime-2024-moment-cams-guide/"><u>Under $100: The Prime 2024 Moment Cams Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>[New] DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breakthrough-in-tech-shopping-an-in-depth-exploration-of-all-ipad-models/"><u>Breakthrough in Tech Shopping: An In-Depth Exploration of All iPad Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-freestyle2-blue-on-macos-a-top-pick-for-cupertino-devotees/"><u>Comprehensive Assessment of Freestyle2 Blue on MacOS: A Top Pick for Cupertino Devotees</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-synology-rt2ac-wi-fi-router-with-enhanced-signal-range-and-built-in-parental-controls/"><u>Comprehensive Review of Synology RT2#AC Wi-Fi Router with Enhanced Signal Range & Built-In Parental Controls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-ring-doorbell-plus-performance-analysis-a-detailed-user-guide/"><u>Comprehensive Ring Doorbell Plus Performance Analysis: A Detailed User Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/consideration-weighing-the-pros-and-cons-of-an-ipad-purchase/"><u>Consideration: Weighing the Pros and Cons of an iPad Purchase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crucial-aspects-to-think-about-before-investing-in-a-video-game-console/"><u>Crucial Aspects to Think About Before Investing in a Video Game Console</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-xps-13-7390-2-in-1-laptop-analysis-stunning-design-meets-remarkable-versatility/"><u>Dell XPS 13 (7390) 2-in-1 Laptop Analysis: Stunning Design Meets Remarkable Versatility</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-m3-macbook-airs-financial-justification/"><u>Delving Into M3 MacBook Air's Financial Justification</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-iphone-virus-protection-programs-available-today/"><u>Discover the Finest iPhone Virus Protection Programs Available Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme 11 Pro Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-v27-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo V27 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pioneering-the-soundtrack-adding-editing-and-cropping-music/"><u>In 2024, Pioneering the Soundtrack Adding, Editing, and Cropping Music</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-reinstate-lost-watch-icon-on-facebook-platform/"><u>In 2024, Reinstate Lost Watch Icon on Facebook Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rise-of-the-channels-crafting-your-digital-empire-for-2024/"><u>Rise of the Channels Crafting Your Digital Empire for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steady-gaming-fix-epic-game-launcher-instability-in-windows/"><u>Steady Gaming: Fix Epic Game Launcher Instability in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-vlogging-fundamental-gear-and-applications-for-2024/"><u>Step Into Vlogging Fundamental Gear and Applications for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-activating-hyper-v-in-windows-11/"><u>Step-by-Step Guide to Activating Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-how-to-create-dynamic-summaries-by-groupingcollapsing-excel-rows/"><u>Step-by-Step Guide: How to Create Dynamic Summaries by Grouping/Collapsing Excel Rows</u></a></li>
 </ul></div>
 

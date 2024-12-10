@@ -1,7 +1,7 @@
 ---
 title: Experience the Joy & Excitement with DJI's RoboMaster S1 - The Ultimate Drone Learning Tool
-date: 2024-09-11T08:32:53.289Z
-updated: 2024-09-15T10:43:34.309Z
+date: 2024-12-08T10:25:16.087Z
+updated: 2024-12-10T06:44:58.438Z
 categories:
   - BestProducts
 description: This Article Describes Experience the Joy & Excitement with DJI's RoboMaster S1 - The Ultimate Drone Learning Tool
@@ -65,6 +65,10 @@ Lifewire / Emily Isaacs
 
  What better way to celebrate both of their birthdays than by bringing both titles together for a self-contained wombo-combo celebrating their 40th and 35th anniversaries respectively? I put the handheld to the test for three weeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Retro, bold look & feel
 
  From the moment you pick up and pop open the box, the design oozes old-school cool and nostalgia. It’s a special edition release—and it feels like it. Intentionally stylized black and gold packaging, which resembles the retro feel of the 1980s Game & Watch classic titles, is a familiar and warm return to an era.
@@ -81,6 +85,10 @@ Lifewire / Emily Isaacs
 
  Nintendo Game & Watch: Super Mario Bros. arrives in a small package that is lovingly designed in the Game & Watch family feel. In addition to the instructional care packet, it also includes a charging cable. Some long-time Nintendo fans may be inclined to keep the box, due to the Game & Watch’s collectible nature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup Process: Pick up and play
 
  The Nintendo Game & Watch: Super Mario Bros. is a pick-up and play device. Simply open the box and remove the console from its shipment packaging, press the power button on the right-hand side, click the Time button to set your clock for the included Watch mode, and then you’re all set to enjoy the preloaded Super Mario Bros_._ and Ball games. It arrives with a partial charge.
@@ -90,10 +98,7 @@ Lifewire / Emily Isaacs
 Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Gameplay: Challenging, but fun
@@ -106,13 +111,6 @@ Lifewire / Emily Isaacs
 
  The Ball game is the only included Game & Watch title in the product. Balls bounce back and forth in the air as you juggle them to keep them from hitting the ground. Instead of the classic Ball character design, Mario’s head has been superimposed on the character. It’s a much simpler game, and it’s OK, but this game loses its allure fairly quickly due to the repetitive gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Audio: Surprisingly loud and crisp
 
  The included mono speaker is surprisingly loud and crisp, emitting 8-bit chiptunes. It’s located on the left-hand side of the device, nestled into the case’s trim. While I thought my hands might get in the way and block the sound a bit during play, that didn’t turn out to be true.
@@ -123,6 +121,10 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/PvTcnsQLDp7SFCPIeHreGfS-dgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_05-01b731a5406d4cbfa37be90277c6e89b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 ## Price: Great value for the price
@@ -132,15 +134,16 @@ Lifewire / Emily Isaacs
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/Te3HyEg18zLT9zKT-eZuFtev8So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_02-6af770f871344e16ad3f45320d46d52a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
  For anyone looking to bring the Game & Watch home, they should be aware that while it brings the three included classic titles to life in a fun, exciting way, the Game & Watch doesn't add anything new to the Nintendo family. It caters to long-time Nintendo lovers and collectors, more than anything else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nintendo Game & Watch: Super Mario Bros. vs. Nintendo Switch
 
@@ -155,13 +158,6 @@ Lifewire / Emily Isaacs
  **A nostalgic throwback that collectors and gamers will love.**
 
  The Nintendo Game & Watch: Super Mario Bros. is a throwback to an older, simpler era of gaming that packs a wallop of a punch, bringing the challenge of the original Super Mario games and the original Game & Watch Ball title while making them accessible to a whole new generation of players. While we do wish Nintendo had included additional titles—who doesn’t want_more_ classic options when these are so fun—it’s no showstopper for enjoying this product.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -198,5 +194,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-premier-suggestions-top-10-sports-binge-watching-apps-soccer-focus/"><u>[New] In 2024, Premier Suggestions Top 10 Sports Binge-Watching Apps, Soccer Focus</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>[New] In 2024, Your Visual Impact Journey Begins with Our 50 FREE Banners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-compreehensive-look-at-itunes-video-capture/"><u>[Updated] A Compreehensive Look at iTunes Video Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-tips-for-advanced-editing-in-gopro-studio/"><u>[Updated] In 2024, Essential Tips for Advanced Editing in GoPro Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fl-studios-approach-to-cautious-sound-dimming/"><u>FL Studio's Approach to Cautious Sound Dimming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-pick-the-perfect-streamer-roku-against-fire-tv-stick-comparison/"><u>How to Pick the Perfect Streamer: Roku Against Fire TV Stick Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-preview-your-web-pages-before-you-upload-them/"><u>How to Preview Your Web Pages Before You Upload Them</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-successfully-upgrade-your-intel-based-imac-a-comprehensive-guide/"><u>How To Successfully Upgrade Your Intel-Based iMac: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-nintendo-switch-a-comprehensive-portable-gaming-console-review/"><u>In-Depth Look at Nintendo Switch - A Comprehensive Portable Gaming Console Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-apple-watch-series-6-understated-improvements-top-notch-performance/"><u>In-Depth Review of Apple Watch Series 6: Understated Improvements, Top-Notch Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-features-of-the-garmin-vivomove-hr-your-elegant-companion-through-daily-exercence-and-beyond/"><u>Innovative Features of the Garmin Vivomove HR: Your Elegant Companion Through Daily Exercence and Beyond</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-world-of-the-advanced-apple-iphone-15-pro-an-interactive-review/"><u>Inside the World of the Advanced Apple iPhone 15 Pro: An Interactive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insider-review-why-the-18000mah-car-resuscitator-from-m-mock-is-a-market-leader/"><u>Insider Review: Why the 18000mAh Car Resuscitator From M Mock Is a Market Leader</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/speeding-up-your-computer-with-essential-hardware-enhancements-a-guide-from-yl-software-experts/"><u>Speeding up Your Computer with Essential Hardware Enhancements: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-fix-your-pc-when-it-ignores-the-external-hdd-expert-tips-from-yl-computing/"><u>Troubleshooting: Fix Your PC When It Ignores the External HDD - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-your-unique-email-identifier-a-step-by-step-guide/"><u>Uncovering Your Unique Email Identifier: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719575351192-what-language-is-spoken-in-israel/"><u>What Language Is Spoken In Israel?</u></a></li>
+</ul></div>
 

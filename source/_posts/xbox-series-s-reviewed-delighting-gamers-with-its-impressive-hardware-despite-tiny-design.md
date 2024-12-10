@@ -1,7 +1,7 @@
 ---
 title: "Xbox Series S Reviewed: Delighting Gamers with Its Impressive Hardware Despite Tiny Design"
-date: 2024-09-09T06:59:00.763Z
-updated: 2024-09-10T06:59:00.763Z
+date: 2024-12-03T06:38:04.760Z
+updated: 2024-12-10T09:50:10.273Z
 categories:
   - BestProducts
 description: "This Article Describes Xbox Series S Reviewed: Delighting Gamers with Its Impressive Hardware Despite Tiny Design"
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Cities: Skylines](https://www.lifewire.com/thmb/K9yCJudv-vDKU2yHQb_uoP1HUno=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_HeroSquare-99df9b5cb412430ea9648e87a9af3ab1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
  What We Like
@@ -46,12 +34,6 @@ Lifewire / Rebecca Isaacs
 
 3
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Colossal Order Cities: Skylines
 
 ![Cities: Skylines](https://www.lifewire.com/thmb/deA72Y6zrzAaLylUgU38BHiLoT4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_HeroSquare-99df9b5cb412430ea9648e87a9af3ab1.jpg)
@@ -76,14 +58,12 @@ Lifewire / Rebecca Isaacs
 
 ![Cities: Skylines](https://www.lifewire.com/thmb/WU7CbhbZ2iqnmzSxasaW_HLw7WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_05-6834bf27f720404a860b40ec9f311711.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Plot: A sandbox for you to play in**
 
  If you wanted Cities:Skylines to have a plot, you are not in luck. Since it’s a sandbox city-building game, the base game’s sole goal is to allow you the freedom to build a city from scratch without any scenario restrictions. This removal of a plot is both refreshing and a curse. Two hours in, and I was having a blast building up roads and commercial areas; a couple hours later, and I could feel the itch to start a new map. There are no real scenarios, without real stakes, which later in the game presented a major problem for me.
@@ -96,12 +76,6 @@ Lifewire / Rebecca Isaacs
 
 ![Cities: Skylines](https://www.lifewire.com/thmb/588X3UAailg5Hybxdvxqw8a_G-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_02-04c0ef53b3cf4183ae1388ed1216c2e6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 ## **Gameplay** :**Tough learning curve**
@@ -126,13 +100,11 @@ Lifewire / Rebecca Isaacs
 
 ![Cities: Skylines](https://www.lifewire.com/thmb/f8EjasEAuN7d0yNI_yXkZlPz8A4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_03-4df9547f975749bbb7facb80717838b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Graphics: Bright and colorful**
 
@@ -141,36 +113,20 @@ Lifewire / Rebecca Isaacs
 ![Cities: Skylines](https://www.lifewire.com/thmb/ScVT0Z65L44TgSD3IYaIaWCdXLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cities-Skylines_04-83e9ebc98c9546dfa595e6baf45d23bf.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Not bad**
 
  Cities: Skylines will put you back around $30, which isn’t too bad. However, the issue I take with it being $30 is that it’s only for the base game. You won’t get the extra features of the expansions or content packs unless you can land a Steam sale. For a base game that doesn’t come with any scenarios other than the basic sandbox with a handful of maps, it’s a little frustrating. However, if you’re like me and can spend hours in sandbox games, then the price shouldn’t worry you too much.
 
  For a base game that doesn’t come with any scenarios other than the basic sandbox with a handful of maps, it’s a little frustrating.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other city-builders**
 
@@ -186,6 +142,10 @@ Lifewire / Rebecca Isaacs
 
  For the base game, Cities:Skylines offers hours of creative, fast gameplay. If you want to be challenged more, then be prepared to shell out some extra cash for its large number of expansions. For a game whose base is solely a sandbox city-builder, it’s a great way to let your creativity shine while enjoying the amenities of the modern world for your residents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Cities: Skylines
@@ -199,14 +159,11 @@ Lifewire / Rebecca Isaacs
 * Game Expansions  Sunset Harbor, Campus, Industries, Parklife, Green Cities, Mass Transit, Natural Disasters, Snowfall, After Dark
 * Game Content Creator Packs  Modern Japan, Modern City Creator, University City, European Suburbia, High-Tech Buildings, Art Deco
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,4 +172,24 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-insightful-review-best-text-overlays-for-adobe-ae/"><u>[New] 2024 Approved Insightful Review Best Text Overlays for Adobe AE</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-no-8-advanced-online-photographic-merge-suite/"><u>[New] In 2024, No. 8 Advanced Online Photographic Merge Suite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-turn-back-the-tape-on-twitch-broadcasting/"><u>[New] In 2024, Turn Back the Tape on Twitch Broadcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secrets-to-stellar-podcast-summaries/"><u>[New] The Secrets to Stellar Podcast Summaries</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridging-visual-and-auditory-elements-adding-music-to-premiere-projects/"><u>[Updated] Bridging Visual and Auditory Elements Adding Music to Premiere Projects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leading-social-media-hash-tracking-software-for-fb-tweet-and-insta-for-2024/"><u>[Updated] Leading Social Media Hash Tracking Software for FB, Tweet & Insta for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-a-comprehensive-review-of-the-arcshell-ar-5/"><u>Affordable Excellence: A Comprehensive Review of the Arcshell AR-5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capturing-clarity-on-camera-an-insightful-review-of-google-pixel-6/"><u>Capturing Clarity on Camera? An Insightful Review of Google Pixel 6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-forerunner-45-for-dedicated-runners/"><u>Garmin Forerunner 45 for Dedicated Runners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-back-up-saved-data-for-games-installed-with-epic-games-launcher/"><u>How to Back Up Saved Data for Games Installed With Epic Games Launcher</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-shop-smart-the-ultimate-list-of-reliable-phone-retailers/"><u>How to Shop Smart: The Ultimate List of Reliable Phone Retailers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humorhub-design-your-own-jokes-and-gifs-for-2024/"><u>HumorHub Design Your Own Jokes and Gifs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>In 2024, Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/most-advanced-combo-of-cable-modems-and-routers-market/"><u>Most Advanced Combo of Cable Modems & Routers Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-budget-tp-link-wireless-repeater-re200-reviewed-is-it-a-steal/"><u>The Best Budget TP-Link Wireless Repeater (RE200) Reviewed – Is It a Steal?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-home-security-on-a-shoestring-the-remobell-doorbell-reviewed/"><u>Transforming Home Security on a Shoestring – The RemoBell Doorbell Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-endless-communication-try-tango-for-zero-cost-talks-and-texts/"><u>Unlock Endless Communication - Try Tango for Zero Cost Talks and Texts!</u></a></li>
+</ul></div>
 

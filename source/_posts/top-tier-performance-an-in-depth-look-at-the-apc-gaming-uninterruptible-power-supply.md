@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-11-26T17:36:44.599Z
-updated: 2024-12-03T06:36:33.829Z
+date: 2024-12-05T16:36:25.254Z
+updated: 2024-12-09T22:28:26.625Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -38,10 +38,6 @@ Lifewire / James Huenink
 
 1.4
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Docooler USB 2.0 12 Megapixel
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
@@ -71,6 +67,10 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Flimsy and difficult to use**
 
  The first thing we noticed about the Docooler USB 2.0 12 Megapixel is how cheap it feels. The camera itself has a plastic, silver housing with a shiny silver focus ring on the end. It feels like it could break at any moment. The base is made of a transparent plastic, which is also available in blue and black. The plastic is so rigid that we expect it to break under regular use. Every time we adjusted the camera, the plastic creaked like a rusty door in a haunted house. Even in our short testing period, the joints started getting loose. We had to check several times just to make sure it wasn’t broken.
@@ -79,14 +79,10 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup process: Awkward to position**
@@ -94,6 +90,10 @@ Lifewire / James Huenink
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
 
  It was easy to set up when we clipped it to a laptop, but terrible when we tried to put it on our HD TV. Every time we moved the computer or the USB cable, the camera slid, twisted, or fell off the TV. The ball joint, which connects the camera to the base, didn’t move smoothly, so we struggled to point the Docooler USB 2.0 12 Megapixel in the right direction, and we were too worried about breaking the plastic to try and force it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Camera Quality: Not even close to advertised**
 
@@ -106,7 +106,7 @@ Lifewire / James Huenink
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / James Huenink
@@ -122,10 +122,6 @@ Lifewire / James Huenink
  We had trouble getting the focus right, too. The focus ring was hard to turn, so we had to put our hand over the lense to get a good grip. We turned the ring a little, and then we’d pull away to check the focus. Then we’d repeat until it was ready, a frustrating experience.
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Cheap price, even cheaper webcam**
 
@@ -144,6 +140,10 @@ Lifewire / James Huenink
 **Impossible to recommend.**
 
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -177,24 +177,16 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-20-essential-youtube-groups-navigating-stocks/"><u>[Updated] 2024 Approved 20 Essential YouTube Groups Navigating Stocks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-future-of-flight-hubsans-revolutionary-h501s-explored/"><u>[Updated] In 2024, The Future of Flight - Hubsan's Revolutionary H501S Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-guide-to-top-notch-mac-audio-recorders-a-comprehensive-list/"><u>[Updated] In 2024, Ultimate Guide to Top-Notch Mac Audio Recorders A Comprehensive List</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-simple-scan-capture-solution-w10-os/"><u>[Updated] Simple Scan-Capture Solution - W10 OS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-vote-players-best-political-game-reviews-for-2024/"><u>[Updated] Ultimate Vote-Players Best Political Game Reviews for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/behind-the-code-of-cyberpunk-2077-a-game-with-flaws-amidst-its-brilliance/"><u>Behind the Code of Cyberpunk 2077: A Game with Flaws Amidst Its Brilliance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-z-edge-z3plus-in-depth-analysis-a-smart-choice-for-your-driving-needs/"><u>Budget-Friendly Z-Edge Z3+ In-Depth Analysis: A Smart Choice for Your Driving Needs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/essential-storm-watcher-software-reviewed-choose-the-best-of-2n4/"><u>Essential Storm Watcher Software Reviewed: Choose the Best of 2N4</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-moto-g-play-exceptional-battery-endurance-combined-with-reliable-performance-evaluation/"><u>Experience the Moto G Play: Exceptional Battery Endurance Combined with Reliable Performance Evaluation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-no-driver-issue-in-sysware-setup/"><u>Fixing No-Driver Issue in SysWare Setup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-cat-s42-toughphone-superior-durability-at-the-expense-of-performance/"><u>In-Depth Analysis: CAT S42 Toughphone - Superior Durability at the Expense of Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-fitbit-versa-2-your-complete-guide-to-a-wellness-wearable-with-smart-features/"><u>In-Depth Look at the Fitbit Versa 2 - Your Complete Guide to a Wellness Wearable with Smart Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/navigating-obs-setup-for-zoom-streaming-excellence/"><u>Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-uncharted-wonders-of-yokus-island-express-epic/"><u>Navigating the Uncharted Wonders of Yoku's Island Express Epic</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/s-leading-lego-animation-artists-for-2024/"><u>S Leading Lego Animation Artists for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-tab-a-2020-review-missing-one-key-feature/"><u>Samsung Galaxy Tab A (2020) Review: Missing One Key Feature</u></a></li>
-<li><a href="https://facebook.techidaily.com/tennis-associations-discontinue-digital-participation/"><u>Tennis Associations Discontinue Digital Participation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/whats-crucial-in-choosing-your-next-smart-tv/"><u>What's Crucial in Choosing Your Next Smart TV?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/why-instagrams-videos-are-tilted-a-bug-a-glitch/"><u>Why Instagram's Videos Are Tilted - A Bug, a Glitch?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-video-production-windows-11s-moviemaker-toolkit-for-2024/"><u>[Updated] Cutting-Edge Video Production Windows 11'S Moviemaker Toolkit for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-captivating-esports-aspect-of-nhl-19-an-in-depth-analysis/"><u>A Closer Look at the Captivating eSports Aspect of NHL 19 - An In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advantages-and-disadvantages-a-comprehensive-guide-to-using-pidgin-im/"><u>Advantages and Disadvantages: A Comprehensive Guide to Using Pidgin IM</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-stability-a-comprehensive-review-of-the-omoton-t1-tablet-stand/"><u>Affordable Stability: A Comprehensive Review of the Omoton T1 Tablet Stand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/artists-insight-on-the-functionality-of-gaomon-pd1560-pen-display/"><u>Artist's Insight on the Functionality of Gaomon PD1560 Pen Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leading-tools-to-record-your-desktop-for-2024/"><u>Leading Tools to Record Your Desktop for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/media-matrix-the-battle-of-podcasts-vs-youtube/"><u>Media Matrix The Battle of Podcasts Vs. YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones-for-2024/"><u>The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-nonresponsive-windows-key-on-windows-10-pcs/"><u>The Ultimate Fix for a Nonresponsive Windows Key on Windows 10 PCs</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-5-no-cost-solutions-for-fixing-corrupted-outlook-pst-files/"><u>Top 5 No-Cost Solutions for Fixing Corrupted Outlook PST Files</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-resource-downloading-and-setting-up-brother-l2540dw-drivers-for-windows-users/"><u>Ultimate Resource: Downloading and Setting Up Brother L2540DW Drivers for Windows Users</u></a></li>
 </ul></div>
 

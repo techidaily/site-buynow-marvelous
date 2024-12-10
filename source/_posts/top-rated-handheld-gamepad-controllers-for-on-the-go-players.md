@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Handheld Gamepad Controllers for On-the-Go Players
-date: 2024-11-26T10:25:12.621Z
-updated: 2024-12-03T04:42:35.931Z
+date: 2024-12-06T20:47:17.538Z
+updated: 2024-12-09T16:29:29.703Z
 tags:
   - buying-guides
 categories:
@@ -38,7 +38,7 @@ Best Mobile Gaming Controller for Android
 [$60 at Amazon](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Look for in a Mobile Gaming Controller
@@ -57,10 +57,6 @@ Best Mobile Gaming Controller for Android
 | 15                      | 3                | 20               |
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Mobile Gaming Controller Overall: [GameSir G8 Galileo](https://www.amazon.com/GameSir-G8-Galileo-Controller-Joysticks/dp/B0CM3C9HRG?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
@@ -83,7 +79,7 @@ Sergio Rodriguez / How-To Geek
 ![Coros Apex 2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/coros-apex-2-pro.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -96,9 +92,17 @@ The GameSir G8 Galileo essentially took the best parts of a console controller a
 
 [$80 at Amazon](https://www.amazon.com/GameSir-Galileo-Controller-Android-Gamepad-Joysticks/dp/B0CSXVQ3NZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at GameSir](https://www.gamesir.hk/products/gamesir-g8-galileo) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Budget Mobile Gaming Controller: [8Bitdo Pro 2](https://www.amazon.com/dp/B0CSPH1JYV?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![8Bitdo Pro 2 wireless controller in hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52747881260_dc28f8fe69_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek Jordan Gloor / Review Geek Jordan Gloor / LifeSavvy
 
@@ -116,11 +120,11 @@ Jordan Gloor / How-To Geek Jordan Gloor / Review Geek Jordan Gloor / LifeSavvy
 
 ![8bitdo pro 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-pro-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget Mobile Gaming Controller
 
@@ -130,17 +134,9 @@ Not only is the 8Bitdo Pro 2 a fantastic budget pick, it's also one of the best 
 
 [$50 at Amazon](https://www.amazon.com/dp/B0CSPH1JYV?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F8bitdo-pro-2-bluetooth-gamepad-gray%2F6475678.p%3FskuId%3D6475678) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best Mobile Gaming Controller for iPhone: [Backbone One (2nd Gen)](https://www.amazon.com/BACKBONE-Mobile-Gaming-Controller-Android-iOS/dp/B0CCT2LWT8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -172,10 +168,6 @@ Good-feeling buttons, large triggers, and rounded edges, the Backbone One is a c
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
 | Pros                                          | Cons                   |
@@ -194,6 +186,10 @@ Bertel King / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Mobile Gaming Controller for Android
 
 #####  Razer Kishi V2
@@ -205,7 +201,7 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 [$60 at Amazon](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Razer-Kishi-V2-Mobile-Gaming-Controller-iPhone-Console-Quality-Controls-Universal-Fit-Stream-PC-Xbox-PlayStation-Games-Customizable-Triggers-Ergonomi/407553024) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -236,6 +232,10 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
  As with the PS5 controller, you can go for a direct connection too, using a USB cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Will phone controllers also work with tablets?
 
  It depends on the controller. What you're looking for is a phone controller that connects wirelessly, by Bluetooth, or one that allows you to directly connect via the USB port on the tablet. The 8Bitdo Pro 2, for example, has Bluetooth and can connect to devices using a cable.
@@ -255,24 +255,24 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-immediate-sharing-from-twitter-vids-to-whatsapp/"><u>[New] 2024 Approved Immediate Sharing From Twitter Vids to WhatsApp</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-strategies-for-enhanced-chromebook-zoom/"><u>[Updated] Cutting-Edge Strategies for Enhanced Chromebook Zoom</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tonal-triumphs-the-art-of-hue-enhancement/"><u>[Updated] Tonal Triumphs The Art of Hue Enhancement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-camera-powerhouse-the-sj-cam-s6-reviewed/"><u>2024 Approved Pro Camera Powerhouse The SJ-CAM S6 Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enjoying-your-rides-with-ddpai-mini3-when-dashcams-get-entertaining/"><u>Enjoying Your Rides with DDPai Mini3: When Dashcams Get Entertaining!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-if-your-ipad-falls-behind-contemporary-gadgets/"><u>Evaluating if Your iPad Falls Behind Contemporary Gadgets</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-harnessing-portability-with-the-zmi-powerpack-20000-a-complete-breakdown/"><u>Expert Review: Harnessing Portability with the ZMI PowerPack 20000 – A Complete Breakdown</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-benefits-of-continuous-tracking-with-fitbit-inspire-hr-your-non-stop-fitness-companion/"><u>Exploring the Benefits of Continuous Tracking with Fitbit Inspire HR: Your Non-Stop Fitness Companion</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-13-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 13 mini Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-saving-solutions-a-critical-look-at-capturers/"><u>In 2024, Screen Saving Solutions A Critical Look at Capturers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-stanley-j5c09-power-and-reliability-in-a-compact-package/"><u>In-Depth Analysis of the Stanley J5C09: Power and Reliability in a Compact Package</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-cost-effective-pruveeo-f5-1080p-dash-cam-top-reviews-for-savvy-shoppers/"><u>In-Depth Look at the Cost-Effective Pruveeo F5 1080P Dash Cam - Top Reviews for Savvy Shoppers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-newest-hp-network-drivers-on-your-pc-windows-11-7-and-8-guide/"><u>Installing the Newest HP Network Drivers on Your PC: Windows 11, 7 & 8 Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pinnacle-of-asmr-sound-quality-in-recorded-microphones-for-2024/"><u>Pinnacle of ASMR Sound Quality in Recorded Microphones for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-budsplus-unboxed-a-detailed-overview/"><u>Samsung Galaxy Buds+ Unboxed: A Detailed Overview</u></a></li>
-<li><a href="https://win11.techidaily.com/sleek-software-not-so-slick-the-throttling-of-your-pcs-speed/"><u>Sleek Software, Not So Slick: The Throttling of Your PC's Speed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-reliable-powerhouse-in-a-simple-package-tt560-speedlite/"><u>The Reliable Powerhouse in a Simple Package: TT560 Speedlite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-microsoft-surface-pro-7-robust-functionality-with-a-traditional-update-approach/"><u>Unveiling the Microsoft Surface Pro 7: Robust Functionality with a Traditional Update Approach</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>[New] 2024 Approved Unleash Creativity Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-from-obscurity-to-fame-elevate-your-tiktok-unboxing-videos/"><u>[New] In 2024, From Obscurity to Fame Elevate Your TikTok Unboxing Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-tv-4k-gen3-ultimate-streaming-device-review-for-enhanced-viewing-experience/"><u>Apple TV 4K (Gen3): Ultimate Streaming Device Review for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-rog-rapture-gt-ax11000-a-gamers-dream-come-true-features-speeds-and-reviewed-thoroughly/"><u>Asus ROG Rapture GT-AX11000: A Gamer's Dream Come True - Features, Speeds, and Reviewed Thoroughly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-amazon-basics-flat-antenna-watching-live-tv-without-the-bill/"><u>Budget-Friendly Amazon Basics Flat Antenna: Watching Live TV without the Bill</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-doorbells-demystified-how-the-remobell-offers-value-for-money-under-100/"><u>Budget-Friendly Doorbells Demystified - How the RemoBell Offers Value for Money Under $100</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-barnes-and-nobles-latest-innovation-the-nook-glowlight-plus/"><u>Comprehensive Guide: Barnes & Noble's Latest Innovation - The Nook GlowLight Plus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-or-cut-short-a-comprehensive-review-of-the-genius-widecam-f100-pixelated-images-and-sound-quality-insights/"><u>Cutting Edge or Cut Short? A Comprehensive Review of the Genius WideCam F100 - Pixelated Images & Sound Quality Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-review-and-insights-on-the-revolutionary-apple-macbook-pro-m1-2-unmatched-power-for-professionals/"><u>Detailed Review & Insights on the Revolutionary Apple MacBook Pro (M1, 2#) - Unmatched Power for Professionals</u></a></li>
+<li><a href="https://facebook.techidaily.com/discover-4-game-changing-business-meta-solutions/"><u>Discover 4 Game-Changing Business Meta Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-gaming-rig-assembly-versus-off-the-shelf-computers-finding-your-perfect-match/"><u>DIY Gaming Rig Assembly versus Off-The-Shelf Computers: Finding Your Perfect Match</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-home-security-which-wins-out-the-ring-or-nest-doorbell/"><u>Evaluating Home Security: Which Wins Out - The Ring or Nest Doorbell?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-winegard-fl55-aflatwayenn-antenna-good-value-high-price-tag/"><u>Evaluating the Winegard FL55# AFLATWAYENN Antenna - Good Value, High Price Tag</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-ace-3-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus Ace 3 FRP Locks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-lava-blaze-curve-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Lava Blaze Curve 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/recovering-lost-avchd-footage-discover-3-simple-no-cost-methods/"><u>Recovering Lost AVCHD Footage: Discover 3 Simple, No-Cost Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tech-meets-barista-mode-a-unique-computer-tower-with-an-integrated-coffee-making-system-complete-with-roaster-and-grinder/"><u>Tech Meets Barista Mode: A Unique Computer Tower with an Integrated Coffee-Making System, Complete with Roaster and Grinder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
 
