@@ -1,7 +1,7 @@
 ---
 title: The Impact of No Console Availability on Enhancing PC Gaming Quality and Variety
-date: 2024-11-20T17:57:44.170Z
-updated: 2024-11-24T17:49:41.015Z
+date: 2024-12-14T17:33:33.191Z
+updated: 2024-12-16T17:01:46.874Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The Impact of No Console Availability on Enhancing PC Gaming Quality and Variety
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,20 +31,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Like it or not, when it comes to mainstream hardcore gaming, consoles are by far the most popular hardware platform. For a studio to put millions or even hundreds of millions into developing the next amazing video game, there needs to be a large-enough market to pay for it. If the only gaming platform out there was PC, then that market would be significantly smaller, which in turn would have an effect on the variety and quality of games that are created.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Consoles Create Reasonable Game Requirements
 
 ![CyberPowerPC Grvty High Airflow Series gaming PC case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52651356479_64da2bb7da_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
  The current console generation effectively sets the minimum requirements for all new games. As I write this, that minimum requirement is the [Xbox Series S](https://win11-tips.techidaily.com/addressing-vscode-shutdown-problems-on-windows-11/), which all games released for Xbox must work on with playable performance. If there were no consoles, developers might not be incentivized to make their games scalable. If you look at what sort of computer the average PC gamer has, this might lead to a situation where most people can't get a good experience. Thanks to consoles, developers have to create games that will run on less than a thousand dollars' worth of hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Consoles Encourage Game Optimization and Innovation
@@ -54,7 +54,7 @@ Justin Duino / How-To Geek
  Sometimes to make this work, entire new techniques are invented. Think about methods such as Variable Rate Shading, dynamic resolution, asset streaming due to limited unified memory, upscaling methods such as TAA or checkerboarding, technologies like [DirectStorage](https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-3-drfone-by-drfone-virtual/), and the list goes on. Now that consoles like the PlayStation 5 and Xbox Series systems are essentially specialized PCs, any optimization methods developed to get more out of them will benefit PC games more directly. Working within limitations breeds innovation, and I really believe there would be much less of it on PC if consoles did not exist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Controller Gaming Is Better on PC Thanks to Consoles
@@ -62,7 +62,7 @@ Justin Duino / How-To Geek
  While I love playing games with a mouse and keyboard, some types of game simply aren't suited to it. In my case, if it's a third-person action game, a 2D sidescroller, a [racing game](https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y36-drfone-by-drfone-virtual/), or really anything that's not an RTS or FPS title, I'm reaching for a controller on PC. Many of you might not remember the bad old days of controller support in games and on Windows, but thanks to modern consoles and multiplatform releases, controller support is excellent on PC. It's become a plug-and-play experience as you get exactly the same configuration as the console version in most cases, with all the same interface elements as well. It's extremely rare for a modern PC game to mess up controller support, and I think consoles and multiplatform releases have a significant role in that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Console Crossplay Keeps Multiplayer Games Alive
@@ -88,19 +88,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[New] Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-serene-soundtracks-copyright-free-legal-meditation-music/"><u>[Updated] In 2024, Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-complete-guide-to-registering-with-youtube/"><u>A Complete Guide to Registering with YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/detailed-steps-to-correct-missing-or-lost-libcurldll-on-your-pc/"><u>Detailed Steps to Correct Missing or Lost libcurl.dll on Your PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/determining-what-to-look-for-in-videography-tools/"><u>Determining What to Look For in Videography Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-premier-home-cinema-pc-picks-for-an-unmatched-viewing-pleasure/"><u>Discover the Premier Home Cinema PC Picks for an Unmatched Viewing Pleasure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-risks-in-googles-password-storage-system/"><u>Evaluating the Risks in Google's Password Storage System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-blistering-speeds-with-our-comprehensive-review-of-the-netgear-nighthawk-rax120/"><u>Experience Blistering Speeds with Our Comprehensive Review of the Netgear Nighthawk RAX120</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-seamless-charging-on-the-go-in-depth-review-of-omnicharge-omni-20s-portable-power-bank-and-wireless-features/"><u>Experience Seamless Charging On-the-Go: In-Depth Review of Omnicharge Omni 20'S Portable Power Bank & Wireless Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-ranking-the-top-6-online-destinations-for-shopping-tvs/"><u>Expert Picks: Ranking the Top 6 Online Destinations for Shopping TVs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-spectrum-of-realism-in-the-age-of-ai/"><u>The Spectrum of Realism in the Age of AI</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/vuebell-camera-doorbell-analysis-economical-surveillance-on-a-shoestring/"><u>VueBell Camera Doorbell Analysis: Economical Surveillance on a Shoestring</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-beyond-popularity-ten-truths-you-need-to-know-about-instagram-reels/"><u>[New] Beyond Popularity Ten Truths You Need to Know About Instagram Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerated-adventures-fastest-flash-games-on-devices/"><u>[Updated] Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-copier-vos-musiques-diphone-vers-pc-sans-itunes-guide-simple-et-facile-a-suivre/"><u>Comment Copier Vos Musiques D'iPhone Vers PC Sans iTunes - Guide Simple Et Facile À Suivre</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-convenience-redefined-the-all-in-one-echo-dot-3rd-gen-review-for-everyday-alexa-use/"><u>Compact Convenience Redefined - The All-in-One Echo Dot (3Rd Gen) Review for Everyday Alexa Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/determining-if-apple-tv-fits-your-budget/"><u>Determining if Apple TV Fits Your Budget</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-approach-create-unique-iphone-ringtones-without-utilizing-itunes/"><u>DIY Approach: Create Unique iPhone Ringtones Without Utilizing iTunes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-control-and-mobility-the-ultimate-precision-gaming-with-a-cordless-sabrent-travel-mouse/"><u>Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-payment-structure-behind-item-assessment-videos/"><u>In 2024, Payment Structure Behind Item Assessment Videos?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scope-to-screen-partnerships-for-mcns/"><u>In 2024, Scope-to-Screen Partnerships for MCNs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meet-your-next-desktop-dream-machine-the-innovative-raspberry-pi-t-400-reviewed/"><u>Meet Your Next Desktop Dream Machine: The Innovative Raspberry Pi T 400 Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/optimizing-your-video-images-for-instagram-highlights-for-2024/"><u>Optimizing Your Video Images for Instagram Highlights for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-affordable-ssl-security-options/"><u>The Best Affordable SSL Security Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-video-setup-luminosity-for-2024/"><u>The Ultimate Guide to Video Setup Luminosity for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-media-projects-uploading-images-to-youtube/"><u>Transform Your Media Projects Uploading Images to YouTube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unsubscribed-and-secure-an-in-depth-analysis-of-the-eufy-t8200-video-doorbell/"><u>Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell</u></a></li>
 </ul></div>
 

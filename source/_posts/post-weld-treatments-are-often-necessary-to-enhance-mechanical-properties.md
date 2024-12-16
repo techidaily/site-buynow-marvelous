@@ -1,7 +1,7 @@
 ---
 title: Post-Weld Treatments Are Often Necessary to Enhance Mechanical Properties.
-date: 2024-09-15T16:53:04.843Z
-updated: 2024-09-20T16:48:48.722Z
+date: 2024-12-10T16:51:39.273Z
+updated: 2024-12-16T16:35:27.896Z
 categories:
   - BestProducts
 description: This Article Describes Post-Weld Treatments Are Often Necessary to Enhance Mechanical Properties.
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/QRd22JA4rSzaW5pz7rXlvq6QS8Q=/400x300/fi
 ## Centrifugal Pumps Use Rotational Energy From an Impeller to Create Fluid Flow
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
@@ -76,6 +80,10 @@ Lifewire/Molly McLaughlin
 
 ![Apple Watch Series 9 on a desk next to its charger.](https://www.lifewire.com/thmb/fnvFdlUB4ml_QaA-kIP14u1pQsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_withcharger-11e49fb444df404b834b2127b3ebcab0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire/Molly McLaughlin
 
  The display has double the brightness of the Series 8 and comes in a new pink color.
@@ -96,22 +104,23 @@ Lifewire/Molly McLaughlin
 
 ![Apple Watch Theater Mode screen.](https://www.lifewire.com/thmb/q170D6_ERklcCxR3P_p6t13HV5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_theatermodeoffon-953887b5d6f547c1b334d7912aa139ac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It turns on silent mode and makes your Walkie-Talkie status unavailable, but you'll receive haptic notifications.  
 
 [Smart Watches & Wearables](https://www.lifewire.com/theater-mode-on-apple-watch-5115897)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fitness Tracking
 
  I use the watch for fitness tracking and try to "close my rings" daily. After a few bike rides where my average speed was skewed because I forgot to pause or unpause the workout during or after a break, I was pleased to find that you can enable automatic pausing (auto-pause) for biking and running.
 
  In my experience, the watch was quick to pause when I stopped at traffic lights and resume once I started moving again. (This is also helpful if you forget to end a workout.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Should Buy It?
 
@@ -128,10 +137,7 @@ Lifewire/Molly McLaughlin
 [Smart Watches & Wearables](https://www.lifewire.com/how-to-use-apple-watch-4584460)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -155,5 +161,20 @@ Lifewire/Molly McLaughlin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-beneath-the-surface-a-deep-dive-into-private-story-making/"><u>[New] 2024 Approved Beneath the Surface A Deep Dive Into Private Story Making</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-gradient-goes-night-premieres-trick/"><u>[New] In 2024, Gradient Goes Night Premiere's Trick</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-precise-obs-settings-for-inexpensive-hardware-for-2024/"><u>[Updated] Precise OBS Settings for Inexpensive Hardware for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oneplus-11r-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from OnePlus 11R to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infuse-motion-blur-into-image-sequence/"><u>2024 Approved Infuse Motion Blur Into Image Sequence</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-user-experience-and-data-collection/"><u>Cookiebot-Enabled: Enhancing User Experience and Data Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/future-proofing-your-home-network-top-netgear-routers/"><u>Future-Proofing Your Home Network: Top Netgear Routers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a15-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A15 5G Unlock Without Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-amazon-prime-worth-it-4-reasons-why-you-should-get-this-membership/"><u>Is Amazon Prime Worth It? 4 Reasons Why You Should Get This Membership</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-choices-for-budget-conscious-consumers-4k-viewing/"><u>Prime Choices for Budget-Conscious Consumers' 4K Viewing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-vivo-y200-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Vivo Y200 has been deleted.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-netgear-nighthawk-x6s-a-superior-solution-for-expanding-your-wireless-network/"><u>The Netgear Nighthawk X6S: A Superior Solution for Expanding Your Wireless Network</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-of-the-affordable-and-miniature-asus-vivobook-eby-11-a-complete-review/"><u>Unveiling the Features of the Affordable and Miniature Asus Vivobook Eby 11: A Complete Review</u></a></li>
+</ul></div>
 

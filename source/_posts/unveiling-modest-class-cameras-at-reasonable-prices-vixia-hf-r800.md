@@ -1,7 +1,7 @@
 ---
 title: Unveiling Modest-Class Cameras at Reasonable Prices – VIXIA HF R800
-date: 2024-09-08T00:56:31.030Z
-updated: 2024-09-15T06:45:15.362Z
+date: 2024-12-15T16:18:38.833Z
+updated: 2024-12-16T17:59:50.762Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling Modest-Class Cameras at Reasonable Prices – VIXIA HF R800
@@ -71,6 +71,10 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  One unique feature of the Sculpt we loved was the function switch. Located on the upper-right hand side of the keyboard, this switch allows you to toggle the functionality of the top row keys, replacing the function key. Options include refreshing the active page, navigating to the home page in web, opening up the computer’s settings, a play/pause button, switching between active windows, and increasing or decreasing volume.
@@ -79,6 +83,10 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
@@ -86,34 +94,12 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
@@ -128,6 +114,10 @@ Lifewire / Emily Isaacs
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -156,10 +146,7 @@ Lifewire / Emily Isaacs
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -190,5 +177,26 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-cutting-edge-techniques-for-captivating-online-advertising-for-2024/"><u>[New] Cutting-Edge Techniques for Captivating Online Advertising for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-experts-guide-to-growing-valheim-crops-successfully/"><u>[Updated] In 2024, The Expert's Guide to Growing Valheim Crops Successfully</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-potential-of-music-in-instagrams-visual-world/"><u>[Updated] In 2024, Unlocking the Potential of Music in Instagram's Visual World</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-detailed-review-of-jabra-talk-45-unmatched-clarity-sturdy-battery/"><u>A Detailed Review of Jabra Talk 45 - Unmatched Clarity, Sturdy Battery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/action-sequence-showdown-hero5-black-versus-hero4-silver/"><u>Action Sequence Showdown Hero5 Black Versus Hero4 Silver</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-xbox-series-s-small-size-with-big-performance/"><u>Comprehensive Review of the Xbox Series S: Small Size with Big Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-between-iphones-and-samsung-phones-top-features-compared-for-purchase/"><u>Deciding Between iPhones and Samsung Phones – Top Features Compared for Purchase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-future-with-raspberry-pi-400-a-powerful-desktop-disguised-as-your-typing-companion/"><u>Discover the Future with Raspberry Pi 400: A Powerful Desktop Disguised as Your Typing Companion</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/download-obs-studio-compatible-with-windows-mac-and-linux-platforms/"><u>Download OBS Studio: Compatible with Windows, Mac, and Linux Platforms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-nord-ce-3-lite-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus Nord CE 3 Lite 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/full-house-wi-fi-solution-assessment-the-power-of-eero-pro-mesh-network-technology-unveiled/"><u>Full House Wi-Fi Solution Assessment: The Power of Eero Pro Mesh Network Technology Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-performance-an-authoritative-review-on-why-xbox-one-x-reigns-in-modern-consoles/"><u>Mastering Performance: An Authoritative Review on Why Xbox One X Reigns in Modern Consoles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netatmo-weather-monitoring-system-an-app-enthusiasts-dream-in-depth-analysis-inside/"><u>Netatmo Weather Monitoring System: An App-Enthusiast's Dream, In-Depth Analysis Inside</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-boundaries-the-spectrum-of-colors-and-4k-resolution-for-2024/"><u>Pushing Boundaries The Spectrum of Colors and 4K Resolution for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-professional-5-the-ultimate-software-removal-tool/"><u>Revo Uninstaller Professional 5: The Ultimate Software Removal Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/stellar-visuals-enhancing-google-meet-collaboration/"><u>Stellar Visuals Enhancing Google Meet Collaboration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-top-race-rc-rock-crawler-mastering-all-terrain-adventures/"><u>Ultimate Guide to Top Race RC Rock Crawler: Mastering All-Terrain Adventures</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-beginner-friendly-choir-separation-technology-for-professional-use/"><u>Updated 2024 Approved Beginner-Friendly Choir Separation Technology for Professional Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yokus-island-odyssey-when-grand-adventures-transform-into-unforeseen-encounters/"><u>Yoku's Island Odyssey: When Grand Adventures Transform Into Unforeseen Encounters</u></a></li>
+</ul></div>
 

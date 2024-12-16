@@ -1,7 +1,7 @@
 ---
 title: "A Call for Improved Refund Strategies at Sony and Nintendo: The Industry Talks Back"
-date: 2024-11-18T19:05:34.920Z
-updated: 2024-11-24T19:34:52.474Z
+date: 2024-12-09T16:34:05.161Z
+updated: 2024-12-16T17:07:01.926Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 ## A Call for Improved Refund Strategies at Sony and Nintendo: The Industry Talks Back
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  With the world shifting from physical to digital game media, it would be nice if everyone could agree on how refunds work. Unfortunately while some companies are leading the charge in consumer friendliness, others seem to be more than a little behind the times.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sony and Nintendo’s Current Refund Policies
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  Which is a polite way of saying your only option is not to buy a broken or incorrect item in the first place! All sales are final, no refunds!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Other Platforms Handle Refunds
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  On PC, digital storefronts have similarly convenient refund policies. Steam offers automatic refunds for games that have been played for less than two hours and have been purchased in the last 14 days. I have also successfully refunded games in the past that had more than two hours of playtime by explaining that it was because of trying to get the game to work or another legitimate reason to have more than two hours on the clock. However, anything outside of the eligibility window is at Valve's discretion. Also, in case you didn't know, if you bought a game shortly before it went on sale, you can ask for a refund and then re-buy the game at the new lower price! The [Epic Games Store refund policy](https://www.epicgames.com/site/en-US/store-refund-policy) is almost exactly the same, so both Steam and EGS are virtually on par when it comes to refunds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why This Will Be Good for You, Sony & Nintendo
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
  Letting players get automatic refunds using the 14 day, two-hour rule is a small price to pay if it makes it more likely that people will hit that buy button in the first place. Perhaps even more important than that, it's a simple way to generate goodwill from your customer base.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What We Want From Your Refund Policy
@@ -102,17 +102,24 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-reel-to-share-creating-perfect-vt-videos-in-fcpx-for-2024/"><u>[Updated] From Reel to Share Creating Perfect VT Videos in FCPX for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elevate-your-exercise-experience-with-garmin-vivoactive-es-innovative-workout-plus-tune-in-feature/"><u>Elevate Your Exercise Experience with Garmin Vivoactive E's Innovative Workout + Tune-In Feature</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-tecno-spark-20-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Tecno Spark 20?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-immersive-world-of-lg-27ud68/"><u>In 2024, Discovering the Immersive World of LG 27UD68</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/most-effective-networking-servers-frames-ranked-best-of-year/"><u>Most Effective Networking Servers Frames - Ranked Best of [Year]^^</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/moto-g-power-analysis-exceptional-durability-and-remarkable-long-lasting-battery/"><u>Moto G Power Analysis: Exceptional Durability & Remarkable Long-Lasting Battery</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-parental-control-tech-top-routers-of-2024/"><u>Navigating Parental Control Tech: Top Routers of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-power-of-5g-insights-from-our-in-depth-testing-of-the-samsung-galaxy-note20-ultra/"><u>Navigating the Power of 5G: Insights From Our In-Depth Testing of the Samsung Galaxy Note20 Ultra</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/outlookcom-vs-gmail-which-leads-the-charge-as-your-primary-email-service/"><u>Outlook.com Vs. Gmail: Which Leads the Charge as Your Primary Email Service?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/side-by-side-showdown-nintendo-switch-lite-vs-oled-which-is-better/"><u>Side by Side Showdown: Nintendo Switch Lite vs OLED - Which Is Better?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sky-high-quality-a-comprehensive-guide-to-the-dji-mavic-3-drone/"><u>Sky-High Quality: A Comprehensive Guide to the DJI Mavic 3 Drone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-make-every-instagram-story-a-visual-feast-multiply-your-images/"><u>[New] In 2024, Make Every Instagram Story a Visual Feast Multiply Your Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-multiplatform-recorder-for-pcs/"><u>[Updated] 2024 Approved Elite Multiplatform Recorder for PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exploring-the-world-of-webcam-professional-videotaping/"><u>[Updated] In 2024, Exploring the World of WebCam Professional Videotaping</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-make-a-hyperlapse-video/"><u>[Updated] In 2024, How to Make A Hyperlapse Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-pick-unlimited-valorant-sound-transformation-tool-free-for-2024/"><u>[Updated] Top Pick Unlimited Valorant Sound Transformation Tool (Free) for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-distinguished-samsung-galaxy-s10-a-quintessential-premium-smartphone-experience/"><u>A Closer Look at the Distinguished Samsung Galaxy S10: A Quintessential Premium Smartphone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722976462725-affordable-laptop-ventilation-for-your-device-check-out-the-topmate-c3amator-review/"><u>Affordable Laptop Ventilation for Your Device? Check Out the TopMate C3amator Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comment-convertir-votre-gif-en-video-wmv-sans-frais-le-processus-facile-et-efficace-avec-movavi/"><u>Comment Convertir Votre GIF en Vidéo WMV Sans Frais - Le Processus Facile Et Efficace Avec Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-beginner-to-champion-essential-drone-races-tips-and-best-models-for-2024/"><u>From Beginner to Champion Essential Drone Races Tips and Best Models for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/growing-your-twitter-audience-proven-strategies-for-increasing-followers/"><u>Growing Your Twitter Audience: Proven Strategies for Increasing Followers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remedying-vertical-line-issues-on-your-samsung-set-top-screen/"><u>Remedying Vertical Line Issues on Your Samsung Set-Top Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-in-depth-imo-messenger-overview/"><u>Unveiling the Pros & Cons: In-Depth Imo Messenger Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-top-5-outstanding-17-inch-laptops-to-elevate-your-tech-game/"><u>Unveiling the Top 5 Outstanding 17-Inch Laptops to Elevate Your Tech Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/website-quality-control-pre-upload-page-inspection-best-practices/"><u>Website Quality Control: Pre-Upload Page Inspection Best Practices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-committing-to-hulu-pays-off-5-key-factors/"><u>Why Committing to Hulu Pays Off - 5 Key Factors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yakuza-like-a-dragon-review/"><u>Yakuza: Like A Dragon Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yearly-breakdown-best-in-class-auto-compasses/"><u>Yearly Breakdown: Best-in-Class Auto Compasses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yearly-roundup-affordable-cameras/"><u>Yearly Roundup: Affordable Cameras</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2024-12-06T06:46:08.598Z
-updated: 2024-12-10T08:43:51.182Z
+date: 2024-12-13T16:11:21.559Z
+updated: 2024-12-16T16:49:34.132Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -13,17 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 3.6
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/bJGZVvLPIuXJptw8uPYtObxbpMQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -46,6 +38,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 [View On Amazon](https://www.amazon.com/dp/B078WG6DBH/?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7CB078WG6DBH) [View On EBay](https://www.ebay.com/itm/Sony-XBR65X850F-65-Inch-4K-Ultra-HD-Smart-LED-TV-2018-Model/312237520273)
 
 3.6
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
@@ -93,17 +89,29 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
@@ -127,21 +135,17 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
- Lifewire / Zach Sweat
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Software: A bit sluggish but good enough**
 
@@ -157,10 +161,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -170,7 +170,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
@@ -220,19 +220,22 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-top-5-transformative-social-updates/"><u>[New] Decoding the Top 5 Transformative Social Updates</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-your-course-building-plays-on-youtube/"><u>[New] In 2024, Charting Your Course Building Plays on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-instagram-image-addition-playbook/"><u>[Updated] The Instagram Image Addition Playbook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-tune-tracker-latest-audio-tech/"><u>2024 Approved Tune Tracker Latest Audio Tech</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/consider-using-hardware-wallets-for-large-amounts-of-cryptocurrency-as-they-offer-an-additional-layer-of-security/"><u>Consider Using Hardware Wallets for Large Amounts of Cryptocurrency, as They Offer an Additional Layer of Security</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-powerful-performance-of-a-55-inch/"><u>Discover the Powerful Performance of a 55-Inch</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-virtual-flyings-why-microsoft-flight-simulator-x-gold-edition-is-unmatched/"><u>Elevate Your Virtual Flyings: Why Microsoft Flight Simulator X – Gold Edition Is Unmatched</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevating-prosetopia-full-featured-pinnacle/"><u>Elevating Prosetopia: Full-Featured Pinnacle</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-right-moment-to-switch-tech/"><u>Evaluating the Right Moment to Switch Tech</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-netgear-ex6200-ac1200-wi-fi-range-extender-a-comprehensive-review/"><u>Expert Analysis: Netgear EX6200 AC1200 Wi-Fi Range Extender - A Comprehensive Review</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guarding-against-invisible-dangers-expert-tips-for-detecting-and-stopping-computer-spyware-insights-from-yl-software/"><u>Guarding Against Invisible Dangers: Expert Tips for Detecting and Stopping Computer Spyware – Insights From YL Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/keywords-in-the-world-of-selling-monetized-youtube-channels-for-2024/"><u>Keywords in the World of Selling Monetized Youtube Channels for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-animated-logo-design-software-top-picks-and-expert-advice/"><u>New 2024 Approved Free Animated Logo Design Software Top Picks and Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-bsod-when-using-vmware-in-windows-11/"><u>Remedying BSOD when Using VMware in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-economical-systems-optimized-by-ideal-obs-settings-for-2024/"><u>[New] Economical Systems Optimized by Ideal OBS Settings for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-exhaustive-explanation-whats-behind-google-podcast/"><u>[New] In 2024, Exhaustive Explanation What's Behind Google Podcast?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pause-autoplay-on-youtube-suggested-videos/"><u>[Updated] In 2024, Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/applecare-plus-is-longer-coverage-your-techs-best-friend/"><u>AppleCare Plus: Is Longer Coverage Your Tech's Best Friend?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/considering-the-impact-of-switching-to-macos-sonoma/"><u>Considering the Impact of Switching to macOS Sonoma</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-best-tablet-for-you-an-in-depth-look-at-amazon-fire-vs-samsung-options/"><u>Decoding the Best Tablet for You - An In-Depth Look at Amazon Fire Vs. Samsung Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-advanced-4k-hdr10plus-capabilities-of-the-samsung-tv-qn55q60rafxza-smart-reviewed-here/"><u>Explore the Advanced 4K HDR10+ Capabilities of the Samsung TV - QN55Q60RAFXZA Smart Reviewed Here!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/facebook/"><u>Facebook に戻されなかった写真を取り戻す究極ガイド</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-on-yn560ivs-speedy-flash-and-master-control-all-for-less/"><u>Get Your Hands on YN560IV's Speedy Flash & Master Control, All for Less!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-redirecting-powershell-command-results-into-files/"><u>Guide: Redirecting PowerShell Command Results Into Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-real-time-voice-to-action-no-price-tag/"><u>In 2024, Real-Time Voice to Action, No Price Tag</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g04-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G04 Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-opting-for-applecareplus-a-wise-decision-or-not/"><u>Is Opting for AppleCare+ a Wise Decision or Not?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-potential-in-macbook-pro-via-ssd-installation/"><u>Unleash Potential in MacBook Pro via SSD Installation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-latest-iteration-of-apples-economical-ipad-8th-gen-a-step-towards-superior-performance/"><u>Unveiling the Latest Iteration of Apple's Economical iPad (8Th Gen) - A Step Towards Superior Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/viewframe-xd-awe-inspiring-yet-excessively-expensive/"><u>ViewFrame XD: Awe-Inspiring Yet Excessively Expensive</u></a></li>
 </ul></div>
 

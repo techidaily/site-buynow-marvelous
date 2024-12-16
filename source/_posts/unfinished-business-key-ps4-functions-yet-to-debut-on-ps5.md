@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2024-11-21T17:32:13.261Z
-updated: 2024-11-24T20:19:15.984Z
+date: 2024-12-12T16:30:26.506Z
+updated: 2024-12-16T17:19:56.559Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ---
 
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![A custom theme on the PlayStation 4 home menu based on "Xenoblade Chronicles X."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-custom-theme.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, the PlayStation 5 doesn't support themes at all. Any themes you own on your PS4 will be left behind when upgrading to the PS5, including those you paid for or received alongside certain games. The lack of themes is one of the most disappointing aspects of the PS5 for many console owners, but there are a few reasons for their omission.
@@ -47,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![Game details for Stranger of Paradise: Final Fantasy Origin on PlayStation 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-stranger-of-paradise-details-page.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Much like the PS4's themes, the detail pages feature unique backgrounds and music for each game. As such, there are fewer opportunities to see the standard background on the PS5 than there were PS4, which makes the inclusion of themes far less important for the PS5.
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Update History 
 
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The PlayStation 4's update history page for World of Final Fantasy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-update-history-world-of-final-fantasy.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
@@ -76,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  Additionally, having a traditional web browser on the PS5 may pose a security risk. With easy access to the internet, users can potentially download custom firmware and other third-party software directly onto their consoles. The PS5 browser's restrictive design may be an intentional safeguard against these types of downloads.
 
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4  USB Backup for PS5 Saves 
 
@@ -120,22 +120,19 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elite-videography-the-top-tools-for-youtube-content/"><u>[New] 2024 Approved Elite Videography The Top Tools For YouTube Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-simplified-youtube-auto-subscribe-url-for-2024/"><u>[New] Crafting a Simplified YouTube Auto-Subscribe URL for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-recorded-tones-the-iphone-voicemail-keeper-for-2024/"><u>[New] Recorded Tones The iPhone Voicemail Keeper for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-spotlight-on-stories-crafting-three-effective-highlights/"><u>[Updated] 2024 Approved Spotlight on Stories Crafting Three Effective Highlights</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-frame-rate-dilemma-30-vs-60-fps-in-video-production-for-2024/"><u>[Updated] Frame Rate Dilemma 30 Vs. 60 FPS in Video Production for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-mobile-and-desktop-video-player/"><u>Best Mobile and Desktop Video Player</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-d-links-powerline-2000-user-friendly-setup-and-swift-networking/"><u>The Ultimate Guide to D-Link's Powerline 2000: User-Friendly Setup and Swift Networking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-elegant-and-clever-samsung-un65ru8000fxza-televisor/"><u>The Ultimate Review of the Elegant & Clever Samsung UN65RU8000FXZA Televisor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-apples-latest-4k-streaming-device-gen-3-model/"><u>The Ultimate Verdict on Apple's Latest 4K Streaming Device, Gen 3 Model</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-power-upgrades-for-os-x-and-win-with-srt-systems-for-2024/"><u>Top 10 Power Upgrades for OS X and Win with SRT Systems for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-smartwatch-models-dominating-2024/"><u>Top-Ranking Smartwatch Models Dominating 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/travel-and-snapshots-made-wonderful-with-g9x-mark-ii/"><u>Travel & Snapshots Made Wonderful with G9X Mark II</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-d-link-powerline-adapter-plk-p8e-quick-installation-high-speed-performance/"><u>Ultimate Guide to D-Link Powerline Adapter (PLK-P8E): Quick Installation, High-Speed Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultraportable-powerhouse-in-depth-analysis-of-the-predator-300-se/"><u>Ultraportable Powerhouse: In-Depth Analysis of the Predator 300 SE</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-prime-day-offers-exclusive-apple-bargains/"><u>Unbeatable Prime Day Offers: Exclusive Apple Bargains</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-effectively-download-huge-quantities-of-tiktok-content-for-2024/"><u>[New] How to Effectively Download Huge Quantities of TikTok Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-guide-to-30-compelling-video-presentation-ideas/"><u>[New] In 2024, A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-chucklecanvas-draw-hilarious-social-media-art/"><u>[New] In 2024, ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a18-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A18 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-selection-the-definitive-list-of-premium-monitors-tailored-for-photographers/"><u>Elite Selection: The Definitive List of Premium Monitors Tailored for Photographers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/future-proofing-components/"><u>Future-Proofing Components</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-logitech-game-control-device-software-g27-compatible-with-win-11-10-and-7/"><u>Installing Logitech Game Control Device Software: G27 Compatible with Win 11, 10, and 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-mirrorless-interchangeable-lens-options-for-photographers-ranked-and-reviewed/"><u>Leading Mirrorless Interchangeable Lens Options for Photographers - Ranked and Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-samsung-smartphones-you-must-consider-this-year/"><u>Leading Samsung Smartphones You Must Consider This Year!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/memorial-stadium-plaza-and-fieldturf-park/"><u>Memorial Stadium Plaza and FieldTurf Park</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sturdy-and-bright-discover-the-55-inch-veranda-4k-tv-with-high-hdr-quality-by-sunbrite/"><u>Sturdy & Bright: Discover the 55-Inch Veranda 4K TV with High HDR Quality by SunBrite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/techie-treasures-top-budget-friendly-gadgets-from-how-to-geek-for-the-festive-season-of-2021/"><u>Techie Treasures: Top Budget-Friendly Gadgets From How-To Geek for the Festive Season of 2021</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-ps3-no-audio-issues/"><u>Ultimate Guide: Solving PS3 No Audio Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-m3-macbook-air-how-apples-revolutionary-ai-tech-is-changing-computing/"><u>Unveiling the M3 MacBook Air - How Apple's Revolutionary AI Tech Is Changing Computing</u></a></li>
 </ul></div>
 

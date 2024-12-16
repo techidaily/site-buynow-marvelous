@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Your New Steam Deck with Top-Rated Strategies
-date: 2024-11-18T20:05:38.721Z
-updated: 2024-11-24T18:39:12.477Z
+date: 2024-12-12T16:22:54.831Z
+updated: 2024-12-16T16:23:13.468Z
 tags:
   - games
   - tv
@@ -32,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  I’ve been using a Steam Deck for more than a year, and in that time, I’ve discovered a plethora of cool tips and tricks that have improved my experience. Here are some pointers to get the most out of your Deck and SteamOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Calibrate the Display After You Turn on Your Deck for the First Time
 
  The [SteamOS 3.5.5 update](https://fox-blue.techidaily.com/2024-approved-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/) introduced a built-in display calibration feature, which you should use as soon as you turn on your Deck for the first time.
@@ -45,7 +49,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Calibrating Steam Deck display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-02.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another option worth mentioning is the [blue light filter](https://facebook-record-videos.techidaily.com/new-2024-approved-essential-gear-picking-the-very-best-among-top-9-free-logomakers/) feature, located in the “Display” menu just under display calibration.
@@ -55,7 +59,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Steam Deck Display menu that includes various blue light filter options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-03.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get the Full List of Shortcuts by Holding the Steam or Quick Access Button
@@ -67,12 +71,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In addition to Game Mode, SteamOS has many different shortcuts in Desktop Mode. To learn more about those, read [our full guide to Steam Deck shortcuts](https://os-tips.techidaily.com/the-ultimate-top-8-messaging-app-restoration-tools-best-free-and-paid-options-for-iphone-and-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Control In-Game Brightness With the Left Analog Stick and Quick Access Button
 
  While there’s a Quick Access menu you can open in-game to tweak brightness, you don’t have to pause your game for even a second to adjust the screen's brightness while gaming. Just hold the “Quick Access” button and move the left thumbstick up to increase brightness and down to decrease it. You can use this button combo anywhere in Game Mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tweak Notifications Before You Start Gaming
 
@@ -82,11 +90,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Toggling various notifications toggles in the Steam Deck notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-04.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There, you can tweak individual notifications, turn notification toasts off completely, and disable notification sounds. Just scroll to the end and tweak every single option to your liking, and then you can start gaming without the annoying pop-ups.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  SD Cards are Adequate Storage Options for Most Games
 
@@ -109,10 +117,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The position of the sole USB-C port on the Steam Deck isn’t great, especially if you often game on your Deck while charging.
 
 ![Steam Deck Charging Adapter Laying on a glass table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-charging-adapter-featured.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -158,6 +162,10 @@ Goran Damnjanovic / How-To Geek
 
 ![Enabling Offline Mode on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-09.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create Game Collections For Easier Game Library Navigation
 
  Navigating your [Steam library](https://video-screen-grab.techidaily.com/new-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders-for-2024/) isn’t complicated if you own just a handful of games. But once your library balloons to hundreds of titles, finding the one you’re looking for can be a chore. This is why I recommend every fresh Steam Deck owner create different game collections in their Steam library.
@@ -166,17 +174,9 @@ Goran Damnjanovic / How-To Geek
 
 ![Steam Deck side menu with the Library tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-10.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head to the “All Games” tab, find the game you want to add to a new collection and press the Start button to open the options menu.
 
 ![Steam Library on a Steam Deck with the All Games tab selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-11.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, select the “Add To” option and either add the game to an existing collection or create a new one.
 
@@ -186,17 +186,9 @@ Goran Damnjanovic / How-To Geek
 
 ![Steam library All Games tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-13.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’re inside the “Library Filters” menu, select and activate the “All Games” filter. Your library will now show you every game you own, not just those compatible with Steam Deck.
 
 ![Enabling All Games filter in a Steam Deck library filters menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-14.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Learn to Use the Performance Quick Access Menu
 
@@ -204,7 +196,15 @@ Goran Damnjanovic / How-To Geek
 
 ![Performance Quick Access menu on a Steam Deck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-15.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Probably the most helpful feature here is the performance overlay that shows your frame rate, power used by the CPU and GPU, CPU and GPU usage, frame time graph, and more. I recommend setting the performance overlay to level 2, which includes most of the data you’ll need. If you want to see the frame time graph, set the overlay to level 3\. To see the usage of individual CPU cores, battery life left, fan RPM, and more details, set the overlay to level 4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set Refresh Rate to 45Hz (OLED) or 40Hz (LCD)
 
@@ -222,15 +222,15 @@ Goran Damnjanovic / How-To Geek
 
 ![Enabling Battery Percentage toggle in SteamOS General settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/how-to-check-battery-health-and-levels-on-a-steam-deck-08.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Try out Local Game Streaming if You Own a Gaming PC
 
  If you own a gaming PC, I strongly advise you to try local game streaming. You can either use [Moonlight](https://moonlight-stream.org/) or stream games from your PC via [Steam Remote Play](https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-14-ultra-lock-screen-password-by-drfone-android/). I strongly prefer the Moonlight with [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en) (an open-source local game streaming client) combo to Steam Remote Play because the former has better image quality and much better performance.
 
  Read [our guide to game streaming on Steam Deck](https://youtube-zero.techidaily.com/ating-the-net-top-tags-for-eye-catching-gamer-content/) to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Lastly, Follow the Steam Deck Subreddit
 
@@ -253,18 +253,20 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-swift-method-image-alchemy-into-engaging-youtube-thumbnail-pics/"><u>[Updated] 2024 Approved Swift Method Image Alchemy Into Engaging YouTube Thumbnail Pics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unmatched-warfare-discovering-the-prime-7-total-war-battles/"><u>[Updated] 2024 Approved Unmatched Warfare Discovering the Prime 7 Total War Battles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guided-pathway-for-large-file-exchange-in-apple-ecosystem/"><u>2024 Approved Guided Pathway for Large File Exchange in Apple Ecosystem</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-driven-customized-user-experience-solutions/"><u>Cookiebot-Driven Customized User Experience Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-130-music-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia 130 Music To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-9-proplus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 9 Pro+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/original-visual-storytelling-appraisal-and-substitutions-for-2024/"><u>Original Visual Storytelling Appraisal & Substitutions for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pinnacle-article-hook-maker/"><u>Pinnacle Article Hook Maker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-star-studded-us-kids-choice-awards-present-nickwatch-the-newest-tech-for-youngsters/"><u>The Star-Studded U.S. Kids' Choice Awards Present NickWatch: The Newest Tech for Youngsters</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-eufy-t8200-doorbell-camera-why-subscriptions-arent-required/"><u>The Ultimate Guide to the Eufy T8200 Doorbell Camera: Why Subscriptions Aren't Required</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tier-basketball-gaming-with-nba-2k19/"><u>Top-Tier Basketball Gaming with NBA 2K19</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transitioning-from-windows-7-to-10-a-comprehensive-guide/"><u>Transitioning From Windows 7 to 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-showdown-comparing-features-of-roku-vs-fire-tv-stick-to-find-your-ideal-streamer/"><u>Ultimate Showdown: Comparing Features of Roku Vs. Fire TV Stick to Find Your Ideal Streamer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-tips-for-creating-engaging-screencasts/"><u>[New] In 2024, Expert Tips for Creating Engaging Screencasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-recording-the-next-level-of-play/"><u>[Updated] In 2024, Recording the Next Level of Play</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-meme-magic-perfect-10-design-tips-and-tricks/"><u>[Updated] Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-visibility-ideal-ps4-camera-setup-guide/"><u>Achieving Perfect Visibility: Ideal PS4 Camera Setup Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-oneplus-9-falling-short-of-expectations/"><u>Analyzing the OnePlus 9: Falling Short of Expectations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-apple-iphone-15-pro-and-pro-max-which-one-should-you-choose/"><u>Comparing Apple iPhone 15 Pro & Pro Max: Which One Should You Choose?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-aeiusys-portable-solar-generator-with-pure-sine-wave-for-delicate-medical-devices/"><u>Comprehensive Guide to Aeiusy's Portable Solar Generator with Pure Sine Wave for Delicate Medical Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-alternatives-to-microsoft-office-for-businesses/"><u>Discover Alternatives to Microsoft Office for Businesses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-samsung-galaxy-tab-s7-is-dominating-as-a-high-quality-tablet-for-android-users/"><u>Discover Why the Samsung Galaxy Tab S7 Is Dominating as a High-Quality Tablet for Android Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/edit-photos-like-a-pro-explore-the-best-free-darkroom-software-lightzone-for-pcmaclinux-users/"><u>Edit Photos Like a Pro: Explore the Best FREE Darkroom Software Lightzone for PC/Mac/Linux Users</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/experience-xreal-air-2-firsthand-innovative-display-technology-transforms-vr/"><u>Experience Xreal Air 2 Firsthand: Innovative Display Technology Transforms VR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-choice-top-enclosures-for-ssds-and-hard-drives/"><u>Expert's Choice: Top Enclosures for SSDs and Hard Drives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-stream-capture-software-unraveler/"><u>In 2024, Stream Capture Software Unraveler</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-addressing-and-solving-the-zoom-cannot-start-video-problem/"><u>Quick Fixes: Addressing and Solving the 'Zoom Cannot Start Video' Problem</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transcription-triumphs-quick-methods-for-fb-call-records-for-2024/"><u>Transcription Triumphs Quick Methods for FB Call Records for 2024</u></a></li>
 </ul></div>
 

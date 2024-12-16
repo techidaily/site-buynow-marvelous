@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-12-05T16:36:25.254Z
-updated: 2024-12-09T22:28:26.625Z
+date: 2024-12-09T18:08:29.563Z
+updated: 2024-12-16T17:40:51.731Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -68,7 +68,7 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Flimsy and difficult to use**
@@ -82,7 +82,7 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup process: Awkward to position**
@@ -90,10 +90,6 @@ Lifewire / James Huenink
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
 
  It was easy to set up when we clipped it to a laptop, but terrible when we tried to put it on our HD TV. Every time we moved the computer or the USB cable, the camera slid, twisted, or fell off the TV. The ball joint, which connects the camera to the base, didn’t move smoothly, so we struggled to point the Docooler USB 2.0 12 Megapixel in the right direction, and we were too worried about breaking the plastic to try and force it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Camera Quality: Not even close to advertised**
 
@@ -106,7 +102,7 @@ Lifewire / James Huenink
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / James Huenink
@@ -127,6 +123,10 @@ Lifewire / James Huenink
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Competition: Falls short**
 
 **_Logitech C270_ :** The Logitech C270 is a low-cost webcam that goes for $40 MSRP, though you can frequently find it for approximately $20\. For $10 more than the Docooler, you get a big upgrade. It has 720p video calling and takes photos at 3MP. The microphone filters out background noise, so it shouldn’t have the same echo effects as the Docooler Web Cam. Even though it’s twice the price, you get a lot more camera for your ten bucks.
@@ -142,7 +142,7 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -177,16 +177,20 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-video-production-windows-11s-moviemaker-toolkit-for-2024/"><u>[Updated] Cutting-Edge Video Production Windows 11'S Moviemaker Toolkit for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-captivating-esports-aspect-of-nhl-19-an-in-depth-analysis/"><u>A Closer Look at the Captivating eSports Aspect of NHL 19 - An In-Depth Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/advantages-and-disadvantages-a-comprehensive-guide-to-using-pidgin-im/"><u>Advantages and Disadvantages: A Comprehensive Guide to Using Pidgin IM</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-stability-a-comprehensive-review-of-the-omoton-t1-tablet-stand/"><u>Affordable Stability: A Comprehensive Review of the Omoton T1 Tablet Stand</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/artists-insight-on-the-functionality-of-gaomon-pd1560-pen-display/"><u>Artist's Insight on the Functionality of Gaomon PD1560 Pen Display</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/leading-tools-to-record-your-desktop-for-2024/"><u>Leading Tools to Record Your Desktop for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/media-matrix-the-battle-of-podcasts-vs-youtube/"><u>Media Matrix The Battle of Podcasts Vs. YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones-for-2024/"><u>The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-nonresponsive-windows-key-on-windows-10-pcs/"><u>The Ultimate Fix for a Nonresponsive Windows Key on Windows 10 PCs</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-5-no-cost-solutions-for-fixing-corrupted-outlook-pst-files/"><u>Top 5 No-Cost Solutions for Fixing Corrupted Outlook PST Files</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-resource-downloading-and-setting-up-brother-l2540dw-drivers-for-windows-users/"><u>Ultimate Resource: Downloading and Setting Up Brother L2540DW Drivers for Windows Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-ads-create-and-design-with-free-creative-kit/"><u>[New] In 2024, FB Video Ads Create & Design with Free Creative Kit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-video-editing-secrets-to-skyrocket-your-channels/"><u>[New] In 2024, Top 10 Video Editing Secrets to Skyrocket Your Channels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-syncing-webcam-footage-with-screen-recording-for-2024/"><u>[Updated] Syncing Webcam Footage with Screen Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-the-basics-of-vsco-filters/"><u>[Updated] Understanding the Basics of VSCO Filters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-companion-best-cd-players-and-changers-24/"><u>Audiophile’s Companion: Best CD Players & Changers '24</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-eight-best-pc-and-laptop-brands-dominating-2024/"><u>Discover the Elite Eight: Best PC and Laptop Brands Dominating 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-mbas-for-career-growth-are-the-advantages-greater-than-the-expenses-expert-analysis-by-zdnet/"><u>Evaluating MBAs for Career Growth: Are The Advantages Greater Than The Expenses? - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-features-of-the-5g-ready-samsung-galaxy-s20-fan-edition-review/"><u>Exploring the Best Features of the 5G Ready Samsung Galaxy S20 Fan Edition Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oppo-a1x-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Oppo A1x 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-c7000-review-a-fantastic-wireless-modem/"><u>Netgear Nighthawk C7000 Review: A Fantastic Wireless Modem</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-videopad-video-editor-a-comprehensive-review-and-buying-guide/"><u>New Videopad Video Editor A Comprehensive Review and Buying Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/optimizing-google-nest-speakers/"><u>Optimizing Google Nest Speakers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-7-ideal-cell-phone-contracts-for-seniors/"><u>Top 7 Ideal Cell Phone Contracts for Seniors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-new-possibilities-with-macos-15-the-ultimate-upgrade-list-for-apple-macbook-users/"><u>Unlock New Possibilities with MacOS 15: The Ultimate Upgrade List for Apple MacBook Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls
-date: 2024-12-09T12:09:37.411Z
-updated: 2024-12-10T13:25:33.419Z
+date: 2024-12-13T18:04:47.136Z
+updated: 2024-12-16T16:39:59.184Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/mlMfq3LY6U9MMmuHzfInRozyIfg=/400x300/fi
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -36,6 +40,10 @@ Lifewire / Jonno Hill
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
 
 4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HP Omen Obelisk
 
@@ -71,6 +79,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -93,10 +105,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 ## **Performance** :**Great components for gaming and productivity**
@@ -106,10 +114,6 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -125,14 +129,10 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
@@ -159,11 +159,11 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -178,7 +178,7 @@ Lifewire / Jonno Hill
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -215,22 +215,15 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-accurate-ranking-of-top-free-subtitle-makers-srt-online/"><u>[New] 2024 Approved Accurate Ranking of Top Free Subtitle Makers (Srt) Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-yis-4k-hero-series/"><u>[New] The Ultimate Guide to Yi's 4K HERO Series</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-strategies-for-captivating-end-moments-for-2024/"><u>[Updated] Strategies for Captivating End Moments for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10plus-instagram-content-downloaders-reviewed-for-2024/"><u>[Updated] Top 10+ Instagram Content Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-advanced-wireless-mesh-networks-of-2024/"><u>Discover the Most Advanced Wireless Mesh Networks of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-maisto-rock-crawler-is-a-must-have-toy-in-every-familys-garage/"><u>Discover Why the Maisto Rock Crawler Is a Must-Have Toy in Every Family's Garage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eclipse-antenna-by-clearstream-unmatched-performance-in-an-effortlessly-user-friendly-design/"><u>Eclipse Antenna by ClearStream: Unmatched Performance in an Effortlessly User-Friendly Design</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-sunrise-at-home-a-comprehensive-guide-to-totobays-latest-and-budget-friendly-alarm-clock/"><u>Experience Sunrise at Home: A Comprehensive Guide to Totobay's Latest and Budget-Friendly Alarm Clock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-best-in-audio-creatives-sound-blaster-zxr-tested-and-analyzed-2013-model/"><u>Experience the Best in Audio - Creative's Sound Blaster ZxR Tested & Analyzed (2013 Model)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-moto-g-stylus-outstanding-performance-meets-enduring-power-and-smart-pen-capabilities/"><u>Experience the Moto G Stylus: Outstanding Performance Meets Enduring Power and Smart Pen Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-the-most-effective-storm-chasing-tools-for-navigating-2024/"><u>Expert Reviews: The Most Effective Storm Chasing Tools for Navigating 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-gamers-paradise-of-the-samsung-q60r-smart-qled-4k-tv-a-comprehensive-analysis/"><u>Exploring the Gamers Paradise of the Samsung Q60R Smart QLED 4K TV: A Comprehensive Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-address-the-loadlibrary-error-code-87-on-pcs/"><u>How to Address the LoadLibrary Error Code 87 on PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/nine-crucial-methods-to-log-computer-speakers-and-microphones/"><u>Nine Crucial Methods to Log Computer Speakers and Microphones</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-error-0xa00f425d-in-windows-camera-app/"><u>Troubleshooting Error 0xA00F425D in Windows Camera App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-selecting-the-ideal-avi-to-dvd-conversion-tool-on-windows-11/"><u>Ultimate Guide: Selecting the Ideal Avi to Dvd Conversion Tool on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-3d-text-illustration-in-adobe-illustrator/"><u>[New] Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-path-to-profitability-enrolling-in-the-youtube-partner-program/"><u>[New] Path to Profitability Enrolling in the YouTube Partner Program</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-transforming-titles-best-ai-powered-podcast-name-makers/"><u>[Updated] Transforming Titles Best AI-Powered Podcast Name Makers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-the-action-5-ways-to-record-windows-10-games/"><u>2024 Approved Capture the Action 5 Ways to Record Windows 10 Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/7-must-consider-factors-when-purchasing-a-motherboard/"><u>7 Must-Consider Factors When Purchasing a Motherboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-jackery-powerbar-with-integrated-ac-outlet/"><u>Expert Evaluation of the Jackery PowerBar with Integrated AC Outlet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insight-into-the-t6-dslr-budget-friendly-model/"><u>Insight Into the T6 DSLR: Budget-Friendly Model</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c53-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C53 Phone FRP Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-tab-s3-timeless-excellence-or-outdated-tech-reviews-and-insights/"><u>Samsung Galaxy Tab S3: Timeless Excellence or Outdated Tech? Reviews & Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X9a | Dr.fone</u></a></li>
 </ul></div>
 

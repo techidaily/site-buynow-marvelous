@@ -1,7 +1,7 @@
 ---
 title: "1. Unlocking the Joy of Gaming: Winning Hearts of Non-Players"
-date: 2024-11-21T18:03:47.740Z
-updated: 2024-11-24T17:44:51.744Z
+date: 2024-12-12T17:44:04.852Z
+updated: 2024-12-16T17:55:20.558Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 ## 1. Unlocking the Joy of Gaming: Winning Hearts of Non-Players
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  Not everybody in my life likes video games, but I've got a pretty good track record of getting them excited to play some with me. By picking the right games and choosing my moments wisely, I've gotten some non-gamers to fall in love with games. If you play your cards right, here's how you could see the same success.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pick Your Battles Carefully
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
  By the same token, my girlfriend wouldn't have enjoyed _Breath of the Wild_ if I dropped her into it, despite being drawn into the beauty of the world. The controls would have been too much, making the level of challenge much harder than it's intended to be. But when I offered for us to play _Overcooked_ instead, which you can play with a single stick and just the one button, she got obsessed with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Wait for the Perfect Timing
 
  Once you've picked a game you want someone to play, don't jump at them and try playing it straight away. Instead, introduce the idea of that game to them slowly. Bring it up in conversation, talk about what excited you about it, and start softly selling them on the idea of playing together. The idea is to get them to _want_ to play the game, rather than just doing it to appease you.
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  If you can do so without spoiling any gameplay mechanics or story beats, try playing the game around them. Don't force them to sit and watch you, but stick it on if they're scrolling on the sofa next to you of an evening. If you picked a visually appealing game, it's likely to catch their eye and they could start growing interested.
 
  When you're ready to try getting them to actually play, be mindful with your timing. Pick a moment when they're relaxed, in a good mood, with plenty of free time. After they've already fallen in love with the game, it can be a great way to relieve stress. But if they're not already a gamer, it's not going to be what they wanted to do after finishing up a difficult day at work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Let Them Take the Lead for Once
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  And if you've picked out an [appealing single-player game](https://extra-information.techidaily.com/effortless-techniques-for-stunning-time-lapse-photography-using-samsungs/), like _Journey_ or _Firewatch_, don't tell them exactly what to do. Sit back and let them discover it for themselves. But more on that next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Spoil the Joy of Discovery
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
  Of course, you don't want them to get so stuck that they give up entirely, which is what leads us to my last piece of advice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  But Don't Leave Them High and Dry Either
 
  Although you should absolutely allow your non-gamers to explore, make mistakes, and get lost all by themselves—since these moments bring with them the joy of overcoming them. You need to keep an eye out to offer little nuggets of advice when they're getting too frustrated to keep playing.
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  You'll need to base this on what you know about the person. If they're likely to give up too quickly and tell themselves they can't do it, you might need to intervene a little sooner. Whereas if they're stubborn and headstrong, they can probably put up with more irritation.
 
 ![Two people holding PlayStation controllers in front of a TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/two-people-holding-playstation-controllers-in-front-of-a-tv.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Zurijeta](https://www.shutterstock.com/g/zurijeta)[/Shutterstock.com](https://www.shutterstock.com/image-photo/two-boys-sitting-home-playing-video-1575673549)
 
@@ -112,19 +112,24 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-compre-written-in-html-a-journey-through-web-content-creation/"><u>[New] The Compre Written in HTML A Journey Through Web Content Creation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enhancing-engagement-with-solutions-to-common-shorts-challenges/"><u>[Updated] Enhancing Engagement with Solutions to Common Shorts Challenges</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-windows-10-users-guide-to-microphones/"><u>2024 Approved The Windows 10 User's Guide to Microphones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/detailed-overview-of-windows-11-mobile-unveiling-the-specifications-launch-timeline-and-pricing-for-lumia-950-and-950-xl/"><u>Detailed Overview of Windows 11 Mobile: Unveiling the Specifications, Launch Timeline & Pricing for Lumia 950 and 950 XL</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enduring-seamlessness-direct-profile-url-insertion-guide/"><u>Enduring Seamlessness Direct Profile URL Insertion Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eufy-t8200-video-doorbell-review/"><u>Eufy T8200 Video Doorbell Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-cost-the-ultimate-guide-to-microsoft-surface-studio-2/"><u>Evaluating Performance & Cost - The Ultimate Guide to Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ex3700-wireless-range-extender-by-netgear-ac750-a-full-review-for-potential-buyers-with-tips-and-comparisons/"><u>EX3700 Wireless Range Extender by Netgear AC750: A Full Review for Potential Buyers with Tips & Comparisons</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-a-new-level-with-the-apple-homepod-mini-review-exceptional-audio-performance-and-siri-integration/"><u>Experience a New Level with the Apple HomePod Mini Review - Exceptional Audio Performance and Siri Integration</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-unparalleled-portability-without-compromising-performance-the-ultimate-guide-to-the-lg-gram-15-laptop-201/"><u>Experience Unparalleled Portability Without Compromising Performance - The Ultimate Guide to the LG Gram 15 Laptop (201</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-the-kensun-portable-air-compressor-sturdy-performance-for-on-the-go-inflation-needs/"><u>Expert Evaluation: The Kensun Portable Air Compressor - Sturdy Performance for On-the-Go Inflation Needs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y28-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y28 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-c65-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco C65</u></a></li>
-<li><a href="https://games-able.techidaily.com/java-gaming-our-list-of-must-see-features/"><u>Java Gaming: Our List of Must-See Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-protecting-and-preserving-your-musical-legacy-three-ways/"><u>[New] 2024 Approved Protecting and Preserving Your Musical Legacy Three Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-premium-web-outlets-for-gift-boxes-that-speak-to-you/"><u>[New] In 2024, Premium Web Outlets for Gift Boxes That Speak to You</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-twisting-the-norm-your-instagram-video-transformation/"><u>[New] In 2024, Twisting the Norm Your Instagram Video Transformation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-zenith-of-pc-gameplay/"><u>[New] The Ultimate Zenith of PC Gameplay</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-why-is-my-sony-a6400-video-unresponsive/"><u>[Updated] Why Is My Sony A6400 Video Unresponsive?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2023s-top-choices-in-apple-watch-bands-find-your-perfect-fit/"><u>2023'S Top Choices in Apple Watch Bands: Find Your Perfect Fit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-expert-advice-incorfluttering-web-pages-into-ig-stories-and-posts/"><u>2024 Approved Expert Advice Incorfluttering Web Pages Into IG Stories & Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-image-editors-ultimate-toolkit-review/"><u>2024 Approved The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-tips-and-tricks-elevating-your-images-with-text-editing/"><u>2024 Approved Tips & Tricks Elevating Your Images with Text Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tutorial-for-fixing-lan-issues-on-windows-os-version-10-and-7/"><u>Comprehensive Tutorial for Fixing LAN Issues on Windows OS (Version 10 and 7)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-gaming-headsets-and-mic-combo-options/"><u>Top-Rated Gaming Headsets & Mic Combo Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-solar-power-banks-a-comprehensive-guide/"><u>Top-Rated Solar Power Banks: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-laptop-trackpad-issues/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Laptop Trackpad Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-buyers-list-for-the-most-effective-wi-fi-cards-of-2024/"><u>Ultimate Buyer's List for the Most Effective Wi-Fi Cards of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-premium-car-cellphone-docking-devices/"><u>Ultimate Guide to Premium Car Cellphone Docking Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-premier-laptop-riser-options-for-enhanced-ergonomics/"><u>Ultimate Guide to the Premier Laptop Riser Options for Enhanced Ergonomics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-amazon-fire-tv-sticks-and-streaming-devices-for-2e64-expert-reviews-and-comparisons/"><u>Ultimate Selection of Amazon Fire TV Sticks and Streaming Devices for 2E64: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-premium-smartwatches-for-the-year-2n24-expert-reviews-and-ratings/"><u>Ultimate Selection of Premium Smartwatches for the Year 2N24: Expert Reviews & Ratings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-digital-security-the-ultimate-guide-to-premium-password-managers/"><u>Unlocking Digital Security: The Ultimate Guide to Premium Password Managers</u></a></li>
 </ul></div>
 

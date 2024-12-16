@@ -1,7 +1,7 @@
 ---
 title: Evaluating Xbox Series S's Stellar Hardware & Compact Design for Gamers
-date: 2024-09-13T00:07:14.578Z
-updated: 2024-09-14T20:39:35.628Z
+date: 2024-12-09T16:01:51.673Z
+updated: 2024-12-16T16:59:31.466Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating Xbox Series S's Stellar Hardware & Compact Design for Gamers
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/FGI8xerKt3icyDzp_h8bugBgHPo=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Outer Worlds
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/ilSMK7MdhAHIYF1KI5F6dWzNOnI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-HeroSquare-5886d4533ee146b18daef3a40898b264.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -80,6 +88,10 @@ Lifewire / Kelsey Simon
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/6e7gsLSJwKWV8-Gpw6vMnU6_ohk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-02-03e4afcdc62d4528a5e0b6e4e19ae03b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Gameplay: Shooting enemies for story progression**
@@ -97,10 +109,7 @@ Lifewire / Kelsey Simon
 ![The Outer Worlds](https://www.lifewire.com/thmb/ax345l2R5dAgwtloXADYi2mrtKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-03-933e9037c06d4754b04cca743675f3e5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -111,31 +120,15 @@ Lifewire / Kelsey Simon
 
 ![The Outer Worlds](https://www.lifewire.com/thmb/sJTEo9nCHPyxpxLeue9TFUvPEaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4050050-The-Outer-Worlds-04-2e28a12a6aac4163a86a580d2dac979f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Not bad if you enjoy story-driven games**
 
  The Outer Worlds costs $60 new, although you might be able to catch it on sale if you watch closely. Even at full cost, it’s a game worth buying if you enjoy science fiction inspired first-person shooters―or more specifically, single-player shooter games with a focus on storytelling. As someone who often doesn’t like spending loads of money on a new game, I will say that Outer Worlds was one I didn’t mind buying. The game is fun and well written. It’s an adventure to be had, and while it’s not the best game that’s ever been made, it’s a solid, well-made game that most will enjoy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Sci-fi games with strong series**
 
@@ -168,5 +161,26 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-detailed-instructions-for-embedding-and-displaying-youtube-playlists-online/"><u>[New] 2024 Approved Detailed Instructions for Embedding and Displaying YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-video-earnings-techno-gamers-guide/"><u>[Updated] In-Video Earnings Techno Gamers' Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-5-innovative-vr-headsets-perfect-for-aerial-sports/"><u>2024 Approved 5 Innovative VR Headsets Perfect for Aerial Sports</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagram-mastery-build-stunning-group-photos-in-a-flash/"><u>2024 Approved Instagram Mastery Build Stunning Group Photos in a Flash</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-excellence-in-depth-look-at-the-nokia-71s-screen-and-camera-features/"><u>Budget-Friendly Excellence: In-Depth Look at the Nokia 7.1'S Screen and Camera Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-sea-techs-portable-usb-blu-ray-recorder-a-look-at-its-erratic-effectiveness/"><u>Comprehensive Analysis of Sea Tech's Portable USB Blu-Ray Recorder - A Look at Its Erratic Effectiveness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-tp-link-ac1200-wifi-booster-re305-evaluation-a-users-guide/"><u>Comprehensive TP-Link AC1200 WiFi Booster Re305 Evaluation - A User's Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cp24-criacry-bluetooth-fm-transmitter-evaluation-space-saving-yet-imperfect/"><u>CP24 CriaCry Bluetooth FM Transmitter Evaluation: Space-Saving Yet Imperfect</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-t2x-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo T2x 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-v29-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo V29 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hubs-for-high-quality-vr-watching/"><u>In 2024, Hubs for High-Quality VR Watching</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-review-the-new-m1-powered-apple-macbook-pro-16-inch/"><u>In-Depth Analysis and Review: The New M1 Powered Apple MacBook Pro (16-Inch)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-htpc-setups-to-elevate-your-viewing-experience-this-year/"><u>Leading HTPC Setups to Elevate Your Viewing Experience This Year</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-parental-safety-routers-the-2024-ultimate-guide-and-reviews/"><u>Leading Parental Safety Routers: The 2024 Ultimate Guide and Reviews</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-work-on-the-go-comprehensive-overview-of-msis-professional-portable-screen-mp161-e2/"><u>Mastering Work On-the-Go: Comprehensive Overview of MSI's Professional Portable Screen – MP161 E2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-find-x7-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Find X7 Phone? Unlock It Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-convertible-laptop-showdown-spotlight-on-asus-chromebook-flip-c302ca/"><u>The Ultimate Convertible Laptop Showdown: Spotlight on Asus Chromebook Flip C302CA</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-your-whatsapp-zoom-issue/"><u>Ultimate Guide: Solving Your WhatsApp Zoom Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-delaying-the-installation-of-ios-153-could-be-risky/"><u>Why Delaying the Installation of iOS 15.3 Could Be Risky</u></a></li>
+</ul></div>
 

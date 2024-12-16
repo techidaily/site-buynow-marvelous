@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking TKL Mechanical Keyboard Picks: A Buyer's Guide"
-date: 2024-12-07T00:13:06.802Z
-updated: 2024-12-10T13:26:46.193Z
+date: 2024-12-13T16:30:13.799Z
+updated: 2024-12-16T17:53:34.957Z
 tags:
   - buying-guides
 categories:
@@ -31,6 +31,10 @@ Best TKL Keyboard Overall
 ![hyperx alloy origins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/hyperx-alloy-origins.png)  
 #####  HyperX Alloy Origins Core TKL Keyboard  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Budget TKL Keyboard  
 [$69 at Amazon](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce)  
@@ -38,7 +42,7 @@ Best Budget TKL Keyboard
 #####  Razer Huntsman V2 TKL  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best TKL Keyboard for Gaming  
@@ -72,17 +76,9 @@ Best TKL Keyboard for Mac
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best TKL Keyboard Overall: [SteelSeries Apex Pro TKL](https://www.amazon.com/SteelSeries-Apex-Mechanical-Gaming-Keyboard/dp/B07TBGQ6P7?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![SteelSeries Apex Pro TKL on a gaming desk with red and pink lights.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/steelseries-pro-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _SteelSeries_
 
@@ -119,10 +115,6 @@ Offering adjustable switches, built-in OLED display, and a premium wrist rest, t
 
 ![The HyperX Origins Core TKL on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/hyperx-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _HyperX_
 
 | Pros                             | Cons                                |
@@ -140,10 +132,14 @@ _HyperX_
 ![hyperx alloy origins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/hyperx-alloy-origins.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget TKL Keyboard
 
@@ -155,13 +151,13 @@ Built with a premium aluminum body and support for the HyperX NGENUITY Software,
 
 [$69 at Amazon](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B084GYSFDT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best TKL Keyboard for Gaming: [Razer Huntsman V2 TKL](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Razer Huntsman V2 TKL on a gaming desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/razer-huntsman-v2-tkl-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Razer_
 
@@ -194,16 +190,12 @@ The Huntsman V2 TKL offers a great polling rate for improved latency, reliable c
 [$92 at Amazon](https://www.amazon.com/Razer-Huntsman-Tenkeyless-Gaming-Keyboard/dp/B09C13WYDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Wireless TKL Keyboard: [Logitech G915 Lightspeed](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Logitech G915 TKL on a grey desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/logitech-g915-tkl-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Logitech_
 
@@ -233,9 +225,17 @@ Wireless keyboards don’t get much better than this. The G915 TKL is a compact,
 
 [$150 at Amazon](https://www.amazon.com/dp/B085RMD5TP?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best TKL Keyboard for Mac: [Keychron K8 Wireless Mechanical Keyboard](https://www.amazon.com/gp/product/B0869J8XD9?tag=hotoge-20&ascsubtag=UUhtgUeUpU904551&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-tkl-mechanical-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![Keychron K8 on a white desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/keychron-k8-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Keychron_
 
@@ -268,7 +268,7 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is a TKL keyboard?
@@ -279,13 +279,13 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
  A TKL keyboard will have 87 or 88 keys, although you may find some models with macro keys that slightly inflate this number.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are TKL keyboards good for programming?
 
  Yes, TKL keyboards are good for programming, as they typically offer all the keys needed for the majority of programming languages. They’re also compact and easy to carry from one workstation to the next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are TKL keyboards good for gaming?
 
@@ -306,24 +306,18 @@ The Keychron K8 Wireless Mechanical Keyboard offers full support for Mac, boasts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-search-of-greatness-top-15-timeless-stop-motion-films-for-2024/"><u>[New] In Search of Greatness Top 15 Timeless Stop Motion Films for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-breaking-down-the-science-behind-green-screen-filmmaking-for-starters/"><u>[Updated] Breaking Down the Science Behind Green Screen Filmmaking for Starters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-suminds-bt70b-for-automobile-audio-connectivity/"><u>Expert Analysis on Sumind's BT70B for Automobile Audio Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-bloodbornes-shadowy-realm-an-in-depth-game-analysis/"><u>Exploring Bloodborne's Shadowy Realm: An In-Depth Game Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-unpredictable-odyssey-of-yokus-island-express/"><u>Exploring the Unpredictable Odyssey of Yoku's Island Express</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fashion-forward-and-functional-a-comprehensive-review-of-the-swagtron-swagger-electric-scooter-for-effortless-urban-transport/"><u>Fashion-Forward and Functional: A Comprehensive Review of the Swagtron Swagger Electric Scooter for Effortless Urban Transport</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-nest-audio-versus-apple-homepod-which-smart-speaker-wins/"><u>Google Nest Audio Versus Apple HomePod: Which Smart Speaker Wins?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-nest-audio-vs-nest-mini-which-smart-speaker-wins/"><u>Google Nest Audio Vs. Nest Mini: Which Smart Speaker Wins?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-tv-chromecast-unveiled-a-new-contender-in-streaming-devices/"><u>Google TV Chromecast Unveiled: A New Contender in Streaming Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/headphonespeaker-buyers-essential-checklist/"><u>Headphone/Speaker Buyers' Essential Checklist</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-youtube-tv-stacks-up-5-benefits-of-joining-today/"><u>How YouTube TV Stacks Up: 5 Benefits of Joining Today</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-k70e-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi K70E Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://techidaily.com/is-your-nokia-c12-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C12 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-multiframe-view-microsoft-edges-pip/"><u>Mastering Multiframe View Microsoft Edge's PIP</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solution-resolving-the-steam-disk-writes-failed-issue-without-hassle/"><u>Simple Solution: Resolving the 'Steam Disk Writes Failed' Issue Without Hassle</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-your-airpods-not-auto-connecting-across-apple-gadgets/"><u>Solving the Issue of Your AirPods Not Auto-Connecting Across Apple Gadgets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-integration-a-deep-dive-into-seven-popular-apps-utilizing-gpt-4-technology/"><u>Understanding the Integration: A Deep Dive Into Seven Popular Apps Utilizing GPT-4 Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-to-dual-4k-how-this-revolutionary-display-adapter-outperforms-laptops-lacking-built-in-support-pcmag/"><u>Upgrade to Dual 4K: How This Revolutionary Display Adapter Outperforms Laptops Lacking Built-In Support | PCMag</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-segmentviewpoint-report-for-2024/"><u>[New] SegmentViewpoint Report for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exemplar-elevation-elite-tripod-examination/"><u>Exemplar Elevation: Elite Tripod Examination</u></a></li>
+<li><a href="https://extra-information.techidaily.com/foremost-virtual-environments-providers/"><u>Foremost Virtual Environments Providers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-mesh-wireless-routers-ultimate-guide-to-the-2024-market-bestsellers/"><u>Leading Mesh Wireless Routers: Ultimate Guide to the 2024 Market Bestsellers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-a-the-exception-has-been-reached-error/"><u>Overcoming the Challenges of a “The Exception Has Been Reached” Error</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revving-up-a-comprehensive-listing-of-best-car-code-books-and-articles-released-so-far-in-new-york-city-book-four-of-fourth-series-rev/"><u>Revving Up: A Comprehensive Listing Of Best Car Code Books And Articles Released So Far In New York City, Book Four of Fourth Series (Rev.)</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/streamline-your-contract-management-discover-the-power-of-apttuss-intelligent-import-feature-enhanced-with-abbyy-and-machine-learning-innovation/"><u>Streamline Your Contract Management: Discover the Power of Apttus's Intelligent Import Feature Enhanced with ABBYY and Machine Learning Innovation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-operating-and-installing-your-blink-4w-outdoor-security-camera/"><u>The Definitive Guide to Operating and Installing Your Blink 4W Outdoor Security Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-alternatives-to-microsoft-office-the-ultimate-guide/"><u>Top Alternatives to Microsoft Office : The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-televisions-expert-picks-from-zdnet/"><u>Top Rated Affordable Televisions : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-exterior-disc-players-the-ultimate-guide-to-2024s-best-optical-drives/"><u>Top Rated Exterior Disc Players - The Ultimate Guide to 2024'S Best Optical Drives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-traits-for-high-performance-gaming-devices/"><u>Top Traits for High-Performance Gaming Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-remote-power-on-features-with-this-how-to-on-wake-on-lan-in-windows-11/"><u>Unlock Remote Power On Features with This How-To on Wake-on-LAN in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-11-20T19:35:28.416Z
-updated: 2024-11-24T20:11:16.466Z
+date: 2024-12-09T16:54:42.616Z
+updated: 2024-12-16T18:06:45.810Z
 tags:
   - games
   - tv
@@ -34,20 +34,24 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 ![Death Stranding's Capital Knot City.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/death_stranding.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Death Stranding_  
 Tim Brookes / How-To Geek
 
  Now, however, gamers often use the term "walking simulator" for titles that are true games. For example, _Death Stranding_ is as much a game as _Skyrim_ but because the main game mechanic is traversal and overcoming obstacles and enemies on your route, it's erroneously dubbed a walking sim. If you're interested in true walking simulators, our friends over at GameRant have a great list of the [best walking simulators that everyone should play](https://gamerant.com/best-walking-simulators/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Simulation
 
  This is a tricky one, because simulation is something that happens on a spectrum. At the most extreme end, you get pure simulators such as _Microsoft Flight Simulator_ which tries to be a serious and true digital reproduction of what flying a plane is really like. Generally, pure simulations like these allow you to learn the real world skills you'd need to actually do the thing in real life.
 
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Microsoft Flight Simulator 2020_  
 Tim Brookes / How-To Geek
@@ -82,7 +86,7 @@ Tim Brookes / How-To Geek
 ![Helldivers 2 by Arrowhead Game Studios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/helldivers2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Helldivers 2_  
@@ -90,23 +94,19 @@ Arrowhead Game Studios
 
  Whether you approve of "P2W" games or not, the term only applies to games where money can get you a significant advantage over other players. So, for example, it can never apply to a single-player game. Likewise, it can't apply to a PvE (Player Versus Enemy) game such as _Helldivers II_ because all the players are on the same side and the enemies are non-player characters.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microtransaction vs DLC
 
  This is a curious one I saw for the first time not too long before writing this. There might be some disagreement on the finer details, but a [microtransaction](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) is a small payment you can make over and over again in a game to ge some sort of resource. Such as buying premium currency, or buying lootboxes. DLC (Downloadable content) are digital items you buy once and keep forever. Examples would include new weapons or outfits that are permanently added to your game, or even major game and story expansions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Lag Vs Frame Rate
 
  I can understand this one, since visually [lag and frame rate issues can look similar](https://screen-sharing-recording.techidaily.com/in-2024-how-to-record-hulu-on-all-platforms-winmacmobile/). However, _lag_ is caused by internet data packets taking too long to make the round trip from your computer to the game servers and back again. This can lead to things freezing, jumping, or even reversing on screen.
 
  Frame rate issues happen for a number of reasons, but they are related to the performance of your computer. For example, if a game scene is too complex, your game may appear to slow down and become choppy. If it's not caused by a network issue, then your game isn't "lagging."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Downloading (Yes, Really)
 
@@ -115,22 +115,22 @@ Arrowhead Game Studios
  However, installing something from local media is not "downloading". That only applies to data that you receive from a server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ray Tracing
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
 
 [Ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) is a graphics rendering technique that simulates how light in the real world interacts with objects. It's the closest we've come to truly photorealistic graphics, but plenty of people can't tell when something is an example of ray tracing or not. There's a misconception that any reflections in a game that look realistic means the game has ray tracing, but that's simply not true. To muddy things even more, ray tracing can be applied selectively to global lights like the sun, to local light, to reflections, and to shadows. For example, many games with ray tracing on current-generation consoles have ray-traced shadows, but not reflections. Yet many players think the reflections are ray-traced. Here's a tip: ray-traced reflections usually reflect objects that are not currently visible on-screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Indie Games
 
@@ -155,24 +155,19 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastery-in-script-to-speech-turning-xmlttml-files-to-srt-wonders/"><u>[New] 2024 Approved Mastery in Script-to-Speech Turning XML/TTML Files to SRT Wonders</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-elevating-content-sharing-link-instagram-and-tiktok-for-2024/"><u>[Updated] Elevating Content Sharing Link Instagram & TikTok for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-mystery-of-slug-line-formats/"><u>[Updated] Unveiling the Mystery of Slug Line Formats</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-guide-to-the-captivating-universe-of-star-wars-squadrons/"><u>A Comprehensive Guide to the Captivating Universe of Star Wars: Squadrons</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/acer-aspire-c27-compact-mastery-meets-comprehensive-tech-features-in-one-desktop-unit/"><u>Acer Aspire C27: Compact Mastery Meets Comprehensive Tech Features in One Desktop Unit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/all-ages-explore-with-the-best-minecraft-reviews-available-online/"><u>All Ages Explore with the Best Minecraft Reviews Available Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723003211448-asuss-convertible-marvel-the-chromebookflipc302ca-unveiled-in-a-detailed-review/"><u>Asus's Convertible Marvel: The #ChromebookFlipC302CA Unveiled in a Detailed Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-dream-best-compact-cds-devices-2024/"><u>Audiophile's Dream: Best Compact CDs Devices 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiovisual-prospects-introductory-limosoft-kit-review/"><u>Audiovisual Prospects: Introductory LimoSoft Kit Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-law-enforcement-radios/"><u>Best Law Enforcement Radios</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/changing-the-game-in-smart-casting-detailed-review-of-chromecast-with-google-tv-vs-firetv/"><u>Changing the Game in Smart Casting: Detailed Review of Chromecast with Google TV vs FireTV</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210270075-9781071594551-come-realizzare-i-vostri-sogni-e-obiettivi/"><u>Come Realizzare i Vostri Sogni e Obiettivi | Free Book</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/deciphering-the-languages-santa-speaks-with-reindeer/"><u>Deciphering the Languages Santa Speaks with Reindeer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-optimal-performance-a-how-to-for-driver-updates-on-windows-operating-systems/"><u>Ensuring Optimal Performance: A How-To for Driver Updates on Windows Operating Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-these-5-techniques-to-repair-errors-related-to-sound-devices-when-using-audacity/"><u>Master These 5 Techniques to Repair Errors Related to Sound Devices When Using Audacity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/walkman-wm-x900-ultimate-music-experience/"><u>Walkman WM-X900: Ultimate Music Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-threads-of-time-looms-screen-record-mastery/"><u>[New] In 2024, Threads of Time Loom's Screen Record Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-collective-wisdom-on-easeus-products-for-2024/"><u>[Updated] Collective Wisdom on EaseUS Products for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-engagement-optimizing-videos-for-peak-views/"><u>2024 Approved Skyrocket Engagement Optimizing Videos for Peak Views</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-superior-sound-capture-insiders-list-of-the-best-9-microphones-online/"><u>2024 Approved Superior Sound Capture Insider's List of the Best 9 Microphones Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-f14-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy F14 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-avastar-acwire-driver-for-dell-laptops/"><u>Implement Avastar ACWIRE Driver for Dell Laptops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-value-for-money-laptops-a-comprehensive-guide/"><u>Top Value-for-Money Laptops : A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-wacom-graphics-tablet/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Wacom Graphics Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-ideal-scanner-2024s-top-picks-unveiled/"><u>Ultimate Guide to Choosing the Ideal Scanner - 2024'S Top Picks Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-leading-travel-friendly-power-banks/"><u>Ultimate Guide to the Leading Travel-Friendly Power Banks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-choosing-the-perfect-ipad-stand/"><u>Ultimate Guide: Choosing the Perfect iPad Stand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-android-tablets-unveiled/"><u>Ultimate Guide: Leading Android Tablets Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-ranking-2024-best-car-battery-chargers-tested-by-experts-tech-insights-on-zdnet/"><u>Ultimate Ranking: 2024 Best Car Battery Chargers Tested by Experts | Tech Insights on ZDNET</u></a></li>
 </ul></div>
 

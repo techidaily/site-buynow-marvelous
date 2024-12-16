@@ -1,7 +1,7 @@
 ---
 title: Experience a Masterpiece of Gaming - 'Like A Dragon' Yakuza Review
-date: 2024-09-08T11:48:12.861Z
-updated: 2024-09-15T08:29:38.990Z
+date: 2024-12-13T16:10:03.438Z
+updated: 2024-12-16T16:17:34.625Z
 categories:
   - BestProducts
 description: This Article Describes Experience a Masterpiece of Gaming - 'Like A Dragon' Yakuza Review
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/LzlwNQ6YezN9oLWNbWqOdVEEVAo=/400x300/fi
 ## Top Reviews for 'Like A Dragon' From the Yakuza Series - Play This JRPG Masterpiece
 
 4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SEGA Yakuza: Like a Dragon
 
@@ -39,9 +43,17 @@ Lifewire / Erika Rawes
 
 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SEGA Yakuza: Like a Dragon
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/2HQ40tAW6PvhutMT0JyWvwFpbdI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_HeroSquare-ea84381e359846e6951c77b6f7e7c5a0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -68,6 +80,10 @@ Lifewire / Erika Rawes
  Yakuza: Like a Dragon places you in the shoes of Ichiban Kasuga, a young Yakuza upstart who was raised as an orphan in a Soap House by the owner and the women who worked there. Kasuga gets into a bit of trouble with a Yakuza family but is saved by Masumi Arakawa, the patriarch of the Arakawa family. Because of this, Kasuga pledges his life to Arakawa, promising to repay the debt.
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/Mo4mMH944CddmYJTyCxtMRxK9-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_05-e59c99ba9bd249e7a2241f532dd742dc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -109,13 +125,6 @@ Lifewire / Erika Rawes
 
  This[PC game](https://www.lifewire.com/pc-gaming-reviews-4689600) plays just like it should, and the controls are top-notch. Everything just works, which is a rare feat these days. You should be able to finish the main story in around 45 to 55 hours, depending on how fast you run through it, but I highly recommend taking your time and enjoying all the wonderful diversions available.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Graphics: Excellent visuals
 
  The graphics and visuals are impressive. Details are accurate and in the right places. Food looks so realistic (and delicious), and there were some moments where I could even see the pores on a person's skin during cinematics.
@@ -128,19 +137,6 @@ Lifewire / Erika Rawes
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/zrV5S3jL3_76G0PVgT1K_Ty6WWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_04-e33b82262b344fecae27d668b3c92ba9-55ba8acb6d324eed81fbf5453e770db8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
 
 ## Price: The typical $60
@@ -148,13 +144,6 @@ Lifewire / Erika Rawes
  The base version of Yakuza: Like a Dragon comes in at $60 like most new titles. The price is reasonable for the amount of gameplay. However, you have two other purchase options as well. The Hero Edition, which costs $70, includes the Job Set and the Management Mode set and features two extra jobs and three sets of Management mode employees.
 
  The Legendary Hero edition costs $90, and it includes both previously listed sets, as well as the Crafting Mat, Stat Boost, Karaoke, and Ultimate Costume sets. These are all nice bonuses and can certainly add to the experience, but you will also find more than enough gameplay in the base game.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Yakuza: Like a Dragon vs. Dragon Quest Series
 
@@ -171,6 +160,10 @@ Lifewire / Erika Rawes
 * [Cyberpunk 2077](https://www.lifewire.com/cyberpunk-2077-review-5113844)
 * [Godfall](https://www.lifewire.com/godfall-review-5095668)
 * [Torment: Tides of Numenera](https://www.lifewire.com/torment-tides-of-numenera-review-5077302)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -198,5 +191,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-instant-stars-youtube-videos-with-rapid-popularity/"><u>[New] In 2024, Instant Stars Youtube Videos with Rapid Popularity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-spark-to-the-past-djis-mavic-air-reimagines-gameplay-for-2024/"><u>[New] Spark to the Past? DJI's Mavic Air Reimagines Gameplay for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-eyes-on-the-digital-winners-top-channels/"><u>[Updated] In 2024, Eyes on the Digital Winners Top Channels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/additional-paid-in-capital-apic-the-amount-paid-by-investors-above-the-par-value-for-shares-when-they-are-issued/"><u>Additional Paid-In Capital (APIC) = The Amount Paid by Investors Above the Par Value for Shares when They Are Issued</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/adventure-and-peril-a-thorough-evaluation-of-distinctive-and-hazardous-beasts-in-monster-hunter-world/"><u>Adventure & Peril: A Thorough Evaluation of Distinctive and Hazardous Beasts in 'Monster Hunter: World'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/clearstream-2v-antenna-review-outstanding-tv-reception-for-both-indoors-and-outdoors-in-an-elegant-package/"><u>ClearStream 2V Antenna Review: Outstanding TV Reception for Both Indoors and Outdoors in an Elegant Package</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-meizu-21-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Meizu 21.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-jackerys-portable-battery-with-integrated-ac-socket/"><u>Comprehensive Evaluation of Jackery's Portable Battery with Integrated AC Socket</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-lg-oled-c9-is-top-choice-for-picture-quality-lovers-a-comprehvew-in-our-latest-tv-showdown/"><u>Discover Why the LG OLED C9 Is Top Choice for Picture Quality Lovers - A Comprehvew in Our Latest TV Showdown!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-b550-xt-capabilities-in-vocal-technology/"><u>Exploring B550-XT Capabilities in Vocal Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-metro-exodus-crash-issues-in-windows-solutions-proven-effective/"><u>Fixes for Metro Exodus Crash Issues in Windows: Solutions Proven Effective</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-exploring-the-financial-benefits-in-podcasting/"><u>In 2024, Exploring the Financial Benefits in Podcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/key-sites-for-enhancing-youtube-video-popularity/"><u>Key Sites for Enhancing YouTube Video Popularity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-review-the-top-contenders-in-vertical-gaming-mice-2hemes/"><u>Professional Review: The Top Contenders in Vertical Gaming Mice - 2Hemes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-archive-and-retrieve-past-chatgpt-dialogues-whenever-you-need-them/"><u>Simple Steps to Archive and Retrieve Past ChatGPT Dialogues Whenever You Need Them</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-online-stores-to-buy-your-perfect-television/"><u>Top 6 Online Stores to Buy Your Perfect Television</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-jokes-unveiled-3-pc-based-methods-for-2024/"><u>Twitter Jokes Unveiled 3 PC-Based Methods for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2024-11-18T18:54:08.335Z
-updated: 2024-11-24T16:31:58.290Z
+date: 2024-12-10T17:58:06.532Z
+updated: 2024-12-16T17:43:22.285Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ## Exploring the World of Close-Up Imagery: Understanding Macro Photography
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Macro photography involves extreme close-up photography of small subjects for detailed shots.
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  Macro photography is kind of a big deal, but many people don't know what it is despite having the hardware to take macro photos. So let's clear up the big and small details of this fascinating photographic art.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Macro Photography Is About Getting Close and Personal
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ![Sigma 105mm F2.8 EX DG OS HSM Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sigma-105mm-f2-8-ex-dg-os-hsm-macro-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #####  Sigma 105mm F2.8 EX DG OS HSM Macro
 
 $525 $669 Save $144 
@@ -61,6 +61,10 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
  Finally, though they are rare to see these days, many compact dedicated digital cameras also have a "macro mode", but the results from this mode have never been great, and really don't let you get nearly as close to the subject as a true macro lens does.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Macro Photography Lighting Can Be a Challenge
 
  With their extremely short focal distances, and very shallow depth of field, macro photos often suffer from a lack of good lighting. Lighting is paramount in any sort of photography (it literally means the capture of light after all), but perhaps never more than with macro shots. This is why many macro lenses, and macro cameras on some phones have a built-in LED ring to light up the subject.
@@ -68,7 +72,7 @@ A superb macro lens with image stabilization that offers a nice balance between 
  Some of the most specialized (and expensive!) macro lenses are called ["probe" lenses](https://www.amazon.com/Venus-Laowa-24mm-14-Probe/dp/B07JYHGNHQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002766&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-is-macro-photography%2F&asc%5Fcampaign=Evergreen), which can be inserted into tight spaces such as the inside of a log or into crevices. These lenses almost always have built-in lights for the same reason. When I take macro photos with my phone, I often use a supplementary light, such as the flashlight from someone else's phone, or even a dedicated ring light. For natural outdoor lighting, it's all about the angle and letting direct or bouncing from the sun illuminate the subject.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Best Subjects for Macro Photography
@@ -86,7 +90,7 @@ Sydney Louw Butler / How-To Geek
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -100,10 +104,6 @@ Sydney Louw Butler / How-to Geek
  Or, perhaps my favorite shot ever of this grasshopper hiding in an outdoor potted plant.
 
 ![macro photo of a grasshopper taken with S21 Ultra smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Grasshopper-Macro-S21.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sydney Butler/How-To Geek
 
@@ -126,19 +126,16 @@ Sydney Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-steps-to-acquire-fcp-for-zero-dollars/"><u>[New] 2024 Approved Steps to Acquire FCP for Zero Dollars</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-narrative-strategies-for-engaging-docu-films/"><u>[New] In 2024, Narrative Strategies for Engaging Docu-Films</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-quick-reference-for-iphone-memo-making-for-2024/"><u>[New] The Ultimate Quick Reference for iPhone Memo-Making for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-key-tips-to-capture-youtube-streams-effectively/"><u>[Updated] In 2024, Key Tips to Capture YouTube Streams Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-mac-gif-archiver/"><u>[Updated] In 2024, Master Mac GIF Archiver</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ranking-the-top-value-video-resources-online-for-2024/"><u>[Updated] Ranking the Top Value Video Resources Online for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-cutting-edge-strategies-for-dynamic-igtv-backgrounds/"><u>2024 Approved Cutting-Edge Strategies for Dynamic IGTV Backgrounds</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-reach-a-millennium-of-youtube-followers-fast/"><u>2024 Approved Reach a Millennium of YouTube Followers Fast</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-lgs-famed-watch-style-discovering-the-pioneering-spirit-of-wear-os-smartwatches/"><u>A Critical Look at LG's Famed Watch Style: Discovering the Pioneering Spirit of Wear OS Smartwatches</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audio-and-vision-in-harmony-rokus-new-frontier/"><u>Audio & Vision in Harmony: Roku's New Frontier</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723087402553-watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-asus-vg2e3h-is-the-ultimate-choice-for-hardcore-gamers/"><u>Why Asus VG2e3H Is the Ultimate Choice for Hardcore Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-i-should-consider-ios-17-what-are-my-options/"><u>Why I Should Consider iOS 17: What Are My Options?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ws-1002-wifi-ambient-weather-station-premium-features-justify-the-cost/"><u>WS-1002-WiFi Ambient Weather Station - Premium Features Justify the Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-inspirational-hiring-vids-1-10/"><u>[New] 2024 Approved Discover Inspirational Hiring Vids #1-10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-of-thrones-ringtones-premier-download-websites-ranked/"><u>[Updated] Game of Thrones Ringtones Premier Download Websites Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-skype-calls-with-ease-for-mac-and-pc-users-for-2024/"><u>[Updated] Recording Skype Calls with Ease for Mac and PC Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>2024 Approved The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordability-and-performance-combined-an-insightful-review-of-the-google-pixel-4a-5g-device/"><u>Affordability and Performance Combined: An Insightful Review of the Google Pixel 4a 5G Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-amazonbasics-flat-tv-antenna-live-channels-without-cable/"><u>Affordable AmazonBasics Flat TV Antenna - Live Channels Without Cable</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-hp-stream-14-assessment-balancing-cost-and-features-in-a-budget-pc/"><u>Affordable HP Stream 14 Assessment: Balancing Cost and Features in a Budget PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boosting-your-connection-an-unbiased-look-at-the-tp-link-re505x-extender/"><u>Boosting Your Connection: An Unbiased Look at the TP-Link RE505X Extender</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-fitbit-versa-assessment-comprehensive-guide-and-features/"><u>Budget-Friendly Fitbit Versa Assessment: Comprehensive Guide & Features</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastery-of-monitor-modification-tips-and-tricks-by-yl-software-for-optimal-display-settings/"><u>Mastery of Monitor Modification: Tips and Tricks by YL Software for Optimal Display Settings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-modern-warfare-is-finally-playable-heres-how-202n4/"><u>PC Gamers Rejoice! Modern Warfare Is Finally Playable – Here's How (202N4)</u></a></li>
 </ul></div>
 

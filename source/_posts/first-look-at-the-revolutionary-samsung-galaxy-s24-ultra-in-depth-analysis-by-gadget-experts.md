@@ -1,7 +1,7 @@
 ---
 title: First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
-date: 2024-12-03T21:02:15.155Z
-updated: 2024-12-10T09:39:16.654Z
+date: 2024-12-09T17:58:39.259Z
+updated: 2024-12-16T17:09:12.406Z
 categories:
   - BestProducts
 description: This Article Describes First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/EJl3EcpC1pj4FEXukKPZt82BlKk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -71,6 +67,10 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -78,6 +78,10 @@ Lifewire / Erika Rawes
  The Vivosmart 4 has a unibody design, and you cannot remove the tracker portion from the band. I was somewhat disappointed to see that I couldn’t switch out the bands for other colors and styles, especially considering Garmin has such attractive band options. Unfortunately, you can only choose one—grey with rose gold trim, berry with light gold trim, azure blue with silver trim, or the band I tested, black with midnight trim. The band also comes in small/medium or large sizes. The small/medium size fit my wrist well, but when I had my husband try on the band, it wouldn’t fit around his wrist. Other trackers, like the Fitbit Charge 4, come with both a small and large band.
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -88,7 +92,7 @@ Lifewire / Erika Rawes
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
@@ -111,10 +115,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -124,10 +124,6 @@ Lifewire / Erika Rawes
  The Garmin Connect app allows you to dive as deep into your fitness tracking as you want. If you’re a runner, it can track everything from your cadence to your max pace. It provides charts and graphs of your long term activity level, heart rate, stress, body battery, and more. You can also use insights to compare that data with the averages in your age and gender category.
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -142,7 +138,7 @@ Lifewire / Erika Rawes
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
@@ -154,6 +150,10 @@ Lifewire / Erika Rawes
 **A comfortable band with unique perks.**
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -195,18 +195,17 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-final-cut-pro-x-the-ultimate-guide-for-vertical-video-posts/"><u>[New] In 2024, Final Cut Pro X The Ultimate Guide for Vertical Video Posts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-screenshare-catcher-fb-groups/"><u>2024 Approved ScreenShare Catcher - Fb Groups</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-playback-paradox-starting-at-the-finish-line-on-youtube/"><u>2024 Approved The Playback Paradox Starting at the Finish Line on YouTube</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-t2-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo T2 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pocket-sized-ai-the-top-8-mobile-apps-for-androidios/"><u>Pocket-Sized AI: The Top 8 Mobile Apps for Android/iOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ssional-gif-designers-choice-list/"><u>Professional GIF Designers' Choice List</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-romer-chargeable-spotlight-analysis-a-high-powered-and-eco-friendly-illuminator-for-adventures/"><u>Revolutionary Romer Chargeable Spotlight Analysis: A High-Powered & Eco-Friendly Illuminator for Adventures</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rigorous-testing-of-kensuns-portable-pneumatic-tool-sturdy-build-and-unmatched-mobility-revealed-in-this-thorough-assessment/"><u>Rigorous Testing of Kensun's Portable Pneumatic Tool - Sturdy Build and Unmatched Mobility Revealed in This Thorough Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/start-your-glow-journey-with-studio-agg814-kit/"><u>Start Your Glow Journey with Studio AGG814 Kit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-the-newly-reviewed-super-portable-samsung-galaxy-chromebook-2/"><u>The Definitive Guide to the Newly Reviewed, Super-Portable Samsung Galaxy Chromebook 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-flexispot-theodore-examined-a-stylish-modern-choice-for-your-professional-space/"><u>The Flexispot Theodore Examined: A Stylish, Modern Choice for Your Professional Space</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-secret-sauce-to-viral-instagram-movie-magic-for-2024/"><u>The Secret Sauce to Viral Instagram Movie Magic for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-syma-x5c-rc-quadcopter-unveiled-ideal-for-budget-conscious-hovercraft-enthusiasts/"><u>The SYMA X5C R/C Quadcopter Unveiled - Ideal for Budget Conscious Hovercraft Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-solutions-for-non-deliverable-facebook-messenger-videos-on-androidios/"><u>[Updated] 2024 Approved Solutions for Non-Deliverable Facebook Messenger Videos on Android/iOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[Updated] Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>2024 Approved Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/auto-play-youtube-keep-it-hidden-stay-connected/"><u>Auto-Play YouTube - Keep It Hidden, Stay Connected</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-fraud-top-7-red-flags-indicating-an-e-commerce-vendor-may-be-deceiving-you/"><u>Detecting Fraud: Top 7 Red Flags Indicating an E-Commerce Vendor May Be Deceiving You</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-superior-select-ringtone-makers-guidebook/"><u>In 2024, Superior Select Ringtone Makers' Guidebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-unveiling-the-charming-aesthetics-of-minecrafts-campfire-tales-costume-collection/"><u>Inside Look: Unveiling the Charming Aesthetics of Minecraft’s Campfire Tales Costume Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-gen-car-route-meters-top-picks-of-2024/"><u>Next-Gen Car Route Meters: Top Picks of 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722963391695-ultimate-guide-to-the-netgear-nighthawk-x10-ad7200-experience-lightning-quick-internet-with-our-in-depth-review/"><u>Ultimate Guide to the Netgear Nighthawk X10 (AD7200) - Experience Lightning Quick Internet with Our In-Depth Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-creativity-and-learning-through-play-the-ultimate-review-of-wonder-workshop-dash-toys/"><u>Unleashing Creativity & Learning Through Play: The Ultimate Review of Wonder Workshop Dash Toys</u></a></li>
 </ul></div>
 

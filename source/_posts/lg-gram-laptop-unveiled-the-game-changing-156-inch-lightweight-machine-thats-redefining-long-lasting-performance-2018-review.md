@@ -1,7 +1,7 @@
 ---
 title: "LG Gram Laptop Unveiled: The Game-Changing 15.6-Inch Lightweight Machine That's Redefining Long-Lasting Performance (2018 Review)"
-date: 2024-09-11T00:06:08.903Z
-updated: 2024-09-14T22:41:43.173Z
+date: 2024-12-11T17:01:20.663Z
+updated: 2024-12-16T17:51:10.297Z
 categories:
   - BestProducts
 description: "This Article Describes LG Gram Laptop Unveiled: The Game-Changing 15.6-Inch Lightweight Machine That's Redefining Long-Lasting Performance (2018 Review)"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 ## LG Gram 17
 
 ![LG Gram 17](https://www.lifewire.com/thmb/0zpnOrKLwqRRUpo-KPu36eRNdjQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_LG-Gram-17-Inch-Thin-Laptop-1-26891b187a0c4260bbbe391a08f0e413.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -92,19 +96,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup** **Process** :**No help needed**
 
  The LG Gram 17 arrives in a minimally packaged box containing only the essentials: The laptop itself, the charger, a manual, and an adapter for the USB-C port. LG definitely gets high marks on setup, requiring minimal steps to get set up and begin using your device right away. You will be prompted to enter the standard information any Windows laptop will ask—like your Wi-Fi credentials, a username and password, your timezone, and if you’d like, a fingerprint impression.
@@ -113,14 +104,11 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/mt69Vhar3JM30uFdBWA58_wPdYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-5-f2352e95cadc4e2b99d738b0238fb7bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display** :**A joy to use**
 
@@ -142,24 +130,18 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/4DSmBdI2ZVvCXO9PXT1iEnSCRxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-6-5381cd4656aa4307ba017acf8ce77c4b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Productivity** :**The Gram’s sweet spot**
 
  Having 16GB of Memory and a 512GB SSD makes the Gram a great choice for productivity purposes. We had no problem working with many browser windows open at the same time and switching back and forth between different applications. Shoppers looking to find a laptop with ample screen real estate and the specs necessary to deliver good performance now and into the future will be pleased with what the LG Gram 17 offers.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Audio** :**Sorry, what was that?**
@@ -168,9 +150,17 @@ Lifewire / Jonno Hill
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Camera** :**Bare minimum**
 
@@ -179,10 +169,7 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/Q5UD3HDcQsoXbP-_uvKqYsR9J6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-3-de338d995c0544ee8052e30def24ad5f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -192,6 +179,10 @@ Lifewire / Jonno Hill
  The LG Gram 17 is equipped with a more than capable battery that offers up to 19.5 hrs of battery life, according to LG. In our tests, the laptop averaged around 14 hours during mixed daily use—still quite a great deal. This is likely due to a mixture of the larger than average battery, lack of a discrete graphics card, and an energy-efficient display. This is about as good as you can hope for in a laptop, to be honest, and a surprising achievement for such a light and thin one. If time between charges is a concern for you, take note.
 
  When running Battery Eater Pro to push the laptop to its limits, it kicked the bucket in just over 2 hours and 30 minutes. This may seem like a very short time, but it’s still considerably better than any of the[other 17-inch laptops](https://www.lifewire.com/best-17-inch-laptops-832683) we tested using this brutal benchmark.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Standard Windows with some unique features**
 
@@ -255,5 +246,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-the-top-10-youtube-to-mp3-services/"><u>[Updated] In 2024, Explore the Top 10 YouTube-to-MP3 Services</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-11-10/"><u>如何在 Windows 11 或 10 中快速製作硬碟映像文件途徑</u></a></li>
+<li><a href="https://windows11.techidaily.com/excel-strategies-decoded-leveraging-pivot-tables-to-compute-percent-change-easily/"><u>Excel Strategies Decoded: Leveraging Pivot Tables to Compute Percent Change Easily</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/fixing-the-common-disc-not-spinning-problem-in-dvd-players-for-smooth-viewing/"><u>Fixing the Common 'Disc Not Spinning' Problem in DVD Players for Smooth Viewing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hottest-online-hubs-for-metallic-3d-type-graphics/"><u>Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-graphics-card-functionality-latest-nvidia-geforce-210-drivers-for-windows-10-systems/"><u>Improve Graphics Card Functionality: Latest NVIDIA GeForce 210 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>In 2024, Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-maximizing-your-workflow-with-the-new-thunderbolt-dock-and-its-ingenious-power-functionality-for-windows-users/"><u>The Ultimate Guide to Maximizing Your Workflow with the New Thunderbolt Dock and Its Ingenious Power Functionality for Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-unbeatable-prime-day-sales-for-your-roku-streaming-box/"><u>Top Picks: Unbeatable Prime Day Sales for Your Roku Streaming Box!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-mobile-signal-amplifiers-a-comprehensive-guide/"><u>Top-Rated Mobile Signal Amplifiers: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/troubleshooting-continuous-halts-in-your-print-workflow-guidance-by-yl-computings-yl-software-experts/"><u>Troubleshooting Continuous Halts in Your Print Workflow - Guidance by YL Computing's YL Software Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-samsung-galaxy-a51-5g-phone-great-performance-meets-affordability/"><u>Ultimate Guide to the Samsung Galaxy A51 5G Phone – Great Performance Meets Affordability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-large-ergonomic-mouse-mats-for-optimal-productivity-2e34-edition/"><u>Ultimate List of Large, Ergonomic Mouse Mats for Optimal Productivity - 2E34 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-huawei-p30-pro-a-comprehensive-review-of-its-enduring-appeal/"><u>Unboxing the Huawei P30 Pro: A Comprehensive Review of Its Enduring Appeal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-of-macos-preview-mastering-the-built-in-image-editing-tool/"><u>Unveiling the Secrets of macOS Preview: Mastering the Built-In Image Editing Tool</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-top-performing-philips-somneo-alarm-a-comprehensive-review/"><u>Unveiling the Top-Performing Philips Somneo Alarm: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-choose-m3-macbook-air-over-budget-alternatives/"><u>Why Choose M3 MacBook Air Over Budget Alternatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-you-need-the-samsung-qn55q6rafxza-the-best-in-4k-uhd-smart-capabilities-and-hdr10plus/"><u>Why You Need the Samsung QN55Q6#RAFXZA - The Best in 4K UHD, Smart Capabilities & HDR10+</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi A2 won’t play MP4 files</u></a></li>
+</ul></div>
 

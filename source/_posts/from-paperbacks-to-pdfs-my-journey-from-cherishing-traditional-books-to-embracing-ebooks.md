@@ -1,7 +1,7 @@
 ---
 title: "From Paperbacks to PDFs: My Journey From Cherishing Traditional Books to Embracing eBooks"
-date: 2024-11-22T17:28:09.752Z
-updated: 2024-11-24T16:13:04.333Z
+date: 2024-12-13T18:12:06.412Z
+updated: 2024-12-16T17:37:44.890Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 ---
 
 ## From Paperbacks to PDFs: My Journey From Cherishing Traditional Books to Embracing eBooks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 ![A Kobo Clara 2E eReader sitting on a pile of books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_4125-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lydia Pike / How-To Geek
@@ -46,10 +50,6 @@ Lydia Pike / How-To Geek
  I remember reading a particular novel once and finishing it at the start of a weekend. Bookstores were closed, and the earliest I'd get the next installment was two days away. Now, I don't have to wait, and ebooks make it much easier to consume longer series.
 
  Online stores like Amazon can even deliver an ebook to any internet-connected eReader that's compatible with their format. The delivery system also makes it easy to [send ebooks to yourself through a simple email function](https://fox-http.techidaily.com/updated-the-complete-guide-to-affordable-online-passport-photo-services-for-2024/). I don't have to wait an entire weekend to resume a series ever again. I can just buy it immediately and pick up where I left off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I Don't Need Nearly As Many Moving Boxes
 
@@ -61,19 +61,23 @@ Hannah Stryker / How-To Geek
 
  Some might say that this gives away the physical copy of a book, but it's easier to carry a single eReader up six flights of stairs than it is to card over 200 books the same distance. While I appreciate a good hardcover book as much as the next person, my back is different from what it was a decade ago, so I'll stick to my ebooks for the foreseeable future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Efficient Spending on My Hobby
 
  Reading can be an expensive hobby if you opt for physical books. The [average cost of a paperback](https://www.slj.com/story/slj-average-book-prices-2023-follett-baker-taylor) is between $8 and $10, and a hardcover book could range between $16 and $25 per copy. Naturally, this means I am limited in what I can afford, and I have to be more selective in my title choices.
 
  I still have to be selective in my titles with ebooks, but I have some leeway in what I can get. As a member of Amazon's Prime service, I get a [free newly published ebook each month](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50iplus-drfone-by-drfone-virtual-android/). The [average cost of an ebook](https://automateed.com/average-ebook-price/) ranges from $1 to $3, with more established authors calling for $6 to $10 for their latest work. This means I can potentially get 2 to 3 ebooks for the cost of one paperback novel. I know which one I prefer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I Can Customize My Text Delivery
 
 ![An eReader.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53125212620_0f222a0c93_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek  
   
@@ -95,10 +99,6 @@ Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
 ![A slightly open Galaxy Z Fold 5 on a bookshelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-slightly-open-galaxy-z-fold-5-on-a-bookshelf.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
  The world is dealing with a looming environmental disaster, and we can prevent it by conserving trees. While I love reading paper books, and they still hold a special place in my heart, I don't think destroying the planet for my hobby is fair. Ebooks are all electronic, and while they still consume power, they [cause less overall environmental damage](https://ecobravo.co.uk/blogs/blog/7-surprisingly-amazing-environmental-benefits-of-e-books). I've learned how much my actions could hurt the planet, so I'm taking this stand to reduce it by just a little.
@@ -110,7 +110,7 @@ Bertel King / How-To Geek
  I also enjoy reading at night before bed. With most eReaders, a backlight helps with letting me see the words while I go through the story. It also means that I don't have to disturb anyone else by leaving a light on or using a tiny flashlight, which may potentially damage my eyesight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I'm Not Saying You Should But...
@@ -132,20 +132,17 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-edu-stream-100-cutting-edge-learning-yt-for-2024/"><u>[Updated] Edu-Stream 100 Cutting-Edge Learning YT for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-engineers-simple-app-shames-mcdonalds-tech-a-closer-look-at-the-fast-food-giants-missteps/"><u>1. Engineer’s Simple App Shames McDonald's Tech: A Closer Look at the Fast-Food Giant's Missteps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/die-allerliebsten-hochwertige-bildschirmaufnahme-software-fur-unter-0-entdecke-movavi/"><u>Die Allerliebsten: Hochwertige Bildschirmaufnahme-Software Für Unter 0€ - Entdecke Movavi!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-next-gen-speeds-a-detailed-review-of-the-samsung-galaxy-note20-ultra-5g/"><u>Experience Next-Gen Speeds - A Detailed Review of the Samsung Galaxy Note20 Ultra 5G</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expertly-curated-selection-of-2024-best-smartwatches-on-the-market/"><u>Expertly Curated Selection of 2024 Best Smartwatches on the Market</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-connectivity-a-thorough-review-of-netgears-c3700-cable-modem-and-router-combo/"><u>Exploring Connectivity: A Thorough Review of Netgear's C3700 Cable Modem & Router Combo</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-perfect-balance-of-elegance-and-tech-an-in-depth-review-of-fitbit-charge-4/"><u>Exploring the Perfect Balance of Elegance & Tech: An In-Depth Review of Fitbit Charge 4</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-familiar-with-your-slate-unveiling-the-features-of-the-lenovo-nook-9/"><u>Get Familiar with Your Slate: Unveiling the Features of the Lenovo Nook 9</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-use-oodle/"><u>How to Use Oodle</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>In 2024, Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-unveiling-the-elegant-flexibility-of-the-dell-xps-13-7390-convertible-ultrabook/"><u>In-Depth Analysis: Unveiling the Elegant Flexibility of the Dell XPS 13 (7390) Convertible Ultrabook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/infusing-astrology-in-whatsapp-profiles-for-better-engagement-for-2024/"><u>Infusing Astrology in WhatsApp Profiles for Better Engagement for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mastering-skills-with-elite-linkedin-learning-sessions-of-2024/"><u>Mastering Skills with Elite LinkedIn Learning Sessions of 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg-for-2024/"><u>Rapid Methods to Customize Your Soundscaping in PUBG for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/x-audiomaster-personal-computing-for-2024/"><u>X-AudioMaster Personal Computing for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-list-editors-for-android-pics/"><u>[Updated] 2024 Approved A-List Editors for Android Pics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-the-potential-of-youtube-partnerships-tips-for-successful-collabs/"><u>[Updated] In 2024, Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-mac-recording-settings-for-snapchat-use/"><u>2024 Approved Mastering Mac Recording Settings for Snapchat Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-choosing-the-ultimate-robovac-for-a-spotless-home/"><u>Expert Reviews: Choosing the Ultimate RoboVac for a Spotless Home</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-ultimate-list-of-premium-bookshelf-speakers-for-2econds/"><u>Explore the Ultimate List of Premium Bookshelf Speakers for 2Econds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-markets-leading-boom-mics-for-professional-audio-2024-edition/"><u>Exploring the Market's Leading Boom Mics for Professional Audio - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/holiday-essentials-how-to-geeks-curated-list-of-ideal-tech-finds-to-stock-up-in-2ece-2021/"><u>Holiday Essentials: How-To Geek's Curated List of Ideal Tech Finds to Stock Up in 2Ece 2021</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fixing-blurred-footage-in-social-media-streaming/"><u>In 2024, Fixing Blurred Footage in Social Media Streaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-content-marketing-for-more-views-and-subscribers-for-2024/"><u>Leveraging Content Marketing for More Views and Subscribers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/reaping-rewards-from-language-study-starting-at-fifty-five/"><u>Reaping Rewards From Language Study Starting at Fifty-Five</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 

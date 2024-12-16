@@ -1,7 +1,7 @@
 ---
 title: "Review: Cyberpower's Sturdy and Dependable Basic Uninterruptible Power Supply - The CP685AVRG Model"
-date: 2024-09-11T17:55:07.701Z
-updated: 2024-09-15T02:01:29.159Z
+date: 2024-12-10T16:32:01.928Z
+updated: 2024-12-16T16:03:34.029Z
 categories:
   - BestProducts
 description: "This Article Describes Review: Cyberpower's Sturdy and Dependable Basic Uninterruptible Power Supply - The CP685AVRG Model"
@@ -46,6 +46,10 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $99](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4780187%7Cnf95833ce2d2845368fd2b0eac089080a01%7CB00NMVJYEW) [View On Walmart $89](https://www.walmart.com/ip/Kinesis-KB800PB-us-Freestyle2-Ergonomic-Split-Keyboard-for-PC/41539324?slfpid=3) [View On Office Depot $113](https://www.officedepot.com/a/products/989638/Kinesis-Freestyle2-Ergonomic-Keyboard-For-PC/?cm%5Fmmc=PLA-%5F-Google-%5F-Computer%5FTablet%5FAccessories-%5F-989638&gclid=EAIaIQobChMIv7HKttKB6QIVUl8NCh2Afg94EAQYBCABEgJKIvD%5FBwE&gclsrc=aw.ds)
@@ -69,11 +73,19 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -95,13 +107,6 @@ Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Features: Efficient hotkeys once you get used to them**
 
  Better than its modular design are the easy-to-use hotkeys on the left-hand side of the keyboard. These make it simple to copy, paste, cut, go back or forward in a browser, or even switch between the keyboard’s connected devices smoothly and efficiently. They take a little getting used to but once you get the hang of it using them is a breeze.
@@ -110,22 +115,12 @@ Lifewire / Emily Isaacs
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Excellent for the features**
@@ -135,6 +130,10 @@ Lifewire / Emily Isaacs
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -183,5 +182,26 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-easily-access-snapchat-on-mac-os/"><u>[New] Easily Access Snapchat on Mac OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-premier-virtual-classrooms-a-selection-without-udemy-for-2024/"><u>[New] Premier Virtual Classrooms A Selection without Udemy for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>[New] Unveiling the Immersive Era VR's Progress & Upcoming Struggles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-effective-key-locators-the-definitive-selection/"><u>2024'S Most Effective Key Locators: The Definitive Selection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/accelerated-photography-browser-for-11-os-users-for-2024/"><u>Accelerated Photography Browser for 11 OS Users for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aphaca-bt69-bluetooth-transmitter-reviewed-the-ideal-solution-for-car-radio-connectivity-with-best-in-class-features/"><u>Aphaca BT69 Bluetooth Transmitter Reviewed: The Ideal Solution for Car Radio Connectivity with Best in Class Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-smartphone-companion-iphone-or-android-find-out-here/"><u>Choosing Your Smartphone Companion: IPhone or Android – Find Out Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-ring-doorbell-pro-the-revolutionary-smart-security-device/"><u>Expert Insights on the Ring Doorbell Pro: The Revolutionary Smart Security Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-top-smart-frames-to-buy/"><u>Expert Picks: Top Smart Frames to Buy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-acclimated-to-using-llama-2-for-professional-growth/"><u>Getting Acclimated to Using Llama 2 for Professional Growth</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-websaida-para-conversao-do-audio-opus-para-mp4-video-pela-movavi-utilize-on-line-sem-custo-algum/"><u>Gratuito: Websaída Para Conversão Do Audio Opus Para MP4 Vídeo Pela Movavi – Utilize On-Line Sem Custo Algum!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/optimal-video-length-and-width-for-instagram-posts-for-2024/"><u>Optimal Video Length and Width for Instagram Posts for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96164942-9781620557778-searching-for-the-philosophers-stone/"><u>Searching for the Philosophers' Stone | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamlining-your-switch-from-older-mac-os-to-catalina/"><u>Streamlining Your Switch From Older Mac OS to Catalina</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-petsafe-solution-to-regular-pet-meals-trustworthy-multi-meal-feeding-device/"><u>The PetSafe Solution to Regular Pet Meals – Trustworthy, Multi-Meal Feeding Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-smart-portable-audio-system-yamahas-mcr-b020bl/"><u>The Smart, Portable Audio System: Yamaha's MCR-B020BL</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-evaluating-the-stylish-and-powerful-netgear-nighthawk-rax80-the-ultimate-wi-fi-review/"><u>Unboxing and Evaluating the Stylish & Powerful Netgear Nighthawk RAX80 – The Ultimate Wi-Fi #Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/where-innovation-meets-vr-watching/"><u>Where Innovation Meets VR Watching</u></a></li>
+</ul></div>
 

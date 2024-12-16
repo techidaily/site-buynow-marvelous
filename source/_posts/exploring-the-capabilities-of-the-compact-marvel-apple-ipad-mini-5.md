@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
-date: 2024-12-03T16:01:41.555Z
-updated: 2024-12-09T22:55:02.758Z
+date: 2024-12-13T17:49:36.155Z
+updated: 2024-12-16T17:50:30.712Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
@@ -13,13 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/KrDytBTanTcHvHFz_EGmqfJ1YHg=/400x300/fi
 
 4.3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -46,6 +46,10 @@ Lifewire / Andy Zahn
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -95,19 +99,11 @@ Lifewire / Andy Zahn
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
 
@@ -117,6 +113,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -124,6 +124,10 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -140,10 +144,6 @@ Lifewire / Andy Zahn
  RAW files are rich and detailed, and[JPEG images](https://www.lifewire.com/jpeg-myths-and-facts-1701548) are well-rendered, though JPEG images do show the compression artifacts typical of point-and-shoot cameras. The built-in flash raises and lowers manually and is functional if unexceptional.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Modes: Plenty to choose from (and only some are useful)**
 
@@ -183,6 +183,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
@@ -190,7 +194,7 @@ Lifewire / Andy Zahn
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
@@ -214,10 +218,6 @@ Lifewire / Andy Zahn
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -253,17 +253,24 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-subscriber-sequence-strategizing-success-on-youtube/"><u>[Updated] In 2024, The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-companion-for-high-fps-filming-yi-hero/"><u>[Updated] In 2024, The Ultimate Companion for High FPS Filming Yi Hero</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-selecting-the-perfect-drone-stabilizer-a-guide/"><u>2024 Approved Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-gionee-f3-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Gionee F3 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/enjoy-free-downloads-of-heartwarming-kids-films-where-joy-welcomes-young-ones/"><u>Enjoy Free Downloads of Heartwarming Kids' Films Where Joy Welcomes Young Ones</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-a71-5g-reviewed-why-its-a-wise-alternative-to-expensive-flagship-models/"><u>The Samsung Galaxy A71 5G Reviewed - Why It's a Wise Alternative to Expensive Flagship Models</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-blueear-wireless-bluetooth-beanie-stylish-headwear-meets-great-sound-quality/"><u>The Ultimate Guide to the Blueear Wireless Bluetooth Beanie: Stylish Headwear Meets Great Sound Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-entertaining-games-to-beat-boredom-anywhere-anytime/"><u>Top 10 Entertaining Games to Beat Boredom Anywhere, Anytime</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-long-distance-wireless-routers-reviews-and-comparisons/"><u>Top Long-Distance Wireless Routers - Reviews and Comparisons</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-raw-photos-on-mac-and-linux-with-darktable-the-ultimate-free-editing-software/"><u>Transform Your RAW Photos on Mac & Linux with Darktable - The Ultimate Free Editing Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-windows-10s-pnp-detected-fatal-malfunction-a-step-by-step-guide/"><u>Winning Against Windows 10'S 'PNP Detected' Fatal Malfunction – A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-auditory-archive-top-resources-for-free-skype-music-files/"><u>[Updated] Auditory Archive Top Resources for Free Skype Music Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comical-connections-top-websites-for-funny-phone-sounds/"><u>[Updated] Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-video-reach-optimize-tags-for-600esplus-growth-for-2024/"><u>[Updated] Elevate Video Reach Optimize Tags for $6,00Es+ Growth for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2019-apple-ipad-air-unveiled-the-ultimate-multimedia-device/"><u>2019 Apple iPad Air Unveiled: The Ultimate Multimedia Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/economical-echoes-an-in-depth-study-of-oneplus-buds/"><u>Economical Echoes: An In-Depth Study of OnePlus Buds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479658081-expert-tips-to-repair-an-unresponsive-iphone-spotlight-discover-12-methods/"><u>Expert Tips to Repair an Unresponsive iPhone Spotlight - Discover 12 Methods!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-visual-brilliance-samsung-qn55q6f-4k-hdr-television-critique/"><u>Exploring the Visual Brilliance - Samsung QN55Q6F 4K HDR Television Critique</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g-5g-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G 5G (2023) to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-12plus-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 12+ 5G Phones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insights-on-the-google-pixelbook-go-beautifully-crafted-yet-expensive-device-review/"><u>Insights on the Google Pixelbook Go: Beautifully Crafted yet Expensive Device Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/june-6th-insights-unlocking-the-secrets-of-todays-new-york-times-connection-361/"><u>June 6Th Insights: Unlocking the Secrets of Today's New York Times Connection #361</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-home-security-an-insightful-look-at-the-ring-doorbell-plus/"><u>Maximizing Home Security: An Insightful Look at the Ring Doorbell Plus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-virtual-academies-10-choices-for-remote-learning-success/"><u>Navigating the Best Virtual Academies: 10 Choices for Remote Learning Success</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-silence-broken-top-tips-to-restore-audio-and-eliminate-quiet-screens/"><u>PC Silence Broken: Top Tips to Restore Audio and Eliminate Quiet Screens</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-smart-home-potential-an-in-depth-review-of-the-asus-ax6-rt-ax88u-wi-fi-6-advancements-and-features/"><u>Unlocking Smart Home Potential: An In-Depth Review of the Asus AX6# RT-AX88U Wi-Fi 6 Advancements and Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-features-of-mohu-blade-a-review-focused-on-innovative-design-and-indoors-strengths/"><u>Unveiling the Performance Features of Mohu Blade - A Review Focused on Innovative Design & Indoors Strengths</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-apple-ipad-102-inch-8th-generation-is-revolutionizing-affordable-tablet-tech/"><u>Why the Apple iPad 10.2-Inch (8Th Generation) Is Revolutionizing Affordable Tablet Tech</u></a></li>
 </ul></div>
 

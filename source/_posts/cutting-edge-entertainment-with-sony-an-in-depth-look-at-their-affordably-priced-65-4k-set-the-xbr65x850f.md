@@ -1,7 +1,7 @@
 ---
 title: Cutting Edge Entertainment with Sony - An In-Depth Look at Their Affordably Priced 65 4K Set, The XBR65X850F.
-date: 2024-09-13T08:52:48.211Z
-updated: 2024-09-15T09:56:36.153Z
+date: 2024-12-14T17:35:21.509Z
+updated: 2024-12-16T17:43:44.967Z
 categories:
   - BestProducts
 description: This Article Describes Cutting Edge Entertainment with Sony - An In-Depth Look at Their Affordably Priced 65 4K Set, The XBR65X850F.
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/dNBVHdy7xkx2kDF155mXOYN02CQ=/400x300/fi
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -40,6 +44,10 @@ Lifewire / Erika Rawes
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -72,6 +80,10 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Setup: Easier than most**
@@ -81,13 +93,6 @@ Lifewire / Erika Rawes
  Once you connect the antenna’s cable to your TV, you’ll need to find the best placement. This is perhaps the most difficult part of the setup process. My test home is in a wooded area, and I found the best placement was near or directly on the window. However,[to improve your antenna’s reception](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) , it’s usually a good idea to place the antenna high up in a room close to the home’s exterior (and nearest to the transmitter towers) and to avoid obstacles like walls and tree cover.
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Almost two dozen channels**
 
@@ -99,6 +104,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -106,13 +115,6 @@ Lifewire / Erika Rawes
  On my first attempt, I used the included stand, and the auto-programming only picked up four channels. When I placed the antenna on a window facing the TV transmitter tower, however, the omnidirectional HD antenna picked up 23 channels, which is a good amount considering the area.
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Mid-range**
 
@@ -123,10 +125,7 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
@@ -168,5 +167,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips/"><u>[New] 2024 Approved Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-xiaomis-new-smartphone-screenshot-tool-a-game-changer-in-recording-tech/"><u>[New] 2024 Approved Xiaomi's New Smartphone Screenshot Tool A Game Changer in Recording Tech</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-sj6-ultimate-face-off-with-xiaomis-yi-4k-genius-for-2024/"><u>[Updated] SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>[Updated] The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-conundrum-choosing-between-gps-and-cellular-models-for-optimal-performance/"><u>Apple Watch Conundrum: Choosing Between GPS and Cellular Models for Optimal Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bestsellers-the-most-effective-rechargeable-battery-chargers-of-marketing-course2024/"><u>Bestsellers: The Most Effective Rechargeable Battery Chargers of #Marketing-Course_2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bright-spotlight-spk10-037s-adaptable-softbox-advantages/"><u>Bright Spotlight: SPK10-037's Adaptable Softbox Advantages</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-samsung-galaxy-m34-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Samsung Galaxy M34?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/important-criteria-to-review-before-adding-a-state-of-the-art-printer-to-your-collection/"><u>Important Criteria to Review Before Adding a State-of-the-Art Printer to Your Collection</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-itel-p40plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Itel P40+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-chromatic-coherence-helper/"><u>In 2024, Chromatic Coherence Helper</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-hues-the-filmmakers-palette-guide/"><u>In 2024, Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-guide-to-powerful-connectivity-with-linksys-velop-mesh-routers/"><u>In-Depth Guide to Powerful Connectivity with Linksys Velop Mesh Routers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/karaoke-usa-sing-and-celebrate-for-less-than-a-hundred-dollars-unlimited-entertainment-awaits/"><u>Karaoke USA: Sing and Celebrate for Less than a Hundred Dollars - Unlimited Entertainment Awaits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-moto-g-stylus-reviewed-superior-operation-capabilities-and-reasonable-battery-endurance-with-added-stylus-functionality/"><u>Motorola Moto G Stylus Reviewed - Superior Operation Capabilities & Reasonable Battery Endurance with Added Stylus Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-transformation-et-sauvegarde-illimitees-des-fichiers-wav-en-ligne-gratuite/"><u>Movavi : Transformation Et Sauvegarde Illimitées Des Fichiers WAV en Ligne Gratuite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-sound-on-the-move-top-wireless-headsets-2024/"><u>Premium Sound on The Move - Top Wireless Headsets 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-performing-a-hard-reset-on-your-non-bootable-chromebook/"><u>Step-by-Step Guide: Performing a Hard Reset on Your Non-Bootable Chromebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-versatile-power-solution-a-complete-review-of-the-omnicharge-omni-portable-battery-with-qi-technology/"><u>The Versatile Power Solution: A Complete Review of the Omnicharge Omni Portable Battery with Qi Technology</u></a></li>
+</ul></div>
 

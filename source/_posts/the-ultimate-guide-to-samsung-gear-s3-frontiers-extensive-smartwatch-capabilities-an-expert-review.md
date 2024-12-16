@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Samsung Gear S3 Frontier's Extensive Smartwatch Capabilities - An Expert Review
-date: 2024-09-15T16:25:17.122Z
-updated: 2024-09-20T16:03:27.987Z
+date: 2024-12-15T17:34:27.810Z
+updated: 2024-12-16T18:07:56.845Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Samsung Gear S3 Frontier's Extensive Smartwatch Capabilities - An Expert Review
@@ -37,6 +37,10 @@ Lifewire / Emily Isaacs
 [View On Amazon](https://www.amazon.com/Nintendo-Game-Watch-Super-Machine-Specific/dp/B08HB9TCVG/?tag=lifewire-onsite-prod-20&ascsubtag=5120492%7Cnc6072645851a489d98654d1ddc0fc95d16%7CB08HB9TCVG) [View On Walmart](https://www.walmart.com/ip/Game-Watch-Super-Mario-Bros/576154747) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnintendo-game-watch-super-mario-bros-%2F6428471.p%3FskuId%3D6428471)
 
 4.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nintendo Game & Watch: Super Mario Bros
 
@@ -77,6 +81,10 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/RGM_gLdIp2jvsVG5LhRKLVw0nho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_04-f94be735a5644020b52656e67a6c0465.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
  Nintendo Game & Watch: Super Mario Bros. arrives in a small package that is lovingly designed in the Game & Watch family feel. In addition to the instructional care packet, it also includes a charging cable. Some long-time Nintendo fans may be inclined to keep the box, due to the Game & Watch’s collectible nature.
@@ -112,10 +120,7 @@ Lifewire / Emily Isaacs
 Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price: Great value for the price
@@ -125,22 +130,12 @@ Lifewire / Emily Isaacs
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/Te3HyEg18zLT9zKT-eZuFtev8So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_02-6af770f871344e16ad3f45320d46d52a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
  For anyone looking to bring the Game & Watch home, they should be aware that while it brings the three included classic titles to life in a fun, exciting way, the Game & Watch doesn't add anything new to the Nintendo family. It caters to long-time Nintendo lovers and collectors, more than anything else.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nintendo Game & Watch: Super Mario Bros. vs. Nintendo Switch
 
@@ -157,10 +152,7 @@ Lifewire / Emily Isaacs
  The Nintendo Game & Watch: Super Mario Bros. is a throwback to an older, simpler era of gaming that packs a wallop of a punch, bringing the challenge of the original Super Mario games and the original Game & Watch Ball title while making them accessible to a whole new generation of players. While we do wish Nintendo had included additional titles—who doesn’t want_more_ classic options when these are so fun—it’s no showstopper for enjoying this product.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -168,6 +160,10 @@ Lifewire / Emily Isaacs
 * [Nintendo Switch Lite](https://www.lifewire.com/nintendo-switch-lite-review-4788015)
 * [Xbox One X](https://www.lifewire.com/xbox-one-x-review-4707143)
 * [PlayStation 4 Pro](https://www.lifewire.com/playstation-4-pro-review-4707193)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -198,5 +194,21 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-gamers-guide-to-boosting-pc-speed-controls/"><u>[New] 2024 Approved The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-in-depth-review-the-complete-guide-to-streamlabs-obs/"><u>[Updated] In 2024, In-Depth Review The Complete Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-sonys-xbr63x850f-a-top-choice-for-budget-conscious-buyers-in-the-4k-65-inch-television-market/"><u>A Closer Look at Sony's XBR6^3X850F - A Top Choice for Budget Conscious Buyers in the 4K, 65-Inch Television Market</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-the-scenes-how-companies-employ-chatgpt/"><u>Behind the Scenes: How Companies Employ ChatGPT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-non-filtered-youtube-video-trail/"><u>Cease Non-Filtered YouTube Video Trail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-tp-link-wr902ac-portable-wi-fi-hotspot-router/"><u>Compact TP-Link WR902AC Portable Wi-Fi Hotspot Router</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/engaging-mobile-adventures-top-apps-similar-to-the-room-and-myst-for-ios-devices/"><u>Engaging Mobile Adventures: Top Apps Similar to The Room & Myst for iOS Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-performance-of-amazons-updated-fire-hd-8-gen-3-is-it-a-competitive-budget-option/"><u>Evaluating the Performance of Amazon's Updated Fire HD 8 (Gen 3): Is It a Competitive Budget Option?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-screen-to-performance-why-a-larger-phone-can-be-advantageous-iphone-12-pro-max/"><u>From Screen to Performance: Why a Larger Phone Can Be Advantageous (iPhone 12 Pro Max)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-classic-stop-motion-animations-ranking-the-best-15/"><u>In 2024, Classic Stop-Motion Animations Ranking the Best 15</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>In 2024, Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/protect-your-files-with-ease-learn-how-to-enable-bitlocker-for-usb-drives-on-windows-10-or-11/"><u>Protect Your Files with Ease: Learn How to Enable BitLocker for USB Drives on Windows 10 or 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-a79-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo A79 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-netgear-router-models/"><u>Top-Ranking Netgear Router Models</u></a></li>
+</ul></div>
 

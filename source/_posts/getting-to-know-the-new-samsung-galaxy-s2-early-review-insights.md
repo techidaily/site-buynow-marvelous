@@ -1,7 +1,7 @@
 ---
 title: "Getting to Know the New Samsung Galaxy S2#: Early Review Insights"
-date: 2024-09-12T01:36:42.682Z
-updated: 2024-09-15T02:29:17.825Z
+date: 2024-12-11T17:43:44.255Z
+updated: 2024-12-16T16:44:31.459Z
 categories:
   - BestProducts
 description: "This Article Describes Getting to Know the New Samsung Galaxy S2#: Early Review Insights"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 ## Samsung Galaxy Fit
 
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/UbU9fom8autjrPBW79fdJpbGiu8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_04LW4161013-1-760c721cdfb74062a7b7a34dffa00d9e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -70,7 +74,15 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/Tf5FJJb3h1iBWaZIkx-ZF7NeOTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4161013-6-b9990e3655e34e2ca712150225748ab6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Functional and slightly elevated**
 
@@ -85,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
  While this watch is diminutive in size, it can withstand the wear and tear that comes with biking, swimming, and other activities. The device as a whole is rugged and heavy-duty enough to withstand 50 meters of water as well as a drop or two, according to the MIL-STD-810G durability rating.
 
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/uFwssrqnoTWtrPSlF6y16TFjA5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4161013-2-2e9d9cba7ec342918320509e630b0f09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -114,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 
 ![Samsung Galaxy Fit](https://www.lifewire.com/thmb/SRdpyMKwwNLE2m_Dnn2o9thnpQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4161013-3-40a8d98ca4a04e7c9b5b18531df43e6f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
 ## **Performance: High marks for accuracy**
@@ -135,10 +155,7 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Battery: Good for a full week of use**
@@ -155,25 +172,11 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 
  In addition to controlling the watch settings easily from the[mobile app](https://www.lifewire.com/what-are-apps-1616114) , the Samsung Health app is the other go-to resource. Here you can view all the information captured by the activity tracker, including fitness, sleep, and even stress levels. You can also take this a step further by using the app to monitor calories, weight, and water intake.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Great for what you get**
 
  The Samsung Galaxy Fit retails for $99.99, which makes it a strong competitor in the fitness tracker market. Similarly-priced devices from the Fitbit brand offer an equivalent bundle of all-day activity tracking and general wellness features but lack the vibrant display of the Galaxy Fit.
 
  There are cheaper options out there, too, like the Garmin vívofit 4, which sells for between $60 and $80\. But it lacks a heart rate monitor or the smart capabilities of the Fit, like canned text-messaging responses and the ability to send calls straight to voicemail. For the activity tracking and smart device functionality, the Fit is a fair price and maybe even a bargain for some.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Samsung Galaxy Fit vs. Fitbit Inspire HR**
 
@@ -189,18 +192,15 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 
  The Samsung Galaxy Fit is an appealing option for those who want a bit of smartwatch functionality and a heavy emphasis on exercise monitoring—without shelling out too much money. The fit, ironically, may be the largest issue. But if you’re able to find the right size, this may be everything you want in a fitness tracker.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
 * [Fitbit Versa](https://www.lifewire.com/fitbit-versa-review-4769748)
 * [Apple Watch Series 4](https://www.lifewire.com/apple-watch-series-4-review-4769752)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -230,5 +230,20 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-8-things-to-consider-before-buying-next-lens-for-4k-camera-for-2024/"><u>[New] 8 Things to Consider Before Buying Next Lens for 4K Camera for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/reating-your-own-path-on-youtube-a-course-guide-for-2024/"><u>[New] Creating Your Own Path on YouTube A Course Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-focused-growth-instagrams-must-use-tags-to-watch-out-for/"><u>[Updated] 2024 Approved Focused Growth Instagram's Must-Use Tags to Watch Out For</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/55-inch-4k-marvel-our-samsung-ru7300-review-explores-curves-and-connectivity/"><u>55-Inch 4K Marvel? Our Samsung RU7300 Review Explores Curves and Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-first-hand-look-at-the-cutting-edge-technology-inside-the-new-samsung-galaxy-s2nultra/"><u>A First-Hand Look at the Cutting-Edge Technology Inside the New Samsung Galaxy S2nUltra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-prime-day-extravaganza-find-the-best-tech-bargains-in-june-2024-dont-miss-out/"><u>Amazon Prime Day Extravaganza: Find the Best Tech Bargains in June 2024 – Don’t Miss Out!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-software-drivers-for-windows-10-8-and-n7/"><u>Download Canon Printer Software Drivers for Windows 10, 8 & N7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-home-viewing-with-the-15-greatest-dolby-atmos-movies/"><u>Enhance Your Home Viewing with the 15 Greatest Dolby Atmos Movies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-affordable-fitbit-versa-lite-exceptional-value-in-fitness-tracking/"><u>Expert Analysis of the Affordable Fitbit Versa Lite - Exceptional Value in Fitness Tracking!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-up-close-with-ampages-latest-innovation-the-portable-andes-1500-power-solution/"><u>Get Up Close with Ampage's Latest Innovation: The Portable Andes 1500 Power Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-helldivers-2-bsod-dilemma-a-step-by-step-guide/"><u>Resolving the Helldivers 2 BSOD Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1172703-9781577316992-the-ten-things-to-do-when-your-life-falls-apart/"><u>The Ten Things to Do When Your Life Falls Apart | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/traveling-with-literature-in-style-detailed-review-of-the-amazon-kindle-paperwhite-gen-7/"><u>Traveling with Literature in Style: Detailed Review of the Amazon Kindle Paperwhite Gen 7</u></a></li>
+</ul></div>
 

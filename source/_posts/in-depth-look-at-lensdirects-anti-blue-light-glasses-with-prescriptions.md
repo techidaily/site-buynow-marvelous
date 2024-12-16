@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at LensDirect’s Anti-Blue Light Glasses with Prescriptions
-date: 2024-09-10T03:58:44.151Z
-updated: 2024-09-15T07:42:08.072Z
+date: 2024-12-09T16:36:21.383Z
+updated: 2024-12-16T17:33:56.897Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at LensDirect’s Anti-Blue Light Glasses with Prescriptions
@@ -43,6 +43,10 @@ Lifewire / Andrew Hayward
 
 ![Minecraft](https://www.lifewire.com/thmb/8qTKocVx8uUQO_o8JiQevLgejLg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Minecraft-Playstation-4-Video-Game-1-baf9fe02377c414db0f247cdfcb3484f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 [View On Amazon $22](https://www.amazon.com/Minecraft-Starter-Collection-PlayStation-4-dp-B09JTJFYBF/dp/B09JTJFYBF?tag=lifewire-onsite-prod-20&ascsubtag=4777049%7Cn607cd2b1608d44619d25997afb6f5e8e12%7CB09JTJFYBF) [View On Walmart $30](https://www.walmart.com/ip/721533897) [View On Best Buy $30](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6390837.p)
@@ -69,6 +73,10 @@ Lifewire / Andrew Hayward
 ![Minecraft](https://www.lifewire.com/thmb/KGxRcqpBaclCQ1bsvEvVp8tW4mQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Minecraft-Playstation-4-Video-Game-5-fe58f36987fa4b869ec30d969ff99e0a.jpg)
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Plot: DIY**
 
@@ -102,27 +110,17 @@ Lifewire / Andrew Hayward
 
 ![Minecraft](https://www.lifewire.com/thmb/KZOlKmF7mtow8s24LyCEegfMQeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Minecraft-Playstation-4-Video-Game-4-4fa0600f16e3489686b18da7be164b82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Graphics: All block everything**
 
  It’s all chunky and fuzzy in Minecraft, which uses a voxel-based system that makes everything look like giant 3D pixels. Even human characters and animals are boxy-looking, but that’s part of the lo-fi charm of the game. The Minecraft look has become iconic over the last 10 years, and influenced an untold number of other games since. There are visual modifications available that smooth out the graphics or apply lifelike textures, but the core look is decidedly Minecraft.
 
 ![Minecraft](https://www.lifewire.com/thmb/vtgr1TMhJGVqcjBzkQXrnRqhUsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Minecraft-Playstation-4-Video-Game-6-0ca6fe5018cf465caed86f1b81ef3e36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -139,15 +137,16 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A fantastic deal**
 
  Minecraft is an excellent value at $20 for the PlayStation 4, Xbox One, Switch, and PC versions of the game, and just $7 for the iOS and Android editions. That’s a steal for a game that players could potentially pour hundreds or thousands of hours into. The in-game Marketplace purchases might seem a bit pricey by comparison, with some content packs and new modes selling for the equivalent of $5+ apiece, but it could be a small price to pay to help keep an already-cheap game fresh for longer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Minecraft vs. LEGO Worlds**
 
@@ -162,6 +161,10 @@ Lifewire / Andrew Hayward
 **A modern classic.**
 
  Even a decade after release, Minecraft is an essential gaming experience for players of all ages, and especially for younger gamers. The sandbox design means that players can drop in and concoct their own experiences in each randomly-generated world, and the way it hooks in kids via good, old-fashioned creativity and experimentation is a sight to behold. Minecraft’s open-ended design won’t be for everyone—but it’s something truly special for those who embrace it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -184,5 +187,22 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[New] 2024 Approved Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-guide-to-iphone-voice-recording-techniques-for-2024/"><u>[New] Essential Guide to iPhone Voice Recording Techniques for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-your-first-twitter-profile/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Your First Twitter Profile</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-tango-unlimited-texts-calls-and-more-on-the-house/"><u>Explore Tango: Unlimited Texts, Calls & More on the House!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-y100-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y100 5G Face Lock?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-19-reviewed-gorgeous-game-aesthetics-combined-with-rpg-twists-detailed/"><u>MLB The Show 19 Reviewed - Gorgeous Game Aesthetics Combined with RPG Twists Detailed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-journey-into-ar-powered-linguistics/"><u>Mondly's Journey Into AR-Powered Linguistics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rugged-and-reliable-an-in-depth-look-at-the-asus-chromebook-c2nasa-for-young-learners/"><u>Rugged and Reliable: An In-Depth Look at the Asus Chromebook C2nASA for Young Learners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-system-restore-easy-instructions-for-resetting-your-lenovo-notebook/"><u>Simplifying System Restore: Easy Instructions for Resetting Your Lenovo Notebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/test-drive-comfort-and-durability-the-ultimate-guide-to-using-ergoheads-anti-fatigue-mat-for-prolonged-hours/"><u>Test Drive Comfort and Durability - The Ultimate Guide to Using Ergohead's Anti-Fatigue Mat for Prolonged Hours</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-amazonbasics-crosscut-paper-shredder-a-cost-effective-choice/"><u>The Ultimate Verdict on AmazonBasics Crosscut Paper Shredder: A Cost-Effective Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/totobay-wake-up-light-2nd-gen-review-best-budget-choice/"><u>Totobay Wake-Up Light (2Nd Gen) Review: Best Budget Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zenithstudiokit-umbrella-style-on-budget/"><u>ZenithStudioKit: Umbrella Style on Budget</u></a></li>
+</ul></div>
 

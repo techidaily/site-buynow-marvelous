@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2024-12-08T22:31:23.450Z
-updated: 2024-12-10T02:25:08.187Z
+date: 2024-12-13T16:43:43.426Z
+updated: 2024-12-16T16:12:49.396Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/1J0Vm7sbVC-MensEPmh2LK7-GAw=/400x300/fi
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -48,7 +48,7 @@ Lifewire / Andy Zahn
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -83,10 +83,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -117,10 +113,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -128,6 +120,10 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -145,6 +141,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -159,6 +159,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -172,6 +176,10 @@ Lifewire / Andy Zahn
  Time-lapse mode is where the SX70 HS really shines in terms of video. You can easily access this mode via the menu system, and there is a wide range of customizable options available. For those not experienced with time-lapse video, you can simply select from one of three subject-based settings. Time-lapses can be recorded at up to 4K resolution and truly excellent quality.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Lots of options**
 
@@ -205,19 +213,11 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -253,20 +253,20 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-aural-elegance-selecting-high-quality-ringtones-online/"><u>[New] In 2024, Aural Elegance Selecting High-Quality Ringtones Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>[Updated] 2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-quick-file-formatting-magic-turning-srt-into-txt-in-minutes/"><u>[Updated] Quick File Formatting Magic Turning SRT Into TXT in Minutes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-the-world-of-laughter-how-to-create-memes-on-9gag/"><u>2024 Approved Navigating the World of Laughter How to Create Memes on 9GAG</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-key-locator-tech-a-buyers-best-friend/"><u>2024'S Top Key Locator Tech: A Buyer’s Best Friend</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/7-key-advantages-of-subscribing-to-youtube-premium/"><u>7 Key Advantages of Subscribing to YouTube Premium</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-powerhouse-the-inside-scoop-on-ibuypowers-custom-gaming-pc-selection/"><u>Affordable Powerhouse: The Inside Scoop on iBuypower's Custom Gaming PC Selection</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazing-alexa-experience-in-a-small-package-exploring-the-echo-dot-3rd-gen-review/"><u>Amazing Alexa Experience in a Small Package: Exploring the Echo Dot (3Rd Gen) Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-mophie-ac-powerstation-high-price-meets-unmatched-utility/"><u>Analyzing the Mophie AC Powerstation: High Price Meets Unmatched Utility</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>How to Reset a Locked Realme Narzo 60 5G Phone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-implementing-instagram-story-opinion-polls-effectively/"><u>In 2024, Implementing Instagram Story Opinion Polls Effectively</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-of-jabra-talk-45-top-tier-audio-endurance-battery/"><u>Unveiling the Secrets of Jabra Talk 45 - Top-Tier Audio, Endurance Battery</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/which-should-you-choose-google-nest-audio-versus-nest-mini-reviewed/"><u>Which Should You Choose? Google Nest Audio Versus Nest Mini Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-compatible-logitech-g602-speaker-driver-download-guide/"><u>Windows Compatible Logitech G602 Speaker Driver Download Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44oh44oh44kj44ki44ox44os44o844ok44o844gr44gk44ge44gm5pig55s744ke5yuv55s744gm5lia5a6a566h5oma44gn5yan55sf44gm44k544oi44od44ox44gz44kl5y6f5zug44go6kej5rg65pa543/"><u>メディアプレーヤーにおいて映画や動画が一定箇所で再生がストップする原因と解決方法</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-securing-skype-audio-with-obs-recording-techniques/"><u>[New] Securing Skype Audio with OBS Recording Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion/"><u>[Updated] The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-vive-cosmos-quietly-dominating-amid-rival-vr-headsets/"><u>A Comprehensive Review of Vive Cosmos: Quietly Dominating Amid Rival VR Headsets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-the-journey-from-sdr-to-stunning-hdr-images/"><u>Decoding the Journey From SDR to Stunning HDR Images</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-data-insights-leveraging-powerful-cookiebot-functions/"><u>Elevate Data Insights: Leveraging Powerful Cookiebot Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-professional-opportunities-for-prompt-craftsmen/"><u>Evaluating Professional Opportunities for Prompt Craftsmen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-lgs-65-oled-c9-4k-television-ideal-choice-for-audiophiles-and-movie-buffs/"><u>In-Depth Analysis of LG's 65 OLED C9 4K Television – Ideal Choice for Audiophiles and Movie Buffs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mohu-blade-assessment-exceptional-interior-reception-and-innovative-structure/"><u>Mohu Blade Assessment: Exceptional Interior Reception and Innovative Structure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/opening-doors-creating-an-account-on-youtube-for-2024/"><u>Opening Doors Creating an Account on YouTube for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-blueear-bluetooth-beanie-hat-combining-style-and-function-with-solid-audio-performance/"><u>Review of Blueear Bluetooth Beanie Hat: Combining Style and Function with Solid Audio Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-cannot-play-media-error-on-powerpoint-a-guide-to-8-fixes/"><u>Solving the 'Cannot Play Media' Error on PowerPoint: A Guide to 8 Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-gaming-companion-samsung-q60r-4k-qled-tv-reviewed-in-detail/"><u>The Ultimate Gaming Companion: Samsung Q60R 4K QLED TV Reviewed in Detail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-netgear-nighthawk-x10-ad7200-is-a-game-changer-for-high-speed-internet-enthusiasts-a-comprehensive-review/"><u>Why the Netgear Nighthawk X10 AD7200 Is a Game-Changer for High-Speed Internet Enthusiasts: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-one-elite-series-2-controller-showdown-why-this-controller-is-king-among-gaming-peripherals/"><u>Xbox One Elite Series 2 Controller Showdown: Why This Controller Is King Among Gaming Peripherals</u></a></li>
 </ul></div>
 

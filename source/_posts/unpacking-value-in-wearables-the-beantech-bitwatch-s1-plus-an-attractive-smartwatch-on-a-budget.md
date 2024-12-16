@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
-date: 2024-12-04T20:37:51.254Z
-updated: 2024-12-10T14:02:58.698Z
+date: 2024-12-15T17:58:13.310Z
+updated: 2024-12-16T17:13:31.292Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
@@ -37,17 +37,9 @@ Lifewire / Todd Braylor
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fitbit Versa Lite
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/O7QnNkdge4zffV7BYmgcQZadk2I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-HeroSquare-771afa6a985240f0ab5fe71246b3d502.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -78,6 +70,10 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Customizable and instinctive**
 
  With a host of different color options, wristbands, and downloadable clock faces, the Fitbit Versa Lite is a stylish digital watch that’s ready to be customized. The full-color[LCD](https://www.lifewire.com/what-is-liquid-crystal-display-lcd-2625913) touch screen exudes a smartwatch look with a square screen and metallic bezels that lay flush against it to prevent dirt or moisture from getting trapped. The unit is thoroughly water-resistant, making a day at the ocean or laps at the pool no cause for worry.
@@ -92,10 +88,6 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/ehQeP3qIsRUrUZp6p58PkmyfjZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-02-cbb859573ea64d6bbd3cb967820dbdec.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Todd Braylor
 
 ## **Setup Process: Quick-tips and syncing**
@@ -108,10 +100,6 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Comfort: Attractive and confident wearability**
 
  The Fitbit Versa Lite feels nice in your hands and on your wrist. The device is relatively lightweight at 1.41 ounces and the screen unit sits naturally on the back of your wrist. The Versa Lite comes with two wristbands, one small and one large, measuring four and 5.25 inches long. Both are a little less than an inch wide and are made of a smooth, soft polymer material which is very comfortable for extended periods of wear.
@@ -121,7 +109,7 @@ Lifewire / Todd Braylor
  Aesthetically, the Versa Lite's screen and wrist band are attractive and look sleek. You can confidently wear the Versa Lite in any professional setting—it's good-looking but not overly flashy. Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed and you might find yourself wanting to leave it on the bedside table instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Lean and effective**
@@ -146,10 +134,6 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Battery Life: Days of activity**
 
  Fitbit promised four or more days of battery life for the Versa Lite, and they weren’t lying. The Versa Lite we tested lasted almost four and a half days before draining all the way down to zero. This made so many days of daily wear and daily runs seem hassle-free.
@@ -160,6 +144,10 @@ Lifewire / Todd Braylor
 
 Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Key Features: Fitbit basics plus apps for any activity**
 
  Like all Fitbits, the Versa Lite keeps track of what the company calls their “Fitbit basics.” These are key activity metrics for any active lifestyle and make it super easy for you to keep track of your health and get motivated.
@@ -168,11 +156,19 @@ Lifewire / Todd Braylor
 
  A host of other smartwatch apps come standard with the Versa Lite, including alarms, a weather app, a stopwatch, a relaxation app that guides you through short mindfulness exercises, and the specific exercise apps mentioned above. As far as additional apps for the Versa Lite, this is it—the Lite Edition does not have the ability to add extra apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A deal for under $200**
 
  Retailing for $159.95 and occasionally selling for less on sale, the Versa Lite is a price-conscious but solid piece of tech that prioritizes exercise. It's a great introduction to the smartwatch lifestyle with all the notifications you need to be connected and without an overwhelming amount of distractions.
 
  The ability to train in-depth with the Fitbit app and various Versa Lite exercise apps makes this fitness tracker a pretty good deal for under $200\. Avid swimmers, on the other hand, may want to look elsewhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fitbit Versa Lite Edition vs. Apple Watch Series 4**
 
@@ -191,7 +187,7 @@ Lifewire / Todd Braylor
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -199,6 +195,10 @@ Lifewire / Todd Braylor
 * [Garmin Forerunner 945](https://www.lifewire.com/garmin-forerunner-945-review-4768586)
 * [Fitbit Inspire HR](https://www.lifewire.com/fitbit-inspire-hr-review-4768656)
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -234,17 +234,19 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-guide-to-best-android-video-capture-software-5/"><u>[New] 2024 Approved Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[New] Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/desktop-level-prowess-in-a-portable-form-a-comprehensive-review-of-the-m1-powered-2021-ipad-pro/"><u>Desktop-Level Prowess in a Portable Form: A Comprehensive Review of the M1-Powered 2021 iPad Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-manfrotto-befree-tripod-industry-standard/"><u>Elite Manfrotto Befree Tripod: Industry Standard</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exclusive-list-the-ultimate-linkedin-training-programs-for-professionals/"><u>Exclusive List: The Ultimate LinkedIn Training Programs for Professionals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-a-refreshing-morning-with-the-totobay-wake-up-light-2nd-generation-top-affordable-option/"><u>Experience a Refreshing Morning with the Totobay Wake-Up Light 2Nd Generation - Top Affordable Option!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-revolutionary-combination-of-portability-and-performance-with-the-new-2021-ipad-pro-m1/"><u>Experience the Revolutionary Combination of Portability and Performance with the New 2021 iPad Pro (M1)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-samsungs-digital-photography-enhancements/"><u>In 2024, Examining Samsung's Digital Photography Enhancements</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-triple-widget-grid-layout-in-windows-11/"><u>Mastering the Triple Widget Grid Layout in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-frame-by-frame-how-to-convert-videos-to-images-with-these-10-powerful-tools/"><u>Updated 2024 Approved Frame by Frame How to Convert Videos to Images with These 10 Powerful Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>[New] Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-content-to-cash-flow-youtubes-profit-mechanics-for-2024/"><u>[Updated] From Video Content to Cash Flow YouTube's Profit Mechanics for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-lenovo-chromebook-duet-comprehensive-review-of-the-versatile-2-in-1-device/"><u>Budget-Friendly Lenovo Chromebook Duet - Comprehensive Review of the Versatile 2-in-1 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-nook-glowlight-4-tablet-a-complete-review/"><u>Expert Insights on the Nook GlowLight 4 Tablet: A Complete Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-the-dynamic-world-of-robotics-with-wonder-workshops-dash-a-revolutionary-rolling-companion/"><u>Explore the Dynamic World of Robotics with Wonder Workshop's Dash - A Revolutionary Rolling Companion!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-overscan-for-optimal-screen-fit/"><u>Fixing Windows Overscan for Optimal Screen Fit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-engaging-audiences-with-instagram-stories-surveys/"><u>In 2024, Engaging Audiences with Instagram Stories Surveys</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-youtubers-overture-orchestrating-video-triumphs/"><u>In 2024, The YouTuber’s Overture Orchestrating Video Triumphs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-review-tp-link-re305-ac1200-wi-fi-signal-booster-assessment/"><u>Simplified Review: TP-Link RE305 AC1200 Wi-Fi Signal Booster Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/switching-sides-an-in-depth-look-at-nintendos-switch-lite-and-oled-variants/"><u>Switching Sides: An In-Depth Look at Nintendo's Switch Lite and OLED Variants</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/travellers-choice-best-portable-online-signal-devices/"><u>Travellers' Choice: Best Portable Online Signal Devices</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-p55-by-fonelab-android-recover-music/"><u>Undelete lost music from P55</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-new-era-imacs-revolutionary-m1-processor-boosts-functionality-and-aesthetics/"><u>Unveiling the New Era: IMac's Revolutionary M1 Processor Boosts Functionality & Aesthetics</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-chrome-to-pro-running-professional-video-editing-software-on-your-chromebook/"><u>Updated In 2024, From Chrome to Pro Running Professional Video Editing Software on Your Chromebook</u></a></li>
 </ul></div>
 

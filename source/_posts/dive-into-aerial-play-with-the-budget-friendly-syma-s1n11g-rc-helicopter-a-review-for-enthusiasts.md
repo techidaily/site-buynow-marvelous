@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Aerial Play with the Budget-Friendly Syma S1n11G RC Helicopter: A Review for Enthusiasts"
-date: 2024-09-12T09:24:26.371Z
-updated: 2024-09-15T09:36:46.493Z
+date: 2024-12-10T17:23:55.885Z
+updated: 2024-12-16T17:45:46.870Z
 categories:
   - BestProducts
 description: "This Article Describes Dive Into Aerial Play with the Budget-Friendly Syma S1n11G RC Helicopter: A Review for Enthusiasts"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 ## HP Notebook 15
 
 ![HP Notebook 15](https://www.lifewire.com/thmb/b3ZgX_8zTO6E2dB2hwJdBO31F24=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_5LW4043278-HP-Notebook-15-4-867220d9429742748f0e51dab6ab0946.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -41,6 +45,10 @@ Lifewire / Jeremy Laukkonen
 ## HP Notebook 15
 
 ![HP Notebook 15](https://www.lifewire.com/thmb/uGjqdYURbA1RcFfxaRwesN5LDDg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_5LW4043278-HP-Notebook-15-4-867220d9429742748f0e51dab6ab0946.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -85,19 +93,6 @@ Lifewire / Jeremy Laukkonen
 
  The laptop is less than an inch thick at the rear, and it slopes down to an even thinner profile at the front. It does weigh in at over four and a half pounds, which cuts down on portability somewhat, but the short battery life means you won’t be carrying this one with you everywhere anyway.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Generally straightforward, but bloatware can extend the initial setup**
 
  The HP Notebook 15 is a[Windows 10](https://www.lifewire.com/windows-10-2626217) laptop, and the setup process isn’t anything out of the ordinary for a laptop like this. We timed the initial setup, and it took less than 15 minutes from plugging it in and turning it on to hitting the desktop for the first time. HP does ask for some information (including your email address) during the signup process, but most OEMs have a similar process for setting up support and warranty information.
@@ -113,13 +108,6 @@ Lifewire / Jeremy Laukkonen
 ![HP Notebook 15](https://www.lifewire.com/thmb/UzcvGMOLjjUMq7266i_u0-aS_d0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW4043278-HP-Notebook-15-3-ebd4f88f5f364fda82cb320e14a5690f.jpg)
 
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Outperformed by Intel HP Notebooks with similar specs**
 
@@ -137,6 +125,10 @@ Lifewire / Jeremy Laukkonen
 
  We also ran the Fire Strike benchmark, which is another gaming benchmark that’s designed for slightly more powerful machines. It only managed a score of 547 in that one, with a totally unplayable 3 FPS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Productivity: Works fine for basic productivity tasks**
 
  In real-world use, we found that the HP Notebook 15 feels sluggish a lot of the time, especially when running multiple apps at once or juggling 10 or more web browser tabs. It’s especially bad at working with images and video, but it’s usable for basic tasks like word processing and email.
@@ -151,13 +143,6 @@ Lifewire / Jeremy Laukkonen
 
  The sound quality is great for a laptop in this category, and we didn’t notice any distortion when listening to music or watching movie trailers on YouTube. It’s also sufficiently loud, although the speakers lack the bass response necessary to really fill a room.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network: Decent speeds, but no 802.11ac**
 
  The wireless card is another place where HP cut corners on the Notebook 15\. Speeds are decent enough when connected to a 2.4 GHz Wi-Fi network, but the lack of 802.11ac support means you don’t have the option to connect to a 5 GHz network.
@@ -170,9 +155,17 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Camera: Just an unimpressive 720p webcam**
 
  The HP Notebook 15 includes a 720p webcam that works well enough for video chat, but it’s a little blurry and washed out for use in professional teleconferencing. It’s there if you need it, but it isn’t anything special.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery: Mediocre battery life requires frequent charging**
 
@@ -182,16 +175,13 @@ Lifewire / Jeremy Laukkonen
 
  In our testing, we found that the HP Notebook 15 battery holds up for about four and a half hours of constant use. That’s enough for light use, but isn’t enough to hold you over for a full day of work or school without plugging the charger in at some point. With very light use and the Wi-Fi turned off, the battery lasts a couple hours longer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Excessive bloatware clogs up the works**
 
  The HP Notebook 15 comes equipped with Windows 10 and free trials of McAfee antivirus and Microsoft 365\. It also has a handful of basic Windows apps installed by default, and a lot of bloatware from HP — there are about ten different apps, including HP JumpStart and HP Audio Switch, that we think most users will want to uninstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Attractive price for what you get**
 
@@ -213,18 +203,15 @@ Lifewire / Jeremy Laukkonen
 
  The lower-resolution display, unimpressive battery, and weak internals make anything beyond basic tasks a struggle for the HP Notebook 15\. But if you just need a laptop for web browsing, email, and word processing — and plan to keep it near an outlet — then the HP Notebook 15 fits the bill for an incredibly low price.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [HP Pavilion Laptop 15z Touch](https://www.lifewire.com/hp-pavilion-laptop-15z-touch-review-4686745)
 * [Lenovo Ideapad 320](https://www.lifewire.com/lenovo-ideapad-320-review-4686723)
 * [Asus Chromebook C202SA](https://www.lifewire.com/asus-chromebook-c202sa-review-4589359)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -254,5 +241,22 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engaging-audiences-with-effective-haul-video-strategies/"><u>[New] 2024 Approved Engaging Audiences with Effective Haul Video Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-connect-your-content-from-twitch-to-facebook/"><u>[New] In 2024, Connect Your Content From Twitch to Facebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-creating-a-memorable-tiktok-end-credits/"><u>[New] In 2024, Creating a Memorable TikTok End Credits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-youtubes-rating-mechanism-nuances/"><u>[New] In 2024, Understanding YouTube's Rating Mechanism Nuances</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transforming-views-11-keys-to-thriving-in-facebook-video-marketing/"><u>[Updated] 2024 Approved Transforming Views 11 Keys to Thriving in Facebook Video Marketing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>[Updated] In 2024, Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-advanced-and-immersive-htpc-setups-reviewed/"><u>2024'S Most Advanced and Immersive HTPC Setups Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aeeusys-compact-solar-power-station-review-best-fit-for-sensitive-healthcare-equipment-with-pure-sine-wave-output/"><u>AEEUSY's Compact Solar Power Station Review: Best Fit for Sensitive Healthcare Equipment with Pure Sine Wave Output</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-digital-watchers-accelerating-view-count-growth/"><u>Dodge Digital Watchers Accelerating View Count Growth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-ultimate-nighttime-illumination-with-romers-rechargeable-led-flashlight/"><u>Experience the Ultimate Nighttime Illumination with Romer's Rechargeable LED Flashlight</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-pros-and-cons-of-the-pioneer-bdr-xd05b-blu-ray-recorder/"><u>In-Depth Analysis: Pros and Cons of the Pioneer BDR-XD05B Blu-Ray Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/making-an-informed-choice-alexa-and-google-assistant-face-off-for-optimal-results/"><u>Making an Informed Choice: Alexa and Google Assistant Face-Off for Optimal Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrading-32-bit-windows-11-to-a-64-bit-system/"><u>Upgrading 32-Bit Windows 11 to a 64-Bit System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>
 

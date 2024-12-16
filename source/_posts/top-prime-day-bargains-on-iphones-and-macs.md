@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Bargains on iPhones & Macs
-date: 2024-09-11T23:12:04.870Z
-updated: 2024-09-15T10:18:46.195Z
+date: 2024-12-13T17:14:22.627Z
+updated: 2024-12-16T17:56:05.314Z
 categories:
   - BestProducts
 description: This Article Describes Top Prime Day Bargains on iPhones & Macs
@@ -39,6 +39,10 @@ thumbnail: https://www.lifewire.com/thmb/nfRmz5jWb9bJnskiulFdUy47Zws=/400x300/fi
 * [Apple AirPods (2nd Generation)](https://www.amazon.com/dp/B07PXGQC1Q?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $69 (was $129)
 * [Apple AirPods (3rd Generation) Wireless Ear Buds](https://www.amazon.com/dp/B0D1WXVQTN?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $120 (was $169)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPads & MacBooks
 
 * [Apple iPad Pro (10.5-inch, Wi-Fi + Cellular, 64GB) - Rose Gold](https://www.amazon.com/dp/B071GGB84Y?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $505 (was $779)
@@ -48,28 +52,12 @@ thumbnail: https://www.lifewire.com/thmb/nfRmz5jWb9bJnskiulFdUy47Zws=/400x300/fi
 * [Apple 2022 MacBook Air Laptop with M2 chip](https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3CDZLTB?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $799 (was $999)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple AirTag
 
 ![Apple AirTag, Amazon Apple](https://www.lifewire.com/thmb/FipFdA6HAHhnqkyPxPSxtPkhMbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amazon-apple-after-christmas-deals-121923-8-34d5dafd52504e70ac9e89bc39b8aed6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Amazon
 
@@ -84,10 +72,7 @@ Amazon
 ![A set of four Apple AirTags](https://www.lifewire.com/thmb/oSijRZK4BqdndZJLrET-tiN-Kp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleAirTag-6c3832f854c24710890ba380ef01ff86.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Amazon
@@ -97,6 +82,10 @@ Amazon
 ## Apple Pencil (2nd generation)
 
 ![Apple Pencil (2nd Generation)](https://www.lifewire.com/thmb/s0BIvaUqu6ZcjV4a9mIbMddr6Hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ApplePencil2ndGeneration-c36a1762bd384a35bd468ba37708e1a3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -110,29 +99,19 @@ Apple
 
 ![Apple AirPods Pro (2nd Generation) Wireless Earbuds MagSafe Charging Case Bluetooth](https://www.lifewire.com/thmb/9LYkEpw7wOpkz--AFsFl9hcufdk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-airpods-pro-2nd-generation-wireless-earbuds-magsafe-charging-case-bluetooth-9ab1bb1064b048788597d1478ff047d8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Amazon
 
  Orig.$249 [$169 at Amazon](https://printrendy.pxf.io/xyboy5)
 
  Apple's AirPods Pro (2nd gen) offer excellent wireless sound, active noise cancellation, and four pairs of silicone tips so you can get the perfect fit. (And keep them in your ears!)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPad 10.2-inch (9th Generation)
 
 ![Apple 10.2-inch iPad 64GB (9th generation).](https://www.lifewire.com/thmb/Fz5fzdr5T2V7XBiWdboOc99fwHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleiPad9thGeneration_Amazon-0fbd83ca454840278d06c4a85943f974.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Amazon
 
@@ -143,6 +122,10 @@ Amazon
 ## Apple Watch Series 9 \[GPS 41mm\] Smartwatch
 
 ![Three Apple Watches in a row. Starting on the left is the Apple Watch SE (gen 2), Apple Watch Series 9 in the middle, and the Apple Watch Ultra 2 on the right.](https://www.lifewire.com/thmb/2xI4aMDe_iS79cxcVVcfvcWyMq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchlineup-b20fe549d8374cac9ec8afd8e08118a2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple, Inc.
 
@@ -177,5 +160,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-adjusting-music-tempo-on-spotify-app/"><u>[New] Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-seamless-youtube-to-wav-4-budget-friendly-solutions-revealed/"><u>2024 Approved Seamless YouTube to WAV 4 Budget-Friendly Solutions Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-the-premier-fitness-watches-of-2024/"><u>Expert Reviews: The Premier Fitness Watches of 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/free-screen-recording-techniques-for-pc-enthusiasts/"><u>Free Screen Recording Techniques for PC Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-t2-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo T2 5Gwith/without a PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correct-the-audio-issue-warning-from-itunes/"><u>How to Correct the 'Audio Issue' Warning From iTunes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-pixel-slate-uncovering-issues-beneath-the-chromeos-surface/"><u>In-Depth Review of Pixel Slate: Uncovering Issues Beneath the ChromeOS Surface</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-10-gaming-voice-modification-tools-rankings-and-analysis-for-2024/"><u>New Top 10 Gaming Voice Modification Tools Rankings and Analysis for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-outdoor-beaming-tool-reviewed-the-unstoppable-romer-charge-free-flashlight/"><u>Powerful Outdoor Beaming Tool Reviewed: The Unstoppable Romer Charge-Free Flashlight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-rising-with-sunlight-reviews-of-the-heimvision-a80s-and-its-exceptional-morning-light-therapy/"><u>The Ultimate Guide to Rising with Sunlight - Reviews of the HeimVision A80S and Its Exceptional Morning Light Therapy</u></a></li>
+</ul></div>
 
