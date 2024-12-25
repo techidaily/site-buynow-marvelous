@@ -1,7 +1,7 @@
 ---
 title: Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
-date: 2024-12-15T16:43:16.923Z
-updated: 2024-12-16T17:36:35.523Z
+date: 2024-12-23T04:36:34.025Z
+updated: 2024-12-25T08:39:12.352Z
 categories:
   - BestProducts
 description: This Article Describes Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/ZGkU_v50do17iYS5LwlJ7MnuhQI=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -40,9 +48,17 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -69,10 +85,6 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
@@ -89,10 +101,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  In addition to the offset analog sticks, the Luna controller also features a fairly standard array of buttons. A somewhat mushy directional pad sits below the left analog stick, and four familiar face buttons sit above the right stick. The triggers are fairly shallow but feel responsive, and shoulder buttons are easily accessed without moving your fingers off the triggers. In addition to the standard array, the Luna controller also includes a microphone button to access Alexa.
@@ -104,10 +112,6 @@ Lifewire / Jeremy Laukkonen
  In terms of ports, the Luna controller includes a USB-C port for charging and connectivity and a 3.5mm port for plugging in your favorite set of headphones or earbuds. At the back, you’ll find a removable battery cover, as the controller is powered by two AA batteries.
 
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setup Process: Quick and easy
 
@@ -122,10 +126,6 @@ Lifewire / Jeremy Laukkonen
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -147,10 +147,6 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -164,7 +160,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -172,6 +168,10 @@ Lifewire / Jeremy Laukkonen
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: Affordable fee reflects the thin library
 
@@ -233,24 +233,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>[New] Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants-for-2024/"><u>[New] Quick-Convert Facebook Videos to MP4, Opting for HD Variants for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-unconventional-playground-the-top-10-wildest-tiktok-games-for-2024/"><u>[New] Unconventional Playground The Top 10 Wildest TikTok Games for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[Updated] 2024 Approved Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>2024 Approved Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>2024 Approved Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/easy-guide-tweaking-brightness-and-contrast-from-your-pcs-control-panel-insights-by-yl-computing/"><u>Easy Guide: Tweaking Brightness and Contrast From Your PC's Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/future-of-sound-selecting-the-top-wired-headphones-2024/"><u>Future of Sound: Selecting the Top Wired Headphones, 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/getting-up-close-with-tp-link-archer-a9-excellent-connectivity-at-less-than-100/"><u>Getting Up Close with TP-Link Archer A9 - Excellent Connectivity at Less Than $100</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-master-flying-with-the-economical-syma-107g-hobbyist-rc-helicopter/"><u>How to Master Flying with the Economical Syma 107G Hobbyist RC Helicopter</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-tecno-pova-5-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Tecno Pova 5? Try These Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-nhl-19-digital-gaming-experience/"><u>In-Depth Analysis of NHL '19' Digital Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-arguments-against-hdr-pixels-on-your-desk/"><u>Key Arguments Against HDR Pixels on Your Desk</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/moko-universal-foldable-bluetooth-keyboard/"><u>MoKo Universal Foldable Bluetooth Keyboard</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stand-stronger-on-your-ergohead-mat-in-depth-analysis-of-durability-and-comfort-for-prolonged-use/"><u>Stand Stronger on Your Ergohead Mat: In-Depth Analysis of Durability & Comfort for Prolonged Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-your-iphones-locale-settings/"><u>Step-by-Step Guide: Changing Your iPhone's Locale Settings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-toshibas-fire-tv-edition-a-must-have-screen-for-amazon-prime-enthusiasts/"><u>The Comprehensive Review of Toshiba's Fire TV Edition - A Must-Have Screen for Amazon Prime Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essential-buyers-guide-to-the-oneplus-nord-n100-phone/"><u>The Essential Buyer's Guide to the OnePlus Nord N100 Phone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/utilitarian-and-durable-a-complete-analysis-of-the-urban-armor-gear-macbook-pro-sleeve/"><u>Utilitarian & Durable: A Complete Analysis of the Urban Armor Gear MacBook Pro Sleeve</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>[New] 2024 Approved Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-the-action-5-ways-to-record-windows-10-games-for-2024/"><u>[New] Capture the Action 5 Ways to Record Windows 10 Games for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-setting-pip-mode-in-the-youtube-app-for-mobile-viewing/"><u>[New] Setting PIP Mode in the YouTube App for Mobile Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-hidden-gems-in-graphic-design-basics/"><u>[Updated] 2024 Approved Hidden Gems in Graphic Design Basics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-contenders-the-creme-de-la-creme-list-of-computer-manufacturers/"><u>2024'S Top Contenders: The Crème De La Crème List of Computer Manufacturers</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-back-windows-overload-7-ways-to-fix-too-many-requests-error/"><u>Beating Back Window's Overload: 7 Ways to Fix Too Many Requests Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-6-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 6 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-formula-for-booming-subscriber-counts-in-youtubers-world/"><u>In 2024, The Formula for Booming Subscriber Counts in Youtubers' World</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-performance-insights-on-asus-zephyrus-g14-why-compromises-dont-apply-here/"><u>Unveiling Performance Insights on Asus Zephyrus G14: Why Compromises Don't Apply Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-asus-chromebook-c202sa-the-perfect-tech-partner-for-students/"><u>Unveiling the Asus Chromebook C202SA - The Perfect Tech Partner for Students</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-hidden-gem-of-mobile-tech-why-the-samsung-galaxy-a71-5g-is-a-worthy-flagship-rival/"><u>Unveiling the Hidden Gem of Mobile Tech: Why the Samsung Galaxy A71 5G Is a Worthy Flagship Rival</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lenovo-ideapad-320-a-symphony-of-portability-elegance-and-trusty/"><u>Unveiling the Lenovo Ideapad 320: A Symphony of Portability, Elegance, and Trusty</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-the-docooler-usb-20-with-a-12-megapixel-sensor-a-full-review/"><u>Unveiling the Truth About the Docooler USB 2.0 with a 12 Megapixel Sensor: A Full Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-linkedin-plus-subscription-could-be-your-career-boost/"><u>Why LinkedIn Plus Subscription Could Be Your Career Boost</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zooming-far-the-powerhouse-of-nikon-coolpix-p1000/"><u>Zooming Far: The Powerhouse of Nikon COOLPIX P1000</u></a></li>
 </ul></div>
 

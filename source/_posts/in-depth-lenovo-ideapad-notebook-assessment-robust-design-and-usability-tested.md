@@ -1,7 +1,7 @@
 ---
 title: In-Depth Lenovo IdeaPad Notebook Assessment - Robust Design and Usability Tested
-date: 2024-09-13T17:29:47.905Z
-updated: 2024-09-20T16:45:34.100Z
+date: 2024-12-21T04:32:13.942Z
+updated: 2024-12-25T07:33:18.426Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Lenovo IdeaPad Notebook Assessment - Robust Design and Usability Tested
@@ -87,13 +87,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
@@ -104,6 +97,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -112,19 +109,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -132,6 +116,10 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -163,6 +151,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -177,6 +169,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -187,24 +183,15 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -223,10 +210,7 @@ Lifewire / Andy Zahn
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -267,5 +251,26 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-brain-busting-the-premier-room-challenge-list-for-2024/"><u>[New] Brain-Busting The Premier Room Challenge List for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>[New] In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picart-secrets-to-pristine-picture-perfection/"><u>[New] PicArt Secrets to Pristine Picture Perfection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-photo-motion-smear-for-realism-in-adobe/"><u>[Updated] Photo Motion Smear for Realism in Adobe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-how-to-convert-wmv-videos-to-mp4-format-for-free-using-online-tools/"><u>1. How to Convert WMV Videos to MP4 Format for Free Using Online Tools</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/bereinigen-sie-ihren-desktop-schnell-beheben-der-windows-11-quick-access-probleme-mit-drei-strategien/"><u>Bereinigen Sie Ihren Desktop Schnell: Beheben Der Windows 11 Quick-Access-Probleme Mit Drei Strategien</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-listening-pleasure-with-the-intelligent-features-of-nest-audio-speaker-system/"><u>Elevate Your Listening Pleasure with the Intelligent Features of Nest Audio Speaker System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-change-iphones-replacement-program/"><u>Embracing Change: IPhone's Replacement Program</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/enhance-your-pcs-efficiency-with-top-tips-by-yl-software-professionals/"><u>Enhance Your PC's Efficiency with Top Tips by YL Software Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-essentials-choosing-a-camera-recorder-wisely/"><u>Evaluating Essentials: Choosing a Camera Recorder Wisely</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exercise/"><u>Exercise:</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-convenient-riding-test-drive-mods-user-friendly-e-bike-with-sidecar/"><u>Experience Convenient Riding: Test Drive Mod's User-Friendly E-Bike with Sidecar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-rca-video-doorbell-security-camera/"><u>Expert Analysis of the RCA Video Doorbell Security Camera</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-most-effective-cell-phone-reception-enhancers/"><u>Expert Picks: The Most Effective Cell Phone Reception Enhancers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-advanced-capabilities-of-the-samsung-galaxy-tab-s5e-android-tablet/"><u>Exploring the Advanced Capabilities of the Samsung Galaxy Tab S5e Android Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/globetrotting-without-sacrificing-animal-bond-time/"><u>Globetrotting Without Sacrificing Animal Bond Time</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-the-path-to-facebooks-exclusive-verified-marker-for-2024/"><u>Navigating the Path to Facebook's Exclusive Verified Marker for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-converting-mkv-files-into-wmv-format/"><u>Step-by-Step Guide: Converting MKV Files Into WMV Format</u></a></li>
+</ul></div>
 

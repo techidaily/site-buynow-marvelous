@@ -1,7 +1,7 @@
 ---
 title: "Vikings, Adventure & Betrayal: A Comprehensive Review of Assassin's Creed Valhalla in the Medieval Landscape"
-date: 2024-09-16T16:47:22.195Z
-updated: 2024-09-20T17:20:43.434Z
+date: 2024-12-18T16:38:43.664Z
+updated: 2024-12-25T06:12:12.345Z
 categories:
   - BestProducts
 description: "This Article Describes Vikings, Adventure & Betrayal: A Comprehensive Review of Assassin's Creed Valhalla in the Medieval Landscape"
@@ -36,6 +36,10 @@ Lifewire / Jason Schneider
 [View On Amazon $209](https://www.amazon.com/Acer-CB3-532-Chromebook-Dual-Core-12-Hours/dp/B077YS9TYW/ref=sr%5F1%5F3?tag=lifewire-onsite-prod-20&ascsubtag=4843694%7Cn791fbaac0c414da4a0eaf368ff79738d00%7CB077YS9TYW) [View On Walmart $400](https://www.walmart.com/ip/Acer-CB3-532-C47C-15-6-Chromebook-Chrome-OS-Intel-Celeron-N3060-Dual-Core-Processor-2GB-RAM-16GB-Internal-Storage/54518466)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Acer Chromebook 15 CB3-532
 
@@ -72,6 +76,10 @@ Lifewire / Jason Schneider
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/KPrvN1kvoH081BHRUonphp9CIeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_02-c3813ec58fc848e6a715abe090ebe6b1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jason Schneider
 
 ## **Design: Slightly bulky with a couple of nice touches**
@@ -83,10 +91,7 @@ Lifewire / Jason Schneider
  The hinge is actually two small contact points that roll into the laptop chassis, which feels dated when the laptop is open but makes it look interesting when it’s closed. The whole laptop is made of plastic, and measures right around one 1-inch thick, weighing in at almost 4.5 pounds. That’s a double-edged sword because while the laptop feels really sturdy and premium despite the plastic material, it isn’t terribly portable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: As seamless as a mobile device**
@@ -112,10 +117,7 @@ Lifewire / Jason Schneider
  To be fair, Chromebook users likely keep more files in cloud storage drives, and Google includes 100GB of drive storage for free with the purchase for 2 years. So, you might not notice the limited capacity, but I would have preferred at least 32GB.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Productivity and Component Quality: Plenty of screen real estate, and passable features**
@@ -127,16 +129,7 @@ Lifewire / Jason Schneider
  I am a little annoyed with the “search” key that Chromebooks placed where a caps lock key should be--resulting in a lot of accidental search callups. The trackpad also leaves a bit to be desired, requiring a firm, chunky press, and doesn’t support as many gestures as Windows or OSX.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Audio: An unexpected letdown**
@@ -167,18 +160,15 @@ Lifewire / Jason Schneider
 
  Chrome OS is a very light operating system, which means that it runs quick and light, at least initially.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Light and fast with very little customization**
 
  Using Chrome OS is more reliable than you might think. You have most of the functions you’ll need from Google Docs to web browsing to file storage. However, you’ll be missing a lot of more specialized programs, like the full Adobe Creative Suite, or PC-based media programs. Due to the low-powered processor and limited shared Graphics capability, you wouldn’t be able to use this laptop for video editing anyway, even if it did run Windows. So, even though it’s limiting, it’s on purpose.
 
  That said, the Chromebook 15 runs so well, though likely only because of the lightweight operating system and limited app capabilities. Chrome OS is kind of like just using a Chrome window with a bunch of tabs on a regular PC. For most people, the OS is more than capable of handling most of your browsing needs. This Chromebook is a great example of how far you can push Chrome OS on a budget device, with a big bright screen for watching movies, too.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Really affordable with plenty to offer**
 
@@ -197,10 +187,7 @@ Lifewire / Jason Schneider
  This is a great Chromebook with a lot of impressive things to offer. The bright screen has plenty of room for vibrant video viewing and multiple windows of productivity. The excellent battery life means you won’t be tethered to a desk, and the light, fast Chrome OS means it will take a lot to slow the Acer Chromebook 15 down. However, the limited onboard storage, bulky size and weight, and the lack of full app choices might limit you a bit too much. At the end of the day, at this price point, it’s perfect for light, basic use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -228,5 +215,24 @@ Lifewire / Jason Schneider
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ustomizable-mcb-visuals-for-youtube-banners/"><u>[New] Customizable MCB Visuals for YouTube Banners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-explore-the-full-potential-of-picsart-a-comprehensive-review-for-2024/"><u>[New] Explore the Full Potential of PicsArt - A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[New] In 2024, Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[Updated] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-zero-cost-youtube-meetings-easy-to-host/"><u>[Updated] Zero Cost Youtube Meetings Easy to Host</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2019-amazon-kindle-reviewed-essential-budget-friendly-e-reader/"><u>2019 Amazon Kindle Reviewed: Essential, Budget-Friendly E-Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-performers-the-best-large-screen-laptops-you-shouldnt-miss/"><u>2024'S Top Performers: The Best Large Screen Laptops You Shouldn’t Miss</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-cordless-journey-through-music-at-lp60xbt-unveiled/"><u>A Cordless Journey Through Music: AT-LP60XBT Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-gamers-look-at-the-nintendo-switch-dominating-the-portable-console-market/"><u>A Gamer's Look at the Nintendo Switch - Dominating the Portable Console Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aviation-enthusiasts-choice-the-definitive-look-at-the-blade-e-flite-mcx2-ready-to-launch-rc-helicopter/"><u>Aviation Enthusiasts' Choice: The Definitive Look at the Blade E-Flite mCX^2 Ready-to-Launch RC Helicopter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capture-everything-with-ease-the-sx70-reviewed/"><u>Capture Everything with Ease - The SX70 Reviewed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-and-critique-of-the-kobo-clara-colour-what-readers-should-know/"><u>Comprehensive Analysis and Critique of the Kobo Clara Colour - What Readers Should Know</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-macs-built-in-image-wizardry-a-step-by-step-tutorial-on-leveraging-the-preview-app/"><u>Discover Mac's Built-In Image Wizardry: A Step-by-Step Tutorial on Leveraging the Preview App</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-v30-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo V30 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-financials-of-additive-manufacturing-precise-cost-projection-techniques/"><u>Navigating the Financials of Additive Manufacturing: Precise Cost Projection Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-fix-your-pc-when-it-wont-recognize-a-usb-drive/"><u>Quick Solutions: Fix Your PC When It Won't Recognize a USB Drive</u></a></li>
+</ul></div>
 

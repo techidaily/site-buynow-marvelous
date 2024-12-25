@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Exterior Graphics Card Cases: Ultimate Guide"
-date: 2024-12-10T16:46:13.588Z
-updated: 2024-12-16T16:24:34.442Z
+date: 2024-12-18T11:55:47.651Z
+updated: 2024-12-24T22:31:31.615Z
 tags:
   - buying-guides
 categories:
@@ -39,6 +39,10 @@ Best External GPU Enclosure for Gaming
 Best External GPU  
 [See at Gigabyte](https://www.gigabyte.com/Graphics-Card/GV-N4090IXEB-24GD#kf)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What to Look for in an External GPU Enclosure in 2023
 
  If you own a [laptop](https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/), [NUC](https://tech-savvy.techidaily.com/chagpts-capacity-unhindered-openai-declares/), or any other PC that doesn't have a [dedicated graphics card](https://youtube-tips.techidaily.com/ed-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/) or a [PCIe port](https://tech-haven.techidaily.com/boost-your-efficiency-at-work-with-these-chatgpt-assistant-strategies/) to install one, you can connect a desktop-class GPU to your PC with the help of an external GPU enclosure. Just get a GPU, install it into the enclosure, and connect the enclosure to your PC via a [Thunderbolt](https://digital-screen-recording.techidaily.com/record-games-with-no-hassle-nvidia-way/) port.
@@ -66,17 +70,9 @@ Best External GPU
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best External GPU Enclosure Overall: [Razer Core X](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU904695&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-egpus%2Frazer-core-x%2FRC21-01310200-R3U1) 
 
 ![Razer Core X sitting on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Razer_
 
@@ -96,7 +92,7 @@ _Razer_
 ![Razer Core X Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
@@ -129,7 +125,15 @@ _Akitio_
 
 ![Akitio Node Titan eGPU Enclosure Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/akitio-node-titan-egpu-enclosure.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget External GPU Enclosure
 
@@ -138,6 +142,10 @@ Best Budget External GPU Enclosure
 If you're looking for a budget eGPU enclosure the Akitio Node Titan is one of the best choices. It doesn't feature the most straightforward GPU installation procedure but everything else is top notch.
 
 [See at Amazon](https://www.amazon.com/AKiTiO-Node-Titan-Thunderbolt-Enclosure/dp/B085TH77RT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best External GPU Enclosure for Laptops: [Sonnet eGPU Breakaway Box 750ex](https://www.amazon.com/Sonnet-eGPU-Breakaway-Box-750ex/dp/B08Q755RQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
@@ -172,10 +180,6 @@ The Sonnet eGPU Breakaway Box 750ex includes a powerful PSU, support for dual sl
 
 [See at Amazon](https://www.amazon.com/Sonnet-eGPU-Breakaway-Box-750ex/dp/B08Q755RQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best External GPU Enclosure for Gaming: [Razer Core X Chroma](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B07Q78VMPW/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
 
 ![Razer Core X Chroma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-chroma.png) 
@@ -201,11 +205,11 @@ _Razer_
 
 ![Razer Core X Chroma RGB eGPU Enclosure Front Side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/razer-core-x-chroma-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best External GPU Enclosure for Gaming
 
@@ -214,10 +218,6 @@ Best External GPU Enclosure for Gaming
 The Core X Chroma from Razer is a high-end eGPU enclosure that looks sleek, features tasteful RGB implementation, packs lots of extra connectivity, and supports massive, three slot graphics cards. It's a full package and one of the best eGPU enclosures around.
 
 [See at Amazon](https://www.amazon.com/Razer-Chroma-Aluminum-External-Enclosure/dp/B07Q78VMPW/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU904695&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-best-egpus%2F&asc%5Fcampaign=Commerce) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best External GPU: [Gigabyte AORUS RTX 4090 Gaming Box](https://www.gigabyte.com/Graphics-Card/GV-N4090IXEB-24GD#kf) 
 
@@ -243,6 +243,10 @@ _Gigabyte_
 
 ![Gigabyte Aorus RTX 4090 Gaming Box Front and Sides](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/gigabyte-aorus-rtx-4090-gaming-box.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best External GPU
 
 #####  Gigabyte Aorus Gaming Box
@@ -258,23 +262,19 @@ Instead of being an empty eGPU box, the Gigabyte AORUS RTX 4090 Gaming Box packs
  External GPUs and eGPUs are the same. The two terms are used interchangeably for external graphics cards that you can hook to a PC. They can be custom designs that you cannot upgrade with a new GPU, such as ASUS’ XG Mobile products, or they can be regular GPUs housed inside eGPU enclosures. eGPU enclosures are housings inside which you can slot an external GPU. eGPU enclosures can come with a pre-installed GPU, but in most cases, you have to provide the GPU yourself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I connect an external GPU to my laptop or MacBook?
 
  eGPU enclosures use [Thunderbolt 3](https://extra-support.techidaily.com/new-quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/) standard to connect to laptops and Intel-based MacBooks. To connect an external GPU to your laptop or MacBook, plug a Thunderbolt cable into two Thunderbolt ports located on the eGPU enclosure and on your laptop or Intel-based Macbook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can I use an internal GPU as an external one?
 
  You can. As long as the enclosure can fit it, you can use any desktop-class internal GPU with an external GPU enclosure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Do all GPUs work with all CPUs?
@@ -296,17 +296,20 @@ Instead of being an empty eGPU box, the Gigabyte AORUS RTX 4090 Gaming Box packs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-satirists-handbook-video-creation-for-comedy/"><u>[New] 2024 Approved The Satirist's Handbook Video Creation for Comedy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>[New] From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimal-ways-to-preserve-android-records/"><u>[New] In 2024, Optimal Ways to Preserve Android Records</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-quick-guide-to-the-best-youtube-business-channel-creation-hacks/"><u>[Updated] 2024 Approved Your Quick Guide to the Best YouTube Business Channel Creation Hacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cease-siri-vs-chatgpt-unveiling-their-distinct-features/"><u>Cease Siri Vs. ChatGPT: Unveiling Their Distinct Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-hp-network-adapter-software-for-windows-11-7-and-8-systems/"><u>Essential HP Network Adapter Software for Windows 11, 7 & 8 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-open-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Open online without jailbreak</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/masterful-performance-a-critical-review-of-the-latest-microsoft-surface-laptop-4/"><u>Masterful Performance: A Critical Review of the Latest Microsoft Surface Laptop 4</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/switched-up-choices-evaluating-the-nintendo-switch-lite-versus-the-switch-oled/"><u>Switched-Up Choices: Evaluating The Nintendo Switch Lite Versus The Switch OLED</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-parent-controlled-wifi-devices/"><u>Top Rated Parent-Controlled WiFi Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722884527567-unbeatable-apple-watch-promotions-avoid-missing-out/"><u>Unbeatable Apple Watch Promotions: Avoid Missing Out</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/zoom-into-action-holy-stones-cartoon-inspired-remote-control-racer-revealed/"><u>Zoom Into Action: Holy Stone's Cartoon-Inspired Remote Control Racer Revealed!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-laughter-lab-virtually/"><u>[New] 2024 Approved Laughter Lab Virtually</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discovering-the-power-of-asmr-for-quality-rest-for-2024/"><u>[New] Discovering the Power of ASMR for Quality Rest for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[New] How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-next-gen-consumer-engagement-strategies/"><u>[Updated] 2024 Approved Next-Gen Consumer Engagement Strategies</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-15-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 15 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-to-battle-faster-expert-advice-on-fixing-slow-download-problems-with-lol/"><u>Get Back to Battle Faster: Expert Advice on Fixing Slow Download Problems with LoL</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-leading-add-ons-to-improve-sea-camera-shots/"><u>In 2024, Leading Add-Ons to Improve Sea Camera Shots</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-active-easily-discover-how-the-cubefit-terramat-changes-workouts-while-standing/"><u>Stay Active Easily: Discover How the CubeFit TerraMat Changes Workouts While Standing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-in-shape-and-connected-with-the-garmin-vivoactive-3s-built-in-music-player/"><u>Stay in Shape and Connected with the Garmin Vivoactive 3'S Built-In Music Player</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-creating-your-own-nintendo-account-on-the-3ds/"><u>Step-by-Step Guide: Creating Your Own Nintendo Account on the 3DS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-battle-royale-for-apple-fans-iphone-15-plus-compared-to-the-pro-max/"><u>The Battle Royale for Apple Fans: IPhone 15 Plus Compared to the Pro Max</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-sites-for-chromium-phone-tunes-for-2024/"><u>The Best Sites for Chromium Phone Tunes for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-portable-panorama-pioneer-ricohs-theta-sc2-review/"><u>The Portable Panorama Pioneer – Ricoh's Theta SC2 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-right-time-to-invest-in-a-dvr-ask-yourself-these-questions/"><u>The Right Time to Invest in a DVR? Ask Yourself These Questions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-8-incredible-smartphone-games-for-gamers/"><u>Top Picks: 8 Incredible Smartphone Games for Gamers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Kobo Forma Assessment: A Serious Approach to Enhancing Your Reading Experience"
-date: 2024-09-14T16:20:02.176Z
-updated: 2024-09-20T16:06:50.269Z
+date: 2024-12-20T03:10:51.573Z
+updated: 2024-12-25T04:46:14.628Z
 categories:
   - BestProducts
 description: "This Article Describes Kobo Forma Assessment: A Serious Approach to Enhancing Your Reading Experience"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ## Nikon COOLPIX A10: An Inexpensive Camera That Takes Great Photos But Is Hamstrung by a Frustrating User Experience
 
 3.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nikon Coolpix A10
 
@@ -37,6 +41,10 @@ Lifewire / Scott Gercken
 [View On Amazon](https://www.amazon.com/Nikon-26518-COOLPIX-A10/dp/B01MRCWQRM/?tag=lifewire-onsite-prod-20&ascsubtag=4770197%7Cn88abf430138948d9b734fd07e2e0abff04%7CB01MRCWQRM)
 
 3.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nikon Coolpix A10
 
@@ -66,6 +74,10 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Feels good with natural controls**
 
  The Nikon COOLPIX A10 is a nice looking camera with a flashy silver front and black rear. It’s 3.5” wide, 2.25” tall, 0.75” deep on the narrow side and 1” deep on the wide side. The right side of the camera, the one with all the controls, has a rounded bulge that grows from 0.75” to 1”, perfectly designed to fit the hand (the camera would otherwise have been too narrow to hold comfortably). There are several controls on the top of the camera—the on/off button, the shutter, and the zoom controls.
@@ -84,6 +96,10 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Photo Quality: Beautiful photographs with a frustrating user experience.**
 
  The headline number for every[point and shoot](https://www.lifewire.com/point-and-shoot-camera-4688891) digital camera is[megapixels](https://www.lifewire.com/what-is-a-megapixel-493313) , and the Nikon COOLPIX A10 has a fairly standard 16 MP ceiling. But the megapixel count doesn’t express much about the quality of the camera or the photographs it takes. We took the Nikon COOLPIX A10 out to see what it could do, taking photos in every setting we could think of, from night landscapes to indoor pet shots. The COOLPIX produces quality photos in most circumstances.
@@ -100,25 +116,11 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Video Quality: Noisy, grainy video in all kinds of light**
 
 [Video capabilities](https://www.lifewire.com/point-and-shoot-camera-4688891) seem almost like an afterthought for the Nikon COOLPIX A10\. The camera allows lots of options and settings for photographs, whether you want to manage them manually or through a preset scene. There isn’t anything like that for video. The only options you have are in resolution: 720, 480, or 240\. When recording, the screen also doesn’t show any stats or information like it does when you’re taking a photo. You can zoom in or out, but you don’t know whether it’s using optical or digital zoom.
 
  We took video both indoors and outdoors, in shade and in the sun. Indoor video was very noisy, and it didn’t get much better when we went outside in great light. We took a comparison video with an old iPhone SE (12 MP camera), and the iPhone had drastically better video quality in all kinds of light. If quality video is important to you, this is not the camera for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Not worth mentioning**
 
@@ -132,6 +134,10 @@ Lifewire / Scott Gercken
 
  The Nikon COOLPIX A10 has a list price of $75, around the same price as many entry-level digital cameras. It takes decent photos, so you can grab some nice vacay pictures at the beach or camping without exposing expensive gear to the weather. Our only major hesitation is around the lengthy delay between taking photos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Competition: Phone and camera options**
 
 **iPhone 6s:** It’s becoming more and more difficult to justify a separate digital camera from our phones. The iPhone 6s does have a 12 MP camera against the COOLPIX’s 16, but that really only matters if you’re looking to print large photos or need extremely high resolution images. Often, it takes better photos than the COOLPIX A10, and it’s video capabilities are much better.. It doesn’t, however, have the ISO, white balance, or exposure options that the Nikon COOLPIX A10 has, and comes with a slightly larger price tag. We saw prices between $100 and $250 depending on the options, but for that price you also get an iPhone and all the additional functionality that comes with it.
@@ -143,13 +149,6 @@ Lifewire / Scott Gercken
  **Beautiful photos but a frustrating user experience.**
 
  While the Nikon COOLPIX A10 takes beautiful photos, the user experience ruins the camera. It’s difficult to use and locks up for a few seconds after every photo. The sheen of high quality images quickly fades when you’re staring at a warning indicator for long, static moments. Other entry-level cameras perform much better.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -189,5 +188,18 @@ Lifewire / Scott Gercken
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-eliminating-common-glitches-in-windows-11s-photos-viewer-for-2024/"><u>[New] Eliminating Common Glitches in Windows 11'S Photos Viewer for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging/"><u>[New] Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-social-networking-visual-delights-on-fb-for-2024/"><u>[New] Top Social Networking Visual Delights on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-assessing-mr-beasts-monetary-trajectory/"><u>[Updated] 2024 Approved Assessing Mr. Beast’s Monetary Trajectory</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-razers-portable-solution-for-gamers-enhanced-wi-fi-connectivity-unveiled/"><u>A Closer Look at Razer’s Portable Solution for Gamers - Enhanced Wi-Fi Connectivity Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722960097015-affordable-excellence-in-gaming-pcs-the-comprehveiw-of-hps-omen-obelisk/"><u>Affordable Excellence in Gaming PCs: The Comprehveiw of HP's Omen Obelisk.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723070955380-top-apple-offers-on-prime-day-exclusive-discounts-and-savings/"><u>Top Apple Offers on Prime Day: Exclusive Discounts & Savings!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-a-closer-look-at-kobo-clara-colour/"><u>Unveiling The Features - A Closer Look at Kobo Clara Colour</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2024-12-13T17:53:41.991Z
-updated: 2024-12-16T17:14:48.028Z
+date: 2024-12-21T22:28:38.311Z
+updated: 2024-12-24T17:17:27.066Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -14,12 +14,16 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/ExEFo7aByvSphU-Qxeq8zUjf8lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -42,12 +46,16 @@ Lifewire / Kelsey Simon
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -82,10 +90,6 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Plot: A character torn between obligation and friendship**
 
  The initial cutscene starts with you on a plane, preparing to jump. Your name is Kyle Crane, and you’re an undercover operative. You’ll parachute to the earth while your boss explains your mission―to find a stolen file―but the second you hit the ground, things don’t go as planned. You’re attacked and forced to fire your weapon to scatter your attackers. Of course, in zombie-infested Harran, a gunshot is zombie bait. Suddenly they're swarming toward you and things look very dire, until you're rescued by a pair of strangers, a man and a woman. The man dies saving you but you and the woman escape. Her name is Jade, and she’ll play a big role throughout the story as you try to win her and her brother’s trust.
@@ -99,6 +103,10 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gameplay: Parkour and zombies galore**
 
@@ -115,14 +123,10 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Graphics: Attention to detail**
 
@@ -133,10 +137,6 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Worth the cost, especially with a friend**
 
@@ -175,20 +175,21 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ideal-obs-preset-for-economical-machines/"><u>[Updated] 2024 Approved Ideal OBS Preset for Economical Machines</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/antivirus-limitations-and-advanced-safeguards-necessary-for-optimal-security-online/"><u>Antivirus Limitations and Advanced Safeguards Necessary for Optimal Security Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-your-blogging-income-with-effective-strategies-on-buyselladscom/"><u>Boost Your Blogging Income with Effective Strategies on buySELLads.com</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-zte-blade-a3y-unlocking-exceptional-capabilities/"><u>Budget-Friendly ZTE Blade A3Y: Unlocking Exceptional Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/connecting-horizons-4-reasons-to-embrace-starlinks-prowess/"><u>Connecting Horizons: 4 Reasons to Embrace Starlink’s Prowess</u></a></li>
-<li><a href="https://win-web.techidaily.com/discover-the-ultimate-reasons-for-choosing-microsoft-edge-unveiling-its-3-stellar-advantages/"><u>Discover the Ultimate Reasons for Choosing Microsoft Edge - Unveiling Its 3 Stellar Advantages!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-mp3-to-ogg-conversion-discover-the-ultimate-music-file-changer/"><u>Effortless MP3 to OGG Conversion - Discover the Ultimate Music File Changer!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-the-lg-watch-style-sets-the-standard-for-wear-os-20-powered-smartwatches-a-review/"><u>How the LG Watch Style Sets the Standard for Wear OS 2.0-Powered Smartwatches – A Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-your-utorrent-running-again-explore-these-7-fixes/"><u>How To Get Your Utorrent Running Again? Explore These 7 Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>In 2024, Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-spark-interest-drive-engagement-top-30-video-ideas/"><u>In 2024, Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/status-bt-dive-budget-friendly-yet-not-perfected/"><u>Status BT Dive: Budget-Friendly, Yet Not Perfected</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ring-doorbell-pro-examined-a-smart-home-essential-reviewed/"><u>The Ring Doorbell Pro Examined: A Smart Home Essential Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-in-depth-review-of-the-mavix-m9-gaming-chair-for-endless-gaming-comfort/"><u>Ultimate Guide: In-Depth Review of the Mavix M9 Gaming Chair for Endless Gaming Comfort</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-experience-the-best-90-day-free-trial-of-final-cut-pro-now-for-2024/"><u>Updated Experience the Best 90-Day Free Trial of Final Cut Pro Now for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[New] 2024 Approved How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-video-appeal-crafting-unforgettable-thumbnail-images/"><u>[New] Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensive-coverage-coalition-picking-an-mcn-for-2024/"><u>[Updated] Comprehensive Coverage Coalition Picking an MCN for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-advanced-tips-for-ps4-screen-capture/"><u>[Updated] In 2024, Advanced Tips for PS4 Screen Capture</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-look-at-the-character-innovation-of-knack-amidst-a-familiar-and-repeatedly-used-game-genre/"><u>A Look at the Character Innovation of Knack Amidst a Familiar and Repeatedly Used Game Genre</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apc-back-ups-be600m1-review-exceptional-battery-safety-features-with-built-in-phone-charger-function/"><u>APC Back-UPS BE600M1 Review - Exceptional Battery Safety Features with Built-In Phone Charger Function</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-4-critique-continual-innovation-leads-to-unmatched-superiority/"><u>Apple Watch Series 4 Critique: Continual Innovation Leads to Unmatched Superiority</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/behind-the-wheel-exploring-the-power-and-precision-of-galaxys-miniaturized-ford-f-1-remote-control-masterpiece/"><u>Behind the Wheel: Exploring the Power and Precision of Galaxy's Miniaturized Ford F-1# Remote Control Masterpiece</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/binge-worthy-viewing-on-budget-explore-the-vast-options-of-roku-express/"><u>Binge-Worthy Viewing on Budget? Explore the Vast Options of Roku Express</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-apple-watch-series-se-is-it-worth-the-upgrade/"><u>Budget-Friendly Apple Watch Series SE: Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/canon-powershot-sx740-hs-review-a-simple-pocket-sized-camera/"><u>Canon PowerShot SX740 HS Review: A Simple, Pocket-Sized Camera</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cash-cascade-the-monetary-movements-of-a-meme-star-for-2024/"><u>Cash Cascade The Monetary Movements of a Meme Star for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-mp3-conversion-securely-download-and-save-your-cherished-tunes/"><u>Effortless MP3 Conversion: Securely Download and Save Your Cherished Tunes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flipping-videos-like-a-pro-quick-easy-and-stress-free-for-2024/"><u>Flipping Videos Like a Pro Quick, Easy, and Stress-Free for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pixeljudge-quality-analyzer-for-2024/"><u>PixelJudge Quality Analyzer for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-fixing-non-responsive-voice-chat-feature-in-pc-version-of-among-us/"><u>Ultimate Guide: Fixing Non-Responsive Voice Chat Feature in PC Version of Among Us</u></a></li>
 </ul></div>
 

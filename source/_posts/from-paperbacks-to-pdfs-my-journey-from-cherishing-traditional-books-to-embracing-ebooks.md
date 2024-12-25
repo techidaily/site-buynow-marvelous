@@ -1,7 +1,7 @@
 ---
 title: "From Paperbacks to PDFs: My Journey From Cherishing Traditional Books to Embracing eBooks"
-date: 2024-12-13T18:12:06.412Z
-updated: 2024-12-16T17:37:44.890Z
+date: 2024-12-21T23:14:25.858Z
+updated: 2024-12-24T22:32:32.449Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 ---
 
 ## From Paperbacks to PDFs: My Journey From Cherishing Traditional Books to Embracing eBooks
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 ![A Kobo Clara 2E eReader sitting on a pile of books.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_4125-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lydia Pike / How-To Geek
 
  I remember reading a particular novel once and finishing it at the start of a weekend. Bookstores were closed, and the earliest I'd get the next installment was two days away. Now, I don't have to wait, and ebooks make it much easier to consume longer series.
@@ -61,6 +53,10 @@ Hannah Stryker / How-To Geek
 
  Some might say that this gives away the physical copy of a book, but it's easier to carry a single eReader up six flights of stairs than it is to card over 200 books the same distance. While I appreciate a good hardcover book as much as the next person, my back is different from what it was a decade ago, so I'll stick to my ebooks for the foreseeable future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Efficient Spending on My Hobby
 
  Reading can be an expensive hobby if you opt for physical books. The [average cost of a paperback](https://www.slj.com/story/slj-average-book-prices-2023-follett-baker-taylor) is between $8 and $10, and a hardcover book could range between $16 and $25 per copy. Naturally, this means I am limited in what I can afford, and I have to be more selective in my title choices.
@@ -68,16 +64,12 @@ Hannah Stryker / How-To Geek
  I still have to be selective in my titles with ebooks, but I have some leeway in what I can get. As a member of Amazon's Prime service, I get a [free newly published ebook each month](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50iplus-drfone-by-drfone-virtual-android/). The [average cost of an ebook](https://automateed.com/average-ebook-price/) ranges from $1 to $3, with more established authors calling for $6 to $10 for their latest work. This means I can potentially get 2 to 3 ebooks for the cost of one paperback novel. I know which one I prefer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Can Customize My Text Delivery
 
 ![An eReader.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53125212620_0f222a0c93_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek  
   
@@ -85,9 +77,17 @@ Joe Robinson / How-To Geek
 
  This gives me the power as the reader to choose how I read my text. For many people, this means better accessibility and even the use of fonts that help with dyslexia. In my case, that could mean changing the font to Comic Sans if I wanted to and not having to worry about being a minority that can't have the book printed in a font they enjoy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Dictionary At My Fingertips
 
 ![An ebook on a cellphone screen with a blurred Kindle in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060858.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
@@ -99,6 +99,10 @@ Lucas Gouveia / Justin Duino / How-To Geek | Moon+
 
 ![A slightly open Galaxy Z Fold 5 on a bookshelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-slightly-open-galaxy-z-fold-5-on-a-bookshelf.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  The world is dealing with a looming environmental disaster, and we can prevent it by conserving trees. While I love reading paper books, and they still hold a special place in my heart, I don't think destroying the planet for my hobby is fair. Ebooks are all electronic, and while they still consume power, they [cause less overall environmental damage](https://ecobravo.co.uk/blogs/blog/7-surprisingly-amazing-environmental-benefits-of-e-books). I've learned how much my actions could hurt the planet, so I'm taking this stand to reduce it by just a little.
@@ -108,10 +112,6 @@ Bertel King / How-To Geek
  I mentioned setting my text size and style earlier, but ebooks also allow for many other features that improve accessibility and ease of use. For example, I could keep a cookbook open to a particular page without worrying about spilling anything on it and obliterating the recipe.
 
  I also enjoy reading at night before bed. With most eReaders, a backlight helps with letting me see the words while I go through the story. It also means that I don't have to disturb anyone else by leaving a light on or using a tiny flashlight, which may potentially damage my eyesight.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I'm Not Saying You Should But...
 
@@ -132,17 +132,20 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-list-editors-for-android-pics/"><u>[Updated] 2024 Approved A-List Editors for Android Pics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-the-potential-of-youtube-partnerships-tips-for-successful-collabs/"><u>[Updated] In 2024, Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-mac-recording-settings-for-snapchat-use/"><u>2024 Approved Mastering Mac Recording Settings for Snapchat Use</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-choosing-the-ultimate-robovac-for-a-spotless-home/"><u>Expert Reviews: Choosing the Ultimate RoboVac for a Spotless Home</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-ultimate-list-of-premium-bookshelf-speakers-for-2econds/"><u>Explore the Ultimate List of Premium Bookshelf Speakers for 2Econds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-markets-leading-boom-mics-for-professional-audio-2024-edition/"><u>Exploring the Market's Leading Boom Mics for Professional Audio - 2024 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/holiday-essentials-how-to-geeks-curated-list-of-ideal-tech-finds-to-stock-up-in-2ece-2021/"><u>Holiday Essentials: How-To Geek's Curated List of Ideal Tech Finds to Stock Up in 2Ece 2021</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-fixing-blurred-footage-in-social-media-streaming/"><u>In 2024, Fixing Blurred Footage in Social Media Streaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-content-marketing-for-more-views-and-subscribers-for-2024/"><u>Leveraging Content Marketing for More Views and Subscribers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/reaping-rewards-from-language-study-starting-at-fifty-five/"><u>Reaping Rewards From Language Study Starting at Fifty-Five</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-jujutsu-kaisens-impact-the-tiktok-challenge-perspective/"><u>[Updated] 2024 Approved Jujutsu Kaisen's Impact The TikTok Challenge Perspective</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-steps-for-professional-level-youtube-promos/"><u>[Updated] Strategic Steps for Professional-Level YouTube Promos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cutting-edge-techniques-for-youtube-thumbnails-made-for-macos/"><u>2024 Approved Cutting-Edge Techniques for YouTube Thumbnails, Made for macOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-deep-dive-into-the-skagen-falster-3-review-where-classic-charm-embraces-tech-advanccuement/"><u>A Deep Dive Into the Skagen Falster 3 Review: Where Classic Charm Embraces Tech Advanccuement</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhance-your-pcdj-experience-with-the-latest-dex-t3r-skin-collection-downloads/"><u>Enhance Your PCDJ Experience with the Latest DEX T3r Skin Collection Downloads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/escape-boredom-now-discover-these-10-fantastic-gaming-choices/"><u>Escape Boredom Now: Discover These 10 Fantastic Gaming Choices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-most-innovative-bluetooth-handsets-of-2024/"><u>Expert Picks: Most Innovative Bluetooth Handsets of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-on-tech-savvy-exploring-motorola-one-vs-iphone-prices/"><u>Get Your Hands on Tech Savvy: Exploring Motorola One Vs. IPhone Prices.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>In 2024, Crafting the Perfect Introduction 15 Viral YouTube Video Intros</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-connected-anywhere-with-the-compact-tp-link-tl-wr902ac-travel-router/"><u>Stay Connected Anywhere with the Compact TP-Link TL-WR902AC Travel Router</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-successfully-installing-your-epson-xp-830-printer-driver/"><u>Step-by-Step Guide: Successfully Installing Your Epson XP-830 Printer Driver</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211159894-9780062484185-the-close-encounters-man/"><u>The Close Encounters Man | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96393679-9781507210277-the-hidden-meaning-of-birds-a-spiritual-field-guide/"><u>The Hidden Meaning of Birds--A Spiritual Field Guide | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-hisense-40h5590f-top-value-in-a-40-hd-smart-tv/"><u>The Ultimate Guide to the Hisense 40H5590F – Top Value in a 40 HD Smart TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-the-freezing-glitch-in-halo-infinite/"><u>Troubleshooting Tips: How to Fix the Freezing Glitch in Halo Infinite</u></a></li>
 </ul></div>
 

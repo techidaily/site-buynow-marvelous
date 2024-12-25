@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
-date: 2024-12-15T17:58:13.310Z
-updated: 2024-12-16T17:13:31.292Z
+date: 2024-12-22T23:44:22.049Z
+updated: 2024-12-25T03:36:43.344Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
@@ -71,7 +71,7 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Customizable and instinctive**
@@ -88,6 +88,10 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/ehQeP3qIsRUrUZp6p58PkmyfjZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-02-cbb859573ea64d6bbd3cb967820dbdec.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
 
 ## **Setup Process: Quick-tips and syncing**
@@ -98,6 +102,10 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/BD_8kRJ7n6qQdf5LY9rLKiYigTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-05-fac178f5e6b240c29ff8d1e1e4fcb96f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
 
 ## **Comfort: Attractive and confident wearability**
@@ -107,10 +115,6 @@ Lifewire / Todd Braylor
  Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed.
 
  Aesthetically, the Versa Lite's screen and wrist band are attractive and look sleek. You can confidently wear the Versa Lite in any professional setting—it's good-looking but not overly flashy. Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed and you might find yourself wanting to leave it on the bedside table instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Lean and effective**
 
@@ -145,7 +149,7 @@ Lifewire / Todd Braylor
 Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Key Features: Fitbit basics plus apps for any activity**
@@ -156,10 +160,6 @@ Lifewire / Todd Braylor
 
  A host of other smartwatch apps come standard with the Versa Lite, including alarms, a weather app, a stopwatch, a relaxation app that guides you through short mindfulness exercises, and the specific exercise apps mentioned above. As far as additional apps for the Versa Lite, this is it—the Lite Edition does not have the ability to add extra apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: A deal for under $200**
 
  Retailing for $159.95 and occasionally selling for less on sale, the Versa Lite is a price-conscious but solid piece of tech that prioritizes exercise. It's a great introduction to the smartwatch lifestyle with all the notifications you need to be connected and without an overwhelming amount of distractions.
@@ -167,7 +167,7 @@ Lifewire / Todd Braylor
  The ability to train in-depth with the Fitbit app and various Versa Lite exercise apps makes this fitness tracker a pretty good deal for under $200\. Avid swimmers, on the other hand, may want to look elsewhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fitbit Versa Lite Edition vs. Apple Watch Series 4**
@@ -187,7 +187,7 @@ Lifewire / Todd Braylor
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -197,7 +197,7 @@ Lifewire / Todd Braylor
 * [Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -234,19 +234,18 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>[New] Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-content-to-cash-flow-youtubes-profit-mechanics-for-2024/"><u>[Updated] From Video Content to Cash Flow YouTube's Profit Mechanics for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-lenovo-chromebook-duet-comprehensive-review-of-the-versatile-2-in-1-device/"><u>Budget-Friendly Lenovo Chromebook Duet - Comprehensive Review of the Versatile 2-in-1 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-nook-glowlight-4-tablet-a-complete-review/"><u>Expert Insights on the Nook GlowLight 4 Tablet: A Complete Review</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/explore-the-dynamic-world-of-robotics-with-wonder-workshops-dash-a-revolutionary-rolling-companion/"><u>Explore the Dynamic World of Robotics with Wonder Workshop's Dash - A Revolutionary Rolling Companion!</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-overscan-for-optimal-screen-fit/"><u>Fixing Windows Overscan for Optimal Screen Fit</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-engaging-audiences-with-instagram-stories-surveys/"><u>In 2024, Engaging Audiences with Instagram Stories Surveys</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-youtubers-overture-orchestrating-video-triumphs/"><u>In 2024, The YouTuber’s Overture Orchestrating Video Triumphs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/simplified-review-tp-link-re305-ac1200-wi-fi-signal-booster-assessment/"><u>Simplified Review: TP-Link RE305 AC1200 Wi-Fi Signal Booster Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/switching-sides-an-in-depth-look-at-nintendos-switch-lite-and-oled-variants/"><u>Switching Sides: An In-Depth Look at Nintendo's Switch Lite and OLED Variants</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/travellers-choice-best-portable-online-signal-devices/"><u>Travellers' Choice: Best Portable Online Signal Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-p55-by-fonelab-android-recover-music/"><u>Undelete lost music from P55</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-new-era-imacs-revolutionary-m1-processor-boosts-functionality-and-aesthetics/"><u>Unveiling the New Era: IMac's Revolutionary M1 Processor Boosts Functionality & Aesthetics</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-chrome-to-pro-running-professional-video-editing-software-on-your-chromebook/"><u>Updated In 2024, From Chrome to Pro Running Professional Video Editing Software on Your Chromebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[Updated] 2024 Approved 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-compelling-online-presence-incorporating-wirecast-into-fb-streams/"><u>2024 Approved Crafting Compelling Online Presence Incorporating Wirecast Into FB Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discovering-this-years-most-captivating-yt-tales/"><u>2024 Approved Discovering This Year's Most Captivating YT Tales</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/experience-next-gen-mac-software-with-advanced-data-recovery-features/"><u>Experience Next-Gen Mac Software with Advanced Data Recovery Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-8t-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 8T Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/personalize-and-edit-iphone-ringtones-easily-for-2024/"><u>Personalize & Edit iPhone Ringtones Easily for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/scrutinizing-boses-audio-durability-for-solid-performance/"><u>Scrutinizing Bose's Audio Durability for Solid Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/selecting-videography-equipment-crucial-points-to-ponder/"><u>Selecting Videography Equipment: Crucial Points to Ponder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sennheisers-smart-uc-for-business-use/"><u>Sennheiser's Smart UC for Business Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonic-clash-apple-airpods-pro-vs-galaxy-buds-pro-review/"><u>Sonic Clash: Apple AirPods Pro Vs. Galaxy Buds Pro Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sync-your-speech-with-visuals-the-art-of-ppt-voiceovers/"><u>Sync Your Speech with Visuals The Art of PPT Voiceovers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-of-both-worlds-reviewing-the-logitech-c920-for-crystal-clear-1080p-video-streaming/"><u>The Best of Both Worlds: Reviewing the Logitech C920 for Crystal Clear 1080P Video Streaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-breakdown-of-netgear-ac1200-extender-ex6200-for-optimized-wifi-propagation-expert-reviews-and-comparisons/"><u>The Ultimate Breakdown of Netgear AC1200 Extender (EX6200) for Optimized WiFi Propagation: Expert Reviews and Comparisons</u></a></li>
 </ul></div>
 

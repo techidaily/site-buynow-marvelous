@@ -1,7 +1,7 @@
 ---
 title: Huawei MediaPad M5 Review
-date: 2024-12-15T17:54:33.888Z
-updated: 2024-12-16T17:13:32.854Z
+date: 2024-12-21T03:30:43.342Z
+updated: 2024-12-25T05:20:48.408Z
 categories:
   - BestProducts
 description: This Article Describes Huawei MediaPad M5 Review
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/CVT_-DqC-CCcWUC0wkIrzlX6Heo=/400x300/fi
 ## Google Wi-Fi
 
 ![Google Wifi](https://www.lifewire.com/thmb/4K2wVNigAa4JDeUzs8KCYZW_A4Q=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4139748-5-5c91046146e0fb0001f8d0fa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rui Yang
 
@@ -40,10 +44,6 @@ Lifewire / Rui Yang
 ## Google Wi-Fi
 
 ![Google Wifi](https://www.lifewire.com/thmb/1JG-edlMJWoUUvDsH0-3Y-yiDAY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4139748-5-5c91046146e0fb0001f8d0fa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Rui Yang
 
@@ -77,6 +77,10 @@ Lifewire / Rui Yang
 
  The Google Wifi might just be one of the best wireless routers on the market, and it’s hard to think of someone we wouldn’t recommend it to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup: Quick and easy**
 
  We’ve set up dozens of wireless networks in our time, and it is impossible to overstate how awesome the Google Wifi’s setup process is. Understanding that most people don’t want to dig through arcane instructions in order to browse the web, Google makes setup a breeze.
@@ -87,11 +91,11 @@ Lifewire / Rui Yang
 
 ![Google Wifi](https://www.lifewire.com/thmb/qytl4iFlphzC_PEngQcnmNQ08nU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4139748-3-5c91043c46e0fb0001770142.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Rui Yang
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Network admin for everyone**
 
@@ -109,10 +113,6 @@ Lifewire / Rui Yang
 
  Lifewire / Rui Yang
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Connectivity: Limited, but modern**
 
  This lack of fine-tuned controls carries over to the Google Wifi’s general connectivity: it’s a bit sparse, at least as far as ports are concerned. Each node has two Gigabit Ethernet ports and a[USB-C port](https://www.lifewire.com/usb-c-4149490) , used for power. This does mean that you can have[LAN connections](https://www.lifewire.com/what-is-lan-4684071) in several parts of your home, but if you need several LAN ports in one room, you’ll be left wanting.
@@ -122,6 +122,10 @@ Lifewire / Rui Yang
  When it comes to specs, the AC1200 Wave 2 capabilities are impressive enough, but when you add the quad-core ARM processor that intelligently directs the signal to devices that need it the most, you have the recipe for fantastic performance throughout your home or office.
 
  For instance, if you have several Google Wifi points set up throughout your home, you can walk around your house watching a YouTube video on your iPad, and Google Wifi will automatically shift to provide a wireless signal from whichever node is closest. You’ll never be interrupted and you don’t need to do anything manually, everything happens automatically behind the scenes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network performance: Unrivaled reliability**
 
@@ -136,10 +140,6 @@ Lifewire / Rui Yang
  The Google Wifi kills it here as well. During our testing, we had two people streaming Netflix in 4K, while a roommate played online games in another room uninterrupted.
 
  Google Wifi doesn’t support MU-MIMO, (or Multi-user, multiple input, multiple output,) but due to the nature of the mesh network, it almost doesn’t matter. Unless you’re doing heavy networking over a wireless connection, Google Wifi is going to be more than fast enough for everyday workloads. Which is all we can ask for in a router marketed to the average user.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Ahead of the curve**
 
@@ -161,15 +161,15 @@ Lifewire / Rui Yang
 
  The Google Wifi might just be one of the best wireless routers on the market, and it’s hard to think of someone we wouldn’t recommend it to. It’s easy to set up, has stellar performance and reliability, and it looks good to boot. It’s not quite as versatile as some other routers out there, but most users will likely see that as a feature. If you don’t want to fiddle around with an obtuse settings menu, and want something that you can just plug in and be ready to browse, you really can’t go wrong with the Google Wifi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Samsung SmartThings Wifi Mesh Router and Smart Home Hub](https://www.lifewire.com/samsung-smartthings-wifi-router-review-4772283)
 * [Netgear Orbi](https://www.lifewire.com/netgear-orbi-review-4589368)
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -206,24 +206,15 @@ Lifewire / Rui Yang
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-on-recovering-missed-communications-on-phones/"><u>A Comprehensive Tutorial on Recovering Missed Communications on Phones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apples-iphone-12-pro-max-reviewed-does-a-bigger-screen-enhance-your-experience/"><u>Apple's iPhone 12 Pro Max Reviewed: Does a Bigger Screen Enhance Your Experience?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/193231-9780767911528-breaking-open-the-head/"><u>Breaking Open the Head | Free Book</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/crafting-cities-on-mars-an-unpredictable-journey-towards-excitement/"><u>Crafting Cities on Mars - An Unpredictable Journey Towards Excitement</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-variances-how-is-echo-pop-different-from-an-echo-dot/"><u>Decoding the Variances: How Is Echo Pop Different From an Echo Dot?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-c67-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from C67 5G</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-sony-xperia-5-unique-blend-of-portability-and-costliness/"><u>Evaluating the Sony Xperia 5: Unique Blend of Portability & Costliness</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instantize-dynamic-images-in-photoshop-for-2024/"><u>Instantize Dynamic Images in Photoshop for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-without-limits-the-top-10-free-online-video-editors/"><u>New In 2024, Edit Without Limits The Top 10 Free Online Video Editors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-fcp-audio-editing-101-a-beginners-guide-to-better-sound/"><u>New In 2024, FCP Audio Editing 101 A Beginners Guide to Better Sound</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/philips-hf3505-wake-up-light-review-a-basic-clock/"><u>Philips HF3505 Wake-Up Light Review: A Basic Clock</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-ipod-video-format-maker-easily-transform-videos-into-compatible-formats-for-ipod-ipod-touch-and-more/"><u>Professional IPod Video Format Maker - Easily Transform Videos Into Compatible Formats for iPod, iPod Touch & More</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-microsoft-surface-go-an-economical-choice-amidst-its-confusing-purpose/"><u>Reviewing the Microsoft Surface Go: An Economical Choice Amidst Its Confusing Purpose</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/subscribe-to-success-4-indispensable-audible-benefits/"><u>Subscribe to Success: 4 Indispensable Audible Benefits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-evaluating-the-need-for-an-rtx-graphics-processor/"><u>To Upgrade or Not: Evaluating the Need for an RTX Graphics Processor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-soundbar-picks-for-2n4-professional-ratings-and-endorsements-by-tech-experts-zdnet/"><u>Top-Rated Soundbar Picks for 2N4: Professional Ratings & Endorsements by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-magic-a-detailed-evaluation-of-minecrafts-enchanting-campfire-tales-costume-pack/"><u>Unveiling the Magic: A Detailed Evaluation of Minecraft's Enchanting Campfire Tales Costume Pack</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-in-depth-review-of-the-hp-zbook-firefly-15-g8-mobile-workstation/"><u>Unveiling the Potential: In-Depth Review of the HP ZBook Firefly 15 G8 Mobile Workstation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-full-assessment-macs-screenflow-studio-experience-for-2024/"><u>[New] Full Assessment Mac's ScreenFlow Studio Experience for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-science-of-swift-facebook-visuals/"><u>[Updated] 2024 Approved The Science of Swift Facebook Visuals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech-for-2024/"><u>[Updated] Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-reno-10-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo Reno 10 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-webcam-users-guide-for-quality-recordings/"><u>The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-apple-offers-on-prime-day-exclusive-discounts-and-savings/"><u>Top Apple Offers on Prime Day: Exclusive Discounts & Savings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-a-closer-look-at-lensdirect-glasses-combating-harmful-blue-light-and-enhancing-visual-acuity/"><u>Top Pick: A Closer Look at LensDirect Glasses Combating Harmful Blue Light and Enhancing Visual Acuity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-wi-fi-repeaters-for-enhanced-coverage-2024-edition/"><u>Ultimate Selection of Wi-Fi Repeaters for Enhanced Coverage - 2024 Edition</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleashing-viral-potential-a-curated-list-of-tiktok-usernames/"><u>Unleashing Viral Potential A Curated List of TikTok Usernames</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-status-bts-attributes-affordable-yet-imperfect/"><u>Unveiling Status BT's Attributes: Affordable Yet Imperfect</u></a></li>
 </ul></div>
 

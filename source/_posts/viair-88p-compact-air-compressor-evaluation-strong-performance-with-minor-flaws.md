@@ -1,7 +1,7 @@
 ---
 title: "Viair 88P Compact Air Compressor Evaluation: Strong Performance with Minor Flaws"
-date: 2024-09-13T16:27:42.743Z
-updated: 2024-09-20T17:21:52.248Z
+date: 2024-12-24T04:17:14.864Z
+updated: 2024-12-25T12:46:03.863Z
 categories:
   - BestProducts
 description: "This Article Describes Viair 88P Compact Air Compressor Evaluation: Strong Performance with Minor Flaws"
@@ -63,6 +63,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -85,13 +89,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -99,10 +96,7 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
@@ -125,9 +119,17 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
@@ -142,6 +144,10 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -166,5 +172,18 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-make-your-instagram-content-explosive-a-guide-to-virality/"><u>[New] In 2024, Make Your Instagram Content Explosive A Guide to Virality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>[New] Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-activatingdeactivating-windows-10-sound-notifications-a-step-by-step-guide-by-yl-computing/"><u>1. Activating/Deactivating Windows 10 Sound Notifications: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>2024 Approved Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-buyers-checklist-critical-points-for-investing-in-an-used-ipad/"><u>A Buyer's Checklist: Critical Points for Investing in an Used iPad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-performance-in-depth-tp-link-archer-a9-router-evaluation-best-options-below-100/"><u>Affordable Performance: In-Depth TP-Link Archer A9 Router Evaluation - Best Options Below $100</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-your-way-into-animated-gifs-turning-youtube-content-without-downloads/"><u>Binge Your Way Into Animated Gifs Turning YouTube Content Without Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-dcp-l2540dw-ready-in-minutes-windows-installation-tips-inside/"><u>Brother DCP-L2540DW Ready in Minutes - Windows Installation Tips Inside!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723064532010-revolutionize-your-viewing-pleasure-with-the-4k-lg-oled-c9-smart-tv-a-comprehvew-for-enthusiasts/"><u>Revolutionize Your Viewing Pleasure with the 4K LG OLED C9 Smart TV - A Comprehvew for Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722971950922-samsungs-latest-offering-the-innovative-55-ru7300-4k-smart-tv-reviewed/"><u>Samsung's Latest Offering: The Innovative 55 Ru7300 4K Smart TV Reviewed!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transition-into-the-world-of-zoom-meetings-for-your-android-device/"><u>Seamless Transition Into the World of Zoom Meetings for Your Android Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2024-12-12T16:20:57.504Z
-updated: 2024-12-16T17:18:04.806Z
+date: 2024-12-22T09:10:27.929Z
+updated: 2024-12-25T01:48:52.304Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -44,10 +52,6 @@ Lifewire / Emily Isaacs
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -86,29 +90,21 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Connectivity: A wired connection for reliability**
 
@@ -129,7 +125,7 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/9Ei30bgFst4sw8SynCxgEI_b-9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_04-eff22d3b32274568890dd291e56daab5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -147,6 +143,10 @@ Lifewire / Emily Isaacs
  **A great keyboard with microbial protection for office workers.**
 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,19 +175,21 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>[New] 2024 Approved A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>[New] 2024 Approved Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[New] In 2024, How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-optimizing-viewing-experience-video-filters-for-all-screens/"><u>[Updated] 2024 Approved Optimizing Viewing Experience Video Filters for All Screens</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-how-to-subtitling-your-igtv-videos/"><u>[Updated] 2024 Approved The Ultimate How-To Subtitling Your IGTV Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723054202448-discover-superior-tech-with-apples-groundbreaking-m1-202prise-a-must-read-arm-pc-review/"><u>Discover Superior Tech with Apple's Groundbreaking (M1, 202Prise) - A Must-Read ARM PC Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-review-of-lg-bp350-from-screen-brightness-to-audio-output-for-2024/"><u>Full Review of LG BP350 - From Screen Brightness to Audio Output for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 7 Plus Safe and Legal</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quintessential-5-for-elevated-slow-videos/"><u>Quintessential 5 for Elevated Slow Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tablet-showdown-in-depth-look-at-amazon-fire-versus-samsung-devices-for-tech-savvy-shoppers/"><u>Tablet Showdown: In-Depth Look at Amazon Fire Versus Samsung Devices for Tech Savvy Shoppers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-camera-for-travelers-g7x-ii/"><u>The Ultimate Camera for Travelers: G7X II</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-tutorial-on-graphics-card-upgrades-for-gamers-and-professionals/"><u>The Ultimate Tutorial on Graphics Card Upgrades for Gamers and Professionals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-video-games-to-escape-boredom-bliss/"><u>Top 10 Must-Play Video Games to Escape Boredom Bliss</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforme-sua-uniao-em-memoria-eterna-tecnicas-essenciais-para-um-foto-e-video-de-casamento-inesquecivel/"><u>Transforme Sua União Em Memória Eterna - Técnicas Essenciais Para Um Foto E Vídeo De Casamento Inesquecível!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-integrating-b-roll-effectively-without-distraction/"><u>[New] In 2024, Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>[Updated] In 2024, How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-integrating-color-grading-techniques-with-luts/"><u>[Updated] Integrating Color Grading Techniques with Luts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-iphone-12-mini-impressive-features-at-a-smaller-scale/"><u>Comprehensive Analysis of the iPhone 12 Mini - Impressive Features at a Smaller Scale</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-newest-features-in-the-samsung-galaxy-tab-s5e-why-it-stands-out/"><u>Comprehensive Guide to the Newest Features in the Samsung Galaxy Tab S5e - Why It Stands Out</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-watch-active-assessment-your-go-to-companion-for-health-and-fitness/"><u>Comprehensive Samsung Galaxy Watch Active Assessment: Your Go-To Companion for Health and Fitness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-toshiba-55lf711u20-55-fire-tv-edition-guide-a-top-pick-for-prime-subscribers/"><u>Comprehensive Toshiba 55LF711U20 55 Fire TV Edition Guide - A Top Pick for Prime Subscribers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-top-rated-travelers-wireless-internet-devices-of-202n4/"><u>Discover the Top Rated Traveler's Wireless Internet Devices of 202N4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-value-in-the-samsung-galaxy-a2e-thorough-budget-phone-review/"><u>Discovering Value in the Samsung Galaxy A2e: Thorough Budget Phone Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gaming-experience-finding-the-ideal-spot-for-your-ps4-webcam/"><u>Elevate Your Gaming Experience: Finding the Ideal Spot for Your PS4 Webcam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-global-interactions-with-chatgpt-tips-for-non-english-usage/"><u>Exploring Global Interactions with ChatGPT: Tips for Non-English Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/funny-apple-device-gags-best-iphone-and-ipad-pranks-for-good-laughs/"><u>Funny Apple Device Gags: Best iPhone & iPad Pranks for Good Laughs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-two-finger-swipe-navigation-issues-on-your-device-solutions-unveiled/"><u>How to Fix Two-Finger Swipe Navigation Issues on Your Device – Solutions Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-note-spotting-in-win-desktop/"><u>Strategic Note Spotting in Win Desktop</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformer-un-fichier-3gp-au-format-mp4-gratuitement-sur-internet-le-guide-complet-de-movie-edit/"><u>Transformer Un Fichier 3GP Au Format MP4 Gratuitement Sur Internet - Le Guide Complet De Movie Edit</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-when-warframe-fail-to-load/"><u>Troubleshooting Guide - Fixes When Warframe Fail to Load</u></a></li>
 </ul></div>
 

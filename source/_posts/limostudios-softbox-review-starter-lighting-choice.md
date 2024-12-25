@@ -1,7 +1,7 @@
 ---
 title: "LimoStudio's SoftBox Review: Starter Lighting Choice"
-date: 2024-09-16T16:17:26.353Z
-updated: 2024-09-20T16:00:56.847Z
+date: 2024-12-24T10:56:18.744Z
+updated: 2024-12-25T06:29:22.732Z
 categories:
   - BestProducts
 description: "This Article Describes LimoStudio's SoftBox Review: Starter Lighting Choice"
@@ -39,9 +39,17 @@ Lifewire / Andrew Hayward
 
 3.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Halo Bolt Portable Charger/Jump Starter
 
 ![Halo Bolt Portable Charger/Jump Starter](https://www.lifewire.com/thmb/wNeN4Rq5GyM9MuDOzyg5QlRT-U4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-HeroSquare-889ebc2fc6b54573a26c09cabb34bd5c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -77,13 +85,6 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Load it up**
 
  You’ll need to charge the brick to total capacity before using it, and the four green battery lights on the right side of the front face indicate how much capacity is currently left. The battery is fully charged when all four are illuminated when pressing any of the power buttons. Otherwise, for the AC and USB ports, the Halo Bolt is a plug-and-play charger.
@@ -93,13 +94,6 @@ Lifewire / Andrew Hayward
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/mUdXUjWxeupVqNR_y43_eFTC0ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-02-69b93dc934684ef5b71a40215f6162f2.jpg)
 
  Lifewire / Andrew Hayward
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: Not so long-lasting**
 
@@ -117,18 +111,19 @@ Lifewire / Andrew Hayward
 
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/MNFqifirQ0sn61GPO1e-bLQ1t8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-06-8bc3449bd35243aaaf67272c1d3774a6-bc803e0a114b4116adf3078af6a2de00.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: It’s priced right**
 
  For a jack-of-all-trades power brick that can jump-start your car and charge its battery, serve as a bright flashlight for roadside emergencies, and charge a wide array of portable devices, the $100 price seen on Amazon looks pretty reasonable. However, given that it couldn’t charge my laptop to total capacity and lacks a USB-C port, handier, higher-capacity charging bricks are available specifically for laptop and smartphone charging needs.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Halo Bolt ACDC 58830 vs. ZMI PowerPack 20000**
 
@@ -141,6 +136,10 @@ Lifewire / Andrew Hayward
  **Final Verdict: A convenient backup battery and jump starter.**
 
  The Halo Bolt isn’t the best option for charging laptops, but it is a solid all-around device for providing backup power to a broader array of gadgets, not to mention jump-starting a car. This versatile device is smart to have around if you drive a car and are frequently mobile with your portable gadgets. I wouldn’t bring it with me on vacation, but it could prove useful before long as a backup device to keep handy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -166,5 +165,24 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-optimal-options-high-performance-laptops-for-videographers/"><u>[New] 2024 Approved Optimal Options High-Performance Laptops for Videographers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-elite-on-demand-recording-best-action-cams/"><u>[Updated] 2024 Approved Elite On-Demand Recording Best Action Cams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-visualizing-time-the-hyperlapse-filmmakers-guide/"><u>[Updated] In 2024, Visualizing Time The Hyperlapse Filmmaker's Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2019-kindle-oasis-evaluation-the-ultimate-guide-to-a-smooth-paper-felt-read/"><u>2019 Kindle Oasis Evaluation: The Ultimate Guide to a Smooth, Paper-Felt Read</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-life-on-a-macbook-air-the-comprehensive-guide-to-screen-recording/"><u>2024 Approved Capturing Life on a MacBook Air The Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-printer-offline-errors-in-windows-11/"><u>Addressing 'Printer Offline' Errors in Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-8-gen-8-review-an-economical-tablet-that-delivers-on-its-promises-for-the-price-point/"><u>Amazon Fire HD 8 Gen 8 Review: An Economical Tablet that Delivers on Its Promises for the Price Point</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beginners-lighting-setup-studio-kit-aggressive-luxe/"><u>Beginner’s Lighting Setup: Studio Kit Aggressive Luxe</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723034124714-exciting-fortnite-chapter-return-an-engaging-review-of-the-fresh-seasons-thrills/"><u>Exciting Fortnite Chapter Return: An Engaging Review of the Fresh Season's Thrills!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-free-virtual-music-pulse-analyzers/"><u>In 2024, Explore Free, Virtual Music Pulse Analyzers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>In 2024, Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-integration-a-comprehensive-guide-on-using-manycam-with-skype/"><u>Mastering the Integration: A Comprehensive Guide on Using ManyCam with Skype</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-the-garmin-gpsmap-n-series-for-enthusiastic-explorers/"><u>Unveiling the Capabilities of the Garmin GPSMAP N Series for Enthusiastic Explorers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-elegance-of-taotronics-a-comprehensive-review-of-the-tt-dl1nngled-in-style/"><u>Unveiling the Elegance of TaoTronics: A Comprehensive Review of the TT-DL1nngled in Style</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/voice-and-silence-integrated-the-future-in-b550-xt/"><u>Voice & Silence Integrated: The Future in B550-XT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/which-smartphone-wins-comparing-iphones-and-androids-for-ideal-user-satisfaction/"><u>Which Smartphone Wins?: Comparing iPhones and Androids for Ideal User Satisfaction</u></a></li>
+</ul></div>
 

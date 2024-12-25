@@ -1,7 +1,7 @@
 ---
 title: Understanding the Triumph of Nintendo's Wii U
-date: 2024-09-19T17:16:43.939Z
-updated: 2024-09-20T17:08:05.087Z
+date: 2024-12-20T00:50:59.689Z
+updated: 2024-12-25T08:24:34.738Z
 categories:
   - BestProducts
 description: This Article Describes Understanding the Triumph of Nintendo's Wii U
@@ -61,6 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/kCOCce9zsTDx-OBmqpXFPEOfemg=/400x300/fi
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -69,13 +73,14 @@ thumbnail: https://www.lifewire.com/thmb/kCOCce9zsTDx-OBmqpXFPEOfemg=/400x300/fi
 
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Humans have never been so annoying**
@@ -91,6 +96,10 @@ thumbnail: https://www.lifewire.com/thmb/kCOCce9zsTDx-OBmqpXFPEOfemg=/400x300/fi
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -110,13 +119,6 @@ thumbnail: https://www.lifewire.com/thmb/kCOCce9zsTDx-OBmqpXFPEOfemg=/400x300/fi
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
@@ -124,6 +126,10 @@ thumbnail: https://www.lifewire.com/thmb/kCOCce9zsTDx-OBmqpXFPEOfemg=/400x300/fi
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
 
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other city-building games**
 
@@ -162,5 +168,23 @@ thumbnail: https://www.lifewire.com/thmb/kCOCce9zsTDx-OBmqpXFPEOfemg=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-conquering-capture-a-detailed-walkthrough-for-ps4-recordings-for-2024/"><u>[Updated] Conquering Capture A Detailed Walkthrough for PS4 Recordings for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-asus-zephyrus-g14-analysis-the-ultimate-balance-of-power-and-play/"><u>Comprehensive Asus Zephyrus G14 Analysis: The Ultimate Balance of Power and Play</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-kobo-nia-e-reader-assessment-an-impressive-challenger-to-the-amazon-kindle/"><u>Comprehensive Kobo Nia E-Reader Assessment: An Impressive Challenger to the Amazon Kindle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-seatechs-portable-blu-ray-burner-with-usb-connectivity-evaluating-its-reliability-and-writing-speed/"><u>Comprehensive Review of SeaTech's Portable Blu-Ray Burner with USB Connectivity: Evaluating Its Reliability and Writing Speed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ease-of-bouncie-connect-for-your-vehicles-comprehensive-product-analysis/"><u>Discover the Ease of Bouncie Connect for Your Vehicles: Comprehensive Product Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-list-of-cell-boosters-to-upgrade-your-signal/"><u>Discover the Ultimate List of Cell Boosters to Upgrade Your Signal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/effective-tips-and-tricks-to-optimize-blog-income-with-buyselladscom/"><u>Effective Tips and Tricks to Optimize Blog Income with BuySellAds.com</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-elements-you-need-to-know-before-investing-in-a-new-print-device/"><u>Essential Elements You Need To Know Before Investing in A New Print Device</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-windows-11-app-accessibility/"><u>Fast-Track to Windows 11 App Accessibility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x-for-2024/"><u>New Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/professionelle-methoden-zur-wiederbelebung-einer-defekten-datentrageroberflache-ein-leitfaden-fur-nutzer/"><u>Professionelle Methoden Zur Wiederbelebung Einer Defekten Datenträgeroberfläche: Ein Leitfaden Für Nutzer</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-video-games-with-efficient-streaming-technology/"><u>Revolutionizing Video Games with Efficient Streaming Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unsupported-device-or-driver-error-for-better-monitor-connectivity/"><u>Solving the 'Unsupported Device or Driver' Error for Better Monitor Connectivity</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-lamicall-s-tablet-stand-a-synergy-of-style-and-functionality/"><u>Unveiling Lamicall S Tablet Stand: A Synergy of Style and Functionality</u></a></li>
+</ul></div>
 

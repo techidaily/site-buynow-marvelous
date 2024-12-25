@@ -1,7 +1,7 @@
 ---
 title: TP-Link Archer C80 - The Top Choice for Fast Connectivity Under $100
-date: 2024-09-19T17:14:01.729Z
-updated: 2024-09-20T17:24:02.280Z
+date: 2024-12-17T16:51:13.405Z
+updated: 2024-12-25T11:45:00.261Z
 categories:
   - BestProducts
 description: This Article Describes TP-Link Archer C80 - The Top Choice for Fast Connectivity Under $100
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/hnfn1HKm08TJxpBixlaHeqOfiug=/400x300/fi
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/hTth7_RTT4bEi0nhlZj7rPvMYL0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -68,6 +72,10 @@ Lifewire / Jeremy Laukkonen
 
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
@@ -94,20 +102,11 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2zSHbpT2Rq4Ac-0-u73213g1rlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_02-8fd53e1cd8284fd4a40091d7896fe8db.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
@@ -134,10 +133,7 @@ Lifewire / Jeremy Laukkonen
  You may end up needing a Wi-Fi range extender with the Archer A6 even if your house isn’t that large.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: Basic and easy to use**
@@ -156,19 +152,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Good price for the features**
 
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
@@ -186,6 +169,10 @@ Lifewire / Jeremy Laukkonen
  **A great budget router that provides premium features.**
 
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -221,5 +208,26 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-nocostcam-the-infinite-gaming-screen-record-tool-for-2024/"><u>[Updated] NoCostCam The Infinite Gaming Screen Record Tool for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-price-for-peak-performance-evaluating-the-fitbit-versa-lites-features-and-value/"><u>Best Price for Peak Performance: Evaluating the Fitbit Versa Lite's Features and Value</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boses-best-kept-secret-the-qc35-ii-review-unveiled/"><u>Bose's Best-Kept Secret: The QC35 II Review Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bringing-back-objectdock-for-windows-11-embrace-the-ease-of-macs-interface/"><u>Bringing Back ObjectDock for Windows 11 - Embrace the Ease of Mac's Interface!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-pairing-how-to-link-your-airpods-with-an-hp-computer/"><u>Effortless Pairing: How to Link Your AirPods with an HP Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12t-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12T Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restored-normalcy-working-keyboard-in-windows-11/"><u>Restored Normalcy: Working Keyboard in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-strategies-for-addressing-sim-card-provisioning-issue-mmi-mm2-errors/"><u>Step-by-Step Strategies for Addressing SIM Card Provisioning Issue MMI (MM2) Errors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2cuity-2000-reviewed-speedy-wireless-alternative-that-could-use-a-makeover/"><u>TP-Link AV2cuity 2000 Reviewed: Speedy Wireless Alternative that Could Use a Makeover</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-6-premier-online-vendors-for-premium-tvs/"><u>Ultimate Selection: 6 Premier Online Vendors for Premium TVs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-apple-discounts-during-amazons-prime-day-event/"><u>Unbeatable Apple Discounts During Amazon's Prime Day Event</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-moto-g-play-impressive-battery-capacity-combined-with-reliable-performance/"><u>Unboxing the Moto G Play - Impressive Battery Capacity Combined with Reliable Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-new-features-with-macos-ventura-update-guide/"><u>Unlocking New Features with MacOS Ventura Update Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-hardware-issues-how-can-they-be-repaired-tips-by-yl-computing-and-software-experts/"><u>Windows Hardware Issues: How Can They Be Repaired? Tips by YL Computing & Software Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wonder-workshop-dash-unveiled-introducing-a-cutting-edge-and-interactive-connected-toy-for-kids/"><u>Wonder Workshop Dash Unveiled: Introducing a Cutting-Edge and Interactive Connected Toy for Kids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/your-simple-route-to-youtubes-srt-extraction-for-2024/"><u>Your Simple Route to YouTube's SRT Extraction for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/z-edges-cost-effective-z3plus-cam-in-depth-performance-insights/"><u>Z-Edge's Cost-Effective Z3+ Cam: In-Depth Performance Insights</u></a></li>
+</ul></div>
 

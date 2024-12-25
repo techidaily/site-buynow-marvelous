@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
-date: 2024-12-10T16:10:14.724Z
-updated: 2024-12-16T16:06:19.197Z
+date: 2024-12-19T21:20:06.025Z
+updated: 2024-12-25T08:53:46.766Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
@@ -12,10 +12,6 @@ thumbnail: https://www.lifewire.com/thmb/4bBbqBZ05L8nvz9vJyuBsEucnSc=/400x300/fi
 ## Unveiling the Performance of the Netgear C3700 - More Than Just a Modem
 
 3.4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
@@ -40,10 +36,6 @@ Lifewire / Bill Thomas
 [View On Amazon $25](https://www.amazon.com/dp/B00IF0JAYE/?tag=lifewire-onsite-prod-20&ascsubtag=4686094%7Cn04462eaac973429b8b417ec47f0b261514%7CB00IF0JAYE) [View On Walmart $76](https://www.walmart.com/ip/NETGEAR-N600-8x4-WiFi-Cable-Modem-Router-Combo-C3700-DOCSIS-3-0-Certified-for-XFINITY-by-Comcast-Spectrum-Cox-and-more-C3700-100NAS/36009477) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-dual-band-n600-router-with-8-x-4-docsis-3-0-cable-modem-black%2F3707003.p%3Fcmp%3DRMX%26skuId%3D3707003)
 
 3.4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Netgear C3700 Cable Modem Router
 
@@ -81,6 +73,10 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
@@ -88,6 +84,10 @@ Lifewire / Bill Thomas
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -109,6 +109,10 @@ Lifewire / Bill Thomas
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -120,10 +124,14 @@ Lifewire / Bill Thomas
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: No frills
 
@@ -135,19 +143,11 @@ Lifewire / Bill Thomas
 
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price: It pays for itself
 
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
@@ -159,7 +159,7 @@ Lifewire / Bill Thomas
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -202,24 +202,24 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[New] From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>[New] The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[Updated] 2024 Approved How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-chroma-key-techniques-for-professional-videos/"><u>[Updated] In 2024, Mastering Chroma Key Techniques for Professional Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>[Updated] In 2024, Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-essentials-tablet-holder-evaluation-compact-and-convenient-carrying/"><u>Amazon Essentials Tablet Holder Evaluation: Compact & Convenient Carrying</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creative-world-strikes-back-why-artists-including-sarah-silverman-sue-openai-and-meta-over-advanced-algorithms/"><u>Creative World Strikes Back: Why Artists Including Sarah Silverman Sue OpenAI and Meta Over Advanced Algorithms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-a-comprehensive-review-of-google-voice-communication/"><u>Expert Analysis: A Comprehensive Review of Google Voice Communication</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-power-and-price-advantages-of-ibuypower-custom-pc-builds-for-gamers/"><u>In-Depth Look at the Power and Price Advantages of iBuyPower Custom PC Builds for Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-tp-links-archer-ax60n-the-new-champion-how-it-stacks-up-against-the-reputed-nighthawk-ax12/"><u>Is TP-Link's Archer AX60n the New Champion? How It Stacks Up Against the Reputed Nighthawk AX12</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-14-review/"><u>Lenovo Ideapad 14 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-vr-with-the-oculus-quest-2-elite-comfort-strap-in-depth-look-at-added-convenience-features-including-battery-and-case/"><u>Maximize Your VR with the Oculus Quest 2 Elite Comfort Strap - In-Depth Look at Added Convenience Features Including Battery & Case</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-subtitle-edit-alternatives-for-mac-users-for-2024/"><u>New The Ultimate List of Subtitle Edit Alternatives for Mac Users for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-upgrading-your-bluetooth-usb-drivers-on-windows-devices/"><u>Step-by-Step Tutorial: Upgrading Your Bluetooth USB Drivers on Windows Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-amazing-world-of-the-fire-tv-cube-by-amazon-a-breakneck-media-player-experience/"><u>The Amazing World of the Fire TV Cube by Amazon – A Breakneck Media Player Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-compact-master-speedy-flash-get-yn560iv-now-at-a-deal/"><u>The Compact Master Speedy Flash - Get YN560IV Now at a Deal</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-spark-10-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Spark 10 5G Phones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-review-of-the-acer-chromebook-15-powerful-chrome-os-on-an-expansive-monitor/"><u>Top Review of the Acer Chromebook 15: Powerful Chrome OS on an Expansive Monitor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-the-art-of-perfect-selfies-with-professional-lighting/"><u>Ultimate Guide: Mastering the Art of Perfect Selfies with Professional Lighting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-writing-that-grabs-and-grips-podcast-description-tactics/"><u>[New] Writing That Grabs and Grips Podcast Description Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecting-motion-capture-in-a-canon-lens/"><u>[Updated] 2024 Approved Perfecting Motion Capture in a Canon Lens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-profit-proliferation-through-effective-youtube-short-video-creation/"><u>[Updated] 2024 Approved Profit Proliferation Through Effective YouTube Short Video Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-how-to-change-video-speed-on-instagram-stories/"><u>[Updated] How to Change Video Speed on Instagram Stories?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-look-at-what-sets-ipad-pro-apart-from-macbook-pro/"><u>A Comprehensive Look at What Sets iPad Pro Apart From MacBook Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-durable-expert-analysis-of-omotei-t1-tablet-desk-support/"><u>Affordable and Durable: Expert Analysis of Omotei T1 Tablet Desk Support</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-fast-ev-charge-stations-why-experts-say-powerdrive-tops-every-list-for-cost-effective-solutions/"><u>Affordable and Fast EV Charge Stations - Why Experts Say PowerDrive Tops Every List for Cost-Effective Solutions!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/at-127-by-antop-the-perfect-blend-of-style-and-performance-for-hassle-free-tv/"><u>AT-127 by Antop: The Perfect Blend of Style & Performance for Hassle-Free TV</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-xr21-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia XR21 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/masterchef-madness-unveiling-our-review-for-the-sequel-overcooked-2/"><u>MasterChef Madness: Unveiling Our Review for the Sequel, Overcooked! 2</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcome-crashing-woes-starting-division-2-smoothly-with-new-strategies-2024-insights/"><u>Overcome Crashing Woes: Starting Division 2 Smoothly with New Strategies (2024 Insights)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-web-development-online-courses/"><u>The Ultimate Selection of Web Development Online Courses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-unihertx-atom-xl-a-tiny-rugged-phone-that-delivers-impressive-power/"><u>The Unihertx Atom XL - A Tiny, Rugged Phone that Delivers Impressive Power</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-galaxy-s21-fe-5g-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung Galaxy S21 FE 5G (2023) without backup.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-internet-gadgets-for-travellers-in-2ebyte-2024/"><u>Top-Rated Wireless Internet Gadgets for Travellers in 2Ebyte 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-features-of-the-zee-edge-z3plus-affordable-intuitive-dash-cam-unveiled/"><u>Unpacking the Features of the Zee Edge Z3+ - Affordable, Intuitive Dash Cam Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-oneplus-nord-n10-5g-a-budget-marvel-you-cant-overlook/"><u>Unveiling the OnePlus Nord N10 5G: A Budget Marvel You Can't Overlook</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-scroll-bar-jumps-to-top-when-scrolling-solved/"><u>Windows 10 File Explorer - Scroll Bar Jumps to Top when Scrolling [Solved]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/zoom-in-how-to-sequentially-play-youtube-videos-for-free-for-2024/"><u>Zoom In How to Sequentially Play YouTube Videos for Free for 2024</u></a></li>
 </ul></div>
 

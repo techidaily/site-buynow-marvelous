@@ -1,7 +1,7 @@
 ---
 title: The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package
-date: 2024-12-13T16:49:10.414Z
-updated: 2024-12-16T17:04:25.446Z
+date: 2024-12-18T08:56:38.929Z
+updated: 2024-12-24T22:31:35.045Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  THE400 Mini
@@ -69,6 +73,10 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 [$113 at Amazon](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) [Atari](https://atari.com/collections/atari-400-mini-collection) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Model Plug-and-Play** 
 
 ![THE400 Mini by a TV with hands holding the joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-by-a-tv-with-hands-holding-the-joystick.jpg) 
@@ -105,17 +113,9 @@ The rear of THE400 Mini.
 
  On the rear of THE400 Mini is a USB-A port, HDMI port, USB-C port, and power button. On the front are four additional USB-A ports. The five USB-A ports support additional controllers, memory sticks, and keyboards. Most games only support one or two players, but one of the games, "M.U.L.E.," supports up to four players at once.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Interface and Software: Retro, but Modern** 
 
 ![THE400 Mini Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-joystick.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -133,16 +133,12 @@ Close
 
  THE400 Mini supports FAT32-formatted USB sticks, although I did have to try a few different brands to find one that was properly recognized. When inserting a compatible blank USB stick, a version of the [BASIC programming language](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20BASIC) is installed. Similarly, THE400 Mini didn't like my wireless Logitech K400r keyboard but had no issues with a wired [Razer BlackWidow V3 Pro](https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B08FQPLCNC/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority). Not every key on a modern keyboard maps correctly to the Atari 8-bit keyboard layout, but using the legend on the Mini can provide some clues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Games and Gameplay: Past Blasts** 
 
 ![THE400 Mini Front with USB-A ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-front.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
@@ -181,6 +177,10 @@ Close
 
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  THE400 Mini
 
 7/ 10 
@@ -206,20 +206,22 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-change-screenshot-file-formats-on-a-mac/"><u>[Updated] 2024 Approved How to Change Screenshot File Formats on a Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-roblox-recording-best-practices-on-a-mac/"><u>[Updated] 2024 Approved Mastering Roblox Recording Best Practices on a Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-10-android-mobas-essential-players-list/"><u>[Updated] In 2024, Top 10 Android MOBAs Essential Players' List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sony-a6400-the-unseen-movie-problem/"><u>2024 Approved Sony A6400 The Unseen Movie Problem</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-google-pixel-8-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Google Pixel 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-dell-wi-fiethernet-drivers-for-optimal-performance-in-windows-7/"><u>Get the Newest Dell Wi-Fi/Ethernet Drivers for Optimal Performance in Windows 7</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-screen-recording-software-list-for-vloggers/"><u>In 2024, Essential Screen Recording Software List for Vloggers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-your-options-an-experts-walkthrough-on-picking-a-school-ready-computer/"><u>Navigating Your Options: An Expert's Walkthrough on Picking a School-Ready Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/siriusxm-all-access-bring-back-memories-from-old-school-fm-radio-days/"><u>SiriusXM All Access: Bring Back Memories From Old-School FM Radio Days!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/solving-stick-drift-issues-a-comprehensive-guide-for-steam-deck-gamers/"><u>Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/start-your-fitness-journey-with-fun-why-nintendo-consoles-are-ideal-for-exercise-novices/"><u>Start Your Fitness Journey with Fun: Why Nintendo Consoles Are Ideal for Exercise Novices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stream-in-style-deciding-between-disneyplus-and-netflix-for-your-entertainment-needs/"><u>Stream in Style: Deciding Between Disney+ and Netflix for Your Entertainment Needs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/streamline-your-storytelling-spotifys-new-affordable-audiobook-subscription-at-just-999/"><u>Streamline Your Storytelling: Spotify's New Affordable Audiobook Subscription at Just $9.99!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-streaming-sticks-unveiling-the-distinctions-between-sling-orange-and-sling-blue-with-premium-add-ons/"><u>The Battle of Streaming Sticks: Unveiling the Distinctions Between Sling Orange & Sling Blue with Premium Add-Ons</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-video-game-discounts-of-october-2024-exclusive-sneak-peek-on-zdnet/"><u>Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek on ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unwind-youtube-videos-advanced-retrospectives/"><u>[Updated] Unwind YouTube Videos Advanced Retrospectives</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos-for-2024/"><u>Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-lensdirects-prescription-eyeglasses-effectively-neutralizing-blue-light/"><u>Comprehensive Review of LensDirect's Prescription Eyeglasses: Effectively Neutralizing Blue Light</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-vyncs-analytics-platform-an-evaluation-of-its-solid-core-with-intricate-subscription-tiers/"><u>Decoding VyNCs Analytics Platform – An Evaluation of Its Solid Core with Intricate Subscription Tiers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-wide-angles-to-long-distances-powershot-sx70-hs/"><u>Exploring Wide Angles to Long Distances: PowerShot SX70 HS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pros-finest-10-iconic-films-for-2024/"><u>Final Cut Pros Finest 10 Iconic Films for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-honor-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Honor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco X5 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/incoming-call-trouble-heres-how-to-fix-it-on-iphone/"><u>Incoming Call Trouble? Here's How to Fix It on iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-sony-xbr65x850f-65-tv-is-it-worth-its-value-for-money/"><u>Inside the Sony XBR65X850F 65 TV - Is It Worth Its Value for Money?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-modifying-network-settings-via-control-panel-yl-software/"><u>Step-by-Step Guide: Modifying Network Settings via Control Panel - YL Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-ears-for-your-life-2024s-wireless-hits/"><u>The Best Ears for Your Life - 2024'S Wireless Hits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-enhanced-canon-eos-t7-camera-in-focus/"><u>The Enhanced Canon EOS T7 Camera in Focus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-new-era-with-samsung-galaxy-s21-simplified-yet-refined-features-revealed/"><u>The New Era with Samsung Galaxy S21 - Simplified Yet Refined Features Revealed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-sunrise-alarm-for-optimal-rest-reviews-of-heimvisions-advanced-series-a80s-model/"><u>The Ultimate Guide to Choosing a Sunrise Alarm for Optimal Rest: Reviews of HeimVision's Advanced Series A80S Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-gaming-displays-why-asus-vg245h-rules-them-all/"><u>The Ultimate Guide to Gaming Displays: Why Asus VG245H Rules Them All</u></a></li>
 </ul></div>
 

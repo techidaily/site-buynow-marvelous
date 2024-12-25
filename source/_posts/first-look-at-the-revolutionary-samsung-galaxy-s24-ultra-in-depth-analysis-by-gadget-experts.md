@@ -1,7 +1,7 @@
 ---
 title: First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
-date: 2024-12-09T17:58:39.259Z
-updated: 2024-12-16T17:09:12.406Z
+date: 2024-12-24T04:04:18.046Z
+updated: 2024-12-24T19:08:22.313Z
 categories:
   - BestProducts
 description: This Article Describes First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/EJl3EcpC1pj4FEXukKPZt82BlKk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -67,10 +75,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -79,21 +83,17 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Comfort: You’ll forget you’re wearing it**
 
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -115,6 +115,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -127,6 +131,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery: May last a full seven days**
 
  The battery is supposed to last for up to seven days, but the battery life depends largely on the features you use and how frequently you use the tracker. If you’re only passively tracking a few metrics, your battery might last a full week. If you’re constantly checking your heart rate, pulse ox, stress levels, sleep, and counting reps several times a day, your battery will not last that long. I got three and a half days of battery life when taking full advantage of the fitness tracker’s features.
@@ -137,10 +145,6 @@ Lifewire / Erika Rawes
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
  I found the Garmin Vivosmart 4 much more comfortable than the Fitbit Charge 3\. I also like the body battery and stress monitoring features in the Vivosmart 4\. On the other hand, the[Fitbit Charge 3](https://www.lifewire.com/fitbit-charge-3-review-5072527) has a more accurate heart monitor (according to testing). The Fitbit Charge 3 (view on[Amazon](https://www.amazon.com/dp/B07FTN21JL/?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7C) ) also offers a ton of workouts in its Fitbit app, and slightly more seamless activity tracking for weight training and high-intensity workouts. If you want a day-to-day fitness tracker to track your sleep, stress, and energy levels, the Vivosmart 4 is a great option. If you want a larger screen and easy tracking for activities like weight training and cycling, you may prefer the Fitbit Charge 3.
@@ -150,10 +154,6 @@ Lifewire / Erika Rawes
 **A comfortable band with unique perks.**
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -195,17 +195,17 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-solutions-for-non-deliverable-facebook-messenger-videos-on-androidios/"><u>[Updated] 2024 Approved Solutions for Non-Deliverable Facebook Messenger Videos on Android/iOS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[Updated] Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>2024 Approved Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/auto-play-youtube-keep-it-hidden-stay-connected/"><u>Auto-Play YouTube - Keep It Hidden, Stay Connected</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-fraud-top-7-red-flags-indicating-an-e-commerce-vendor-may-be-deceiving-you/"><u>Detecting Fraud: Top 7 Red Flags Indicating an E-Commerce Vendor May Be Deceiving You</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-superior-select-ringtone-makers-guidebook/"><u>In 2024, Superior Select Ringtone Makers' Guidebook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-unveiling-the-charming-aesthetics-of-minecrafts-campfire-tales-costume-collection/"><u>Inside Look: Unveiling the Charming Aesthetics of Minecraft’s Campfire Tales Costume Collection</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/next-gen-car-route-meters-top-picks-of-2024/"><u>Next-Gen Car Route Meters: Top Picks of 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/preserve-your-whatsapp-images-flawlessly-top-3-methods-for-saving-photos-across-ios-and-android-without-quality-compromise/"><u>Preserve Your WhatsApp Images Flawlessly: Top 3 Methods for Saving Photos Across iOS & Android Without Quality Compromise</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722963391695-ultimate-guide-to-the-netgear-nighthawk-x10-ad7200-experience-lightning-quick-internet-with-our-in-depth-review/"><u>Ultimate Guide to the Netgear Nighthawk X10 (AD7200) - Experience Lightning Quick Internet with Our In-Depth Review!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleashing-creativity-and-learning-through-play-the-ultimate-review-of-wonder-workshop-dash-toys/"><u>Unleashing Creativity & Learning Through Play: The Ultimate Review of Wonder Workshop Dash Toys</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-master-guide-implementing-chapters-in-vimeo/"><u>[New] 2024 Approved Master Guide Implementing Chapters in Vimeo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/build-your-metropolis-addiction-unraveling-the-appeal-of-cities-skylines-gameplay/"><u>Build Your Metropolis Addiction – Unraveling the Appeal of Cities: Skylines' Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/byb-e430-led-light-fixture-assessment-expert-insight-on-high-quality-swing-arm-design/"><u>BYB E430 LED Light Fixture Assessment: Expert Insight on High-Quality Swing Arm Design</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-and-overview-of-aphacas-bt69-the-leading-choice-for-bluetooth-enabled-car-radio-upgrades/"><u>Comprehensive Analysis and Overview of Aphaca's BT69 - The Leading Choice for Bluetooth-Enabled Car Radio Upgrades</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x12-detachable-a-fantastic-hybrid-with-an-excellent-keyboard/"><u>Comprehensive Review of the Lenovo ThinkPad X12 Detachable: A Fantastic Hybrid with an Excellent Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-the-motorola-mg7700-swift-and-steady-connectivity/"><u>Comprehensive Test of the Motorola MG#7700 - Swift and Steady Connectivity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-note-30-vip-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix Note 30 VIP)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-complete-pc-refresh-with-windows-11-restore/"><u>Step-by-Step Guide: Complete PC Refresh with Windows 11 Restore</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
 

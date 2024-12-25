@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
-date: 2024-12-13T17:37:34.574Z
-updated: 2024-12-16T16:33:59.996Z
+date: 2024-12-18T08:34:10.263Z
+updated: 2024-12-25T07:25:02.442Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 ## Cutting the Cord: A Comprehensive Review of the Amazon Basics Flat Antenna for Free TV Enthusiasts
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AmazonBasics Ultra-Thin Antenna
 
@@ -37,17 +41,9 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -70,10 +66,6 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -81,6 +73,10 @@ Lifewire / Erika Rawes
  It doesn’t come with a stand, but it does include 3M double-sided adhesives you can use to attach the antenna to walls or other surfaces. It also comes with a 10-foot long coax cable, which is removable. The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup: Relatively easy**
 
@@ -92,6 +88,10 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Performance: Almost two dozen channels (in a rural area)**
@@ -102,10 +102,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Range: 35 miles**
 
  The AmazonBasics antenna has a 35-mile range, which isn’t very far considering 50 plus miles is becoming more common. It is omnidirectional, however, so you don’t need to point it in a specific direction. It supports UHF/VHF, so I was able to get a decent selection of channels.
@@ -114,17 +110,21 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
@@ -167,19 +167,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-a-beginners-path-to-creating-engaging-fb-covers/"><u>[New] 2024 Approved A Beginner’s Path to Creating Engaging FB Covers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-prime-visual-backdrops-for-efficient-collaboration/"><u>[New] Prime Visual Backdrops for Efficient Collaboration</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/examining-the-balance-of-power-in-sx620-hs/"><u>Examining the Balance of Power in SX620 HS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-advice-retaining-visual-snapshots-while-editing-word-documents-online/"><u>Expert Advice: Retaining Visual Snapshots While Editing Word Documents Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-blur-it-out-free-iphones-tips-for-crisp-image-edits/"><u>In 2024, Blur It Out Free iPhones Tips for Crisp Image Edits</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-8-plus-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 8 Plus Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenloos-omheen-nef-fotos-in-instantie-bmp-met-movavi-konvertor-online/"><u>Kostenloos Omheen: NEF-Foto's in Instantie BMP Met Movavi Konvertor Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-chromebook-duet-assessment-affordable-hybrid-tablet-and-laptop-combination/"><u>Lenovo Chromebook Duet Assessment: Affordable Hybrid Tablet & Laptop Combination</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essential-guide-to-understanding-the-apple-iphone-se-2020-a-mid-range-marvel/"><u>The Essential Guide to Understanding the Apple iPhone SE (2020): A Mid-Range Marvel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-ranking-top-iphone-apps-for-transferring-the-latest-dvd-content/"><u>Ultimate Ranking: Top iPhone Apps for Transferring the Latest DVD Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-manipulating-windows-files-creation-timestamps/"><u>Understanding & Manipulating Windows Files' Creation Timestamps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-caixun-a-cost-effective-dive-into-its-75-4k-android-tv-capabilities/"><u>Unveiling the Caixun: A Cost-Effective Dive Into Its 75 4K Android TV Capabilities</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[Updated] Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-gaming-experience-nintendo-switch-and-steam-synergy/"><u>[Updated] Elevate Your Gaming Experience Nintendo Switch and Steam Synergy</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-unfollow-detection-for-2024/"><u>[Updated] Mastering Instagram Unfollow Detection for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-resisting-insta-imposters-protect-your-profiles-prestige-for-2024/"><u>[Updated] Resisting Insta Imposters Protect Your Profile's Prestige for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-mac-screen-clips-roundup-under-156-chars/"><u>Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-luxury-levels-screen-brightness-on-android/"><u>In 2024, Luxury Levels Screen Brightness on Android</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-multifunctionality-with-hp-chromebook-11-a-top-pick-for-students-professionals-and-gamers/"><u>Mastering Multifunctionality with HP Chromebook 11 - A Top Pick for Students, Professionals, & Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/owc-mercury-pro-unleashed-a-top-titan-for-superior-drive-performance-and-capacity/"><u>OWC Mercury Pro Unleashed: A Top Titan for Superior Drive Performance and Capacity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/paramount-factors-for-pre-used-tech-acquisition/"><u>Paramount Factors for Pre-Used Tech Acquisition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portable-prowess-a-closer-review-of-the-razer-book-13-features/"><u>Portable Prowess: A Closer Review of The Razer Book 13 Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ring-vs-nest-detailed-comparison-for-your-smart-home-security-choice/"><u>Ring vs Nest: Detailed Comparison for Your Smart Home Security Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-cat-s42-durable-device-evaluation-robust-shield-vs-limited-velocity/"><u>Samsung Cat S42 Durable Device Evaluation: Robust Shield vs Limited Velocity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-leading-edge-of-smartphone-ai-our-top-8-apps-review/"><u>The Leading Edge of Smartphone AI: Our Top 8 Apps Review</u></a></li>
 </ul></div>
 

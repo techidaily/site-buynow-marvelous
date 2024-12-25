@@ -1,7 +1,7 @@
 ---
 title: "The ZTE Blade A3Y Breakdown: Is Competent Performance Justifiable for Its Price?"
-date: 2024-09-16T16:57:59.215Z
-updated: 2024-09-20T17:29:03.186Z
+date: 2024-12-18T02:08:59.652Z
+updated: 2024-12-25T00:21:08.454Z
 categories:
   - BestProducts
 description: "This Article Describes The ZTE Blade A3Y Breakdown: Is Competent Performance Justifiable for Its Price?"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -36,6 +40,10 @@ Lifewire / Jonno Hill
 [View On Amazon](https://www.amazon.com/Mohu-Television-Paper-thin-Performance-MH-110598/dp/B00HSMK580/?tag=lifewire-onsite-prod-20&ascsubtag=4843108%7Cnc1d14f8f39df4c2dac4b8d8ca33f9ac217%7CB00HSMK580) [View On Walmart $48](https://www.walmart.com/ip/Mohu-Leaf-30-Flat-30-Mile-Indoor-HDTV-Antenna/36126033) [View On Home Depot $41](https://www.homedepot.com/p/Mohu-Leaf-30-HDTV-Indoor-Antenna-MH-110583/205146429?slfpid=3)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mohu Leaf 30
 
@@ -80,22 +88,23 @@ Lifewire / Jonno Hill
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Fairly limited**
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Excellent for the performance**
 
  The Mohu Leaf 30 TV Antenna has a 90-day rolling average price of $29 on Amazon, which puts it on the more affordable end of the spectrum. The price definitely feels appropriate for the performance and feature set, but it’s not an all-out bargain.
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
@@ -107,10 +116,7 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -138,5 +144,22 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-comparing-videography-power-in-prohero-and-keymission/"><u>[Updated] Comparing Videography Power in ProHero and Keymission</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>[Updated] Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/customizing-facebook-memories-with-look-back-edits/"><u>Customizing Facebook Memories with Look Back Edits</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/einfache-methode-zum-schutz-von-frei-zuganglichen-dateien-im-netzwerk-auf-windows-10/"><u>Einfache Methode Zum Schutz Von Frei Zugänglichen Dateien Im Netzwerk Auf Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/explore-the-ultimate-selection-of-transition-apps/"><u>Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-itunes-movies-that-wont-stream-uncommon-solutions-everyone-should-try/"><u>How To Fix iTunes Movies That Won’t Stream: Uncommon Solutions Everyone Should Try</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-tech-choices-top-15-4k-cameras/"><u>In 2024, Premium Tech Choices Top 15 4K Cameras</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-depth-analysis-of-best-practices-in-valheim-agriculture-for-2024/"><u>In-Depth Analysis of Best Practices in Valheim Agriculture for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-stanley-j5c09-big-in-size-efficient-in-performance/"><u>Review of Stanley J5C09: Big in Size, Efficient in Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalizing-your-laptop-a-cpu-upgrade-exploration/"><u>Revitalizing Your Laptop: A CPU Upgrade Exploration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-in-one-wearable-in-depth-review-of-fitbit-versa-2s-health-and-smart-integrations/"><u>The All-in-One Wearable: In-Depth Review of Fitbit Versa 2'S Health & Smart Integrations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ambient-ws-2902a-osprey-weather-station-an-economical-powerhouse-brimming-with-features/"><u>The Ambient WS-2902A Osprey Weather Station: An Economical Powerhouse Brimming With Features!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-aukey-usb-30-hub-unveiled-sleek-functional-and-superior-transfer-speeds-reviewed/"><u>The Aukey USB 3.0 Hub Unveiled: Sleek, Functional, and Superior Transfer Speeds Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-effective-digital-classrooms-for-aspiring-developers/"><u>The Most Effective Digital Classrooms for Aspiring Developers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo Dot (Gen 4) Reviewed: Seeing How the New Look Enhances User Experience"
-date: 2024-09-14T16:48:29.982Z
-updated: 2024-09-20T17:29:09.785Z
+date: 2024-12-18T04:39:30.344Z
+updated: 2024-12-25T00:32:46.526Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo Dot (Gen 4) Reviewed: Seeing How the New Look Enhances User Experience"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/dc7051df6e843885a76d4b1888c76803cc85597e1
 ## Experience Speed with the TP-Link Archer C80 - The Budget Wireless Router Reviewed
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
@@ -63,6 +67,10 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -87,13 +95,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -102,6 +103,10 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Range: Even better than advertised**
@@ -109,6 +114,10 @@ Lifewire / Erika Rawes
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
 
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
 
@@ -120,18 +129,15 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -142,13 +148,6 @@ Lifewire / Erika Rawes
 **Fast speeds and an exceptionally long range.**
 
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -183,5 +182,22 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-navigate-web-with-ease-using-edges-split-screen-feature/"><u>[New] Navigate Web with Ease Using Edge's Split Screen Feature</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-achieve-perfect-views-with-aspect-ratio-knowledge-on-youtube/"><u>2024 Approved Achieve Perfect Views with Aspect Ratio Knowledge on YOUTUBE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-dji-phantom-4-in-action/"><u>2024 Approved In Depth Review DJI Phantom 4 in Action</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>2024 Approved The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-key-locator-tech-a-buyers-best-friend/"><u>2024'S Top Key Locator Tech: A Buyer’s Best Friend</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/7-key-advantages-of-subscribing-to-youtube-premium/"><u>7 Key Advantages of Subscribing to YouTube Premium</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-to-stop-windows-10-blue-screens/"><u>Essential Fixes to Stop Windows 10 Blue Screens</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-sony-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Sony?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722847193349-step-by-step-home-sound-solutions-a-newbies-comprehensive-handbook/"><u>Step-by-Step Home Sound Solutions: A Newbie’s Comprehensive Handbook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-reviews-for-affordable-1byone-amplified-tv-antennas-your-ultimate-budget-solution/"><u>Top-Ranking Reviews for Affordable 1byOne Amplified TV Antennas: Your Ultimate Budget Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-power-with-the-dazzling-flash-of-430ex-iii-rt-review/"><u>Unleash Power with the Dazzling Flash of 430EX III-RT Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-fire-breathing-fun-in-depth-analysis-of-the-spyro-remake-series/"><u>Unleashing Fire-Breathing Fun: In-Depth Analysis of the Spyro Remake Series</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-exclusive-fun-the-cream-of-the-crop-google-play-passs-top-games/"><u>Unlocking Exclusive Fun: The Cream of the Crop, Google Play Pass's Top ^Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-of-jabra-talk-45-top-tier-audio-endurance-battery/"><u>Unveiling the Secrets of Jabra Talk 45 - Top-Tier Audio, Endurance Battery</u></a></li>
+</ul></div>
 

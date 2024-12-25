@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls
-date: 2024-12-13T18:04:47.136Z
-updated: 2024-12-16T16:39:59.184Z
+date: 2024-12-20T06:11:25.214Z
+updated: 2024-12-25T11:17:49.356Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/mlMfq3LY6U9MMmuHzfInRozyIfg=/400x300/fi
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -40,10 +36,6 @@ Lifewire / Jonno Hill
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
 
 4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HP Omen Obelisk
 
@@ -80,7 +72,7 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
@@ -105,7 +97,15 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance** :**Great components for gaming and productivity**
 
@@ -114,6 +114,10 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -131,15 +135,15 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -151,6 +155,10 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -160,10 +168,6 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -176,10 +180,6 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -215,15 +215,19 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-3d-text-illustration-in-adobe-illustrator/"><u>[New] Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-path-to-profitability-enrolling-in-the-youtube-partner-program/"><u>[New] Path to Profitability Enrolling in the YouTube Partner Program</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-transforming-titles-best-ai-powered-podcast-name-makers/"><u>[Updated] Transforming Titles Best AI-Powered Podcast Name Makers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-the-action-5-ways-to-record-windows-10-games/"><u>2024 Approved Capture the Action 5 Ways to Record Windows 10 Games</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/7-must-consider-factors-when-purchasing-a-motherboard/"><u>7 Must-Consider Factors When Purchasing a Motherboard</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-jackery-powerbar-with-integrated-ac-outlet/"><u>Expert Evaluation of the Jackery PowerBar with Integrated AC Outlet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insight-into-the-t6-dslr-budget-friendly-model/"><u>Insight Into the T6 DSLR: Budget-Friendly Model</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c53-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C53 Phone FRP Lock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-tab-s3-timeless-excellence-or-outdated-tech-reviews-and-insights/"><u>Samsung Galaxy Tab S3: Timeless Excellence or Outdated Tech? Reviews & Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-how-to-fix-one-airpod-not-working-for-2024/"><u>[Updated] How to Fix One Airpod Not Working for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>[Updated] In 2024, Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-difference-between-srgb-and-rgb/"><u>[Updated] The Difference Between Srgb & Rgb</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-efficient-ai-driven-hr-queries/"><u>7 Efficient AI-Driven HR Queries</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-agni-2-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Agni 2 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-picks-leading-capture-cards-for-enthusiast-streamers/"><u>Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamers-guide-to-choosing-a-video-player-vlc-vs-mpc/"><u>Streamer's Guide to Choosing a Video Player VLC Vs. MPC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-hidden-delights-of-pokemon-shining-pearl-unearthing-gaming-bliss/"><u>The Hidden Delights of Pokemon Shining Pearl: Unearthing Gaming Bliss</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-comparison-leading-external-blu-ray-drives-in-the-market/"><u>The Ultimate Comparison: Leading External Blu-Ray Drives in the Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-how-to-upgrading-and-improving-your-intel-imacs-hardware/"><u>The Ultimate How-To: Upgrading and Improving Your Intel iMac’s Hardware</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-wi-fi-signal-boosters-a-comprehensive-guide/"><u>Top Wi-Fi Signal Boosters : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-internet-experience-with-the-netgear-nighthawk-rax80-a-review-of-superior-speeds-in-a-striking-package/"><u>Transform Your Internet Experience with the Netgear Nighthawk RAX80 - A Review of Superior Speeds in a Striking Package</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tutorial-on-how-to-retain-image-thumbnails-in-ms-word-documents/"><u>Tutorial on How to Retain Image Thumbnails in MS Word Documents</u></a></li>
 </ul></div>
 

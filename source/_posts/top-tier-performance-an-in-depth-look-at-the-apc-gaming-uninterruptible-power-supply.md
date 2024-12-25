@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2024-12-09T18:08:29.563Z
-updated: 2024-12-16T17:40:51.731Z
+date: 2024-12-19T10:10:41.942Z
+updated: 2024-12-25T09:49:57.050Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -65,11 +65,11 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
 
- Lifewire / James Huenink
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / James Huenink
 
 ## **Design: Flimsy and difficult to use**
 
@@ -82,7 +82,7 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup process: Awkward to position**
@@ -101,11 +101,11 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Underwhelming performance in video and audio**
 
@@ -119,13 +119,13 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
-## **Price: Cheap price, even cheaper webcam**
-
- The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **Price: Cheap price, even cheaper webcam**
+
+ The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
 ## **Competition: Falls short**
 
@@ -142,7 +142,7 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -177,20 +177,24 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-ads-create-and-design-with-free-creative-kit/"><u>[New] In 2024, FB Video Ads Create & Design with Free Creative Kit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-video-editing-secrets-to-skyrocket-your-channels/"><u>[New] In 2024, Top 10 Video Editing Secrets to Skyrocket Your Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-syncing-webcam-footage-with-screen-recording-for-2024/"><u>[Updated] Syncing Webcam Footage with Screen Recording for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-basics-of-vsco-filters/"><u>[Updated] Understanding the Basics of VSCO Filters</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-companion-best-cd-players-and-changers-24/"><u>Audiophile’s Companion: Best CD Players & Changers '24</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-eight-best-pc-and-laptop-brands-dominating-2024/"><u>Discover the Elite Eight: Best PC and Laptop Brands Dominating 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluating-mbas-for-career-growth-are-the-advantages-greater-than-the-expenses-expert-analysis-by-zdnet/"><u>Evaluating MBAs for Career Growth: Are The Advantages Greater Than The Expenses? - Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-features-of-the-5g-ready-samsung-galaxy-s20-fan-edition-review/"><u>Exploring the Best Features of the 5G Ready Samsung Galaxy S20 Fan Edition Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oppo-a1x-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Oppo A1x 5G</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-c7000-review-a-fantastic-wireless-modem/"><u>Netgear Nighthawk C7000 Review: A Fantastic Wireless Modem</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-videopad-video-editor-a-comprehensive-review-and-buying-guide/"><u>New Videopad Video Editor A Comprehensive Review and Buying Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimizing-google-nest-speakers/"><u>Optimizing Google Nest Speakers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-7-ideal-cell-phone-contracts-for-seniors/"><u>Top 7 Ideal Cell Phone Contracts for Seniors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-new-possibilities-with-macos-15-the-ultimate-upgrade-list-for-apple-macbook-users/"><u>Unlock New Possibilities with MacOS 15: The Ultimate Upgrade List for Apple MacBook Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unleash-creativity-with-android-and-iphones-top-free-layering-apps/"><u>[New] 2024 Approved Unleash Creativity with Android & iPhone's Top FREE Layering Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-recording-win-11s-superior-camcorders/"><u>[New] Cutting-Edge Recording Win 11'S Superior Camcorders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-error-code-0xc0000185-diagnosis-and-repair-steps/"><u>Decoding Error Code 0XC0000185: Diagnosis & Repair Steps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-video-editing-techniques-on-snapchat-a-step-by-step-guide/"><u>Easy Video Editing Techniques on Snapchat: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evolution-in-travel-meet-the-flexible-tripod-12/"><u>Evolution in Travel - Meet the Flexible Tripod 12</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-msi-pro-mp16n-e2-your-next-ultimate-mobile-monitor/"><u>Explore the MSI PRO MP16n E2 – Your Next Ultimate Mobile Monitor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-a-fresh-environment-in-depth-analysis-of-watch-dogs-legion/"><u>Exploring a Fresh Environment: In-Depth Analysis of Watch Dogs: Legion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-wildlife-of-capcoms-epic-adventure-monster-hunter-world-reviewed/"><u>Exploring the Wildlife of Capcom's Epic Adventure - Monster Hunter: World Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a05-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A05 Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-review-samsung-galaxy-s24-ultra-against-s23-ultra-features-and-performance/"><u>Head-to-Head Review: Samsung Galaxy S24 Ultra Against S23 Ultra Features and Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-def-excellence-with-logitech-c920-pro-hd-camera-in-depth-analysis/"><u>High-Def Excellence with Logitech C920 Pro HD Camera - In-Depth Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a1-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A1 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-comparison-of-gaming-capabilities-discover-the-best-iphone-for-players/"><u>In-Depth Comparison of Gaming Capabilities – Discover the Best iPhone for Players!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-barnes-and-noble-nook-glowlight-3-for-enjoyable-reading-at-night/"><u>In-Depth Review of the Barnes & Noble Nook GlowLight 3 for Enjoyable Reading at Night</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-or-amazon-fire-tablet-which-device-ticks-all-your-boxes/"><u>IPad or Amazon Fire Tablet: Which Device Ticks All Your Boxes?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-photo-editing-the-eraser-guide-in-psx/"><u>Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/origami-homes-in-minecraft-japanese-vistas-for-2024/"><u>Origami Homes in Minecraft Japanese Vistas for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-hd-filming-with-the-logitech-c920-your-comprehensive-camera-review/"><u>Top-Notch HD Filming with the Logitech C920 - Your Comprehensive Camera Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Syma X8 Series Flyer Test Flight: Budget-Friendly Indoor Drone Experience"
-date: 2024-09-13T16:57:40.862Z
-updated: 2024-09-20T17:32:00.491Z
+date: 2024-12-21T11:41:35.107Z
+updated: 2024-12-25T07:53:15.991Z
 categories:
   - BestProducts
 description: "This Article Describes Syma X8 Series Flyer Test Flight: Budget-Friendly Indoor Drone Experience"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 ## Experience Comfort and Quality with the Fellowes Microban Wireless Keyboard – Budget Friendly
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fellowes Microban Split Design Keyboard
 
@@ -41,6 +45,10 @@ Lifewire / Emily Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
@@ -66,6 +74,10 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
@@ -83,10 +95,7 @@ Lifewire / Emily Isaacs
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Plug and play**
@@ -101,13 +110,6 @@ Lifewire / Emily Isaacs
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Connectivity: A wired connection for reliability**
 
  The Fellowes connects to a PC via a USB cord. We couldn’t help but appreciate the simplicity of this design choice, especially as more and more companies are looking for ways to cut cords. Cutting down on cables is great when it makes sense, but the corded connection here allows for a dependable product, since you never have to worry about a low battery, and also means that the keyboard is more reliable for[faster typists](https://www.lifewire.com/typing-speed-tests-1356663) . It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed. This is useful if you type faster than conventional keyboards can keep up with, making it less likely for you to lose a stroke.
@@ -115,10 +117,7 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
@@ -174,5 +173,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-color-grading-mastery-utilizing-cg-centrals-standardized-looks/"><u>[New] Color Grading Mastery Utilizing CG Central's Standardized Looks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-connect-movie-files-in-youtv-catalog/"><u>[New] Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-strategic-social-sharing-master-facebook-story-linking/"><u>[New] In 2024, Strategic Social Sharing Master Facebook Story Linking</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-tough-titans-tangle-choosing-between-t5-and-sjcam-s6/"><u>[New] In 2024, Tough Titans Tangle Choosing Between T5 and SJCAM S6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehvew-guide-to-modifying-and-reinforcing-your-account-security-on-x-site-after-it-was-called-twitter/"><u>A Comprehvew Guide to Modifying and Reinforcing Your Account Security on X Site After It Was Called Twitter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-essential-services-for-seamless-windows-11-launches/"><u>Enabling Essential Services for Seamless Windows 11 Launches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-on-anywhere-with-asuss-sleek-ultra-portable-14-fighter-the-perfect-blend-of-size-and-strength/"><u>Game On Anywhere with ASUS's Sleek, Ultra-Portable 14 Fighter – The Perfect Blend of Size and Strength!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/godfall-on-playstation-5-a-disappointing-start-with-lackluster-storytelling/"><u>Godfall on PlayStation 5: A Disappointing Start with Lackluster Storytelling</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-revitalize-your-laptops-processor-cpu/"><u>How to Revitalize Your Laptop's Processor (CPU)?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>In 2024, Navigating Zoom with Skype A Guide to Seamless Video Calls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-mbot-by-makeblock-reviewed-build-and-program-your-own-robot-with-ease/"><u>In-Depth MBot by Makeblock Reviewed: Build & Program Your Own Robot with Ease!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insights-from-the-latest-viber-out-user-reviews-and-ratings/"><u>Insights From the Latest Viber Out User Reviews and Ratings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-or-android-comparing-operating-systems-to-find-your-match/"><u>IPhone or Android? Comparing Operating Systems to Find Your Match</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/key-points-in-purchasing-revamped-computers/"><u>Key Points in Purchasing Revamped Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/macos-monterey-performance-gains-or-no/"><u>MacOS Monterey: Performance Gains or No?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-television-viewing-with-the-compact-power-of-the-clearstream-2v-hd-antenna-full-review-inside/"><u>Maximize Your Television Viewing with the Compact Power of the ClearStream 2V HD Antenna – Full Review Inside!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+</ul></div>
 

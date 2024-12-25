@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Depths of Narrative Excellence in 'Torment: Tides of Numenera' - Your Ultimate Science Fiction RPG Adventure"
-date: 2024-09-19T16:56:39.029Z
-updated: 2024-09-20T17:06:43.064Z
+date: 2024-12-22T11:19:17.595Z
+updated: 2024-12-25T11:53:55.810Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Depths of Narrative Excellence in 'Torment: Tides of Numenera' - Your Ultimate Science Fiction RPG Adventure"
@@ -36,6 +36,10 @@ Lifewire / Jonno Hill
 
 4.4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clearstream ECLIPSE
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/0gXsFyigpZzsnNAEj3tIrKImB8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
@@ -63,6 +67,10 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/AbdriPZwiRfd8iHxT9N5E6Ae2hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_03-d434cf7b4c5f4f73b08c8c220fd0d43e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Design: Inoffensive but unexceptional**
@@ -77,28 +85,12 @@ Lifewire / Jonno Hill
 
  Luckily the ClearStream Eclipse Antenna comes with a 12ft coaxial cable, so next simply attach the cable to both the antenna and your TV. Make sure to run a channel scan first for best results.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Above average**
 
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Range: Fair to middling**
@@ -109,15 +101,16 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Not bad for the performance**
 
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
@@ -155,5 +148,23 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>[New] In 2024, Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-craft-your-storyline-three-ways-to-border-instagram-videos/"><u>[Updated] In 2024, Craft Your Storyline Three Ways to Border Instagram Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-launches-new-ryzen-ai-powered-laptops-july-17-meet-the-game-changers-rzne-ai-9-hx-370-and-rzne-ai-9-365-for-tuf-gaming-rog-zephyrus-and-zenbook/"><u>Asus Launches New Ryzen AI-Powered Laptops: July 17 - Meet the Game Changers RZne AI 9 HX 370 & RZne AI 9 365 for TUF Gaming, ROG Zephyrus and Zenbook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-perfect-voices-3-ipad-solutions/"><u>Capturing Perfect Voices 3 iPad Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easily-hosting-a-zoom-conference/"><u>Easily Hosting a Zoom Conference</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-15-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 15 Pro Max for Free</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-superior-search-engine-results/"><u>Leveraging Cookiebot for Superior Search Engine Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prime-spots-for-buying-cutting-edge-mobile-technology/"><u>Prime Spots for Buying Cutting-Edge Mobile Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/raspberry-pi-400-analysis-portable-mini-pc-designed-as-a-keyboard/"><u>Raspberry Pi 400 Analysis: Portable Mini PC Designed as a Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-portal-examination-the-ultimate-gamers-wi-fi-solution/"><u>Razer Portal Examination: The Ultimate Gamer's Wi-Fi Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-corsairs-best-fusion-computer-yet-the-one-pro-for-gamers-and-creatives/"><u>Review of Corsair's Best Fusion Computer Yet - The One Pro for Gamers and Creatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-days-gone-thrilling-adventures-and-biker-tactics-against-hordes-of-zombies/"><u>Reviewing 'Days Gone': Thrilling Adventures and Biker Tactics Against Hordes of Zombies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-best-in-e-readers-barnes-and-nobles-nook-glowlight-plus-unveiled/"><u>Reviewing the Best in E-Readers: Barnes & Noble's Nook GlowLight Plus Unveiled!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviving-old-iphones-or-ipods-is-it-worth-it/"><u>Reviving Old iPhones or iPods – Is It Worth It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-contrast-what-makes-auto-gpt-stand-out-from-chatgpt/"><u>Understanding the Contrast: What Makes Auto-GPT Stand Out From ChatGPT?</u></a></li>
+</ul></div>
 

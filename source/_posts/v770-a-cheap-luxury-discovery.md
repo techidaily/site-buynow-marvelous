@@ -1,7 +1,7 @@
 ---
 title: V770 - A Cheap Luxury Discovery
-date: 2024-09-18T16:07:42.934Z
-updated: 2024-09-20T16:48:24.968Z
+date: 2024-12-23T10:08:34.836Z
+updated: 2024-12-24T16:08:53.166Z
 categories:
   - BestProducts
 description: This Article Describes V770 - A Cheap Luxury Discovery
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/uRCgNw-CUKlAX2NVz76xLIumjts=/400x300/fi
 ## Luxury Speedy Flash for Savvy Shooters - Get YN560IV Discounted
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
@@ -40,6 +44,10 @@ Lifewire / Jonno Hill
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/UOD6afkRh-xS-Dh1-iagOeoOSdY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -75,13 +83,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Features & Functionality: Full suite manual control**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master has a lot of different options that will make it an attractive option for manual shooters. But before we dive into all the things it does well, let’s talk about what you_won’t_ find in this flash. The most notable omission is TTL. For the uninitiated, Through The Lens (TTL) is a metering mode that lets a flash unit fire a series of infrared bursts and evaluates the actual light coming through the lens to determine how much power to deliver when taking a photo. It’s very handy to have for beginners and event photographers, but by no means essential for many other types of users.
@@ -102,13 +103,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: A lot of reading before use**
 
  Once you unpack your flash and install the four AA batteries, you’re going to want to familiarize yourself with the buttons and menu system a little. The YN560 IV has a lot of functionality, but it doesn’t have the most intuitive interface. The front of the device contains a top row of four buttons (a Light/Music icon, Mode, a Wi-Fi icon, and Zoom). Below this is a charge indicator button marked “PILOT”, a direction pad, and an On/Off button.
@@ -122,6 +116,10 @@ Lifewire / Jonno Hill
  The last quirk that users will have to familiarize themselves with is that a lot of menu functionality is only accessed by pressing two of the top row buttons simultaneously. Pressing the first two opens the advanced options, pressing the middle two issues an activation command to the slave units when in TX mode, and pressing the final two buttons lets you set the channel.
 
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Significant savings for manual users**
 
@@ -143,11 +141,19 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
 * [Nikon D3400](https://www.lifewire.com/nikon-d3400-review-4776644)
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,5 +185,24 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-breaking-down-the-hype-around-recordcast/"><u>[New] 2024 Approved Breaking Down the Hype Around RecordCast</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-accelerate-vimeo-videos-the-guide-for-2024/"><u>[Updated] Accelerate Vimeo Videos The Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-metaverse-meme-landscape/"><u>2024 Approved Exploring the Metaverse Meme Landscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-a-secondary-gmail-account-alias-complete-instructions/"><u>Creating a Secondary Gmail Account (Alias) - Complete Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-the-constant-breakdown-of-back-4-blood-on-pc-expert-fixing-guide/"><u>Cure the Constant Breakdown of 'Back 4 Blood' On PC - Expert Fixing Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-6-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 6 for Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-10t-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 10T 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-missing-app-icons-on-iphone-effective-troubleshooting-steps/"><u>Restoring Missing App Icons on iPhone: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-the-startup-process-with-windows-11s-quick-start-techniques/"><u>Simplify the Startup Process with Windows 11’S Quick Start Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-best-top-race-rc-rock-crawler-conquering-any-terrain/"><u>Ultimate Guide to the Best Top Race RC Rock Crawler: Conquering Any Terrain</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-raspberry-pi-400-assessment-portable-mini-computer-meets-ergonomic-keyboard/"><u>Ultimate Raspberry Pi 400 Assessment: Portable Mini-Computer Meets Ergonomic Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-leading-usb-thumb-drives/"><u>Ultimate Selection: Leading USB Thumb Drives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-moto-g-power-superior-durability-meets-remarkable-battery-capacity/"><u>Unboxing the Moto G Power: Superior Durability Meets Remarkable Battery Capacity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-skies-why-microsofts-gold-edition-is-still-a-premier-flight-sim-experience/"><u>Unlocking Skies: Why Microsoft's Gold Edition Is Still a Premier Flight Sim Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-iphone-13-detailed-reviews-and-comparisons-with-rivals/"><u>Unveiling the iPhone 13: Detailed Reviews and Comparisons with Rivals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-and-pitfalls-of-viairs-88p-mobile-compressor-a-thorough-review/"><u>Unveiling the Potential and Pitfalls of Viair’s 88P Mobile Compressor: A Thorough Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-the-netgear-nighthawk-x4-a-revolutionary-mesh-wi-fi-extender-compared/"><u>Unveiling the Power of the Netgear Nighthawk X4: A Revolutionary Mesh Wi-Fi Extender Compared</u></a></li>
+</ul></div>
 

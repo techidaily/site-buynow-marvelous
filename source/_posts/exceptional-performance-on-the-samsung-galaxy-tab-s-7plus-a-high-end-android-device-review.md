@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Performance on the Samsung Galaxy Tab S 7+: A High-End Android Device Review"
-date: 2024-09-18T16:48:05.861Z
-updated: 2024-09-20T16:04:59.479Z
+date: 2024-12-20T20:13:10.928Z
+updated: 2024-12-25T02:12:57.270Z
 categories:
   - BestProducts
 description: "This Article Describes Exceptional Performance on the Samsung Galaxy Tab S 7+: A High-End Android Device Review"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 ## Creative Sound Blaster ZxR
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/87Y0vp91-Opdxctf3M6BGQ6r1d8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW833111-1-4e7ebf4d779c4f9a88fb2d675c206f02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Ramirez
 
@@ -73,33 +77,17 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Hardware: Some odd decisions**
 
  For users who may own higher impedance headphones, the amplifier can comfortably drive headphones with up to a 600 ohm impedance. Unfortunately, the volume control on the ACM works passively by altering the output impedance, which can distort audio on headphones with high inductance like the Sennheiser HD800 (see “[How Low Should Output Impedance Be?](https://www.lifewire.com/what-is-output-impedance-4690092) ”). A better and only slightly more costly solution for Creative Labs would have been to have the knob control the ZxR’s in-built volume control rather than try to do it passively. The HD800 sounded fine when plugged directly into the sound card and using the system volume control.
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1t84P8oe4qch2aJ6lknx0lwunWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-2-de43d07bd3db40a282f55347c8956c9a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Ramirez
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process/Installation: Easy install, irritating setup**
 
@@ -122,10 +110,7 @@ Lifewire / Emily Ramirez
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
@@ -141,6 +126,10 @@ Lifewire / Emily Ramirez
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -162,16 +151,17 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Sound Blaster Z](https://www.lifewire.com/sound-blaster-z-review-4769764)
 * [Sound Blaster Audigy RX](https://www.lifewire.com/sound-blaster-audigy-rx-review-4769814)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -210,5 +200,26 @@ Lifewire / Emily Ramirez
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-tactics-to-record-lol-clashes/"><u>[Updated] 2024 Approved Ultimate Tactics to Record LOL Clashes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[Updated] 2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-direct-engagement-or-mass-distribution-twitch-and-youtube-contrast/"><u>[Updated] In 2024, Direct Engagement or Mass Distribution? Twitch & YouTube Contrast</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-top-tiers-of-treasured-valheim-trees/"><u>[Updated] The Top Tiers of Treasured Valheim Trees</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-work-with-leisure-through-facebooks-timed-notifications/"><u>Balancing Work with Leisure Through Facebook's Timed Notifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-tech-discovering-toms-hardware/"><u>Exploring the Latest in Tech: Discovering Tom's Hardware</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-gt-3-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme GT 3? Try These Fixes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-complexities-of-ps4-live-streaming-and-recording-for-2024/"><u>Navigating the Complexities of PS4 Live Streaming and Recording for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-security-at-its-finest-the-inside-scoop-on-the-ring-video-doorbell-nv/"><u>Smart Security at Its Finest: The Inside Scoop on the Ring Video Doorbell Nv</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/studiofx-large-softbox-lighting-kit-review-sturdy-and-bright/"><u>StudioFX Large Softbox Lighting Kit Review: Sturdy and Bright</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/studiokit-z103-economical-illuminator-reviewed/"><u>StudioKit Z103: Economical Illuminator Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tango-app-review-top-choice-for-costless-text-voice-and-video-chatting/"><u>Tango App Review: Top Choice for Costless Text, Voice, and Video Chatting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-new-gen-8-apple-ipad-striking-a-balance-between-budget-pricing-and-superior-functionality-for-102-tablets/"><u>The All-New Gen 8 Apple iPad: Striking a Balance Between Budget Pricing and Superior Functionality for 10.2 Tablets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-comparison-google-wifi-vs-competitors-in-the-world-of-mesh-routers/"><u>The Definitive Comparison: Google WiFi vs Competitors in the World of Mesh Routers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pathway-to-using-windows-11-toolbars-effectively/"><u>The Pathway to Using Window's 11 Toolbars Effectively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-blend-of-cost-and-performance-exploring-the-oculus-quest-2/"><u>The Perfect Blend of Cost and Performance - Exploring the Oculus Quest 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-blueear-earbuds-in-a-beanie-a-perfect-blend-of-style-and-functionality/"><u>The Ultimate Guide to BlueEAR Earbuds in a Beanie - A Perfect Blend of Style and Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-iphones-optimized-for-mobile-gaming-choose-your-perfect-device/"><u>Top iPhones Optimized for Mobile Gaming - Choose Your Perfect Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-latest-in-sony-blu-ray-s6700-for-2024/"><u>Unveiling the Latest in Sony Blu-Ray S6700 for 2024</u></a></li>
+</ul></div>
 

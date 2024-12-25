@@ -1,7 +1,7 @@
 ---
 title: "Eclipse Photography Safely: Preserving Your Phone From Solar Harm - Essential Guidelines"
-date: 2024-12-11T17:28:49.512Z
-updated: 2024-12-16T16:41:28.362Z
+date: 2024-12-21T11:24:15.280Z
+updated: 2024-12-25T05:01:56.048Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 ---
 
 ## Eclipse Photography Safely: Preserving Your Phone From Solar Harm - Essential Guidelines
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,16 +41,12 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ![The sun captured with a Pixel 8 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/pxl_20240328_173921583-raw-01-mp-cover.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nick Lewis / How-to Geek
 
  Since you can view totality without eye protection, it will also be safe to photograph the eclipse with your phone without a filter. Just be sure that you're not premature, and that you don't keep looking for too long. Totality only lasts a few minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Be Careful With External Telephoto Lenses
@@ -69,6 +61,10 @@ Nick Lewis / How-to Geek
 
  If you're wondering if you can use a solar filter (like those found on eclipse glasses) in **front** of a regular clip on telephoto lens, the answer is yes–it'll work. However, it is a bit too easy to accidentally drop the filter away from the front of the lens and damage your phone. We don't recommend it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Use a Tripod
 
  You can pick up a tripod designed to fit your smartphone online or in brick-and-mortar stores, and we'd highly recommend you use one if you want to capture a picture or video of the eclipse, especially if you're using the telephoto lens built into your phone.
@@ -76,7 +72,7 @@ Nick Lewis / How-to Geek
  Just be sure to keep an eye on it. The sun and moon move across the sky faster than you might expect, and you may find that they move out of frame if you don't adjust your tripod regularly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Use Burst Mode and Lock Your Focus
@@ -85,12 +81,16 @@ Nick Lewis / How-to Geek
 
  We also highly recommend that you go into your camera app's settings and set the focus to infinity. That will prevent autofocus from interfering with your perfect shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Buy Safe Solar Eclipse Glasses or Filters
 
  There are fake, unsafe solar eclipse glasses for sale. The American Astronomical Society has put together [a list of safe solar filters and glasses](https://eclipse.aas.org/eye-safety/viewers-filters), and we'd recommend you buy from that list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Test Solar Eclipse Glasses and Filters
@@ -120,14 +120,20 @@ Nick Lewis / How-to Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-applications-for-crafting-dynamic-video-entrances/"><u>[Updated] In 2024, Best Applications for Crafting Dynamic Video Entrances</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-google-pixel-7a-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Google Pixel 7a by Name | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-macbook-selection-for-2eplustplusrplusy-expert-reviews-and-rankings/"><u>Discover the Ultimate MacBook Selection for 2E+t+r+y - Expert Reviews & Rankings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722897951540-explore-our-handpicked-collection-of-free-music-streaming-apps-for-android-and-iphone-devotees/"><u>Explore Our Handpicked Collection of Free Music Streaming Apps for Android & iPhone Devotees</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-75-screens-elite-tv-choices-for-a-stunning-viewing-experience/"><u>Exploring the Best 75 Screens: Elite TV Choices for a Stunning Viewing Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ideal-family-cellphone-packages-the-5-finest-choices/"><u>Ideal Family Cellphone Packages: The 5 Finest Choices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-closure-in-cyberspace-quest/"><u>In 2024, Unmatched Closure in Cyberspace Quest</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging-for-2024/"><u>New Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-most-economical-and-high-quality-headphone-picks-for-2n34/"><u>The Most Economical and High-Quality Headphone Picks for 2N34!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-guide-downloading-twitters-videos-on-android-devices/"><u>[New] Guide Downloading Twitters Videos on Android Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-inauthentic-accounts-on-brand-pages-for-2024/"><u>[New] Unveiling Inauthentic Accounts on Brand Pages for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[Updated] Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-z2-masterclass-smartphone-smarter-than-ever/"><u>[Updated] In 2024, Z2 Masterclass Smartphone Smarter Than Ever?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-ai-qualcomms-billion-dollar-bet-on-longer-battery-lifespan-drives-record-sales-for-copilotplus/"><u>Beyond AI: Qualcomm's Billion-Dollar Bet on Longer Battery Lifespan Drives Record Sales for Copilot+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apc-1500va-back-ups-pro-assessment-delivering-strong-output-extensive-outlet-options-and-easy-battery-replacement/"><u>Comprehensive APC 1500Va Back-UPS Pro Assessment: Delivering Strong Output, Extensive Outlet Options & Easy Battery Replacement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-hidden-gems-ztes-entry-into-competent-budget-handsets-with-the-blade-a3y/"><u>Discovering Hidden Gems: ZTE's Entry Into Competent Budget Handsets with the Blade A3Y</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/exploring-the-latest-innovations-in-computing-toms-hardware/"><u>Exploring the Latest Innovations in Computing: Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722879350096-get-the-inside-scoop-on-samsung-galaxy-s2-expected-pricing-launch-dates-and-device-specs-revealed/"><u>Get the Inside Scoop on Samsung Galaxy S2지! Expected Pricing, Launch Dates & Device Specs Revealed.</u></a></li>
+<li><a href="https://discover-data.techidaily.com/how-to-boost-your-pcs-performance-key-configurations-yl-computing-blog/"><u>How to Boost Your PC's Performance: Key Configurations - YL Computing Blog</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-11-zoom-issues-with-error-1132/"><u>Rectifying Windows 11 Zoom Issues with Error 1132</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sunbrites-55-weatherproof-smart-tv-a-high-resolution-4k-veranda-display-engineered-for-durability-and-brightness/"><u>SunBrite's 55 Weatherproof Smart TV: A High-Resolution 4K Veranda Display Engineered for Durability & Brightness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-walkthrough-of-acurite-weather-station-01036m-straightforward-installation-and-sturdy-build-insights/"><u>The Ultimate Walkthrough of AcuRite Weather Station 01036M - Straightforward Installation & Sturdy Build Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-acer-xfa240-performance-prioritized-in-this-powerful-pc-system/"><u>Unboxing the Acer XFA240: Performance Prioritized in This Powerful PC System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-1byones-digital-tv-signal-amplifier-the-premier-choice-for-cost-conscious-viewers-seeking-hd-clarity/"><u>Unveiling the Power of 1Byone's Digital TV Signal Amplifier: The Premier Choice for Cost-Conscious Viewers Seeking HD Clarity</u></a></li>
 </ul></div>
 

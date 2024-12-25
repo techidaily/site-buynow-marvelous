@@ -1,7 +1,7 @@
 ---
 title: Budget-Friendly Cheetah Dual Arms for TVs
-date: 2024-09-19T16:31:09.168Z
-updated: 2024-09-20T17:02:42.685Z
+date: 2024-12-21T23:29:57.041Z
+updated: 2024-12-25T05:39:54.608Z
 categories:
   - BestProducts
 description: This Article Describes Budget-Friendly Cheetah Dual Arms for TVs
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/zkHqVGYp2aB9phM2AhdP8WvoUfI=/400x300/fi
 ## Experience Comfort and Quality with the Fellowes Microban Wireless Keyboard – Budget Friendly
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fellowes Microban Split Design Keyboard
 
@@ -82,13 +86,6 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
@@ -97,16 +94,13 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Connectivity: A wired connection for reliability**
 
@@ -115,15 +109,16 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -132,6 +127,10 @@ Lifewire / Emily Isaacs
 [Microsoft Sculpt Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-sculpt-ergonomic-keyboard-review-4780274)
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/9Ei30bgFst4sw8SynCxgEI_b-9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_04-eff22d3b32274568890dd291e56daab5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -174,5 +173,18 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>[New] 2024 Approved Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-rhythm-reviews-cutting-edge-sound-for-2024/"><u>[New] Rhythm Reviews Cutting-Edge Sound for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/bnb-belgians-evading-regulation-with-polish-entities-continue-trading-on-binance-insight-by-yl-computing/"><u>🚨 BNB Belgians Evading Regulation with Polish Entities: Continue Trading on Binance - Insight by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi Note 12 4G Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-life-to-pixels-add-motion-blur/"><u>Bring Life to Pixels Add Motion Blur</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pivotal-ideas-behind-digital-tale-weaving-for-2024/"><u>Pivotal Ideas Behind Digital Tale Weaving for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-apple-watchs-failure-to-detect-stand-a-comprehensive-guide/"><u>Solving Apple Watch's Failure to Detect Stand: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-on-be600m1-by-apc-balancing-efficient-battery-support-with-a-handy-integrated-usb-charging-function/"><u>The Ultimate Review on BE600M1 by APC - Balancing Efficient Battery Support with a Handy Integrated USB Charging Function</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-fitness-tracker-devices-for-optimal-health/"><u>Top Rated Fitness Tracker Devices for Optimal Health</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-gaming-systems-reviews-and-buyers-guide/"><u>Top Rated Gaming Systems - Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-cable-modems-a-comprehensive-guide/"><u>Top-Rated Cable Modems : A Comprehensive Guide</u></a></li>
+</ul></div>
 

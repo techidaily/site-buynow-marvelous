@@ -1,7 +1,7 @@
 ---
 title: Is the Motorola Edge+ Up to Par with Top Flagship Devices? A Thorough Review
-date: 2024-09-13T16:09:16.905Z
-updated: 2024-09-20T16:05:14.837Z
+date: 2024-12-22T21:56:34.861Z
+updated: 2024-12-25T12:22:06.697Z
 categories:
   - BestProducts
 description: This Article Describes Is the Motorola Edge+ Up to Par with Top Flagship Devices? A Thorough Review
@@ -39,9 +39,17 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Beatit 800A BT-D11 Car Jump Starter
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
 
@@ -66,6 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
 
  Lifewire / Tony Mitera
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -85,10 +97,7 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Plenty of power for all your needs**
@@ -107,18 +116,15 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
 
  At that price point, it packs a ton of value into its diminutive size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: In the battle of the smallest, this one reigns supreme**
 
@@ -165,5 +171,20 @@ thumbnail: https://www.lifewire.com/thmb/445_rQk9HAPUDlhizLznvJuMrp8=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction-for-2024/"><u>[New] From Lurk to Leader A Guide to Impactful Reddit Interaction for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-offline-access-top-quality-fb-videos-at-home-for-2024/"><u>[New] Offline Access Top Quality FB Videos at Home for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[Updated] Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-oneplus-9-do-the-numbers-tell-a-different-story/"><u>Evaluating the OnePlus 9 - Do the Numbers Tell a Different Story?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exceptional-value-and-simplicity-in-vr-an-in-depth-look-at-the-oculus-quest-2/"><u>Exceptional Value & Simplicity in VR: An In-Depth Look at the Oculus Quest 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-mobvois-ticwatch-pro-with-gps-tracking-and-extended-battery-life-via-double-displays/"><u>Expert Analysis of Mobvoi's TicWatch Pro Ⅲ with GPS Tracking and Extended Battery Life via Double Displays</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-reveals-apple-airtag-as-the-optimal-locator-for-iphone-owners/"><u>Expert Review Reveals Apple AirTag As The Optimal Locator For iPhone Owners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-performance-and-design-of-cycwagens-newest-electric-cargo-bike/"><u>Explore the Performance and Design of CycWagen's Newest Electric Cargo Bike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-2013-creative-sound-blaster-zxr-flagship-gaming-audio-experience/"><u>Exploring the Features of the 2013 Creative Sound Blaster ZXR: Flagship Gaming Audio Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-6-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 6 Plus Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y100i-power-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y100i Power 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-upgrade-your-experience-10-high-performance-drives/"><u>In 2024, Upgrade Your Experience #10 High-Performance Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-next-step-in-smart-living-discover-how-apple-envisions-your-personal-home-robot-assistant-zdnet/"><u>The Next Step in Smart Living: Discover How Apple Envisions Your Personal Home Robot Assistant | ZDNet</u></a></li>
+</ul></div>
 

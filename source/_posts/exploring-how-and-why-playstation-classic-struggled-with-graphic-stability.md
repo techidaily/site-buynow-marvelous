@@ -1,7 +1,7 @@
 ---
 title: Exploring How and Why PlayStation Classic Struggled with Graphic Stability
-date: 2024-12-10T16:18:13.376Z
-updated: 2024-12-16T17:50:35.805Z
+date: 2024-12-23T01:59:40.160Z
+updated: 2024-12-25T10:14:17.320Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Exploring How and Why PlayStation Classic Struggled with Graphic Stability
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s All About Floating Points
@@ -37,25 +37,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Z-Buffer Not Found
 
  Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the "camera."
 
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Affine Texture Mapping Is Not So Fine After All
 
  Texture mapping is the process of adding textures (which are basically digital pictures) to a polygon wireframe. It's basically the "skin" of a 3D object. The PS1 uses a method known as "affine" texture mapping, which uses simple math to determine the coordinates on the polygon where the texture should be drawn. Affine texture mapping does not take Z-coordinates into account, and so perspective projection will appear incorrect for 3D objects. Remember the PS1 has no Z-buffer!
 
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
 
@@ -66,12 +62,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -96,18 +96,21 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[New] 2024 Approved Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-snapshot-sharpening-affinitys-bg-exclusion/"><u>[Updated] In 2024, Snapshot Sharpening - Affinity's Bg Exclusion</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-successfully-replace-your-toshiba-tecra-a50-cs-hard-drive-in-depth-guide-for-users/"><u>How to Successfully Replace Your Toshiba Tecra A50-C's Hard Drive - In-Depth Guide for Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rise-to-the-top-on-instagram-essential-tips-and-influencer-examples/"><u>Rise to the Top on Instagram Essential Tips & Influencer Examples</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-covers-for-google-pixel-6a/"><u>Top-Rated Protective Covers for Google Pixel 6A</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-covers-for-google-pixel-9/"><u>Top-Rated Protective Covers for Google Pixel 9</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-gear-for-google-pixel-7-pro-2023s-must-have-accessories/"><u>Top-Rated Protective Gear for Google Pixel 7 Pro - 2023'S Must-Have Accessories</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-technological-devices-for-savvy-travellers-in-2e24/"><u>Top-Rated Technological Devices for Savvy Travellers in 2E24</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-usb-flash-drive-picks-your-ultimate-guide/"><u>Top-Rated USB Flash Drive Picks : Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-video-doorbell-models-a-comprehensive-review/"><u>Top-Rated Video Doorbell Models : A Comprehensive Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-photo-editing-with-top-lunapic-hacks-for-2024/"><u>Transform Photo Editing with Top LunaPic Hacks for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-cross-platform-video-editing-a-chromebook-guide/"><u>Updated Unlock Cross-Platform Video Editing A Chromebook Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>[New] 2024 Approved Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-verdict-vidmas-role-in-modern-screen-capture/"><u>[New] 2024 Approved The Verdict Vidma’s Role in Modern Screen Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-efficient-entry-powerpoint-recordings-for-2024/"><u>[New] Efficient Entry PowerPoint Recordings for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-google-pixel-4a-ideal-tech-for-everyday-use/"><u>Comprehensive Analysis of the Google Pixel 4A: Ideal Tech for Everyday Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-monoprice-graphic-tablet-exceptional-value-on-a-low-budget/"><u>Comprehensive Review of the Monoprice Graphic Tablet: Exceptional Value on a Low Budget</u></a></li>
+<li><a href="https://article-files.techidaily.com/dell-p2715q-explained-the-4k-vision-experience-decoded/"><u>Dell P2715Q Explained The 4K Vision Experience Decoded</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-elite-eight-best-pc-and-laptop-brands-dominating-2024/"><u>Discover the Elite Eight: Best PC and Laptop Brands Dominating 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-task-management-on-windows-11/"><u>Efficient Task Management on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-windows-experience-upgrade-home-to-pro/"><u>Enhancing Windows Experience: Upgrade Home to Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/filmography-foundation-answer-hub/"><u>Filmography Foundation Answer Hub</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-c7000-review-a-fantastic-wireless-modem/"><u>Netgear Nighthawk C7000 Review: A Fantastic Wireless Modem</u></a></li>
+<li><a href="https://article-posts.techidaily.com/skip-the-hassle-merging-skype-and-zoom-features-for-2024/"><u>Skip the Hassle Merging Skype & Zoom Features for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-powerhouse-portable-radio-transceiver-a-detailed-look-at-the-midland-gxt1000vp4/"><u>The Powerhouse Portable Radio Transceiver - A Detailed Look at the Midland GXT1000VP4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-7-ideal-cell-phone-contracts-for-seniors/"><u>Top 7 Ideal Cell Phone Contracts for Seniors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-network-attached-storage-solutions-a-comprehensive-guide/"><u>Top-Rated Network Attached Storage Solutions : A Comprehensive Guide</u></a></li>
 </ul></div>
 

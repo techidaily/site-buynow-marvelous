@@ -1,7 +1,7 @@
 ---
 title: "Uninspired Launch for Godfall: Why Sony's Only PS5 Exclusive Falls Short"
-date: 2024-09-17T17:02:07.156Z
-updated: 2024-09-20T16:35:37.402Z
+date: 2024-12-22T11:55:27.675Z
+updated: 2024-12-25T10:28:19.199Z
 categories:
   - BestProducts
 description: "This Article Describes Uninspired Launch for Godfall: Why Sony's Only PS5 Exclusive Falls Short"
@@ -40,10 +40,7 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 * [Apple AirPods (3rd Generation) Wireless Ear Buds](https://www.amazon.com/dp/B0D1WXVQTN?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $120 (was $169)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPads & MacBooks
@@ -54,16 +51,13 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 * [Apple 2024 MacBook Air 13-inch Laptop with M3 chip](https://www.amazon.com/dp/B071GGB84Y?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $899 (was $1099)
 * [Apple 2022 MacBook Air Laptop with M2 chip](https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3CDZLTB?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $799 (was $999)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple AirTag
 
 ![Apple AirTag, Amazon Apple](https://www.lifewire.com/thmb/FipFdA6HAHhnqkyPxPSxtPkhMbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amazon-apple-after-christmas-deals-121923-8-34d5dafd52504e70ac9e89bc39b8aed6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Amazon
 
@@ -77,6 +71,10 @@ Amazon
 
 ![A set of four Apple AirTags](https://www.lifewire.com/thmb/oSijRZK4BqdndZJLrET-tiN-Kp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleAirTag-6c3832f854c24710890ba380ef01ff86.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Amazon
 
  Orig.$99 [$75 at Amazon](https://united.elfm.net/zqobdx)
@@ -85,13 +83,6 @@ Amazon
 
 ![Apple Pencil (2nd Generation)](https://www.lifewire.com/thmb/s0BIvaUqu6ZcjV4a9mIbMddr6Hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ApplePencil2ndGeneration-c36a1762bd384a35bd468ba37708e1a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  Orig.$129 [$79 at Amazon](https://lenovo-in.zlvv.net/kj14kn)
@@ -99,13 +90,6 @@ Apple
  The 2nd-generation Apple Pencil attaches, charges, and pairs magnetically with your iPad, so it's always ready to use.
 
  Do you already have an iPad? If so, check our[Apple Pencil compatibility chart](https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841) to make sure they'll work together.[](https://www.amazon.com/Apple-Wireless-Charging-Case-AirPods/dp/B07PYLKTD8?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple AirPods Pro (2nd Generation)
 
@@ -117,9 +101,17 @@ Amazon
 
  Apple's AirPods Pro (2nd gen) offer excellent wireless sound, active noise cancellation, and four pairs of silicone tips so you can get the perfect fit. (And keep them in your ears!)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPad 10.2-inch (9th Generation)
 
 ![Apple 10.2-inch iPad 64GB (9th generation).](https://www.lifewire.com/thmb/Fz5fzdr5T2V7XBiWdboOc99fwHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleiPad9thGeneration_Amazon-0fbd83ca454840278d06c4a85943f974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Amazon
 
@@ -127,16 +119,13 @@ Amazon
 
  Need a tablet but don't want to break the bank? This 9th gen iPad is fast, with ample storage (256 GB), and is compatible with popular accessories including Apple's Smart Keyboard case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch Series 9 \[GPS 41mm\] Smartwatch
 
 ![Three Apple Watches in a row. Starting on the left is the Apple Watch SE (gen 2), Apple Watch Series 9 in the middle, and the Apple Watch Ultra 2 on the right.](https://www.lifewire.com/thmb/2xI4aMDe_iS79cxcVVcfvcWyMq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchlineup-b20fe549d8374cac9ec8afd8e08118a2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc.
 
@@ -171,5 +160,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-rated-mp4-video-save-and-review/"><u>[New] 2024 Approved Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-2023-full-movement-analysis/"><u>[New] In 2024, 2023 Full Movement Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-cutting-edge-methods-for-inserting-vimeo-content-in-ppts/"><u>[New] In 2024, Cutting-Edge Methods for Inserting Vimeo Content in PPTs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-proven-strategies-for-professional-green-screen-filming-for-2024/"><u>[New] Proven Strategies for Professional Green Screen Filming for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-speech-recording-top-apps-for-your-ipad-for-2024/"><u>[Updated] Mastering Speech Recording Top Apps for Your iPad for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/craft-your-identity-oculuss-latest-avatar-features/"><u>Craft Your Identity: Oculus’s Latest Avatar Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-leveraging-chatgpt-for-successful-job-interview-practice/"><u>Effective Strategies: Leveraging ChatGPT for Successful Job Interview Practice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/jaco-smartpro-digital-tire-inflator-review-a-compact-powerful-tire-inflator/"><u>Jaco SmartPro Digital Tire Inflator Review: A Compact, Powerful Tire Inflator</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-creative-illustration-boards-the-ultimate-2024-guide/"><u>Leading Creative Illustration Boards: The Ultimate 2024 Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/m1-chip-powerhouse-a-comprehensive-ipad-pro-review-unleashing-laptop-level-performance/"><u>M1 Chip Powerhouse: A Comprehensive iPad Pro Review - Unleashing Laptop-Level Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterclass-review-why-microsofts-ergonomic-keyboard-is-a-game-changer-for-productivity/"><u>Masterclass Review: Why Microsoft’s Ergonomic Keyboard Is a Game Changer for Productivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meow-moments-cam-joyful-pet-surveillance-for-everyone/"><u>Meow Moments Cam: Joyful Pet Surveillance for Everyone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-virtual-realm-with-vive-cosmos-superior-quality-in-a-competitive-market/"><u>Navigating the Virtual Realm with Vive Cosmos: Superior Quality in a Competitive Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oceanecho-review-soundproof-capacity-underwater/"><u>OceanEcho Review: Soundproof Capacity Underwater</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-300-on-the-asus-vivobook-pro-exclusive-discounts-at-amazon/"><u>Save $300 on the Asus VivoBook Pro: Exclusive Discounts at Amazon</u></a></li>
+</ul></div>
 

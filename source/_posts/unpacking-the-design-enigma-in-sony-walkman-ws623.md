@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2024-12-13T16:11:21.559Z
-updated: 2024-12-16T16:49:34.132Z
+date: 2024-12-22T17:10:40.776Z
+updated: 2024-12-25T02:16:16.327Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -39,13 +39,13 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 3.6
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -69,6 +69,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
@@ -89,10 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
@@ -100,7 +100,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -110,7 +110,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
@@ -135,17 +135,21 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: A bit sluggish but good enough**
 
@@ -168,10 +172,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -220,22 +220,16 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-economical-systems-optimized-by-ideal-obs-settings-for-2024/"><u>[New] Economical Systems Optimized by Ideal OBS Settings for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-exhaustive-explanation-whats-behind-google-podcast/"><u>[New] In 2024, Exhaustive Explanation What's Behind Google Podcast?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pause-autoplay-on-youtube-suggested-videos/"><u>[Updated] In 2024, Pause Autoplay on YouTube Suggested Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/applecare-plus-is-longer-coverage-your-techs-best-friend/"><u>AppleCare Plus: Is Longer Coverage Your Tech's Best Friend?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/considering-the-impact-of-switching-to-macos-sonoma/"><u>Considering the Impact of Switching to macOS Sonoma</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-best-tablet-for-you-an-in-depth-look-at-amazon-fire-vs-samsung-options/"><u>Decoding the Best Tablet for You - An In-Depth Look at Amazon Fire Vs. Samsung Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-advanced-4k-hdr10plus-capabilities-of-the-samsung-tv-qn55q60rafxza-smart-reviewed-here/"><u>Explore the Advanced 4K HDR10+ Capabilities of the Samsung TV - QN55Q60RAFXZA Smart Reviewed Here!</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/facebook/"><u>Facebook に戻されなかった写真を取り戻す究極ガイド</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-on-yn560ivs-speedy-flash-and-master-control-all-for-less/"><u>Get Your Hands on YN560IV's Speedy Flash & Master Control, All for Less!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-redirecting-powershell-command-results-into-files/"><u>Guide: Redirecting PowerShell Command Results Into Files</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-real-time-voice-to-action-no-price-tag/"><u>In 2024, Real-Time Voice to Action, No Price Tag</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g04-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G04 Phone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-opting-for-applecareplus-a-wise-decision-or-not/"><u>Is Opting for AppleCare+ a Wise Decision or Not?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleash-potential-in-macbook-pro-via-ssd-installation/"><u>Unleash Potential in MacBook Pro via SSD Installation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-latest-iteration-of-apples-economical-ipad-8th-gen-a-step-towards-superior-performance/"><u>Unveiling the Latest Iteration of Apple's Economical iPad (8Th Gen) - A Step Towards Superior Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/viewframe-xd-awe-inspiring-yet-excessively-expensive/"><u>ViewFrame XD: Awe-Inspiring Yet Excessively Expensive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-average-income-for-popular-youtube-creators/"><u>[New] 2024 Approved Average Income for Popular YouTube Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-video-vanguard-vs-studio-giants/"><u>[New] Video Vanguard VS Studio Giants</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-keep-your-feed-pure-stop-suggested-posts-for-2024/"><u>[Updated] How to Keep Your Feed Pure Stop Suggested Posts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-performance-advanced-computer-guides-by-tomn-hardware/"><u>Discover Top Performance: Advanced Computer Guides by Tom'n Hardware</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-generating-innovative-email-concepts-with-massmail-tool/"><u>Effective Strategies for Generating Innovative Email Concepts with MassMail Tool</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-choosing-an-anker-superspeed-usb-30-multi-port-hub/"><u>The Definitive Guide to Choosing an Anker SuperSpeed USB 3.0 Multi-Port Hub</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lost-potential-of-godfall-a-bland-first-party-game-for-playstation-5/"><u>The Lost Potential of Godfall, a Bland First-Party Game for PlayStation 5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-new-imac-m1-unveiled-an-ultimate-blend-of-style-speed-and-visual-excellence/"><u>The New iMac M1 Unveiled: An Ultimate Blend of Style, Speed, and Visual Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-asus-zephyrus-g14-uncompromised-quality-for-serious-gamers/"><u>The Ultimate Verdict on Asus Zephyrus G14: Uncompromised Quality for Serious Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-uniherz-atom-xl-showdown-how-a-small-phone-packs-big-rugged-strength/"><u>The Uniherz Atom XL Showdown: How a Small Phone Packs Big Rugged Strength</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-11-makeover-choosing-the-perfect-wallpaper/"><u>Windows 11 Makeover Choosing the Perfect Wallpaper</u></a></li>
 </ul></div>
 

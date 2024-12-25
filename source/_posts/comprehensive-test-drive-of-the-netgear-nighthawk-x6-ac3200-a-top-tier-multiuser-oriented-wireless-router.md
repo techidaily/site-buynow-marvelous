@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Test Drive of the Netgear Nighthawk X6 AC3200 - A Top-Tier, Multiuser-Oriented Wireless Router
-date: 2024-09-19T17:28:29.596Z
-updated: 2024-09-20T16:29:24.529Z
+date: 2024-12-21T18:38:22.828Z
+updated: 2024-12-25T11:30:56.829Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Test Drive of the Netgear Nighthawk X6 AC3200 - A Top-Tier, Multiuser-Oriented Wireless Router
@@ -38,6 +38,10 @@ Lifewire / Erika Rawes
 [View On Amazon $199](https://www.amazon.com/dp/B07P3FGKYD?tag=lifewire-onsite-prod-20&ascsubtag=4942498%7Cn31dea18fa28a4d9a88e5e3a62470a49720%7CB07P3FGKYD) [View On Adorama.com $450](https://www.adorama.com/nerax120100n.html?utm%5Fsource=google&utm%5Fmedium=organic&utm%5Fcampaign=organicshopping&utm%5Fsource=adl-gbase-hometech) [View On B&H Photo Video $399](https://www.bhphotovideo.com/c/product/1469206-REG/netgear%5Frax120%5Fnighthawk%5Fax12%5F12%5Fstream%5Fwifi.html)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
@@ -77,14 +81,11 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/fw0FJuD9bAOkQEHuAZ9OFq5toXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_05-2a03227466354aad82fe55b884b76ac6-4d18f476974a44b081aafc943a8e56b1.jpg)
 
-Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Lifewire / Erika Rawes
 
 ## **Setup: Quick and easy**
 
@@ -93,10 +94,7 @@ Lifewire / Erika Rawes
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
@@ -109,14 +107,11 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Network performance: Stellar**
 
@@ -129,6 +124,10 @@ Lifewire / Erika Rawes
  Final Verdict
 
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
 
@@ -150,13 +149,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
@@ -170,6 +162,10 @@ Lifewire / Erika Rawes
  **A cool looking router that’s faster and more powerful than you probably need.**
 
  The Nighthawk RAX120 performs impressively, but it‘s costly and lacks some user-friendly features like strong parental controls and easy-to-manage antivirus, so it’ll be more desirable for those with heavier networking demands than the average user.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -207,5 +203,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-ppt-recording-tactics-and-tricks/"><u>[Updated] Professional PPT Recording Tactics and Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/avoiding-instagrams-false-facade-for-a-solid-stature-for-2024/"><u>Avoiding Instagram's False Facade for a Solid Stature for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-how-apples-202n-arm-based-mac-mini-outperforms-its-competitors/"><u>Comprehensive Review: How Apple's 202N ARM-Based Mac Mini Outperforms Its Competitors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-top-performance-gear-running-watches-of-2024/"><u>Comprehensive Review: Top Performance Gear - Running Watches of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crucial-points-to-ponder-for-the-best-fitness-tracker-choice/"><u>Crucial Points To Ponder For The Best Fitness Tracker Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-advanced-terms-for-gamers-perfect-choices/"><u>Decoding Advanced Terms for Gamers' Perfect Choices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dji-mavic-3-review/"><u>DJI Mavic 3 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-the-future-with-an-advanced-iphone/"><u>Embracing the Future with an Advanced iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-tips-what-you-should-consider-with-smart-tvs/"><u>Essential Tips: What You Should Consider with Smart TVs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-value-of-netflix-for-your-budget/"><u>Evaluating the Value of Netflix for Your Budget</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-stalled-asana-functionality-in-windows-environment/"><u>Quick Remedies for Stalled Asana Functionality in Windows Environment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-visual-narratives-using-prime-text-extensions/"><u>Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-compatibility-issues-with-display-input-timing-fixed/"><u>Solution Found: Compatibility Issues with Display Input Timing Fixed!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-smart-8-plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Smart 8 Plus? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a1-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A1 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-downloading-behringer-usb-sound-card-drivers/"><u>Ultimate Guide to Downloading Behringer USB Sound Card Drivers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/entures-in-cosmetics-how-to-create-your-fashion-forward-channel-for-2024/"><u>Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel for 2024</u></a></li>
+</ul></div>
 

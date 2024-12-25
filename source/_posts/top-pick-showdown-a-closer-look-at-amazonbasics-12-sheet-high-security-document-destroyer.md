@@ -1,7 +1,7 @@
 ---
 title: "Top Pick Showdown: A Closer Look at AmazonBasics' 12 Sheet High Security Document Destroyer"
-date: 2024-09-13T17:31:30.815Z
-updated: 2024-09-20T16:11:08.465Z
+date: 2024-12-23T08:48:59.741Z
+updated: 2024-12-24T16:38:40.720Z
 categories:
   - BestProducts
 description: "This Article Describes Top Pick Showdown: A Closer Look at AmazonBasics' 12 Sheet High Security Document Destroyer"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 4.5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Anker PowerDrive 2 24W Dual USB Car Charger
 
 ![Anker PowerDrive 2](https://www.lifewire.com/thmb/mk2ndJKMrOgGOYfE8uNwJVYkaTk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4053582_Hero-2f8cd7af2da04ce48dce54d7f045bf01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Nick Jaynes
 
@@ -42,6 +50,10 @@ Lifewire / Nick Jaynes
 
 ![Anker PowerDrive 2](https://www.lifewire.com/thmb/kUpys0K04ePH0SuEfAENz--MXSk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4053582_Hero-2f8cd7af2da04ce48dce54d7f045bf01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Nick Jaynes
 
 [View On Amazon $11](https://www.amazon.com/Anker-Charger-PowerDrive-Samsung-Motorola/dp/B014IBIMEW/?tag=lifewire-onsite-prod-20&ascsubtag=4686818%7Cnd7f7a98277d245b4b9e665cea9f2aa9d21%7CB014IBIMEW) [View On Walmart](https://www.walmart.com/ip/Anker-24W-4-8A-Dual-USB-Car-Charger-PowerDrive-2-for-iPhone-6-6s-6-Plus-Note-5-iPad-Air-2-Galaxy-S7-S6-S6-Edge-Edge-Note-5-and-More/191316160) [View On Anker](https://us.anker.com/products/a2310?currency=USD&variant=37436889464982)
@@ -63,6 +75,10 @@ Lifewire / Nick Jaynes
 
  Lifewire / Nick Jaynes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: All-plastic, but sturdy and subtle**
 
  The Anker PowerDrive 2 might not be the sharpest or most cutting-edge looking in-car USB charger, but what it lacks in visual pizazz, it more than makes up for in sturdiness.
@@ -76,10 +92,7 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Fast charging for demanding devices**
@@ -112,13 +125,6 @@ Lifewire / Nick Jaynes
 
  The price is fair, the charging is fast, and the design is unobtrusive. It’s hard to ask for much more.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specs
 
 * Product Name  PowerDrive 2 24W Dual USB Car Charger
@@ -143,5 +149,24 @@ Lifewire / Nick Jaynes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-11-insider-tips-for-outstanding-hue-alignment/"><u>[New] 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-online-identity-unlocked-establishing-a-new-youtube-chanel-today/"><u>[New] Your Online Identity Unlocked Establishing a New YouTube Chanel Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-pce-ac56-driver-update-guide-ensuring-seamless-connectivity-for-windows-operating-systems/"><u>ASUS PCE-AC56 Driver Update Guide: Ensuring Seamless Connectivity for Windows Operating Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-blueprint-for-green-screen-in-kinemaster/"><u>Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/charge-ahead-with-confidence-discover-the-efficiency-of-the-poweradd-pilot-pro2-for-your-electronic-essentials/"><u>Charge Ahead with Confidence - Discover the Efficiency of the POWERADD Pilot Pro2 for Your Electronic Essentials</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-reliable-discover-the-power-of-hp-stream-11-for-daily-use/"><u>Compact and Reliable: Discover the Power of HP Stream 11 for Daily Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-woes-why-some-older-cpus-cant-run-windows-11-effectively/"><u>Compatibility Woes: Why Some Older CPUs Can't Run Windows 11 Effectively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-acer-predator-triton/"><u>Comprehensive Acer Predator Triton</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-breakdown-of-the-highly-acclaimed-samsung-galaxy-tab-s7plus/"><u>Comprehensive Breakdown of the Highly Acclaimed Samsung Galaxy Tab S7+</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-linksys-ac1900-mammoth-ideal-choice-for-home-and-office-networks/"><u>Comprehensive Guide to the Linksys AC1900 Mammoth: Ideal Choice for Home and Office Networks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-economical-apple-watch-se/"><u>Comprehensive Review of the Economical Apple Watch SE</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-s21-ultra-assessment-the-pinnacle-of-android-phones/"><u>Comprehensive Samsung Galaxy S21 Ultra Assessment: The Pinnacle of Android Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-drive-of-the-netgear-nighthawk-x6-ac3200-a-top-tier-multiuser-oriented-wireless-router/"><u>Comprehensive Test Drive of the Netgear Nighthawk X6 AC3200 - A Top-Tier, Multiuser-Oriented Wireless Router</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturecanvas-hd-screen-toolkit/"><u>In 2024, CaptureCanvas HD Screen Toolkit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transition-techniques-decreasing-volume-gradually-in-pp/"><u>Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshoot-like-a-pro-advanced-techniques-to-restore-windows-update-functionality-in-windows-11-and-10/"><u>Troubleshoot Like a Pro: Advanced Techniques to Restore Windows Update Functionality in Windows 11 & 10</u></a></li>
+</ul></div>
 

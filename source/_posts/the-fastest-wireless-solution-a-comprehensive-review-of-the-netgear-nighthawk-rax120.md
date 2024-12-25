@@ -1,7 +1,7 @@
 ---
 title: The Fastest Wireless Solution? A Comprehensive Review of the Netgear Nighthawk RAX120
-date: 2024-09-17T16:59:12.409Z
-updated: 2024-09-20T16:56:19.872Z
+date: 2024-12-19T07:41:30.445Z
+updated: 2024-12-25T01:41:22.454Z
 categories:
   - BestProducts
 description: This Article Describes The Fastest Wireless Solution? A Comprehensive Review of the Netgear Nighthawk RAX120
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -74,6 +78,10 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
 
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Avoid the app**
 
  The setup options for the Netgear Nighthawk AX8 are the same as with Netgear’s other extenders—even those without Wi-Fi 6 support. You’ll begin with the extender plugged in near your router. If your router supports[WPS](https://www.lifewire.com/what-is-wps-4842308) , then you can pair the extender with it easily by following the process listed in the included booklet, which is as simple as pressing a button on the router and then doing the same on the extender.
@@ -87,19 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Connectivity: Smooth sailing**
@@ -118,6 +120,10 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -125,13 +131,6 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
  It’s billed as an “8-stream” device, so it should be able to handle several simultaneous media streams at once, with a billed max speed of 4.8Gbps on the 5GHz band and 1.2Gbps on the 2.4GHz band. It has[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) (multiple users, multi-in multi-out) and beamforming capabilities, promising expanded range of up to 2,500 square feet and support for 30+ simultaneous devices.
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: More than most**
 
@@ -173,5 +172,22 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-prove-your-expertise-with-these-windows-10-tricks/"><u>[Updated] In 2024, Prove Your Expertise with These Windows 10 Tricks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-samsungs-vision-innovations-in-image-editor-software/"><u>[Updated] In 2024, Samsung’s Vision Innovations in Image Editor Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-ps-console-remotes-to-nintendo-switch/"><u>Connecting PS Console Remotes to Nintendo Switch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-googles-wireless-mesh-system-top-speed-and-stability-for-home-networking/"><u>Expert Insights on Google's Wireless Mesh System: Top Speed and Stability for Home Networking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-amazon-kindle-paperwhite-a-comprehensive-review/"><u>Expert Insights: Amazon Kindle Paperwhite - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-world-of-diy-robotics-with-our-complete-review-on-makeblocks-mbot-construction-set/"><u>Explore the World of DIY Robotics with Our Complete Review on Makeblock's mBot Construction Set</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-classic-videogames-an-in-depth-evaluation-of-the-legendary-nintendo-game-and-watch-with-a-focus-on-super-mario-bros/"><u>Exploring Classic Videogames: An In-Depth Evaluation of the Legendary Nintendo Game & Watch with a Focus on Super Mario Bros</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-mobvoi-ticwatch-pro-cufflinks-4g-a-standout-selection-in-the-world-of-smart-wearables/"><u>Exploring the Features of Mobvoi TicWatch Pro Cufflinks 4G: A Standout Selection in the World of Smart Wearables</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-performance-meets-luxury-in-glion-dolly-electric-scooter-a-comprehensive-review/"><u>High Performance Meets Luxury in Glion Dolly Electric Scooter - A Comprehensive Review</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y56-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-insights-on-the-minecraft-campfire-tales-apparel-set/"><u>In-Depth Analysis and Insights on the Minecraft Campfire Tales Apparel Set</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-onedrive-cloud-operation-issues/"><u>Strategies for Overcoming OneDrive Cloud Operation Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/wmvmpeg-movemagic/"><u>WMVからMPEGへの無償オンラインビデオコンバート - MoveMagic</u></a></li>
+<li><a href="https://win-popular.techidaily.com/yl-software-explains-the-easy-way-to-establish-a-secure-cryptocurrency-wallet/"><u>YL Software Explains the Easy Way to Establish a Secure Cryptocurrency Wallet!</u></a></li>
+</ul></div>
 

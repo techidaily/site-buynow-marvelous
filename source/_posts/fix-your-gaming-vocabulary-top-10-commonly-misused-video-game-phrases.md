@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2024-12-09T16:54:42.616Z
-updated: 2024-12-16T18:06:45.810Z
+date: 2024-12-21T21:40:40.115Z
+updated: 2024-12-24T19:29:27.374Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 ---
 
 ## Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 ![Death Stranding's Capital Knot City.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/death_stranding.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Death Stranding_  
 Tim Brookes / How-To Geek
 
@@ -49,14 +49,14 @@ Tim Brookes / How-To Geek
 
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Microsoft Flight Simulator 2020_  
 Tim Brookes / How-To Geek
 
  However, people in the gaming world throw this word around a little liberally. There's the tongue-in-cheek stuff like _Surgeon Simulator_ where the joke is that it's the opposite of a simulator, but then there's a fuzzy area where some games that have a veneer of realism are referred to as simulators as well. Add to this, that simulation fidelity can vary and games often have very simplified simulations of some things in service of gameplay, and not realism, and it's easy to apply the term where it doesn't belong.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Isometric
 
@@ -64,15 +64,27 @@ Tim Brookes / How-To Geek
 
 ![Fallout 2 from Black Isle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fallout_2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Interplay/Bethesda Softworks
 
  The silliest use I've seen myself is in reference to _Baldur's Gate 3,_which is a true 3D game, with a movable camera that can be moved from a top-down perspective all the way down to an over-the-shoulder view. So it's not isometric in any sense of the word. To be even more pedantic, many "isometric" games from the classic gaming era weren't isometric either. The first _Fallout_ game, for example, was trimetric.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  RPG
 
  Role-Playing Games (RPGs) are a popular genre of game you can find in both tabletop, video game, and live-action formats. Players assume the role of a character in a fictional setting, and then explore that world, making choices, and pursuing quests and goals. These games are built on a game rules framework, such as [Dungeons & Dragons](https://dnd.wizards.com/) or [GURPS](https://www.sjgames.com/gurps/).
 
 ![Screenshot from Bethesda RPG Starfield on Xbox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/starfield.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Starfield_  
 Tim Brookes / How-To Geek
@@ -86,17 +98,13 @@ Tim Brookes / How-To Geek
 ![Helldivers 2 by Arrowhead Game Studios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/helldivers2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Helldivers 2_  
 Arrowhead Game Studios
 
  Whether you approve of "P2W" games or not, the term only applies to games where money can get you a significant advantage over other players. So, for example, it can never apply to a single-player game. Likewise, it can't apply to a PvE (Player Versus Enemy) game such as _Helldivers II_ because all the players are on the same side and the enemies are non-player characters.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Microtransaction vs DLC
 
@@ -114,10 +122,6 @@ Arrowhead Game Studios
 
  However, installing something from local media is not "downloading". That only applies to data that you receive from a server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Ray Tracing
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
@@ -127,10 +131,6 @@ Cianna Garrison / How-To Geek
 "Cyberpunk 2077"
 
 [Ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) is a graphics rendering technique that simulates how light in the real world interacts with objects. It's the closest we've come to truly photorealistic graphics, but plenty of people can't tell when something is an example of ray tracing or not. There's a misconception that any reflections in a game that look realistic means the game has ray tracing, but that's simply not true. To muddy things even more, ray tracing can be applied selectively to global lights like the sun, to local light, to reflections, and to shadows. For example, many games with ray tracing on current-generation consoles have ray-traced shadows, but not reflections. Yet many players think the reflections are ray-traced. Here's a tip: ray-traced reflections usually reflect objects that are not currently visible on-screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Indie Games
 
@@ -155,19 +155,22 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-threads-of-time-looms-screen-record-mastery/"><u>[New] In 2024, Threads of Time Loom's Screen Record Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-collective-wisdom-on-easeus-products-for-2024/"><u>[Updated] Collective Wisdom on EaseUS Products for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-engagement-optimizing-videos-for-peak-views/"><u>2024 Approved Skyrocket Engagement Optimizing Videos for Peak Views</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-superior-sound-capture-insiders-list-of-the-best-9-microphones-online/"><u>2024 Approved Superior Sound Capture Insider's List of the Best 9 Microphones Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-f14-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy F14 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/implement-avastar-acwire-driver-for-dell-laptops/"><u>Implement Avastar ACWIRE Driver for Dell Laptops</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-value-for-money-laptops-a-comprehensive-guide/"><u>Top Value-for-Money Laptops : A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-wacom-graphics-tablet/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Wacom Graphics Tablet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-ideal-scanner-2024s-top-picks-unveiled/"><u>Ultimate Guide to Choosing the Ideal Scanner - 2024'S Top Picks Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-leading-travel-friendly-power-banks/"><u>Ultimate Guide to the Leading Travel-Friendly Power Banks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-choosing-the-perfect-ipad-stand/"><u>Ultimate Guide: Choosing the Perfect iPad Stand</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-android-tablets-unveiled/"><u>Ultimate Guide: Leading Android Tablets Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-ranking-2024-best-car-battery-chargers-tested-by-experts-tech-insights-on-zdnet/"><u>Ultimate Ranking: 2024 Best Car Battery Chargers Tested by Experts | Tech Insights on ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-15-sites-offering-premium-free-vectr-and-illustration-tools-and-services-for-2024/"><u>[New] 15 Sites Offering Premium-Free Vectr and Illustration Tools & Services for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>[Updated] Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-companion-best-cd-players-and-changers-24/"><u>Audiophile’s Companion: Best CD Players & Changers '24</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-and-assessment-why-apples-airtag-stands-out-for-iphone-owners/"><u>Comprehensive Guide & Assessment: Why Apple's AirTag Stands Out for iPhone Owners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/convenient-youtube-viewing-activate-picture-in-picture-on-iphone-for-2024/"><u>Convenient YouTube Viewing Activate Picture-in-Picture on iPhone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-a-sonic-whatsapp-update/"><u>Craft a Sonic WhatsApp Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-features-of-the-5g-ready-samsung-galaxy-s20-fan-edition-review/"><u>Exploring the Best Features of the 5G Ready Samsung Galaxy S20 Fan Edition Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1109001-9781476730974-fire-from-within/"><u>Fire from Within | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hitman-trilogy-finale-hitman-3-revealed-and-reviewed/"><u>Hitman Trilogy Finale - Hitman 3 Revealed and Reviewed</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-download-a-movie-onto-google-drive-step-by-step-guide/"><u>How To Download A Movie Onto Google Drive – Step-By-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-investing-in-linkedin-premium-worth-it/"><u>Is Investing in LinkedIn Premium Worth It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/optimizing-google-nest-speakers/"><u>Optimizing Google Nest Speakers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-the-perfectly-sized-amazon-basics-tablet-support-for-on-the-go-use/"><u>Review: The Perfectly Sized Amazon Basics Tablet Support for On-the-Go Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thought-innovation-ai-mindmaps-for-ideas/"><u>Thought Innovation: AI, Mindmaps for Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44kz44oz44ou44ol44o844k44gr44gk44gr44kl44kw44op44ov44kj44od44kv44kr44o844oj44gu6auy6ycf5yyw5qmf6io944gm44gc44kk44gplus44gz44glpplusobneocjoockuocquodsplusod2/"><u>コンピュータにおけるグラフィックカードの高速化機能がありますか?それをオン・オフできるようにする手順</u></a></li>
 </ul></div>
 
