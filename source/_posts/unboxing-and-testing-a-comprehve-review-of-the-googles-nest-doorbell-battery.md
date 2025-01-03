@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
-date: 2024-12-18T08:34:10.263Z
-updated: 2024-12-25T07:25:02.442Z
+date: 2024-12-29T18:56:20.198Z
+updated: 2025-01-03T18:32:57.167Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing and Testing: A Comprehve Review of the Google's Nest Doorbell (Battery)"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AmazonBasics Ultra-Thin Antenna
@@ -66,6 +66,10 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -73,10 +77,6 @@ Lifewire / Erika Rawes
  It doesn’t come with a stand, but it does include 3M double-sided adhesives you can use to attach the antenna to walls or other surfaces. It also comes with a 10-foot long coax cable, which is removable. The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup: Relatively easy**
 
@@ -89,16 +89,24 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Almost two dozen channels (in a rural area)**
 
  So many things[affect an antenna’s performance](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) —location, household electronics, tree cover, tower location, and more. The antenna displays channels of high quality. However, sometimes the channels would take a few seconds to load, and other times, I’d see a pixelated effect when I first changed the channel that would clear up after a few seconds. Once the picture was fully loaded, it was in clear high definition. The antenna is capable of displaying a clear HD picture, so I couldn’t tell the difference between the antenna’s picture and the picture from streaming services like Hulu or Netflix.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -116,15 +124,7 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
@@ -167,18 +167,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[Updated] Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-gaming-experience-nintendo-switch-and-steam-synergy/"><u>[Updated] Elevate Your Gaming Experience Nintendo Switch and Steam Synergy</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-unfollow-detection-for-2024/"><u>[Updated] Mastering Instagram Unfollow Detection for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-resisting-insta-imposters-protect-your-profiles-prestige-for-2024/"><u>[Updated] Resisting Insta Imposters Protect Your Profile's Prestige for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-mac-screen-clips-roundup-under-156-chars/"><u>Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-luxury-levels-screen-brightness-on-android/"><u>In 2024, Luxury Levels Screen Brightness on Android</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-multifunctionality-with-hp-chromebook-11-a-top-pick-for-students-professionals-and-gamers/"><u>Mastering Multifunctionality with HP Chromebook 11 - A Top Pick for Students, Professionals, & Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/owc-mercury-pro-unleashed-a-top-titan-for-superior-drive-performance-and-capacity/"><u>OWC Mercury Pro Unleashed: A Top Titan for Superior Drive Performance and Capacity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/paramount-factors-for-pre-used-tech-acquisition/"><u>Paramount Factors for Pre-Used Tech Acquisition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/portable-prowess-a-closer-review-of-the-razer-book-13-features/"><u>Portable Prowess: A Closer Review of The Razer Book 13 Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ring-vs-nest-detailed-comparison-for-your-smart-home-security-choice/"><u>Ring vs Nest: Detailed Comparison for Your Smart Home Security Choice</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-cat-s42-durable-device-evaluation-robust-shield-vs-limited-velocity/"><u>Samsung Cat S42 Durable Device Evaluation: Robust Shield vs Limited Velocity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-leading-edge-of-smartphone-ai-our-top-8-apps-review/"><u>The Leading Edge of Smartphone AI: Our Top 8 Apps Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-employee-training/"><u>[Updated] In 2024, Employee Training</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos/"><u>2024 Approved Cultivating Productive Collaboration A Pathway to Effective Collab Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ideal-techniques-for-noiseless-recording/"><u>2024 Approved Ideal Techniques for Noiseless Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-latest-3rd-generation-echo-dot-discovering-all-thats-possible-with-alexa-in-a-portable-package/"><u>Exploring the Latest 3Rd Generation Echo Dot: Discovering All That's Possible with Alexa in a Portable Package</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/have-you-experienced-the-latest-upgrades-assessing-the-worth-of-apple-airpods-pro-2022-insights-from-tech-analysts-at-zdnet/"><u>Have You Experienced the Latest Upgrades?: Assessing the Worth of Apple AirPods Pro 2022 - Insights From Tech Analysts at ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-lava-yuva-3-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Lava Yuva 3.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/identifying-ideal-release-moments-for-podcasts/"><u>Identifying Ideal Release Moments for Podcasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-go-digital-go-social-send-snaps-instantly/"><u>In 2024, Go Digital, Go Social Send Snaps Instantly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-snapchat-video-maximizing-mac-capabilities/"><u>Perfect Snapchat Video Maximizing Mac Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-face-off-breaking-down-the-specs-on-the-iphone-15-plus-vs-pro-max/"><u>The Ultimate Face-Off: Breaking Down the Specs on the iPhone 15 Plus Vs. Pro Max</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-considerations-for-consumers-preparing-to-upgrade-their-printer-technology/"><u>Top Considerations for Consumers Preparing to Upgrade Their Printer Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-sleep-gadgets-that-promise-a-blissful-tranquil-journey-into-dreamland/"><u>Top Sleep Gadgets That Promise a Blissful Tranquil Journey Into Dreamland</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-full-potential-a-detailed-evaluation-of-samsungs-feature-rich-gear-s3-frontier/"><u>Uncovering the Full Potential: A Detailed Evaluation of Samsung's Feature-Rich Gear S3 Frontier</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-secrets-of-the-amazfit-helio-ring-price-launch-info-and-complete-gadget-insights/"><u>Unlock the Secrets of the Amazfit Helio Ring - Price, Launch Info, and Complete Gadget Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-power-of-preview-on-your-mac-an-essential-image-editing-tutorial/"><u>Unlocking the Power of Preview on Your Mac: An Essential Image Editing Tutorial</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-benefits-of-choosing-the-x-chair-xe-executive-desk-chair-for-your-office-needs/"><u>Unveiling The Powerful Benefits of Choosing The X-Chair Xe Executive Desk Chair For Your Office Needs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/urban-armor-defender-for-macbook-pro-review-of-a-sturdy-and-functional-laptop-protector/"><u>Urban Armor Defender for MacBook Pro – Review of a Sturdy and Functional Laptop Protector</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/while-ipv6-is-designed-with-ipsec-support-actual-implementation-may-vary-security-measures-should-not-solely-rely-on-protocol-design-assumptions/"><u>While IPv6 Is Designed with IPsec Support, Actual Implementation May Vary; Security Measures Should Not Solely Rely on Protocol Design Assumptions.</u></a></li>
 </ul></div>
 

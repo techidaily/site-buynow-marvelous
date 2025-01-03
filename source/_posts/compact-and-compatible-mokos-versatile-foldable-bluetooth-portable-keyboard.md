@@ -1,7 +1,7 @@
 ---
 title: "Compact & Compatible: MoKo's Versatile Foldable Bluetooth Portable Keyboard"
-date: 2024-08-09T00:43:49.223Z
-updated: 2024-08-10T00:43:49.223Z
+date: 2024-12-30T20:56:22.568Z
+updated: 2025-01-03T17:52:35.243Z
 categories:
   - BestProducts
 description: "This Article Describes Compact & Compatible: MoKo's Versatile Foldable Bluetooth Portable Keyboard"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ## Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices
 
 4.6
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MoKo Universal Foldable Keyboard
 
@@ -37,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## MoKo Universal Foldable Keyboard
 
 [View On Amazon](https://www.amazon.com/MoKo-Universal-Ultra-Thin-Bluetooth-Compatible/dp/B01EHSLFAY/?tag=lifewire-onsite-prod-20&ascsubtag=4780289%7Cn5042862dc88b4247855b5214c266875a05%7CB01EHSLFAY)
@@ -66,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Design: Small, Compact, and Light
 
  Unlike traditional, full-size ergonomic keyboards, the MoKo is small—hardly larger than your hand when folded down to its collapsed size. Extended out, it’s only about a foot in length. It’s perfect for tossing in a purse, backpack,[laptop bag](https://www.lifewire.com/best-laptop-bags-to-buy-4072282) , or pocket and taking along on any commute or adventure. Better yet, thanks to a convenient magnet along the edges of the frame, there’s no fear of it accidentally opening up and being damaged in transit. The soft-grip back not only offers additional protection but also ensures that it’s not likely to shift on any surface upon which you’re typing. With these combined features, it’s a wonderful little travel companion.
@@ -79,11 +77,19 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  The hotkeys on the keyboard are located on the top row. These include several excellent built-in functions, such as cut, skipping forward or back in multimedia tracks, pausing music, increasing or decreasing volume, opening a new search, and several others. These are easy to use thanks to the function key on the lower-left hand side of the keyboard. One drawback, however, is the blue color used to identify these built-in functions is somewhat difficult to see in low-light conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup Process and Connectivity: Broad Device Compatibility
 
  The MoKo Universal Foldable Bluetooth Keyboard arrives in a small box with the keyboard itself, a small one-year free warranty card, a pamphlet with setup instructions, and a micro USB charging cable. One piece we wish it included is a stand for smartphones. While it’s compatible with them, it’s not very convenient to type on them without one. We’d highly recommend getting a separate stand if you’re considering this keyboard for a smartphone.
 
 ![MoKo Universal Foldable Bluetooth Keyboard](https://www.lifewire.com/thmb/kSFKzJNiMoWHKHqKIec3JqHwGpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Moko_ErgoKeyboards_2LW4147386_04-0b2a547be6764125ab80c1db9df177bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -93,26 +99,21 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  The MoKo is small—hardly larger than your hand when folded down to its collapsed size.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Battery: Plenty of Juice for Work
 
  The battery life of the MoKo is easy to fall in love with. The MoKo’s charge time is just under two hours and it can support up to 40 hours of uninterrupted work or 30 days of standby time. One added bonus of the keyboard being rechargeable was that we weren’t dependent upon having batteries when the keyboard inevitably ran out of charge. It also has the added benefit of entering a battery-saving mode after sitting idle for 30 minutes, so if you walk away and forget about it, it won’t continue to run out its charge. Reconnecting is easy, too. Simply press any key and, within 30 seconds or less, it’s ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Price: Highly Affordable
 
  Travel-size ergonomic keyboards generally retail for anywhere from $20-$50\. The MoKo retails for around $27 on Amazon. With its low price point, compact build, excellent portability, and great battery life, it’s well worth the price for commuters and frequent flyers who have limited space.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![MoKo Universal Foldable Bluetooth Keyboard](https://www.lifewire.com/thmb/_ZZ5LMz0jlm5vldVU2UTdDoXbeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Moko_ErgoKeyboards_2LW4147386_05-fc37bb4154314025a1a1bfae6c6f5e24.jpg)
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MoKo Universal Folding Keyboard vs. Jelly Comb B047
 
@@ -129,13 +130,9 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
  The MoKo Universal Foldable Bluetooth Keyboard is an ultra-thin, split keyboard that packs plenty of bang for your buck. Its U-shaped ergonomic design is comfortable, and with a battery life of up to 40 hours of continuous use or 30 days of standby time make it a great choice for commuters or frequent travelers.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Universal Foldable Keyboard
@@ -152,14 +149,11 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 * Charge Time  Less than 2 hours
 * Compatibility  Compatible with iPads, iPhones, Androids devices, tablets, and Windows desktop computers with Bluetooth capabilities. Not compatible with Windows Mobile.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,3 +161,23 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-apex-design-suite-assessment/"><u>[New] In 2024, Apex Design Suite Assessment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-callers-on-windows-top-8-sorted/"><u>[New] In 2024, Elite Callers on Windows Top 8 Sorted</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vegas-pro-2021-unpacked-game-changer-or-just-another-tool-in-2024/"><u>[New] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-eliminating-audio-absence-in-live-obs-sessions/"><u>[Updated] Eliminating Audio Absence in Live OBS Sessions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-chroma-magic-with-green-background-tech-for-newbies/"><u>[Updated] Mastering Chroma Magic with Green Background Tech for Newbies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/batch-conversion-of-media-files-using-vlc-player-a-comprehensive-guide/"><u>Batch Conversion of Media Files Using VLC Player - A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-insight-evaluating-fongo-as-a-reliable-canadian-voip-option/"><u>In-Depth Insight: Evaluating Fongo as a Reliable Canadian VOIP Option</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-the-pack-top-quality-usb-flash-drive-picks/"><u>Leading the Pack: Top-Quality USB Flash Drive Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-exploring-the-features-of-lenovos-9-inch-nook-tablet/"><u>Step by Step: Exploring the Features of Lenovo's 9-Inch Nook Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-oculus-quest-2-stellar-vr-gaming-for-a-fantastic-deal/"><u>The Ultimate Guide to the Oculus Quest 2 - Stellar VR Gaming for a Fantastic Deal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-7-aspects-to-evaluate-before-purchasing-smart-tv/"><u>Top 7 Aspects to Evaluate Before Purchasing Smart TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-step-by-step-imac-upgrades-for-intel-models/"><u>Ultimate Step-by-Step Imac Upgrades for Intel Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zmi-powerpack-2nkwh-unveiling-the-secrets-of-this-mobile-energy-marvel-a-thorough-assessment/"><u>ZMI PowerPack 2nkWh: Unveiling the Secrets of This Mobile Energy Marvel - A Thorough Assessment</u></a></li>
+</ul></div>
+
