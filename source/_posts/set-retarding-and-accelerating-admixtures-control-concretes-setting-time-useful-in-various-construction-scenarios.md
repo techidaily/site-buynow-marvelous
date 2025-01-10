@@ -1,7 +1,7 @@
 ---
 title: Set Retarding and Accelerating Admixtures Control Concrete's Setting Time, Useful in Various Construction Scenarios.
-date: 2024-12-11T17:30:23.144Z
-updated: 2024-12-16T16:31:24.973Z
+date: 2025-01-09T16:22:04.346Z
+updated: 2025-01-10T16:21:19.659Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Set Retarding and Accelerating Admixtures Control Concrete's Setting Time, Useful in Various Construction Scenarios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -98,10 +98,6 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
@@ -122,16 +118,12 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -144,23 +136,31 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -193,21 +193,22 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-premier-cycling-titles-to-try-out-for-2024/"><u>[Updated] Premier Cycling Titles to Try Out for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-efficient-two-screen-viewing-on-netflix/"><u>2024 Approved Explore Efficient Two-Screen Viewing on Netflix</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>2024 Approved Masterclass in Instagram Designing Eye-Catching Cover Images</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-the-cat-s4es-durability-versus-its-pace-in-a-rugged-phone-review/"><u>Comprehensive Assessment: The Cat S4e's Durability Versus Its Pace in a Rugged Phone Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-economical-and-powerful-topmate-c302-cooling-pad-a-detailed-assessment/"><u>Evaluating the Economical and Powerful TopMate C302 Cooling Pad: A Detailed Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hunt-down-the-best-savings-tune-into-amazing-offers-on-tribit-smart-earphones-and-bass-boosted-wireless-speakers-this-prime-day/"><u>Hunt Down the Best Savings - Tune Into Amazing Offers on Tribit Smart Earphones and Bass-Boosted Wireless Speakers This Prime Day</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-the-art-of-4k-videography-with-prime-optics/"><u>In 2024, Mastering the Art of 4K Videography with Prime Optics</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/non-stop-play-maximum-comfort-a-deep-dive-into-the-mavix-m9-gaming-chair/"><u>Non-Stop Play, Maximum Comfort: A Deep Dive Into the MAVIX M9 Gaming Chair</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-g24-power-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola G24 Power Screen | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solving-windows-screen-capture-issues-why-your-annotations-and-camera-images-may-be-missing/"><u>Solving Windows Screen Capture Issues: Why Your Annotations and Camera Images May Be Missing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/streamlined-design-and-functionality-unpacking-the-amazon-basics-compact-tablet-support/"><u>Streamlined Design & Functionality: Unpacking the Amazon Basics Compact Tablet Support</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essential-guide-to-the-aukey-usb-hub-usb-30-when-elegance-meets-effectiveness/"><u>The Essential Guide to the Aukey USB Hub (USB 3.0): When Elegance Meets Effectiveness</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-importance-of-non-primary-shots-in-media-for-2024/"><u>The Importance of Non-Primary Shots in Media for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-design-enigma-in-sony-walkman-ws623/"><u>Unpacking the Design Enigma in Sony Walkman WS623</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-must-have-keyword-gurus-for-video-success-for-2024/"><u>[Updated] 10 Must-Have Keyword Gurus for Video Success for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-portable-battery-packs-to-keep-recording-longer/"><u>[Updated] Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionary-entry-points-for-zooids-for-2024/"><u>[Updated] Revolutionary Entry Points for Zooids for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-game-changer-for-travelers-and-nature-enthusiasts-nikon-coolpix-p1000/"><u>A Game-Changer for Travelers & Nature Enthusiasts – Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-guide-preserving-screen-images-for-future-reference-in-microsoft-word/"><u>Complete Guide: Preserving Screen Images for Future Reference in Microsoft Word</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-the-apple-watch-series-9-stack-up-an-in-depth-product-assessment/"><u>How Does the Apple Watch Series 9 Stack Up? An In-Depth Product Assessment</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-xr21-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia XR21 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Phone without Any Data Loss</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>In 2024, Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-epson-ds-530-drivers-on-your-windows-11-computer-x64/"><u>Install Official Epson DS-530 Drivers on Your Windows 11 Computer (X64)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-new-ps5-worth-its-price-discover-four-benefits/"><u>Is the New PS5 Worth Its Price? Discover Four Benefits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sabrent-compact-travel-mouse-with-high-precision-tracking-and-detachable-cord/"><u>Sabrent Compact Travel Mouse with High-Precision Tracking & Detachable Cord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014078158-step-by-step-guide-to-smoother-play-in-dayz-eliminate-frame-drops-now/"><u>Step-by-Step Guide to Smoother Play in DayZ - Eliminate Frame Drops Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cutting-edge-in-photo-editing-review-and-breakdown-of-anthropics-smart-photo-editor/"><u>The Cutting Edge in Photo Editing: Review and Breakdown of Anthropics Smart Photo Editor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-gamers-choice-unveiled-the-comprehensive-guide-to-samsung-q6nq60r-smart-tv/"><u>Top Gamers' Choice Unveiled: The Comprehensive Guide to Samsung Q6nQ60R Smart TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reasons-to-buy-cheap-and-quick-the-truth-about-affordable-anker-car-chargers/"><u>Top Reasons to Buy Cheap and Quick: The Truth About Affordable Anker Car Chargers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/wholesale-sky-shelves-economic-bulk-data-holder/"><u>Wholesale Sky Shelves Economic Bulk Data Holder</u></a></li>
 </ul></div>
 

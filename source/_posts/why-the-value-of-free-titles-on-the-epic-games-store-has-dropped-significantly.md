@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2024-12-10T17:18:06.317Z
-updated: 2024-12-16T16:56:43.683Z
+date: 2025-01-07T16:16:57.690Z
+updated: 2025-01-10T16:04:33.541Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
@@ -43,13 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Game Saturation, or Having Too Much To Play
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8BitDo
 
@@ -64,7 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
@@ -88,7 +88,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Keep Collecting Epic's Free Games?
@@ -96,7 +96,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
@@ -118,18 +118,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-concepts-for-captivating-youtube-video-thumbnails-for-2024/"><u>[New] Cutting-Edge Concepts for Captivating YouTube Video Thumbnails for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-exclusive-review-top-10-gratis-gaming-screen-recorder-apps-for-2024/"><u>[New] Exclusive Review Top 10 Gratis Gaming Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhance-your-ios-experience-with-ps2-emulators/"><u>2024 Approved Enhance Your IOS Experience with PS2 Emulators</u></a></li>
-<li><a href="https://driver-error.techidaily.com/android-wrapper-for-windows-samsung/"><u>Android Wrapper for Windows (Samsung)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-a25-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy A25 5G Face Lock?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-sony-xperia-1-v-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Sony Xperia 1 V</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/speed-meets-security-in-depth-analysis-of-the-tri-band-netgear-nighthawk-x6-wifi-router-for-families/"><u>Speed Meets Security: In-Depth Analysis of the Tri-Band Netgear Nighthawk X6 WiFi Router for Families</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-creating-your-personal-nintendo-network-id-on-the-3ds-console/"><u>Step-by-Step Guide: Creating Your Personal Nintendo Network ID on the 3DS Console</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/storage-solutions-increase-your-pcs-capacity/"><u>Storage Solutions: Increase Your PC's Capacity</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/tailoring-your-experience-a-step-by-step-guide-to-adjusting-control-panel-preferences-with-yl-computing/"><u>Tailoring Your Experience: A Step-by-Step Guide to Adjusting Control Panel Preferences with YL Computing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-oneplus-6t-reviewed-high-performance-meets-budget-friendly-pricing/"><u>The OnePlus 6T Reviewed: High Performance Meets Budget-Friendly Pricing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-using-a-seatech-external-usb-burner-for-blu-ray-disc-authoring-a-review/"><u>The Pros and Cons of Using a SeaTech External USB Burner for Blu-Ray Disc Authoring: A Review</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-solution-to-windows-error-0xc0000001/"><u>The Ultimate Solution to Windows Error 0xC0000001</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-integrating-images-into-your-insta-world/"><u>[Updated] In 2024, Integrating Images Into Your Insta World</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>2024 Approved Selecting Your Perfect VR Experience Mobile Vs. Tethered Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-unveiling-the-cost-and-launch-details/"><u>Amazfit Helio Ring - Unveiling the Cost & Launch Details</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-netgear-nighthawk-ax8-mesh-wi-fi-6-extender-assessment-for-long-term-performance/"><u>Comprehensive Netgear Nighthawk AX8 Mesh Wi-Fi 6 Extender Assessment for Long-Term Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-5-aquatic-filter-add-ons-for-gopro/"><u>In 2024, Ultimate 5 Aquatic Filter Add-Ons for GoPro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-f54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy F54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/selecting-the-perfect-ipad-mouse-a-comprehensive-guide/"><u>Selecting the Perfect iPad Mouse: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skyrim-on-nintendo-switch-a-deep-dive-into-an-epic-fantasy-rpg-adventure/"><u>Skyrim on Nintendo Switch: A Deep Dive Into an Epic Fantasy RPG Adventure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tips-for-creating-stunning-slow-motion-content-on-instagram/"><u>Tips for Creating Stunning Slow Motion Content on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-experience/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Experience</u></a></li>
 </ul></div>
 

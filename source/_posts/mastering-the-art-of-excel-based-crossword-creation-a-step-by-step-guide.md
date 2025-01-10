@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide"
-date: 2024-12-12T16:04:18.032Z
-updated: 2024-12-16T16:51:18.337Z
+date: 2025-01-09T16:10:49.702Z
+updated: 2025-01-10T16:01:30.173Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ---
 
 ## Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,21 +39,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel spreadsheet with all cell widths changed to 3.43.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-cell-sizes.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, select the area that will form your crossword grid, and in the Home tab on the ribbon, open the borders drop-down (grid icon) and click "All Borders."
 
 ![An Excel grid with 'All Borders' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/all-borders-on-grid.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 2: Add Your Words
 
@@ -58,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel sheet with a crossword grid and some words added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-words-in-crossword.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Every Word Must Cross
@@ -68,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ###  Aim for Symmetry
 
  In my experience, the most challenging part of this process is making the crossword symmetrical—but it's worth it. In the end, you'll have an aesthetically pleasing and professional crossword. You can aim for one line of symmetry (such as the left matching the right), or two lines of symmetry (by making the top mirror the bottom, and the left mirror the right). In my example, I'm going to use two. Start in the top-left corner with a long word downwards and a long word across, and then mirror that structure in the top-right corner. Then, do the same in the bottom corners. Now, any time you add a word stemming from one corner, mirror it in all four corners.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  But Don't Add Words for the Sake Of It
 
@@ -97,9 +85,17 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 4: Add Your Numbers
 
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
 
  This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 5: Write Your Clues
 
@@ -125,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  As you create your clues, strike a balance between challenging and achievable. You want your solver to have to think (sometimes outside the box), but you don't want them to lose motivation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 6: Remove the Words
 
  You're pretty much done! All you need to do now is remove the letters from your crossword.
@@ -138,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
@@ -146,7 +142,11 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
@@ -172,19 +172,17 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-real-time-film-extractor/"><u>[New] In 2024, Real-Time Film Extractor</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-sims-4-gameplay-capture/"><u>[New] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-sonic-excellence-strategies-to-amplify-your-audio-quality/"><u>[Updated] In 2024, Sonic Excellence Strategies to Amplify Your Audio Quality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-translate-compressed-files-into-subtitle-format-srt/"><u>2024 Approved Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
-<li><a href="https://win-net.techidaily.com/fehlende-bitlocker-schlusseloptionen-auf-dem-laufwerk-angehen-losung-fur-windows-10/"><u>Fehlende BitLocker Schlüsseloptionen Auf Dem Laufwerk Angehen - Lösung Für Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lincoln-childrens-zoo/"><u>Lincoln Children's Zoo</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/most-popular-action-cameras-on-the-market-2023-reviews-and-comparisons/"><u>Most Popular Action Cameras on the Market - 2023 Reviews and Comparisons</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pick-the-perfect-shield-for-your-iphone-13-mini-leading-case-picks-of-2024/"><u>Pick the Perfect Shield for Your iPhone 13 Mini - Leading Case Picks of 2024!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premier-subscription-based-content-services-2023-guide/"><u>Premier Subscription-Based Content Services - 2023 Guide</u></a></li>
-<li><a href="https://techidaily.com/step-into-comfort-mastering-your-way-around-with-mods-innovative-easy-sidecar-bike/"><u>Step Into Comfort: Mastering Your Way Around with Mod's Innovative Easy Sidecar Bike</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-digital-heartbreak-how-cybercriminals-employ-ai-for-relationship-swindles-insights-on-7-common-techniques/"><u>The Digital Heartbreak: How Cybercriminals Employ AI for Relationship Swindles – Insights on 7 Common Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-most-effective-outer-graphic-processing-unit-containers-reviewed-and-compared/"><u>The Most Effective Outer Graphic Processing Unit Containers Reviewed and Compared</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-graphics-laptops-analyzed-by-experts-find-your-perfect-match/"><u>Top-Ranking Graphics Laptops Analyzed by Experts - Find Your Perfect Match!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-covert-consumer-of-virtual-diaries/"><u>[New] 2024 Approved Covert Consumer of Virtual Diaries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-youtube-studio-ultimate-video-edits-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Studio Ultimate Video Edits Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sensory-cinema-the-vr-experience/"><u>2024 Approved Sensory Cinema The VR Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/before-making-the-leap-key-aspects-to-assess-in-fitness-trackers/"><u>Before Making the Leap: Key Aspects to Assess in Fitness Trackers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-onetastic-enhancer-for-microsoft-onenote-users/"><u>In-Depth Evaluation of the Onetastic Enhancer for Microsoft OneNote Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserve-your-conversations-a-guide-to-exporting-chatgpt-interactions/"><u>Preserve Your Conversations: A Guide to Exporting ChatGPT Interactions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-tp-link-archer-c80-high-speed-performance-under-100/"><u>Review of TP-Link Archer C80: High-Speed Performance Under $100</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-home-offices-new-best-friend-unveiling-the-features-of-the-fujitsu-scansnap-ix1e/"><u>The Home Office's New Best Friend? Unveiling the Features of the Fujitsu ScanSnap iX1e</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-next-gen-apple-m4-chip-explore-release-timeline-features-and-performance-insights/"><u>The Next-Gen Apple M4 Chip: Explore Release Timeline, Features, and Performance Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-strengths-and-limitations-of-netgear-c3700-focusing-on-the-modem-features/"><u>Unveiling the Strengths and Limitations of Netgear C3700 - Focusing on the Modem Features</u></a></li>
+<li><a href="https://win-special.techidaily.com/ekspertnoe-rukovodstvo-dlya-uspeshnogo-klonirovaniya-nvme-ssd-pri-ogranichenii-odnoj-razuemnoj-sekcii/"><u>Экспертное Руководство Для Успешного Клонирования NVMe SSD При Ограничении Одной Разъемной Секции</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers"
-date: 2024-12-11T16:10:39.050Z
-updated: 2024-12-16T17:47:03.609Z
+date: 2025-01-08T16:17:18.706Z
+updated: 2025-01-10T16:17:07.404Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 ## Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
  If that didn't work, launch another game and try playing it to see whether the problem is still present. Drift in one game but not another points to the game being to blame. If your thumbstick is still drifting, it’s time for a visit to Desktop Mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Recalibrate the Analog Sticks in Desktop Mode
@@ -63,10 +63,6 @@ thumbstick_cal
 
  Now you can return to Game Mode and test the affected stick.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Increase the Joystick Deadzone in Game Mode
 
  If you're still experiencing issues, press the Steam button > Settings > Controller. Then open the “Calibration & Advanced Settings” menu.
@@ -77,6 +73,10 @@ thumbstick_cal
 
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
 
 ![Testing Steam Deck left joystick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-06.jpg) 
@@ -85,17 +85,9 @@ thumbstick_cal
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clean the Affected Thumbstick With Compressed Air or Contact Cleaner
 
@@ -117,6 +109,10 @@ thumbstick_cal
 
  If the stick’s still drifting around, it’s time to replace it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Replace the Thumbsticks on Your Steam Deck
 
  If nothing else works, you’ll have to replace the whole joystick module.
@@ -126,6 +122,10 @@ thumbstick_cal
  Once in the System menu, scroll down until you locate the “Steam Deck Controller ID” tab. Once there, check the first four letters of the ID. If the letters read “MEDA” you’ve got a type A module. If the letters read “MHDA,” like in my case, you’ve got a type B module.
 
 ![Steam Deck controller ID information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-09.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, once you have ordered the modules—I recommend ordering the whole Fix Kit if you don’t have appropriate tools already—follow [the iFixit video guide](https://www.youtube.com/watch?v=z5k6wOMtjzY) in case you own a Steam Deck LCD. And by that I mean follow it to the letter, to avoid any problems because the procedure can be a bit tricky to perform.
 
@@ -150,21 +150,17 @@ thumbstick_cal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-create-and-share-the-funniest-memes/"><u>[New] 2024 Approved Create and Share the Funniest Memes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-a-professionals-handbook-to-blending-natural-and-artificial-backgrounds-for-2024/"><u>[New] A Professional's Handbook to Blending Natural and Artificial Backgrounds for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-videography-the-right-aspect-ratio-knowledge/"><u>[Updated] 2024 Approved Elevate Videography The Right Aspect Ratio Knowledge</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-from-basics-to-advanced-the-hand-trackers-playbook/"><u>[Updated] From Basics to Advanced The Hand Tracker's Playbook</u></a></li>
-<li><a href="https://win-able.techidaily.com/are-services-active-on-xbox-live-real-time-xbox-online-status/"><u>Are Services Active on Xbox Live? Real-Time Xbox Online Status</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-vonage-does-it-hold-the-crown-amongst-voip-providers-today/"><u>Evaluating Vonage - Does It Hold the Crown Amongst VoIP Providers Today?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ex6200-in-focus-detailed-insights-into-the-netgear-wireless-range-amplifier-a-key-player-in-home-networking-solutions/"><u>EX6200 in Focus: Detailed Insights Into the Netgear Wireless Range Amplifier - A Key Player in Home Networking Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/first-look-at-the-revolutionary-samsung-galaxy-s24-ultra-in-depth-analysis-by-gadget-experts/"><u>First Look at the Revolutionary Samsung Galaxy S24 Ultra - In-Depth Analysis by Gadget Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-audio-techniques-for-your-podcasts/"><u>In 2024, Innovative Audio Techniques for Your Podcasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-unleashing-the-full-potential-of-the-samsung-galaxy-tab-s7plus-powerhouse/"><u>In-Depth Analysis: Unleashing the Full Potential of the Samsung Galaxy Tab S7+ Powerhouse</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210931797-9781782819141-learn-tarot/"><u>Learn Tarot | Free Book</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-performance-the-advantages-of-the-expanded-screen-in-apples-iphone-12-pro-max-review/"><u>Maximizing Performance: The Advantages of the Expanded Screen in Apple's iPhone 12 Pro Max Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/photoscape-for-windows-free-photo-editor-review/"><u>PhotoScape for Windows Free Photo Editor Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-back-to-back-crashes-effective-solutions-for-pc-gaming-woes/"><u>Tackling Back-to-Back Crashes: Effective Solutions for PC Gaming Woes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-modern-warfare-2-resolving-frame-interruptions-and-delays-in-windows-gaming/"><u>Troubleshooting Modern Warfare 2 - Resolving Frame Interruptions and Delays in Windows Gaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-of-midlands-gxt1000vp4-for-precise-long-distance-calls/"><u>Unveiling the Benefits of Midland's GXT1000VP4 for Precise Long-Distance Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-express-exuberance-create-memetic-content-with-kapwing/"><u>[New] 2024 Approved Express Exuberance Create Memetic Content With Kapwing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-for-cutting-edge-editing-in-gopro-studio-for-2024/"><u>[New] Step-by-Step Guide for Cutting-Edge Editing in GoPro Studio for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-voice-clarity-overcoming-skype-noise-issues-for-2024/"><u>[New] Voice Clarity Overcoming Skype Noise Issues for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazing-find-the-most-reliable-alternative-to-appleankers-magsafe-wallet-just-went-on-sale-full-review-by-zdnet/"><u>Amazing Find! The Most Reliable Alternative to Apple/Anker's MagSafe Wallet Just Went on Sale – Full Review by ZDNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dont-miss-out-a-closer-look-at-the-remarkable-features-of-oneplus-nord-n10-5g/"><u>Don't Miss Out: A Closer Look at the Remarkable Features of OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-examined-exceptional-photography-capabilities-in-an-impressive-device/"><u>Huawei P20 Pro Examined: Exceptional Photography Capabilities in an Impressive Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-jaco-smartpro-a-powerful-space-saving-solution-for-digital-tire-inflation/"><u>In-Depth Look at the Jaco SmartPro: A Powerful, Space-Saving Solution for Digital Tire Inflation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-silent-meetings-effective-ways-to-address-black-screens-in-facetime-chats/"><u>No More Silent Meetings: Effective Ways to Address Black Screens in FaceTime Chats</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rotibox-wireless-earmuffs-assessment-the-ultimate-mix-of-cozy-fashion-and-solid-sound-quality/"><u>Rotibox Wireless Earmuffs Assessment: The Ultimate Mix of Cozy Fashion & Solid Sound Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-microsoft-error-0x800f0831-with-windows-patches/"><u>Step-by-Step Solution for Microsoft Error 0X800F0831 with Windows Patches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-nulaxy-km18-bluetooth-car-stereo-transmission-a-tried-and-true-model-analyzed/"><u>The Ultimate Guide to Nulaxy KM18 Bluetooth Car Stereo Transmission - A Tried-and-True Model Analyzed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
 </ul></div>
 

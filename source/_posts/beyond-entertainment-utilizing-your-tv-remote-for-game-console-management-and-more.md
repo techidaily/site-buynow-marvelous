@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2024-12-21T10:11:40.072Z
-updated: 2024-12-24T22:56:24.264Z
+date: 2025-01-06T16:00:39.589Z
+updated: 2025-01-10T16:10:09.109Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ## Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Simplify your entertainment setup by using one remote for all functions with HDMI-CEC compatibility.
@@ -21,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -52,7 +48,7 @@ Jason Fitzpatrick / How-To Geek
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
@@ -62,6 +58,10 @@ Jason Fitzpatrick / How-To Geek
  You'll want to be familiar with the name your TV's manufacturer uses to refer to HDMI-CEC functionality since many of them use in-house names. However, in most cases, you will find the option under your TV's general settings, under "External Device Manager" or a similar name, where you will be able to turn it on.
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -77,9 +77,17 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
@@ -91,10 +99,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -102,10 +106,6 @@ Jason Fitzpatrick / How-To Geek
  Apple TV users can always just use their packed-in remote control or [the companion iPhone app](https://ai-video-tools.techidaily.com/vn-video-editor-android-app-is-it-worth-downloading-for-2024/), but for others, any Bluetooth-enabled remote will work just fine. If you're looking for affordable options, an Amazon Fire TV remote is easy to get your hands on, or the PlayStation TV remote, both of which are compatible with Bluetooth devices.
 
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -130,24 +130,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ending-grey-shades-in-live-stream-translations-for-2024/"><u>[New] Ending Grey Shades in Live Stream Translations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamline-your-social-media-find-facebook-watched-videos-easily/"><u>[Updated] Streamline Your Social Media Find Facebook Watched Videos Easily</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apples-iphone-12-pro-max-reviewed-does-a-bigger-screen-enhance-your-experience/"><u>Apple's iPhone 12 Pro Max Reviewed: Does a Bigger Screen Enhance Your Experience?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/crafting-cities-on-mars-an-unpredictable-journey-towards-excitement/"><u>Crafting Cities on Mars - An Unpredictable Journey Towards Excitement</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-variances-how-is-echo-pop-different-from-an-echo-dot/"><u>Decoding the Variances: How Is Echo Pop Different From an Echo Dot?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-detection-of-speakers-or-headphones-in-microsoft-windows/"><u>Fixing Non-Detection of Speakers or Headphones in Microsoft Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-c32-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia C32 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-vs-the-rest-a-comprehensive-review-of-video-editing-options-for-2024/"><u>New Virtualdub Vs. The Rest A Comprehensive Review of Video Editing Options for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/philips-hf3505-wake-up-light-review-a-basic-clock/"><u>Philips HF3505 Wake-Up Light Review: A Basic Clock</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-windows-11-taskbar-issues-expert-tips-and-solutions/"><u>Resolving Windows 11 Taskbar Issues: Expert Tips and Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-microsoft-surface-go-an-economical-choice-amidst-its-confusing-purpose/"><u>Reviewing the Microsoft Surface Go: An Economical Choice Amidst Its Confusing Purpose</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/subscribe-to-success-4-indispensable-audible-benefits/"><u>Subscribe to Success: 4 Indispensable Audible Benefits</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1791402-9781782795278-the-heart-of-the-hereafter/"><u>The Heart of the Hereafter | Free Book</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tp-link-archer-a9-router-evaluation-quality-connectivity-for-less-than-100/"><u>Top TP-Link Archer A9 Router Evaluation: Quality Connectivity for Less than $100</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-magic-a-detailed-evaluation-of-minecrafts-enchanting-campfire-tales-costume-pack/"><u>Unveiling the Magic: A Detailed Evaluation of Minecraft's Enchanting Campfire Tales Costume Pack</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-in-depth-review-of-the-hp-zbook-firefly-15-g8-mobile-workstation/"><u>Unveiling the Potential: In-Depth Review of the HP ZBook Firefly 15 G8 Mobile Workstation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-utilization-a-guide-to-data-management/"><u>Windows Utilization: A Guide to Data Management</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-expert-recommendations-for-full-rotation-shots/"><u>[New] 2024 Approved Expert Recommendations for Full Rotation Shots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigating-through-gesture-detection-methods/"><u>[New] Navigating Through Gesture Detection Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-facetune-review-transform-your-image-quality/"><u>[Updated] Ultimate Facetune Review Transform Your Image Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-kobo-nia-an-in-depth-comparison-with-amazons-best-seller/"><u>Breaking Down the Kobo Nia - An In-Depth Comparison with Amazon's Best Seller</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apc-1500va-back-ups-pro-assessment-delivering-strong-output-extensive-outlet-options-and-easy-battery-replacement/"><u>Comprehensive APC 1500Va Back-UPS Pro Assessment: Delivering Strong Output, Extensive Outlet Options & Easy Battery Replacement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-in-on-youtube-success-identifying-ranks-boosters-for-2024/"><u>Dialing in on YouTube Success Identifying Ranks Boosters for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-hidden-gems-ztes-entry-into-competent-budget-handsets-with-the-blade-a3y/"><u>Discovering Hidden Gems: ZTE's Entry Into Competent Budget Handsets with the Blade A3Y</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-measuring-your-macbooks-internal-temperatures/"><u>Essential Tips for Measuring Your MacBook’s Internal Temperatures</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>In 2024, Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-in-windows-10-using-the-command-prompt-technique/"><u>Mastering File Deletion in Windows 10 Using the Command Prompt Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-system-performance-by-curtailing-msmpengexe-cpu-drainage-in-windows-10/"><u>Optimize System Performance by Curtailing MsMpEng.exe CPU Drainage in Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sunbrites-55-weatherproof-smart-tv-a-high-resolution-4k-veranda-display-engineered-for-durability-and-brightness/"><u>SunBrite's 55 Weatherproof Smart TV: A High-Resolution 4K Veranda Display Engineered for Durability & Brightness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-walkthrough-of-acurite-weather-station-01036m-straightforward-installation-and-sturdy-build-insights/"><u>The Ultimate Walkthrough of AcuRite Weather Station 01036M - Straightforward Installation & Sturdy Build Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-acer-xfa240-performance-prioritized-in-this-powerful-pc-system/"><u>Unboxing the Acer XFA240: Performance Prioritized in This Powerful PC System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-1byones-digital-tv-signal-amplifier-the-premier-choice-for-cost-conscious-viewers-seeking-hd-clarity/"><u>Unveiling the Power of 1Byone's Digital TV Signal Amplifier: The Premier Choice for Cost-Conscious Viewers Seeking HD Clarity</u></a></li>
 </ul></div>
 

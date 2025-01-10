@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: The Ultimate Guide to the Most Exceptional Mirrorless Camera Lenses"
-date: 2025-01-01T18:24:03.724Z
-updated: 2025-01-03T19:06:35.704Z
+date: 2025-01-04T16:08:43.014Z
+updated: 2025-01-10T16:02:36.441Z
 tags:
   - buying-guides
 categories:
@@ -40,7 +40,7 @@ Best Mirrorless Macro Lens
 [$1199 at Amazon](https://www.amazon.com/dp/B0759GMLVP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Choosing the Right Mirrorless Lens for Your Needs
@@ -63,12 +63,16 @@ Best Mirrorless Macro Lens
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Mirrorless Wide-Angle Lens: [Tamron 17-28mm f/2.8 Di III RXD for Sony E Mounts](https://www.walmart.com/ip/Tamron-17-28mm-f-2-8-Di-III-RXD-Lens-for-Sony-E/684933854) 
 
 ![A man holding a camera with a Tamron 17-28mm f2.8 Di III RXD lens attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/tamron-17-28mm-f2-8-di-iii-rxd-sony-e.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Tamron_
 
@@ -93,15 +97,7 @@ _Tamron_
 
 ![Tamron 17-28mm f2.8 Di III RXD (Sony E)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/tamron-17-28mm-f2-8-di-iii-rxd-sony-e-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Mirrorless Wide-Angle Lens
 
@@ -114,10 +110,6 @@ A third party lens like the Tamron 17-28mm f/2.8 Di III RXD can be a great choic
 ##  Best Mirrorless Ultra-Wide-Angle Lens: [Fujinon XF 8-16mm f/2.8 R LM WR](https://amazon.com/dp/B07FQ83W5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003286&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-mirrorless-photography-lenses%2F&asc%5Fcampaign=Commerce) 
 
 ![A Fujinon XF 8-16mm f:2.8 R LM WR Ultrawide lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-8-16mm-f-2-8-r-lm-wr.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Fujifilm_
 
@@ -138,7 +130,7 @@ _Fujifilm_
 ![Fujinon XF 8-16mm f2.8 R LM WR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-8-16mm-f2-8-r-lm-wr.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -178,11 +170,11 @@ _Sigma_
 
 ![Sigma 100-400mm F5-6.3 DG DN OS Contemporary](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sigma-100-400mm-f5-6-3-dg-dn-os-contemporary-1.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mirrorless Telephoto Lens
 
@@ -195,6 +187,10 @@ The Sigma 100-400mm F5-6.3 DG DN OS Contemporary is an excellent telephoto lens 
 ##  Best Mirrorless Portrait Lens: [Sony FE 85mm f/1.8](https://www.walmart.com/ip/Sony-FE-85mm-f-1-8-Lens-SEL85F18/376142797) 
 
 ![Sony SEL85F18 85mm F:1.8-22](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-sel85f18-85mm-f-1-8-22.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Sony_
 
@@ -217,10 +213,6 @@ _Sony_
 
 ![Sony FE 85mm f1.8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-fe-85mm-f1-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mirrorless Portrait Lens
@@ -234,6 +226,10 @@ The Sony FE 85mm f/1.8 is an affordable 85mm lens that's an excellent choice for
 ##  Best Mirrorless Macro Lens: [Fujinon XF 80mm f/2.8 R LM OIS WR Macro](https://www.walmart.com/ip/Fujifilm-Fujinon-XF-Macro-Lens-80-mm-f-2-8-R-LM-OIS-WR-X-Mount-Series-X-A10-X-A5-X-A7-X-E3-X-H1-X-S10-X-T100-X-T20-X-T200-X-T3-X-T30-X-T4/935289588) 
 
 ![A CLOSE UP OF WATER DROPLETS ON THE Fujinon XF 80mm f2.8 R LM OIS WR Macro lens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-80mm-f2-8-r-lm-ois-wr-macro.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Fujifilm_
 
@@ -259,7 +255,7 @@ _Fujifilm_
 ![Fujinon XF 80mm f2.8 R LM OIS WR Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fujinon-xf-80mm-f2-8-r-lm-ois-wr-macro.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -284,6 +280,10 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 
  Professionals and enthusiasts tend to look toward the “Holy Trinity” to cover just about everything they need. The Holy Trinity is a set of three high-quality zoom lenses that cover a wide range of focal lengths. It typically includes a wide-angle zoom, a standard zoom, and a telephoto zoom.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What type of lens should I use for street photography?
 
  A 35mm with a wide aperture is the classic choice. Or you can opt for a wider 24 or 28mm, while others prefer the more compressed perspective the ‘nifty fifty’ 50mm provides. However, budding street photographers have [other considerations](https://fox-http.techidaily.com/2024-approved-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/) when hoping to capture some memorable street-life photos.
@@ -307,22 +307,22 @@ The Fujinon XF 80mm f/2.8 R LM OIS WR Macro is the ideal macro lens for Fujifilm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-process-to-embrace-cc-copyrights-for-2024/"><u>[New] Step-by-Step Process to Embrace CC Copyrights for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-prime-safe-video-meeting-software-rankings-for-smes/"><u>[Updated] 2024 Approved Prime Safe Video Meeting Software Rankings for SMEs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-essential-mac-live-streaming-apps/"><u>2024 Approved Top 5 Essential Mac Live Streaming Apps</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-lava-blaze-2-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Lava Blaze 2 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m34-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M34 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-safelist-in-gmail/"><u>How to Safelist in Gmail</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speech-to-text-magic-free-edition/"><u>In 2024, Speech-to-Text Magic Free Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-all-new-gen-8-apple-ipad-striking-a-balance-between-budget-pricing-and-superior-functionality-for-102-tablets/"><u>The All-New Gen 8 Apple iPad: Striking a Balance Between Budget Pricing and Superior Functionality for 10.2 Tablets</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-comparison-google-wifi-vs-competitors-in-the-world-of-mesh-routers/"><u>The Definitive Comparison: Google WiFi vs Competitors in the World of Mesh Routers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-blend-of-cost-and-performance-exploring-the-oculus-quest-2/"><u>The Perfect Blend of Cost and Performance - Exploring the Oculus Quest 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-blueear-earbuds-in-a-beanie-a-perfect-blend-of-style-and-functionality/"><u>The Ultimate Guide to BlueEAR Earbuds in a Beanie - A Perfect Blend of Style and Functionality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-iphones-optimized-for-mobile-gaming-choose-your-perfect-device/"><u>Top iPhones Optimized for Mobile Gaming - Choose Your Perfect Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-portable-laptop-power-packs-a-comprehensive-guide/"><u>Top-Rated Portable Laptop Power Packs : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-ai-potential-with-chatgpt-plus-is-it-a-smart-move/"><u>Unlocking AI Potential with ChatGPT Plus - Is It a Smart Move?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-elegance-and-brightness-the-taotronics-tt-dl16-led-lamp-a-comprehensive-analysis/"><u>Unveiling Elegance & Brightness: The TaoTronics TT-DL16 LED Lamp - A Comprehensive Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-asus-rog-phone-7-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Asus ROG Phone 7? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-anon-fb-live-watchers-group/"><u>[New] 2024 Approved Anon FB Live Watchers Group</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-comprehensive-guide-to-creating-viral-youtube-shorts-videos/"><u>[Updated] In 2024, A Comprehensive Guide to Creating Viral YouTube Shorts Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-the-sea-of-user-interactions-on-youtube/"><u>[Updated] Navigating Through the Sea of User Interactions on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-turbo-charged-triumphs-short-track-22-for-2024/"><u>[Updated] Turbo-Charged Triumphs Short Track, '22 for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-advanced-and-immersive-htpc-setups-reviewed/"><u>2024'S Most Advanced and Immersive HTPC Setups Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aeeusys-compact-solar-power-station-review-best-fit-for-sensitive-healthcare-equipment-with-pure-sine-wave-output/"><u>AEEUSY's Compact Solar Power Station Review: Best Fit for Sensitive Healthcare Equipment with Pure Sine Wave Output</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-huion-graphics-tablet-drivers-for-windows-pc/"><u>Download the Latest Huion Graphics Tablet Drivers for Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-user-experience-add-portable-software-to-windows/"><u>Enhance User Experience: Add Portable Software to Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-pros-and-cons-of-the-pioneer-bdr-xd05b-blu-ray-recorder/"><u>In-Depth Analysis: Pros and Cons of the Pioneer BDR-XD05B Blu-Ray Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-knack-experience-singular-hero-faces-predictable-challenges/"><u>Inside the Knack Experience: Singular Hero Faces Predictable Challenges</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/logitecs-masterstroke-revolutionizing-gaming-audio/"><u>Logitec's Masterstroke: Revolutionizing Gaming Audio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/making-an-informed-choice-alexa-and-google-assistant-face-off-for-optimal-results/"><u>Making an Informed Choice: Alexa and Google Assistant Face-Off for Optimal Results</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-sea-of-thieves-game-crash-issues-here/"><u>Resolve Your Sea of Thieves Game Crash Issues Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-un65nu8000fxza-an-expensive-entry-in-the-smart-tv-market-that-falls-short/"><u>Samsung UN65NU8000FXZA: An Expensive Entry in the Smart TV Market That Falls Short</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrading-32-bit-windows-11-to-a-64-bit-system/"><u>Upgrading 32-Bit Windows 11 to a 64-Bit System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-now-features-enhanced-hd-audio-capabilities/"><u>Win10 Now Features Enhanced HD Audio Capabilities</u></a></li>
+<li><a href="https://win-news.techidaily.com/icloud2/"><u>いとも簡単!iCloudメールをバックアップする軽やかな2方法</u></a></li>
 </ul></div>
 

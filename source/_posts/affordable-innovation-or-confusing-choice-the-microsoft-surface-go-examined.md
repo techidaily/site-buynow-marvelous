@@ -1,7 +1,7 @@
 ---
 title: Affordable Innovation or Confusing Choice? The Microsoft Surface Go Examined
-date: 2024-08-09T00:43:52.802Z
-updated: 2024-08-10T00:43:52.802Z
+date: 2025-01-03T16:04:44.564Z
+updated: 2025-01-10T16:02:40.153Z
 categories:
   - BestProducts
 description: This Article Describes Affordable Innovation or Confusing Choice? The Microsoft Surface Go Examined
@@ -35,6 +35,10 @@ thumbnail: https://www.lifewire.com/thmb/O0Cyh5NwiSO2LW6YwP7Ceow5hDQ=/400x300/fi
 
 [Jump to Review](https://www.lifewire.com/#toc-easiest-on-the-budget-hyper-mega-tech-super-pocket)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Just Buy This (All Around Best)
 
 [Nintendo Switch OLED](https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB098RKWHHZ)
@@ -47,9 +51,6 @@ thumbnail: https://www.lifewire.com/thmb/O0Cyh5NwiSO2LW6YwP7Ceow5hDQ=/400x300/fi
 
 **TL;DR:** Nintendo knows how to make great handheld gaming consoles with the Switch OLED the best of the bunch thanks to its great screen, huge amount of games, and lightweight build.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why We Recommend This
 
  It might not be the most powerful console around but the Nintendo Switch OLED is the one that I’m most likely to grab before heading out for the day. It has all the charm you’d expect from a Nintendo console. It takes seconds to start up, its menu system is easy to figure out, and its game catalog is fantastic.
@@ -80,9 +81,6 @@ thumbnail: https://www.lifewire.com/thmb/O0Cyh5NwiSO2LW6YwP7Ceow5hDQ=/400x300/fi
 * **Who else recommends it?** TechRadar, Wired, T3, Tom’s Guide, Digital Trends, and CNET recommend the Nintendo Switch OLED.
 * **What do buyers think?** 90% of buyers on Amazon have rated the Nintendo Switch OLED five stars, with the console having an average score of 4.8 out of 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Also Great
 
 [Valve Steam Deck](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M)
@@ -128,8 +126,9 @@ thumbnail: https://www.lifewire.com/thmb/O0Cyh5NwiSO2LW6YwP7Ceow5hDQ=/400x300/fi
 * **What do buyers think?** The Steam Deck has sold over 3 million units on the Steam website. Relatively recently featured on Amazon, it has 86% four- or five-star ratings across 564 reviews.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easiest on the Budget
 
 [Hyper Mega Tech Super Pocket](https://www.walmart.com/ip/Hyper-Mega-Tech-Capcom-Super-Pocket-Retro-System/5194946970)
@@ -141,6 +140,10 @@ thumbnail: https://www.lifewire.com/thmb/O0Cyh5NwiSO2LW6YwP7Ceow5hDQ=/400x300/fi
 [$60 at Walmart](https://www.walmart.com/ip/Hyper-Mega-Tech-Capcom-Super-Pocket-Retro-System/5194946970) [$56 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fblaze-entertainment-hyper-mega-tech-taito-super-pocket-green-black%2F6549862.p%3FskuId%3D6549862)
 
 **TL;DR:** Old enough to remember the Nintendo Game Boy? This is a lot like that with plenty of nostalgic games on-board and more to be purchased separately. It’s perfect for anyone seeking nostalgia and it’s very keenly priced too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why We Recommend This
 
@@ -172,21 +175,23 @@ thumbnail: https://www.lifewire.com/thmb/O0Cyh5NwiSO2LW6YwP7Ceow5hDQ=/400x300/fi
 * **What do buyers think?** Between the two models, the Hyper Mega Tech Super Pocket has an average rating of 4.5 out of 5 on Amazon. 84% of customers have rated the Capcom version 4 or 5 stars, with 90% rating the Taito the same score.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How I Test
 
  I reviewed every handheld gaming console featured here over a number of weeks. The Nintendo Switch OLED, Switch Lite, and Steam Deck were purchased by me, while the Hyper Mega Tech Super Pocket, and Logitech G Cloud were acquired on loan from the manufacturer.
 
  While playing them, I focused on how fun they are to use, how portable they are, and how user-friendly they are.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Handheld Gaming Consoles We Considered
 
  The[Nintendo Switch Lite](https://www.amazon.com/dp/B092VT1JGD?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is the smaller and solely portable Switch option. It can’t be docked to your TV and has a weaker screen, but it’s cheaper and ideal for solo gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Logitech G Cloud.](https://www.lifewire.com/thmb/SMW56Oe3oBSahp0Lznq6lQGJiTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LogitechGCloud1-c2a2bb36b9ff4fa7bf3d6d8e65253de1.jpg)
 
 Logitech G Cloud.
@@ -195,9 +200,6 @@ Lifewire / Jennifer Allen
 
  The[Logitech G Cloud](https://www.amazon.com/Logitech-Handheld-Long-Battery-Touchscreen-Lightweight-Tablet/dp/B09T9FHZLH?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is a device that allows you to play games via the cloud with ease. It supports Xbox Game Pass, GeForce Now, and Steam Cloud, effectively working as a custom Android tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## What to Look For
 
  Buying a handheld gaming console is a big decision. It’s important to consider what you want to achieve. What kind of games do you wish to play on it? Also, how portable do you need the console to be?
@@ -230,11 +232,29 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-harmonious-hues-recording-with-a-mac/"><u>[New] 2024 Approved Harmonious Hues Recording with a Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-the-impact-of-outdoor-videos-live-streams-via-periscopefacebook-for-2024/"><u>[New] Maximizing the Impact of Outdoor Videos Live Streams via Periscope/Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focus-on-the-details-with-videoleaps-zooming-feature/"><u>[Updated] Focus on the Details with Videoleap's Zooming Feature</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-low-light-captures-on-your-iphone/"><u>[Updated] In 2024, Mastering Low-Light Captures on Your IPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-professionals-choice-top-10-afx-templates-for-free-for-2024/"><u>[Updated] Professionals' Choice Top 10 AFX Templates for FREE for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726226756915-movavi/"><u>網路無障礙公共直播服務 - MOVAVI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/combat-video-problem-explaining-and-overcoming-error-0xc1-written-by-your-name/"><u>Combat Video Problem: Explaining and Overcoming Error 0XC1 Written by [Your Name]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 7 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/spielt-man-av1-videos-im-plex-ab-unterstutzung-und-nutzung/"><u>Spielt Man AV1-Videos Im Plex Ab - Unterstützung Und Nutzung</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-p11-pro-assessment-outstanding-tablet-with-minor-flaws-explored/"><u>The Lenovo P11 Pro Assessment: Outstanding Tablet with Minor Flaws Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sound-warriors-apple-airpods-pro-versus-galaxy-buds-pro/"><u>The Sound Warriors: Apple AirPods Pro Versus Galaxy Buds Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-webcam-evaluating-logitechs-c615-for-quality-at-an-affordable-price-point/"><u>The Ultimate Guide to Choosing a Webcam: Evaluating Logitech's C615 for Quality at an Affordable Price Point</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-hp-stream-14-an-insightful-review-of-performance-for-budget-buyers/"><u>The Verdict on HP Stream 14: An Insightful Review of Performance for Budget Buyers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-for-premium-quality-in-tech-dissecting-the-features-of-the-samsung-galaxy-tab-ssamsung-galaxy-tab-s7plus-an-elite-android-experience-detailed-rev114/"><u>Top Review for Premium Quality in Tech: Dissecting the Features of the Samsung Galaxy Tab SSamsung Galaxy Tab S7+: An Elite Android Experience Detailed Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-quality-fitness-tracking-at-great-value-inside-look-at-the-fitbit-versa-lite/"><u>Top-Quality Fitness Tracking at Great Value: Inside Look at the Fitbit Versa Lite</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Seamless Gaming Experience: Connect Your DualSense to Windows 11 Like a Pro!"
-date: 2024-12-10T18:13:49.036Z
-updated: 2024-12-16T18:06:13.472Z
+date: 2025-01-04T16:22:53.905Z
+updated: 2025-01-10T16:04:41.166Z
 tags:
   - games
   - tv
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
@@ -63,19 +55,15 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
- Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -84,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  To begin, open the Steam app, click the icon in the upper-left corner, and choose "Settings."
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
@@ -98,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
@@ -106,12 +98,20 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -140,22 +140,14 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-assassins-creed-valhalla-epic-adventure-and-rich-lore-in-the-heart-of-medieval-europe/"><u>'Review of Assassin's Creed: Valhalla': Epic Adventure and Rich Lore in the Heart of Medieval Europe</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[New] In 2024, Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-masterful-tantalizing-titles-designer/"><u>[New] Masterful Tantalizing Titles Designer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-mini-jar-battery-boosters-2024/"><u>Best Mini-Jar Battery Boosters 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723075468531-boost-your-viewing-experience-with-the-indoor-hdtv-antenna-from-1byone-digital-money-saving-review/"><u>Boost Your Viewing Experience with the Indoor HDTV Antenna From 1ByOne Digital - Money-Saving Review!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/atic-dialogue-assembler-for-2024/"><u>Cinematic Dialogue Assembler for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/entrance-video-analysis-review/"><u>Entrance Video Analysis Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-capabilities-of-the-compact-marvel-apple-ipad-mini-5/"><u>Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/herstellen-van-sneltoegang-in-windows-10-file-explorer-verloren-gegeven-verbindungen/"><u>Herstellen Van Sneltoegang in Windows 10-File Explorer Verloren Gegeven Verbindungen</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-stealthily-stream-youtube-via-phones-autoplay/"><u>In 2024, How to Stealthily Stream YouTube via Phone's Autoplay</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-connectivity-with-the-linksys-ea8300-router-a-thorough-review-for-diverse-device-support/"><u>Mastering Connectivity with the Linksys EA8300 Router - A Thorough Review for Diverse Device Support</u></a></li>
-<li><a href="https://article-tips.techidaily.com/premier-editing-suites-for-device-app-development/"><u>Premier Editing Suites for Device App Development</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-wireless-connectivity-the-ultimate-test-of-the-asus-zenwifi-xt8-mesh-network-system/"><u>Revolutionizing Wireless Connectivity: The Ultimate Test of the ASUS ZenWiFi XT8 Mesh Network System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-pinnacle-guide-to-choosing-top-after-effects-plugins/"><u>The Pinnacle Guide to Choosing Top After Effects Plugins</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-assessment-of-google-nest-wi-fi-router-range-extenders-quick-connectivity-experience/"><u>The Ultimate Assessment of Google Nest Wi-Fi Router Range Extenders: Quick Connectivity Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y27s-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y27s Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/upgraded-ram-for-high-performance-laptops-what-you-need-to-know/"><u>Upgraded RAM for High-Performance Laptops: What You Need to Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-becoming-a-wealthy-beauty-channel-host/"><u>[Updated] In 2024, Becoming a Wealthy Beauty Channel Host</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-track-full-adobe-cloud-storage-guide-and-why-other-solutions-matter/"><u>[Updated] Inside Track Full Adobe Cloud Storage Guide and Why Other Solutions Matter</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>2024 Approved Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bypassing-the-hurdles-upgrade-from-windows-10-to-11-now/"><u>Bypassing The Hurdles: Upgrade From Windows 10 to 11 Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/can-you-still-recommend-the-samsung-galaxy-tab-s3-today-a-comprehensive-analysis/"><u>Can You Still Recommend the Samsung Galaxy Tab S3 Today? A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-stanley-j5c09-reviews-powerful-and-spacious/"><u>Comprehensive Stanley J5C09 Reviews: Powerful and Spacious</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-footage-transform-ordinary-videos-into-extraordinary-movies-for-2024/"><u>Elevate Your Footage Transform Ordinary Videos Into Extraordinary Movies for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgear-orbi-rbs50y-review/"><u>Netgear Orbi RBS50Y Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gameplay-with-ea-plays-multitude-of-features-on-ps5-console/"><u>Transform Your Gameplay with EA Play's Multitude of Features on PS5 Console</u></a></li>
 </ul></div>
 

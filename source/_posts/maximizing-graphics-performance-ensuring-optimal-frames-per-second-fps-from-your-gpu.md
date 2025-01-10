@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2024-12-22T23:29:15.292Z
-updated: 2024-12-24T23:21:57.482Z
+date: 2025-01-03T16:02:59.623Z
+updated: 2025-01-10T16:16:24.312Z
 tags:
   - games
   - tv
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![The back of a computer with the graphics card I/O in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rsz_img20240205151519.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
@@ -51,10 +51,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A graphics card inside a computer iwth a missing 6-pin power supply cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_17h16_49.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ismar Hrnjicevic / How-To Geek
 
  If you have a transparent side panel, you can visually inspect it to see if all power supply cables are plugged in. If they aren't, shut off the computer, turn off the power supply, and remove the side panel. Find an unoccupied and appropriate power connector from your power supply, gently plug it into the graphics card until it clicks, and that's it.
@@ -67,6 +63,10 @@ Ismar Hrnjicevic / How-To Geek
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Once you've made sure that everything is disconnected, pull the graphics card out completely. In some cases, dust and debris can get stuck in the PCIe slot on your motherboard, so make sure to [dust it with some compressed air](https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/) while you're at it.
@@ -74,7 +74,7 @@ Jason Fitzpatrick / How-To Geek
  After that, push the graphics card back in until you feel it click into place, put your side panel back on, reconnect the cables, flip the switch on your power supply, and boot your PC again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fully Uninstall Old Graphics Drivers Before Installing New Ones
@@ -96,12 +96,16 @@ Jason Fitzpatrick / How-To Geek
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
  You can check what BIOS your graphics card has through AMD or NVIDIA software, but it might not tell you the full version. For instance, AMD doesn't show the last few numbers that identify your exact graphics card model. Instead, download and install [GPU-Z](https://www.techpowerup.com/gpuz/). It'll tell you the BIOS version under the "Graphics Card" tab, which you can check against [TechPowerUp's repository](https://www.techpowerup.com/) by selecting your graphics card model. If it's a match, that's great, but if not, you'll have to download and [flash the stock BIOS](https://appuals.com/how-to-flash-the-bios-on-an-amd-gpu/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Try Running a Different Game
 
@@ -114,10 +118,6 @@ Justin Duino / How-To Geek
  As far as gaming goes, Windows is a lot better than it used to be. Still, some features can mess with how your computer operates, the most notorious of which is [Game Mode](https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/). Microsoft has fixed and improved Game Mode over the years, but it can still cause issues, especially in older titles.
 
  Try [turning Game Mode on and off](https://vp-tips.techidaily.com/updated-optimize-visual-design-top-10-must-have-type-plugins-for-ae/) under Windows settings to see if it helps. We also have a [Windows 11 gaming optimization guide](https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/) that'll help you squeeze out even more performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Maybe Your Other Hardware Is Holding You Back
 
@@ -140,22 +140,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-tech-savvy-academics-recording-education-talks-with-macos/"><u>[New] Tech-Savvy Academics Recording Education Talks with MacOS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[Updated] 2024 Approved Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-du-recorder-features-and-review-for-2024/"><u>[Updated] Du Recorder Features and Review for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/7-essential-gif-creation-techniques-for-2024/"><u>7 Essential GIF Creation Techniques for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-spark-20-proplus-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-google-nest-hub-gen-2-why-adding-a-camera-could-be-game-changing/"><u>Analyzing the Google Nest Hub Gen 2: Why Adding a Camera Could Be Game-Changing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-pioneer-bdr-xd05b-dvd-writer-examining-its-flaws-and-features/"><u>Comprehensive Evaluation of Pioneer BDR-XD05B DVD Writer: Examining Its Flaws and Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/driving-into-dystopia-an-experts-evaluation-of-days-gone-the-biker-zombie-epic/"><u>Driving Into Dystopia: An Expert's Evaluation of 'Days Gone' - The Biker-Zombie Epic</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-streamers-choice-premium-audiophile-headphones/"><u>Elite Streamer's Choice: Premium Audiophile Headphones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expand-your-nes-collection-a-step-by-step-guide-to-adding-new-titles/"><u>Expand Your NES Collection: A Step-by-Step Guide to Adding New Titles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-cost-free-community-listings-on-oodle-platform/"><u>Experience Cost-Free Community Listings on Oodle Platform</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-pinnacle-of-performance-a-comprehensive-review-of-the-xbox-one-x-ruler-of-modern-consoles/"><u>Exploring the Pinnacle of Performance: A Comprehensive Review of the Xbox One X, Ruler of Modern Consoles</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/immersive-gameplay-awaits-fortnites-brand-new-season-revamps-the-classic-battle-royale-experience/"><u>Immersive Gameplay Awaits: Fortnite's Brand-New Season Revamps the Classic Battle Royale Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-reno-10-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Reno 10 Pro+ 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-mighty-nvidia-shield-tv-pro-a-game-changer-in-streaming-entertainment-tech/"><u>Review of the Mighty Nvidia Shield TV Pro: A Game Changer in Streaming Entertainment Tech</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revitalize-older-printer-drivers-for-modern-windows-10/"><u>Revitalize Older Printer Drivers for Modern Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-1-3-in-ipad-voice-memos-and-recorders-for-2024/"><u>[New] 1-3 in iPad Voice Memos & Recorders for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>[New] In 2024, Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximize-impact-crafting-a-standout-video-ending/"><u>[New] Maximize Impact Crafting a Standout Video Ending</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secrets-to-preventing-photo-app-problems-in-windows-11/"><u>[New] Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-playbook-for-youtube-brand-development-and-expansion/"><u>[Updated] 2024 Approved The Ultimate Playbook for YouTube Brand Development and Expansion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-collection-7-prime-websites-offering-movie-teasers/"><u>Discover The Ultimate Collection: 7 Prime Websites Offering Movie Teasers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-mac-experience-with-the-chic-and-functional-blue-freestyle2-case-reviewed-here/"><u>Elevate Your Mac Experience with the Chic and Functional Blue Freestyle2 Case Reviewed Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experiencing-issues-with-microsoft-teams-server-outage-or-user-error/"><u>Experiencing Issues with Microsoft Teams – Server Outage or User Error?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-lamicall-table-stand-crafted-for-optimal-usefulness/"><u>Expert Analysis of Lamicall Table Stand: Crafted for Optimal Usefulness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-portability-to-performance-spotlight-on-stellar-rechargeable-battery-chargers/"><u>From Portability to Performance: Spotlight on Stellar Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-note-30-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Note 30 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-craftsmanship-of-corsair-one-pro-reimagining-performance-for-gamers/"><u>Inside the Craftsmanship of Corsair One Pro - Reimagining Performance for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-document-and-picture-scanner-technologies-of-2024-unveiled/"><u>Leading Document and Picture Scanner Technologies of 2024 Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/luxury-meets-speed-a-critical-review-of-the-costly-glion-dolly-electric-scooter/"><u>Luxury Meets Speed: A Critical Review of the Costly Glion Dolly Electric Scooter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-choice-vixia-hf-r800-camcorder/"><u>The Cost-Effective Choice: VIXIA HF R800 Camcorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-feature-the-intelligent-technology-within-the-robust-linksys-ea9500-router/"><u>Top Picks Feature - The Intelligent Technology Within the Robust Linksys EA9500 Router</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rofit-generating-online-entertainer/"><u>Top Profit Generating Online Entertainer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2024-12-18T19:13:50.459Z
-updated: 2024-12-24T22:17:36.693Z
+date: 2025-01-05T16:17:33.052Z
+updated: 2025-01-10T16:05:13.253Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Menu Themes](https://fox-blue.techidaily.com/2024-approved-race-away-slow-motion-on-your-android-device/)
@@ -22,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 * [Why Is the PS5 Still Missing These Features?](https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a05s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 
  Although the PlayStation 5 was initially criticized for lacking many useful features seen in its predecessor, the console has gradually added these features via software updates. Despite this, PS5 owners are still waiting for the return of a few notable PS4 features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1  Menu Themes 
 
@@ -44,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![Game details for Stranger of Paradise: Final Fantasy Origin on PlayStation 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-stranger-of-paradise-details-page.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Much like the PS4's themes, the detail pages feature unique backgrounds and music for each game. As such, there are fewer opportunities to see the standard background on the PS5 than there were PS4, which makes the inclusion of themes far less important for the PS5.
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Update History 
 
@@ -59,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![The PlayStation 4's update history page for World of Final Fantasy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-update-history-world-of-final-fantasy.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  A Fully Functional Web Browser 
 
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  USB Backup for PS5 Saves 
 
  The PlayStation 4 provides the option to [back up your save files](https://driver-error.techidaily.com/fixed-sm-bus-control-improvements-for-win11/) in cloud storage (if you have a PlayStation Plus subscription) or on a USB drive. Although there are some advantages to storing backups on [cloud storage](https://youtube-tips.techidaily.com/astering-video-visibility-settings-on-youtube-for-2024/), being able to use [your own external drive](https://extra-support.techidaily.com/in-2024-kodi-streaming-service-windows-media-replacement/) allows you to preserve your save files without needing a subscription or internet connection.
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Why Is the PS5 Still Missing These Features? 
@@ -120,19 +120,22 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-clear-and-compelling-1080p-streaming-on-the-social-network-for-2024/"><u>[New] Clear and Compelling 1080P Streaming on the Social Network for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-expert-advice-enhancing-control-over-snapchat-video-speed-for-2024/"><u>[New] Expert Advice Enhancing Control Over Snapchat Video Speed for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-gamers-delight-switchs-best-fighters-top-10-edition/"><u>[New] In 2024, Gamer's Delight Switch's Best Fighters - Top 10 Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-expert-advice-on-achieving-high-quality-gopro-videos/"><u>[Updated] In 2024, Expert Advice on Achieving High-Quality GoPro Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instaloops-create-content-that-circulates-and-captivates-for-2024/"><u>[Updated] InstaLoops Create Content That Circulates & Captivates for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-things-to-do-if-your-nintendo-account-gets-hacked/"><u>5 Things to Do if Your Nintendo Account Gets Hacked</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-in-depth-review-of-the-tcl-50s425-50-4k-uhdtv-a-great-deal/"><u>Affordable Luxury: In-Depth Review of the TCL 50S425 50 4K UHDTV - A Great Deal!</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-program-conflicts-the-four-step-fix/"><u>Decoding Program Conflicts: The Four-Step Fix</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/helio-ring-by-amazfit-unveiling-the-costs-arrival-timeline-and-device-features/"><u>Helio Ring by Amazfit: Unveiling the Costs, Arrival Timeline, and Device Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/techniques-for-downloading-vimeo-media-as-mp3-for-2024/"><u>Techniques for Downloading Vimeo Media as MP3 for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/terrorism-and-security/"><u>Terrorism and Security</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pinnacle-of-premium-phones-unveiled-comprehensive-review-on-the-samsung-galaxy-s10s-brilliance/"><u>The Pinnacle of Premium Phones Unveiled: Comprehensive Review on the Samsung Galaxy S10's Brilliance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-petsafes-smartfeeder-revolutionizing-animal-diet-and-weight-balance/"><u>The Ultimate Guide to PetSafe's SmartFeeder: Revolutionizing Animal Diet and Weight Balance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 5 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>[New] Anticipating Virtual Realities Top 5 New PlayStation VR Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-select-from-the-leading-7-android-apps-to-eradicate-ads-for-2024/"><u>[Updated] Select From the Leading 7 Android Apps to Eradicate Ads for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-bip-reviewed-a-must-have-starter-smartwatch-for-tech-enthusiasts/"><u>Amazfit Bip Reviewed: A Must-Have Starter Smartwatch for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apples-iphone-12-pro-max-reviewed-does-a-bigger-screen-enhance-your-experience/"><u>Apple's iPhone 12 Pro Max Reviewed: Does a Bigger Screen Enhance Your Experience?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/authentic-sades-headset-drivers-for-windows-100-safe-to-install-immediate-access-available/"><u>Authentic Sades Headset Drivers for Windows – 100% Safe to Install, Immediate Access Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-variances-how-is-echo-pop-different-from-an-echo-dot/"><u>Decoding the Variances: How Is Echo Pop Different From an Echo Dot?</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/easy-steps-for-integrating-devices-including-printers-into-your-pc-through-the-control-panel-expert-advice-from-yl-software/"><u>Easy Steps for Integrating Devices Including Printers Into Your PC Through the Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tor-elite-selective-learning-yt-channels/"><u>Educator Elite Selective Learning YT Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-e-learning-title-engineer-for-2024/"><u>Expert E-Learning Title Engineer for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quick-guide-resolving-obs-skipping-problems/"><u>In 2024, Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/philips-hf3505-wake-up-light-review-a-basic-clock/"><u>Philips HF3505 Wake-Up Light Review: A Basic Clock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-fifa-2022-game-crashing-issues-on-windows/"><u>Resolved: Fixes for FIFA 2022 Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-microsoft-surface-go-an-economical-choice-amidst-its-confusing-purpose/"><u>Reviewing the Microsoft Surface Go: An Economical Choice Amidst Its Confusing Purpose</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tp-link-archer-a9-router-evaluation-quality-connectivity-for-less-than-100/"><u>Top TP-Link Archer A9 Router Evaluation: Quality Connectivity for Less than $100</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-magic-a-detailed-evaluation-of-minecrafts-enchanting-campfire-tales-costume-pack/"><u>Unveiling the Magic: A Detailed Evaluation of Minecraft's Enchanting Campfire Tales Costume Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-in-depth-review-of-the-hp-zbook-firefly-15-g8-mobile-workstation/"><u>Unveiling the Potential: In-Depth Review of the HP ZBook Firefly 15 G8 Mobile Workstation</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-tecno-phantom-v-fold-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Phantom V Fold Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

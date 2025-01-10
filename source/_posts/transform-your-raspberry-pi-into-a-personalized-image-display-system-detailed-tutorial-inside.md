@@ -1,7 +1,7 @@
 ---
 title: Transform Your Raspberry Pi Into a Personalized Image Display System - Detailed Tutorial Inside
-date: 2024-11-19T16:43:18.791Z
-updated: 2024-11-24T19:47:04.101Z
+date: 2025-01-03T16:20:17.463Z
+updated: 2025-01-10T16:00:37.441Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Transform Your Raspberry Pi Into a Personalized Image Display System - Detailed Tutorial Inside
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,21 +27,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unlock the joy of DIY electronics and showcase your favorite photos by crafting your own slideshow machine with a Raspberry Pi. Creating your own digital photo frame is cheaper than retail options and doesn't require uploading personal photos to a cloud storage service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why Build Your Own Slideshow Machine
 
  By building your slideshow machine (digital photo frame), you'll learn new skills and save money compared to buying pre-made products. Not only is the hardware most likely cheaper, but there are no subscription fees for storing photos in a cloud service. Speaking of: the DIY version is also great for privacy, as you can keep all the photos stored locally.
 
  If the practical reasons aren't enough, you'll also get the satisfaction of creating a personalized device that does exactly what you want it to do. Building a slideshow machine with a Raspberry Pi is a rewarding DIY project, and we'll show you how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Choosing the Right Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Selecting the Perfect Raspberry Pi Model
 
@@ -54,10 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ###  Essential Software to Get Started
 
  If you want to turn your Raspberry Pi into a slideshow machine, you'll need the following pieces of software: Raspberry Pi OS (the official OS for the Raspberry Pi), the Feh image tool (which provides the slideshow), and the Raspberry Pi OS terminal (which will be used to craft your custom slideshow). We'll walk you through acquiring the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Building Your Slideshow Machine
 
@@ -201,6 +193,10 @@ sudo sh ~/lightdm-changer.sh
 
 ![The RPi Slideshow session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-select-session.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the script restarts the login screen (LightDM), you'll be logged out. From here, select "Slideshow" from the session menu and log in. When you log in, your slideshow will commence.
 
 ##  Customizing Your Slideshow
@@ -208,6 +204,10 @@ sudo sh ~/lightdm-changer.sh
  The slideshow script looks for images inside the "Pictures" folder on the Pi. To load up images, simply play JPGs and PNGs directly into "Pictures."
 
 ![The location of picture files for the slideshow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-pictures-in-file-manager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you wish to customize your slideshow, start by opening up the script that handles the slideshow on your Pi.
 
@@ -218,7 +218,7 @@ sudo nano /usr/share/xsessions/start-slideshow.sh
 ![The Pi slideshow is in motion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pi-slideshow-in-motion.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To disable randomization, find the command below in the script:
@@ -248,17 +248,16 @@ feh --fullscreen --hide-pointer --randomize --slideshow-delay 5 /home/pi/Picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-enhance-your-facebook-presence-with-clear-hd-vids-for-2024/"><u>[New] Enhance Your Facebook Presence with Clear HD Vids for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-pinnacle-guide-to-uncomplicated-online-live-streams/"><u>[Updated] The Pinnacle Guide to Uncomplicated Online Live Streams</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-a-straightforward-approach-to-image-distortion/"><u>2024 Approved A Straightforward Approach to Image Distortion</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-11-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 11 iCloud Activation Lock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-protection-and-price-point-for-finties-macbook-pro-13-case/"><u>Comprehensive Review: Protection & Price Point for Fintie's MacBook Pro 13 Case</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converse-and-analyze-with-the-best-pdf-tools-powered-by-gpt/"><u>Converse and Analyze with the Best PDF Tools Powered by GPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-storage-solutions-the-premier-server-racks-and-enclosures-revolutionizing-networks-in-202/"><u>Cutting-Edge Storage Solutions: The Premier Server Racks and Enclosures Revolutionizing Networks in 202</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cyberpunk-2077-evaluation-a-work-of-art-with-significant-imperfections/"><u>Cyberpunk 2077 Evaluation: A Work of Art with Significant Imperfections</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-hps-affordable-15-amd-laptop-does-it-deliver-value-for-money/"><u>Evaluating HP's Affordable 15 AMD Laptop: Does It Deliver Value for Money?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-thermopro-tp67s-value-proposition-low-cost-vs-inconsistent-results/"><u>Evaluating the ThermoPro TP67's Value Proposition: Low-Cost Vs. Inconsistent Results</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-gen-digital-editions-innovating-reading-in-the-digital-era/"><u>Next-Gen Digital Editions: Innovating Reading in the Digital Era</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726027411751-youtube/"><u>YouTubeビデオの音量調整：ツイッター投稿前に備える</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-list-best-no-cost-lut-downloads/"><u>[Updated] 2024 Approved Ultimate List Best No-Cost LUT Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premium-biz-cloud-vault-services/"><u>[Updated] Premium Biz Cloud Vault Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tactics-to-triple-your-youtube-subscription-numbers/"><u>[Updated] Tactics to Triple Your YouTube Subscription Numbers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-f5-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco F5 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-applications-for-video-conferencing/"><u>2024 Approved Premier Applications for Video Conferencing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-pruveeo-fhd-1080p-dashcam-overview-great-value-for-safety-enthusiasts/"><u>Affordable Pruveeo FHD 1080P Dashcam Overview - Great Value for Safety Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-imo-messenger-user-experience-and-quality-check/"><u>Navigating Through Imo Messenger: User Experience & Quality Check</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-8-edits-suites-for-linux-buffs-for-2024/"><u>Premier 8 Edits Suites for Linux Buffs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-methods-obs-streaming-onto-facebook/"><u>Superior Methods OBS Streaming Onto Facebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-gaming-systems-you-need-in-2vearly-2024/"><u>Top 5 Gaming Systems You Need in 2Vearly 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-singing-machine-sml385btbk-karaoke-machine-guide-user-friendly-bright-colors-and-hassle-free-setup/"><u>Ultimate Singing Machine SML385BTBK Karaoke Machine Guide: User-Friendly, Bright Colors & Hassle-Free Setup</u></a></li>
 </ul></div>
 

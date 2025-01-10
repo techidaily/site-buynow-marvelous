@@ -1,7 +1,7 @@
 ---
 title: "Vinyl and Film Reels: Assessing the Investment Potential of LaserDiscs Versus VHS Tapes for Collectors"
-date: 2024-11-19T16:57:12.891Z
-updated: 2024-11-24T17:18:13.733Z
+date: 2025-01-05T16:14:13.703Z
+updated: 2025-01-10T16:18:57.826Z
 tags:
   - games
   - tv
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  As it dawns on us that the internet isn't forever, and you don't really have control over your digital media, it's becoming more popular to collect physical media. While DVDs and Blu-ray media are a non-issue, what about older formats like LaserDisc and VHS? Should anyone be collecting these? If so, which one makes the most sense?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Quality and Format Differences
 
  LaserDisc is a higher quality format than VHS, period. LaserDisc offered almost twice as many horizontal lines of detail than VHS, so there really is no comparison. However, with LaserDisc you'll have to flip the disc over partway through most films. Like me, you probably have rose-tinted memories of what VHS looked like, but if you head to YouTube and look at digitized VHS recordings, you'll soon realize we could barely see what was going on. While LDs are still short of DVDs in quality, on the right equipment it can still look great.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ##  Longevity and Durability
 
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
 
@@ -47,20 +47,20 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  One thing I do worry about is the longevity of the actual players, since LDs will eventually break down when the lasers don't work anymore, and VHS players are mechanically complex and were unreliable even when new. Well, at least the mainstream models my family could afford were. Whether there will be any way to play these media decades from now is debatable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Rarity and Availability
 
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Packaging and Artwork
 
 ![A NIghtmare Before Christmas Laserdisc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-nightmare-before-christmas-laserdisc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Erman Gunes / Shutterstock.com](https://www.shutterstock.com/image-photo/ankara-turkey-january-19-2023-old-2251853805)
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  VHS tapes, on the other hand, are ugly and spartan. Of course, that's just my opinion, but in this category I just find no merit to them at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Cost
 
  Oddly enough, as I was looking for prices on both VHS players and LD players, it seems that things more or less even out. As for the prices of the media, LDs seem quite a bit more expensive. However, I'd hazard to say that if the LD is in good condition it's probably worth the additional asking price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Cultural and Historical Significance
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
  There's no winner here, other than LD being the better option for preservation if no newer media of that content exists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Community and Fandom
@@ -114,22 +114,17 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-respond-to-a-youtube-copyright-claim-best-practices/"><u>[New] 2024 Approved How to Respond to a YouTube Copyright Claim Best Practices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-experts-picks-top-11-mac-applications-for-screen-capture-for-2024/"><u>[New] Expert's Picks Top 11 Mac Applications for Screen Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-save-fb-pages-with-a-click-top-8-tools-available-online-and-free/"><u>2024 Approved Save FB Pages with a Click Top 8 Tools Available Online & FREE</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-windows-explorer-tab-lapses/"><u>Bridging Windows Explorer Tab Lapses</u></a></li>
-<li><a href="https://windows11.techidaily.com/enrich-your-windows-setup-with-personal-menus/"><u>Enrich Your Windows Setup with Personal Menus</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-14-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 14 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-money-making-enabling-youtube-monetization-for-mobile-devices/"><u>In 2024, Mastering Money-Making Enabling YouTube Monetization for Mobile Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sporty-sound-solidity-a-review-of-boses-headphone-range/"><u>Sporty Sound Solidity: A Review of Bose's Headphone Range</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/spotlight-on-samsung-galaxy-tab-a-2020-the-critical-feature-youre-missing/"><u>Spotlight on Samsung Galaxy Tab A (2020): The Critical Feature You're Missing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-charming-blend-of-analog-aesthetics-and-digital-features-in-the-withings-move-reviewed/"><u>The Charming Blend of Analog Aesthetics and Digital Features in the Withings Move Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-heimvision-a8c-s-sunrise-alarm-clock-your-guide-to-better-mornings-with-light-technology/"><u>The HeimVision A8C S Sunrise Alarm Clock: Your Guide to Better Mornings with Light Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-ideapad-laptop-examined-featuring-a-sturdy-framework-and-easy-to-navigate-interface/"><u>The Lenovo IdeaPad Laptop Examined: Featuring a Sturdy Framework and Easy-to-Navigate Interface</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-new-marshall-for-anc-fashionable-and-musical-vibes-unite/"><u>The New Marshall for ANC: Fashionable & Musical Vibes Unite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-sizzling-sequel-an-in-depth-overcooked-2-culinary-critique/"><u>The Sizzling Sequel: An In-Depth Overcooked! 2 Culinary Critique</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-6-iphone-security-software-the-ultimate-protection-guide/"><u>Top 6 iPhone Security Software: The Ultimate Protection Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-create-meme-on-giphy/"><u>[New] Create Meme on Giphy</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-preserving-gifs-from-twitter-for-mobile-devices/"><u>[Updated] Preserving GIFs From Twitter for Mobile Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dive-into-a-world-of-wonder-with-apple-vision-pro-enthralling-yet-exhausting-views-on-my-favorite-show/"><u>Dive Into a World of Wonder with Apple Vision Pro: Enthralling Yet Exhausting Views on My Favorite Show.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-coding-workflow-with-these-6-essential-chatgpt-add-ons-for-visual-studio-code/"><u>Elevate Your Coding Workflow with These 6 Essential ChatGPT Add-Ons for Visual Studio Code</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-motorola-g24-power-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola G24 Power Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-6-plus-5-ways-to-get-into-a-locked-iphone-6-plus-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 6 Plus? 5 Ways to get into a Locked iPhone 6 Plus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mobile-marvel-unveiled-in-our-review-of-hps-zbook-firefly-15-g8/"><u>Mobile Marvel Unveiled in Our Review of HP's ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-a20-uncovered-is-this-budget-android-device-worth-your-attention/"><u>Samsung Galaxy A20 Uncovered: Is This Budget Android Device Worth Your Attention?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/solving-the-problem-of-png-files-wont-load-on-your-windows-11-pc/"><u>Solving the Problem of PNG Files Won't Load on Your Windows 11 PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablets-unveiled-a-guide-to-the-top-eight-considerations-when-shop/"><u>Tablets Unveiled: A Guide to the Top Eight Considerations When Shop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-garmin-vivomove-hr-a-chic-timepiece-for-athletes-and-style-conscious-individuals/"><u>The Ultimate Guide to Garmin Vivomove HR - A Chic Timepiece for Athletes and Style-Conscious Individuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-360-degree-gearing-for-2024/"><u>Ultimate 360 Degree Gearing for 2024</u></a></li>
 </ul></div>
 

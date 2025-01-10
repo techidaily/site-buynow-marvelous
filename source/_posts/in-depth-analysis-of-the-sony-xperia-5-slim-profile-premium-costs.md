@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Sony Xperia 5 - Slim Profile, Premium Costs
-date: 2024-08-09T00:43:51.260Z
-updated: 2024-08-10T00:43:51.260Z
+date: 2025-01-06T16:09:42.566Z
+updated: 2025-01-10T16:08:00.389Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Sony Xperia 5 - Slim Profile, Premium Costs
@@ -13,12 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/G9eXk3XIQC2TKR2WDGaWzRt8dy8=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Ergonomic Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/vIxt4B-k5bknAa1sNqaFwB1GroY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -46,6 +51,10 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/OTYRC4PtfZO9h5RTG8oHiroYrDg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $160](https://www.amazon.com/Microsoft-3RA-00022-Surface-Ergonomic-Keyboard/dp/B01MFCTRZM/?tag=lifewire-onsite-prod-20&ascsubtag=4780282%7Cn5d92c3a566b34e0ab250914e6a064c0806%7CB01MFCTRZM) [View On Walmart $108](https://www.walmart.com/ip/Microsoft-Surface-Ergonomic-Keyboard/516908599) [View On Best Buy $130](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-surface-ergonomic-keyboard-silver%2F5689821.p%3FskuId%3D5689821)
@@ -67,16 +76,10 @@ Lifewire / Emily Isaacs
 
  Microsoft is no stranger to computers and their accessories, and it’s obvious with the Microsoft Surface Keyboard that they’ve put a considerable amount of thought into its design. This[ergonomic keyboard](https://www.lifewire.com/best-ergonomic-keyboards-4147386) is not only built with high-quality materials to ensure its longevity, but it’s comfortable and intuitive to use. We tested this keyboard over the period of a week, read on to see what we found.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Sleek and comfortable**
 
  The Surface is a sleek ergonomic keyboard and a welcome addition to the Microsoft family. Like many ergonomic keyboards, it’s designed to help your wrists sit at an instinctive, comfortable angle that encourages natural movement to prevent[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) . The keys have a slight divot in the center so fingers naturally conform to their shape, making the keys comfortable and easy to type on.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/XepNCNj18GnNs8V1INrxR7tnMGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_04-1edde9a5b2264b4abb528945ffae167f.jpg)
 
  Lifewire / Emily Isaacs
@@ -99,26 +102,20 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Features: Well-conceived function keys**
 
  The Surface has function keys for pausing multimedia, skipping forward or backward in multimedia, increasing or decreasing volume, muting volume, increasing brightness or decreasing brightness, and several others. It really feels like Microsoft thought of every way their users interact with keyboards and tried to meet their needs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Battery Life: Excellent, but at the expense of backlighting**
 
  The keyboard[features Bluetooth 4.0 technology](https://www.lifewire.com/what-is-bluetooth-2377412) , so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices. It’s worth noting that it does use two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) . These offer a shelf life of up to 12 months, so you’re not likely to run out of power anytime soon. If you do need to change them, it’s easy to press the battery compartment lid down so that it pops out to replace them. One drawback to this design, however, is that the keyboard doesn’t feature backlighting. While this isn’t the end of the world by any means, it is something we definitely missed when using it.
 
  The keyboard features Bluetooth 4.0 technology, so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Expensive, but worth it for the quality**
 
  Retailing for $129 (MSRP) or around $99 on Amazon, the Surface is a pricey little keyboard. Between the quality of the build materials, the comfort of the keyboard’s design, its wireless capabilities, and its great battery life, the Surface is a worthwhile investment for people who spend a significant amount of time in front of a PC. If you don’t spend much time on your PC, however, a cheaper, non-ergonomic model may be a better fit.
@@ -130,6 +127,10 @@ Lifewire / Emily Isaacs
 [Microsoft Sculpt Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-sculpt-ergonomic-keyboard-review-4780274)
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/V-eFQKJrpei_UnaKMYDEWLLNsYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_02-4fa6aa53c9d249a6900cb4058b084301.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -147,9 +148,6 @@ Lifewire / Emily Isaacs
 
  The Microsoft Surface Ergonomic Keyboard is a quality, wireless ergonomic keyboard that’s well worth the investment if you spend a significant portion of your time typing on your computer. It’s a splurge to be sure, but it’s worth the price for the quality you receive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Surface Ergonomic Keyboard
@@ -172,11 +170,31 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-branding-breakthrough-constructing-logos-for-podcasts/"><u>[Updated] 2024 Approved Branding Breakthrough Constructing Logos for Podcasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revealing-hidden-group-sharing-in-chat-space/"><u>[Updated] 2024 Approved Revealing Hidden Group Sharing in Chat Space</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[Updated] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-price-for-peak-performance-evaluating-the-fitbit-versa-lites-features-and-value/"><u>Best Price for Peak Performance: Evaluating the Fitbit Versa Lite's Features and Value</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clarification-needed-why-you-wont-find-an-authentic-chatgpt-application-for-your-pc-it-could-be-a-scam/"><u>Clarification Needed: Why You Won't Find an Authentic ChatGPT Application for Your PC – It Could Be a Scam!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/guidelines-to-choose-your-ideal-dash-video-recorder/"><u>Guidelines to Choose Your Ideal Dash Video Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>In 2024, Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-wi-fi-problems-quickly-for-your-surface-pro-with-these-tips/"><u>Solve Wi-Fi Problems Quickly for Your Surface Pro with These Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-work-life-balance-via-facebook/"><u>The Ultimate Guide to Work-Life Balance via Facebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2cuity-2000-reviewed-speedy-wireless-alternative-that-could-use-a-makeover/"><u>TP-Link AV2cuity 2000 Reviewed: Speedy Wireless Alternative that Could Use a Makeover</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-6-premier-online-vendors-for-premium-tvs/"><u>Ultimate Selection: 6 Premier Online Vendors for Premium TVs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-apple-discounts-during-amazons-prime-day-event/"><u>Unbeatable Apple Discounts During Amazon's Prime Day Event</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-moto-g-play-impressive-battery-capacity-combined-with-reliable-performance/"><u>Unboxing the Moto G Play - Impressive Battery Capacity Combined with Reliable Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-new-features-with-macos-ventura-update-guide/"><u>Unlocking New Features with MacOS Ventura Update Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/vibrant-user-account-creation-pathway-for-2024/"><u>Vibrant User Account Creation Pathway for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wonder-workshop-dash-unveiled-introducing-a-cutting-edge-and-interactive-connected-toy-for-kids/"><u>Wonder Workshop Dash Unveiled: Introducing a Cutting-Edge and Interactive Connected Toy for Kids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/z-edges-cost-effective-z3plus-cam-in-depth-performance-insights/"><u>Z-Edge's Cost-Effective Z3+ Cam: In-Depth Performance Insights</u></a></li>
+</ul></div>
+

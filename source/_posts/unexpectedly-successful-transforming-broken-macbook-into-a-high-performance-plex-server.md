@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Successful: Transforming Broken MacBook Into a High-Performance Plex Server"
-date: 2024-11-23T16:58:47.120Z
-updated: 2024-11-24T20:18:08.099Z
+date: 2025-01-08T16:12:23.203Z
+updated: 2025-01-10T16:13:37.853Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 ## Unexpectedly Successful: Transforming Broken MacBook Into a High-Performance Plex Server
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Plex is a great way to make your personal media library available to all devices on your local network, but for a laptop user like me it's hard to have a Plex server that's always plugged in. Until I ended up with a MacBook that's just broken enough for the job.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Mac Too Expensive to Fix, but Too Valuable to Throw Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Without the top row of "keys" and that annoying, eye-searing flashing, the MacBook Pro is effectively unusable as a laptop, and not worth the money to fix. Otherwise, it's in perfect condition and still a cracking little computer. So I decided I'd hook it up permanently, and turn it into (among other things) our Plex server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Up Plex and Drives Was Easy
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  I have a dual-port USB-C dock connected to the Mac, which is in turn connected to a Dell monitor with a built-in USB hub, and that's what my media drive is connected to. One way or another, I recommend a powered USB hub rather than running the drives from the MacBook's internal power, since even one big drive might put too much strain on the little guy as a permanently-connected media drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Zero Performance Issues
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  The M1 has four performance cores and four efficiency cores, and this model has 8GB of RAM and a 512GB SSD. I tried watching multiple 4K streams on different devices, and it went off without a hitch. So far I haven't found a way to make the little MacBook choke, so I can only imagine that any Apple Silicon Mac would be simply great at this job. Like an M1 Mac Mini that you pick up used for a bargain, perhaps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s My New Desktop Mac Too!
@@ -80,21 +80,24 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-stir-to-screen-masterful-cooking-videos/"><u>[New] 2024 Approved From Stir to Screen Masterful Cooking Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-google-trends-for-video-concept-generation-for-2024/"><u>[New] Harnessing Google Trends for Video Concept Generation for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audiovisual-authority-the-finest-computers-for-professional-edits/"><u>[Updated] 2024 Approved Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-poco-f5-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Poco F5 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco C55 Phone without PIN</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-digital-art-comprehensive-xp-pen-artist-16-pro-tablet-assessment/"><u>Navigating the World of Digital Art: Comprehensive XP-Pen Artist 16 Pro Tablet Assessment</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease-for-2024/"><u>New Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outperforming-the-apple-watch-with-fitbit-senses-advanced-wellness-features/"><u>Outperforming the Apple Watch with Fitbit Sense's Advanced Wellness Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/peaceful-slumber-top-technology-gadgets-for-the-perfect-nights-rest/"><u>Peaceful Slumber: Top Technology Gadgets for the Perfect Night's Rest</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/perfect-your-commute-with-kobo-clara-hd-top-pick-for-avid-readers-in-transit/"><u>Perfect Your Commute with Kobo Clara HD: Top Pick for Avid Readers in Transit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-performance-of-netgears-c3700-model-focusing-on-its-modem-features/"><u>Reviewing the Performance of Netgear's C3700 Model – Focusing on Its Modem Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-active2-analysis-timeless-design-meets-contemporary-innovations/"><u>Samsung Galaxy Watch Active2 Analysis: Timeless Design Meets Contemporary Innovations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solved-how-to-update-and-repair-hp-beats-sound-card-software-on-win11-win8-and-win7/"><u>Solved: How To Update And Repair HP Beats Sound Card Software on Win11, Win8 & Win7</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-10-leading-online-learning-destinations-for-academic-and-skill-advancement/"><u>The 10 Leading Online Learning Destinations for Academic and Skill Advancement</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-checklist-key-aspects-of-choosing-the-right-tablet/"><u>The Ultimate Checklist: Key Aspects of Choosing the Right Tablet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-ultimate-free-guide-to-transforming-your-iphone-x7-selfies/"><u>The Ultimate FREE Guide to Transforming Your iPhone X/7 Selfies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-secure-your-insta-reels-with-simple-download-strategies/"><u>[New] 2024 Approved Secure Your Insta Reels with Simple Download Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723035435915-add-statistical-evidence-or-expert-testimonials-after-each-paragraph-discussing-treatment-efficacy/"><u>Add Statistical Evidence or Expert Testimonials After Each Paragraph Discussing Treatment Efficacy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-features-of-the-asus-zenwifi-ax6600-xt8-a-thorough-review-of-its-mesh-networking-prowess/"><u>Breaking Down The Features Of The ASUS ZenWiFi AX6600 (XT8) - A Thorough Review of Its Mesh Networking Prowess</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-vs-quality-is-the-thermopro-tp67-a-dependable-option-for-home-cooks/"><u>Budget vs Quality - Is The ThermoPro TP67 a Dependable Option for Home Cooks?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apple-airtag-assessment-top-choice-for-ios-device-owners/"><u>Comprehensive Apple AirTag Assessment: Top Choice for iOS Device Owners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-image-editing-to-new-heights-experience-the-ultimate-open-source-raw-converter-for-macos-and-linux-in-darktable/"><u>Elevate Image Editing to New Heights: Experience the Ultimate Open Source RAW Converter for macOS and Linux in Darktable</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-seamless-ultra-fast-wi-fi-coverage-with-the-orbi-whole-home-mesh-system-reviewed-here/"><u>Experience Seamless, Ultra-Fast Wi-Fi Coverage with the Orbi Whole Home Mesh System Reviewed Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-open-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Open Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-explore-the-world-of-mobile-video-editing-with-snapchat-favorites/"><u>In 2024, Explore the World of Mobile Video Editing with Snapchat Favorites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-the-compelling-world-of-campfire-tales-minecraft-packs/"><u>In-Depth Review: The Compelling World of Campfire Tales Minecraft Packs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-essentials-tips-from-toms-equipment-experts/"><u>Mastering Hardware Essentials - Tips From Tom’s Equipment Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-solution-for-paper-jam-issues-in-your-printer-learn-the-techniques-with-yl-software-hq/"><u>Step-by-Step Solution for Paper Jam Issues in Your Printer - Learn the Techniques with YL Software HQ</u></a></li>
+<li><a href="https://facebook.techidaily.com/stopping-fb-reel-views-a-step-by-step-guide/"><u>Stopping FB Reel Views: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-home-theater-systems-in-2t24-a-comprehensive-guide/"><u>Top-Ranking Home Theater Systems in 2T24: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-karaoke-hack-masterful-tips-for-renaming-your-pcdj-tracks-efficiently/"><u>Ultimate Karaoke Hack - Masterful Tips for Renaming Your PCDJ Tracks Efficiently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969872524-ultimate-link-for-free-hp-laserjet-1018-driver-easy-installation-steps-inside/"><u>Ultimate Link for Free HP LaserJet 1018 Driver - Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-power-on-the-go-in-depth-analysis-and-review-of-the-zmi-powerpack-20000/"><u>Unleashing Power on the Go: In-Depth Analysis and Review of the ZMI PowerPack 20000</u></a></li>
 </ul></div>
 

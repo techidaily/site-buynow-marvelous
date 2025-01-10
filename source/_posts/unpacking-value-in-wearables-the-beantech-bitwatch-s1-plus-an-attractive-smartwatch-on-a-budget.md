@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
-date: 2024-12-27T19:47:53.532Z
-updated: 2025-01-03T20:02:59.318Z
+date: 2025-01-05T16:14:40.541Z
+updated: 2025-01-10T16:12:34.522Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking Value in Wearables: The Beantech Bitwatch S1 Plus - An Attractive Smartwatch on a Budget"
@@ -41,10 +41,6 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/O7QnNkdge4zffV7BYmgcQZadk2I=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-HeroSquare-771afa6a985240f0ab5fe71246b3d502.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Todd Braylor
 
 [View On Amazon $149](https://www.amazon.com/dp/B07MFZ9MHM?tag=lifewire-onsite-prod-20&ascsubtag=4768625%7Cne7e30477dce44991aba0d4ad06c424c419%7CB07MFZ9MHM) [View On Walmart $150](https://www.walmart.com/ip/Fitbit-Versa-LITE-Edition-Smartwatch/452035295)
@@ -72,11 +68,11 @@ Lifewire / Todd Braylor
 
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/A3jXmqXMfkFi3FKj8NYHxxYKi84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-03-849db13f6309480cb88c9d05e512f1a1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Customizable and instinctive**
 
@@ -93,7 +89,7 @@ Lifewire / Todd Braylor
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/ehQeP3qIsRUrUZp6p58PkmyfjZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-02-cbb859573ea64d6bbd3cb967820dbdec.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Todd Braylor
@@ -115,10 +111,6 @@ Lifewire / Todd Braylor
  Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed.
 
  Aesthetically, the Versa Lite's screen and wrist band are attractive and look sleek. You can confidently wear the Versa Lite in any professional setting—it's good-looking but not overly flashy. Size-wise, it’s not the most ideal fitness tracker for sleep monitoring. It really feels like you are wearing a watch to bed and you might find yourself wanting to leave it on the bedside table instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Lean and effective**
 
@@ -142,6 +134,10 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery Life: Days of activity**
 
  Fitbit promised four or more days of battery life for the Versa Lite, and they weren’t lying. The Versa Lite we tested lasted almost four and a half days before draining all the way down to zero. This made so many days of daily wear and daily runs seem hassle-free.
@@ -151,7 +147,7 @@ Lifewire / Todd Braylor
 ![Fitbit Versa Lite](https://www.lifewire.com/thmb/NkHZ0M514IlrqowHF6M_QWHxgj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4057119-06-be4c149f1dff4214acfe0fbc3a4d63e6-1-f6f110eb54e142c992dd3f613bdb9f28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -164,6 +160,10 @@ Lifewire / Todd Braylor
 
  A host of other smartwatch apps come standard with the Versa Lite, including alarms, a weather app, a stopwatch, a relaxation app that guides you through short mindfulness exercises, and the specific exercise apps mentioned above. As far as additional apps for the Versa Lite, this is it—the Lite Edition does not have the ability to add extra apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A deal for under $200**
 
  Retailing for $159.95 and occasionally selling for less on sale, the Versa Lite is a price-conscious but solid piece of tech that prioritizes exercise. It's a great introduction to the smartwatch lifestyle with all the notifications you need to be connected and without an overwhelming amount of distractions.
@@ -171,7 +171,7 @@ Lifewire / Todd Braylor
  The ability to train in-depth with the Fitbit app and various Versa Lite exercise apps makes this fitness tracker a pretty good deal for under $200\. Avid swimmers, on the other hand, may want to look elsewhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fitbit Versa Lite Edition vs. Apple Watch Series 4**
@@ -191,7 +191,7 @@ Lifewire / Todd Braylor
  Though we can’t recommend this watch to swimmers (pending a potential software solution for that glitch), the Fitbit Versa Lite is a great way to chart your progress throughout a training program or competitive season. The combination of the Fitbit Basics and dedicated exercise apps makes this watch both an insightful wellness monitor for everyday activity and a great tool for tracking your fitness progress.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -234,20 +234,22 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-text-tactics-top-10-best-practices/"><u>[New] Text Tactics Top 10 Best Practices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-broadcast-your-curated-playlist-with-ease/"><u>[Updated] 2024 Approved Broadcast Your Curated Playlist with Ease</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-integrate-streamlabs-with-ease-into-your-macs-obs-for-2024/"><u>[Updated] Integrate Streamlabs with Ease Into Your Mac’s OBS for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-transformation-into-animated-gifs-no-save/"><u>2024 Approved Mastering YouTube Video Transformation Into Animated GIFs (No Save)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-advanced-and-reliable-range-boosting-routers-reviewed/"><u>2024'S Most Advanced and Reliable Range-Boosting Routers Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehvew-into-the-bespoke-world-of-fitness-with-amazons-revolutionary-halo-tracker/"><u>A Comprehvew Into the Bespoke World of Fitness with Amazon's Revolutionary Halo Tracker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-value-oneplus-specials-available-only-on-prime-day-extravaganza/"><u>Best Value OnePlus Specials Available Only on Prime Day Extravaganza</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-android-tablet-review-the-lenovo-tab-4s-advantages-and-drawbacks-explored/"><u>Budget Android Tablet Review - The Lenovo Tab 4'S Advantages and Drawbacks Explored</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/chromecast-with-google-tv-unveiled-a-comparison-to-firetv/"><u>Chromecast with Google TV Unveiled: A Comparison to FireTV</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generate-stunning-visuals-with-dall-e-3-on-microsoft-bing-free-tutorial/"><u>Generate Stunning Visuals with DALL-E 3 on Microsoft Bing - Free Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966789530-get-your-latest-nvidia-game-ready-drivers-for-pc-download-now/"><u>Get Your Latest NVIDIA Game-Ready Drivers for PC: Download Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/itunes-update-for-windows-1187-troubleshooting-installation-issues-and-finding-solutions/"><u>ITunes Update for Windows 11/8/7: Troubleshooting Installation Issues & Finding Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scriptwriting-a-comprerancial-guide-to-slug-lines-for-2024/"><u>Scriptwriting A Comprerancial Guide to Slug Lines for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/solving-the-issue-with-device-disabled-error-code-n22-a-step-by-step-guide/"><u>Solving the Issue with 'Device Disabled, Error Code N22': A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-the-oneplus-9-falls-short-on-performance-metrics-a-review/"><u>Why the OnePlus 9 Falls Short on Performance Metrics – A Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-stardew-enhancements-for-maximum-farming-fun/"><u>[New] 2024 Approved Essential Stardew Enhancements for Maximum Farming Fun</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Updated] [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhance-photos-add-dynamic-shake-with-ps-for-2024/"><u>[Updated] Enhance Photos Add Dynamic Shake with PS for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-rhythmic-reflections-in-photo-cinema/"><u>2024 Approved Rhythmic Reflections in Photo Cinema</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-track/"><u>Download and Update AMD SMBus Drivers - Fast Track</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-uploading-beats-youtube-music-setup/"><u>In 2024, Uploading Beats YouTube Music Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-paperwork-in-depth-review-of-the-robust-fujitsu-scansnap-ix1-600-desktop-scanner/"><u>Mastering Paperwork: In-Depth Review of the Robust Fujitsu ScanSnap iX1 600 Desktop Scanner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-connectivity-on-a-budget-with-the-tp-link-archer-c50-a-users-guide/"><u>Maximizing Connectivity on a Budget with the TP-LInk Archer C50 - A User's Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meet-the-cutting-edge-amazon-halo-redefining-personal-health-tracking-tech-innovatively/"><u>Meet the Cutting-Edge Amazon Halo: Redefining Personal Health Tracking Tech Innovatively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-hyper-review/"><u>Motorola One Hyper Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-outside-blu-ray-recording-drives-your-2-reliable-guide-to-2024s-options/"><u>Navigating the Best Outside Blu-Ray Recording Drives: Your 2# Reliable Guide to 2024'S Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-lens-lightweight-frame-the-sx620-hs/"><u>Powerful Lens, Lightweight Frame: The SX620 HS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-tablet-technology-a-deep-dive-into-the-capabilities-of-the-samsung-galaxy-tab-s4/"><u>Revolutionary Tablet Technology - A Deep Dive Into the Capabilities of The Samsung Galaxy Tab S4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-digital-reads-with-the-largest-screen-a-complete-analysis-of-barnes-and-nobleannook-glowlight-plus/"><u>Revolutionizing Digital Reads with the Largest Screen: A Complete Analysis of Barnes & Noble'annook Glowlight Plus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Petcube Play 2: A Fun Gift For You And Your Pet"
-date: 2024-08-09T00:43:52.537Z
-updated: 2024-08-10T00:43:52.537Z
+date: 2025-01-07T16:10:04.309Z
+updated: 2025-01-10T16:07:10.870Z
 categories:
   - BestProducts
 description: "This Article Describes Petcube Play 2: A Fun Gift For You And Your Pet"
@@ -41,14 +41,16 @@ Lifewire / Andy Zahn
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Insta360 One X2
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Insta360 One X2](https://www.lifewire.com/thmb/SA87_MJD5mJRnYY0t31c9ELFmlc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -74,9 +76,6 @@ Lifewire / Andy Zahn
 
  Traditionally,[action cameras](https://www.lifewire.com/best-action-cameras-4139765) only capture a tiny window into the world. However, the Insta360 One X2 is one of a new breed of cameras that aim to uphold this age-old truth by capturing absolutely everything around them in a single spherical image. This opens up a wealth of opportunities from nifty editing tricks to easily capturing[VR](https://www.lifewire.com/virtual-reality-vr-definition-4155090) experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Design: A chunky, waterproof build
 
  The Insta360 One X2 is a solid, chunky little rectangle. It’s compact enough to fit in a large pocket and feels quite rugged and durable, though those bulbous glass lens elements mean you’ll still want to be a little careful with it. Fortunately, it comes with a sleek neoprene case that offers a reassuring extra level of protection when you just want to carry the camera in your pocket.
@@ -92,11 +91,16 @@ Lifewire / Andy Zahn
  Controls consist of a shutter button, power button, and circular touchscreen. An[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) light indicates the camera's status, and there is a standard tripod mount on the underside of the camera.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setup Process: Mostly straightforward
 
  The One X2 came partially charged and ready to go once I inserted a[microSD card](https://www.lifewire.com/best-sd-cards-to-buy-4072362) , though first I had to install the Insta360 app on my phone and activate the camera. This turned out to be a bit of a pain, with the Bluetooth connection used to activate the One X2 and set up the Wi-Fi connection repeatedly timing out and failing. Eventually, I got it up and running, and aside from the one hiccup, the process was fairly smooth, if more complex than I’d typically expect from a camera.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Image Quality: Good light a necessity
 
@@ -114,9 +118,6 @@ Lifewire / Andy Zahn
 
  The audio recording on the One X2 could be charitably described as mediocre. It’s there, and it’s useable, but in a camera that would otherwise be well suited to vlogging, given its portable size and ease of use, it's a little disappointing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Storage Requirements: Hefty file size
 
  Though it may be the bare minimum for decent 360 footage, the 5.7L video footage the One X2 captures is still highly demanding in how much storage space it requires. A single short video clip easily takes up hundreds of megabytes of space, so you’ll want a big microSD card and plenty of hard drive space on your PC and/or[smartphone](https://www.lifewire.com/best-smartphones-4043781) .
@@ -147,9 +148,6 @@ Lifewire / Andy Zahn
 
  With an MSRP of $430, the One X2 is only a little more expensive than a high-end action camera, but it’s not bad for a 360 camera. It’s a good value if being able to shoot 360-degree video is a necessity for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Insta360 One X2 vs. GoPro Hero 9 Black
 
  You may well be trying to decide between a 360 camera and a traditional action camera, in which case the obvious choice to match against the Insta360 One X2 is the[GoPro HERO9 Black](https://www.lifewire.com/gopro-hero9-black-review-5120078) . On the surface, the GoPro looks like the obvious choice for far better image and audio quality with better durability at a lower price point. However, if what you want is to record special moments in your life without having to even think about the camera, then you should go with the One X2.
@@ -161,8 +159,9 @@ Lifewire / Andy Zahn
  I had something of a rough start with the Insta360 One X2, but after dealing with setup issues and a steep learning curve, its small size, lightweight, and ease of use made up for its flaws It’s ideal for capturing videos in circumstances where you can’t be bothered to film with a traditional camera.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [GoPro HERO9 Black](https://www.lifewire.com/gopro-hero9-black-review-5120078)
@@ -199,11 +198,30 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boost-your-instagram-videos-watchability-and-speed/"><u>[New] In 2024, Boost Your Instagram Videos' Watchability and Speed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-precision-in-proportion-finding-aspect-ratio-perfection/"><u>[New] In 2024, Precision in Proportion Finding Aspect Ratio Perfection</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-confirmation-procedures-for-youtube-users/"><u>[Updated] Confirmation Procedures for YouTube Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-motorola-edgeplus-a-bargain-compromise-on-luxury-standards/"><u>Analyzing the Motorola Edge+: A Bargain Compromise on Luxury Standards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audio-anatomy-dissecting-airpods-pro-and-galaxy-buds-pro/"><u>Audio Anatomy: Dissecting AirPods Pro & Galaxy Buds Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blade-blh4100-120-s-rc-helicopter-review-ready-to-fly-outdoors/"><u>Blade BLH4100 120 S RC Helicopter Review: Ready To Fly Outdoors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bose-quietcontrol-30-review-amazing-but-flawed/"><u>Bose Quietcontrol 30 Review: Amazing But Flawed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bouncie-autotracker-overview-a-straightforward-and-economical-car-location-solution/"><u>Bouncie AutoTracker Overview: A Straightforward and Economical Car Location Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-between-classics-an-in-depth-review-of-the-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>Choosing Between Classics: An In-Depth Review of the Nintendo Switch Lite vs Nintendo Switch OLED</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/clearsound-pro-ear-defenders-analysis/"><u>ClearSound Pro Ear Defenders Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-breakdown-free2x-webcam-tools-insight-for-2024/"><u>Expert Breakdown Free2X WebCam Tools Insight for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-12-mini-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 12 mini</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-date-calculations-adding-and-subtracting-days-with-excel/"><u>Mastering Date Calculations: Adding and Subtracting Days with Excel</u></a></li>
+<li><a href="https://media-tips.techidaily.com/optimizing-spotify-streaming-tips-to-save-space-and-bandwidth/"><u>Optimizing Spotify Streaming: Tips to Save Space and Bandwidth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-uninstalling-applications-from-your-windows-10-system/"><u>The Ultimate Tutorial for Uninstalling Applications From Your Windows 10 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tune-in-for-microsofts-latest-tech-revelation-surface-plus-ai-showcase-expectations-covered/"><u>Tune in for Microsoft's Latest Tech Revelation: Surface Plus AI Showcase | Expectations Covered</u></a></li>
+</ul></div>
+
