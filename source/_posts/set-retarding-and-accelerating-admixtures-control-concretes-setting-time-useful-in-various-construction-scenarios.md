@@ -1,7 +1,7 @@
 ---
 title: Set Retarding and Accelerating Admixtures Control Concrete's Setting Time, Useful in Various Construction Scenarios.
-date: 2025-01-09T16:22:04.346Z
-updated: 2025-01-10T16:21:19.659Z
+date: 2025-01-14T19:10:03.879Z
+updated: 2025-01-15T18:56:24.454Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Set Retarding and Accelerating Admixtures Control Concrete's Setting Time, Useful in Various Construction Scenarios.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -88,15 +84,27 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  The prime reason to buy the Capsule 3 is its compact, all-inclusive design. It has built-in speakers, a battery that’s long enough for most movies, and streaming software, all within the size of a small Gatorade bottle. (You can see how it compares to a 12-ounce can of La Croix.) Unless you’re putting it on a tripod or plugging it into power, there’s nothing else it needs. It features a resolution of 1,920 x 1,080, has HDMI input, an 8W speaker, can do front or rear projection, and weighs under two pounds.
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
@@ -122,10 +130,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -142,16 +146,12 @@ Jerome Thomas / How-To Geek
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
@@ -159,7 +159,7 @@ Jerome Thomas / How-To Geek
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -193,22 +193,19 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-10-must-have-keyword-gurus-for-video-success-for-2024/"><u>[Updated] 10 Must-Have Keyword Gurus for Video Success for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-portable-battery-packs-to-keep-recording-longer/"><u>[Updated] Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-revolutionary-entry-points-for-zooids-for-2024/"><u>[Updated] Revolutionary Entry Points for Zooids for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-game-changer-for-travelers-and-nature-enthusiasts-nikon-coolpix-p1000/"><u>A Game-Changer for Travelers & Nature Enthusiasts – Nikon COOLPIX P1000</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/complete-guide-preserving-screen-images-for-future-reference-in-microsoft-word/"><u>Complete Guide: Preserving Screen Images for Future Reference in Microsoft Word</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-the-apple-watch-series-9-stack-up-an-in-depth-product-assessment/"><u>How Does the Apple Watch Series 9 Stack Up? An In-Depth Product Assessment</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-xr21-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia XR21 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Phone without Any Data Loss</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>In 2024, Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-official-epson-ds-530-drivers-on-your-windows-11-computer-x64/"><u>Install Official Epson DS-530 Drivers on Your Windows 11 Computer (X64)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-new-ps5-worth-its-price-discover-four-benefits/"><u>Is the New PS5 Worth Its Price? Discover Four Benefits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sabrent-compact-travel-mouse-with-high-precision-tracking-and-detachable-cord/"><u>Sabrent Compact Travel Mouse with High-Precision Tracking & Detachable Cord</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014078158-step-by-step-guide-to-smoother-play-in-dayz-eliminate-frame-drops-now/"><u>Step-by-Step Guide to Smoother Play in DayZ - Eliminate Frame Drops Now!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cutting-edge-in-photo-editing-review-and-breakdown-of-anthropics-smart-photo-editor/"><u>The Cutting Edge in Photo Editing: Review and Breakdown of Anthropics Smart Photo Editor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-gamers-choice-unveiled-the-comprehensive-guide-to-samsung-q6nq60r-smart-tv/"><u>Top Gamers' Choice Unveiled: The Comprehensive Guide to Samsung Q6nQ60R Smart TV</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reasons-to-buy-cheap-and-quick-the-truth-about-affordable-anker-car-chargers/"><u>Top Reasons to Buy Cheap and Quick: The Truth About Affordable Anker Car Chargers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/wholesale-sky-shelves-economic-bulk-data-holder/"><u>Wholesale Sky Shelves Economic Bulk Data Holder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>[New] Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discover-the-leading-free-online-photo-editing-platforms/"><u>[Updated] Discover the Leading Free Online Photo Editing Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-asmr-video-knowledge-for-beginners/"><u>[Updated] In 2024, ASMR Video Knowledge for Beginners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-stunning-feats-in-figure-skating-22-moments/"><u>[Updated] Stunning Feats in Figure Skating '22 Moments</u></a></li>
+<li><a href="https://discover-community.techidaily.com/windows-movie-maker/"><u>如何维修Windows Movie Maker在新版操作系统下出现问题——手动修复方法</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-sitting-game-inside-look-at-the-ergonomic-marvel-mavix-m9/"><u>Ace Your Sitting Game: Inside Look at the Ergonomic Marvel, Mavix M9</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-functional-in-depth-fitbit-versa-examination/"><u>Affordable and Functional: In-Depth Fitbit Versa Examination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/american-karaoke-extravaganza-premium-fun-for-less-your-guide-to-sub-150-entertainment/"><u>American Karaoke Extravaganza: Premium Fun for Less – Your Guide to Sub-$150 Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aqua-exploration-at-your-will-discover-the-insta360-one-x2-review/"><u>Aqua Exploration at Your Will - Discover the Insta360 One X2 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-upgrades-of-apple-watch-series-6-excellence-maintained-with-subtle-improvements/"><u>Assessing the Upgrades of Apple Watch Series 6 - Excellence Maintained with Subtle Improvements</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-chuckle-cache-the-ultimate-free-meme-compendium/"><u>In 2024, Chuckle Cache The Ultimate Free Meme Compendium</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-note-30-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Note 30 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966550227-self-healing-concrete-contains-healing-agents-that-react-when-exposed-to-air-or-water-through-cracks-leading-to-crack-sealing/"><u>Self-Healing Concrete Contains Healing Agents that React when Exposed to Air or Water Through Cracks, Leading to Crack Sealing.</u></a></li>
 </ul></div>
 

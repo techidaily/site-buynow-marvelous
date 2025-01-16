@@ -1,7 +1,7 @@
 ---
 title: Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
-date: 2025-01-06T16:16:26.279Z
-updated: 2025-01-10T16:01:00.166Z
+date: 2025-01-13T17:14:19.992Z
+updated: 2025-01-16T05:55:02.589Z
 categories:
   - BestProducts
 description: This Article Describes Review of the Economical AmazonBasics Cross-Cut, 6 Sheets Capacity Document Shredder
@@ -14,7 +14,7 @@ thumbnail: https://www.lifewire.com/thmb/ZGkU_v50do17iYS5LwlJ7MnuhQI=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Luna
@@ -48,10 +48,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon](https://www.amazon.com/luna/landing-page?tag=lifewire-onsite-prod-20&ascsubtag=5119523%7Cnc95ba131dcd04d8fadef0bfb2a313e6816%7C)
@@ -78,7 +74,7 @@ Lifewire / Jeremy Laukkonen
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and Controls: Decent enough app and a nearly flawless controller
@@ -88,7 +84,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -122,7 +118,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -130,10 +126,6 @@ Lifewire / Jeremy Laukkonen
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -166,6 +158,10 @@ Lifewire / Jeremy Laukkonen
  During the beta period, the basic Luna subscription gets you access to 70 games, with an additional two dozen games locked behind the Ubisoft+ subscription. The 70 games included with the basic subscription offer a ton of entertainment value, but most genres are woefully underrepresented, and others are missing altogether. For example, fans of fighting games won’t find anything to rally behind here.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -203,6 +199,10 @@ Lifewire / Jeremy Laukkonen
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Luna
@@ -233,24 +233,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>[Updated] In 2024, Calm Tales on Screen Analyzing Parent-Child Bedtime Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-downloader-how-to-download-twitter-videos-to-iphone-for-2024/"><u>[Updated] Twitter Video Downloader How to Download Twitter Videos to iPhone for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-7th-gen-ipods-role-in-music-devices/"><u>Analyzing the 7Th Gen iPod's Role in Music Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breakneck-speeds-and-top-tier-features-a-detailed-look-at-the-asus-rog-rapture-gt-ax11000-for-gamers/"><u>Breakneck Speeds and Top-Tier Features: A Detailed Look at the Asus ROG Rapture GT-AX11000 for Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breakthrough-in-tech-shopping-an-in-depth-exploration-of-all-ipad-models/"><u>Breakthrough in Tech Shopping: An In-Depth Exploration of All iPad Models</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-freestyle2-blue-on-macos-a-top-pick-for-cupertino-devotees/"><u>Comprehensive Assessment of Freestyle2 Blue on MacOS: A Top Pick for Cupertino Devotees</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-synology-rt2ac-wi-fi-router-with-enhanced-signal-range-and-built-in-parental-controls/"><u>Comprehensive Review of Synology RT2#AC Wi-Fi Router with Enhanced Signal Range & Built-In Parental Controls</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-secure-customized-workout-routines-by-chatgpt/"><u>Crafting Secure, Customized Workout Routines by ChatGPT</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discover-apples-best-vr-gaming-titles-on-your-phone-for-2024/"><u>Discover Apple's Best VR Gaming Titles on Your Phone for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722886301085-exploring-the-dbpower-unichargers-robust-portable-design-and-extraordinary-mains-charging-speed-expert-insights/"><u>Exploring the DBPOWER UniCharger's Robust, Portable Design & Extraordinary Mains Charging Speed - Expert Insights!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-k11x-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo K11x online without jailbreak</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discounts-score-flights-at-94-off-with-dollar-flight-club-exclusive-deals-unveiled/"><u>Massive Discounts: Score Flights at 94% Off with Dollar Flight Club - Exclusive Deals Unveiled!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>Romantic Recitals Perfect Love Songs for Your Proposal Moment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stabile-videos-erstellen-tipps-fur-die-aufnahme-auf-windows-mac-android-und-iphone/"><u>Stabile Videos Erstellen: Tipps Für Die Aufnahme Auf Windows, Mac, Android Und iPhone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-best-features-of-the-samsung-galaxy-tab-s7-a-detailed-perspective-for-android-lovers/"><u>Unveiling the Best Features of the Samsung Galaxy Tab S7 – A Detailed Perspective for Android Lovers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723073488129-unveiling-the-secrets-behind-the-amazing-performance-and-affordability-of-the-asus-chromebook-flip-c302ca-reviews-inside/"><u>Unveiling the Secrets Behind the Amazing Performance and Affordability of the Asus Chromebook Flip C302CA - Reviews Inside</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/what-not-to-overlook-when-looking-for-high-end-vr-headsets/"><u>What Not To Overlook When Looking for High-End VR Headsets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-following-fades-track-losses-on-insta-for-2024/"><u>[New] Following Fades Track Losses on Insta for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-future-proof-iphones-with-apples-latest-ai-advancements-and-siri-enhancements/"><u>Comprehensive Guide: Future-Proof iPhones with Apple's Latest AI Advancements & Siri Enhancements</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/al-classrooms-prime-ed-tutorials-online/"><u>Digital Classrooms Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-reasons-integrating-chatgpt-into-job-hunting-strategies/"><u>Essential Reasons: Integrating ChatGPT Into Job Hunting Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-enable-dark-mode-on-facebook/"><u>How to Enable Dark Mode on Facebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-frosty-frontiers-highlighting-the-2022-olympic-games/"><u>In 2024, Frosty Frontiers Highlighting the 2022 Olympic Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-rayman-legends-critically-acclaimed-2d-gaming-adventure-examined/"><u>Navigating the World of Rayman Legends: Critically Acclaimed 2D Gaming Adventure Examined</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgears-nighthawk-x10-ad7200-router-a-comprehensive-review-for-lightning-speed-wireless-connectivity/"><u>Netgear's Nighthawk X10 AD7200 Router: A Comprehensive Review for Lightning Speed Wireless Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-to-mp3-check-out-agptek-a01t/"><u>New to MP3? Check Out AGPTEK A01T</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-gen-ears-bestheadphonesof2024-reviewed/"><u>Next-Gen Ears: #BestHeadphonesOf2024 Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oneplus-9-review-the-math-still-comes-up-short/"><u>OnePlus 9 Review: The Math Still Comes Up Short</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/runners-essential-in-depth-analysis-of-the-garmin-forerunner-45-gps-running-watch/"><u>Runner's Essential: In-Depth Analysis of the Garmin Forerunner 45 GPS Running Watch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sub-100-speed-demoncations-with-tp-link-archer-c80-comprehensive-review-and-results/"><u>Sub-$100 Speed Demoncations with TP-Link Archer C80: Comprehensive Review & Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-case-for-spending-on-ps5-4-essential-factors-considered/"><u>The Case for Spending on PS5: 4 Essential Factors Considered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-issues-of-using-openais-chatgpt/"><u>Top 8 Issues of Using OpenAI's ChatGPT</u></a></li>
+<li><a href="https://fox-where.techidaily.com/werkzeuge-fur-das-beenden-und-archivieren-des-betriebssystems-windows-server-2022-eine-anleitung/"><u>Werkzeuge Für Das Beenden Und Archivieren Des Betriebssystems Windows Server 2022 - Eine Anleitung</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/whats-next-after-pixel-9-a-sneak-peek-into-the-upcoming-made-by-google-2024/"><u>What's Next After Pixel 9? A Sneak Peek Into the Upcoming Made by Google 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive OnePlus 지트 포인터 비팅: 스릴라이어 카메라 구현에 장애가 있음"
-date: 2024-08-09T00:43:55.817Z
-updated: 2024-08-10T00:43:55.817Z
+date: 2025-01-12T22:34:29.477Z
+updated: 2025-01-16T02:40:23.514Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive OnePlus 지트 포인터 비팅: 스릴라이어 카메라 구현에 장애가 있음"
@@ -15,10 +15,11 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 ## Beantech Bitwatch S1 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/JogmBSjTGQl_gqbjuX8prgeJJPA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -40,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beantech Bitwatch S1 Plus
 
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/RIxQYWLMnyHkO9IcguCoRX11EbY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
@@ -72,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Software: A surprising amount of features in this chunky watch**
 
  The most outstanding feature of the Bitwatch’s design is its chunkiness. For those with small wrists, this smartwatch looks ridiculous. Furthermore, the included bands are too small in comparison to the watch, giving the overall design a cheap feel. When you wear this watch, you will notice it weighing your wrists down, taunting you to take it off. But as ugly as the Bitwatch is, it is a functional little watch. It has a power button and volume buttons, as well as a strong vibration motor. Its touchscreen works without a problem, and the app layout is intuitive to understand.
@@ -89,16 +84,14 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
  Setting up the Bitwatch works as you’d expect. Pair it via the Bluetooth on your phone and download the Beantech app. It works with both Android and iOS, so you should have no difficulty. Alerts will show up in the remote notifier app, and apps such as the calendar are not synced with your phone’s calendar apps, so keep that in mind if you’d like to add any events, notifications, or alarms to your watch.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/O7xHfA9sKsBdC0nmqNXbFky-Dm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-2-3b838f1124184bbd9452b79bb8449c2b.jpg)
 
  Lifewire / Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: You get what you pay for**
 
  The Bitwatch’s low price tag shows in its performance, unfortunately. The Siri app is just that: it interfaces with Siri, meaning that voice commands are iOS-exclusive. Notification handling on the device can get confusing also. You find notifications in the Remote Notifier app, and dismissing them on the Bitwatch does not dismiss them on your phone.
@@ -111,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/7GtX2IU-w4sJA-BTqQtHQThxaJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-3-ade31135cd9d4fe0b6b01286941d2652.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Ramirez
 
 ## **Battery: It last longer than most flagship smartwatches**
@@ -118,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  The battery life on the Bitwatch is excellent. With regular usage (GPS, heart rate, Bluetooth all on), we got between two and three days of use before we had to recharge. Charging is a little annoying, though, since it uses a snapping charger base that’s difficult to remove.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Reasonable, but worth paying more**
 
  The Bitwatch costs about $50, which is reasonable for its features and performance. You get reliable notifications and a passable heart rate monitor, as well as some basic functions like alarms and a speaker. If you want a cheap smartwatch, then the Bitwatch isn’t a bad pick, but $30 more can get you GPS and smarter notifications. If you are after a solid fitness tracker, both Garmin and[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) have[fantastic wearables](https://www.lifewire.com/phone-accessory-reviews-4102587) for under $100.
@@ -139,8 +137,9 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  The Beantech Bitwatch is not a groundbreaking smartwatch, but it provides a lot of essential features for $50\. If you’re looking to try out smartwatches, the Bitwatch will give you a solid battery life, music storage, passive notifications, phone call management, and a very large touchscreen.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Bitwatch S1 Plus
@@ -155,14 +154,11 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 * Battery Capacity  Unknown; 2 days in field testing
 * Waterproof  No
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,3 +166,18 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-brush-up-your-youtube-videos-with-color-correction/"><u>[New] 2024 Approved Brush Up Your Youtube Videos with Color Correction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-free-youtube-intro-makers-to-create-awesome-intros-for-2024/"><u>[New] Best Free YouTube Intro Makers to Create Awesome Intros for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-engage-with-mematic-seamless-note-management/"><u>[Updated] 2024 Approved Engage with Mematic Seamless Note Management</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-conciseness-in-content-editing-your-youtube-videos-smartly-for-2024/"><u>[Updated] Conciseness in Content Editing Your YouTube Videos Smartly for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-marketing-mastery-crafting-robust-backlinks-for-growth/"><u>[Updated] YouTube Marketing Mastery Crafting Robust Backlinks for Growth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-synology-rt2/"><u>Comprehensive Evaluation of Synology RT2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-enchanting-world-of-minecrafts-campfire-tales-skins-a-comprehensive-review/"><u>Exploring the Enchanting World of Minecraft's Campfire Tales Skins - A Comprehensive Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/feel-motivated-10-epic-movies-with-deep-impact/"><u>Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-gen-excellence-a-review-of-visuals-in-x-plane-11-global-simulator/"><u>Next-Gen Excellence: A Review of Visuals in X-Plane 11 Global Simulator</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-budget-friendly-and-convergent-tech-marvel/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA: Budget-Friendly and Convergent Tech Marvel</u></a></li>
+</ul></div>
+

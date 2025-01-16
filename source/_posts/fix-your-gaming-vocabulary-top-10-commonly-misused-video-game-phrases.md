@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2025-01-08T16:04:19.589Z
-updated: 2025-01-10T16:21:12.200Z
+date: 2025-01-12T02:44:04.853Z
+updated: 2025-01-16T01:51:44.453Z
 tags:
   - games
   - tv
@@ -39,15 +39,15 @@ Tim Brookes / How-To Geek
 
  Now, however, gamers often use the term "walking simulator" for titles that are true games. For example, _Death Stranding_ is as much a game as _Skyrim_ but because the main game mechanic is traversal and overcoming obstacles and enemies on your route, it's erroneously dubbed a walking sim. If you're interested in true walking simulators, our friends over at GameRant have a great list of the [best walking simulators that everyone should play](https://gamerant.com/best-walking-simulators/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Simulation
 
  This is a tricky one, because simulation is something that happens on a spectrum. At the most extreme end, you get pure simulators such as _Microsoft Flight Simulator_ which tries to be a serious and true digital reproduction of what flying a plane is really like. Generally, pure simulations like these allow you to learn the real world skills you'd need to actually do the thing in real life.
 
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Microsoft Flight Simulator 2020_  
 Tim Brookes / How-To Geek
@@ -55,7 +55,7 @@ Tim Brookes / How-To Geek
  However, people in the gaming world throw this word around a little liberally. There's the tongue-in-cheek stuff like _Surgeon Simulator_ where the joke is that it's the opposite of a simulator, but then there's a fuzzy area where some games that have a veneer of realism are referred to as simulators as well. Add to this, that simulation fidelity can vary and games often have very simplified simulations of some things in service of gameplay, and not realism, and it's easy to apply the term where it doesn't belong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Isometric
@@ -65,12 +65,16 @@ Tim Brookes / How-To Geek
 ![Fallout 2 from Black Isle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fallout_2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Interplay/Bethesda Softworks
 
  The silliest use I've seen myself is in reference to _Baldur's Gate 3,_which is a true 3D game, with a movable camera that can be moved from a top-down perspective all the way down to an over-the-shoulder view. So it's not isometric in any sense of the word. To be even more pedantic, many "isometric" games from the classic gaming era weren't isometric either. The first _Fallout_ game, for example, was trimetric.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  RPG
 
@@ -83,31 +87,27 @@ Tim Brookes / How-To Geek
 
  In recent years, more and more games outside the RPG genre have adopted elements of these games into their own designs. However, just like bolting wings to your car does not make it a plane, adding XP and item stats to an action adventure game does not make it a true RPG.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pay-To-Win
 
 [Pay-to-win](https://ai-video-apps.techidaily.com/new-visual-magic-how-to-create-stunning-video-effects-like-a-pro/) a term used to describe a (usually) free-to-play game that you can beat more easily by simply paying more real money. For example, you can pay to get powerful gear not easily found just by playing, or you can defeat non-paying players more easily by virtue of having spare cash.
 
 ![Helldivers 2 by Arrowhead Game Studios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/helldivers2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Helldivers 2_  
 Arrowhead Game Studios
 
  Whether you approve of "P2W" games or not, the term only applies to games where money can get you a significant advantage over other players. So, for example, it can never apply to a single-player game. Likewise, it can't apply to a PvE (Player Versus Enemy) game such as _Helldivers II_ because all the players are on the same side and the enemies are non-player characters.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Microtransaction vs DLC
 
  This is a curious one I saw for the first time not too long before writing this. There might be some disagreement on the finer details, but a [microtransaction](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) is a small payment you can make over and over again in a game to ge some sort of resource. Such as buying premium currency, or buying lootboxes. DLC (Downloadable content) are digital items you buy once and keep forever. Examples would include new weapons or outfits that are permanently added to your game, or even major game and story expansions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lag Vs Frame Rate
@@ -155,22 +155,24 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cutting-edge-chrome-vocal-transforming-apps-top-5-choices/"><u>[New] 2024 Approved Cutting-Edge Chrome Vocal Transforming Apps Top 5 Choices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>[New] The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-choosing-the-right-format-boosting-your-youtube-videos-performance/"><u>2024 Approved Choosing the Right Format – Boosting Your YouTube Videos’ Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/acers-r11-chromebook-a-sleek-portable-revision/"><u>Acer's R11 Chromebook - A Sleek, Portable Revision</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/building-a-powerful-brand-presence-with-instagrams-biz-tools/"><u>Building a Powerful Brand Presence with Instagram's Biz Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-insight-into-the-lg-stylo-press-beauty-on-display-with-a-precision-pointing-edge/"><u>Comprehensive Insight Into the LG Stylo Press - Beauty on Display with a Precision-Pointing Edge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-razer-blade-stealth-e-13-unmatched-improvements-for-slim-powerful-ultrabooks/"><u>Comprehensive Review of the Razer Blade Stealth E 13: Unmatched Improvements for Slim, Powerful Ultrabooks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-performance-and-elegance-the-apple-imac-215-4k-display-revealed/"><u>Discovering Performance & Elegance: The Apple iMac 21.5” 4K Display Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-images-with-prints-essential-techniques-within-adobe-photoshop/"><u>Enhancing Images with Prints: Essential Techniques Within Adobe Photoshop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ergodyne-topo-mat-evaluation-the-ultimate-comfortable-stepping-stone-against-fatigue/"><u>Ergodyne Topo Mat Evaluation: The Ultimate Comfortable Stepping Stone Against Fatigue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-asus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Asus Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-byb-e430-illumination-unit-scrutiny-a-leading-swing-arm-led-reviewed/"><u>In-Depth BYB E430 Illumination Unit Scrutiny: A Leading Swing Arm LED Reviewed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-youtubes-seo-landscape-a-keyword-expedition-for-2024/"><u>Mastering YouTube's SEO Landscape A Keyword Expedition for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>New 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/smiles-in-screens-make-with-kapwing/"><u>Smiles in Screens Make with Kapwing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-creme-de-la-creme-ranking-the-best-eight-games-for-your-subscription-on-google-play/"><u>The Crème De La Crème: Ranking the Best Eight Games for Your Subscription on Google Play</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/yl-software-unveiled-seamless-integration-of-crypto-payment-systems-explained/"><u>YL Software Unveiled: Seamless Integration of Crypto Payment Systems Explained</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-educational-synergy-enhancing-learning-with-youtube-videos-for-2024/"><u>[New] Educational Synergy Enhancing Learning with YouTube Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-thumbnail-crafting-101-the-fundamentals-covered/"><u>[New] In 2024, Thumbnail Crafting 101 The Fundamentals Covered</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-realistic-or-risky-vrs-hidden-dangers/"><u>[New] Realistic or Risky? VR's Hidden Dangers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shake-eliminator-gear-for-handhocal-cams-2022/"><u>[Updated] Shake Eliminator Gear for Handhocal Cams 2022</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-gameplay-update-nvidia-geforce-gtx-1660-ti-graphics-card-drivers/"><u>Enhance Your Gameplay: Update Nvidia GeForce GTX 1660 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-gamers-paradise-of-the-samsung-q60r-smart-qled-4k-tv-a-comprehensive-analysis/"><u>Exploring the Gamers Paradise of the Samsung Q60R Smart QLED 4K TV: A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-efficiency-mophie-powerstation-ac-charging-solution-is-the-price-worth-it/"><u>High-Efficiency Mophie Powerstation AC Charging Solution: Is the Price Worth It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-revealed-exceptional-camera-functions-combined-with-a-solid-mobile-experience/"><u>Huawei P20 Pro Revealed: Exceptional Camera Functions Combined with a Solid Mobile Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insightful-evaluation-of-the-rugged-and-resource-rich-samsung-gear-s-cufflink-on-a-wristwatch/"><u>Insightful Evaluation of the Rugged & Resource-Rich Samsung Gear S Cufflink on a Wristwatch?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/introducing-the-blue-freestyle2-case-the-ideal-companion-for-your-apple-device/"><u>Introducing the Blue Freestyle2 Case: The Ideal Companion for Your Apple Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovos-2020-highlight-the-tab-m10-fhd-plus-with-a-spectacular-display-that-doesnt-break-the-bank/"><u>Lenovo's 2020 Highlight: The Tab M10 FHD Plus with a Spectacular Display that Doesn’t Break the Bank</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-mobile-tech-the-definitive-guide-to-choosing-the-samsung-galaxy-s21-ultra-as-your-top-android-pick/"><u>Mastering Mobile Tech - The Definitive Guide to Choosing the Samsung Galaxy S2^1 Ultra as Your Top Android Pick</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-winx-dvd-clone-expert-answers-to-frequently-asked-questions/"><u>Mastering WinX DVD Clone: Expert Answers to Frequently Asked Questions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-internet-speed-and-coverage-the-ultimate-review-of-linksys-velop-router/"><u>Maximize Your Internet Speed and Coverage: The Ultimate Review of Linksys Velop Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/natm-relies-on-sequential-excavation-and-in-situ-stress-redistribution-making-it-adaptable-but-requiring-constant-monitoring-and-support-work/"><u>NATM Relies on Sequential Excavation and in Situ Stress Redistribution, Making It Adaptable but Requiring Constant Monitoring and Support Work.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/razer-drivers-download-and-update-in-windows-11-8-7-xp-and-vista/"><u>Razer Drivers Download & Update in Windows 11, 8, 7, XP and Vista</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/schnell-und-einfach-von-mp4-zu-avi-konvertieren-fuhrendes-anleitungsvideo-zur-kostenlosen-format-umwandlung/"><u>Schnell Und Einfach Von MP4 Zu AVI Konvertieren – Führendes Anleitungsvideo Zur Kostenlosen Format-Umwandlung</u></a></li>
 </ul></div>
 

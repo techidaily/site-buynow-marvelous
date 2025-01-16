@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
-date: 2025-01-04T16:11:05.659Z
-updated: 2025-01-10T16:09:13.982Z
+date: 2025-01-09T17:50:09.570Z
+updated: 2025-01-16T08:45:28.084Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply"
@@ -38,6 +38,10 @@ Lifewire / James Huenink
 
 1.4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Docooler USB 2.0 12 Megapixel
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
@@ -65,10 +69,6 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / James Huenink
 
 ## **Design: Flimsy and difficult to use**
@@ -79,21 +79,17 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / James Huenink
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup process: Awkward to position**
 
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
 
  It was easy to set up when we clipped it to a laptop, but terrible when we tried to put it on our HD TV. Every time we moved the computer or the USB cable, the camera slid, twisted, or fell off the TV. The ball joint, which connects the camera to the base, didn’t move smoothly, so we struggled to point the Docooler USB 2.0 12 Megapixel in the right direction, and we were too worried about breaking the plastic to try and force it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Camera Quality: Not even close to advertised**
 
@@ -104,10 +100,6 @@ Lifewire / James Huenink
  We tested the camera’s field of view by placing it 13.5 inches from a wall and measuring the field of view, 8.25 inches. After running those measurements through some trigonometric calculations, we found that it has a 34 degree field of view. The camera also has a surprising amount of distortion. Vertical lines in the background had a significant tilt backwards, and we saw tremendous barrel distortion everywhere except for the very center of the image.
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
@@ -123,9 +115,17 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Falls short**
 
@@ -142,7 +142,7 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -177,20 +177,22 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-6-social-media-outlets-boosting-business-revenue-for-2024/"><u>[Updated] Top 6 Social Media Outlets Boosting Business Revenue for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlocking-recmasters-potential-in-screen-capture/"><u>[Updated] Unlocking Recmaster's Potential in Screen Capture</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-art-of-audio-integration-on-social-media-videos/"><u>2024 Approved Mastering the Art of Audio Integration on Social Media Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-asus-ax6000-rt-ax88u-your-ultimate-guide-to-a-cutting-edge-wi-fi-6-router/"><u>Expert Analysis of the Asus AX6000 RT-AX88U - Your Ultimate Guide to a Cutting-Edge Wi-Fi 6 Router</u></a></li>
-<li><a href="https://fox-search.techidaily.com/navigate-through-product-versions-with-our-efficient-search-tips/"><u>Navigate Through Product Versions with Our Efficient Search Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-to-past-facebook-entries/"><u>Navigating to Past Facebook Entries</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/schnell-losungen-fur-plotzliche-empty-fenster-probleme-auf-desktops-unter-windows-11-top-7-tipps/"><u>Schnell Lösungen Für Plötzliche Empty-Fenster Probleme Auf Desktops Unter Windows 11: Top 7 Tipps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/surpassing-boundaries-in-wifi-coverage-intricate-analysis-of-tp-links-re5nfyx-extender/"><u>Surpassing Boundaries in WiFi Coverage: Intricate Analysis of TP-Link's RE5nfyX Extender</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/syma-x5c-rc-helicopter-reviewed-a-cost-effective-starter-drone/"><u>SYMA X5C R/C Helicopter Reviewed: A Cost-Effective Starter Drone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/teac-pd-301-reviewed-audiophiles-dream-in-style/"><u>Teac PD-301 Reviewed: Audiophile's Dream in Style</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-choosing-a-quadcopter-spotlight-on-dji-air-2s/"><u>The Definitive Guide to Choosing a Quadcopter - Spotlight on DJI Air 2S</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-raspberry-pi-how-one-keyboard-becomes-your-next-ideal-mini-pc-solution/"><u>The Raspberry Pi 지판: How One Keyboard Becomes Your Next Ideal Mini-PC Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-s2n-fe-unlocking-the-power-of-5g-why-its-a-must-have-in-todays-world/"><u>The Samsung Galaxy S2n FE: Unlocking the Power of 5G - Why It's a Must-Have in Today's World</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-synergy-of-excellence-and-economy-in-the-sony-w800-experience/"><u>The Synergy of Excellence and Economy in the Sony W800 Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-quantifying-a-days-video-consumption-in-gb/"><u>[New] Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-slack-and-filmora-efficient-meeting-planning-and-recording-guide-for-2024/"><u>[Updated] Mastering Slack & Filmora Efficient Meeting Planning & Recording Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revamp-your-tone-7-premier-vocal-modification-tools-for-2024/"><u>[Updated] Revamp Your Tone 7 Premier Vocal Modification Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-the-podcast-intros-captivating-your-audience-from-the-start/"><u>2024 Approved Crafting the Podcast Intros Captivating Your Audience From the Start</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-advantages-of-arm-based-copilotplus-computers-my-personal-choice/"><u>Discover the Advantages of ARM-Based Copilot+ Computers: My Personal Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hushgear-bass-tube-in-ear-devices-review/"><u>HushGear Bass Tube In-Ear Devices Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-examination-of-the-netgear-ex6200-ac1200-wifi-range-extender-a-comprehensive-review/"><u>In-Depth Examination of the Netgear EX6200 AC1200 WiFi Range Extender: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-the-nintendo-switch-sets-new-standards-for-on-the-go-gamers/"><u>In-Depth Review: The Nintendo Switch Sets New Standards for On-the-Go Gamers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/initial-steps-in-mastering-arabic-basics/"><u>Initial Steps in Mastering Arabic Basics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-fun-with-djis-robomaster-s1-the-ultimate-educational-tank-drone-for-aspiring-engineers-and-gamers-alike/"><u>Mastering Fun with DJI's Robomaster S1 - The Ultimate Educational Tank Drone for Aspiring Engineers & Gamers Alike</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-promotions-essential-tips-for-2024/"><u>Mastering Twitter Promotions Essential Tips for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-wi-fi-with-the-netgear-nighthawk-c7000-an-ultimate-review-of-this-exceptional-router-model/"><u>Mastering Wi-Fi with the Netgear Nighthawk C7000: An Ultimate Review of This Exceptional Router Model</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-evaluation-an-unpolished-glitch-ridden-pricey-device/"><u>Microsoft Surface Duo Evaluation: An Unpolished, Glitch-Ridden, Pricey Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-vital-media-driver-find-and-install-the-necessary-components-now/"><u>Missing Vital Media Driver? Find and Install the Necessary Components Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oneplus-8t-review/"><u>OnePlus 8T Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/parallel-linguistic-proficiency/"><u>Parallel Linguistic Proficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/power-up-your-game-with-the-asus-rog-rapture-gt-ax11000-the-gamers-optimal-router-choice/"><u>Power Up Your Game with the Asus ROG Rapture GT-AX11000 - The Gamer's Optimal Router Choice</u></a></li>
 </ul></div>
 

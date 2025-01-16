@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model"
-date: 2025-01-09T16:17:51.252Z
-updated: 2025-01-10T16:13:13.540Z
+date: 2025-01-08T16:47:13.347Z
+updated: 2025-01-16T08:17:49.724Z
 tags:
   - games
   - tv
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, but never got around to it. Now that I have a 3D printer, I wondered how much of these craft I can just make myself, and it turns out pretty much the whole thing!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3D Printing Is Revolutionizing the RC World
@@ -26,7 +26,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  You don't have to be a canny CAD user either, since many talented tinkerers will simply make their 3D printing files available online for free, or for a fee. All you have to do is print the parts out, add additional components such as the motors, speed controllers, etc., and then glue them all together. If all goes well you should be soaring through the sky in no time, or at least having a "fun" time crashing without knowing why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printable Gliders
@@ -37,10 +37,6 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 
  This is where I personally want to start my 3D-printed aircraft adventures, because I want to get a feel for printing the fuselages of planes, and seeing how it all works before adding control surfaces and such. There are awesome popular glider designs like the [Stable Flyer VI](https://www.printables.com/model/408967-stable-flyer-vi-small-toy-glider) and the [Super Stratos](https://www.thingiverse.com/thing:97803/files) which you can print in no time at all. Many of these are print-in-place and don't need assembly either.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Printable Planes
 
  When it comes to proper RC planes, it seems the options are also endless. You can definitely go find some free model files, print it out, add your own electronics, and have a flying machine for not much money. However, there are also professional outfits that sell kits which include 3D printer files, and detailed manuals on how to put the whole thing together, as well as which parts you need. At 3D Lab Print, for example, you can buy [RC plane plans](https://3dlabprint.com/product-category/printable-airplanes/) and some of these kits also include the correct filament you'll need to complete the build.
@@ -50,7 +46,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  CNC Kitchen has this great video of how they printed and built a plane using 3D Print Labs, so you can check out the whole process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printing My First Glider
@@ -59,6 +55,10 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 
 ![A yellow 3D printed glider inside a 3D Printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-inside-a-3d-printer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  It's a simple print-in-place glider that I can knock out in about 20 minutes on my [K1 Max](https://extra-hints.techidaily.com/3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro-for-2024/), which means I can also quickly iterate and modify some stuff if needed. Printing it out in its vanilla form, you just have to fold the wings and tail flaps up a bit and you're ready to try it out.
@@ -66,7 +66,7 @@ Sydney Louw Butler / How-To Geek
 ![A yellow 3D printed glider held in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-held-in-a-person-s-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -88,21 +88,21 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>[New] 2024 Approved Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>[New] Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-caught-the-viral-vibe-here-are-amazons-30-hot-tiktok-deals/"><u>[Updated] Caught the Viral Vibe? Here Are Amazon’s 30 Hot TikTok Deals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-creating-magic-with-magix/"><u>2024 Approved Behind-the-Scenes Creating Magic with Magix</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/se-look-at-t-series-revenue-from-online-channels/"><u>A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-companion-best-cd-players-and-changers-24/"><u>Audiophile’s Companion: Best CD Players & Changers '24</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-and-assessment-why-apples-airtag-stands-out-for-iphone-owners/"><u>Comprehensive Guide & Assessment: Why Apple's AirTag Stands Out for iPhone Owners</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-features-of-the-5g-ready-samsung-galaxy-s20-fan-edition-review/"><u>Exploring the Best Features of the 5G Ready Samsung Galaxy S20 Fan Edition Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hitman-trilogy-finale-hitman-3-revealed-and-reviewed/"><u>Hitman Trilogy Finale - Hitman 3 Revealed and Reviewed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-extra-memory-solution-for-sony-a7c/"><u>In 2024, Superior Extra Memory Solution for Sony A7C</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-the-full-potential-of-your-instagram-story-with-multiple-images/"><u>In 2024, Unlocking the Full Potential of Your Instagram Story with Multiple Images</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-investing-in-linkedin-premium-worth-it/"><u>Is Investing in LinkedIn Premium Worth It?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimizing-google-nest-speakers/"><u>Optimizing Google Nest Speakers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-c51-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme C51? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[New] 2024 Approved Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[New] A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-visibility-with-smart-hashtag-use-in-fb-advertising-for-2024/"><u>[New] Maximizing Visibility with Smart Hashtag Use in FB Advertising for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-creativity-6-approaches-for-recording-minecraft-games/"><u>[Updated] In 2024, Capturing Creativity 6 Approaches for Recording Minecraft Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>2024 Approved Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-dualview-photography-analysis/"><u>In 2024, DualView Photography Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-maximize-your-content-strategy-understanding-instagrams-video-limits/"><u>In 2024, Maximize Your Content Strategy Understanding Instagram's Video Limits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-smartphone-experience-with-google-pixel-4a-a-complete-review/"><u>Simplified Smartphone Experience with Google Pixel 4A - A Complete Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ihome-zenergy-mattress-side-sleep-enhancer-transforming-slumber-into-invigorating-dawns-product-reviewed/"><u>The IHome Zenergy Mattress-Side Sleep Enhancer: Transforming Slumber Into Invigorating Dawns – Product Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-increasing-game-selection-on-your-nes-classic-system/"><u>The Ultimate Guide: Increasing Game Selection on Your NES Classic System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-drones-your-ever-present-aviation-partner/"><u>Top 10 Drones Your Ever-Present Aviation Partner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-hd-webcam-evaluation-the-logitech-c920-pro/"><u>Top Rated HD Webcam Evaluation: The Logitech C920 Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>Updated In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
 </ul></div>
 

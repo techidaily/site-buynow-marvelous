@@ -1,7 +1,7 @@
 ---
 title: "Top Notch Performance Insight on the Anker Super Bright Flashlight: Trustworthy Companion for Outdoor Escapades"
-date: 2024-08-09T00:43:54.494Z
-updated: 2024-08-10T00:43:54.494Z
+date: 2025-01-14T23:55:09.932Z
+updated: 2025-01-15T22:23:07.585Z
 categories:
   - BestProducts
 description: "This Article Describes Top Notch Performance Insight on the Anker Super Bright Flashlight: Trustworthy Companion for Outdoor Escapades"
@@ -41,11 +41,11 @@ Lifewire / Erika Rawes
 
 ## TP-Link Archer A9 AC1900 Smart Wireless Router
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/aMRk3dxCpK74Zcn9NCYLlSncVTA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_HeroSquare-05a827c48b274d8e9ccd0070e770f4d4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -68,9 +68,9 @@ Lifewire / Erika Rawes
  The TP-Link Archer A9 is one of the brand’s[more popular routers](https://www.lifewire.com/best-long-range-routers-4122554) because of the features it offers at a low price point. With technologies like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) compatibility and[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , the Archer A9 should be convenient and project a Wi-Fi signal over a long range. These days, with more and more households containing home offices, multiple streaming devices, and several smart home products, how does the Archer A9 hold up? I tested the TP-Link Archer A9 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Basic, but clever**
 
  There’s nothing striking about the design of the Archer A9\. It’s gloss black, with indicator lights on the front and the ports, power switch, WPS button, and antennas located in the back. The gloss finish fingerprints and smudges easily, so I would have rather seen a matte finish, but the A9 has an intelligent design otherwise. The branding is small—not tacky or obtrusive—and the A9’s venting is cleverly designed. Instead of just having vent holes conspicuously covering the device, it has recesses that segment the router into three portions and hide the venting. The venting recesses look purposeful, and they enhance A9’s aesthetic instead of taking away from the design.
@@ -79,9 +79,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  You can place the Archer A9 flat on a table or desk, or you can use the two mounting holes on the back of the router to hang the A9 on a wall. I have a smart box in a closet in my home, so I hung the router near that smart box and hid it in the closet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/GZA_WscJ6ZMkjJEY-JNFoGWW54c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_05-f0a147fb3abe4825a663bc12ac51629e.jpg)
 
  Lifewire / Erika Rawes
@@ -100,12 +97,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  For wired devices, the A9 has gigabit Ethernet ports (4 LAN and 1 WAN). There’s a USB 2.0 port that supports the NTFS, exFAT, HFS+, and FAT32 formats, so you can connect a shared[external hard drive](https://www.lifewire.com/best-external-hard-drives-4050413) to your network. The router supports FTP server and media server functions too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/FTFFrgOH8v5VhGXgjmzgjTUMPNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_03-ec9553f0029b4f2fba363745ab7b9778.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network Performance: Not bad**
 
@@ -114,13 +116,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  In the same room as the router, speeds were excellent (naturally), getting up to 352 Mbps on the 5 Ghz band and 76 Mbps on the 2.4 Ghz band. I traveled upstairs, and speeds clocked in at a respectable 124 Mbps on the 5Ghz band and 36 Mbps over 2.4 Ghz. The signal remained strong almost everywhere in my two-level home, even in areas like closets, and many other places that could conceivably be Wi-Fi dead zones. However, I experienced a few slow zones in my garage, and in a guest room located on the opposite side of the home. I also experienced a spotty connection in the yard. The signal degraded significantly around the home’s exterior, so if you like to use your devices outside, you’ll want to invest in a[Wi-Fi extender](https://www.lifewire.com/best-wifi-extenders-4043312) , or go with a different router entirely.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Range: Around 2,000 square feet (give or take)**
 
  I didn’t see an exact range for the Archer A9 in the spec sheet, but I was able to get coverage in just about every area of my 3,000 square foot home. This is not to say the range is 3,000 square feet, as several factors like the type and number of devices you have, wall thickness, obstructions, your ISP, and other factors can all impact the signal quality and range. Generally speaking, it’s safe to say the A9 could probably cover at least a 2,000 square foot house.
 
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/yosOFzPzSpoghULMfbOuUFI5_E0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_06-94b9a314d8d24a37a7b4c90c7962e8a4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -134,28 +141,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  You can say things like, “Alexa, ask TP-Link to enable guest network” or “Alexa, ask TP-Link to prioritize gaming.”
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Under $100**
 
  The Archer A9 sells on Amazon for under $100\. For a router with its feature set, this is an exceptional value.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/OshgKkDe7GvQPFAb_AgVDAYTF_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_04-65a3ae04454e40c3865f1d426bcb36db.jpg)
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## **TP-Link Archer A9 vs. Netgear AC2300 Nighthawk Smart Wi-Fi Router**
 
  The Netgear AC2300 router is a simultaneous dual-band router with advertised speeds of 1625/600 Mbps. The AC2300 has two USB ports (one USB 2.0 and one USB 3.0) instead of just one USB port like the Archer A9, and it has a 1Ghz dual-core processor. The two routers have some differences, but they also boast a lot of similar features—MU-MIMO, smart connect, Alexa compatibility, and a companion app. The Netgear AC2300 (view on[Amazon](https://www.amazon.com/R7000P-100NAS-Nighthawk-Ethernet-Compatible-Parental/dp/B01NA80JML/?tag=lifewire-onsite-prod-20&ascsubtag=5076937%7Cn2952d2b5973949d990fe5b789fed97f118%7C) ) is more expensive, with a price tag of $200\. Once you get up into the $200 plus range, you may want to go ahead and get a tri-band or even a Wi-Fi 6 router. The TP-Link Archer A9 provides a better balance in terms of affordability and features.
@@ -186,14 +179,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Range  Long range
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -201,3 +191,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-quick-snapback-to-loss-prevention/"><u>[New] 2024 Approved Quick Snapback to Loss Prevention</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-melodic-medium-finding-the-right-film-score/"><u>[New] In 2024, Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-your-on-air-presence-youtube-and-twitch-streaming-through-obs-for-2024/"><u>[New] Perfecting Your On-Air Presence YouTube & Twitch Streaming Through OBS for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-heres-what-you-dont-know-about-instagram-story-viewer2/"><u>2024 Approved Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apples-mighty-marvel-in-miniature-an-exhaustive-review-of-the-ipad-mini-5/"><u>Apple's Mighty Marvel in Miniature: An Exhaustive Review of the iPad Mini 5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/avantree-aria-me-review/"><u>Avantree Aria Me Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cyberpunk-2077-analysis-a-bold-vision-marred-by-imperfections/"><u>Cyberpunk 2077 Analysis: A Bold Vision Marred by Imperfections</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-riding-the-latest-cycwagen-cargo-electric-bike/"><u>Experience Riding the Latest CycWagen Cargo Electric Bike</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/explore-and-relish-top-sandbox-journeys-for-2024/"><u>Explore and Relish Top Sandbox Journeys for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-mobvoi-ticwatch-pro-4g-the-definitive-guide-to-staying-connected-on-your-wrist/"><u>Exploring the Mobvoi Ticwatch Pro 4G: The Definitive Guide to Staying Connected on Your Wrist</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-speed-connectivity-on-a-budget-with-the-tp-link-archer-a6-a-comprehensive-analysis/"><u>High-Speed Connectivity on a Budget with the TP-Link Archer A6 - A Comprehensive Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-pova-5-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Pova 5 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/key-techniques-for-storing-lol-matches/"><u>Key Techniques for Storing LOL Matches</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/lenovo-slim-pro/"><u>Lenovo Slim Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mars-mayhem-ensues-as-urban-development-game-causes-whirlwind-entertainment-experience-outlandish-fun-in-the-faraway-world/"><u>Mars Mayhem Ensues as Urban Development Game Causes Whirlwind Entertainment - Experience Outlandish Fun in the Faraway World!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nes-classic-revival-how-to-increase-your-library-of-games/"><u>NES Classic Revival: How to Increase Your Library of Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sound-excellence-with-jabras-evolve2-85-review/"><u>Sound Excellence with Jabra's Evolve2 85 Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722711509619-the-ultimate-guide-to-sonys-xbr65x850f-a-high-end-economically-priced-65-oled-display/"><u>The Ultimate Guide to Sony's XBR65X850F - A High-End, Economically Priced 65 OLED Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-a-better-match-leveraging-chatgpt-for-a-thriving-dating-experience/"><u>Unlock a Better Match: Leveraging ChatGPT for a Thriving Dating Experience</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "PS3 Slim-Up: How to Replace Default Drive"
-date: 2024-08-09T00:43:56.116Z
-updated: 2024-08-10T00:43:56.116Z
+date: 2025-01-08T19:15:12.620Z
+updated: 2025-01-16T08:20:05.020Z
 categories:
   - BestProducts
 description: "This Article Describes PS3 Slim-Up: How to Replace Default Drive"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 
 ## Canon PowerShot SX70
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 Lifewire / Andy Zahn
@@ -42,12 +39,17 @@ Lifewire / Andy Zahn
 
 4.3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -81,6 +83,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -93,16 +99,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
@@ -125,9 +125,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -144,6 +141,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -158,9 +159,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -186,13 +184,18 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -210,9 +213,6 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -244,11 +244,33 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-visual-journey-the-art-of-editing-with-snapchat-filters/"><u>[New] 2024 Approved A Visual Journey The Art of Editing with Snapchat Filters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-interpreting-the-functionality-behind-blue-icons-in-chat-apps/"><u>[New] In 2024, Interpreting the Functionality Behind Blue Icons in Chat Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-smiles-snorts-and-sighs-the-finest-meme-accounts-on-ig/"><u>[Updated] 2024 Approved Smiles, Snorts & Sighs The Finest Meme Accounts on IG</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>2024 Approved Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capturevista-xd-stunning-photos-overshadowed-by-expense/"><u>CaptureVista XD: Stunning Photos Overshadowed by Expense</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-iphone-13-assessment-is-it-worth-the-upgrade/"><u>Comprehensive iPhone 13 Assessment: Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-logitech-g733-microphone-connectivity-problems/"><u>Diagnosing and Resolving Logitech G733 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-9a-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo Reno 9A</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-next-level-networking-the-linksys-ea9500-a-revolutionary-intelligent-technology-analysis/"><u>Experience Next-Level Networking: The Linksys EA9500 – A Revolutionary Intelligent Technology Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-fongo-leading-canadian-voice-over-ip-solutions/"><u>Expert Evaluation of Fongo: Leading Canadian Voice over IP Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-x100-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo X100?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/iphone-7-live-view-recording-tutorial/"><u>IPhone 7 Live View Recording Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-quadro-rtx-4000-graphics-driver-installation-guide/"><u>Latest NVIDIA Quadro RTX 4000 Graphics Driver Installation Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-road-trips-with-ddpai-mini3s-engaging-dashcam-experience/"><u>Revolutionizing Road Trips with DDPai Mini3's Engaging Dashcam Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-saving-preview-images-from-microsoft-word/"><u>Step-by-Step Guide: Saving Preview Images From Microsoft Word</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-essential-review-for-health-enthusiasts-unpacking-the-features-of-fitbit-versa/"><u>The Essential Review for Health Enthusiasts: Unpacking the Features of Fitbit Versa</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-hp-stream-ebook-evaluating-pros-and-cons-of-an-economical-choice-in-windows-portables/"><u>The HP Stream eBook - Evaluating Pros and Cons of an Economical Choice in Windows Portables</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-compact-mouse-sabrent-mini-model-offers-unmatched-precision-and-cable-connectivity/"><u>The Ultimate Compact Mouse: Sabrent Mini Model Offers Unmatched Precision and Cable Connectivity</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Asus's Convertible Marvel: The #ChromebookFlipC302CA Unveiled in a Detailed Review"
-date: 2024-08-09T00:43:56.322Z
-updated: 2024-08-10T00:43:56.322Z
+date: 2025-01-14T00:05:07.570Z
+updated: 2025-01-16T00:22:53.429Z
 categories:
   - BestProducts
 description: "This Article Describes Asus's Convertible Marvel: The #ChromebookFlipC302CA Unveiled in a Detailed Review"
@@ -38,9 +38,6 @@ Lifewire / Emily Isaacs
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Nintendo Game & Watch: Super Mario Bros
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/Gqz0Wb1wB-1ecipbSoEbqeuT3EU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_HeroSquare-c0176be04bfb4d83b2f7724b1332c18b.jpg)
@@ -68,6 +65,10 @@ Lifewire / Emily Isaacs
 
  What better way to celebrate both of their birthdays than by bringing both titles together for a self-contained wombo-combo celebrating their 40th and 35th anniversaries respectively? I put the handheld to the test for three weeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Retro, bold look & feel
 
  From the moment you pick up and pop open the box, the design oozes old-school cool and nostalgia. It’s a special edition release—and it feels like it. Intentionally stylized black and gold packaging, which resembles the retro feel of the 1980s Game & Watch classic titles, is a familiar and warm return to an era.
@@ -78,18 +79,16 @@ Lifewire / Emily Isaacs
 
  The screen itself is tiny, measuring barely over two inches in length, but the bright LCD screen makes it easy to see Mario or Luigi clearly while playing. While the controls are a bit small, it's not wholly unexpected for a Nintendo Game & Watch product.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/RGM_gLdIp2jvsVG5LhRKLVw0nho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_04-f94be735a5644020b52656e67a6c0465.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
  Nintendo Game & Watch: Super Mario Bros. arrives in a small package that is lovingly designed in the Game & Watch family feel. In addition to the instructional care packet, it also includes a charging cable. Some long-time Nintendo fans may be inclined to keep the box, due to the Game & Watch’s collectible nature.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Setup Process: Pick up and play
 
  The Nintendo Game & Watch: Super Mario Bros. is a pick-up and play device. Simply open the box and remove the console from its shipment packaging, press the power button on the right-hand side, click the Time button to set your clock for the included Watch mode, and then you’re all set to enjoy the preloaded Super Mario Bros_._ and Ball games. It arrives with a partial charge.
@@ -98,9 +97,6 @@ Lifewire / Emily Isaacs
 
 Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gameplay: Challenging, but fun
 
  The Game & Watch: Super Mario Bros. is preloaded with Super Mario Bros., Super Mario Bros. 2 (also known as The Lost Levels), and Ball_,_ the foremost title in the Game & Watch series. Also included are 35 hidden interactions, which make the standard Watch mode a joy as well.
@@ -111,6 +107,10 @@ Lifewire / Emily Isaacs
 
  The Ball game is the only included Game & Watch title in the product. Balls bounce back and forth in the air as you juggle them to keep them from hitting the ground. Instead of the classic Ball character design, Mario’s head has been superimposed on the character. It’s a much simpler game, and it’s OK, but this game loses its allure fairly quickly due to the repetitive gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Audio: Surprisingly loud and crisp
 
  The included mono speaker is surprisingly loud and crisp, emitting 8-bit chiptunes. It’s located on the left-hand side of the device, nestled into the case’s trim. While I thought my hands might get in the way and block the sound a bit during play, that didn’t turn out to be true.
@@ -119,10 +119,11 @@ Lifewire / Emily Isaacs
 
  At loud tonnes, the Game & Watch does have a bit of wobble, but it just adds to the tension as you race through the levels to beat the game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/PvTcnsQLDp7SFCPIeHreGfS-dgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_05-01b731a5406d4cbfa37be90277c6e89b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -130,18 +131,16 @@ Lifewire / Emily Isaacs
 
  Thanks to the Game & Watch’s lovely, classic retro design, sturdy frame, crisp and clear LCD screen, and great game content, retailing for only $50, the Nintendo Game & Watch: Super Mario Bros. is a great value for the price. We just wish there were more games included, especially as other similar classic releases such as the SNES mini have seen as many as 30 titles included with its launch.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/Te3HyEg18zLT9zKT-eZuFtev8So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_02-6af770f871344e16ad3f45320d46d52a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
  For anyone looking to bring the Game & Watch home, they should be aware that while it brings the three included classic titles to life in a fun, exciting way, the Game & Watch doesn't add anything new to the Nintendo family. It caters to long-time Nintendo lovers and collectors, more than anything else.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Nintendo Game & Watch: Super Mario Bros. vs. Nintendo Switch
 
  It would be doing it a disservice to compare the Nintendo Game & Watch to the more complex consoles. The appeal of the Nintendo Game & Watch: Super Mario Bros. edition is that it’s a nostalgic, collectible, and fun handheld gaming device that’s a throwback to an older era of gaming. From the black and gold box design, the red and gold retro frame, and even the titles chosen, its inception is meant to celebrate the long-running success of the Nintendo family.
@@ -157,8 +156,9 @@ Lifewire / Emily Isaacs
  The Nintendo Game & Watch: Super Mario Bros. is a throwback to an older, simpler era of gaming that packs a wallop of a punch, bringing the challenge of the original Super Mario games and the original Game & Watch Ball title while making them accessible to a whole new generation of players. While we do wish Nintendo had included additional titles—who doesn’t want_more_ classic options when these are so fun—it’s no showstopper for enjoying this product.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Nintendo Switch Lite](https://www.lifewire.com/nintendo-switch-lite-review-4788015)
@@ -187,11 +187,29 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-is-it-time-to-air-fb-videos-on-traditional-screens-in-2024/"><u>[New] Is It Time to Air FB Videos on Traditional Screens, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>[New] Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-zoomers-guide-to-enhancing-call-quality-with-filters-for-2024/"><u>[New] The Zoomer's Guide to Enhancing Call Quality with Filters for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-live-setup-in-minutes/"><u>[Updated] Instagram Live Setup in Minutes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-lg-k51-elegant-build-compromised-by-slow-chipset/"><u>Comprehensive Assessment of LG K51: Elegant Build Compromised by Slow Chipset</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723045760285-experience-enhanced-connectivity-with-synology-rt2600ac-wi-fi-router-parental-controls-included/"><u>Experience Enhanced Connectivity with Synology RT2600ac Wi-Fi Router: Parental Controls Included!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y100 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-transcribe-live-broadcasts-into-digital-format/"><u>In 2024, How to Transcribe Live Broadcasts Into Digital Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-why-the-garmin-forerunner-945-is-a-game-changer-in-smartwatch-tech/"><u>In-Depth Review: Why the Garmin Forerunner 945 Is a Game-Changer in Smartwatch Tech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y200e-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y200e 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/singing-machine-sml385btbk-karaoke-review-the-easiest-and-most-colorful-karaoke-machine-to-plug-and-play/"><u>Singing Machine SML385BTBK Karaoke Review: The Easiest and Most Colorful Karaoke Machine to Plug and Play</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-of-both-worlds-with-fossil-sportswear-high-end-and-inexpensive-review/"><u>The Best of Both Worlds with Fossil Sportswear: High-End and Inexpensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-apple-tv-4k-2021-guide-revolutionizing-hd-streaming-with-siri/"><u>The Comprehensive Apple TV 4K 2021 Guide: Revolutionizing HD Streaming with Siri</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-and-evaluating-the-microsoft-surface-studio-2/"><u>The Ultimate Guide to Understanding and Evaluating the Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-hdmi-connection-via-usb/"><u>Troubleshooting a Non-Functional HDMI Connection via USB</u></a></li>
+</ul></div>
+

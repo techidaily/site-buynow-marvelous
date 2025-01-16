@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10"
-date: 2025-01-08T16:00:26.508Z
-updated: 2025-01-10T16:09:10.885Z
+date: 2025-01-11T17:30:01.982Z
+updated: 2025-01-15T19:58:34.325Z
 tags:
   - games
   - tv
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
@@ -63,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -78,24 +78,28 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
@@ -106,11 +110,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -140,22 +140,22 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-elevate-your-photos-advanced-hdr-portraiture-methods/"><u>[New] Elevate Your Photos Advanced HDR Portraiture Methods</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-exploring-next-gen-vector-software-for-designers-for-2024/"><u>[New] Exploring Next-Gen Vector Software for Designers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-how-to-write-dialogue-or-narrative-script/"><u>[New] How to Write Dialogue or Narrative Script</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unveil-the-ultimate-list-of-live-streaming-apps-for-youtube-excellence-iosandroid/"><u>2024 Approved Unveil The Ultimate List of Live Streaming Apps for YouTube Excellence (iOS/Android)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-your-fitness-journey-the-fitbit-versa-3s-built-in-gps-and-wellness-suite-spark-constant-motivation/"><u>Boost Your Fitness Journey: The Fitbit Versa 3'S Built-In GPS and Wellness Suite Spark Constant Motivation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-apples-chip-evolution-how-the-rise-of-m1-m2-and-m3-affects-your-pc-purchase-insights-for-tech-savvy-consumers-zdnet/"><u>Decoding Apple's Chip Evolution: How the Rise of M1, M2 & M3 Affects Your PC Purchase - Insights for Tech-Savvy Consumers | ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-power-and-versatility-of-the-new-cycwagen-electric-cargo-bike-a-test-ride-review/"><u>Discovering the Power and Versatility of the New CycWagen Electric Cargo Bike - A Test Ride Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/embrace-active-living-with-the-fitbit-versa-3-its-internal-gps-and-diverse-health-app-selection-provide-continuous-encouragement/"><u>Embrace Active Living with the Fitbit Versa 3 - Its Internal GPS & Diverse Health App Selection Provide Continuous Encouragement</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-stars-with-fun-and-fury-the-outer-worlds-review-a-unique-blend-of-sci-fi-action-and-storytelling/"><u>Exploring the Stars with Fun and Fury: 'The Outer Worlds' Review – A Unique Blend of Sci-Fi Action & Storytelling</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-the-ways-for-fee-free-pictorial-clips/"><u>In 2024, Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-the-pack-essential-gaming-experiences-on-steam-deck/"><u>Leading the Pack: Essential Gaming Experiences on Steam Deck</u></a></li>
-<li><a href="https://win-blog.techidaily.com/m4a-on-demand/"><u>M4Aファイルを対話形式に自由に変換: On-Demandストリーミング技術</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722895185949-review-alert-blueears-fashion-forward-bluetooth-beanie-hat-offers-solid-acoustic-experience/"><u>Review Alert: Blueear's Fashion-Forward Bluetooth Beanie Hat Offers Solid Acoustic Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723064964936-survive-the-night-with-friends-in-dying-light-a-thrilling-first-person-parkour-and-cooperative-gameplay-experience/"><u>Survive the Night with Friends in 'Dying Light': A Thrilling First-Person Parkour and Cooperative Gameplay Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-puzzle-of-programmed-passion-can-ai-grasp-the-heartache/"><u>The Puzzle of Programmed Passion: Can AI Grasp the Heartache?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/visualhub-prox-premium-design-demands-high-payments/"><u>VisualHub ProX: Premium Design Demands High Payments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/imperator-rome-conquering-power-or-facing-destruction/"><u>'Imperator: Rome': Conquering Power or Facing Destruction?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-swift-valorant-image-crafting-professionally-done-on-the-fly/"><u>[New] 2024 Approved Swift Valorant Image Crafting Professionally Done on the Fly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-economical-aerial-aviators-affordable-drones-guide-(500/"><u>[Updated] Economical Aerial Aviators Affordable Drones Guide <$500</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-fast-track-missing-snap-finders-for-2024/"><u>[Updated] Fast-Track Missing Snap Finders for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 Pro Unlock Without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ranking-premium-photo-and-video-shows-x-ios14/"><u>In 2024, Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-examination-of-the-google-pixel-n-4a-5g-an-outstanding-choice-for-cost-conscious-tech-enthusiasts/"><u>In-Depth Examination of the Google Pixel N 4a 5G - An Outstanding Choice for Cost-Conscious Tech Enthusiasts!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-jabra-talk-45-high-fidelity-sound-plus-robust-energy-sources/"><u>Inside Jabra Talk 45: High Fidelity Sound + Robust Energy Sources</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/limostudios-softbox-review-starter-lighting-choice/"><u>LimoStudio's SoftBox Review: Starter Lighting Choice</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/make-your-mark-stand-out-with-youtube-studio-editing/"><u>Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-safety-on-the-road-with-the-pruveeo-1080p-full-hd-action-camera-reviews-inside/"><u>Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-gaming-performance-when-and-how-to-update-your-gpu/"><u>Maximizing Gaming Performance: When and How to Update Your GPU</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-pro-7-review-solid-performance-refresh-but-no-big-changes/"><u>Microsoft Surface Pro 7 Review: Solid Performance Refresh, But No Big Changes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-severe-weather-with-expert-reviews-of-2024s-top-storm-tracker-apps/"><u>Navigating Severe Weather with Expert Reviews of 2024'S Top Storm Tracker Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/rise-above-ethernet-ceiling-overcome-the-windows-100mbps-limit/"><u>Rise Above Ethernet Ceiling: Overcome the Windows 100Mbps Limit</u></a></li>
 </ul></div>
 

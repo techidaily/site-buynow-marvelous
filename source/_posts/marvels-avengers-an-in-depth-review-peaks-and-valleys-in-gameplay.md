@@ -1,7 +1,7 @@
 ---
 title: "Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay"
-date: 2025-01-04T16:00:22.123Z
-updated: 2025-01-10T16:13:35.256Z
+date: 2025-01-13T21:29:52.785Z
+updated: 2025-01-15T20:39:27.590Z
 categories:
   - BestProducts
 description: "This Article Describes Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay"
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -44,6 +48,10 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -62,10 +70,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -80,15 +84,15 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -115,7 +119,7 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -125,10 +129,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -165,19 +165,22 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mobile-tech-wizardry-how-to-record-and-share-your-snapchat-stories/"><u>[New] 2024 Approved Mobile Tech Wizardry How to Record and Share Your Snapchat Stories</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen/"><u>[Updated] In 2024, Monitor Mastery A Complete Rundown of Acquiring an Eye-Catching 4K Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-zooms-potential-with-key-conversion-techniques/"><u>2024 Approved Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-user-profile-service-failure-when-logging-into-windows-11/"><u>Effective Solutions for the 'User Profile Service Failure' When Logging Into Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-insights-on-the-ultimate-list-of-2024s-most-superior-stylus-tablets-zdnet/"><u>Expert Insights on the Ultimate List of 2024'S Most Superior Stylus Tablets | ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-lenovo-thinkphone-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Lenovo ThinkPhone to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-your-wireless-needs-an-expert-take-on-the-revolutionary-google-wifi-technology/"><u>Mastering Your Wireless Needs - An Expert Take on the Revolutionary Google Wifi Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-value-and-performance-with-the-mini-beast-the-acer-predator-triton-300-se-evaluated/"><u>Maximizing Value and Performance with the Mini-Beast: The Acer Predator Triton 300 SE Evaluated</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-enhanced-capabilities-of-the-newly-released-cycwagen-electric-bike/"><u>Navigate Through the Enhanced Capabilities of the Newly Released CycWagen Electric Bike</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pixframe-20x-review-innovation-overshadowed-by-cost/"><u>PixFrame 20X Review: Innovation, Overshadowed by Cost</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/preferred-stock-5-cumulative-preferred-stock-2-million-shares-at-a-par-value-of-100-200/"><u>Preferred Stock (5% Cumulative Preferred Stock, 2 Million Shares at a Par Value of $100): $200</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-alert-audews-reliable-and-functional-portable-air-pump-the-perfect-travel-companion/"><u>Review Alert: Audew's Reliable and Functional Portable Air Pump – The Perfect Travel Companion</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-an-old-pc-heres-why-you-might-want-to-ditch-windows/"><u>Reviving an Old PC? Here's Why You Might Want to Ditch Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-camon-30-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Camon 30 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insta-photo-carousel-magic/"><u>[Updated] 2024 Approved Insta-Photo Carousel Magic</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-is-av1-better-than-vp9-learn-it-here/"><u>[Updated] 2024 Approved Is AV1 Better Than VP9? Learn It Here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction/"><u>[Updated] Get More Eyeballs Perfect Your YouTube Description Templates for Viewer Attraction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024-ultimate-list-leading-pc-audio-solutions-for-gamers/"><u>2024 Ultimate List: Leading PC Audio Solutions for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/develop-a-research-timeline/"><u>Develop a Research Timeline:</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-productivity-with-these-top-8-intelligent-google-chrome-addons-for-power-users/"><u>Elevate Productivity with These Top 8 Intelligent Google Chrome Addons for Power Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-pinnacle-of-mobile-sound-with-iphone-16-pros-studio-quality-audio-features-expert-analysis-by-zdnet/"><u>Experience the Pinnacle of Mobile Sound with iPhone 16 Pro's Studio-Quality Audio Features | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-assessment-of-battery-operated-google-wireless-doorbells/"><u>Expert Assessment of Battery Operated Google Wireless Doorbells</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>In 2024, Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-characteristics-of-premium-gaming-mice/"><u>Key Characteristics of Premium Gaming Mice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-best-online-education-resources-with-our-expert-picks-for-top-notch-course-platforms/"><u>Navigate the Best Online Education Resources with Our Expert Picks for Top-Notch Course Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/politica-de-derecho-a-la-informacion-y-proteccion-de-datos-guia-detallada-por-parte-de-digiarty-software-inc/"><u>Política De Derecho a La Información Y Protección De Datos: Guía Detallada Por Parte De Digiarty Software, Inc.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-choice-with-the-lg-24lh4830-tv-exceptional-quality-at-budget-friendly-prices/"><u>Smart Choice with the LG 24LH4830 TV - Exceptional Quality at Budget-Friendly Prices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/totobays-latest-wake-up-light-an-incredible-value-for-your-morning-routine-reviewed/"><u>Totobay's Latest Wake-Up Light: An Incredible Value for Your Morning Routine Reviewed!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-silent-interludes-harmonious-sounds-expert-techniques-for-audio-ducking-in-adobe-premiere-pro-on-a-mac-computer/"><u>Updated 2024 Approved Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer</u></a></li>
 </ul></div>
 

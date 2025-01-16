@@ -1,7 +1,7 @@
 ---
 title: "Eclipse Photography Safely: Preserving Your Phone From Solar Harm - Essential Guidelines"
-date: 2025-01-04T16:12:48.747Z
-updated: 2025-01-10T16:11:03.205Z
+date: 2025-01-14T02:37:48.671Z
+updated: 2025-01-15T19:53:23.432Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  A total solar eclipse may be a once in a lifetime event, but that doesn't mean you should be careless. Here is how you can protect your phone from any accidental damage, and take the best possible photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Photograph the Eclipse with your Phone
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  A solar eclipse occurs when the moon moves between the Earth and the Sun. Most eclipses are only partial eclipses, meaning that the moon never completely obscures the sun. Total eclipses are rarer, and occur when the path of the moon is such that it completely obscures the sun. The few minutes when the sun is completely hidden from view is called totality.
 
  NASA says that it is [safe to view totality without wearing eye protection](https://science.nasa.gov/eclipses/safety/). Just be sure that you don't start looking too early or keep watching too late.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Use a Filter Until Totality
 
@@ -53,6 +49,10 @@ Nick Lewis / How-to Geek
 
  Since you can view totality without eye protection, it will also be safe to photograph the eclipse with your phone without a filter. Just be sure that you're not premature, and that you don't keep looking for too long. Totality only lasts a few minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Be Careful With External Telephoto Lenses
 
  There are tons of [smartphone telephoto lenses](https://extra-information.techidaily.com/the-food-filmmakers-blueprint-techniques-and-tricks/) available on the market, but you should avoid almost all of them if you're going to attempt to photograph the eclipse.
@@ -65,10 +65,6 @@ Nick Lewis / How-to Geek
 
  If you're wondering if you can use a solar filter (like those found on eclipse glasses) in **front** of a regular clip on telephoto lens, the answer is yes–it'll work. However, it is a bit too easy to accidentally drop the filter away from the front of the lens and damage your phone. We don't recommend it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Use a Tripod
 
  You can pick up a tripod designed to fit your smartphone online or in brick-and-mortar stores, and we'd highly recommend you use one if you want to capture a picture or video of the eclipse, especially if you're using the telephoto lens built into your phone.
@@ -76,7 +72,7 @@ Nick Lewis / How-to Geek
  Just be sure to keep an eye on it. The sun and moon move across the sky faster than you might expect, and you may find that they move out of frame if you don't adjust your tripod regularly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Use Burst Mode and Lock Your Focus
@@ -86,12 +82,16 @@ Nick Lewis / How-to Geek
  We also highly recommend that you go into your camera app's settings and set the focus to infinity. That will prevent autofocus from interfering with your perfect shot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Buy Safe Solar Eclipse Glasses or Filters
 
  There are fake, unsafe solar eclipse glasses for sale. The American Astronomical Society has put together [a list of safe solar filters and glasses](https://eclipse.aas.org/eye-safety/viewers-filters), and we'd recommend you buy from that list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Test Solar Eclipse Glasses and Filters
 
@@ -120,17 +120,17 @@ Nick Lewis / How-to Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eaderboards-unveiled-1-26-in-youtube-snacking-for-2024/"><u>[New] Leaderboards Unveiled #1, #2...#6 in YouTube Snacking for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessment-of-the-motorola-moto-g-power-impressive-durability-and-excellent-battery-efficiency/"><u>Assessment of the Motorola Moto G Power: Impressive Durability and Excellent Battery Efficiency</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/classy-and-contemporary-workspace-transformation-with-flexispots-theodore-desk-a-detailed-review/"><u>Classy and Contemporary Workspace Transformation with Flexispot's Theodore Desk - A Detailed Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-lenovo-thinkpad-x12-detachable-is-the-go-to-choice-for-2-in-1-devices-with-unrivaled-keyboard-quality/"><u>Discover Why the Lenovo ThinkPad X12 Detachable Is the Go-To Choice for 2-in-1 Devices with Unrivaled Keyboard Quality</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728479465064-excel/"><u>Excelデータ損失回避 - システムに侵入したバグからの修復手法</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-the-google-wireless-nest-doorbell-perform-evaluating-battery-powered-versions/"><u>How the Google Wireless Nest Doorbell Perform: Evaluating Battery-Powered Versions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immersive-gaming-rediscovered-fixing-no-sound-problems-in-battlefield-4/"><u>Immersive Gaming Rediscovered: Fixing No Sound Problems in Battlefield #4</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/joining-the-twitter-community-from-scratch-for-2024/"><u>Joining the Twitter Community From Scratch for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-how-to-watch-espn-plus-on-your-lg-flat-screen-tv-a-comprehensive-guide/"><u>Learn How to Watch ESPN + on Your LG Flat Screen TV – A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simple-setup-winning-the-art-of-fishy-voice-transformation/"><u>Simple Setup Winning the Art of Fishy Voice Transformation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essence-of-teac-pd-301-elegant-and-clear-music/"><u>The Essence of Teac PD-301: Elegant & Clear Music</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-creative-soundscapes-with-the-magix-music-studio-platinum/"><u>[New] 2024 Approved Creative Soundscapes with the Magix Music Studio Platinum</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-of-quality-photography-without-a-price-tag/"><u>[New] 2024 Approved Harnessing the Power of Quality Photography Without a Price Tag</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hats-the-price-tag-for-1m-youtube-sights-for-2024/"><u>[New] What's the Price Tag for 1M YouTube Sights for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-success-top-ideas-for-memorable-snaps/"><u>[Updated] 2024 Approved Snapchat Success Top Ideas for Memorable Snaps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crucial-points-to-ponder-for-the-best-fitness-tracker-choice/"><u>Crucial Points To Ponder For The Best Fitness Tracker Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-advanced-terms-for-gamers-perfect-choices/"><u>Decoding Advanced Terms for Gamers' Perfect Choices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dji-mavic-3-review/"><u>DJI Mavic 3 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-the-future-with-an-advanced-iphone/"><u>Embracing the Future with an Advanced iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-tips-what-you-should-consider-with-smart-tvs/"><u>Essential Tips: What You Should Consider with Smart TVs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-successfully-as-a-freelance-author/"><u>Leveraging ChatGPT Successfully as a Freelance Author</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>New 2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-to-correct-arduino-uno-driver-malfunctions-in-windows/"><u>Step-by-Step Solution to Correct Arduino Uno Driver Malfunctions in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated PC Gamepad Controllers : A Comprehensive Guide"
-date: 2025-01-08T16:07:08.470Z
-updated: 2025-01-10T16:08:11.308Z
+date: 2025-01-14T03:30:16.859Z
+updated: 2025-01-15T21:15:36.990Z
 tags:
   - buying-guides
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 * We've updated this buying guide with a number of new controllers. Take a look!
 
  PC gaming isn't just about using a mouse and keyboard: It's about choice. Some games are just better with a controller in your hands, especially with so many console games launching on PC. But not all controllers are equal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 01/02/2024
 
@@ -44,7 +48,7 @@ Best Premium Controller
 #####  SCUF Envision  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Wired PC Controller  
@@ -53,10 +57,6 @@ Best Wired PC Controller
 ![8bitdo pro 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-pro-2.png)  
 #####  8Bitdo Pro 2 Bluetooth Controller  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best PC Controller for Retro Gaming  
 [See at Amazon](https://www.amazon.com/Wireless-Bluetooth-Controller-Joysticks-Vibration/dp/B093B9F9HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce)
 * See More
@@ -64,6 +64,10 @@ Best PC Controller for Retro Gaming
 * [](https://www.amazon.com/Thrustmaster-T16000M-FCS-Flight-Pack/dp/B01N2PE8CZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce)  
 ![Thrustmaster USB T.16000M FCS 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/thrustmaster-usb-t-16000m-fcs-01.png)  
 #####  Thrustmaster T16000M FCS Flight Pack  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best PC Controller for Flight Simulators  
 [$260 at Amazon](https://www.amazon.com/Thrustmaster-T16000M-FCS-Flight-Pack/dp/B01N2PE8CZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce)
@@ -99,10 +103,6 @@ Best PC Fight Stick
 
 [![Xbox controller next to mechanical keyboard on space mousepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52793170929_f470cfca02_o.jpg) Elizabeth Henges / How-To Geek Elizabeth Henges / Review Geek Elizabeth Henges / LifeSavvy](https://www.amazon.com/Xbox-Core-Controller-Carbon-Black-one/dp/B08DF248LD?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [](https://www.amazon.com/Xbox-Core-Controller-Carbon-Black-one/dp/B08DF248LD?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
 | Pros               | Cons                                 |
@@ -120,10 +120,14 @@ Best PC Fight Stick
 ![xbox core controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/xbox-core-controller.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Overall PC Controller
 
@@ -161,6 +165,10 @@ _8bitdo_
 
 ![8bitdo ultimate c 2.4g](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8bitdo-ultimate-c-2-4g.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Budget PC Controller
@@ -170,6 +178,10 @@ Best Budget PC Controller
 The 8bitDo Ultimate C Controller is one of the best budget PC controllers around thanks to its competitive price, excellent ergonomics, and impressively long battery life. 
 
 [$30 at Amazon](https://www.amazon.com/dp/B0C2V6JLNJ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Premium PC Controller: [Xbox Elite Series 2](http://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
@@ -197,11 +209,11 @@ The 8bitDo Ultimate C Controller is one of the best budget PC controllers around
 
 ![xbox elite controller 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/xbox-elite-controller-2.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Premium Controller
 
@@ -216,10 +228,6 @@ The ultimate Xbox controller features adjustable tension thumbsticks, additional
 ##  Best Wired PC Controller: [SCUF ENVISION](https://scufgaming.com/pc-controllers/scuf-envision-black) 
 
 ![SCUF ENVISION 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/scuf-envision-01.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _SCUF_
 
@@ -243,10 +251,6 @@ _SCUF_
 
 ![SCUF ENVISION](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/scuf-envision.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Wired PC Controller
@@ -258,7 +262,7 @@ Among the wired PC controllers, the SCUF ENVISION is a rare premium option. Supe
 [See at SCUF Gaming](https://scufgaming.com/pc-controllers/scuf-envision-black) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fscuf-envision-wired-gaming-controller-for-pc-black%2F6558787.p%3FskuId%3D6558787%26intl%3Dnosplash) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best PC Controller for Retro Gaming: [8Bitdo Pro 2 Bluetooth Controller](https://www.amazon.com/Wireless-Bluetooth-Controller-Joysticks-Vibration/dp/B093B9F9HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
@@ -321,6 +325,10 @@ _Thrustmaster_
 
 ![Thrustmaster USB T.16000M FCS 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/thrustmaster-usb-t-16000m-fcs-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best PC Controller for Flight Simulators
@@ -330,10 +338,6 @@ Best PC Controller for Flight Simulators
 A classic favorite that has stood the test of time, the Thrustmaster T16000M FCS Flight Pack is one of the best choices for up-and-coming virtual pilots.
 
 [$260 at Amazon](https://www.amazon.com/Thrustmaster-T16000M-FCS-Flight-Pack/dp/B01N2PE8CZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best PC Fight Stick: [HORI Fighting Stick α](https://www.amazon.com/HORI-PlayStation-Fighting-Stick-Alpha-5/dp/B08NDVGXGB?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU207719&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F772260%2Fbest-pc-gaming-controller%2F&asc%5Fcampaign=Commerce) 
 
@@ -363,10 +367,6 @@ _HORI_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best PC Fight Stick
 
 #####  HORI Fighting Stick Alpha
@@ -392,14 +392,18 @@ While not the absolute best offering on the market, the HORI Fighting Stick α i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>[Updated] 2024 Approved Deconstructing Digital Dimensions The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-quick-retrieval-of-hidden-reddit-threads/"><u>2024 Approved Mastering Quick Retrieval of Hidden Reddit Threads</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-sleep-solution-an-expert-overview-of-the-philips-somneos-superiority-in-alarm-technology/"><u>Elite Sleep Solution - An Expert Overview of the Philips Somneo's Superiority in Alarm Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/energize-and-optimize-the-elite-collection-of-rechargeable-battery-stations-year-end-review/"><u>Energize and Optimize: The Elite Collection of Rechargeable Battery Stations (Year End Review)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expertly-curated-selection-of-exceptional-home-theater-computers-dominating-the-market/"><u>Expertly Curated Selection of Exceptional Home Theater Computers Dominating the Market</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/green-screen-templates-free-download-videography-and-filmmaking-for-2024/"><u>Green Screen Templates Free Download – Videography, and Filmmaking for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-2024-a-comprehensive-list-of-top-of-the-line-wireless-communication-devices/"><u>Navigating Through 2024: A Comprehensive List of Top-of-the-Line Wireless Communication Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-on-how-to-erase-your-presence-from-tiktok/"><u>The Complete Walkthrough on How to Erase Your Presence From TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-configure-measure-and-optimize-the-ultimate-guide-to-fb-instream-ads/"><u>[New] Configure, Measure & Optimize The Ultimate Guide to FB Instream Ads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expedite-vimeo-video-playback/"><u>[New] Expedite Vimeo Video Playback</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-how-do-we-experience-realities-in-a-virtual-sense/"><u>[New] In 2024, How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-pdf-editing-skills/"><u>[Updated] Ultimate PDF Editing Skills</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-smart-8-hd-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Smart 8 HD to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-the-art-of-video-discovery-on-facebook/"><u>In 2024, Mastering the Art of Video Discovery on Facebook</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-dex-3-detailed-techniques-for-searching-track-attributes-like-key-and-tempo/"><u>Mastering DEX 3: Detailed Techniques for Searching Track Attributes Like Key and Tempo</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-converting-your-classic-vhs-tapes-into-digital-dvds-using-your-computer/"><u>Step-by-Step Guide: Converting Your Classic VHS Tapes Into Digital DVDs Using Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894087737-top-5-free-video-call-apps-skype-alternatives-you-must-try/"><u>Top 5 Free Video Call Apps : Skype Alternatives You Must Try</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-enhanced-capabilities-of-dji-phantom-4-pro-v20-on-the-brink-of-drone-perfection/"><u>Unveiling the Enhanced Capabilities of DJI Phantom 4 Pro v2.0 - On The Brink Of Drone Perfection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-of-googles-flagship-phone-the-pixel-n-review-is-it-worth-it/"><u>Unveiling the Pros and Cons of Google's Flagship Phone: The Pixel N Review - Is It Worth It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vixias-value-for-money-with-modest-video-standards/"><u>VIXIA's Value for Money with Modest Video Standards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/voice-over-wifi-viber-out-evaluation-is-it-worth-switching/"><u>Voice over WiFi (Viber Out) Evaluation: Is It Worth Switching?</u></a></li>
 </ul></div>
 

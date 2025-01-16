@@ -1,7 +1,7 @@
 ---
 title: Is the TP-Link Archer AX6000 an Upgrade Over the Nighthawk AX12 - Expert Analysis
-date: 2024-08-09T00:43:56.656Z
-updated: 2024-08-10T00:43:56.656Z
+date: 2025-01-14T18:20:53.428Z
+updated: 2025-01-15T19:11:07.955Z
 categories:
   - BestProducts
 description: This Article Describes Is the TP-Link Archer AX6000 an Upgrade Over the Nighthawk AX12 - Expert Analysis
@@ -14,13 +14,11 @@ thumbnail: https://www.lifewire.com/thmb/Yzw_uXr8uFtcaNxZEfDQMtjPysE=/400x300/fi
 3.4
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/HeiIUMzNfcdABm8uXby7X0Qo3dE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
 
 Lifewire / Bill Thomas
@@ -71,15 +69,16 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
 
  This definitely works in the Netgear C3700’s favor. The[wireless performance](https://www.lifewire.com/ways-to-boost-a-wifi-signal-818296) is already weak (which we’ll go into a bit later), so the fact that you can leave it out and unobscured is a benefit.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
 
  Lifewire / Bill Thomas
@@ -88,16 +87,10 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -108,9 +101,6 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -132,8 +122,9 @@ Lifewire / Bill Thomas
  Lifewire / Bill Thomas
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Software: No frills
 
  We prefer a network backend that’s straight to the point, and that’s exactly what we got with the Netgear C3700.
@@ -143,6 +134,10 @@ Lifewire / Bill Thomas
  We were able to click over into the “advanced” tab to gain access to more robust controls, but this shouldn’t be necessary for most users. Power users will probably appreciate the fine controls.
 
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: It pays for itself
 
@@ -159,14 +154,19 @@ Lifewire / Bill Thomas
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  C3700 Cable Modem Router
@@ -193,11 +193,33 @@ Lifewire / Bill Thomas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-film-star-access-pass-talent-release/"><u>[Updated] 2024 Approved Film Star Access Pass - Talent Release</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-creativity-top-10-insider-canva-tricks/"><u>[Updated] 2024 Approved Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-art-of-spinning-photos-iphone-videography-tips/"><u>[Updated] In 2024, The Art of Spinning Photos IPhone Videography Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-definitive-guide-to-captivating-podcast-covers/"><u>[Updated] The Definitive Guide to Captivating Podcast Covers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>2024 Approved Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guia-facil-de-borrar-los-archivos-de-reparacion-del-sistema-en-diversas-versiones-de-windows/"><u>Guía Fácil De Borrar Los Archivos De Reparación Del Sistema en Diversas Versiones De Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-f34-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy F34 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tiny-mansions-crafting-ornate-japanese-spaces/"><u>In 2024, Tiny Mansions Crafting Ornate Japanese Spaces</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-eraser-an-open-source-software-tool-that-provides-users-with-an-easy-way-to-perform-multiple-overwriting-patterns-on-their-drives-according-to-nist-n27/"><u>Secure Eraser: An Open-Source Software Tool that Provides Users with an Easy Way to Perform Multiple Overwriting Patterns on Their Drives According to NIST (National Institute of Standards and Technology) or DoD (Department of Defense) Standards.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonos-enhances-user-experience-with-revamped-mobile-application-and-introduces-innovative-web-platform/"><u>Sonos Enhances User Experience with Revamped Mobile Application and Introduces Innovative Web Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/spotify-transforms-into-interactive-social-hub/"><u>Spotify Transforms Into Interactive Social Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-nvidia-display-error-message/"><u>Steps to Correct Nvidia Display Error Message</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-rise-and-fall-of-episodic-video-game-narratives-where-are-they-now/"><u>The Rise and Fall of Episodic Video Game Narratives: Where Are They Now?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-titles-that-prove-the-value-of-a-playstation-plus-subscription/"><u>Top 10 Titles That Prove the Value of a PlayStation Plus Subscription</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-free-online-platforms-offering-drm-free-ebooks-and-comic-books/"><u>Top Free Online Platforms Offering DRM-Free Ebooks & Comic Books</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncertain-about-next-show-on-streaming-platforms-click-here-for-suggestions/"><u>Uncertain About Next Show On Streaming Platforms? Click Here For Suggestions!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-why-installation-steps-remain-essential-for-todays-tangible-game-experiences/"><u>Understanding Why Installation Steps Remain Essential for Today's Tangible Game Experiences</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-entertainment-gold-subscribe-to-apple-tvplus-for-only-599-and-start-your-free-3-month-journey-today/"><u>Unlock Entertainment Gold - Subscribe to Apple TV+ for Only $5.99 and Start Your FREE 3-Month Journey Today!</u></a></li>
+</ul></div>
+

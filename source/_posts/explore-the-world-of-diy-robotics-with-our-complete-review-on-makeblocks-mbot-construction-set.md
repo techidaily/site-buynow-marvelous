@@ -1,7 +1,7 @@
 ---
 title: Explore the World of DIY Robotics with Our Complete Review on Makeblock's mBot Construction Set
-date: 2024-08-09T00:43:55.348Z
-updated: 2024-08-10T00:43:55.348Z
+date: 2025-01-14T06:33:17.123Z
+updated: 2025-01-15T20:11:50.675Z
 categories:
   - BestProducts
 description: This Article Describes Explore the World of DIY Robotics with Our Complete Review on Makeblock's mBot Construction Set
@@ -13,12 +13,12 @@ thumbnail: https://www.lifewire.com/thmb/7m4G61FJ_EhVTWC3BsDjxBloDXo=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Echo Dot (4th Gen)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/keJ5E0aZJqydWO0ehe3iUZ1hYB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Amazon-Echo-Dot-4th-Generation-1-fc73a047312d4d588ffcbeae7bdd3368.jpg)
 
 Lifewire / Erika Rawes
@@ -45,6 +45,10 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/wkHXB7KTws9HfL-i1yYYsWIMm5w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Amazon-Echo-Dot-4th-Generation-1-fc73a047312d4d588ffcbeae7bdd3368.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon $50](https://www.amazon.com/All-new-generation-International-Version-Charcoal/dp/B085K45C3S/?tag=lifewire-onsite-prod-20&ascsubtag=5083605%7Cn256cf1ee30214e0e97879a24f265685d08%7CB085K45C3S) [View On Best Buy $40](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-echo-dot-4th-gen-smart-speaker-with-alexa-charcoal%2F6430060.p%3FskuId%3D6430060) [View On Verizon](https://www.verizon.com/products/amazon-echo-dot-4th-gen-smart-speaker-with-alexa/?slfpid=3)
@@ -67,15 +71,13 @@ Lifewire / Erika Rawes
 
  Amazon’s[Echo](https://www.lifewire.com/what-is-the-amazon-echo-4147189) Dot has become a go-to option for those looking for a compact and affordable smart speaker. The brand has now released a 4th generation of its[Echo Dot](https://www.lifewire.com/amazon-dot-4149509) , and the new version has a totally different look than its predecessors. What else is new and different about the Echo Dot (4th Gen)? How does the new Dot perform? I tested the Echo Dot (4th Gen) to find out.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: A completely new look**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/TtbQpfhvpeKgt-Aso1WoKQ6m2VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-2-89fbd54fb6a14efba195a0094b8d7b6f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -93,32 +95,18 @@ Lifewire / Erika Rawes
 
  Overall, I really appreciate the design of the new Dot. Modern and elegant, it fits into my living room, kitchen, or bedroom, as it doesn’t have a cold feel that takes away from the space. The 4th-Gen Dot is made from environmentally conscious materials like post-consumer recycled plastics and fabrics, thus securing it a “Climate Pledge Friendly” tag on Amazon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: Easy as ever**
 
 [Setting up the Echo Dot](https://www.lifewire.com/set-up-amazon-echo-4153561) is simple, especially if you already have the Alexa app downloaded. In the Alexa app, you just go to the devices menu, select on the “+” to add a device, and follow the prompts to add the Echo Dot 4th Gen speaker. The process only takes a moment.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/dVUkRuy5SxFHmCHXxSseZY5tjhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-3-320d298cdb18405d9d326c272464ef0d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Sound Quality: A front-firing speaker**
 
  The new Echo Dot has good sound, it’s just not all that much better than the Echo Dot (3rd Gen). When testing speakers, I frequently use the song_Titanium_ by David Guetta featuring Sia because it has a range of low, mid, and high tones. For testing bass, I often use the song_Chains_ by Nick Jonas. The Echo Dot (4th Gen) sounds pretty clear on all volume levels. There is a very slight hiss on the highest volume, but it’s barely noticeable, and it doesn’t take too much away from the listening experience.
@@ -131,6 +119,10 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/UFZM9HpoakK6sRg-7Vm2W8uLIQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-6-with-Clock-86c91da96d4043369f0a4e97b22c4209.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Features: The same Alexa**
@@ -138,17 +130,15 @@ Lifewire / Erika Rawes
  The Echo Dot (4th Gen) is powered by[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) . The Alexa voice assistant on the new Echo Dot is the same Alexa that you get on the Echo Dot (3rd Gen). You’ll be able to control your smart devices, listen to music, hear the news, set routines, shop, manage your schedule, and do all of the same things you could do before.[Alexa is always learning new skills](https://www.lifewire.com/alexa-skills-4126799) though. Amazon announced new Alexa features (coming soon) like Care Hub, which is a free feature that lets you check in on loved ones.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Echo Dot (4th Gen) With Clock: A Design Game Changer**
 
  The Echo Dot (4th Gen) comes in two other iterations: The Echo Dot (4th Gen) with Clock and the Echo Dot (4th Gen) Kids Edition. I tested the “with clock” iteration as a part of this review, but I did not test the kids model.
 
  I was blown away by the Echo Dot (4th Gen) With Clock. It’s the same device (internally) as the regular Echo Dot (4th Gen), but it has an LED display on the front of the speaker. Doesn’t sound like much, right?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/bnVMEDjyf8t4zDkpRwr4-5msD2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-7-with-Clock-9b93a56f3d0049c5a2064cd4b21c7cb5.jpg)
 
  Lifewire / Erika Rawes
@@ -167,9 +157,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Amazon Echo Dot (4th Gen) vs. Apple HomePod Mini**
 
  Apple announced the release of its[HomePod](https://www.lifewire.com/apple-homepod-4146975) Mini speaker, and it’s available for sale in November. The Siri-powered HomePod Mini is 3.3 inches tall, and it has a somewhat similar spherical shape to the Echo Dot. The HomePod Mini has a three-mic array, compared to the Dot’s four-mic array. However, the HomePod Mini has Apple’s S5 chip, and it’s in a higher price category at $99.
@@ -203,11 +190,33 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] In 2024, Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools/"><u>[Updated] In 2024, Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>2024 Approved Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hatch-humorous-habits/"><u>2024 Approved Hatch Humorous Habits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pristineai-designs-crafting-visuals-with-ai/"><u>2024 Approved PristineAI Designs Crafting Visuals with AI</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieve-your-fitness-goals-using-the-versatile-fitbit-versa-3-equipped-with-built-in-gps-and-comprehensive-wellness-apps/"><u>Achieve Your Fitness Goals Using the Versatile Fitbit Versa 3 - Equipped with Built-In GPS & Comprehensive Wellness Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazonbasics-flat-tv-antenna-review/"><u>AmazonBasics Flat TV Antenna Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-between-google-assistant-and-alexa-a-comprehensive-guide/"><u>Choosing Between Google Assistant and Alexa - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-rca-video-doorbell-camera-for-modern-homes/"><u>Comprehensive Evaluation of the RCA Video Doorbell Camera for Modern Homes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-spark-20c-by-drfone-android-unlock-android-unlock/"><u>Device unlock Spark 20C</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-to-know-the-newly-launched-cycwagen-e-bike-with-a-comprehensive-interactive-review/"><u>Get to Know The Newly Launched CycWagen E-Bike with a Comprehensive, Interactive Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/journey-in-style-canons-powershot-g9x-mark-ii-reviewed/"><u>Journey in Style – Canon's PowerShot G9X Mark II Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gamers-guide-to-xbox-s-controller-dismantling/"><u>Pro Gamers' Guide to Xbox S Controller Dismantling</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-mtrx-drivers-for-macos-and-pcs/"><u>Steinberg MTRX Drivers for MacOS & PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-showdown-which-is-better-for-you-the-reliable-galaxy-s10plus-or-the-cutting-edge-s20/"><u>Tech Showdown: Which Is Better for You - The Reliable Galaxy S10+ or the Cutting-Edge S20?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-guide-to-the-google-pixelbook-go-masterful-execution-challenging-price-tag/"><u>The Complete Guide to the Google Pixelbook Go - Masterful Execution, Challenging Price Tag</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essentials-smart-tips-when-shopping-for-pre-owned-apple-tablets/"><u>Top 5 Essentials: Smart Tips When Shopping for Pre-Owned Apple Tablets</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-the-impossible-to-change-original-disk-issue-in-samsung-data-migration-process/"><u>Troubleshooting the 'Impossible to Change Original Disk' Issue in Samsung Data Migration Process</u></a></li>
+</ul></div>
+

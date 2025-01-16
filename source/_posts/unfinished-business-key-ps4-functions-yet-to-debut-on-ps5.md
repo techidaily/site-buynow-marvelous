@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2025-01-05T16:17:33.052Z
-updated: 2025-01-10T16:05:13.253Z
+date: 2025-01-13T08:18:28.991Z
+updated: 2025-01-16T06:53:25.531Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![A custom theme on the PlayStation 4 home menu based on "Xenoblade Chronicles X."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-custom-theme.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unfortunately, the PlayStation 5 doesn't support themes at all. Any themes you own on your PS4 will be left behind when upgrading to the PS5, including those you paid for or received alongside certain games. The lack of themes is one of the most disappointing aspects of the PS5 for many console owners, but there are a few reasons for their omission.
 
  Every theme was designed specifically for the layout of the PS4's home menu. Although the PS5's home menu shares some similarities, its design is too different for the old themes to function properly. Even if they were nearly identical, it would still require a considerable amount of work to make every PS4 theme compatible with the PS5.
@@ -43,17 +47,9 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![Game details for Stranger of Paradise: Final Fantasy Origin on PlayStation 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-stranger-of-paradise-details-page.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Much like the PS4's themes, the detail pages feature unique backgrounds and music for each game. As such, there are fewer opportunities to see the standard background on the PS5 than there were PS4, which makes the inclusion of themes far less important for the PS5.
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Update History 
 
@@ -65,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  A Fully Functional Web Browser 
 
  The PlayStation 5 technically has a browser for opening web pages, but it's extremely limited and difficult to access compared to the PS4 browser. You can only open the PS5 browser through links found in applications or by opening social media pages on your console. Furthermore, the browser's search bar is locked, meaning you can't access most websites through traditional means. There are ways to bypass this restriction and [freely use the PS5's hidden browser](https://win-solutions.techidaily.com/comprehensive-solutions-to-overcome-hearthstone-pc-game-crashing-problems/), but it's hardly worth the effort.
 
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  Additionally, having a traditional web browser on the PS5 may pose a security risk. With easy access to the internet, users can potentially download custom firmware and other third-party software directly onto their consoles. The PS5 browser's restrictive design may be an intentional safeguard against these types of downloads.
 
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4  USB Backup for PS5 Saves 
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Why Is the PS5 Still Missing These Features? 
@@ -120,22 +120,16 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>[New] Anticipating Virtual Realities Top 5 New PlayStation VR Games</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-select-from-the-leading-7-android-apps-to-eradicate-ads-for-2024/"><u>[Updated] Select From the Leading 7 Android Apps to Eradicate Ads for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazfit-bip-reviewed-a-must-have-starter-smartwatch-for-tech-enthusiasts/"><u>Amazfit Bip Reviewed: A Must-Have Starter Smartwatch for Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apples-iphone-12-pro-max-reviewed-does-a-bigger-screen-enhance-your-experience/"><u>Apple's iPhone 12 Pro Max Reviewed: Does a Bigger Screen Enhance Your Experience?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/authentic-sades-headset-drivers-for-windows-100-safe-to-install-immediate-access-available/"><u>Authentic Sades Headset Drivers for Windows – 100% Safe to Install, Immediate Access Available</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-variances-how-is-echo-pop-different-from-an-echo-dot/"><u>Decoding the Variances: How Is Echo Pop Different From an Echo Dot?</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/easy-steps-for-integrating-devices-including-printers-into-your-pc-through-the-control-panel-expert-advice-from-yl-software/"><u>Easy Steps for Integrating Devices Including Printers Into Your PC Through the Control Panel - Expert Advice From YL Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tor-elite-selective-learning-yt-channels/"><u>Educator Elite Selective Learning YT Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-e-learning-title-engineer-for-2024/"><u>Expert E-Learning Title Engineer for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-quick-guide-resolving-obs-skipping-problems/"><u>In 2024, Quick Guide Resolving OBS Skipping Problems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/philips-hf3505-wake-up-light-review-a-basic-clock/"><u>Philips HF3505 Wake-Up Light Review: A Basic Clock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-fifa-2022-game-crashing-issues-on-windows/"><u>Resolved: Fixes for FIFA 2022 Game Crashing Issues on Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-microsoft-surface-go-an-economical-choice-amidst-its-confusing-purpose/"><u>Reviewing the Microsoft Surface Go: An Economical Choice Amidst Its Confusing Purpose</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tp-link-archer-a9-router-evaluation-quality-connectivity-for-less-than-100/"><u>Top TP-Link Archer A9 Router Evaluation: Quality Connectivity for Less than $100</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-magic-a-detailed-evaluation-of-minecrafts-enchanting-campfire-tales-costume-pack/"><u>Unveiling the Magic: A Detailed Evaluation of Minecraft's Enchanting Campfire Tales Costume Pack</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-in-depth-review-of-the-hp-zbook-firefly-15-g8-mobile-workstation/"><u>Unveiling the Potential: In-Depth Review of the HP ZBook Firefly 15 G8 Mobile Workstation</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-tecno-phantom-v-fold-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Phantom V Fold Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-affordable-asmr-magic-quality-audio-on-a-budget/"><u>[New] In 2024, Affordable ASMR Magic Quality Audio on a Budget</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/one-your-vlogs-access-free-sound-tracks-for-2024/"><u>[New] Tone Your Vlogs Access Free Sound Tracks for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-proven-techniques-for-captivating-viewers-with-live-video-graphics/"><u>[Updated] Proven Techniques for Captivating Viewers with Live Video Graphics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-leading-10-high-resolution-monitors-with-built-in-video-editing/"><u>2024 Approved Leading 10 High-Resolution Monitors with Built-In Video Editing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/book-lovers-meet-your-new-best-friend-an-insightful-review-of-the-portable-kobo-clara-hd-e-reader/"><u>Book Lovers, Meet Your New Best Friend: An Insightful Review of the Portable Kobo Clara HD E-Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-compatible-mokos-versatile-foldable-bluetooth-portable-keyboard/"><u>Compact & Compatible: MoKo's Versatile Foldable Bluetooth Portable Keyboard</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-giants-a-detailed-look-at-the-samsung-galaxy-s10plus-vs-the-s20/"><u>Comparing Giants: A Detailed Look at the Samsung Galaxy S10+ Vs. The S20</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-google-pixel-slate-overcoming-chromeos-challenges/"><u>Comprehensive Assessment of Google Pixel Slate: Overcoming ChromeOS Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-credentials-a-fix-guide/"><u>Decoding Windows Credentials: A Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-selecting-the-perfect-selfie-accessory-in-6-steps/"><u>Expert Advice: Selecting the Perfect Selfie Accessory in 6 Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-when-your-voice-chat-keeps-showing-a-content-warning/"><u>Step-by-Step Solution: When Your Voice Chat Keeps Showing a Content Warning</u></a></li>
 </ul></div>
 

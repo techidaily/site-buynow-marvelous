@@ -1,7 +1,7 @@
 ---
 title: Why the 7-Year-Old's Old Console Beats Modern Smartphones in Video Game Battles
-date: 2025-01-08T16:24:12.724Z
-updated: 2025-01-10T16:04:45.595Z
+date: 2025-01-10T16:53:08.049Z
+updated: 2025-01-16T06:53:10.930Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Why the 7-Year-Old's Old Console Beats Modern Smartphones in Video Game Battles
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Phone hardware surpasses the Switch, but the Switch library offers better games.
@@ -21,23 +25,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When the Switch launched it was the most powerful handheld console in history, now even mid-range phones leave it in the dust. Yet, if you ask me what I actually want to play games on when on the go or in bed, I'm reaching for my Switch 100% of the time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Phone Hardware Is Light Years Ahead of Switch
 
  While my current S22 Ultra Samsung phone isn't at the cutting edge anymore, in terms of gaming horsepower it's far closer to something like an Xbox One than the Switch. There are plenty of mobile games that [look as good as home console games](https://apple-account.techidaily.com/how-to-unlock-iphone-6-when-we-dont-have-apple-id-or-password-by-drfone-ios/) these days, and if you're lucky enough to have something like an iPhone 15 Pro, you can even play the [latest AAA games](https://facebook-video-footage.techidaily.com/new-2024-approved-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/).
 
  Setting aside issues like thermals and battery drain, modern phones kick sand in the face of the ancient components in the Nintendo Switch without a doubt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Switch Software Can’t Be Beat
 
 ![Nintendo Switch game cards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/game_carts.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -52,7 +52,7 @@ Tim Brookes / How-To Geek
 ![Person on the beach playing a game on Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/person-on-the-beach-playing-a-game-on-nintendo-switch.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image-photo/girl-playing-game-on-handheld-console-2268730757) / Shutterstock
@@ -60,7 +60,7 @@ Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image
  The worst part of playing games on a phone is having to deal with touch controls. Of course, now you can easily connect any sort of gamepad to your phone, but I have yet to find a solution that's anywhere near as good as the Switch. The Joy Cons may have had some quality issues in the early days, but the actual design is ingenious. They have a permanent place to slot in. They maintain the console's flat profile, and they work immediately when you need them, without messing around with Bluetooth settings or USB cables.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Your Switch Games Will Always Work
@@ -78,7 +78,7 @@ Lucas Gouveia / How-To Geek | [Oleg Elkov](https://www.shutterstock.com/en/image
 ![ROG Ally Next to OELD Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Butler / How-To Geek
@@ -102,20 +102,17 @@ The ROG Ally next to an OLED Nintendo Switch. Both devices offer impressive scre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-advanced-techniques-for-audacity-audio-mastery-for-2024/"><u>[New] Advanced Techniques for Audacity Audio Mastery for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>[New] In 2024, Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-the-basics-of-telegram-advertising-as-a-novice-for-2024/"><u>[Updated] Mastering the Basics of Telegram Advertising as a Novice for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audio-callback-sensor-for-iphone-x2-24/"><u>Audio Callback Sensor for iPhone X2 '24</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/back-ups-be600m1-assessment-robust-power-failure-protection-and-integrated-usb-charging-unit/"><u>Back-UPS BE600M1 Assessment: Robust Power Failure Protection and Integrated USB Charging Unit</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-android-3d-video-enthusiasts-choice-for-2024/"><u>Exclusive Android 3D Video Enthusiasts' Choice for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-skies-with-the-dji-mavic-air-2s-a-detailed-examination-and-ranking/"><u>Mastering Skies with the DJI Mavic Air 2S: A Detailed Examination and Ranking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-knack-striking-main-figure-within-conventional-gaming-landscape/"><u>Review of Knack: Striking Main Figure Within Conventional Gaming Landscape</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/surviving-the-dark-a-thorough-evaluation-of-ankers-super-bright-durable-outdoor-flashlight/"><u>Surviving the Dark: A Thorough Evaluation of Anker's Super Bright, Durable Outdoor Flashlight</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-samsung-galaxy-a51-your-go-to-for-affordable-5g-technology/"><u>The Ultimate Guide to Choosing a Samsung Galaxy A51: Your Go-To for Affordable 5G Technology</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-video-frame-changer-for-2024/"><u>Twitter Video Frame Changer for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultra-convenient-foldable-bluetooth-keyboard-by-moko-highly-durable-and-versatile/"><u>Ultra-Convenient Foldable Bluetooth Keyboard by MoKo – Highly Durable and Versatile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unparalleled-oled-visuals-a-review-of-asus-leading-laptop-display-among-thousands/"><u>Unparalleled OLED Visuals: A Review of ASUS' Leading Laptop Display Among Thousands</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-best-kids-tablet-a-detailed-amazon-fire-hd-10-review-and-control-options/"><u>Unveiling the Best Kid’s Tablet - A Detailed Amazon Fire HD 10 Review & Control Options</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-photographs-larger-without-losing-quality/"><u>[New] 2024 Approved Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-microphone-for-youtubers/"><u>[Updated] 2024 Approved Best Microphone for YouTubers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-ankers-superspeed-usb-3/"><u>Comprehensive Review of Anker's SuperSpeed USB 3.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/convenient-smart-feeding-solutions-discover-the-arf-automatic-pet-feeder/"><u>Convenient, Smart Feeding Solutions – Discover the Arf Automatic Pet Feeder!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-tablet-specs-a-focus-on-cpus-and-their-impact-on-usage/"><u>Decoding Tablet Specs: A Focus on CPUs and Their Impact on Usage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/desktop-level-prowess-in-a-portable-form-a-comprehensive-review-of-the-m1-powered-2021-ipad-pro/"><u>Desktop-Level Prowess in a Portable Form: A Comprehensive Review of the M1-Powered 2021 iPad Pro</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-the-latest-hip-hop-tracks-and-playlists-free-mp3flac-conversions/"><u>Download the Latest Hip Hop Tracks & Playlists - Free MP3/FLAC Conversions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-manfrotto-befree-tripod-industry-standard/"><u>Elite Manfrotto Befree Tripod: Industry Standard</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/schritt-fur-schritt-leitfaden-zum-exportieren-von-microsoft-outlook-emails-auf-einem-mac/"><u>Schritt-Für-Schritt-Leitfaden Zum Exportieren Von Microsoft Outlook-Emails Auf Einem Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-complete-gif-makers-manual/"><u>The Complete GIF Maker's Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/1719358387590-troubleshoot-frozen-shift-key-on-pc/"><u>Troubleshoot Frozen Shift Key on PC.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/voice-enabled-assistance-making-siri-read-your-iphone-or-mac-content-aloud/"><u>Voice-Enabled Assistance: Making Siri Read Your iPhone or Mac Content Aloud</u></a></li>
 </ul></div>
 

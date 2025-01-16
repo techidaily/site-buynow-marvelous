@@ -1,7 +1,7 @@
 ---
 title: "Moto G Power Analysis: Exceptional Durability & Remarkable Long-Lasting Battery"
-date: 2024-08-09T00:43:54.330Z
-updated: 2024-08-10T00:43:54.330Z
+date: 2025-01-08T19:39:23.678Z
+updated: 2025-01-15T22:06:29.933Z
 categories:
   - BestProducts
 description: "This Article Describes Moto G Power Analysis: Exceptional Durability & Remarkable Long-Lasting Battery"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 ## LG Gram 15.6-inch (2018)
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/UTcUqy8dPDWlsYUZPdsu5EVj8HU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -40,11 +44,12 @@ Lifewire / Andrew Hayward
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LG Gram 15.6-inch (2018)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/R_aYhYLFGT6--hIRDTNUJTlIVn8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
 
 Lifewire / Andrew Hayward
@@ -74,16 +79,10 @@ Lifewire / Andrew Hayward
 
  Pair that with the large screen, fantastic battery life, and loads of ports, and you have a computer that's built for productivity and portability alike. But does LG's laptop (2018 model reviewed) really stack up to the likes of the Apple MacBook Air and Microsoft Surface Laptop 2 in terms of value and overall experience? Read on to see what we thought.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/radDS_2IRuzjTlZxUS5og2a3PIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Top_04-b051e3660efc406ab97f92df654d3762.jpg)
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Design: Amazingly light, but not wholly convincing**
 
  Weight aside, the LG Gram 15.6-inch doesn't make the strongest impression in the category. It's a relatively minimal design that's not too fussed-over, but doesn't give the impression that it was chiseled out of a solid brick of aluminum like a MacBook Air or Pro. In fact, it's made from nano carbon magnesium, which must be how LG kept it so darn light.
@@ -104,16 +103,10 @@ Lifewire / Andrew Hayward
 
  The entry-level model we reviewed comes with a meaty 256GB solid state drive (SSD), which is double the SSD storage we typically see in a base model laptop. While 128GB might be cutting it close for some users, the boosted tally provides plenty more space for game downloads and storing local media.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/1qu1WvdEgTzjUQ8QH_Lssx79xF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Trackpad_05-f0d9dc63b03e4650a92e30747090889a.jpg)
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## **Setup Process: Just follow the directions**
 
  There's little reason to worry about getting the LG Gram 15.6-inch laptop up and running quickly. It has Windows 10 pre-installed, so you'll simply follow the onscreen prompts to enter your Wi-Fi info, check for updates, select a few options, and ultimately find yourself ready to roll on the desktop. It shouldn't take more than a handful of minutes.
@@ -126,12 +119,17 @@ Lifewire / Andrew Hayward
 
  The downside is that this 1920x1080 IPS LCS panel isn't nearly as high-resolution as some of its rivals, such as the MacBook Air (2560x1600) and Surface Laptop 2 (2256x1504)—both of which also benefit from squeezing their pixels into smaller respective frames. The LG Gram just doesn't have the pin-sharp allure of those screens, plus it looks dimmer and doesn't come across as vibrant as a result. It's solid, and 1080p can certainly get the job done, but there are much better-looking screens in this category.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/TFbt9G36hk5JyrBL8cIdIuYQ66E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Keyboard_03-fd7e355ac5944f12a8107746d0afbf24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Solid power for everyday tasks**
 
@@ -145,13 +143,13 @@ Lifewire / Andrew Hayward
 
  As an aside, while the LG Gram often runs near-silently, there are extended periods of time in which there's an audible hum coming from the back. It's not the typical, very loud fan noise that pops up while gaming or heavy multitasking from some computers, but it can be a bit grating. We noticed it while charging the computer, but also while running on the battery—with no consistency on that front. It's a mild annoyance, but it's one we noticed whenever it emerged.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Audio: It makes an impression**
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network: Connects as expected**
 
@@ -159,9 +157,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Interestingly, the LG Gram also has an Ethernet-to-USB-C dongle included in the box. That'll be handy if the Wi-Fi is on the fritz, or you're at a hotel or conference center that somehow doesn't have Wi-Fi in the year 2019\.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/AhDZOG33ttJ8LfKQnzvHO7K-S8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Closed_02-d40445064b4945729278aeae3d8ae1c0.jpg)
 
  Lifewire / Andrew Hayward
@@ -173,6 +168,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100 percent brightness. That means it's built for a full-on workday, which makes it a great option for productivity. In our video rundown test, in which we constantly stream a Netflix movie at 100 percent brightness, the LG Gram 15.6-inch lasted for 9 hours, 14 minutes. With locally-stored video, you're sure to get a whole lot more out of it.
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Hello, Windows (but no Windows Hello)**
 
@@ -191,8 +190,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **LG Gram 15.6-inch (2018) vs. Microsoft Surface Laptop 2: Better than Microsoft's own?**
 
  The LG Gram 15.6-inch and Microsoft Surface Laptop 2 are similarly equipped, in terms of having the same processor and integrated graphics chip, although they vary quite a bit from there. As noted, the LG Gram's claim to fame comes with the resilient battery and large screen for such a lightweight computer.
@@ -207,9 +207,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  There are better all-around ultraportable laptops in this price range, and we had some issues with the feeling of the build, the keyboard layout, and the merely good display quality. However, if you're in the market for an incredibly light laptop with a big screen and a battery that lasts and lasts, it's hard to ignore the LG Gram 15.6-inch (2018). You get a very capable computer for the price, and it's a notebook that can legitimately last through a full workday even at max brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Gram 15.6-inch (2018)
@@ -227,14 +224,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Battery Capacity  72 Wh
 * Ports  1x USB-C, 3x USB-3, HDMI, microSD, 3.5mm headphone port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -242,3 +236,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/apple-pushes-forward-with-advanced-ai-discover-the-capabilities-of-its-latest-innovations/"><u>Apple Pushes Forward with Advanced AI: Discover the Capabilities of Its Latest Innovations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chatgpt-plus-is-investing-in-this-service-a-smart-move-discover-5-compelling-benefits/"><u>ChatGPT Plus: Is Investing in This Service a Smart Move? Discover 5 Compelling Benefits!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-budget-friendly-philips-hf3520-wakeup-call-device/"><u>Comprehensive Evaluation of the Budget-Friendly Philips HF3520 Wakeup Call Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-13-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi 13 Ultra Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-personal-health-through-chatgpts-best-practices/"><u>Elevate Personal Health Through ChatGPT's Best Practices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/final-verdict-on-hitman-3-a-seamless-and-satisfactory-conclusion-of-agent-47s-journey/"><u>Final Verdict on Hitman 3: A Seamless and Satisfactory Conclusion of Agent 47'S Journey</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-miniature-marketers-guide-to-video-promos-infographic/"><u>In 2024, Miniature Marketer's Guide to Video Promos (Infographic)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/optimal-solution-review-prime-action-recorder/"><u>Optimal Solution Review Prime Action Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-pro-17-laptop-analysis-ultimate-mobility-and-performance/"><u>Razer Blade Pro 17 Laptop Analysis: Ultimate Mobility and Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-your-must-have-tech-elite-acer-specials-for-prime-day-2024/"><u>Secure Your Must-Have Tech: Elite Acer Specials for Prime Day 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-giants-unveiled-understanding-facebook-twitter-instagram-and-youtube/"><u>Social Networking Giants Unveiled: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-apple-airtag-evaluation-ultimate-gadget-for-iphone-owners/"><u>Top Apple AirTag Evaluation: Ultimate Gadget for iPhone Owners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-potential-in-depth-look-at-how-the-linksys-ea8300-revolutionizes-home-networks/"><u>Unleashing Potential: In-Depth Look at How the Linksys EA8300 Revolutionizes Home Networks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise-for-2024/"><u>Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/is-the-youtube-creator-studio-in-2024/"><u>What Is the YouTube Creator Studio, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-system-enhancement-lenovo-ideapad-y470/"><u>Windows 7 System Enhancement: Lenovo IdeaPad Y470</u></a></li>
+</ul></div>
+

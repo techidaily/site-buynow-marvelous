@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Evaluation of the TP-Link RE505X Range Extender
-date: 2024-08-09T00:43:55.806Z
-updated: 2024-08-10T00:43:55.806Z
+date: 2025-01-11T03:45:19.887Z
+updated: 2025-01-15T19:05:29.214Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Evaluation of the TP-Link RE505X Range Extender
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/0KLC7lkcFNNGEdbfHA8-SZwmRJc=/400x300/fi
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Ubisoft Rayman Legends
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Rayman Legends](https://www.lifewire.com/thmb/3cugvPa-w5uei8fX1IKDgss6NTA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_HERO_RaymanLegends_20190118184305-5c8ff9e046e0fb00016ee128.jpg)
 
 Lifewire / Kelsey Simon
@@ -43,14 +37,8 @@ Lifewire / Kelsey Simon
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ubisoft Rayman Legends
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Rayman Legends](https://www.lifewire.com/thmb/BWfy9xiaiEgYE-OIFR3VbBg-LW8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_HERO_RaymanLegends_20190118184305-5c8ff9e046e0fb00016ee128.jpg)
 
 Lifewire / Kelsey Simon
@@ -73,6 +61,10 @@ Lifewire / Kelsey Simon
 
  Rayman Legends is a 2D platformer from Ubisoft that has the option for cooperative gameplay. It comes from a long series of Rayman games but brings an upgrade in graphics and gameplay, creating a game that not only longtime fans will be happy with, but first-time players, too. We played this game on the PS4 to further explore the game’s plot, gameplay, graphics, and sound design―and we were not disappointed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy as it should be**
 
  Setup for Rayman Legends is what you would expect. You’ll open up the[PlayStation 4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) case (or if you buy the game electronically through your PS4, you’ll begin the download process after purchase), pop in the disk, and you’ll be ready to play. Be aware, though, that certain features of the game will not be accessible if your PS4 is not connected to the internet. Specifically, you won’t be able to access the Challenges mode, where you can play weekly challenges against other Rayman Legends players.
@@ -87,16 +79,10 @@ Lifewire / Kelsey Simon
 
  You’ll chase after him, jumping from platform to platform, slaying the occasional enemy as you go. That's about it when it comes to the plot of Rayman Legends. Sometimes the Magician will give you a specific enemy to dodge, like a giant red dragon, and at the end of certain maps, you’ll get an opportunity to catch him. But really, Rayman Legends isn’t focused on plot; it’s more interested in providing outstanding gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Rayman Legends](https://www.lifewire.com/thmb/-Un250xgOCxgaGgFeykC6pihaaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118212347-5c8ffe8d46e0fb0001f8d0cc.jpg)
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## **Gameplay: What this is really about**
 
  Rayman Legends is a[2D platformer](https://www.lifewire.com/what-is-a-platform-game-812371) , reminiscent of such games as Super Mario Bros. and Donkey Kong, but with its own history and development. Be prepared to do lots of jumping, the occasional timed run, and even a few boss fights. Thankfully, Rayman Legend is fairly forgiving when it comes to platformers. The controls are smooth, jumps are generally easy to land, and a glide feature can save you when you accidentally jump too late. Plus, a nice distribution of save points make it easy to try again if you do die.
@@ -111,6 +97,10 @@ Lifewire / Kelsey Simon
 
 ![Rayman Legends](https://www.lifewire.com/thmb/oJz1vIp26cdVH1115RCHTapRpTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118215643-5c8ffe7346e0fb000146adbb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
  When you’ve reached a certain number of Lums, you’ll be able to unlock new heroes, which there is no shortage of. The levels grow gradually more complex as you progress, and while we admit that most levels weren’t too difficult, a few at the end of the game will be challenging for even well-practiced players.
@@ -121,22 +111,20 @@ Lifewire / Kelsey Simon
 
  The Challenges mode, which we mentioned earlier, is where you can attempt weekly challenges, earn rewards, and get your username on the leaderboards. The last feature―our favorite―is the ability to unlock levels from Rayman Origins, the game that came before Rayman Legends. It’s like you’re getting two games for the price of one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Cartoony but appropriate**
 
  Rayman Legends has a unique look, which is represented fairly well by its bright and eye-catching cover. It doesn’t attempt to be realistic but embraces cartoon-like graphics, with goofy characters and villains mildly reminiscent of real-life creatures. In the level titled Toad Story, you’ll come across screaming toad monsters carrying swords and shields.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rayman Legends](https://www.lifewire.com/thmb/ccE0U5KQNuFzIwrnVe2EtwkrG_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118211106-5c90015f46e0fb000146adbe.jpg)
 
  Lifewire / Kelsey Simon
 
  In the Fiesta De Los Muertos level, be prepared to smash brightly colored mariachi skeletons. No matter which level, though, the art style is consistent, and while not traditionally beautiful, it’s enjoyable and fun―a perfect fit for the game.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio: A hidden treasure**
 
  Generally speaking, the sound and music in Rayman Legends is well designed and fits with the feel of the rest of the game. But there is one thing worth mentioning when it comes to the sound and music of the game―and in our opinion, it’s the coolest thing about Rayman Legends.
@@ -145,9 +133,17 @@ Lifewire / Kelsey Simon
 
 ![Rayman Legends](https://www.lifewire.com/thmb/JIMvxIzHzgo1AXBmpTp3LxpzmTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RaymanLegends_20190118210656-5c9001cd46e0fb000172f0b1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
  The beauty of these maps is how well the gameplay is designed to match the beats of the song, from how each jump will strike with the strum of a guitar, or how the smash of a drum will be timed with the slaying of an enemy. The levels might take you a few tries to finish, as they’re timed and require precision, but they’re fun enough you won’t mind doing them again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Very reasonable for the content**
 
@@ -177,6 +173,10 @@ Lifewire / Kelsey Simon
 * [Minecraft](https://www.lifewire.com/minecraft-review-4777049)
 * [Ratchet & Clank](https://www.lifewire.com/ratchet-and-clank-review-4777051)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Rayman Legends
@@ -190,14 +190,11 @@ Lifewire / Kelsey Simon
 * Recommended Age  10+
 * Available Platforms  Microsoft Windows (Origin), Nintendo Switch, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,3 +202,27 @@ Lifewire / Kelsey Simon
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-recording-perfection-macbook-cam-tutorial/"><u>[New] Recording Perfection MacBook Cam Tutorial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-immediate-fixes-fb-messenger-video-sending-hitch-on-mobile-devices/"><u>[Updated] In 2024, Immediate Fixes FB Messenger Video Sending Hitch on Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos/"><u>[Updated] Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>2024 Approved Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-from-monochrome-to-vibrancy-top-11-video-coloring-strategies/"><u>2024 Approved From Monochrome to Vibrancy Top 11 Video Coloring Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-samsung-galaxy-tab-s-product-review-a-top-choice-midrange-tablet-for-android-devotees/"><u>A Comprehensive Samsung Galaxy Tab S^ Product Review: A Top-Choice Midrange Tablet for Android Devotees</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-google-nest-wi-fi-router-fast-and-effortless-wireless-coverage/"><u>Comprehensive Guide to the Google Nest Wi-Fi Router: Fast & Effortless Wireless Coverage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/converging-computer-visuals-flawlessly-for-2024/"><u>Converging Computer Visuals Flawlessly for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-between-digital-reading-devices-ipad-kindle-or-nook-breakdown/"><u>Deciding Between Digital Reading Devices: IPad, Kindle or Nook Breakdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-depth-of-marvels-avengers-exceptional-epic-or-simply-unimpressive/"><u>Exploring the Depth of Marvel's Avengers: Exceptional Epic or Simply Unimpressive?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-yokus-island-express-an-unexpected-journey-through-gaming/"><u>Exploring Yoku's Island Express: An Unexpected Journey Through Gaming</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/how-to-reconstruct-erased-drive-sections-with-advanced-partition-restoration-apps/"><u>How to Reconstruct Erased Drive Sections with Advanced Partition Restoration Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a79-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A79 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rokus-enhanced-viewing-experience-unveiled/"><u>Roku's Enhanced Viewing Experience Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/seamless-pet-feeding-solutions-discover-arfs-auto-feed-station/"><u>Seamless Pet Feeding Solutions: Discover Arf's Auto Feed Station</u></a></li>
+<li><a href="https://network-issues.techidaily.com/soothing-screenscape-shivers-in-pro-7/"><u>Soothing Screenscape Shivers in Pro 7</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-singing-machine-sml385btbk-top-rated-user-friendly-karaoke-device-for-the-whole-family/"><u>Ultimate Guide to Singing Machine SML385BTBK - Top-Rated, User-Friendly Karaoke Device for the Whole Family</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-the-totobay-2nd-gen-wake-up-light-deserves-a-spot-in-your-home-budget-friendly-and-effective/"><u>Why the Totobay (2Nd Gen) Wake-Up Light Deserves a Spot in Your Home: Budget Friendly and Effective!</u></a></li>
+</ul></div>
+

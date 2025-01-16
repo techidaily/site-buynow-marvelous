@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
-date: 2025-01-03T16:06:58.413Z
-updated: 2025-01-10T16:02:01.501Z
+date: 2025-01-11T04:33:03.339Z
+updated: 2025-01-16T04:40:11.819Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unmatched Control and Mobility: The Ultimate Precision Gaming with a Cordless Sabrent Travel Mouse"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/ExEFo7aByvSphU-Qxeq8zUjf8lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -69,7 +69,7 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/_0yEidfS3S4dy57s584t378TZYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-5-4ec68914607c4b56acff25a78887af7f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -81,6 +81,10 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -94,11 +98,11 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Gameplay: Parkour and zombies galore**
 
@@ -114,10 +118,6 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Graphics: Attention to detail**
@@ -130,12 +130,16 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
@@ -149,10 +153,6 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,18 +175,22 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-interface-mastery-with-these-less-known-windows-11-strategies-for-2024/"><u>[New] Elevate Your Interface Mastery with These Less-Known Windows 11 Strategies for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-essential-cheat-sheet-for-first-time-final-cut-users-for-2024/"><u>[New] The Essential Cheat Sheet for First Time Final Cut Users for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/10-best-video-calling-app-for-android-and-iphone-for-2024/"><u>10 Best Video Calling App for Android and iPhone for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-suminds-bt70b-for-automobile-audio-connectivity/"><u>Expert Analysis on Sumind's BT70B for Automobile Audio Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-bloodbornes-shadowy-realm-an-in-depth-game-analysis/"><u>Exploring Bloodborne's Shadowy Realm: An In-Depth Game Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-unpredictable-odyssey-of-yokus-island-express/"><u>Exploring the Unpredictable Odyssey of Yoku's Island Express</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fashion-forward-and-functional-a-comprehensive-review-of-the-swagtron-swagger-electric-scooter-for-effortless-urban-transport/"><u>Fashion-Forward and Functional: A Comprehensive Review of the Swagtron Swagger Electric Scooter for Effortless Urban Transport</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/gesunde-tipps-fur-die-einfache-wiederherstellung-von-daten-auf-einem-schadensversatztem-windows-os/"><u>Gesunde Tipps Für Die Einfache Wiederherstellung Von Daten Auf Einem Schadensversatztem Windows OS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-nest-audio-versus-apple-homepod-which-smart-speaker-wins/"><u>Google Nest Audio Versus Apple HomePod: Which Smart Speaker Wins?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-xs-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone XS? Complete Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-avoid-feed-overload-how-to-stop-followers/"><u>In 2024, Avoid Feed Overload How to Stop Followers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-transforming-240p-content-to-stunning-1080p/"><u>Step-by-Step Tutorial for Enhancing Video Quality: Transforming 240P Content to Stunning 1080P</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-mix-a-comprehensive-look-at-top-audio-editing-tools/"><u>Updated 2024 Approved Mastering Mix A Comprehensive Look at Top Audio Editing Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tackling-inaudible-speech-in-obs-captures-for-2024/"><u>[New] Tackling Inaudible Speech in OBS Captures for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-photography-choices-for-sharpest-4k-reflections-for-2024/"><u>[New] Top Photography Choices for Sharpest 4K Reflections for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-distinguished-samsung-galaxy-s10-a-quintessential-premium-smartphone-experience/"><u>A Closer Look at the Distinguished Samsung Galaxy S10: A Quintessential Premium Smartphone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordability-meets-functionality-an-in-depth-look-at-the-hp-stream-14-laptop-with-limitations/"><u>Affordability Meets Functionality: An In-Depth Look at the HP Stream 14 Laptop with Limitations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-comfort-in-wireless-headphones-senso-buds/"><u>Affordable Comfort in Wireless Headphones - Senso Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722976462725-affordable-laptop-ventilation-for-your-device-check-out-the-topmate-c3amator-review/"><u>Affordable Laptop Ventilation for Your Device? Check Out the TopMate C3amator Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-macbook-pro-13-inch-m1-2020-review-a-new-cpu-changes-the-game/"><u>Apple MacBook Pro 13-Inch (M1, 2020) Review: A New CPU Changes the Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beantechs-bitwatch-s1-plus-in-focus-a-compelling-look-at-an-economical-smartwatch-choice/"><u>Beantech's Bitwatch S1 Plus in Focus – A Compelling Look at an Economical Smartwatch Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-mobvoi-ticwatch-e2-insights-incredible-savings-with-subpar-results/"><u>Budget Friendly Mobvoi TicWatch E2 Insights: Incredible Savings with Subpar Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/classic-elegance-on-the-water-the-skagen-falster-2-vs-apple-luxury-yachts/"><u>Classic Elegance on the Water: The Skagen Falster 2 Vs. Apple Luxury Yachts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-guide-solutions-for-windows-11-players/"><u>Cyberpunk 2077 Sound Troubleshooting Guide - Solutions for Windows 11 Players</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-90-lite-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor 90 Lite Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>In 2024, How to Make a Thumbnail for Your YouTube Free Easily!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>In 2024, Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/neoml-von-abbyy-jetzt-mit-python-unterstutzt-erleben-sie-die-10x-schnellere-open-source-bibliothek/"><u>NeoML Von ABBYY Jetzt Mit Python Unterstützt - Erleben Sie Die 10X Schnellere Open-Source-Bibliothek</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Excellence: How the Galaxy S23 Ultra Stacks Up to the S21 Ultra"
-date: 2024-08-09T00:43:57.121Z
-updated: 2024-08-10T00:43:57.121Z
+date: 2025-01-09T06:38:28.137Z
+updated: 2025-01-15T21:15:55.655Z
 categories:
   - BestProducts
 description: "This Article Describes Evolution of Excellence: How the Galaxy S23 Ultra Stacks Up to the S21 Ultra"
@@ -13,12 +13,13 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
 4.7
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Apple Mac Mini
 
 ![Mac mini](https://www.lifewire.com/thmb/PGUiYeMYsiySzInCVShXLUY3Wqs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Mac-Mini-M1-2020-Computer-1-c63ec986a9944869ab0f9ff7b7a0b01d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jeremy Laukkonen / Lifewire
 
@@ -41,9 +42,6 @@ Jeremy Laukkonen / Lifewire
 
 4.7
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Apple Mac Mini
 
 ![Mac mini](https://www.lifewire.com/thmb/cOYA5qGbCuLx8V2Gpf67_t0Wd4o=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Mac-Mini-M1-2020-Computer-1-c63ec986a9944869ab0f9ff7b7a0b01d.jpg)
@@ -77,16 +75,10 @@ Jeremy Laukkonen / Lifewire
 
  During my time with the M1 Mac mini, I paid close attention to performance, of course, with a special eye to how well it handles non-native apps and apps that were designed for iOS. The lack of support for Bootcamp meant I wasn’t able to completely leave my old hardware behind, but there’s no getting around it: this is some impressive hardware at any price, let alone a price tag that’s cheaper than the previous iteration of the hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/aEGPK4B55KCbhrof83878utZpZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-2-16eb4e84f8694bb6a76cf078906add40.jpg)
 
  Jeremy Laukkonen / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Same sleek aluminum chassis
 
  The big changes here are all under the hood, as Apple opted to leave the overall design of the Mac mini (M1, 2020) unchanged from the previous model. It’s still a block of milled aluminum with the same rounded corners, satin finish, and shiny Apple logo emblazoned on the top. The top is smooth and unmarked aside from the logo, and the front and sides of the case are completely featureless aside from a small LED on the front that lets you know when the system is powered on.
@@ -105,9 +97,6 @@ Jeremy Laukkonen / Lifewire
 
  Jeremy Laukkonen / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setup Process: Fast and painless, but you can’t use a Bluetooth keyboard or mouse
 
  If you’ve ever set up a macOS device before, the setup process isn’t any different here. It’s just a matter of accepting some terms, tweaking some initial settings, and connecting your Apple ID. As always, setup is going to be easier if you have access to another functional piece of Apple hardware that you’re already logged into.
@@ -136,6 +125,10 @@ Jeremy Laukkonen / Lifewire
 
  Jeremy Laukkonen / Lifewire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Gaming: Limited but promising
 
  This is one area where Apple’s decision to switch from Intel to their own bespoke silicon is unlikely to pay off for a while. The issue is that while the M1 chip is powerful, it’s going to take a while for game developers to offer any kind of real support for it. That means the already anemic Mac gaming scene could be even more anemic until devs see a reason to put substantial resources into games that run natively on the ARM-based M1 hardware. In the long term, cross-compatibility between macOS and iOS apps could end up being a massive game-changer.
@@ -157,8 +150,9 @@ Jeremy Laukkonen / Lifewire
  Aside from lack of support from game developers, the only real drawback here in terms of gaming comes from the HDMI port itself. While the M1 Mac mini can pump out[4K graphics](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) , it’s limited to a 60Hz refresh rate. That’s fine for most casual gamers, but anyone who has fallen in love with their high refresh rate monitor will experience a bit of pain here.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Productivity: Ready for work
 
  The great thing about the Mac mini line is that it’s always been so flexible. You can use a Mac mini for work, but the size and relative affordability of the hardware means you aren’t locked into using it that way. If you do aim to use an M1 Mac mini for work though, it’s more than up to the task. Native apps and the operating system itself run fast and smooth as you could possibly hope, with none of the sitting around looking at spinning beach balls that you may have gotten used to with older hardware.
@@ -171,18 +165,27 @@ Jeremy Laukkonen / Lifewire
 
  Multitasking also works flawlessly, and I was able to juggle an impressive number of browser windows, intensive apps like Photoshop and Handbrake, voice and video chat over Discord, and more without running into any real problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Audio: It’s there if you need it
 
  The M1 Mac mini is great in almost every category, but audio isn’t one of them. There’s a speaker inside that sleek aluminum block, but it isn’t one you’ll care to listen to. It’s tinny and hollow, and absolutely a placeholder for more capable external speakers. You’ll want to hook up headphonesor some kind of speakers or soundbar shortly after setting the M1 Mac mini up, because the built-in speaker isn’t really even suitable for watching YouTube videos, let alone listening to music or streaming your favorite shows or movies.
 
  The M1 Mac mini does include a 3.5mm headphone jack on the back along with built-in Bluetooth, so you have a lot of options. Just make sure to budget for some sort of external speakers or headphones, because you don’t want to get stuck with the built-in speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/OZrKjTPGUmo00carhaedBa9WhTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-5-bc84da59dfdf440c8d53a096509c232b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jeremy Laukkonen / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Network: Solid Ethernet and Wi-Fi 6 connectivity
 
@@ -191,6 +194,10 @@ Jeremy Laukkonen / Lifewire
  To test the M1 Mac mini’s network capabilities, I used a gigabit connection from Mediacom that measured just shy of 1Gbps at the modem at the time of testing. First I hooked up to the router via Ethernet and checked the speed using the Speedtest app from Ookla. With the wired connection, the M1 Mac mini turned in an impressive 937Mbps down, which is one of the fastest measurements I’ve seen on this connection. At the same time, it measured an upload speed of 63.7Mbps, which is close to the upper limit of this connection.
 
  I also tested the wireless connection, hooking the M1 Mac mini to my[Eero mesh network](https://www.lifewire.com/eero-pro-mesh-wi-fi-system-review-4797008) . When connected wirelessly, I measured a respectable 284 Mbps down and 54 Mbps up. At the same time, in the same location, my[HP Spectre x360](https://www.lifewire.com/hp-spectre-x360-15t-touch-laptop-review-4773540) measured 254Mbps down and 63Mbps up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: So long, Windows compatibility
 
@@ -204,17 +211,10 @@ Jeremy Laukkonen / Lifewire
 
  For the time being, the trade off is that Big Sur and native apps like Safari run extremely well, and with remarkably low power consumption and heat generation compared to Intel Macs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Price: More affordable than ever
 
  The Mac mini saw a price increase alongside its last major retool, but Apple actually played against tradition and handed us a price reduction with the transition to M1 hardware. The baseline M1 Mac mini is actually hundreds of dollars cheaper than the previous iteration of the hardware, which is remarkable considering how much more powerful it is. The last Intel Mac mini was already a good deal, so the even cheaper M1 Mac mini looks even better in comparison. Considering its capabilities, it’s also a good deal when compared to non-Apple mini desktop hardware like the Intel NUC lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/G2V98ugnO-cdk-GaL11FUP0RWvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-7-c899b9f13f09448699fee766ab51a2bd.jpg)
 
  Jeremy Laukkonen / Lifewire
@@ -239,9 +239,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The Apple Mac mini with M1 is a tremendously impressive piece of hardware, offering staggering performance at an affordable price. The only real catch here is that in leaving Intel behind, Apple may have left you in the lurch. If you currently can’t get by without running specific apps through Windows by way of Bootcamp, then the M1 Mac mini just isn’t what you’re looking for. If you can live and work in a world that’s entirely free of Windows, then the M1 Mac mini is ready to welcome you home.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple iPad Air 4](https://www.lifewire.com/apple-ipad-air-4-review-5091874)
@@ -264,14 +261,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Connectivity  Wi-Fi 6, Ethernet
 * Software  macOS Big Sur
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -279,3 +273,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-opinions-best-browser-recording-apps-uncovered/"><u>[New] Expert Opinions Best Browser Recording Apps Uncovered</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-navigating-zoom-settings-for-top-notch-audio-capture/"><u>[New] In 2024, Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unleashing-potential-top-10-strategies-for-instagram-video-ads/"><u>[Updated] 2024 Approved Unleashing Potential Top 10 Strategies for Instagram Video Ads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artists-challenge-tech-giants-the-case-against-openai-and-meta-in-ai-controversy/"><u>Artists Challenge Tech Giants: The Case Against OpenAI and Meta in AI Controversy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-pick-sound-equipment-showcased-at-ces-2024-insights-from-zdnet/"><u>Top Pick Sound Equipment Showcased at CES 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wi-fi-signal-boosters-for-ultimate-coverage/"><u>Top Rated Wi-Fi Signal Boosters for Ultimate Coverage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-7g-network-routers/"><u>Top-Rated Wireless 7G Network Routers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-headphones-a-comprehensive-guide/"><u>Top-Rated Wireless Headphones : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-selecting-the-ideal-intel-gaming-motherboard-for-maximum-performance/"><u>Ultimate Guide: Selecting the Ideal Intel Gaming Motherboard for Maximum Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-top-rated-vignette-makers-for-iphone-and-android-a-comprehensive-guide/"><u>Updated In 2024, S Top-Rated Vignette Makers for iPhone and Android A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-vn-video-editor-review-a-powerful-video-editing-tool-for-android-in-2024/"><u>Updated VN Video Editor Review A Powerful Video Editing Tool for Android, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/whimsy-weaver-photo-tapestry-for-2024/"><u>Whimsy Weaver Photo Tapestry for 2024</u></a></li>
+</ul></div>
+

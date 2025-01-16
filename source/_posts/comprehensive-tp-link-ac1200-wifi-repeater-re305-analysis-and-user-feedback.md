@@ -1,7 +1,7 @@
 ---
 title: Comprehensive TP-Link AC1200 WiFi Repeater RE305 Analysis and User Feedback
-date: 2024-08-09T00:43:56.477Z
-updated: 2024-08-10T00:43:56.477Z
+date: 2025-01-12T23:46:01.769Z
+updated: 2025-01-15T21:56:26.959Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive TP-Link AC1200 WiFi Repeater RE305 Analysis and User Feedback
@@ -14,14 +14,16 @@ thumbnail: https://www.lifewire.com/thmb/u5Qf7KbfeDnZm8gfCxaxy8baBY0=/400x300/fi
 3.8
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Withings Withings Move Hybrid Smartwatch
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Withings Move](https://www.lifewire.com/thmb/lRf4MewZgHR7jJoirox43xON-Ds=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4161013-1-a308b649704344f6b5fd15dc900e5742.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -46,13 +48,11 @@ Lifewire / Yoona Wagener
 3.8
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Withings Withings Move Hybrid Smartwatch
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Withings Move](https://www.lifewire.com/thmb/0q_63hnHYzqQ5_H2Q2RzjXF5Nls=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4161013-1-a308b649704344f6b5fd15dc900e5742.jpg)
 
 Lifewire / Yoona Wagener
@@ -80,9 +80,6 @@ Lifewire / Yoona Wagener
 
  We tested the Withings Move to see how comfortable it is for everyday use and explore the extent of its smartwatch characteristics.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Withings Move](https://www.lifewire.com/thmb/SRCqvDOet8fouJ8uY8ze0LlCiog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-2-1fdc9f06eb6a45f2baa2b840822fba5d.jpg)
 
  Lifewire / Yoona Wagener
@@ -101,10 +98,11 @@ Lifewire / Yoona Wagener
 
  Depending on the category you fall into, the lack of a touchscreen could be the largest benefit or drawback of the design. Users who want the look of a regular analog watch will be pleased by the lack of a typical smartwatch screen on their wrist.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Withings Move](https://www.lifewire.com/thmb/Qz1dlsE8jl99mXc7-kQ5LCVoiK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-3-b1e97631284d40829bd5714c59dc5f2a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -126,9 +124,6 @@ Lifewire / Yoona Wagener
 
  We did notice that both the front and back of the watch face scratched easily over the course of a week, and suspect this could be a bigger issue for those who are harder on their accessories.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Withings Move](https://www.lifewire.com/thmb/WIXFA6BpXvAMWLdKpJ_jmzZh6o4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-5-cbc0f43d847b453bbfae994f03374cdb.jpg)
 
  Lifewire / Yoona Wagener
@@ -149,11 +144,12 @@ Lifewire / Yoona Wagener
 
 ![Withings Move](https://www.lifewire.com/thmb/vaUmI1isQP98tmL8uIZSghmAWGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-6-259d8034cfb64485be60f9c5754fec79.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery: Long-lasting and hassle-free**
 
  The Withings Move is reported to have a battery life of up to 18 months, and we really enjoyed that aspect over the week we tested it. Unlike typical smartwatches, we didn’t have to worry about draining the battery and recharging. The internal battery is a typical replaceable watch battery, and the user guide offers directions for removal and replacement when the time comes.
@@ -195,8 +191,9 @@ Lifewire / Yoona Wagener
  The Withings Move is a strong entry-level fitness tracker for the person who wants to track activities without going all-in on a smartwatch. It’s inexpensive, sporty, and subtle, which makes it compelling for those who don’t want to be distracted by notifications and all the hands-on features smartwatches bring to the table.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Withings Move Hybrid Smartwatch
@@ -215,11 +212,33 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-rhythmripper-software-overview-and-testing/"><u>[New] In 2024, RhythmRipper Software Overview & Testing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mixing-music-into-your-instagram-visuals/"><u>[Updated] Mixing Music Into Your Instagram Visuals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-guide-to-selecting-perfect-display-specifications-understanding-screensize-pixel-count-and-flicker-frequency-in-gaming-lapsops/"><u>A Guide to Selecting Perfect Display Specifications: Understanding Screensize, Pixel Count, and Flicker Frequency in Gaming Lapsops</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieve-professional-sound-quality-with-spotifys-in-car-equalizer-feature/"><u>Achieve Professional Sound Quality with Spotify's In-Car Equalizer Feature</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/anticipating-olympic-season-peacocks-upcoming-price-hike-announced-just-in-time/"><u>Anticipating Olympic Season: Peacock's Upcoming Price Hike Announced Just in Time</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-jokes-with-news-on-facebook/"><u>Balancing Jokes with News on Facebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/brace-yourself-higher-costs-await-in-the-max-market/"><u>Brace Yourself: Higher Costs Await in the 'Max' Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/can-apple-computers-gain-respect-as-a-gaming-powerhouse-among-enthusiasts/"><u>Can Apple Computers Gain Respect as a Gaming Powerhouse Among Enthusiasts?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-c65-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco C65 Through Google Earth?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-12-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi 12 FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-unveiling-the-major-oversight-and-apples-solution-insights/"><u>IPad Unveiling: The Major Oversight and Apple’s Solution Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/outdated-manual-methods-vs-advanced-ai-techniques-the-future-of-intelligent-software-development-unveiled-on-zdnet/"><u>Outdated Manual Methods Vs. Advanced AI Techniques: The Future of Intelligent Software Development Unveiled on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultrawide-uhd-dilemranc-which-monitor-wins-for-2024/"><u>The Ultrawide-UHD Dilemranc Which Monitor Wins for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-5-exhilarating-virtual-track-gaming-experiences/"><u>Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-a-closer-look-at-chatgpts-instruction-based-functionality/"><u>Unveiling the Potential: A Closer Look at ChatGPT's Instruction-Based Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/virtualizing-surround-sound-on-streaming-platforms-techniques-used-by-netflix-to-enhance-your-headphone-viewing-experience/"><u>Virtualizing Surround Sound on Streaming Platforms: Techniques Used by Netflix to Enhance Your Headphone Viewing Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/watch-educational-video-lessons-on-spotifys-latest-learning-platform/"><u>Watch Educational Video Lessons on Spotify's Latest Learning Platform!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-every-adventurer-needs-a-portable-power-station-top-reasons-unveiled/"><u>Why Every Adventurer Needs a Portable Power Station: Top Reasons Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-young-players-arent-interested-in-retro-gaming-insights-from-the-next-generation/"><u>Why Young Players Aren't Interested in Retro Gaming: Insights From the Next Generation</u></a></li>
+</ul></div>
+

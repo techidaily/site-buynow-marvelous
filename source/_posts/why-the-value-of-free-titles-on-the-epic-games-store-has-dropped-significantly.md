@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2025-01-07T16:16:57.690Z
-updated: 2025-01-10T16:04:33.541Z
+date: 2025-01-08T20:53:24.087Z
+updated: 2025-01-15T18:37:49.043Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Epic's free game quality has declined from popular titles to less niche offerings, leading to gamer fatigue.
@@ -21,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Games Aren't What They Used to Be
 
  When the Epic Games Store launched its free games initiative, it captivated gamers by giving away blockbuster titles such as _Pathfinder: Kingmaker_, _Civilization VI_, and _Mirror's Edge_. These are high-quality, well-known games that Epic hopes would attract a broad audience. Even for [beginner PC gamers](https://tech-revival.techidaily.com/ethical-study-habits-sidestepping-chatgpt-misuse/), this was a big deal.
@@ -28,10 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  However, the quality of the free games [has seen a noticeable decline](https://tools.techidaily.com). Recent offerings have included less popular or niche titles, such as _Hell is Others_, _Adios_, and _Recipe for Disaster_"​ These games aren't necessarily terrible, but they don't have the same broad appeal as earlier offerings.
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
@@ -43,12 +47,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Game Saturation, or Having Too Much To Play
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8BitDo
@@ -62,10 +70,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -88,16 +92,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
 
@@ -118,15 +118,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-integrating-images-into-your-insta-world/"><u>[Updated] In 2024, Integrating Images Into Your Insta World</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>2024 Approved Selecting Your Perfect VR Experience Mobile Vs. Tethered Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-unveiling-the-cost-and-launch-details/"><u>Amazfit Helio Ring - Unveiling the Cost & Launch Details</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-netgear-nighthawk-ax8-mesh-wi-fi-6-extender-assessment-for-long-term-performance/"><u>Comprehensive Netgear Nighthawk AX8 Mesh Wi-Fi 6 Extender Assessment for Long-Term Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-5-aquatic-filter-add-ons-for-gopro/"><u>In 2024, Ultimate 5 Aquatic Filter Add-Ons for GoPro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-f54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy F54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/selecting-the-perfect-ipad-mouse-a-comprehensive-guide/"><u>Selecting the Perfect iPad Mouse: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/skyrim-on-nintendo-switch-a-deep-dive-into-an-epic-fantasy-rpg-adventure/"><u>Skyrim on Nintendo Switch: A Deep Dive Into an Epic Fantasy RPG Adventure</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tips-for-creating-stunning-slow-motion-content-on-instagram/"><u>Tips for Creating Stunning Slow Motion Content on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-experience/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-generate-custom-online-comedic-artwork/"><u>[New] Generate Custom Online Comedic Artwork</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tackling-frame-rate-glitches-in-obs-outputs/"><u>[New] Tackling Frame Rate Glitches in OBS Outputs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-optimal-platforms-for-youtube-video-exposure/"><u>[Updated] 2024 Approved Optimal Platforms for YouTube Video Exposure</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-todays-drones-tomorrows-landscapes-an-overview/"><u>[Updated] Today’s Drones, Tomorrow's Landscapes An Overview</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-13-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi 13 Ultra Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/examining-the-sony-xperia-5-miniaturized-design-with-a-premium-cost/"><u>Examining the Sony Xperia 5: Miniaturized Design with a Premium Cost</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-list-the-ultimate-linkedin-training-programs-for-professionals/"><u>Exclusive List: The Ultimate LinkedIn Training Programs for Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-a-refreshing-morning-with-the-totobay-wake-up-light-2nd-generation-top-affordable-option/"><u>Experience a Refreshing Morning with the Totobay Wake-Up Light 2Nd Generation - Top Affordable Option!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-revolutionary-combination-of-portability-and-performance-with-the-new-2021-ipad-pro-m1/"><u>Experience the Revolutionary Combination of Portability and Performance with the New 2021 iPad Pro (M1)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-oneplus-nord-n10-5g-a-smart-choice-you-cant-overlook/"><u>Expert Analysis of OnePlus Nord N10 5G: A Smart Choice You Can't Overlook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-premium-features-in-spotify-music-service/"><u>Exploring Premium Features in Spotify Music Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fun-filled-cosmic-calamity-as-earthly-cities-collide-with-mars-birth-whirlwind-revelries/"><u>Fun-Filled Cosmic Calamity as Earthly Cities Collide with Mars, Birth Whirlwind Revelries</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-chromecast-vs-firetv-a-comprehensive-showdown/"><u>Google TV Chromecast vs FireTV: A Comprehensive Showdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/headlights-revamp-driving-dynamics-improvement-ideas/"><u>Headlights Revamp: Driving Dynamics Improvement Ideas</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-magic-6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor Magic 6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revisiting-vanished-chatgpt-journeys/"><u>Revisiting Vanished ChatGPT Journeys</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/upgrading-effortlessly-with-a-focus-on-key-lens-features-for-2024/"><u>Upgrading Effortlessly with a Focus on Key Lens Features for 2024</u></a></li>
 </ul></div>
 

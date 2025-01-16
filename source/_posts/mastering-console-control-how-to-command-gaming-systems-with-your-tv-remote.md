@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2025-01-05T16:19:05.036Z
-updated: 2025-01-10T16:06:09.934Z
+date: 2025-01-12T19:58:02.980Z
+updated: 2025-01-16T08:05:41.989Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ## Mastering Console Control: How to Command Gaming Systems with Your TV Remote
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,6 +37,10 @@ Jordan Gloor / How-To Geek
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Ultimate Solution: HDMI-CEC
 
  HDMI Consumer Electronics Control, or HDMI-CEC for short, is essentially a single connection wire that can link multiple devices to one input, which can also be compartmentalized internally. In essence, it lets all your devices communicate with each other directly and respond to inputs from a single TV remote.
@@ -55,12 +59,16 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Console
@@ -77,10 +85,6 @@ Jason Fitzpatrick / How-To Geek
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
  Setting up your Chromecast to accept TV remote inputs is as simple as having HDMI-CEC settings turned on on your TV. As long as this is enabled, the Chromecast should automatically allow you to use the remote to navigate streaming services or other functions you may use it for.
@@ -91,10 +95,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -104,7 +104,7 @@ Jason Fitzpatrick / How-To Geek
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -130,24 +130,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-best-action-gear-selecting-the-top-15-cameras/"><u>[Updated] Best Action Gear Selecting the Top 15 Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonic-start-spots-music-gold-for-podcast-kicks/"><u>[Updated] Harmonic Start Spots Music Gold for Podcast Kicks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ideal-steadicams-for-uav-aerial-cinematography/"><u>[Updated] In 2024, Ideal Steadicams for UAV Aerial Cinematography</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>[Updated] In 2024, Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-launchpad-essentials-your-first-steps-in-streaming/"><u>[Updated] Launchpad Essentials Your First Steps in Streaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-tp-link-re2/"><u>Affordable TP-Link RE2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodge-these-pitfalls-chatgpt-mobile-downloads/"><u>Dodge These Pitfalls: ChatGPT Mobile Downloads</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enthralling-gamers-the-pro-x-auditory-journey/"><u>Enthralling Gamers: The Pro X Auditory Journey</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-the-premium-huion-inspiroy-g10t-graphic-tablet-high-quality-and-outstanding-results/"><u>Expert Review: The Premium Huion Inspiroy G10T Graphic Tablet - High Quality and Outstanding Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-the-best-pc-parts-with-detailed-comparisons-from-toms-system-digest/"><u>Find the Best PC Parts with Detailed Comparisons From Tom's System Digest</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-the-yellow-hue-9-techniques-for-restoring-your-iphone-display/"><u>Fix the Yellow Hue: 9 Techniques for Restoring Your iPhone Display</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/immersive-sonic-realm-sonys-innovation/"><u>Immersive Sonic Realm: Sony's Innovation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-game-a-comprehensive-insight-into-fifa-19s-reign-as-sports-gaming-royalty/"><u>Mastering the Game: A Comprehensive Insight Into FIFA 19'S Reign as Sports Gaming Royalty</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-latest-microsoft-surface-pro-7-a-reliable-workhorse-revamped-for-continued-success/"><u>Reviewing the Latest Microsoft Surface Pro 7: A Reliable Workhorse, Revamped for Continued Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-freezing-troubles-heres-how-you-can-fix-it-for-smooth-gaming/"><u>Steam Freezing Troubles? Here's How You Can Fix It for Smooth Gaming .</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-tranquil-turntables-and-listeners-hats/"><u>Top Tranquil Turntables & Listeners' Hats</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-2019-amazon-kindle-oasis-a-new-era-of-comfortable-reading-begins/"><u>Unboxing the 2019 Amazon Kindle Oasis - A New Era of Comfortable Reading Begins.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-skagen-falster-2-the-refined-competitor-in-the-smartphone-arena/"><u>Unveiling Skagen Falster 2 - The Refined Competitor in the Smartphone Arena</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-the-dell-inspiron-3671-a-mid-range-powerhouse-in-disguise/"><u>Unveiling the Performance of the Dell Inspiron 3671: A Mid-Range Powerhouse in Disguise</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-grand-city-adventures-without-a-gta-tie/"><u>[New] 2024 Approved Grand City Adventures Without a GTA Tie</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>[New] 2024 Approved Jumpstart to Partner Elevation Secure 10K Views in Minutes!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cinematic-hope-the-top-10-inspirational-films/"><u>[Updated] Cinematic Hope The Top 10 Inspirational Films</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-best-free-mmorpg-games-you-can-find-for-2024/"><u>[Updated] Top 10 Best Free MMORPG Games You Can Find for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-cost-vs-comfort-the-ultimate-review-of-mophies-powerstation-ac-charger/"><u>Breaking Down the Cost Vs. Comfort - The Ultimate Review of Mophie's Powerstation AC Charger</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-masterclass-review-caixuns-stellar-performance-on-a-4k-75-inch-android-tv-set/"><u>Budget Masterclass Review: Caixun's Stellar Performance on a 4K, 75-Inch Android TV Set</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-netgears-c3000-model-is-it-a-relic-or-a-reliable-router/"><u>Comprehensive Evaluation of Netgear's C3000 Model: Is It a Relic or a Reliable Router?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-mobvoi-ticwatch-pro-3-benefits-of-built-in-gps-and-battery-saving-displays-explored/"><u>Comprehensive Guide to the Mobvoi TicWatch Pro 3: Benefits of Built-In GPS & Battery-Saving Displays Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lenovo-tab-p11-pro-excellence-marred-by-small-defects/"><u>Comprehensive Review of the Lenovo Tab P11 Pro: Excellence Marred by Small Defects</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-rotibox-bluetooth-headset-cap-review-unmatched-comfort-and-quality-sound/"><u>Comprehensive Rotibox Bluetooth Headset Cap Review: Unmatched Comfort & Quality Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-cost-of-playing-ps5s-top-4-reasons-to-buy/"><u>Decoding the Cost of Playing: PS5's Top 4 Reasons to Buy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-performance-of-linksys-wrt1900acs-an-insightful-look-at-an-innovative-open-source-router/"><u>Decoding the Performance of Linksys WRT_1900ACS - An Insightful Look at an Innovative Open Source Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-assessment-of-sea-techs-external-usb-blu-ray-writer-a-user-experience-with-mixed-results/"><u>Detailed Assessment of Sea Tech's External USB Blu-Ray Writer - A User Experience with Mixed Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/half-off-xbox-game-pass-bundled-with-fire-tv-stick-score-the-deal-after-prime-day-exclusive-offer-spotted-on-zdnet/"><u>Half Off Xbox Game Pass Bundled With Fire TV Stick - Score the Deal After Prime Day! Exclusive Offer Spotted on ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-usb-mouse-drivers-renewal/"><u>The Ultimate Guide to USB-Mouse Drivers Renewal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-solution-to-fixing-intel-dynamic-platform-and-thermal-frameworks-failed-driver-setup/"><u>The Ultimate Solution to Fixing Intel Dynamic Platform & Thermal Framework's Failed Driver Setup</u></a></li>
 </ul></div>
 
