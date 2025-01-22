@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10"
-date: 2025-01-11T17:30:01.982Z
-updated: 2025-01-15T19:58:34.325Z
+date: 2025-01-16T12:06:29.375Z
+updated: 2025-01-21T22:11:50.812Z
 tags:
   - games
   - tv
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 * [Pairing Your PS5 Controller to a Windows 10 PC](https://instagram-video-files.techidaily.com/updated-tricks-to-improve-instagram-video-load-speeds-mobile/)
 * [Pairing and Configuring a PS5 Controller for Steam](https://buynow-info.techidaily.com/navigating-photoscapes-features-a-detailed-analysis-of-free-high-quality-image-editing-software/)
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
@@ -59,15 +63,15 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -78,16 +82,12 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -140,22 +140,20 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/imperator-rome-conquering-power-or-facing-destruction/"><u>'Imperator: Rome': Conquering Power or Facing Destruction?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-swift-valorant-image-crafting-professionally-done-on-the-fly/"><u>[New] 2024 Approved Swift Valorant Image Crafting Professionally Done on the Fly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-economical-aerial-aviators-affordable-drones-guide-(500/"><u>[Updated] Economical Aerial Aviators Affordable Drones Guide <$500</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-fast-track-missing-snap-finders-for-2024/"><u>[Updated] Fast-Track Missing Snap Finders for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 Pro Unlock Without Password</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-ranking-premium-photo-and-video-shows-x-ios14/"><u>In 2024, Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-examination-of-the-google-pixel-n-4a-5g-an-outstanding-choice-for-cost-conscious-tech-enthusiasts/"><u>In-Depth Examination of the Google Pixel N 4a 5G - An Outstanding Choice for Cost-Conscious Tech Enthusiasts!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-jabra-talk-45-high-fidelity-sound-plus-robust-energy-sources/"><u>Inside Jabra Talk 45: High Fidelity Sound + Robust Energy Sources</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/limostudios-softbox-review-starter-lighting-choice/"><u>LimoStudio's SoftBox Review: Starter Lighting Choice</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/make-your-mark-stand-out-with-youtube-studio-editing/"><u>Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-safety-on-the-road-with-the-pruveeo-1080p-full-hd-action-camera-reviews-inside/"><u>Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-gaming-performance-when-and-how-to-update-your-gpu/"><u>Maximizing Gaming Performance: When and How to Update Your GPU</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-pro-7-review-solid-performance-refresh-but-no-big-changes/"><u>Microsoft Surface Pro 7 Review: Solid Performance Refresh, But No Big Changes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-severe-weather-with-expert-reviews-of-2024s-top-storm-tracker-apps/"><u>Navigating Severe Weather with Expert Reviews of 2024'S Top Storm Tracker Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/rise-above-ethernet-ceiling-overcome-the-windows-100mbps-limit/"><u>Rise Above Ethernet Ceiling: Overcome the Windows 100Mbps Limit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zooms-auditory-masterclass-fine-tuning-for-impeccable-audio/"><u>[New] Zoom's Auditory Masterclass Fine-Tuning for Impeccable Audio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebooks-real-time-media-watch-guide-2023/"><u>[Updated] 2024 Approved Facebook's Real-Time Media Watch Guide, 2023</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-premier-career-boosting-classes-on-linkedin-platform/"><u>2024'S Premier Career-Boosting Classes on LinkedIn Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-kindle-paperwhite-2018-book-reviewers-pick-unveiling-a-revolutionary-approach-to-digital-books/"><u>Amazon Kindle Paperwhite (2018) Book Reviewer's Pick: Unveiling a Revolutionary Approach to Digital Books</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211083373-9781608688937-bones-honey/"><u>Bones & Honey | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/diy-endless-dvd-plays-how-to-setup-your-disc-for-infinite-repetition/"><u>DIY Endless DVD Plays: How to Setup Your Disc for Infinite Repetition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-inspire-hr-247-wearable-review-your-ultimate-personal-fitness-companion/"><u>Fitbit Inspire HR 24/7 Wearable Review: Your Ultimate Personal Fitness Companion</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guia-completa-para-la-descarga-de-soluciones-sustitutas-a-synology-data-repalicator-en-windows-11/"><u>Guía Completa Para La Descarga De Soluciones Sustitutas a Synology Data Repalicator en Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-conquering-one-device-livestream-challenges-for-2024/"><u>Masterclass Conquering One-Device Livestream Challenges for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-powerful-5-way-airflow-technology-in-havits-laptop-cooler-keep-your-device-cool-while-gaming-or-streaming/"><u>Reviewing the Powerful 5-Way Airflow Technology in HAVIT's Laptop Cooler: Keep Your Device Cool While Gaming or Streaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-guide-to-using-kobo-libra-h2o-waterproof-ereader-with-a-touch-free-page-turning-experience/"><u>The Complete Guide to Using Kobo Libra H2O: Waterproof eReader with a Touch-Free Page Turning Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-and-reviewing-google-maps-on-your-iphone/"><u>The Ultimate Guide to Using and Reviewing Google Maps on Your iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/too-old-for-ios-time-for-an-update/"><u>Too Old for iOS: Time for an Update?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-substitutes-for-keepvid-discover-legitimate-downloading-platforms-for-videos-and-music/"><u>Top Substitutes for KeepVid: Discover Legitimate Downloading Platforms for Videos & Music!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-gemini-googles-latest-foray-into-advanced-ai/"><u>Unraveling the Mystery of Gemini: Google's Latest Foray Into Advanced AI</u></a></li>
 </ul></div>
 

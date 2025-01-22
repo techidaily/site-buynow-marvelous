@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
-date: 2025-01-12T08:40:03.210Z
-updated: 2025-01-15T18:40:54.396Z
+date: 2025-01-18T06:27:46.822Z
+updated: 2025-01-22T05:43:15.573Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Acer Chromebook 15 - Large Display & Solid Performance
@@ -13,13 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/4bBbqBZ05L8nvz9vJyuBsEucnSc=/400x300/fi
 
 3.4
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/HeiIUMzNfcdABm8uXby7X0Qo3dE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -69,6 +69,10 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
@@ -76,10 +80,6 @@ Lifewire / Bill Thomas
  This definitely works in the Netgear C3700’s favor. The[wireless performance](https://www.lifewire.com/ways-to-boost-a-wifi-signal-818296) is already weak (which we’ll go into a bit later), so the fact that you can leave it out and unobscured is a benefit.
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -91,6 +91,10 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -101,6 +105,10 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -108,10 +116,6 @@ Lifewire / Bill Thomas
  It is an 8x4 DOCSIS 3.0 modem, meaning it’s capable of handling internet speeds up to 340 Mbps. But that N600 wireless speed means that devices on Wi-Fi won’t be that fast. If you have a really fast internet connection like we do, it might be best to use an external wireless router.
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Network Performance: Great when wired, but wireless speeds lag
 
@@ -123,11 +127,11 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: No frills
 
@@ -145,10 +149,6 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -159,7 +159,7 @@ Lifewire / Bill Thomas
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -202,18 +202,18 @@ Lifewire / Bill Thomas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>[New] Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-breathing-life-into-your-ig-story-text-with-animation/"><u>[Updated] 2024 Approved Breathing Life Into Your IG Story Text with Animation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-us-based-vpns-with-trials-protect-your-privacy-and-bypass-blocks/"><u>Best Free US-Based VPNs with Trials: Protect Your Privacy & Bypass Blocks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/effortless-conversion-techniques-for-transforming-kindle-kfx-ebooks-into-epubpdfmobi-with-the-help-of-calibre-tool/"><u>Effortless Conversion Techniques for Transforming Kindle KFX Ebooks Into ePub/PDF/Mobi with the Help of Calibre Tool</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-angebot-macx-dvd-ripping-masterkey-bei-einem-reduzierten-preis-fugen-sie-jetzt-hinzu/"><u>Online-Angebot: MacX DVD Ripping Masterkey Bei Einem Reduzierten Preis Fügen Sie Jetzt Hinzu!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-tp-link-archer-c50-balancing-cost-and-performance-in-home-networking/"><u>The Ultimate Verdict on TP-Link Archer C50: Balancing Cost and Performance in Home Networking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transforming-mac-into-high-speed-machine-via-ssd-upgrade/"><u>Transforming Mac Into High-Speed Machine via SSD Upgrade</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-analysis-the-mavix-m9-gaming-chair-staying-cozy-through-extended-gameplay/"><u>Ultimate Analysis: The Mavix M9 Gaming Chair - Staying Cozy Through Extended Gameplay</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-2024s-miniature-mp3-players/"><u>Ultimate Guide to 2024'S Miniature MP3 Players</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleash-creativity-powershot-elph-190-insights/"><u>Unleash Creativity: PowerShot ELPH 190 Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-fitness-potential-in-depth-insights-on-the-amazfit-bip-smartwatch-for-beginners/"><u>Unlocking Fitness Potential: In-Depth Insights on the Amazfit Bip Smartwatch for Beginners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tvdvd-dvd/"><u>スムーズな手順：「TV番組のダビング方法・DVDに保存」 - DVDレコーダー使いやすいガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>[New] 2024 Approved Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-an-elite-home-computer-for-professional-4k-editing/"><u>[New] Crafting an Elite Home Computer for Professional 4K Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levating-your-content-strategy-youtube-keywords-explained/"><u>[New] Elevating Your Content Strategy YouTube Keywords Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-optimization-top-techniques-for-businesses-and-brands-for-2024/"><u>[New] Instagram Optimization Top Techniques for Businesses and Brands for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-video-call-capturing-on-devices-for-2024/"><u>[New] The Ultimate Guide to Video Call Capturing on Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-content-seo-mastery-starts-here/"><u>[Updated] Elevate Your Content SEO Mastery Starts Here!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723008761914-best-iphone-models-for-serious-gamers-a-comprehensive-guide/"><u>Best iPhone Models for Serious Gamers – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bouncie-driving-connected-reviewed-affordable-navigation-on-a-budget/"><u>Bouncie Driving Connected Reviewed: Affordable Navigation on a Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-testing-of-the-samsung-galaxy-note20-ultra-with-5g-capability/"><u>Comprehensive Testing of the Samsung Galaxy Note20 Ultra with 5G Capability</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-6s-plus-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 6s Plus to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Pova 6 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonicwrap-headphones-for-low-volume-testing/"><u>SonicWrap Headphones for Low Volume Testing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-yakuza-like-a-dragon-the-game-review-every-rpg-fan-needs-to-read/"><u>Unveiling Yakuza: Like A Dragon - The Game Review Every RPG Fan Needs to Read</u></a></li>
 </ul></div>
 

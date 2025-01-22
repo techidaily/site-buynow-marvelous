@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
-date: 2025-01-12T08:01:35.137Z
-updated: 2025-01-16T05:05:20.712Z
+date: 2025-01-14T20:06:39.788Z
+updated: 2025-01-22T04:44:22.917Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Compact Marvel - Apple iPad Mini #5
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/KrDytBTanTcHvHFz_EGmqfJ1YHg=/400x300/fi
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -43,12 +43,16 @@ Lifewire / Andy Zahn
 
 4.3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -83,10 +87,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -104,7 +104,7 @@ Lifewire / Andy Zahn
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Battery life: No worries**
@@ -121,6 +121,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -128,10 +132,6 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -148,10 +148,6 @@ Lifewire / Andy Zahn
  RAW files are rich and detailed, and[JPEG images](https://www.lifewire.com/jpeg-myths-and-facts-1701548) are well-rendered, though JPEG images do show the compression artifacts typical of point-and-shoot cameras. The built-in flash raises and lowers manually and is functional if unexceptional.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Modes: Plenty to choose from (and only some are useful)**
 
@@ -190,6 +186,10 @@ Lifewire / Andy Zahn
  There is also the option to connect to a[Canon printer](https://www.lifewire.com/best-canon-printers-4584899) and print your images directly from the camera. We found these features useful but also something of a hassle, since the process of connecting devices to the camera is pretty tedious.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
 
@@ -253,21 +253,24 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-integrating-obs-in-daily-skype-monitoring/"><u>[New] Integrating OBS in Daily Skype Monitoring</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-what-is-360-video-for-2024/"><u>[New] What Is 360° Video for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[Updated] 2024 Approved Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-from-ground-up-a-complete-evaluation-of-dji-phantom-4/"><u>[Updated] From Ground Up A Complete Evaluation of DJI Phantom 4</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-tablet-devices-based-on-central-processing-unit-capabilities/"><u>Comparing Tablet Devices Based on Central Processing Unit Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-netgear-ex3700-ac750-wireless-range-expander-evaluation/"><u>Comprehensive Netgear EX3700 AC750 Wireless Range Expander Evaluation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-moto-g-power-remarkable-durability-meets-impressive-power-management/"><u>Comprehensive Review of the Moto G Power - Remarkable Durability Meets Impressive Power Management</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-drive-samsung-galaxy-note20-ultra-5g-unboxed-and-analyzed/"><u>Comprehensive Test Drive: Samsung Galaxy Note20 Ultra 5G Unboxed & Analyzed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cyberpower-cp685avrg-unit-assessment-essential-uninterruptable-power-supply-successfully-performs/"><u>Cyberpower CP685AVRG Unit Assessment: Essential Uninterruptable Power Supply Successfully Performs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-appeal-a-critical-review-of-the-samsung-galaxy-tab-s3s-features/"><u>Decoding the Appeal - A Critical Review of the Samsung Galaxy Tab S3's Features</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-12-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 12 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/epiphany-talking-to-chatgpt-made-simple/"><u>Epiphany: Talking to ChatGPT Made Simple</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-bouncie-smart-gps-tracker-an-insightful-review-of-an-easy-to-use-and-economical-vehicle-tracking-solution/"><u>Evaluating Bouncie Smart GPS Tracker - An Insightful Review of an Easy-to-Use and Economical Vehicle Tracking Solution</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-is-it-wise-to-keep-off-facebook-activity-displayed-insights/"><u>In 2024, Is It Wise to Keep Off-Facebook Activity Displayed? Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-boosting-roi-in-fb-ads-through-animation-techniques/"><u>[New] In 2024, Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-vision-capture-expert-insights-into-video-tech/"><u>[New] In 2024, Vision Capture Expert Insights Into Video Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swift-video-transformation-with-top-8-apps/"><u>[New] Swift Video Transformation with Top 8 Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system-for-2024/"><u>[Updated] Structured Approach to Managing YouTube Videos A Complete Watch Later System for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-beginner-friendly-iphone-screen-recording-techniques/"><u>2024 Approved Beginner-Friendly Iphone Screen Recording Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonizing-hues-in-online-beauty-videos/"><u>2024 Approved Harmonizing Hues in Online Beauty Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blade-e-flite-mcx2-reviewed-leading-choice-in-pre-assembled-rc-helicopter-market/"><u>Blade E-Flite mCX2 Reviewed: Leading Choice in Pre-Assembled RC Helicopter Market</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effective-ways-to-save-your-ps4-games-for-2024/"><u>Effective Ways to Save Your PS4 Games for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-steps-for-ios-15-upgrade/"><u>Essential Steps for iOS 15 Upgrade</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-every-aspect-an-in-depth-review-of-the-highly-functional-samsung-gear-s3-frontier-smartwatch/"><u>Exploring Every Aspect: An In-Depth Review of the Highly Functional Samsung Gear S3 Frontier Smartwatch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-dynamism-of-the-ipad-mini-5-a-tiny-giants-journey-with-apple/"><u>Exploring the Dynamism of the iPad Mini 5: A Tiny Giant's Journey with Apple.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/features-and-performance-of-the-cost-effective-sony-xbr65x85f-a-4k-smart-tv-examination/"><u>Features & Performance of The Cost-Effective Sony XBR65X85^F - A 4K Smart TV Examination</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11-proplus-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Realme 11 Pro+ Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-vive-cosmos-excellent-vr-experience-amidst-tough-rivals/"><u>In-Depth Analysis of the Vive Cosmos: Excellent VR Experience Amidst Tough Rivals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphones-and-gifs-perfecting-your-visual-playlist-for-2024/"><u>IPhones & GIFs Perfecting Your Visual Playlist for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-examined-an-overpriced-unstable-tablet-alternative/"><u>Microsoft Surface Duo Examined: An Overpriced, Unstable Tablet Alternative</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-common-fixes-for-my-blocky-friends-lan-not-working-situation/"><u>Solved: Common Fixes for My Blocky Friends' LAN Not Working Situation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-asus-zenwifi-xt8-ax6600-revolutionizing-home-wi-fi-networks/"><u>The Ultimate Guide to ASUS ZenWiFi XT8 AX6600: Revolutionizing Home Wi-Fi Networks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-best-features-of-the-maisto-remote-controlled-rock-crawler-a-fun-and-educational-toy-for-kids-and-adults/"><u>Unveiling the Best Features of the Maisto Remote Controlled Rock Crawler - A Fun and Educational Toy for Kids & Adults</u></a></li>
 </ul></div>
 

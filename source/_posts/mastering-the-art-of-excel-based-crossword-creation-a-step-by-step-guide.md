@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide"
-date: 2025-01-12T20:11:21.801Z
-updated: 2025-01-15T23:28:15.461Z
+date: 2025-01-18T07:39:31.996Z
+updated: 2025-01-22T05:21:06.815Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ---
 
 ## Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  I'm going to run through how I create a crossword using Excel, but you can use any spreadsheet program, such as Google Sheets, to do the same thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Create Your Grid
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  Then, select the area that will form your crossword grid, and in the Home tab on the ribbon, open the borders drop-down (grid icon) and click "All Borders."
 
 ![An Excel grid with 'All Borders' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/all-borders-on-grid.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 2: Add Your Words
 
@@ -61,17 +61,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  In my experience, the most challenging part of this process is making the crossword symmetrical—but it's worth it. In the end, you'll have an aesthetically pleasing and professional crossword. You can aim for one line of symmetry (such as the left matching the right), or two lines of symmetry (by making the top mirror the bottom, and the left mirror the right). In my example, I'm going to use two. Start in the top-left corner with a long word downwards and a long word across, and then mirror that structure in the top-right corner. Then, do the same in the bottom corners. Now, any time you add a word stemming from one corner, mirror it in all four corners.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  But Don't Add Words for the Sake Of It
 
  Making your crossword symmetrical and trying to fill your grid with as many words as possible can tempt you into squeezing in words that you know, deep down, you're not happy with. Writing a crossword often involves taking two steps forward and one step back—don't be afraid to re-craft an area of your puzzle so that you're completely happy with the outcome.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Limit Short Words
 
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ###  Words to Avoid
 
  Don't obscure words that people mightn't have encountered before. Getting your quizzer to correctly guess a tiny village in Sweden or a nineteenth-century Japanese art form will simply demotivate them and raise concerns about the solvability of your puzzle. Instead, you can use interesting words that come up in everyday life to fill in parts of the challenging words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Think About Your Clues
 
@@ -93,12 +89,16 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 4: Add Your Numbers
@@ -107,11 +107,11 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
 
- This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
 
 ##  Step 5: Write Your Clues
 
@@ -137,16 +137,16 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
 
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
@@ -172,18 +172,22 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>[Updated] In 2024, Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ebook-enthusiasts-guide-deciding-between-apple-ipad-amazon-kindle-and-barnes-and-noble-nook/"><u>EBook Enthusiasts' Guide: Deciding Between Apple iPad, Amazon Kindle & Barnes & Noble NOOK</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/epic-showdown-reviewing-the-playful-action-and-strategy-of-plants-vs-zombies-in-battle-for-neighborhood/"><u>Epic Showdown: Reviewing the Playful Action and Strategy of Plants Vs. Zombies in 'Battle for Neighborhood'</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exclusive-samsung-galaxy-s20-fe-5g-analysis-top-pick-for-5g-enthusiasts/"><u>Exclusive Samsung Galaxy S20 FE 5G Analysis - Top Pick for 5G Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-standout-features-a-detailed-appraisal-of-the-huion-inspiroy-g10t-tablets-excellence-and-durability/"><u>Exploring the Standout Features: A Detailed Appraisal of the Huion Inspiroy G10T Tablet's Excellence and Durability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gotrax-gxl-v2-commuting-electric-scooter-review-fast-urban-scooter/"><u>GOTRAX GXL V2 Commuting Electric Scooter Review: Fast, Urban Scooter</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/grand-escapades-in-yokus-island-express-an-in-depth-game-experience-review/"><u>Grand Escapades in Yoku's Island Express: An In-Depth Game Experience Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-counter-facebooks-instantaneous-deletion-of-videos/"><u>In 2024, How to Counter Facebook's Instantaneous Deletion of Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-magix-paintbox-assessment-the-reveal/"><u>In 2024, MAGIX Paintbox Assessment The Reveal</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-audio-and-video-quality-during-zoom-recordings/"><u>In 2024, Optimizing Audio & Video Quality During Zoom Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/innovation-in-viewing-top-5-webcams-recommended-for-gamers/"><u>Innovation in Viewing Top 5 Webcams Recommended for Gamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-user-location-monitoring-a-comprehensive-guide/"><u>IPhone User Location Monitoring – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/spotlight-on-songbookdbs-enhanced-dj-collaboration-functionality/"><u>Spotlight on SongBookDB's Enhanced DJ Collaboration Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[New] 2024 Approved Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comprehensive-insights-into-imovie-techniques-for-youtube-creators/"><u>[New] In 2024, Comprehensive Insights Into iMovie Techniques for YouTube Creators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>[Updated] Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-privacy-first-the-leading-storywatchers-for-2024/"><u>[Updated] Privacy-First The Leading Storywatchers for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-look-at-the-glion-dolly-electric-scooter-balancing-speed-sophistication-and-spending/"><u>A Comprehensive Look at the Glion Dolly Electric Scooter: Balancing Speed, Sophistication & Spending</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/alienware-aurora-r7-assessment-high-performance-at-steep-costs/"><u>Alienware Aurora R7 Assessment: High-Performance at Steep Costs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-review-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Review: The Ultimate Family Entertainment Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converti-gif-a-formato-flv-free-online-con-movavi/"><u>Converti GIF a Formato FLV Free Online Con Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gameplay-on-the-asus-vg245h-the-ultimate-gamers-monitor/"><u>Elevate Your Gameplay on the Asus VG245H – The Ultimate Gamer's Monitor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-tech-game-with-skagen-falster-2-a-posh-alternative-to-the-classic-apple-device/"><u>Elevate Your Tech Game with Skagen Falster 2, a Posh Alternative to the Classic Apple Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/extreme-focus-powerhouse-discover-nikons-coolpix-p1000/"><u>Extreme Focus Powerhouse – Discover Nikon's COOLPIX P1000</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-access-complete-high-res-downloads-from-the-2021-mtv-video-music-awards-best-clips-collection/"><u>Free Access: Complete High-Res Downloads From the 2021 MTV Video Music Awards Best Clips Collection</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c02-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C02</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/test-drive-review-the-glion-dolly-expensive-elaborate-and-swift-movement-unveiled/"><u>Test Drive Review: The Glion Dolly - Expensive, Elaborate, and Swift Movement Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-merit-of-paying-for-hulu-services/"><u>Unpacking the Merit of Paying For Hulu Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-file-resurrection-4-steps-to-success/"><u>Video File Resurrection: 4 Steps to Success</u></a></li>
 </ul></div>
 

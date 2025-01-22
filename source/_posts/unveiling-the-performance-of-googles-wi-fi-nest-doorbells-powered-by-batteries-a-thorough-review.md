@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Performance of Google's Wi-Fi Nest Doorbells Powered by Batteries: A Thorough Review"
-date: 2024-08-09T00:43:58.808Z
-updated: 2024-08-10T00:43:58.808Z
+date: 2025-01-20T11:23:22.702Z
+updated: 2025-01-21T18:13:59.054Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Performance of Google's Wi-Fi Nest Doorbells Powered by Batteries: A Thorough Review"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/dIY3bLJSRioBJmHFFCGQjcgcxbU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -38,9 +42,6 @@ Lifewire / Gannon Burgett
 
 ## Apple iMac 21.5-inch 4K
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
 
 Lifewire / Gannon Burgett
@@ -67,12 +68,13 @@ Lifewire / Gannon Burgett
 
  Apple is no stranger to creating minimal devices, but the 21.5-inch 4K iMac takes things to a whole new level with a screen that pops and a design that looks stylish no matter the setting. As beautiful as it is on the outside, under the hood you also have a solid set of components with a 3.4GHz 7th generation quad-core Intel Core i5 CPU, 8GB RAM, and 1TB Fusion Drive. Apple has managed to pack quite a bit of power inside the slender frame. We put it to the test to see how it fares for multimedia and productivity uses.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/TCcSm-nkER9HhHM8YIPMWbaezRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-4-fa6cf253bfd44ab991c366691b68bdf5.jpg)
 
  Lifewire / Gannon Burgett
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Beautiful, with room for improvements**
 
@@ -86,16 +88,10 @@ Lifewire / Gannon Burgett
 
  We would’ve liked to see a thinner bezel around the screen, as the one present on the iMac is about half an inch — much larger than even the most basic PC monitors. It’d be a bit different if Apple were doing more with that real estate, but as it stands, it feels like wasted space
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/gM_JxuZjDbSUs7DYtXIwUIqqz0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-3-d30c5f8414e94cbd9b1ec8aea9b18950.jpg)
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: One plug and you’re good to go**
 
  One of Apple’s core tenets is simplicity, and the 4K iMac is no exception to this rule. Inside the box is the computer itself and a box which contains the Magic Keyboard and Magic Mouse 2\. Additional components include the power connection for the computer, a Lightning cable for charging the mouse and keyboard, and a small package of documentation.
@@ -103,6 +99,10 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -119,8 +119,9 @@ Lifewire / Gannon Burgett
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Impressive performance from an all-in-one**
 
  Our particular iMac model for this review was the 3.4GHz quad-core Intel Core i5 iMac with 8GB of RAM and a 1TB Fusion Drive.
@@ -137,30 +138,24 @@ Lifewire / Gannon Burgett
 
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Network: Fast and reliable**
 
  The 21.5-inch 4K iMac features both wired and wireless connectivity for internet access. As previously mentioned, the iMac features a Gigabit Ethernet (RJ-45) port on the rear of the computer for a hardwired internet connection. For Wi-Fi, the iMac uses an 802.11ac network adapter with support for IEEE 802.11a/b/g/n.
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **Camera: Decent built-in option for basic tasks**
 
  The only camera on the 4K iMac is the integrated webcam, which sits dead center above the display. We would’ve liked to see a 1080p or even 4K webcam included, but the 720p resolution is good enough for basic video messaging.
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Everything you need and nothing more**
 
  As with all Apple computers, the 21.5-inch 4K iMac comes with macOS Mojave pre-installed. If you’re used to macOS as a whole, you’ll feel right at home as we did. Compared to past versions of macOS, Mojave improves in a number of areas, including an integrated Dark mode that turns much of the user interface dark grey to spare your eyes. There’s also a feature called “Stacks” that intelligently combines files of the same type on your[desktop](https://www.lifewire.com/best-desktop-pcs-4045927) . Improved[screenshot functionality](https://www.lifewire.com/what-is-a-screenshot-1701742) also makes snapping your screen easier.
@@ -169,11 +164,19 @@ Lifewire / Gannon Burgett
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -193,9 +196,6 @@ Lifewire / Gannon Burgett
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
@@ -218,14 +218,11 @@ Lifewire / Gannon Burgett
 * Connections  3.5 mm headphone jack, SDXC card slot, Four USB 3 ports (compatible with USB 2), Two Thunderbolt 3 (USB-C) ports, 10/100/1000BASE-T Gigabit
 * What’s in the box  21.5‑inch iMac with Retina 4K display Magic Keyboard Magic Mouse 2 Power cord Lightning to USB Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,3 +230,24 @@ Lifewire / Gannon Burgett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-enhance-video-rankings-on-youtube-through-seo/"><u>[Updated] 2024 Approved How to Enhance Video Rankings on YouTube Through SEO</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-the-art-of-capturing-live-cricket-action/"><u>[Updated] 2024 Approved Mastering the Art of Capturing Live Cricket Action</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-ipad-recording-tools-3-edition/"><u>[Updated] Essential iPad Recording Tools #3 Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-from-silent-screens-to-captivating-media-instantly-create-captions-on-fb-for-2024/"><u>[Updated] From Silent Screens to Captivating Media Instantly Create Captions on FB for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2021-echo-show-5th-generation-review-exceptional-advancements-unveiled/"><u>2021 Echo Show 5Th Generation Review: Exceptional Advancements Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-the-pros-and-cons-of-lenovos-tablet-p11-pro/"><u>A Comprehensive Review: The Pros and Cons of Lenovo's Tablet, P11 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-side-by-side-look-at-echo-dot-and-apples-homepod-mini-who-wins/"><u>A Side-by-Side Look at Echo Dot and Apple's HomePod Mini - Who Wins?</u></a></li>
+<li><a href="https://win-special.techidaily.com/accelerating-your-pcs-speed-a-comprehensive-guide-by-yl-computing-unlock-the-secrets-of-system-optimization/"><u>Accelerating Your PC's Speed: A Comprehensive Guide by YL Computing - Unlock the Secrets of System Optimization</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-at-work-the-ultimate-review-of-microsoft-sculpt-ergonomic-keyboards/"><u>Affordable Luxury at Work: The Ultimate Review of Microsoft Sculpt Ergonomic Keyboards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-6-review-a-modest-upgrade-but-still-the-best/"><u>Apple Watch Series 6 Review: A Modest Upgrade, But Still the Best</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-sony-dsc-w800s-strong-features-and-economic-design/"><u>Assessing the Sony DSC-W800's Strong Features and Economic Design</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-13-ultra-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 13 Ultra Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-horizontality/"><u>Perfecting Visual Horizontality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Phone Hassle-Free</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-you-need-the-samsung-qn55q6rafxza-the-best-in-4k-uhd-smart-capabilities-and-hdr10plus/"><u>Why You Need the Samsung QN55Q6#RAFXZA - The Best in 4K UHD, Smart Capabilities & HDR10+</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6?</u></a></li>
+</ul></div>
+

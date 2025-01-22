@@ -1,7 +1,7 @@
 ---
 title: Exploring the Skies with Syma 19A64MRC - An Economical RC Helicopter Journey
-date: 2024-08-09T00:43:57.806Z
-updated: 2024-08-10T00:43:57.806Z
+date: 2025-01-21T10:18:00.710Z
+updated: 2025-01-22T00:35:33.677Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Skies with Syma 19A64MRC - An Economical RC Helicopter Journey
@@ -13,23 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/P-8UxsMZel3cjt1hVtk4iOKfgsw=/400x300/fi
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
 Lifewire / Jonno Hill
@@ -52,12 +37,13 @@ Lifewire / Jonno Hill
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -85,10 +71,11 @@ Lifewire / Jonno Hill
 
  How has HP reconciled all these things, and what does it mean for potential owners? Let’s take a look at the performance, build quality, and usability of this space-conscious gaming desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -116,9 +103,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -139,12 +123,13 @@ Lifewire / Jonno Hill
 
  Lastly, I ran the notoriously resource-heavy Deus Ex: Mankind Divided using a few different profiles. On Ultra settings, the OMEN Obelisk saw just 55.7fps on average, with a minimum of 44.6fps and a maximum of 61.6fps. Dialing things down one level to Very High, things looked only slightly rosier: 58.1fps average, 49.5fps minimum, 62.2fps maximum. Finally, turning it down one more level to High found a sweet spot: 75.8fps average, 62.8fps minimum, 96.6 FPS maximum.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
@@ -152,9 +137,6 @@ Lifewire / Jonno Hill
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Just enough options**
 
  The HP OMEN Obelisk comes with the OMEN Command Center, which is used to manage your desktop as well as any other OMEN products such as headsets, keyboards, and mice. From here, you have the option to click on your desktop and start managing your PC or choose from one of the various other options such as rewards, coaching, remote play, and My Games (a game launcher).
@@ -166,8 +148,9 @@ Lifewire / Jonno Hill
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -177,6 +160,10 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -189,6 +176,10 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -209,14 +200,11 @@ Lifewire / Jonno Hill
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -224,3 +212,25 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-forging-a-massive-online-following-on-facebook-for-2024/"><u>[New] Forging a Massive Online Following on Facebook for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-retro-tech-treasure/"><u>[Updated] 2024 Approved Retro Tech Treasure</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-evaluating-the-superiority-of-splitcams-recording/"><u>[Updated] Evaluating the Superiority of SplitCam's Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-maintaining-meetings-in-google-recorder/"><u>[Updated] Maintaining Meetings in Google Recorder</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos-for-2024/"><u>[Updated] Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/future-worlds-at-our-fingertips-discovering-the-reality-of-metaverse-on-facebook/"><u>Future Worlds at Our Fingertips: Discovering The Reality of Metaverse on Facebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x12-reveal-a-top-tier-2-in-1-device-with-exceptional-keyboard-quality/"><u>In-Depth Lenovo ThinkPad X12 Reveal: A Top-Tier 2-in-1 Device with Exceptional Keyboard Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/intelligent-display-meets-elegance-comprehensive-review-of-samsungs-un65ru8000fxza-television/"><u>Intelligent Display Meets Elegance: Comprehensive Review of Samsung's UN6^5RU8000FXZA Television</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-mesh-networking-solutions-reviewed/"><u>Leading Mesh Networking Solutions Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lower-volume-level-by-level-with-fl-for-2024/"><u>Lower Volume Level by Level with FL for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-preview-on-mac-unlocking-the-power-of-your-built-in-image-editor/"><u>Mastering Preview on Mac: Unlocking the Power of Your Built-In Image Editor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendos-two-titans-clash-unveiling-the-differences-between-switch-lite-and-oled-versions/"><u>Nintendo's Two Titans Clash: Unveiling the Differences Between Switch Lite and OLED Versions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premier-basketball-emulation-nba-2k19-unveiled/"><u>Premier Basketball Emulation: NBA 2K19 Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professionals-guide-to-iphoneandroiddslr-stabilized-gimbal-leaders/"><u>Professional's Guide to iPhone/Android/DSLR Stabilized Gimbal Leaders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/regular-maintenance-is-essential-to-prevent-wear-and-ensure-efficient-operation/"><u>Regular Maintenance Is Essential to Prevent Wear and Ensure Efficient Operation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-value-packed-hisense-50h8f-big-screen-big-savings-in-4k-hdr-quality/"><u>Review of the Value-Packed Hisense 50H8F: Big Screen, Big Savings in 4K HDR Quality</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/story-3-the-confident-agriculturist-answer-d/"><u>Story 3: The Confident Agriculturist (Answer D)</u></a></li>
+</ul></div>
+

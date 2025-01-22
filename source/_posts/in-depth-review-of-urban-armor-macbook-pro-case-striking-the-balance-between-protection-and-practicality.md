@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review of Urban Armor MacBook Pro Case: Striking the Balance Between Protection and Practicality"
-date: 2024-08-09T00:43:57.871Z
-updated: 2024-08-10T00:43:57.871Z
+date: 2025-01-17T22:40:05.879Z
+updated: 2025-01-21T23:10:52.169Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Review of Urban Armor MacBook Pro Case: Striking the Balance Between Protection and Practicality"
@@ -14,20 +14,16 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 3.6
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/bJGZVvLPIuXJptw8uPYtObxbpMQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -53,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
  Lifewire / Zach Sweat
@@ -80,18 +73,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
 
  Lifewire / Zach Sweat
@@ -108,11 +93,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -120,9 +113,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
  This section is perhaps the most important for a TV, and while the XBR65X850F performs pretty well in some aspects here, it also has a few weak points.
@@ -147,18 +137,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: A bit sluggish but good enough**
 
  Android TV has come a long way since its debut, but not all TVs are getting timely updates, and these lower-end Sony TVs are notoriously slow for this. While some TVs are already running Android TV 9.0, many are stuck with older versions.
@@ -174,8 +158,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -183,6 +168,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -216,14 +205,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * Speakers  2 full range, 2ch
 * Connectivity Options  4 HDMI
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -231,3 +217,27 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-brands-instagram-presence-with-these-hacks/"><u>[New] 2024 Approved Elevate Your Brand's Instagram Presence with These Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-zd-soft-screen-recorder-a-comprehensive-handbook/"><u>[New] Mastering ZD Soft Screen Recorder A Comprehensive Handbook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-your-digital-creations-selecting-top-7-nft-generating-platforms/"><u>[Updated] Master Your Digital Creations - Selecting Top 7 NFT-Generating Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unrivaled-tale-composers-hub/"><u>2024 Approved Unrivaled Tale Composers Hub</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyydx/"><u>ABBYYによる世界的なデジタル変革(DX)現状分析プロジェクト</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-newest-features-in-the-samsung-galaxy-tab-s5e-why-it-stands-out/"><u>Comprehensive Guide to the Newest Features in the Samsung Galaxy Tab S5e - Why It Stands Out</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-watch-active-assessment-your-go-to-companion-for-health-and-fitness/"><u>Comprehensive Samsung Galaxy Watch Active Assessment: Your Go-To Companion for Health and Fitness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-toshiba-55lf711u20-55-fire-tv-edition-guide-a-top-pick-for-prime-subscribers/"><u>Comprehensive Toshiba 55LF711U20 55 Fire TV Edition Guide - A Top Pick for Prime Subscribers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-insights-in-mac-video-format/"><u>Customer Insights in Mac Video Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/desktop-recording-battle-go-with-obs-or-shadowplay-for-2024/"><u>Desktop Recording Battle Go with OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-top-rated-travelers-wireless-internet-devices-of-202n4/"><u>Discover the Top Rated Traveler's Wireless Internet Devices of 202N4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-value-in-the-samsung-galaxy-a2e-thorough-budget-phone-review/"><u>Discovering Value in the Samsung Galaxy A2e: Thorough Budget Phone Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gaming-experience-finding-the-ideal-spot-for-your-ps4-webcam/"><u>Elevate Your Gaming Experience: Finding the Ideal Spot for Your PS4 Webcam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-roundup-explore-our-list-of-the-8-greatest-mobile-games/"><u>Essential Roundup: Explore Our List of the 8 Greatest Mobile Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/eufys-revolutionary-t8200-a-detailed-analysis-of-a-subscription-free-video-doorbell/"><u>Eufy's Revolutionary T8200: A Detailed Analysis of a Subscription-Free Video Doorbell</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-suminds-bt70b-for-automobile-audio-connectivity/"><u>Expert Analysis on Sumind's BT70B for Automobile Audio Connectivity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-v30-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme V30 Phone with Broken Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-smart-8-hd-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Smart 8 HD to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
+

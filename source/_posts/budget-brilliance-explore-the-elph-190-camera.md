@@ -1,7 +1,7 @@
 ---
 title: "Budget Brilliance: Explore the ELPH 190 Camera"
-date: 2024-08-09T00:43:59.493Z
-updated: 2024-08-10T00:43:59.493Z
+date: 2025-01-15T03:02:09.668Z
+updated: 2025-01-21T18:48:36.335Z
 categories:
   - BestProducts
 description: "This Article Describes Budget Brilliance: Explore the ELPH 190 Camera"
@@ -13,15 +13,13 @@ thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Logitech C615 HD Laptop Webcam
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgH6j34_PXXE9fO2vS4Nr4d3pSM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / James Huenink
 
@@ -42,9 +40,6 @@ Lifewire / James Huenink
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
@@ -71,6 +66,10 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/86PZ5XCiq91ihr7-8UNmM5io9pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_4_Final_Horiz-bad356a5002b4156859dca672e8a8eb4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 ## **Design:** **Flexible, foldable design**
@@ -87,9 +86,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -104,31 +100,24 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
 
  When we used Skype to make calls everything worked great. The HD camera made the video look great, and video and sound were in sync. Close up, the sound was clear but with a thin, distorted tone. From 10 feet away, we heard only a small amount of echo in the call. We also tried using the camera mic with video game noise in the background. The camera clearly caught our voices and downplayed the background noise, helping us focus on what we wanted to hear.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/C2UBXNFmxG8nA0udy1IprMH4LBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_9_Final_Horiz-1af52951f8704af9b76d7dd1ec9744a9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Inexpensive HD camera**
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
@@ -150,8 +139,9 @@ Lifewire / James Huenink
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  C615 HD Laptop Webcam
@@ -175,11 +165,26 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-influencing-the-masses-powerful-tags-for-daily-engagement/"><u>[New] 2024 Approved Influencing the Masses Powerful Tags for Daily Engagement</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revisiting-radeon-review-and-restore-for-2024/"><u>[New] Revisiting Radeon Review and Restore for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-4-ways-to-enhance-fb-live-recording-for-2024/"><u>[Updated] Expert Tips 4 Ways to Enhance FB Live Recording for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-best-meme-photo-editor/"><u>2024 Approved Best Meme Photo Editor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-non-functional-hyperx-cloud-mic/"><u>Common Problems and Solutions for Non-Functional HyperX Cloud Mic</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hitman-trilogy-conclusion-reviewed-masterful-closure/"><u>Hitman Trilogy Conclusion Reviewed: Masterful Closure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maistos-ultimate-rc-rock-crawler-experience-a-great-toy-for-families-to-bond-over/"><u>Maisto's Ultimate RC Rock Crawler Experience: A Great Toy for Families to Bond Over!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/no-nonsense-high-speed-inside-the-sleek-design-of-aukeys-usb-30-hub/"><u>No-Nonsense, High-Speed: Inside the Sleek Design of Aukey's USB 3.0 Hub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/qualitatsbewusste-avi-video-komprimierung-auf-windows-10-einfache-schritte-fur-optimale-ergebnisse/"><u>Qualitätsbewusste Avi-Video-Komprimierung Auf Windows 10: Einfache Schritte Für Optimale Ergebnisse</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-unexpected-sites-in-screen-time-on-iphone/"><u>Solving the Issue: Unexpected Sites in Screen Time on iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-bypass-difficulty-in-installing-version-22h2-of-win11-updater/"><u>Techniques to Bypass Difficulty in Installing Version 22H2 of Win11 Updater</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-performance-unleashed-comprehensive-analysis-of-nvidia-shield-tv-pro-for-gamers/"><u>Top Performance Unleashed: Comprehensive Analysis of NVIDIA Shield TV Pro for Gamers</u></a></li>
+</ul></div>
+

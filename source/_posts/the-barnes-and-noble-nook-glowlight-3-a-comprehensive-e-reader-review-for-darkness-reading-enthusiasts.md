@@ -1,7 +1,7 @@
 ---
 title: The Barnes & Noble Nook GlowLight 3 - A Comprehensive E-Reader Review for Darkness Reading Enthusiasts
-date: 2024-08-09T00:43:58.556Z
-updated: 2024-08-10T00:43:58.556Z
+date: 2025-01-19T22:41:37.083Z
+updated: 2025-01-22T01:18:40.266Z
 categories:
   - BestProducts
 description: This Article Describes The Barnes & Noble Nook GlowLight 3 - A Comprehensive E-Reader Review for Darkness Reading Enthusiasts
@@ -13,12 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/m3GxIESHk0YscVU0ewhWpb46sdM=/400x300/fi
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -40,12 +41,12 @@ Lifewire / Todd Braylor
 
 3.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Escort Passport S55
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
 
 Lifewire / Todd Braylor
@@ -79,6 +80,10 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy installation**
 
  The S55 is straightforward and easy to install. Simply stick the windshield mount in place and plug the SmartCord lighter adapter into your car's DC cigarette lighter input. Plugging the modular jack into the S55 will automatically power on the radar detector and you can quickly customize settings for display brightness, detector sensitivity levels, and volume. Then you're ready to hit the road.
@@ -86,8 +91,9 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Range: Impressive detection**
 
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
@@ -95,8 +101,9 @@ Lifewire / Todd Braylor
  It reliably delivers on its promise of long-distance sensitivity.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Not exactly enhanced**
 
  The S55 has different modes designed to adjust to specific frequency bands and sensitivity levels for city or highway driving. You can quickly customize the settings by using the included quick reference guide. You can also turn off specific frequency bands if they tend to give a lot of false alerts.
@@ -105,18 +112,12 @@ Lifewire / Todd Braylor
 
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Price: You get what you pay for**
 
  With an MSRP of $128, the Passport S55 is a low-end radar detector priced accordingly. More advanced radar detectors can easily be several hundred dollars more expensive, and the S55 is a good deal if you plan to use it primarily on the highway. Door-openers along the city and commercial roads will frequently trigger false alerts. You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
  A popular competitor brand to Escort that makes a wide selection of radar detectors is Uniden. The Uniden DFR9 (view on[Amazon](https://www.amazon.com/Uniden-DFR9-Detection-Cameras-Display/dp/B07F6PZXHM/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7C) ) is a model that can be considered the next price tier above the S55\. The DFR9's MSRP is $300 but it can often be found on sale for about $270.
@@ -149,11 +150,31 @@ Lifewire / Todd Braylor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-11-innovative-steps-toward-perfect-post-production-colorwork/"><u>[New] In 2024, 11 Innovative Steps Toward Perfect Post-Production Colorwork</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/echniques-to-brighten-up-your-content-creation-spaces/"><u>[New] Techniques to Brighten Up Your Content Creation Spaces</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-tiktok-unboxers-playbook-for-likes/"><u>[New] The Ultimate TikTok Unboxer's Playbook for Likes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-artistry-your-ultimate-companion-for-boomerangs/"><u>Crafting Artistry Your Ultimate Companion for Boomerangs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-impressive-instagram-story-bokeh-art/"><u>Crafting Impressive Instagram Story Bokeh Art</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-modestly-priced-dell-inspiron-3671-pc/"><u>Exploring the Features of the Modestly Priced Dell Inspiron 3671 PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lenovo-chromebook-duet-a-low-cost-tabletlaptop-fusions-performance-overview/"><u>Exploring the Lenovo Chromebook Duet - A Low-Cost Tablet/Laptop Fusion's Performance Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-realm-of-monster-hunter-world-a-guide-to-battling-ferocious-creatures/"><u>Exploring the Realm of Monster Hunter: World – A Guide to Battling Ferocious Creatures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphone-dealing-with-the-notorious-black-screen-of-death/"><u>Fix Your iPhone: Dealing with the Notorious 'Black Screen of Death'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-venu-uncovered-innovative-features-for-constant-fitness-and-wellbeing-tracking/"><u>Garmin Venu Uncovered: Innovative Features for Constant Fitness and Wellbeing Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hands-on-with-the-latest-tech-marvel-a-look-at-samsung-galaxy-s24-ultras-first-encounter/"><u>Hands-On with the Latest Tech Marvel: A Look at Samsung Galaxy S24 Ultra's First Encounter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-cutting-edge-mac-accessory-visionplussound-capturing/"><u>In 2024, Cutting-Edge Mac Accessory Vision+Sound Capturing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-samsungs-55-inch-ru7300-smart-tv-with-curved-screen-a-worthy-review/"><u>In-Depth Analysis of Samsung's 55-Inch RU7300 Smart TV with Curved Screen - A Worthy Review!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-radpowers-powerful-radcity-5-plus-a-heavyweight-contender-in-e-bikes/"><u>In-Depth Review: RadPower's Powerful RadCity 5 Plus - A Heavyweight Contender in E-Bikes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-explore-the-features-of-the-arlo-smart-security-solution/"><u>Interactive Guide: Explore the Features of the Arlo Smart Security Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-obstacles-in-evil-genius-2-expert-advice/"><u>Overcoming Launch Obstacles in Evil Genius 2: Expert Advice</u></a></li>
+</ul></div>
+

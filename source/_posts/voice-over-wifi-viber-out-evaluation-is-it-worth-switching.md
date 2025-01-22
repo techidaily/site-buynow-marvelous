@@ -1,7 +1,7 @@
 ---
 title: "Voice over WiFi (Viber Out) Evaluation: Is It Worth Switching?"
-date: 2024-08-09T00:43:57.553Z
-updated: 2024-08-10T00:43:57.553Z
+date: 2025-01-17T05:17:56.127Z
+updated: 2025-01-22T02:32:38.869Z
 categories:
   - BestProducts
 description: "This Article Describes Voice over WiFi (Viber Out) Evaluation: Is It Worth Switching?"
@@ -13,12 +13,17 @@ thumbnail: https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nintendo Switch Lite
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/ELScEGCr-PHwUavU-zwNQVSC8z8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nintendo-Switch-Lite-1-66fc3642c4d448b18f4a0775c059247d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -42,10 +47,11 @@ Lifewire / Zach Sweat
 
 ## Nintendo Switch Lite
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/ral6yRtba1CN2dg2W4Log4OcjAg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nintendo-Switch-Lite-1-66fc3642c4d448b18f4a0775c059247d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -71,10 +77,11 @@ Lifewire / Zach Sweat
 
  Although I appreciate what Nintendo has done here with the Lite, a few key missing features might not make it the optimal choice for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/EUqklfDyxuB1ye8-DBboDrjzkUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-2-225f5107c7b74f159afecba8c3f6174a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -102,9 +109,6 @@ Lifewire / Zach Sweat
 
  There’s still the issue with the USB-C port sticking straight out of the bottom, making it hard to sit flat against something, but this is somewhat less annoying since you’ll likely be holding it while gaming. Unfortunately, the Lite does not fit into the dock that came with a Switch. If you want to charge it, you have to plug it directly into the included[USB-C charger](https://www.lifewire.com/best-usb-c-chargers-4155815) or the one on a regular Switch, as they’re the same.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7502vZ1Vh2D4nRux6hEnq4BL3Rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-5-2fb7aa309cc54dd79c07bd799ef7fe84.jpg)
 
  Lifewire / Zach Sweat
@@ -137,9 +141,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Performance: Decent for mobile gaming, but no FHD**
 
  Much like the original Switch, the Lite is by no means a powerhouse console sporting top-of-the-line graphics and hardware. That said, it doesn't necessarily need to be. The Switch Lite performs similarly to its larger counterpart while in handheld mode, but let's delve into specifics.
@@ -174,12 +175,13 @@ Lifewire / Zach Sweat
 
  All said and done, the performance is excellent for single-player experiences on the Switch Lite, with online multiplayer trailing behind but perfectly functional. Local multiplayer is easily one of the biggest strengths of the original Switch and our favorite aspect. However, the methods used to create a more portable console with the Lite also severely hurt its viability.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/KxMaFgooi4rm3qbImmLKatuUtVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-4-ef84dbbbde3d48ff97515e5c6b9981a4.jpg)
 
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Still a bit drab, but smooth and snappy**
 
@@ -199,6 +201,10 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery Life: Slightly better, but not the best**
 
  Battery life on the original Switch was just okay, to put it lightly, but typically you were lucky to get anything over 3 hours of screen time with most titles. It eventually received a bigger battery in a minor hardware revision, which helped. The Switch Lite has a slightly smaller battery than the revised Switch but also has lower power needs due to its small screen.
@@ -213,21 +219,19 @@ Lifewire / Zach Sweat
 
  Lastly, the battery is internal, so you can't easily pop in a new one when it starts to degrade. While I haven't seen any degradation with mine, it'll happen at some point. When it does, sending it to Nintendo for repair is the only real option.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Inexpensive console gaming in your hands**
 
  It’s no surprise that since Nintendo removed many features from the Switch to create the Lite model, the price has also decreased considerably. The Switch is already at a pretty sweet price of $300, so how does the Lite stack up?
 
  The Switch Lite has an MSRP of $200, which is a pretty good value. It plays all the same games as the original Switch at a significantly lower price and is much more portable. You do lose the ability to dock it; for some people, that feature will be worth the extra $100.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7XA6hgAK2B4hDSlWdmB8VQddrjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-7-Comparison-44dcf88ec51247a2b0756445a3c7884d.jpg)
 
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Nintendo Switch Lite vs. Nintendo Switch**
 
@@ -249,9 +253,6 @@ Lifewire / Zach Sweat
 
  Despite being stripped of some of the Switch’s more unique features and strengths, the Switch Lite is a perfect console for gamers on the go or those who prefer handheld. It features an extensive library of exclusives that are perfect for a highly mobile system like Animal Crossing—and it’s hard to argue with the price.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 [Nintendo Switch Review](https://www.lifewire.com/nintendo-switch-review-4707563)
@@ -285,11 +286,30 @@ Lifewire / Zach Sweat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-discovering-whos-watching-your-videos/"><u>[New] 2024 Approved Discovering Who's Watching Your Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-choosing-the-best-platforms-for-watching-cricket-live/"><u>[New] Expert Insights Choosing the Best Platforms for Watching Cricket LIVE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-raspberry-router-image-maker/"><u>[New] Raspberry Router Image Maker</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-matchmake-for-maximum-viewership-on-youtube-for-2024/"><u>[Updated] How to Matchmake for Maximum Viewership on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagrams-puzzling-video-turning-behavior/"><u>2024 Approved Instagram's Puzzling Video Turning Behavior</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/complete-strategies-effective-tactics-to-safeguard-and-transfer-your-hotmail-correspondence-list/"><u>Complete Strategies: Effective Tactics to Safeguard and Transfer Your Hotmail Correspondence List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-a-dynamic-approach-to-tailored-web-experiences/"><u>Cookiebot-Enhanced: A Dynamic Approach to Tailored Web Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-secret-to-viral-youtube-success-for-2024/"><u>The Artisan's Secret to Viral YouTube Success for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mohu-blade-revolutionary-indoor-antenna-with-a-distinctive-look/"><u>The Ultimate Guide to the Mohu Blade - Revolutionary Indoor Antenna with a Distinctive Look</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-clearstream-2vs-hdtv-antenna-outstanding-signal-in-an-unattractive-build/"><u>The Ultimate Review of ClearStream 2V's HDTV Antenna - Outstanding Signal in an Unattractive Build</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-apple-offers-on-prime-day-exclusive-discounts-and-savings/"><u>Top Apple Offers on Prime Day: Exclusive Discounts & Savings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-a-closer-look-at-lensdirect-glasses-combating-harmful-blue-light-and-enhancing-visual-acuity/"><u>Top Pick: A Closer Look at LensDirect Glasses Combating Harmful Blue Light and Enhancing Visual Acuity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tune-into-cheap-bluetooth-chirps-beesound-41/"><u>Tune Into Cheap Bluetooth Chirps - BeeSound 41</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-wi-fi-repeaters-for-enhanced-coverage-2024-edition/"><u>Ultimate Selection of Wi-Fi Repeaters for Enhanced Coverage - 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-status-bts-attributes-affordable-yet-imperfect/"><u>Unveiling Status BT's Attributes: Affordable Yet Imperfect</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-expert-review-on-netgear-nighthawk-x6-wireless-network-extender/"><u>Unveiling the Capabilities: Expert Review on Netgear Nighthawk X6 Wireless Network Extender</u></a></li>
+</ul></div>
+

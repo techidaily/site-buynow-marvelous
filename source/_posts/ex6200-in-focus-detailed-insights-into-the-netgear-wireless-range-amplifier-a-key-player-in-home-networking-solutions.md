@@ -1,7 +1,7 @@
 ---
 title: "EX6200 in Focus: Detailed Insights Into the Netgear Wireless Range Amplifier - A Key Player in Home Networking Solutions"
-date: 2025-01-11T08:09:47.387Z
-updated: 2025-01-16T01:17:12.251Z
+date: 2025-01-20T00:18:09.182Z
+updated: 2025-01-21T23:49:57.279Z
 categories:
   - BestProducts
 description: "This Article Describes EX6200 in Focus: Detailed Insights Into the Netgear Wireless Range Amplifier - A Key Player in Home Networking Solutions"
@@ -37,12 +37,16 @@ Lifewire / Kelsey Simon
 2.7
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -62,10 +66,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -79,6 +79,10 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -111,7 +115,7 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -121,10 +125,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -139,7 +139,7 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -165,20 +165,19 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-boosting-vimeo-video-playback-tips-and-tricks-for-2024/"><u>[Updated] Boosting Vimeo Video Playback Tips and Tricks for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-recipe-rulers-must-follow-culinary-youtubers/"><u>[Updated] In 2024, Recipe Rulers Must-Follow Culinary YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>[Updated] Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-analyzing-youtubes-creator-rewards-regularity/"><u>2024 Approved Analyzing YouTube's Creator Rewards Regularity</u></a></li>
-<li><a href="https://fox-making.techidaily.com/activating-or-deactivating-windows-features-via-control-panel-expert-guide/"><u>Activating or Deactivating Windows Features via Control Panel - Expert Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-use-of-voice-recognition-ai-on-windows/"><u>Cease Use of Voice Recognition AI on Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-affordable-gems-in-our-neighborhood-shop-smart-with-oodle/"><u>Discover Affordable Gems in Our Neighborhood: Shop Smart with Oodle</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-revolutionary-power-of-the-ultra-light-lg-gram-156-laptop-in-our-2018-review/"><u>Discover the Revolutionary Power of the Ultra-Light LG Gram 15.6 Laptop in Our 2018 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/earn-more-on-your-blog-through-buyselladscom-sponsorship-deals/"><u>Earn More on Your Blog Through BuySellAds.com Sponsorship Deals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/echo-dot-vs-homepod-mini-which-smart-speaker-wins/"><u>Echo Dot Vs HomePod Mini – Which Smart Speaker Wins?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/efficiency-focused-design-of-lamicall-s-tablet-holder-detailed-appraisal-and-examination/"><u>Efficiency-Focused Design of Lamicall S Tablet Holder: Detailed Appraisal and Examination</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-assessment-of-the-cumuluspro-ergonomic-stand-up-desk-mat-for-enhanced-workspace-comfort/"><u>Expert Assessment of the CumulusPRO Ergonomic Stand-Up Desk Mat for Enhanced Workspace Comfort</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-a-comprehensive-list-of-online-coding-course-selections/"><u>Expert Picks: A Comprehensive List of Online Coding Course Selections</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-the-past-essential-history-youtubes-for-educational-journey/"><u>Unlocking the Past Essential History YouTubes For Educational Journey</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-backup-phones-camera-roll-upload-to-social-apps/"><u>[New] Master the Art of Backup Phone's Camera Roll Upload to Social Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-veritable-value-of-voice-podcasters-earnings-analysis-for-2024/"><u>[Updated] The Veritable Value of Voice Podcasters’ Earnings Analysis for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-remarkable-judgment-and-substitutes-advice/"><u>2024 Approved Remarkable Judgment & Substitutes Advice</u></a></li>
+<li><a href="https://discover-data.techidaily.com/best-solutions-why-your-music-wont-copy-over-to-the-latest-iphone-models-tips-and-tricks/"><u>Best Solutions: Why Your Music Won't Copy Over to the Latest iPhone Models - Tips & Tricks!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-steams-price-journey-of-video-games/"><u>Exploring Steam's Price Journey of Video Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-10-and-windows-11/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 10 and Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-spur-the-playback-of-vimeo-media/"><u>In 2024, Spur the Playback of Vimeo Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-why-the-hp-omen-obelisk-is-a-game-changer-in-desktop-computing/"><u>In-Depth Analysis: Why the HP OMEN Obelisk Is a Game Changer in Desktop Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-market-of-superior-usb-sticks-for-ultimate-tech-savvy/"><u>Navigate the Market of Superior USB Sticks for Ultimate Tech Savvy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-windows-11-pro-transition-seamlessly/"><u>Navigating the Windows 11 Pro Transition Seamlessly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-intersection-of-business-and-immersive-vr-technology-for-2024/"><u>The Intersection of Business and Immersive VR Technology for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-gaming-iphones-which-model-tops-the-chart/"><u>Top Gaming iPhones: Which Model Tops the Chart?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-productivity-dive-into-msis-innovative-pro-mp161-e2-portable-screen/"><u>Transform Your Productivity: Dive Into MSI's Innovative Pro MP161 E2 Portable Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-kobo-nias-potential-how-it-stacks-up-against-the-popular-kindle-series/"><u>Unveiling the Kobo Nia's Potential: How It Stacks Up Against the Popular Kindle Series</u></a></li>
 </ul></div>
 

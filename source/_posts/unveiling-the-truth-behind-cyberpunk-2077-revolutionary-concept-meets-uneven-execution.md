@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth Behind Cyberpunk 2077: Revolutionary Concept Meets Uneven Execution"
-date: 2024-08-09T00:43:58.818Z
-updated: 2024-08-10T00:43:58.818Z
+date: 2025-01-20T12:01:47.846Z
+updated: 2025-01-22T01:39:07.223Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Truth Behind Cyberpunk 2077: Revolutionary Concept Meets Uneven Execution"
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/3da10c18ed5eb1d81fc33e9b77c3f37bbadf61804
 
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -40,6 +36,10 @@ Lifewire / Erika Rawes
 [View On Walmart $29](https://www.walmart.com/ip/612208092)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Antop AT-127
 
@@ -67,8 +67,9 @@ Lifewire / Erika Rawes
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -81,10 +82,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -94,8 +91,9 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -107,8 +105,9 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -121,12 +120,13 @@ Lifewire / Erika Rawes
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
@@ -138,9 +138,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -157,14 +154,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,3 +166,25 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-process-for-avi-transformations-into-web-friendly-gif-using-filmora/"><u>[New] Streamlined Process for AVI Transformations Into Web-Friendly GIF Using Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-of-the-12-restoring-hidden-videos-posted-on-facebook/"><u>[Updated] 2024 Approved Secrets of the 12 Restoring Hidden Videos Posted on Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-fundamentals-of-high-impact-asmr-filming-and-editing-for-2024/"><u>[Updated] The Fundamentals of High-Impact ASMR Filming & Editing for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-toonhub-pro-analysis-2024-report/"><u>[Updated] ToonHub Pro Analysis 2024 Report</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/benchmarking-the-latest-chromecast-with-google-tv-against-firetv-an-in-depth-review/"><u>Benchmarking the Latest Chromecast with Google TV Against FireTV - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-battery-packs-top-picks-of-the-year-unmatched-speed-economical-choice-with-ankers/"><u>Best Battery Packs: Top Picks of the Year - Unmatched Speed, Economical Choice with Ankers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chromecast-with-google-tv-showdown-making-the-case-against-amazons-firetv/"><u>Chromecast with Google TV Showdown: Making the Case Against Amazon's FireTV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-x6-ac3200-the-ultimate-tri-band-wifi-gaming-and-streaming-router/"><u>Comprehensive Analysis of the Netgear Nighthawk X6 AC3200 - The Ultimate Tri-Band WiFi Gaming & Streaming Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-netgear-nighthawk-rax80-a-detailed-look-at-the-latest-wi-fi-6-technology/"><u>Comprehensive Test of Netgear Nighthawk RAX80: A Detailed Look at the Latest Wi-Fi 6 Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cost-effective-wireless-options-the-leading-cheap-phones-deals-of-2024/"><u>Cost-Effective Wireless Options: The Leading Cheap Phones Deals of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/d-links-powerline-2000-reviewed-seamless-configuration-and-efficient-data-transfer-performance/"><u>D-Link's Powerline 2000 Reviewed - Seamless Configuration & Efficient Data Transfer Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazon-kindles-value-in-2019-reliable-and-affordable-reading-essentials/"><u>Discovering the Amazon Kindle's Value in 2019 - Reliable and Affordable Reading Essentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/investing-in-the-right-keyboard-for-low-cost-maximum-output/"><u>Investing in the Right Keyboard for Low Cost, Maximum Output</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-silence-to-sight-adding-images-to-your-music-playlist-creative-sound-design/"><u>New 2024 Approved From Silence to Sight Adding Images to Your Music Playlist Creative Sound Design</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-gazers-rejoice-discovering-the-elevation-expertise-of-dji-spark/"><u>Sky Gazers Rejoice! Discovering the Elevation Expertise of DJI Spark</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-fix-steam-big-picture-errors/"><u>Solutions to Fix Steam Big Picture Errors</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2025-01-14T21:22:47.474Z
-updated: 2025-01-15T19:58:35.414Z
+date: 2025-01-16T18:57:54.983Z
+updated: 2025-01-21T23:11:37.123Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ## Exploring the World of Close-Up Imagery: Understanding Macro Photography
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Macro photography involves extreme close-up photography of small subjects for detailed shots.
@@ -20,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 * Good lighting is crucial for macro photography, with specialized lenses having built-in lights for better illumination.
 
  Macro photography is kind of a big deal, but many people don't know what it is despite having the hardware to take macro photos. So let's clear up the big and small details of this fascinating photographic art.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Macro Photography Is About Getting Close and Personal
 
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  So, if you see a finely-detailed image of a tiny subject, but it's still something you can see with the naked eye, then you're almost certainly looking at macro photography.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Macro Lenses, Macro Smartphone Cameras, and Macro Compact Camera Modes
 
  While you can take any camera system and put it up as close as possible to a small subject, you may not get the result that you want. Macro photography requires a lens with a very short focal distance from the subject. That is, it needs to have the ability to focus on something that's very close to the lens. You can also get lenses that are essentially macro telephoto lenses, which can create that 1:1 reproduction ratio on the sensor while having the subject relatively far away from the lens, but that's not how a typical macro lens works.
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  If you have a [DLSR or a mirrorless camera](https://extra-tips.techidaily.com/2024-approved-artistic-excellence-foremost-ios-art-tools/) with a changeable lens system, then you'll need a macro lens. Simply change to that lens, and you're basically ready to go. With a macro lens fitted to your camera, you can bring it right up to your small subject and get crispy detail.
 
 ![Sigma 105mm F2.8 EX DG OS HSM Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sigma-105mm-f2-8-ex-dg-os-hsm-macro-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Sigma 105mm F2.8 EX DG OS HSM Macro
 
@@ -61,10 +61,6 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
  Finally, though they are rare to see these days, many compact dedicated digital cameras also have a "macro mode", but the results from this mode have never been great, and really don't let you get nearly as close to the subject as a true macro lens does.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Macro Photography Lighting Can Be a Challenge
 
  With their extremely short focal distances, and very shallow depth of field, macro photos often suffer from a lack of good lighting. Lighting is paramount in any sort of photography (it literally means the capture of light after all), but perhaps never more than with macro shots. This is why many macro lenses, and macro cameras on some phones have a built-in LED ring to light up the subject.
@@ -72,7 +68,7 @@ A superb macro lens with image stabilization that offers a nice balance between 
  Some of the most specialized (and expensive!) macro lenses are called ["probe" lenses](https://www.amazon.com/Venus-Laowa-24mm-14-Probe/dp/B07JYHGNHQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002766&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-is-macro-photography%2F&asc%5Fcampaign=Evergreen), which can be inserted into tight spaces such as the inside of a log or into crevices. These lenses almost always have built-in lights for the same reason. When I take macro photos with my phone, I often use a supplementary light, such as the flashlight from someone else's phone, or even a dedicated ring light. For natural outdoor lighting, it's all about the angle and letting direct or bouncing from the sun illuminate the subject.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Best Subjects for Macro Photography
@@ -89,21 +85,25 @@ Sydney Louw Butler / How-To Geek
 
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  I will never, ever get tired of shooting photos of these teeny-tiny jumping spiders.
 
 ![Macro photo of jumping spider on a leaf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-jumping-spider-on-a-leaf.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-to Geek
 
  Or, perhaps my favorite shot ever of this grasshopper hiding in an outdoor potted plant.
 
 ![macro photo of a grasshopper taken with S21 Ultra smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Grasshopper-Macro-S21.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sydney Butler/How-To Geek
 
@@ -126,14 +126,22 @@ Sydney Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-eclipse-etiquette-secrets-to-stunning-night-photos/"><u>[New] Eclipse Etiquette Secrets to Stunning Night Photos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-srt-revelation-transforming-computer-performance/"><u>[New] In 2024, SRT Revelation Transforming Computer Performance</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-add-end-screen-to-video-on-vimeo-in-2024/"><u>[Updated] How to Add End Screen to Video on Vimeo, In 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-latest-dji-phantom-4-pro-v2-close-to-perfect-drone/"><u>Comprehensive Evaluation of the Latest DJI Phantom 4 Pro V2: Close to Perfect Drone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-viair-88p-portable-air-compressor-immense-power-minor-downsides/"><u>Comprehensive Evaluation of the Viair 88P Portable Air Compressor - Immense Power, Minor Downsides</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-gaomon-pd1560-pen-tablet-evaluation-is-it-a-top-choice/"><u>Comprehensive Gaomon PD1560 Pen Tablet Evaluation - Is It a Top Choice?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/considering-my-options-stick-with-current-or-upgrade/"><u>Considering My Options: Stick with Current or Upgrade?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immersive-home-theater-choosing-the-best-3d-players-for-2024/"><u>Immersive Home Theater Choosing the Best 3D Players for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/utionize-sharing-youtube-video-integration-with-facebook-for-2024/"><u>Revolutionize Sharing YouTube Video Integration with Facebook for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-sonic-sweepstakes-top-tunes-for-viral-youtube-short-videos/"><u>[New] In 2024, Sonic Sweepstakes Top Tunes for Viral YouTube Short Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pinnacle-eight-video-recording-apps-for-2024/"><u>[New] Pinnacle Eight Video Recording Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>[Updated] 2024 Approved Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-the-art-of-freefire-a-gaming-youtubers-guide/"><u>[Updated] 2024 Approved Mastering the Art of FreeFire A Gaming Youtuber’s Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>[Updated] In 2024, Modern Photo Editing Wonders Frame Integration Essentials, 2023</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bloodborne-review/"><u>Bloodborne Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-google-stadia-potential-and-areas-needing-enhancement/"><u>Evaluating Google Stadia: Potential and Areas Needing Enhancement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-samsung-galaxy-note-9-evaluation-top-device-with-large-display/"><u>Expert Samsung Galaxy Note 9 Evaluation: Top Device with Large Display</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-yakuza-like-a-dragon-an-essential-rpg-experience/"><u>Exploring 'Yakuza: Like a Dragon' - An Essential RPG Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-microsoft-surface-go-a-budget-friendly-tablets-unique-quirks/"><u>Exploring the Microsoft Surface Go: A Budget-Friendly Tablet's Unique Quirks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>In 2024, Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precision-screen-capturing-top-tools-reviewed-on-pcmac-for-2024/"><u>Precision Screen Capturing Top Tools Reviewed on PC/Mac for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-road-trips-with-the-ion-audio-tailgater-plus-one-button-operation-extended-bass-boost/"><u>Revolutionize Your Road Trips with The ION Audio Tailgater Plus - One-Button Operation, Extended Bass Boost!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-cutting-edge-macbook-unveiling-apples-newest-innovations/"><u>The Cutting-Edge MacBook: Unveiling Apple's Newest Innovations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-maxoaks-extraordinary-energy-source-185wh-50k-mah-power-bank-assessment-for-the-on-the-go-individual/"><u>The Verdict on MaxOak's Extraordinary Energy Source: 185Wh / 50K mAh Power Bank Assessment for the On-the-Go Individual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-reasons-why-sticking-with-my-iphone-14-beats-switching-to-the-iphone-16-pro-insights-from-tech-analyst-at-zdnet/"><u>Top 4 Reasons Why Sticking with My iPhone 14 Beats Switching to the iPhone 16 Pro - Insights From Tech Analyst at ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722959770683-wagging-woes-a-tail-waggers-delight/"><u>Wagging Woes: A Tail-Wagger's Delight</u></a></li>
 </ul></div>
 

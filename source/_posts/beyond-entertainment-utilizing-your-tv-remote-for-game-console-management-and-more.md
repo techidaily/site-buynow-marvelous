@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2025-01-13T19:10:10.957Z
-updated: 2025-01-15T19:31:11.273Z
+date: 2025-01-18T17:22:20.198Z
+updated: 2025-01-21T21:04:16.078Z
 tags:
   - games
   - tv
@@ -21,25 +21,21 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jordan Gloor / How-To Geek
 
  You can scroll through menus, browse streaming services and even control the volume of what you're watching from the comfort of your couch just like you would a TV. If you have multiple devices in your media repertoire, however, you can go even further and set up a system where your devices will turn on and display themselves on your screen automatically.
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Ultimate Solution: HDMI-CEC
 
@@ -59,10 +55,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
@@ -77,9 +69,17 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
@@ -92,7 +92,7 @@ Jason Fitzpatrick / How-To Geek
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
@@ -104,7 +104,7 @@ Jason Fitzpatrick / How-To Geek
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -130,20 +130,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-sound-shaping-techniques-for-mobile-top-7-vocal-editing-app-recommendations/"><u>[New] 2024 Approved Sound Shaping Techniques for Mobile Top 7 Vocal Editing App Recommendations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-essential-tactics-for-effective-fb-giveaway-campaigns/"><u>[Updated] 2024 Approved Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cutting-edge-marketing-anticipating-fbs-trends-of-the-new-decade/"><u>[Updated] In 2024, Cutting-Edge Marketing Anticipating FB's Trends of the New Decade</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] In 2024, Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-tech-with-toms-hardware-hub-your-guide-to-cutting-edge-devices-and-software/"><u>Exploring the Latest in Tech with Tom's Hardware Hub: Your Guide to Cutting-Edge Devices and Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smiling-photos-and-videos-iphones/"><u>In 2024, Smiling Photos & Videos (iPhones)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-wevideo-the-simple-way-to-create-professional-looking-videos/"><u>New 2024 Approved WeVideo The Simple Way to Create Professional-Looking Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sheep-foot-rollers-are-best-for-deep-compaction-of-cohesive-soils-like-clay-and-silty-clays-due-to-their-penetration-capability/"><u>Sheep Foot Rollers Are Best for Deep Compaction of Cohesive Soils Like Clay and Silty Clays Due to Their Penetration Capability.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-hp-stream-14-an-insightful-review-of-performance-for-budget-buyers/"><u>The Verdict on HP Stream 14: An Insightful Review of Performance for Budget Buyers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-review-for-premium-quality-in-tech-dissecting-the-features-of-the-samsung-galaxy-tab-ssamsung-galaxy-tab-s7plus-an-elite-android-experience-detailed-rev114/"><u>Top Review for Premium Quality in Tech: Dissecting the Features of the Samsung Galaxy Tab SSamsung Galaxy Tab S7+: An Elite Android Experience Detailed Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-review-of-the-eero-pro-wireless-router-ensuring-seamless-wi-fi-connectivity-across-every-room/"><u>Top Review of the Eero Pro Wireless Router: Ensuring Seamless Wi-Fi Connectivity Across Every Room</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-quality-fitness-tracking-at-great-value-inside-look-at-the-fitbit-versa-lite/"><u>Top-Quality Fitness Tracking at Great Value: Inside Look at the Fitbit Versa Lite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-ranking-of-2024s-most-advanced-smart-speakers-on-the-market/"><u>Ultimate Ranking of 2024'S Most Advanced Smart Speakers on the Market</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-viewing-experience-with-toshiba-55lf711u20-why-amazon-prime-subscribers-love-it/"><u>Ultimate Viewing Experience with Toshiba 55LF711U20 – Why Amazon Prime Subscribers Love It</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-mastering-the-art-of-tiktok-closing-scenes/"><u>[New] 2024 Approved Mastering the Art of TikTok Closing Scenes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-motion-text-generator/"><u>[New] 2024 Approved Motion Text Generator</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-iphone-playlist-podcast-tips/"><u>[New] 2024 Approved The Ultimate iPhone Playlist Podcast Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ive-into-diy-the-beginners-guide-to-eye-catching-mac-videos-for-2024/"><u>[New] Dive Into DIY The Beginner’s Guide to Eye-Catching Mac Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-sci-fi-virtual-horizons-a-selection-of-epic-movies-in-the-metaverse-realm-for-2024/"><u>[New] Sci-Fi Virtual Horizons A Selection of Epic Movies in the Metaverse Realm for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs/"><u>[New] Take Your Snapchat to New Heights with Cutting-Edge Boomerangs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-prime-video-strategies-selecting-perfect-format-for-youtube/"><u>[Updated] Prime Video Strategies – Selecting Perfect Format for YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-detaille-pour-supprimer-la-restriction-de-region-sur-des-dvd-avec-windows-10-8-ou-7/"><u>Guide Détaillé Pour Supprimer La Restriction De Région Sur Des DVD Avec Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-getting-acquainted-with-the-samsung-galaxy-s24-ultra/"><u>In-Depth Review: Getting Acquainted with the Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-challenges-and-charms-of-yokus-island-express-gaming-review-highlight/"><u>Navigating the Challenges and Charms of Yoku's Island Express - Gaming Review Highlight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nokia-31-smartphone-assessment-ideal-first-mobile-device-for-new-users/"><u>Nokia 3.1 Smartphone Assessment: Ideal First Mobile Device for New Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-amazfit-gts-reviewed-an-innovative-blend-of-style-and-fitness-with-uneven-results/"><u>The Amazfit GTS Reviewed: An Innovative Blend of Style and Fitness with Uneven Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-raspberry-pi-400-inspection-transforming-keyboards-into-compact-computers/"><u>The Raspberry Pi #400 Inspection - Transforming Keyboards Into Compact Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-why-samsungs-galaxy-tab-s7-stands-out/"><u>The Ultimate Guide to Choosing a Tablet: Why Samsung's Galaxy Tab S7 Stands Out</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-list-of-top-12-leading-webm-to-mp4-converter-apps-compatible-with-windows-and-macos/"><u>The Ultimate List of Top 12 Leading WebM to MP4 Converter Apps Compatible with Windows and macOS</u></a></li>
 </ul></div>
 

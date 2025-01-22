@@ -1,7 +1,7 @@
 ---
 title: The SX740 HS Camera - Ultra-Portable Lens Master
-date: 2024-08-09T00:43:58.617Z
-updated: 2024-08-10T00:43:58.617Z
+date: 2025-01-19T21:05:29.633Z
+updated: 2025-01-21T22:02:28.534Z
 categories:
   - BestProducts
 description: This Article Describes The SX740 HS Camera - Ultra-Portable Lens Master
@@ -36,12 +36,13 @@ Lifewire / Rebecca Isaacs
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mavix M9 Gaming Chair
 
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/cetpXlFoWgl601rjUieYjdXgVCA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_HeroSquare-97a9344411454147b8772f86cd75bca7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -66,16 +67,18 @@ Lifewire / Rebecca Isaacs
  A poor computer chair may lead to backaches, pains, and a whole mess of skeletal and muscular issues. When I began to have these symptoms, I decided it was time for a change to my chair, and got the Mavix M9 Gaming Chair for review. After over 20 hours of testing, it’s safe to say that I’ve found my favorite piece of gaming equipment.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design: A gamer’s dream
 
  The M9 comes in four different color options, but to play it safe with my pets, I chose to get it in the sleek black option. In fact, those with pets will want to take note, as my first impression of the chair was that while most of it was black leather, the Dynamic Variable Lumbar support consisted of multilayered nylon, mesh material. It’s great for gamers’ backs—but can collect pet hair if your furry friends decide the M9 is a great place to snooze.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/tSFIFAR8G-C5W7DBBLPJ5GiE3EM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_03-8842478b07bd4585ba7f1843afcd29dc.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -91,10 +94,6 @@ Lifewire / Rebecca Isaacs
 
  In fact, nearly everything can be adjusted from the seat depth to the headrest angle—the chair is easy to mold to your personal needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Mavix M9 Gaming Chair headrest ](https://www.lifewire.com/thmb/dk-8es8V-f2VzVltDiUNw0nCs2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_02-acc7e137bc7a4b25837fbbe065ac1416.jpeg)
 
 Lifewire / Rebecca Isaacs
@@ -109,9 +108,6 @@ Lifewire / Rebecca Isaacs
 
  Another great feature of the M9 chair is that the wheel lock. My work setup and[gaming rig](https://www.lifewire.com/best-gaming-pcs-4045451) are set up in a room with original hardwood floors. Most chairs with wheels try to go for a solo ride on the smooth floor. With the wheel lock, you won’t have to worry about accidentally nudging your chair away from the desk during that critical boss battle.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/WWvjEhKERcoOvm-8u1GtzfLuV7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_05-91c5a721612e45cbbdc432ec9ab67e4b.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -122,9 +118,6 @@ Lifewire / Rebecca Isaacs
 
  Only want to go back a few degrees? You can adjust that thanks to the levers underneath the chair seat. This feature also helped relieve my back when I started feeling like I’d been sitting in the chair too long. It’s a great, relaxing addition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Hits the wallet hard
 
  For the price of $1,000, the Mavix M9 chair can be yours. That’s a lot of money to invest in a chair, especially when most places will charge a fraction of that for a desk chair. This isn’t just a desk chair, however—this is an ergonomic gamer’s chair, and as such, it’s designed to make gaming comfortable and easy. So, while it seems like a lot of money, realistically, you’re paying for a plethora of adjustability options, and ergonomics.
@@ -132,6 +125,10 @@ Lifewire / Rebecca Isaacs
 ![Mavix M9 Gaming Chair](https://www.lifewire.com/thmb/_eJYTViir2syGINJQq7Fxl1ofHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mavix_Gaming_Chair_04-d42bbf02273f4d0aa7c25351b201dc2c.jpg)
 
 Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mavix M9 vs. XChair X4 Chair
 
@@ -145,15 +142,16 @@ Lifewire / Rebecca Isaacs
 
  While it can’t really be customized outside of cosmetic options, the M9 gaming chair is a solid, easy way to enjoy any gaming hobby without worrying about backaches. The reclining technology and the locking wheels are especially nice bonuses. The price may seem a little high, but it’s a worthy investment for any gamer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [FicMax Ergonomic Gaming Chair](https://www.lifewire.com/ficmax-ergonomic-gaming-chair-review-4771068)
 * [X Rocker 51396 Pro Series Pedestal 2.1 Gaming Chair](https://www.lifewire.com/x-rocker-51396-pro-series-pedestal-2-1-gaming-chair-review-4771021)
 * [Homall Executive Swivel Chair](https://www.lifewire.com/homall-executive-swivel-chair-review-4589356)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  M9 Gaming Chair
@@ -166,14 +164,11 @@ Lifewire / Rebecca Isaacs
 * Color  Black, White, Black & Glacier, Black & White
 * Price  $1,000 for base model
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,3 +176,27 @@ Lifewire / Rebecca Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>[New] Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-perfect-your-yt-profile-expert-tips-for-channel-descriptors/"><u>[Updated] 2024 Approved Perfect Your YT Profile Expert Tips for Channel Descriptors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-virtual-meeting-platforms-zooming-onto-your-android-for-2024/"><u>[Updated] Navigating Virtual Meeting Platforms Zooming Onto Your Android for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/8-tools-to-record-computer-sound-and-microphone/"><u>8 Tools to Record Computer Sound and Microphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-durable-expert-analysis-of-omotei-t1-tablet-desk-support/"><u>Affordable and Durable: Expert Analysis of Omotei T1 Tablet Desk Support</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-fast-ev-charge-stations-why-experts-say-powerdrive-tops-every-list-for-cost-effective-solutions/"><u>Affordable and Fast EV Charge Stations - Why Experts Say PowerDrive Tops Every List for Cost-Effective Solutions!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/at-127-by-antop-the-perfect-blend-of-style-and-performance-for-hassle-free-tv/"><u>AT-127 by Antop: The Perfect Blend of Style & Performance for Hassle-Free TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-value-cams-for-the-price/"><u>Best Value Cams for the Price</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-words-the-alluring-visuals-and-functionality-of-the-kobo-clara-colour/"><u>Beyond Words: The Alluring Visuals and Functionality of the Kobo Clara Colour</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-and-high-quality-viewing-with-the-hisense-40h5590f-smart-tv-reviewed/"><u>Budget-Friendly and High-Quality Viewing with the Hisense 40H5590F Smart TV Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/caixuns-budget-4k-75-inch-android-tv-review-balancing-cost-and-functionality-effectively/"><u>Caixun's Budget 4K 75-Inch Android TV Review - Balancing Cost and Functionality Effectively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-smart-companion-in-depth-analysis-of-apple-watch-s9-and-fitbit-charge-6/"><u>Choosing Your Smart Companion: In-Depth Analysis of Apple Watch S9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-tablets-ipad-pro-versus-microsoft-surface-pro-which-wins/"><u>Comparing Tablets: IPad Pro Versus Microsoft Surface Pro – Which Wins?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-digital-worlds-the-essential-software-list-for-animators/"><u>Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-14-ultra-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi 14 Ultra Phone | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-syncing-twitter-to-snapchat-video-uploading-techniques/"><u>In 2024, Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-honor-magic-5-lite-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Honor Magic 5 Lite? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-building-pcs-insights-from-toms-hardware/"><u>The Ultimate Resource for Building PCs - Insights From Tom's Hardware</u></a></li>
+</ul></div>
+

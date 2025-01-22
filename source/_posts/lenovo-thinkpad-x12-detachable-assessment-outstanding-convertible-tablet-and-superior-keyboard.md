@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X12 Detachable Assessment - Outstanding Convertible Tablet & Superior Keyboard
-date: 2024-08-09T00:43:58.450Z
-updated: 2024-08-10T00:43:58.450Z
+date: 2025-01-17T05:58:46.304Z
+updated: 2025-01-22T05:42:21.772Z
 categories:
   - BestProducts
 description: This Article Describes Lenovo ThinkPad X12 Detachable Assessment - Outstanding Convertible Tablet & Superior Keyboard
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/M7cbcf9RaLnWFD_BZCSTd_n3AbI=/400x300/fi
 ## Revolutionize Your Television Experience with the Antolink AT-127 - Outstanding Free Broadcast Signal
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Antop AT-127
 
@@ -37,11 +41,12 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -65,9 +70,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -76,16 +78,14 @@ Lifewire / Erika Rawes
 
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -104,9 +104,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -119,10 +116,11 @@ Lifewire / Erika Rawes
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -137,8 +135,9 @@ Lifewire / Erika Rawes
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  AT-127
@@ -155,14 +154,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,3 +166,21 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-editors-edge-advanced-techniques-for-youtube-creations/"><u>[New] In 2024, The Editor's Edge Advanced Techniques for YouTube Creations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-full-vision-media-the-smart-mcn-selection-process/"><u>[Updated] Full Vision Media The Smart MCN Selection Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tier-cinematic-peeks-album/"><u>[Updated] Top-Tier Cinematic Peeks Album</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed/"><u>2024 Approved Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-testing-on-the-garmin-forerunner-e-an-elite-multisport-tracking-device/"><u>Comprehensive Testing on the Garmin Forerunner E, an Elite Multisport Tracking Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crucial-factors-to-check-before-opting-for-a-second-hand-ipad/"><u>Crucial Factors to Check Before Opting for a Second-Hand iPad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-if-monterey-is-the-next-step/"><u>Deciding if Monterey Is the Next Step</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-bose-qc35-ii-quiet-comfort-for-everyone/"><u>Discover Bose QC35 II - Quiet Comfort for Everyone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-benefits-of-tango-app-for-free-communication-calling-in-depth-review/"><u>Discover the Benefits of Tango App for Free Communication - Calling In-Depth Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-htc-u23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with HTC U23? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streamline-access-top-strategies-for-recent-fb-video-tracks/"><u>Streamline Access Top Strategies for Recent Fb Video Tracks</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P55 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

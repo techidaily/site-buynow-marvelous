@@ -1,7 +1,7 @@
 ---
 title: "Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers"
-date: 2025-01-10T16:30:03.905Z
-updated: 2025-01-16T01:41:45.856Z
+date: 2025-01-20T07:21:23.100Z
+updated: 2025-01-22T00:49:29.589Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 ---
 
 ## Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
  If that didn't work, launch another game and try playing it to see whether the problem is still present. Drift in one game but not another points to the game being to blame. If your thumbstick is still drifting, it’s time for a visit to Desktop Mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Recalibrate the Analog Sticks in Desktop Mode
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
  Once there, click the “Application Launcher” icon followed by “System” and then scroll down until you locate the “Konsole” app.
 
 ![Steam Deck Desktop Mode with the Application Launcher menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-02-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open Konsole, pull up the virtual keyboard by pressing the X button, type the following:
 
@@ -63,39 +63,39 @@ thumbstick_cal
 
  Now you can return to Game Mode and test the affected stick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Increase the Joystick Deadzone in Game Mode
 
  If you're still experiencing issues, press the Steam button > Settings > Controller. Then open the “Calibration & Advanced Settings” menu.
 
 ![Steam Deck calibration & advanced settings tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-04.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the “Left Joystick Deadzone” option and press the Y button to test its deadzone. If your right stick is drifting, select the “Right Joystick” option instead, with the R1 button.
 
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
 
 ![Testing Steam Deck left joystick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-06.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In fact, I can drop the deadzone to about 5400 and still be fine. If you're noticing drift, you’ll most likely have to increase the deadzone above the default value of 8192\. The max value is set at 18000.
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clean the Affected Thumbstick With Compressed Air or Contact Cleaner
 
@@ -150,22 +150,18 @@ thumbstick_cal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-a-curated-selection-of-top-6-nft-maker-applications/"><u>[New] 2024 Approved A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transitioning-from-srt-to-subtitles/"><u>[Updated] 2024 Approved Transitioning From SRT to Subtitles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-your-coding-productivity-with-chatgpt-and-vs-code/"><u>Boosting Your Coding Productivity with ChatGPT & VS Code</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-drive-of-the-netgear-nighthawk-x6-ac3200-a-top-tier-multiuser-oriented-wireless-router/"><u>Comprehensive Test Drive of the Netgear Nighthawk X6 AC3200 - A Top-Tier, Multiuser-Oriented Wireless Router</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-6-antimalware-tools-protecting-iphones-today/"><u>Discover the Leading 6 Antimalware Tools Protecting iPhones Today</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-affordability-and-intuitiveness-in-z-edges-z3-plus-dashcam/"><u>Discovering Affordability and Intuitiveness in Z-Edge's Z3 Plus Dashcam</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/economical-ssl-solutions-debated/"><u>Economical SSL Solutions Debated</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-mophie-powerstation-ac-charger-balancing-cost-and-convenience-for-tech-enthusiasts/"><u>Evaluating the Mophie Powerstation AC Charger - Balancing Cost and Convenience for Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-next-gen-with-the-high-performance-xbox-series-x-the-complete-review/"><u>Experience Next-Gen with the High-Performance Xbox Series X - The Complete Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-premier-selection-of-8-games-for-google-play-pass-subscribers/"><u>Explore the Premier Selection of 8 Games for Google Play Pass Subscribers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/from-novice-to-expert-a-comprehensive-review-of-lenovos-best-yet-the-thinkpad-x1-titanium-yoga-for-devoted-thinkpad-users/"><u>From Novice to Expert: A Comprehensive Review of Lenovo's Best Yet, the ThinkPad X1 Titanium Yoga for Devoted ThinkPad Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gaming-at-its-peak-elevating-frame-rates-and-reducing-delays-in-genshin-impact/"><u>Gaming at Its Peak: Elevating Frame Rates and Reducing Delays in Genshin Impact</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-a70-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel A70 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/learn-the-basics-of-facebook-metrics-easily/"><u>Learn the Basics of Facebook Metrics, Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-non-connecting-wi-fi-usb-on-windows-devices/"><u>Solving Non-Connecting Wi-Fi USB on Windows Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-budget-friendly-vfx-resources-your-go-to-guide-for-cost-effective-edits/"><u>Top Budget-Friendly VFX Resources - Your Go-To Guide for Cost-Effective Edits</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/aaja-apana-vadaja-paranael-ka-eka-ha-thathha-ma-sacara-mafata-fatagarafaka-safitavayara-daunalda-kara/"><u>आज अपने विंडोज प्रणाली को एक ही दूध में सुचारू, मुफ्त फोटोग्राफिक सॉफ़्टवेयर डाउनलोड करें</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-best-zero-cost-image-editors-online/"><u>[New] Ultimate Guide Best Zero-Cost Image Editors Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rated-complimentary-premiere-pro-blueprints/"><u>2024 Approved Top-Rated, Complimentary Premiere Pro Blueprints</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-low-end-spec-puzzle-intel-graphic-setup/"><u>Address Low-End Spec Puzzle: Intel Graphic Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/creative-labs-sound-blaster-zxr-unveiled-analyzing-the-2013-leading-audio-card/"><u>Creative Labs Sound Blaster ZXR Unveiled: Analyzing the 2013 Leading Audio Card</u></a></li>
+<li><a href="https://win11.techidaily.com/enrich-text-messaging-with-emoji-15-on-windows-11/"><u>Enrich Text Messaging with Emoji 15 on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco? Try These Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 14 Pro Max and iPad?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-expert-tips-to-perfectly-utilize-instagrams-sound-stickers/"><u>In 2024, Expert Tips to Perfectly Utilize Instagram's Sound Stickers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nixplays-w15a-unveiled-spotlight-on-strengths-shortcomings/"><u>Nixplay's W15A Unveiled: Spotlight on Strengths, Shortcomings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-the-cost-effective-topmate-c302-for-superior-laptop-cooling-performance/"><u>The Ultimate Verdict on the Cost-Effective TopMate C302 for Superior Laptop Cooling Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-motorola-one-hyper-an-insightful-review-of-an-outstanding-and-vibrant-mid-range-smartphone/"><u>Unveiling the Motorola One Hyper: An Insightful Review of an Outstanding and Vibrant Mid-Range Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmvflv-vidiwave-convert-web-media-free/"><u>オンラインで安くWMV・FLV形式変換 – VidiWave - Convert Web Media Free</u></a></li>
 </ul></div>
 

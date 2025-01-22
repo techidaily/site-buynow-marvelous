@@ -1,7 +1,7 @@
 ---
 title: In Depth Analysis of the Lenovo ThinkPad X1 Nano - Your Guide to a Featherlight Laptop Choice
-date: 2024-08-09T00:43:59.165Z
-updated: 2024-08-10T00:43:59.165Z
+date: 2025-01-19T03:59:05.774Z
+updated: 2025-01-21T16:49:30.087Z
 categories:
   - BestProducts
 description: This Article Describes In Depth Analysis of the Lenovo ThinkPad X1 Nano - Your Guide to a Featherlight Laptop Choice
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 
 ## Anker USB 3.0 SuperSpeed 10-Port USB Data Hub
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/xWT9vtGHKtgfNtDh5brQ807gNrI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_HeroSquare-4e0d4d2c9d45472d9dd2c8f06caed680.jpg)
 
  Lifewire / Jonno Hill
@@ -41,8 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Anker USB 3.0 SuperSpeed 10-Port USB Data Hub
 
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/pBJOSnO1n_b2MqS-1_5tELF2Z3M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_HeroSquare-4e0d4d2c9d45472d9dd2c8f06caed680.jpg)
@@ -74,9 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Lots of ports in a standard configuration**
 
  At 1.7 x 5.7 x 0.9 inches HWD), the Anker USB 3.0 SuperSpeed 10-Port Hub is just about as lean as one might reasonably expect for a device with this many ports. The design is relatively simple, featuring a long rectangular shape, rounded edges, and a thick plastic construction. The device feels very light, but it’s not flimsy.
@@ -85,9 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 
  The top of the device includes the ten USB 3.0 ports, the last of which is marked with a charging icon. Each port has a number next to it that illuminates when a device is connected. Above the first port is a power LED to indicate a power connection. Around to the side from this LED is the power port and USB 3.0 type B port.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/tQ3zuDbd3YhyVxZS3iM0i5RcsOc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_03-1167acd92ea14e1db605adf2154e0d60.jpg)
 
  Lifewire / Jonno Hill
@@ -100,12 +92,17 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 
  The Anker USB 3.0 SuperSpeed 10-Port Hub comes with a USB (A-to-B) cable to connect to your computer. An AC power adapter is included as well, and comes with a sizable power brick. The hub gives users ten USB 3.0 ports, offering a maximum transfer speed of 5Gbps. The charging port delivers more power than the other 9 making it ideal for charging more power hungry devices like phones and tablets.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/LqAWiFxZU1YqrVq2KbjQzkz6xMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_04-0c115139eb2842759c6a8ceb22719901.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: A few shortcomings**
 
@@ -117,18 +114,19 @@ thumbnail: https://www.lifewire.com/thmb/KanUZ3X2gZpssJYifUjlWpoQgFU=/400x300/fi
 
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/fKjtHR68Qc_w-DpUN_vILXXO77o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_05-418b32eddbca47968b9a9043db285b2f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## **Price: A little steep for the features**
 
  At a list price of $52.99, the Anker USB 3.0 SuperSpeed 10-Port Hub is a little expensive for what it offers. We would have expected a price of around $10-13 less given the feature set. Anker itself offers cheaper, newer options that stand a good chance at luring shoppers away from this device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Anker USB 3.0 SuperSpeed 10-Port Hub vs. Anker 10 Port 60W Data Hub with 7 USB 3.0 Ports and 3 PowerIQ Charging Ports**
 
@@ -142,9 +140,6 @@ No advertising on the website.
 
  The Anker USB 3.0 SuperSpeed 10-Port Hub is a wonderful device that offers expanded USB connectivity and fast charging from one port, but it isn’t priced hyper-competitively. Still, if you want a simple solution to your USB problems, this hub is definitely a good option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  USB 3.0 SuperSpeed 10-Port USB Data Hub
@@ -158,14 +153,11 @@ No advertising on the website.
 * Compatibility  Windows 10, 8, 7, Vista, XP, Mac OSx 10.6-10.12, Linux 2.6.14 or later
 * Warranty  18 months
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,3 +165,25 @@ No advertising on the website.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>[Updated] In 2024, The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-secure-success-in-win11-meetings-with-advanced-zooming-techniques-for-2024/"><u>[Updated] Secure Success in Win11 Meetings with Advanced Zooming Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-online-interactions-strategies-to-diminish-pings-and-latency/"><u>Accelerating Online Interactions: Strategies to Diminish Pings and Latency</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/human-resources-made-effortless-by-ai-prompts/"><u>Human Resources Made Effortless by AI Prompts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>In 2024, Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-alert-secure-metas-512gb-quest-3-at-unbeatable-prices-during-october-prime-day-deals/"><u>Limited Time Alert: Secure Meta's 512GB Quest 3 at Unbeatable Prices During October Prime Day Deals!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-push-notifications-with-reddit-wisdom-for-2024/"><u>Mastering the Art of Push Notifications with Reddit Wisdom for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-conversion-rates-unleash-the-power-of-precision-cookie-tracking-tools/"><u>Maximize Conversion Rates: Unleash the Power of Precision Cookie Tracking Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-in-blue-light-defense-eyeglasses-lensdirect-with-reviews-and-insights/"><u>Top Picks in Blue Light Defense Eyeglasses - LensDirect with Reviews and Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-8-incredible-smartphone-games-for-gamers/"><u>Top Picks: 8 Incredible Smartphone Games for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-prime-day-discounts-exclusive-bargains-on-samsung-gadgets-await/"><u>Top Prime Day Discounts: Exclusive Bargains on Samsung Gadgets Await</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-home-climate-monitors/"><u>Top Rated Home Climate Monitors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-netgear-nighthawk-x10-ad7200-top-reviews-for-lightning-fast-wi-fi-performance/"><u>Ultimate Guide to the Netgear Nighthawk X10 (AD7200): Top Reviews for Lightning-Fast Wi-Fi Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-unparalleled-sound-in-depth-review-of-sonys-wh-1000xm4/"><u>Unleashing Unparalleled Sound - In-Depth Review of Sony's WH-1000XM4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-youtube-tv-the-reasons-that-may-sway-you-to-sign-up/"><u>Unlocking YouTube TV: The Reasons That May Sway You to Sign Up</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-perfect-match-toshibas-55lf711u20-fire-tv-ed-the-choice-of-prime-subscribers/"><u>Unveiling the Perfect Match: Toshiba's 55LF711U20 Fire TV Ed. - The Choice of Prime Subscribers</u></a></li>
+</ul></div>
+

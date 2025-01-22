@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model"
-date: 2025-01-08T16:47:13.347Z
-updated: 2025-01-16T08:17:49.724Z
+date: 2025-01-14T18:01:07.070Z
+updated: 2025-01-22T07:19:47.417Z
 tags:
   - games
   - tv
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, but never got around to it. Now that I have a 3D printer, I wondered how much of these craft I can just make myself, and it turns out pretty much the whole thing!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3D Printing Is Revolutionizing the RC World
 
  Serious RC aircraft people have always made their own planes, but they would carve the models by hand from light wood types or from blocks of foam. To be sure, people still do that today, but the introduction of 3D printers has opened a whole new avenue for enthusiasts to make their own craft. It also makes it easier to modify commercial RC craft, or to replace parts that may no longer be available.
@@ -26,7 +22,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  You don't have to be a canny CAD user either, since many talented tinkerers will simply make their 3D printing files available online for free, or for a fee. All you have to do is print the parts out, add additional components such as the motors, speed controllers, etc., and then glue them all together. If all goes well you should be soaring through the sky in no time, or at least having a "fun" time crashing without knowing why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printable Gliders
@@ -37,6 +33,10 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 
  This is where I personally want to start my 3D-printed aircraft adventures, because I want to get a feel for printing the fuselages of planes, and seeing how it all works before adding control surfaces and such. There are awesome popular glider designs like the [Stable Flyer VI](https://www.printables.com/model/408967-stable-flyer-vi-small-toy-glider) and the [Super Stratos](https://www.thingiverse.com/thing:97803/files) which you can print in no time at all. Many of these are print-in-place and don't need assembly either.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Printable Planes
 
  When it comes to proper RC planes, it seems the options are also endless. You can definitely go find some free model files, print it out, add your own electronics, and have a flying machine for not much money. However, there are also professional outfits that sell kits which include 3D printer files, and detailed manuals on how to put the whole thing together, as well as which parts you need. At 3D Lab Print, for example, you can buy [RC plane plans](https://3dlabprint.com/product-category/printable-airplanes/) and some of these kits also include the correct filament you'll need to complete the build.
@@ -46,7 +46,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  CNC Kitchen has this great video of how they printed and built a plane using 3D Print Labs, so you can check out the whole process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printing My First Glider
@@ -56,7 +56,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 ![A yellow 3D printed glider inside a 3D Printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-inside-a-3d-printer.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -66,7 +66,7 @@ Sydney Louw Butler / How-To Geek
 ![A yellow 3D printed glider held in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-held-in-a-person-s-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -88,21 +88,22 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[New] 2024 Approved Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[New] A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-visibility-with-smart-hashtag-use-in-fb-advertising-for-2024/"><u>[New] Maximizing Visibility with Smart Hashtag Use in FB Advertising for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-creativity-6-approaches-for-recording-minecraft-games/"><u>[Updated] In 2024, Capturing Creativity 6 Approaches for Recording Minecraft Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>2024 Approved Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-dualview-photography-analysis/"><u>In 2024, DualView Photography Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-maximize-your-content-strategy-understanding-instagrams-video-limits/"><u>In 2024, Maximize Your Content Strategy Understanding Instagram's Video Limits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/simplified-smartphone-experience-with-google-pixel-4a-a-complete-review/"><u>Simplified Smartphone Experience with Google Pixel 4A - A Complete Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ihome-zenergy-mattress-side-sleep-enhancer-transforming-slumber-into-invigorating-dawns-product-reviewed/"><u>The IHome Zenergy Mattress-Side Sleep Enhancer: Transforming Slumber Into Invigorating Dawns – Product Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-sophisticated-office-upgrade-exploring-the-features-and-design-of-flexispots-theodore-standing-desk/"><u>The Sophisticated Office Upgrade: Exploring the Features and Design of Flexispot's Theodore Standing Desk</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-increasing-game-selection-on-your-nes-classic-system/"><u>The Ultimate Guide: Increasing Game Selection on Your NES Classic System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-drones-your-ever-present-aviation-partner/"><u>Top 10 Drones Your Ever-Present Aviation Partner</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-hd-webcam-evaluation-the-logitech-c920-pro/"><u>Top Rated HD Webcam Evaluation: The Logitech C920 Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>Updated In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-non-copyrighted-meditation-sounds/"><u>[New] In 2024, Non-Copyrighted Meditation Sounds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discovering-the-best-vr-camera-for-adventures-for-2024/"><u>[Updated] Discovering the Best VR Camera for Adventures for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>[Updated] In 2024, Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-v30-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-close-up-cinematography-through-zooming/"><u>2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-stand-alone-hold-tight-camera-stability-techniques/"><u>2024 Approved Stand Alone, Hold Tight Camera Stability Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazons-game-changing-halo-device-redefining-invasive-wellbeing-surveillance/"><u>Amazon's Game-Changing Halo Device: Redefining Invasive Wellbeing Surveillance</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-huawei-nova-y71-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Huawei Nova Y71 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-youtube-equipment-for-starting-your-channel/"><u>Essential YouTube Equipment For Starting Your Channel</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-agile-and-pricey-swagtron-swagboard-t1/"><u>Expert Evaluation of the Agile and Pricey Swagtron Swagboard T1</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/game-review-of-cyberpunk-2077-flawed-but-a-gem-among-titles/"><u>Game Review of Cyberpunk 2077: Flawed but a Gem Among Titles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-pixel-5-assessment-striking-a-balance-between-budget-friendly-power-and-luxurious-features/"><u>Google Pixel 5 Assessment: Striking a Balance Between Budget-Friendly Power and Luxurious Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-select-the-right-tablet-a-focus-on-size-and-weight-factors/"><u>How to Select the Right Tablet: A Focus on Size and Weight Factors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-ps4-camera-positioning-a-comprehensive-guide-to-enhanced-gaming-streams/"><u>Mastering PS4 Camera Positioning: A Comprehensive Guide to Enhanced Gaming Streams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-companion-for-your-oculus-quest-2-a-comprehensive-review-of-the-premium-elite-strap-and-protective-case-ensemble/"><u>The Ultimate Companion for Your Oculus Quest 2: A Comprehensive Review of the Premium Elite Strap and Protective Case Ensemble</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-value-how-apple-ipad-air-grovels-with-ipad-pro-performance-at-a-lower-price-point/"><u>Unveiling the Value: How Apple iPad Air Grovels with iPad Pro Performance at a Lower Price Point</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50i+ Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

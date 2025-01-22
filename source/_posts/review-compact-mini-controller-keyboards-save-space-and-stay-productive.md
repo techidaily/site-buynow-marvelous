@@ -1,7 +1,7 @@
 ---
 title: "Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive"
-date: 2025-01-15T00:49:46.931Z
-updated: 2025-01-15T22:35:59.409Z
+date: 2025-01-21T12:35:23.015Z
+updated: 2025-01-22T02:33:05.579Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ## Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  As the range of games available on consoles expands to include genres previously exclusive to PC, many couch gamers are seeking to add a Bluetooth keyboard to their arsenal. One popular option is a keypad that plugs into the bottom of your controller, but are these gadgets as nifty as they appear?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Controllers Weren't Designed with Keypads In Mind
 
  For the past two months, I’ve been using one of these keypads: the [MoKo Keyboard for PS5 controllers](https://www.amazon.com/MoKo-Controller-Backlight-Playstation-Accessories/dp/B0BMKTNKNS/ref=sr%5F1%5F3?crid=2APOSQFJEH4VP&dib=eyJ2IjoiMSJ9.Sfef8D7Q9tOqt-sKBOaHmwtnSh4OO7BUl2oNLmBW5Qbblm8qBYmpCnMpBcAPvFIRJHJyMqemyVvG2%5F44hEdthApdtQL%5FOtuWiLLO1SbYFR97ZxpebDnGIBk8h2EFpXxSVJp2XGded10f5Qx6p7TcUIdMYJcDD4DF7UsT77Co6791MbnPVyFIoCsXCfae2CA7-J9kwJAIwc2Q0-xSRBbSFpk4PIKfwpxegAlbXLUiPmw.jDI0mEqr0f1gl8CrJP0b9ne%5FViVjkdvjFAiT6nMSyys&dib%5Ftag=se&keywords=ps5+controller+keyboard&qid=1718389982&sprefix=ps5+controllerkeybo%2Caps%2C88&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003653&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-tested-a-mini-controller-keyboard-so-you-dont-have-to%2F&asc%5Fcampaign=Evergreen), which Amazon lists as its “Overall Pick” among many near-identical offerings. The add-on is clever in concept and aesthetic, filling the gap between grips with an easy-to-access keyboard.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![A PlayStation 5 DualSense controller with mini keypad connected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6258.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -48,7 +52,7 @@ Tim Rattray / How-To Geek
  It didn’t need to be this way. The DualSense’s speaker is located below its touchpad and therefore isn’t obfuscated by this device. While this won’t seem like an important flaw to many gamers, it makes the keypad feel distractingly cheap every time sounds are played (something common for _Final Fantasy XIV_, the most popular game that benefits from a Bluetooth keyboard).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Not Entirely Useless
@@ -59,10 +63,6 @@ Tim Rattray / How-To Geek
 
 ![Bottom of a clip-on controller keypad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6259.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Rattray / How-To Geek
 
  While these issues have led me to stop connecting the keypad to my controller, I still use it as a tiny Bluetooth keyboard. It connects seamlessly and immediately to my PS5 after being turned on and holds a charge for a long time (I haven’t needed to plug the device into a USB-C charger since topping it up upon receiving it two months ago). It becomes less comfortable to type on without the grips of a controller, but it gets the job done.
@@ -70,7 +70,7 @@ Tim Rattray / How-To Geek
  Lastly, it’s neat that the keys light up in case you’re gaming in the dark, something applicable to me as I game on [an OLED television](https://youtube-webster.techidaily.com/-views-via-strategic-tagging-tactics/) so the darker the room the better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stick to Standard Bluetooth Keyboards
@@ -94,20 +94,20 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-a-deeper-look-at-vivas-video-capabilities/"><u>[Updated] A Deeper Look at Viva's Video Capabilities</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-hues-3-swift-strategies-for-perfect-color-balance/"><u>2024 Approved Harmonizing Hues 3 Swift Strategies for Perfect Color Balance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtubes-financial-frontier-strategies-for-maximum-gains/"><u>2024 Approved Youtube's Financial Frontier Strategies for Maximum Gains</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-huawei-nova-y91-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Huawei Nova Y91 Fingerprint Lock</u></a></li>
-<li><a href="https://win-premium.techidaily.com/descubra-a-mais-eficiente-ferramenta-de-backup-e-sincronizacao-em-tempo-real-gratis-para-windows-pcs/"><u>Descubra a Mais Eficiente Ferramenta De Backup E Sincronização Em Tempo Real Grátis Para Windows PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/new-nickwatch-comes-to-us-during-kids-choice-awards/"><u>New NickWatch Comes to US During Kids' Choice Awards</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pocket-friendly-pleasures-with-oneplus-buds/"><u>Pocket-Friendly Pleasures with OnePlus Buds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/post-weld-treatments-are-often-necessary-to-enhance-mechanical-properties/"><u>Post-Weld Treatments Are Often Necessary to Enhance Mechanical Properties.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-digital-experience-with-the-cutting-edge-dell-display-immersive-noise-blocking-headset-and-top-tier-webcam-technology/"><u>Revolutionize Your Digital Experience with the Cutting-Edge Dell Display, Immersive Noise Blocking Headset & Top-Tier Webcam Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/should-i-upgrade-my-apple-watch/"><u>Should I Upgrade My Apple Watch?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/streamlining-your-system-home-to-professional-windows/"><u>Streamlining Your System: Home to Professional Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/t6-dslr-features-wallet-friendly-selection/"><u>T6 DSLR Features: Wallet-Friendly Selection</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-storytellers-portal/"><u>Ultimate Storytellers' Portal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-emotion-artificnal-intelligence-understanding-felt-experiences-digitally/"><u>Unveiling the Power of Emotion Artificnal Intelligence: Understanding Felt Experiences Digitally</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-comprehensive-guide-to-online-podcast-recording/"><u>[Updated] In 2024, A Comprehensive Guide to Online Podcast Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-guide-to-capturing-line-conversations-on-pc-and-smartphone/"><u>Easy Guide to Capturing LINE Conversations on PC & Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-tp-links-av2000-achieving-lightning-speed-through-your-electrical-outlets-with-room-for-design-improvement/"><u>Expert Insights on TP-Link's AV2000: Achieving Lightning Speed Through Your Electrical Outlets with Room for Design Improvement</u></a></li>
+<li><a href="https://win-guides.techidaily.com/exploring-emeditors-rich-functionality-with-various-key-combinations/"><u>Exploring EmEditor's Rich Functionality with Various Key Combinations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/high-quality-virtual-console-imitation-software-for-pc-for-2024/"><u>High-Quality Virtual Console Imitation Software for PC for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-new-m1-chip-redefines-performance-in-apples-latest-13-inch-macbook-pro-a-comprehensive-review/"><u>How the New M1 Chip Redefines Performance in Apple's Latest 13-Inch MacBook Pro: A Comprehensive Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-and-powerful-rechargeable-battery-chargers-dominating-the-market/"><u>Innovative & Powerful Rechargeable Battery Chargers Dominating the Market</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210971276-9781088259085-los-caminos-del-viento/"><u>Los Caminos del Viento | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-future-the-top-chosen-tv-streaming-apps/"><u>Navigating the Future: The Top Chosen TV Streaming Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/priorities-for-a-smart-dash-camera-buy/"><u>Priorities for a Smart Dash Camera Buy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-and-longer-passwords-for-windows-1011-users/"><u>Secure and Longer Passwords for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cache-miss-errors-errcachemiss-in-your-chrome-browser/"><u>Troubleshooting Cache Miss Errors (ERR_CACHE_MISS) in Your Chrome Browser</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-potential-of-5g-with-the-samsung-galaxy-s20-fan-edition-a-definitive-review/"><u>Unlocking the Potential of 5G with the Samsung Galaxy S20 Fan Edition: A Definitive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-drawing-experience-with-huions-magnificent-kamvas-gt-191-tablet-a-thorough-review/"><u>Unveiling the Powerful Drawing Experience with Huion's Magnificent Kamvas GT-191 Tablet: A Thorough Review</u></a></li>
 </ul></div>
 

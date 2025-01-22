@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2025-01-12T19:58:02.980Z
-updated: 2025-01-16T08:05:41.989Z
+date: 2025-01-17T01:47:54.875Z
+updated: 2025-01-21T18:02:51.842Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ## Mastering Console Control: How to Command Gaming Systems with Your TV Remote
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 * Maximize the convenience of using a TV remote on consoles, Chromecast, and Apple TV for easy media control.
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  One Remote for All Functions
 
@@ -38,7 +42,7 @@ Jordan Gloor / How-To Geek
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Ultimate Solution: HDMI-CEC
@@ -51,6 +55,10 @@ Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Set up HDMI-CEC on Your TV
 
  Before you can start controlling your consoles or multimedia devices with one remote, you'll need to enable the function on your TV. While most TVs manufactured in recent years include this functionality, the tricky part is finding it in your settings.
@@ -59,17 +67,9 @@ Jason Fitzpatrick / How-To Geek
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Console
 
@@ -104,7 +104,7 @@ Jason Fitzpatrick / How-To Geek
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -130,24 +130,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-grand-city-adventures-without-a-gta-tie/"><u>[New] 2024 Approved Grand City Adventures Without a GTA Tie</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>[New] 2024 Approved Jumpstart to Partner Elevation Secure 10K Views in Minutes!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cinematic-hope-the-top-10-inspirational-films/"><u>[Updated] Cinematic Hope The Top 10 Inspirational Films</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-best-free-mmorpg-games-you-can-find-for-2024/"><u>[Updated] Top 10 Best Free MMORPG Games You Can Find for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-cost-vs-comfort-the-ultimate-review-of-mophies-powerstation-ac-charger/"><u>Breaking Down the Cost Vs. Comfort - The Ultimate Review of Mophie's Powerstation AC Charger</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-masterclass-review-caixuns-stellar-performance-on-a-4k-75-inch-android-tv-set/"><u>Budget Masterclass Review: Caixun's Stellar Performance on a 4K, 75-Inch Android TV Set</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-netgears-c3000-model-is-it-a-relic-or-a-reliable-router/"><u>Comprehensive Evaluation of Netgear's C3000 Model: Is It a Relic or a Reliable Router?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-mobvoi-ticwatch-pro-3-benefits-of-built-in-gps-and-battery-saving-displays-explored/"><u>Comprehensive Guide to the Mobvoi TicWatch Pro 3: Benefits of Built-In GPS & Battery-Saving Displays Explored</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lenovo-tab-p11-pro-excellence-marred-by-small-defects/"><u>Comprehensive Review of the Lenovo Tab P11 Pro: Excellence Marred by Small Defects</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-rotibox-bluetooth-headset-cap-review-unmatched-comfort-and-quality-sound/"><u>Comprehensive Rotibox Bluetooth Headset Cap Review: Unmatched Comfort & Quality Sound</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-cost-of-playing-ps5s-top-4-reasons-to-buy/"><u>Decoding the Cost of Playing: PS5's Top 4 Reasons to Buy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-performance-of-linksys-wrt1900acs-an-insightful-look-at-an-innovative-open-source-router/"><u>Decoding the Performance of Linksys WRT_1900ACS - An Insightful Look at an Innovative Open Source Router</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/detailed-assessment-of-sea-techs-external-usb-blu-ray-writer-a-user-experience-with-mixed-results/"><u>Detailed Assessment of Sea Tech's External USB Blu-Ray Writer - A User Experience with Mixed Results</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/half-off-xbox-game-pass-bundled-with-fire-tv-stick-score-the-deal-after-prime-day-exclusive-offer-spotted-on-zdnet/"><u>Half Off Xbox Game Pass Bundled With Fire TV Stick - Score the Deal After Prime Day! Exclusive Offer Spotted on ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-usb-mouse-drivers-renewal/"><u>The Ultimate Guide to USB-Mouse Drivers Renewal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-solution-to-fixing-intel-dynamic-platform-and-thermal-frameworks-failed-driver-setup/"><u>The Ultimate Solution to Fixing Intel Dynamic Platform & Thermal Framework's Failed Driver Setup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-total-motion-analysis-2023-for-2024/"><u>[Updated] Total Motion Analysis 2023 for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-unveiling-elgoog-the-humorous-mirror-website/"><u>A Comprehensive Review: Unveiling elgooG, The Humorous Mirror Website</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-acer-chromebook-r-11-assessment-elegant-design-meets-portability/"><u>Comprehensive Acer Chromebook R 11 Assessment: Elegant Design Meets Portability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-convenience-of-arfs-advanced-pet-feeding-systems/"><u>Discover the Convenience of Arf's Advanced Pet Feeding Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/drive-better-engagement-on-your-website-using-the-innovative-power-of-cookiebot-technology/"><u>Drive Better Engagement on Your Website Using the Innovative Power of Cookiebot Technology</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-dji-mavic-3-a-comprehensive-image-quality-and-performance-review/"><u>Exploring the Skies with DJI Mavic 3: A Comprehensive Image Quality and Performance Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12R?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-collection-free-3d-text-psds-galore/"><u>In 2024, Ultimate Collection FREE 3D Text PSDs Galore</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inverter-box-by-jackery-an-in-depth-review-on-its-integrated-mains-outlet-feature/"><u>Inverter Box by Jackery: An In-Depth Review on Its Integrated Mains Outlet Feature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722958518599-lenovo-x1-carbon-drivers-compatible-with-windows-11-and-windows-7-get-them-now/"><u>Lenovo X1 Carbon Drivers: Compatible with Windows 11 & Windows 7 – Get Them Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-discovered-details-on-the-next-gen-iphones-iphone-16-16-pro-and-max-insider-information-revealed/"><u>Newly Discovered Details on the Next-Gen iPhones (iPhone 16, 16 Pro & Max) - Insider Information Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shining-through-hd-is-it-a-wise-pick-for-hdr-for-2024/"><u>Shining Through HD Is It a Wise Pick for HDR for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-urban-armor-gear-for-macbook-pro-sturdy-and-practical-defense-against-damage/"><u>The Ultimate Guide to the Urban Armor Gear for MacBook Pro: Sturdy & Practical Defense Against Damage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-durable-asus-chromebook-c2/"><u>The Ultimate Review of the Durable Asus Chromebook C2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excitement-of-drone-warfare-dji-robomasters-s1-a-comprehensive-evaluation-for-gamers/"><u>Unveiling the Excitement of Drone Warfare: DJI RoboMasters S1 - A Comprehensive Evaluation for Gamers</u></a></li>
 </ul></div>
 

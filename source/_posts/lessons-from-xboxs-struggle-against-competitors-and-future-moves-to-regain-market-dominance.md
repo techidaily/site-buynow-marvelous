@@ -1,7 +1,7 @@
 ---
 title: Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
-date: 2025-01-14T04:01:38.289Z
-updated: 2025-01-15T22:54:31.578Z
+date: 2025-01-14T19:24:15.191Z
+updated: 2025-01-22T11:16:15.435Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Xbox 360 shot to success thanks to Xbox Live and popular games like _Halo_, boosting Microsoft's profile in Europe and the US.
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * The Series X|S built on the success of Game Pass, backwards compatibility, and Microsoft exclusives but has failed to see the success of Microsoft's rivals, which means the next Xbox is likely to look very different from the last.
 
  By some estimates, the PS5 is outselling both Xbox Series consoles by more than four times to one. Microsoft is now adopting a multi-platform strategy and bringing games to Sony’s platform. So what went wrong, and what happens next?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How the Xbox 360 Won the West
 
@@ -30,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Having flirted with success thanks to the introduction of Xbox Live in November 2002, a year after the Xbox launch, the company moved forward with a console that put Xbox Live at the center of the experience. By the time _Halo 3_ came out in November 2007, 8 million people were playing online and sending each other obscene messages via Xbox Live.
 
 ![A white Xbox 360 on a table with a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/ba147733.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [emodpk/Shutterstock.com](https://www.shutterstock.com/image-photo/ayutthaya-thailand-march-6-2018-white-1039536790)
 
@@ -46,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Unfortunately, this wouldn’t last.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Xbox One Gambled Everything on the Living Room (and Lost)
@@ -60,7 +72,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Xbox One Kinect sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/b950b2b1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -81,10 +93,6 @@ Microsoft
 
 ![Xbox Series X and Xbox Series X consoles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/xbox-x-vs-s-resized.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy-27-december-2020-new-video-1882894459)_
 
  The Series S is [Microsoft’s budget-friendly, all-digital console](https://facebook-video-share.techidaily.com/new-unleash-your-creativity-cutting-edge-pc-techniques-for-youtube-success/) that takes a lot of inspiration from the One S. It targets 1440p and 1080p rather than 4K experience, but it seems to have been a success for Microsoft with [IGN reporting](https://www.ign.com/articles/leaked-microsoft-documents-show-the-xbox-series-s-might-be-more-popular-than-you-think) in September 2023 that 75% of current-gen Xbox owners bought the cheaper machine, rather than the Series X.
@@ -101,10 +109,6 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
 
  It’s concerning to see some developers shy away from the Xbox as a release platform, even when Sony isn’t involved in exclusivity deals. The highest profile example is _Baldur’s Gate 3_ being delayed partly by [Series S complications](https://www.thegamer.com/baldurs-gate-3-xbox-release-this-year-no-split-screen-series-s/). It’s easy to see how smaller studios with limited time and budgets could prioritize platforms like PS5 and Switch first, then work on the Xbox port later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Future of Xbox
 
  The good news is that Xbox still has a future. Microsoft held a [business update](https://www.ign.com/articles/xbox-vision-of-the-future) in early 2024 to assure fans that it is working on the next generation of Xbox hardware, and it reiterated that message at its June 2024 showcase. There will be another Xbox, but what that hardware looks like remains to be seen.
@@ -116,10 +120,6 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
  Microsoft could even one-up Sony by making it possible to install a storefront like Steam, paving the way for Sony’s PC releases to be playable on an Xbox.
 
 ![The start of a multiplayer match in Halo: Infinite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/halo_infinite.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Halo: Infinite_  
 Tim Brookes / How-To Geek
@@ -153,24 +153,17 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/xploring-this-years-most-iconic-music-video-responses/"><u>[New] Exploring This Year's Most Iconic Music Video Responses</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 14 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c51-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco C51 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-moto-g24-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-amo-6978-driver-troubleshooting-guide/"><u>HP OfficeJet Pro Amo 6978 Driver Troubleshooting Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>In 2024, Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-or-android-comparing-operating-systems-to-find-your-match/"><u>IPhone or Android? Comparing Operating Systems to Find Your Match</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/key-points-in-purchasing-revamped-computers/"><u>Key Points in Purchasing Revamped Computers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/macos-monterey-performance-gains-or-no/"><u>MacOS Monterey: Performance Gains or No?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-television-viewing-with-the-compact-power-of-the-clearstream-2v-hd-antenna-full-review-inside/"><u>Maximize Your Television Viewing with the Compact Power of the ClearStream 2V HD Antenna – Full Review Inside!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-features-of-linksys-ea8300-the-ultimate-gateway-for-connected-devices/"><u>Navigating Through the Features of Linksys EA8300: The Ultimate Gateway for Connected Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-jscriptdll-file-absent-or-lost-issue/"><u>Resolving the 'JScript.dll' File Absent or Lost Issue</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-syma-x5c-rc-drone-a-great-deal-for-new-flyers/"><u>Reviewing the SYMA X5C RC Drone: A Great Deal for New Flyers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-home-automation-a-comprehensive-review-of-the-3rd-gen-echo-show-10-that-follows-you-around/"><u>Revolutionizing Home Automation: A Comprehensive Review of the 3Rd Gen Echo Show 10 that Follows You Around</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-creating-a-unique-nintendo-account-for-your-3ds-console/"><u>Step-by-Step Guide: Creating a Unique Nintendo Account for Your 3DS Console</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tablet-tech-insights-evaluating-devices-by-processing-performance-and-power/"><u>Tablet Tech Insights: Evaluating Devices by Processing Performance and Power</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c12-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C12 Pro Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-persistent-crashes-in-remnant-from-the-ashes/"><u>Troubleshooting and Fixing Persistent Crashes in 'Remnant: From The Ashes'</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-spotify-ranks-as-the-top-player-for-streaming-music-unveiling-its-superior-playlist-features/"><u>Why Spotify Ranks as the Top Player for Streaming Music: Unveiling Its Superior Playlist Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-effortlessly-migrate-to-macos-sierra-version/"><u>[New] How-To Effortlessly Migrate to macOS Sierra Version</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023-guide-selecting-no-charge-fb-video-and-photo-artists-for-2024/"><u>[Updated] 2023 Guide Selecting No-Charge FB Video & Photo Artists for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-win11s-top-5-cost-free-applications-for-recording-screens/"><u>[Updated] 2024 Approved Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-desk-setup-with-the-top-tier-wireless-mice/"><u>Ace Your Desk Setup with the Top-Tier Wireless Mice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-cost-and-quality-a-closer-look-at-the-pros-and-cons-of-thermopro-tp67/"><u>Balancing Cost and Quality: A Closer Look at the Pros and Cons of ThermoPro TP67</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/imo-messaging-app-evaluation-does-it-meet-your-communication-needs/"><u>Imo Messaging App Evaluation - Does It Meet Your Communication Needs?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-s17-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo S17 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-m6-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco M6 5G Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-google-pixel-8-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Google Pixel 8 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Flip Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-verdict-on-the-nook-glowlight-4-tablet-should-you-buy-it/"><u>In-Depth Analysis & Verdict on the Nook GlowLight 4 Tablet - Should You Buy It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-and-performance-of-the-jaco-smartpro-digital-tire-inflator/"><u>Unveiling the Features and Performance of the Jaco SmartPro Digital Tire Inflator</u></a></li>
 </ul></div>
 

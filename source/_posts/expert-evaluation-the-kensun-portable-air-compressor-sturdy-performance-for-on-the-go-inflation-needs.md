@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation: The Kensun Portable Air Compressor - Sturdy Performance for On-the-Go Inflation Needs"
-date: 2024-08-09T00:43:57.718Z
-updated: 2024-08-10T00:43:57.718Z
+date: 2025-01-16T11:44:08.203Z
+updated: 2025-01-21T20:34:28.560Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Evaluation: The Kensun Portable Air Compressor - Sturdy Performance for On-the-Go Inflation Needs"
@@ -37,18 +37,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -73,8 +68,9 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -97,14 +93,15 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
 
@@ -127,15 +124,17 @@ Lifewire / Jeffrey Daniel Chadwick
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -150,9 +149,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AC/DC Portable Air Pump Tire Inflator
@@ -169,11 +165,31 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-focused-communication-tips-for-virtual-teams-for-2024/"><u>[New] Focused Communication Tips for Virtual Teams for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-instagrams-music-icon-feature-effectively/"><u>[New] Leveraging Instagram’s Music Icon Feature Effectively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[New] Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boundless-memories-archive-instagrams-free-saves-for-2024/"><u>Boundless Memories Archive Instagram’s Free Saves for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-greatest-free-melody-services-a-list-of-7-must-try-options-for-ios-and-android-users/"><u>Explore the Greatest Free Melody Services: A List of 7 Must-Try Options for iOS and Android Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-13-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 13 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M54 5G Phone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-streamlining-production-workflow-extracting-audio-separately-on-a-mac-with-imovie/"><u>In 2024, Streamlining Production Workflow Extracting Audio Separately on a Mac with iMovie</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-or-amazon-fire-tablet-which-device-ticks-all-your-boxes/"><u>IPad or Amazon Fire Tablet: Which Device Ticks All Your Boxes?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-winegard-fl5500a-worth-it-a-detailed-look-at-its-functionality-and-value/"><u>Is the Winegard FL5500A Worth It? A Detailed Look at Its Functionality & Value</u></a></li>
+<li><a href="https://article-helps.techidaily.com/isolating-pictures-from-video-frames-in-photos-app/"><u>Isolating Pictures From Video Frames in Photos App</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-home-climate-sensors-ranked-s-latest-comparisons/"><u>Leading Home Climate Sensors Ranked 'S Latest Comparisons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-wearable-fitness-gadgets-reviewed-what-to-choose/"><u>Leading Wearable Fitness Gadgets Reviewed - What to Choose</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-your-wireless-needs-an-expert-take-on-the-revolutionary-google-wifi-technology/"><u>Mastering Your Wireless Needs - An Expert Take on the Revolutionary Google Wifi Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-value-and-performance-with-the-mini-beast-the-acer-predator-triton-300-se-evaluated/"><u>Maximizing Value and Performance with the Mini-Beast: The Acer Predator Triton 300 SE Evaluated</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-enhanced-capabilities-of-the-newly-released-cycwagen-electric-bike/"><u>Navigate Through the Enhanced Capabilities of the Newly Released CycWagen Electric Bike</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pixframe-20x-review-innovation-overshadowed-by-cost/"><u>PixFrame 20X Review: Innovation, Overshadowed by Cost</u></a></li>
+</ul></div>
+

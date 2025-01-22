@@ -1,7 +1,7 @@
 ---
 title: "Fun in the Cosmos: Constructing Cities on Mars with a Side of Interplanetary Gusts"
-date: 2024-08-09T00:43:59.143Z
-updated: 2024-08-10T00:43:59.143Z
+date: 2025-01-14T16:03:41.738Z
+updated: 2025-01-21T22:01:40.757Z
 categories:
   - BestProducts
 description: "This Article Describes Fun in the Cosmos: Constructing Cities on Mars with a Side of Interplanetary Gusts"
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Raspberry Pi 400
 
 ![Raspberry Pi 400](https://www.lifewire.com/thmb/Gmg1bX1GHP4gGx2wCClYDURkzKI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Raspberry-Pi-400-Mini-PC-1-2e3e0817c1ad4570a7c3a8d70b7e991b.jpg)
@@ -47,14 +43,11 @@ Erika Rawes / Lifewire
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Raspberry Pi 400
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Raspberry Pi 400](https://www.lifewire.com/thmb/Lx1zPft9GUcm5A0WBJsxvP8fCUM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Raspberry-Pi-400-Mini-PC-1-2e3e0817c1ad4570a7c3a8d70b7e991b.jpg)
 
 Erika Rawes / Lifewire
@@ -88,8 +81,9 @@ Erika Rawes / Lifewire
  The most recent iteration of the Raspberry Pi, the Raspberry Pi 400, has better processing and the Pi computer built right into a keyboard. This allows for an even more compact personal computer, and the Pi 400 kit even includes a microSD card with the OS preloaded. To see how this new Pi compares to previous generation models and other mini PCs, I tested it for a week. Here’s my full review of the Raspberry Pi 400.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design: A PC inside of a keyboard
 
  Previous versions of the Raspberry Pi didn’t exactly come across as accessible to the typical PC user who spends most of their time surfing the web. The older Raspberry Pi models look like a mini motherboard with ports and other components attached. The Raspberry Pi 400 is completely different, as the board is housed inside a keyboard for easier setup and use. It’s reminiscent of those all-in-one PC keyboards from the 80s.
@@ -104,6 +98,10 @@ Erika Rawes / Lifewire
 
  On the back of the Pi 400, you’ll find a slot for the microSD card, as well as all of the ports. It has two micro HDMI slots, three USB slots (two 3.0 and one 2.0), a horizontal 40-pin GPIO header, and the port for the power supply. The power button is on the keyboard itself—press F10 to power on the Pi, and press Fn + F10 to power it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup Process: Easier than previous Pi models
 
  The Raspberry Pi 400 is still...well, a[Raspberry Pi](https://www.lifewire.com/raspberry-pi-4102621) . It isn’t a traditional PC in the sense that it doesn’t have full capabilities like a typical laptop,[desktop computer](https://www.lifewire.com/best-desktop-pcs-4045927) , or even mini computer. The Pi is just a computer—it doesn’t even have an operating system unless you add one (fortunately, this Pi includes the OS with the kit). Even when you add the OS, the Pi has a relatively barebones interface. The whole purpose of a Raspberry Pi is to be whatever you want it to be—a personal computer, a smart home controller, a gaming system, or whatever else you can think of.
@@ -113,8 +111,9 @@ Erika Rawes / Lifewire
  The whole purpose of a Raspberry Pi is to be whatever you want it to be—a personal computer, a smart home controller, a gaming system, or whatever else you can think of.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Projects: Keyboard helps in some ways, hinders in others
 
  One great thing about[Raspberry Pi](https://www.lifewire.com/what-is-raspberry-pi-4042337) is that there’s a community of users to help you out with project ideas, to share terminal commands, and to help with troubleshooting. Pi computers are great for makers, but once I really started experimenting with the Pi 400, I realized the keyboard is beneficial in some areas, but it’s limiting in others.
@@ -126,6 +125,10 @@ Erika Rawes / Lifewire
 ![Raspberry Pi 400](https://www.lifewire.com/thmb/oideXrFtpj_WzRtq1qacMhsc7Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raspberry-Pi-400-Mini-PC-2-6fbd163b7ed849f684963b93ae8b8735.jpg)
 
 Erika Rawes / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Display: Dual mini HDMI ports
 
@@ -147,22 +150,20 @@ Erika Rawes / Lifewire
 
  You can turn your Raspberry Pi 400 into a RetroPie gaming system, where you can play classic games from Nintendo, Nintendo 64, Sega, Atari, and more. I created a RetroPie using a Raspberry Pi 3 a few years back, and I’d have to connect a keyboard for any updates or changes. The new keyboard form factor makes things a bit easier with the Pi 400\.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Productivity: LibreOffice and helpful accessories
 
  The Kit with the included Raspberry Pi OS has LibreOffice applications preloaded. You get LibreOffice Base, Calc, Draw, Impress, Math, and Writer. This is helpful for homework, work, keeping track of your command lines, basic word processing, or for creating spreadsheets.
 
  The accessories tab includes a PDF viewer and a calculator, as well as a text editor and an SD card copier. You also have a basic web browser—plenty of tools to get you started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Audio: Bluetooth connectivity
 
  You won’t find built-in speakers, but the Pi 400 will play audio on your monitor’s speakers when you use the HDMI to mini HDMI cable included in the kit. It also has Bluetooth for connecting a pair of wireless headphones. I had no problem connecting a few different types of Bluetooth headphones to the Pi. There’s no audio output jack, but you can connect compatible USB speakers if you launch the appropriate USB commands in the terminal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Raspberry Pi 400](https://www.lifewire.com/thmb/vAb_0QFg4Uze6uuiSMlTPtkw_CA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raspberry-Pi-400-Mini-PC-5-b326f92abc1a4349910f0b7b5d0e2d53.jpg)
 
 Erika Rawes / Lifewire
@@ -181,29 +182,28 @@ Erika Rawes / Lifewire
 
  Pi computers are great for makers, but once I really started experimenting with the Pi 400, I realized the keyboard is beneficial in some areas, but it’s limiting in others.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Software: Learn to code
 
  In addition to a basic office suite, photo processing software, and games, the Pi 400 Kit comes with several coding applications like Scratch, Scratch 2, Scratch 3, Blue Jay Java IDE, Green Foot Java IDE, Geany, Mathematica, Sense HAT Emulator, and more.
 
  Although the Raspberry Pi OS is basic, the included applications make this an ideal computer for a beginner who wants to learn basic computer programming skills. The interface includes a direct connection to the Pi site, where you can find numerous project ideas from 3D print templates to robotics projects.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: An amazing value
 
  Unless you’re well-versed in using a Pi, I would not suggest going with the Pi 400 alone. It’s best to go with the kit. The Pi 400 kit costs around $100, and that’s a great price considering everything you get. It makes an excellent gift for a young techie or anyone who wants to learn more about computers or automation.
 
 ![Raspberry Pi 400](https://www.lifewire.com/thmb/sgM6gDaZx8bgvwHPPRkrZjgH9oA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raspberry-Pi-400-Mini-PC-4-c9378702644a4e77b8a5e58985d72993.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Erika Rawes / Lifewire
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Raspberry Pi 400 Kit vs. Arduino Student Kit
 
  The Arduino Student Kit comes with the Arduino Uno, which is a microcontroller board based on ATmega328P. It comes with a bunch of accessories for all sorts of electronics, automation, and coding projects. The Arduino Kit is more like the older Pi models in that it’s tiny, and designed for building different types of projects.
@@ -233,14 +233,11 @@ Erika Rawes / Lifewire
 * Software  Raspberry Pi OS (formerly Raspbian)
 * What’s included  Raspberry Pi 400, power supply, mouse, SD card with OS pre-installed, micro HDMI to HDMI cable, Raspberry Pi Beginner’s Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -248,3 +245,19 @@ Erika Rawes / Lifewire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essentials-of-cinematic-dialogue-design/"><u>[New] In 2024, Essentials of Cinematic Dialogue Design</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-launch-your-brands-professional-chapter-with-instagram/"><u>[New] In 2024, Launch Your Brand's Professional Chapter with Instagram</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-panoramic-photography-at-its-finest-top-11-camera-picks/"><u>[Updated] 2024 Approved Panoramic Photography at Its Finest Top 11 Camera Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-checklist-for-incorporating-srt-in-mp4-files/"><u>2024 Approved Comprehensive Checklist for Incorporating SRT in MP4 Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-install-download-hp-officejet-5740-printer-drivers/"><u>Effortless Install: [DOWNLOAD] HP OfficeJet 5740 Printer Drivers</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-migration-of-data-between-ssd-and-hdd-partitions-on-windows-versions-1187/"><u>Free Migration of Data Between SSD and HDD Partitions on Windows Versions 11/8/7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/should-i-jump-on-apple-watchs-newest-model/"><u>Should I Jump on Apple Watch's Newest Model?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplify-your-pets-diet-with-the-arf-automated-feeding-system/"><u>Simplify Your Pet's Diet with the Arf Automated Feeding System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-active-easily-discover-how-the-cubefit-terramat-changes-workouts-while-standing/"><u>Stay Active Easily: Discover How the CubeFit TerraMat Changes Workouts While Standing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-in-shape-and-connected-with-the-garmin-vivoactive-3s-built-in-music-player/"><u>Stay in Shape and Connected with the Garmin Vivoactive 3'S Built-In Music Player</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/omprequad-video-captioning-techniques-for-youtube-for-2024/"><u>The Comprequad Video Captioning Techniques for YouTube for 2024</u></a></li>
+</ul></div>
+

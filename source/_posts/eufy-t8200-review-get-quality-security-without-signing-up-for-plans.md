@@ -1,7 +1,7 @@
 ---
 title: "Eufy T8200 Review: Get Quality Security Without Signing Up for Plans!"
-date: 2024-08-09T00:43:59.600Z
-updated: 2024-08-10T00:43:59.600Z
+date: 2025-01-17T10:48:37.398Z
+updated: 2025-01-22T07:28:41.895Z
 categories:
   - BestProducts
 description: "This Article Describes Eufy T8200 Review: Get Quality Security Without Signing Up for Plans!"
@@ -13,12 +13,13 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Tab M10 FHD Plus (2nd Gen)
 
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/qvZCuf5GNYc0R5K4KD2s9QFXUgs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_HeroSquare-fd396d12e6ec48668ead96bed2f790fb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -42,6 +43,10 @@ Lifewire / Jeremy Laukkonen
 ## Lenovo Tab M10 FHD Plus (2nd Gen)
 
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/dbD4xoAS3V_HdF9dkFJwAPoswK0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_HeroSquare-fd396d12e6ec48668ead96bed2f790fb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -73,12 +78,16 @@ Lifewire / Jeremy Laukkonen
  I recently had the opportunity to pack along a Tab M10 FHD Plus as part of my daily carry, using it for everything from email to streaming video and even some video conferencing over the span of about a week. I tested everything from overall performance and battery life to camera quality and wireless connectivity to see if this budget Android tablet rises above the crowd or disappears inside it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What’s New: Better specs and price than the first-gen Tab M10
 
  The Tab M10 FHD Plus (2020) is one successor to 2019’s Tab M10\. It packs a slightly more powerful processor, bigger battery, and batter cameras. The display remains unchanged in resolution, but the Tab M10 FHD Plus (2020) does have a slightly bigger display. The price tag of the Tab M10 FHD Plus (2020) is also a bit smaller.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design: Attractive metal design feels solid in the hand
 
@@ -92,9 +101,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The right edge of the tablet holds the power button and volume rocker, along with a micro SD card tray that you can use to expand onboard storage. If you opt for the LTE model, the same drawer also has a slot for a SIM card.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/Ma5tHUu5pX1_gI7bCahJfUmTcJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_04-5bc59222ddfe4d488b3aaf566fdf3300.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -113,9 +119,6 @@ Lifewire / Jeremy Laukkonen
 
  The colors look great, the image is nice and crisp without visible pixelation, and it has great viewing angles thanks to the IPS panel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance: Decent enough for the price
 
  The Tab M10 FHD Plus is powered by an octa-core Mediatek MT6762 Helio P22T chip, and it’s available in a handful of[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) and storage configurations. You can get it with 32GB of storage and 2GB of RAM, 64GB and 4GB, or 128GB with 4GB of RAM. My test unit was the 128GB / 4GB model.
@@ -124,11 +127,11 @@ Lifewire / Jeremy Laukkonen
 
  To get a solid baseline of what you can really expect from this hardware, I ran a handful of[benchmark tests](https://www.lifewire.com/what-is-a-benchmark-2625811) . The first test I ran was the Work 2.0 benchmark from PCMark, which is designed to simulate a variety of productivity tasks. In the Work 2.0 benchmark, the Tab M10 FHD scored 5,316, which is pretty good for this hardware configuration.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/tt3HD9uM-f4_vqoAxok0dfwOVb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_02-264a43b354b148d7bfeea1a952ddcb71.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -174,6 +177,10 @@ Lifewire / Jeremy Laukkonen
 
  The selfie cam is sufficient for video calls, but it wouldn’t be my first choice. Video looks washed out and flat, with excessive noise depending on the lighting conditions. Photos look like artifacts from a different time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Could use a bigger battery
 
  The Tab M10 FHD Plus includes a 5,000 mAh battery and supports up to 10W charging. The battery is the same one found in the less expensive Tab M10 HD, and it should really be bigger due to the increased power consumption of the bigger display. When using the tablet during the day for email and web browsing, and at night to stream videos, I found myself needing to put it on the charger every day.
@@ -183,8 +190,9 @@ Lifewire / Jeremy Laukkonen
  The battery is the same one found in the less expensive Tab M10 HD, and it should really be bigger due to the increased power consumption of the bigger display.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Software: Originally shipped with Android Pie, now comes with Android 10
 
  The Tab M10 FHD Plus originally shipped with Android Pie, but my test unit came equipped with Android 10 from the factory. There are a couple important takeaways from that.
@@ -197,16 +205,10 @@ Lifewire / Jeremy Laukkonen
 
  The Tab M10 FHD has an MSRP of between $149.99 and $209.99 depending on the configuration you choose, with the version that includes a dock being a bit more expensive, and those prices are pretty reasonable. I’ve also seen it on sale for a bit less than that, at which point it makes the move from adequately priced to a great deal. If you find the configuration I tested, with 4GB of RAM, it'll be priced closer to $149.99—a fantastic value.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/6jtXbNEbp6IeWqkD4Bs-0KjGx4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_05-afa4a59fc67343c785979e6eb3f67c48.jpg)
 
 Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Tab M10 FHD Plus (2020) vs. Lenovo Tab M10 HD
 
  The Tab M10 FHD Plus and Tab M10 HD are similar tablets that share the same processor, similar RAM and storage configurations, and look almost identical to each other. The Tab M10 FHD Plus is a bit bigger thanks to its larger display, and it also has a higher resolution.
@@ -220,17 +222,15 @@ Lifewire / Jeremy Laukkonen
  The Lenovo Tab M10 FHD Plus (2020) is a great option if you’re looking for a basic Android tablet for less than $200\. It can’t stand up to more expensive tablets, but it’s great for basic tasks like email, web browsing, and streaming media. The only issue is that you can’t get the dock separately, so make sure to grab the Lenovo Smart Tab M10 FHD Plus that includes the dock if you want that functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Lenovo P11 Pro](https://www.lifewire.com/lenovo-p11-pro-review-5116910)
 * [Lenovo Thinkpad X1 Fold](https://www.lifewire.com/lenovo-thinkpad-x1-fold-review-5095689)
 * [Lenovo Tab 4](https://www.lifewire.com/lenovo-tab-4-review-4691612)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Tab M10 FHD Plus (2nd Gen)
@@ -259,11 +259,33 @@ Lifewire / Jeremy Laukkonen
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-xbox-one-screen-recording-easy-steps-for-gamers-for-2024/"><u>[New] Xbox One Screen Recording Easy Steps for Gamers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-are-there-restrictions-in-saving-youtube-videos/"><u>[Updated] 2024 Approved Are There Restrictions in Saving YouTube Videos?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-enjoy-every-frame-the-ultimate-guide-to-recording-netflix-on-os-x-for-2024/"><u>[Updated] Enjoy Every Frame The Ultimate Guide to Recording Netflix on OS X for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-pro-level-cams-for-aspiring-youtube-creators/"><u>2024 Approved Pro-Level Cams for Aspiring YouTube Creators</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-future-proof-selection-of-2024s-most-advanced-and-efficient-home-theater-pcs/"><u>A Future-Proof Selection of 2024'S Most Advanced and Efficient Home Theater PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/diligent-analysis-of-jabras-resilient-hearing-gear/"><u>Diligent Analysis of Jabra's Resilient Hearing Gear</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722870801924-how-to-get-started-with-pokemon-unite-gaming-on-desktop-pcs/"><u>How to Get Started with Pokémon Unite Gaming on Desktop PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G84 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-beloved-sandbox-title-minecraft-perfect-for-all-generations/"><u>In-Depth Evaluation of the Beloved Sandbox Title, Minecraft: Perfect for All Generations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-bloodborns-gritty-realm-an-in-depth-review/"><u>Inside Bloodborn's Gritty Realm - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pros-vs-cons-making-an-informed-decision-about-webexs-efficacy-in-remote-collaboration/"><u>Pros vs Cons: Making an Informed Decision About WebEx's Efficacy in Remote Collaboration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-and-tips-for-the-google-wireless-nest-doorbell-battery-version/"><u>Testing & Tips for the Google Wireless Nest Doorbell (Battery Version)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-fast-and-the-curious-unveiling-the-pros-and-cons-of-the-oneplus-8ts-cameras/"><u>The Fast and the Curious: Unveiling the Pros and Cons of the OnePlus 8T's Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10-for-2024/"><u>The Filmmaker's Ally Expert Advice for Video Creation in Windows 10 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-8-methods-for-bypassing-copy-protection-on-dvds-discover-free-alternatives/"><u>Top 8 Methods for Bypassing Copy Protection on DVDs: Discover Free Alternatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-huawei-mediapad-m5-a-focus-on-premium-display-and-audio-quality/"><u>Unveiling the Huawei MediaPad M5: A Focus on Premium Display and Audio Quality</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-online-tools-for-professional-studio-recording-free-vs-paid-versions-for-2024/"><u>Updated Top 10 Online Tools for Professional Studio Recording - FREE vs PAID Versions for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-fintie-protective-gear-tops-the-list-for-macbook-pro-n13-users-a-comprehensive-review/"><u>Why Fintie Protective Gear Tops the List for MacBook Pro N13 Users: A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-10-and-11-efficiency-custom-keybindings-to-copy-text/"><u>Win 10 & 11 Efficiency: Custom Keybindings to Copy Text</u></a></li>
+</ul></div>
+

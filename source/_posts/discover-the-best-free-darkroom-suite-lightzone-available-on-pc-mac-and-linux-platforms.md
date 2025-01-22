@@ -1,7 +1,7 @@
 ---
 title: Discover the Best Free Darkroom Suite - Lightzone Available on PC, Mac & Linux Platforms
-date: 2024-08-09T00:43:59.005Z
-updated: 2024-08-10T00:43:59.005Z
+date: 2025-01-15T01:15:37.575Z
+updated: 2025-01-21T23:44:00.862Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best Free Darkroom Suite - Lightzone Available on PC, Mac & Linux Platforms
@@ -15,10 +15,11 @@ thumbnail: https://www.lifewire.com/thmb/_hJ4pqk3XSMlk_hA_EnxByj3QSs=/400x300/fi
 
 ## Rexing V1 DashCam
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/uK2E64Wzmh1SC5wGVrVGSMMtQgk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Danny Chadwick
 
@@ -39,6 +40,10 @@ Lifewire / Danny Chadwick
 [View On Amazon](https://www.amazon.com/V1-Dashboard-Recorder-G-Sensor-Recording/dp/B00X528FNE/?tag=lifewire-onsite-prod-20&ascsubtag=4770571%7Cn9eae1cd5706347139b8b83241f9d42ea10%7CB00X528FNE) [View On Home Depot](https://www.homedepot.com/p/Rexing-V1-2-4-in-LCD-FHD-1080p-170-Wide-Angle-Dashboard-Camera-Recorder-Car-Dash-Cam-with-G-Sensor-WDR-Loop-Recording-V1/301705517)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rexing V1 DashCam
 
@@ -67,16 +72,10 @@ Lifewire / Danny Chadwick
 
  It has all the additional features you’d expect from a[dashcam](https://www.lifewire.com/types-of-dash-cameras-534889) , like loop recording and crash detection, and even some unique ones like timelapse recording. If you’re in the market for a dashcam, the Rexing V1 is definitely worth considering.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Fits perfectly on your windshield**
 
  The Rexing V1 Dashcam has a more distinctive form factor than other models we reviewed. Unlike many popular dashcam models, the V1 doesn’t resemble a point-and-shoot camera that hangs from your windshield. Rather, it’s angled to fit the curve of the glass. This makes for a more integrated, smooth look.
@@ -107,23 +106,29 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/df0_L-UzAk3OryqSCncsjfqi8QM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_03-2273fff3f71944368711b60f5da9687e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Camera Quality: Basic**
 
  You can set this dash-mounted camera to capture footage in either 720p or 1080p resolution, which is pretty limited. Similar dashcams can capture footage up to 2560 x 1440 resolution, with others going all the way up to 4K. However, if all you’re looking for is a simple security device, 1080p will do just fine.
 
  When we reviewed the footage captured by the Rexing V1, we found it to be highly detailed and clear when the car was moving along city streets. However, when we hit the freeway, the picture became a little less clear. Signs were hard to read unless you stopped the recording, and small details such as license plates and bumper stickers on other cars couldn’t be made out at all. Nevertheless, the videos yield a good picture of what happens when you drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/9_1pHoEq74JWPJ8reothv8PeI8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_04-c5d42af8ddfa4296a6c6b1e8551edef6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Set it and forget it**
 
@@ -139,16 +144,10 @@ Lifewire / Danny Chadwick
 
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Z3 Plus vs. Rexing V1**
 
  If you’re wondering if you want to pay the extra $25 or so for the Z-Edge Z3 Plus dashcam (which retails for $125), the decision will come down to form factor and image quality—everything else is pretty much the same.
@@ -179,14 +178,11 @@ Lifewire / Danny Chadwick
 * Night Vision  No
 * Connectivity Options  MicroSD, USB
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,3 +190,22 @@ Lifewire / Danny Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-automate-the-savvy-storage-of-your-social-media-images-for-2024/"><u>[Updated] Automate the Savvy Storage of Your Social Media Images for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-downloading-from-vimeo-made-simple-software-free-or-not-in-2024/"><u>[Updated] Downloading From Vimeo Made Simple Software-Free or Not, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-your-hashtag-game-on-instagram-a-comprehensive-guide/"><u>[Updated] In 2024, Elevate Your Hashtag Game on Instagram A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-clarity-an-in-depth-look-at-the-midland-gxt1000vp4-handheld-radio/"><u>Achieving Perfect Clarity: An In-Depth Look at the Midland GXT1000VP4 Handheld Radio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/all-about-the-new-apple-m4-chip-timeline-features-and-performance-insights/"><u>All About the New Apple M4 Chip: Timeline, Features & Performance Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-zenwifi-router-model-xt8-ax6600-evaluation-ultimate-mesh-networking-performance-unveiled/"><u>ASUS ZenWiFi Router Model XT8 AX6600 Evaluation: Ultimate Mesh Networking Performance Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-home-security-in-depth-review-of-vuebells-video-doorbell/"><u>Budget-Friendly Home Security: In-Depth Review of VueBell's Video Doorbell</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-camcorders-meet-economical-excellence-the-vixia-r800-review/"><u>Compact Camcorders Meet Economical Excellence: The VIXIA R800 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-theta-sc2-review-immersive-panoramic-capture/"><u>Compact Theta SC2 Review: Immersive Panoramic Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-7-leading-dvd-compression-tools-as-an-alternative-to-dvd-shrink-in-windows-1011/"><u>Discover the 7 Leading DVD Compression Tools as an Alternative to DVD Shrink in Windows 10/11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-s17-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo S17 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-how-to-set-correct-time-and-date-on-your-kindle-paperwhite-effortlessly/"><u>Learn How to Set Correct Time & Date on Your Kindle Paperwhite Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-car-speaker-problems-and-how-to-fix-them/"><u>Understanding Car Speaker Problems and How to Fix Them</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-10-alternatives-of-facetime-on-android/"><u>Updated 2024 Approved Top 10 Alternatives of FaceTime on Android</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Affordable HDTV Wall Mount: The MD2380 Experience"
-date: 2024-08-09T00:43:58.854Z
-updated: 2024-08-10T00:43:58.854Z
+date: 2025-01-16T08:58:41.032Z
+updated: 2025-01-22T01:30:57.414Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable HDTV Wall Mount: The MD2380 Experience"
@@ -40,14 +40,11 @@ Lifewire / Erika Rawes
 4
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## SEGA Yakuza: Like a Dragon
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/2HQ40tAW6PvhutMT0JyWvwFpbdI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_HeroSquare-ea84381e359846e6951c77b6f7e7c5a0.jpg)
 
 Lifewire / Erika Rawes
@@ -70,9 +67,6 @@ Lifewire / Erika Rawes
 
  The[best PC games](https://www.lifewire.com/best-pc-games-4147292) offer something unique that keeps you coming back for more. Yakuza: Like a Dragon takes the standard Yakuza formula and stands it on its head, moving the fighting system from real-time to turn-based and making this entry to the series feel like a true JRPG. I played Yakuza: Like a Dragon[on PC](https://www.lifewire.com/best-pc-games-4147292) to find out if these changes make this game better or worse. Should you play the new Yakuza or skip it? Read on to check out my full review of Yakuza: Like a Dragon.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setting and Plot: A very long intro
 
  Yakuza: Like a Dragon places you in the shoes of Ichiban Kasuga, a young Yakuza upstart who was raised as an orphan in a Soap House by the owner and the women who worked there. Kasuga gets into a bit of trouble with a Yakuza family but is saved by Masumi Arakawa, the patriarch of the Arakawa family. Because of this, Kasuga pledges his life to Arakawa, promising to repay the debt.
@@ -85,10 +79,11 @@ Lifewire / Erika Rawes
 
  All of the aforementioned story takes place in what could be called the introductory stages of the game. The intro was incredibly slow and took around five to six hours. Finally, after the long intro, it felt like I was getting into the real meat where the world opens up. Even after the long preamble, I was still introduced to new items, concepts, and parts of the game. It felt like a lot of handholding, which was frustrating at times.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/_ksFqEWrm3B3MbfrBujuNtLpcXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_03-37ca82f2a4cd42c4ad65f34e2ca63b68.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -111,6 +106,10 @@ Lifewire / Erika Rawes
  Combat is handled with a turn-based system. During the fight, you have a menu of different selections, from regular attacks and items to defending and special attacks. This is where Yakuza: Like a Dragon really shines. The game provides you with a ton of options in the fight, and many of the moves are both over the top and quite funny. For instance, you can have a homeless teammate attack with a flock of pigeons, or maybe have your bartender attack with moves from her boxing fitness class.
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/ZvcwNcecc79umImvw53CUJlLvIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_02-6396bcd8866c4a479331a02e160eb890.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -136,9 +135,6 @@ Lifewire / Erika Rawes
 
 Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Price: The typical $60
 
  The base version of Yakuza: Like a Dragon comes in at $60 like most new titles. The price is reasonable for the amount of gameplay. However, you have two other purchase options as well. The Hero Edition, which costs $70, includes the Job Set and the Management Mode set and features two extra jobs and three sets of Management mode employees.
@@ -156,8 +152,9 @@ Lifewire / Erika Rawes
  A well-crafted masterpiece. Yakuza: Like a Dragon falls into the must-play category for anyone who loves a good story, JRPGs, or a wild game that will make you laugh. It’s definitely a departure from the rest of the series, but that contributes to a lot of the fun and uniqueness of the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Cyberpunk 2077](https://www.lifewire.com/cyberpunk-2077-review-5113844)
@@ -165,8 +162,9 @@ Lifewire / Erika Rawes
 * [Torment: Tides of Numenera](https://www.lifewire.com/torment-tides-of-numenera-review-5077302)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Yakuza: Like a Dragon
@@ -186,11 +184,26 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-documenting-your-ps4-journey/"><u>[New] 2024 Approved Ultimate Guide to Documenting Your PS4 Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing-for-2024/"><u>[New] From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-gopro-face-by-face-guide-to-selectivity-for-2024/"><u>[New] Gopro Face-By-Face Guide to Selectivity for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-creative-potential-in-asmr-content-advanced-techniques-for-2024/"><u>[New] Unlocking Creative Potential in ASMR Content – Advanced Techniques for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-becoming-a-star-spectator-on-the-social-stage/"><u>[Updated] In 2024, Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-trailblazing-towards-top-instagram-minds-a-niche-journey/"><u>[Updated] Trailblazing Towards Top Instagram Minds A Niche Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-countdown-control-in-live-broadcasting-obs-approach/"><u>In 2024, Countdown Control in Live Broadcasting OBS Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-xs-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone XS Max without Security Questions?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-lg-stylo-6-combining-elegance-with-precision-input/"><u>In-Depth Analysis of the LG Stylo 6: Combining Elegance with Precision Input</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-netgear-c3700-a-versatile-cable-modem-and-wireless-router-combo/"><u>In-Depth Analysis of the Netgear C3700: A Versatile Cable Modem and Wireless Router Combo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lhfm1039-lihanns-bluetooth-fm-transmitter-evaluation-boosting-audio-in-vehicles/"><u>In-Depth LHFM1039 Lihann's Bluetooth FM Transmitter Evaluation - Boosting Audio in Vehicles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-microsofts-ergonomic-keyboard-is-it-really-as-high-quality/"><u>In-Depth Look at Microsoft's Ergonomic Keyboard – Is It Really as High Quality?</u></a></li>
+</ul></div>
+

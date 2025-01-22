@@ -1,7 +1,7 @@
 ---
 title: "Discover the Monoprice Artist's Companion: A Comprehensive Tablet Review on a Shoestring Budget"
-date: 2024-08-09T00:43:58.274Z
-updated: 2024-08-10T00:43:58.274Z
+date: 2025-01-15T18:23:41.225Z
+updated: 2025-01-21T19:41:50.959Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Monoprice Artist's Companion: A Comprehensive Tablet Review on a Shoestring Budget"
@@ -13,12 +13,13 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
 2.8
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Creative Sound Blaster ZxR
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/87Y0vp91-Opdxctf3M6BGQ6r1d8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW833111-1-4e7ebf4d779c4f9a88fb2d675c206f02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Ramirez
 
@@ -42,11 +43,12 @@ Lifewire / Emily Ramirez
 
 2.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creative Sound Blaster ZxR
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/RtDoRTpSwyumJugu8w_fUM9Z3Kc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW833111-1-4e7ebf4d779c4f9a88fb2d675c206f02.jpg)
 
 Lifewire / Emily Ramirez
@@ -79,9 +81,6 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Hardware: Some odd decisions**
 
  For users who may own higher impedance headphones, the amplifier can comfortably drive headphones with up to a 600 ohm impedance. Unfortunately, the volume control on the ACM works passively by altering the output impedance, which can distort audio on headphones with high inductance like the Sennheiser HD800 (see “[How Low Should Output Impedance Be?](https://www.lifewire.com/what-is-output-impedance-4690092) ”). A better and only slightly more costly solution for Creative Labs would have been to have the knob control the ZxR’s in-built volume control rather than try to do it passively. The HD800 sounded fine when plugged directly into the sound card and using the system volume control.
@@ -91,8 +90,9 @@ Lifewire / Emily Ramirez
  Lifewire / Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Setup Process/Installation: Easy install, irritating setup**
 
  To install the hardware, we popped open our mid-size PC tower and inserted the sound card and daughter board into two available PCIe slots. Creative Labs had the foresight to build the main card with a PCIe 1x slots, giving the user flexibility in where they connect their cards to the motherboard. Once the cards were secured, we plugged the headphones and microphone into the corresponding jacks.
@@ -105,19 +105,17 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Audio: Excellent sound**
 
  Once the EQ effects are turned off, the Sound Blaster ZxR provides beautiful sound. While it wasn’t quite as clean or crisp as an enthusiast audiophile amplifier, such as the OPPO HA-1, it was solid for a system that costs a quarter of the HA-1’s price. On the HD-800s, the bass came across slightly muddy, but the ZxR provides solid quality for consumer-grade headphones like the Sennheiser GSP300 or the Sony MDR-7506\. As our our[headphone buying guide](https://www.lifewire.com/headphones-buying-guide-4172763) suggests, most headphones under $250 will not be sensitive enough to meaningfully distinguish between the ZxR and the HA-1.
 
  Should you happen to own dynamic headphones, you should find their impedance curve. Dynamic headphones with a high impedance may be distorted by the ACM, thanks to the ACM’s high resistance. How your headphones will be affected depends on their impedance curve: for the HD800s, for example, there is a peak at 100Hz (this range captures electric bass and the lower octaves of guitars), so the upper bass range is boosted relative to the other frequencies in the audio. Increasing the volume on the ACM reduces its output resistance and in turn reduces the distortion, but it may be easier to plug equipment directly into the sound card and use the system volume instead.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -134,8 +132,9 @@ Lifewire / Emily Ramirez
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Competition:** **Falls short of less expensive options**
 
  As we’ve already emphasized, it’s difficult to recommend the aging ZxR at its inflated $250 MSRP. You can find a number of sound cards for significantly less that provide competitive performance, though they generally don’t offer the same robust software package as the ZxR.
@@ -157,8 +156,9 @@ Lifewire / Emily Ramirez
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Sound Blaster Z](https://www.lifewire.com/sound-blaster-z-review-4769764)
@@ -187,14 +187,11 @@ Lifewire / Emily Ramirez
 * Software  Sound Blaster Z-Series Software
 * What’s Included  Sound Blaster ZxR sound card, Sound Blaster DBpro card, Sound Blaster Audio Control Module, 1Optical Cable, 1x Stereo(3.5mm)-to-RCA cable, 1x DBpro cable, Quick Start Leaflet, Installation CD containing: Drivers for Windows 7 and Windows 8, Creative Software Suite, User's Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,3 +199,21 @@ Lifewire / Emily Ramirez
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-gratuitous-green-backdrops-available/"><u>[New] 2024 Approved Gratuitous Green Backdrops Available</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-screen-recording-suite-for-windows-and-macos-for-2024/"><u>[New] Advanced Screen Recording Suite for Windows & macOS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-making-an-impact-integrating-individual-thumbnails-in-videos/"><u>[New] Making an Impact Integrating Individual Thumbnails in Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>[Updated] In 2024, Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-primer-on-using-azures-voice-to-text-service/"><u>2024 Approved A Primer on Using Azure's Voice-to-Text Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/future-proof-wi-fi-solutions-top-mesh-networking-devices-to-watch-in/"><u>Future-Proof Wi-Fi Solutions: Top Mesh Networking Devices to Watch In</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-premium-viewing-with-the-wallet-friendly-lg-prise-model-24lh4830-an-unbeatable-deal/"><u>Get Premium Viewing with the Wallet-Friendly LG Prise Model #24LH4830: An Unbeatable Deal!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-analysis-exceptional-photography-features-on-an-outstanding-smartphone/"><u>Huawei P20 Pro Analysis: Exceptional Photography Features on an Outstanding Smartphone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-garmin-venu-a-complete-guide-to-round-the-clock-fitness-tracking/"><u>In-Depth Analysis of the Garmin Venu: A Complete Guide to Round-the-Clock Fitness Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-ring-video-doorbell-pro-an-intelligent-surveillance-solution/"><u>In-Depth Analysis of the Ring Video Doorbell Pro: An Intelligent Surveillance Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-switch-expertly-convert-your-mp4-videos-to-iso-with-these-two-must-use-freebies/"><u>Master the Switch: Expertly Convert Your MP4 Videos to ISO with These Two Must-Use Freebies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-free-download-package-for-focusrite-scarlett-2i2-platinum-win-setup-and-drivers-included/"><u>Ultimate Free Download Package for Focusrite Scarlett 2I2 Platinum - Win Setup and Drivers Included</u></a></li>
+</ul></div>
+

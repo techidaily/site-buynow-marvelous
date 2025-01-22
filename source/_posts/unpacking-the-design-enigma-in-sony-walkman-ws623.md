@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2025-01-09T18:53:02.513Z
-updated: 2025-01-16T08:28:20.639Z
+date: 2025-01-16T12:47:33.372Z
+updated: 2025-01-21T21:42:51.655Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -14,7 +14,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 3.6
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
@@ -89,10 +89,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
@@ -105,10 +101,6 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
  This section is perhaps the most important for a TV, and while the XBR65X850F performs pretty well in some aspects here, it also has a few weak points.
@@ -118,7 +110,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -138,7 +130,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Audio Quality: Loud, but distorted**
@@ -148,7 +140,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: A bit sluggish but good enough**
@@ -164,6 +156,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Browsing through the interface, we did find it to be a bit laggy and choppy at times, which can be quite frustrating. Hopefully, this can be fixed down the line when new versions of Android TV make their way to the device.
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Not bad for the size, but not the cheapest**
 
@@ -190,6 +186,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 **A solid IPS panel 4K TV.**
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -220,20 +220,20 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/iscovering-the-timeline-for-youtube-earnings-for-2024/"><u>[New] Discovering the Timeline for YouTube Earnings for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-macs-top-mp4-cutters-for-youtube-success/"><u>[New] Mac's Top MP4 Cutters for YouTube Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-blueprint-for-money-making/"><u>[Updated] 2024 Approved Gamer’s Blueprint for Money-Making</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-flight-choosing-superior-drone-motor-technology/"><u>[Updated] Excellence in Flight Choosing Superior Drone Motor Technology</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-vr-adventure-top-10-best-selling-mobile-games-for-2024/"><u>[Updated] VR Adventure Top 10 Best-Selling Mobile Games for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-game-sound-with-amazons-discounted-top-tier-speaker-system-expert-review-by-zdnet/"><u>Experience Ultimate Game Sound with Amazon's Discounted Top-Tier Speaker System: Expert Review by ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-s18-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo S18 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-yoga-a940-review/"><u>Lenovo Yoga A940 Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/masterclass-optimizing-a-dell-screen-elite-anc-audio-experience-and-premium-ultrasharp-video-capture/"><u>Masterclass: Optimizing a Dell Screen, Elite ANC Audio Experience & Premium UltraSharp Video Capture</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/microsofts-entry-level-surface-laptop-go-evaluation-a-compact-powerhouse-for-on-the-go-professionals/"><u>Microsoft's Entry-Level Surface Laptop Go Evaluation: A Compact Powerhouse for On-The-Go Professionals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/paws-in-the-loop-comedy-and-bonding-with-animals/"><u>Paws in the Loop: Comedy and Bonding with Animals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/play-like-a-pro-in-nba-2k19-championship-basketball-simulator/"><u>Play Like a Pro in NBA 2K19: Championship Basketball Simulator</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/practical-guide-mastering-your-new-blink-4-wireless-floodlight-security-camera/"><u>Practical Guide: Mastering Your New Blink 4 Wireless Floodlight Security Camera</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-computer-sound-failures-in-minutes-with-these-tips/"><u>Solve Computer Sound Failures in Minutes with These Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-iphone-photo-artistry-mastering-shadows-and-highlights/"><u>[New] IPhone Photo Artistry Mastering Shadows & Highlights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eliminated-invisible-youtube-micro-videos/"><u>[Updated] In 2024, Eliminated Invisible YouTube Micro Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-melodic-movies-the-art-of-making-musical-reels/"><u>[Updated] Melodic Movies The Art of Making Musical Reels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-singing-bliss-in-america-karaoke-usa-less-than-150-for-endless-entertainment/"><u>Affordable Singing Bliss in America: Karaoke USA - Less Than $150 for Endless Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-error-during-win-oculus-installation/"><u>Eradicating Error During Win-Oculus Installation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-the-lenovo-thinkpad-x12s-detachable-prototype-exceptional-dual-functionality-and-top-notch-typing-experience/"><u>Expert Analysis on the Lenovo ThinkPad X12's Detachable Prototype: Exceptional Dual Functionality and Top-Notch Typing Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-into-using-and-maximizing-your-fitbit-charge-6-experience/"><u>Expert Insights Into Using and Maximizing Your Fitbit Charge 6 Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-most-efficient-extended-coverage-routers-of-2024/"><u>Exploring the Most Efficient Extended Coverage Routers of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effortlessly-take-a-screen-grab-on-any-logitech-keyboard-model/"><u>How to Effortlessly Take a Screen Grab on Any Logitech Keyboard Model</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-lag-troubleshooting-techniques-for-optimal-guilty-gear-strive-gameplay/"><u>Mastering Lag Troubleshooting Techniques for Optimal Guilty Gear Strive Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/paww-acoustic-tech-3-evaluation-economical-audio-earpieces/"><u>Paww Acoustic Tech 3 Evaluation: Economical Audio Earpieces</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/snag-your-dream-tech-at-exclusive-prices-during-the-amazing-amazon-prime-day-2024/"><u>Snag Your Dream Tech at Exclusive Prices During the Amazing Amazon Prime Day 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-for-simple-recording-of-teamviewer-sessions-in-windows-1011/"><u>Step-by-Step Tutorial for Simple Recording of TeamViewer Sessions in Windows 10/11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mohu-blade-antennas-unique-style-and-reliable-in-home-television-signal/"><u>The Ultimate Guide to the Mohu Blade Antenna's Unique Style and Reliable In-Home Television Signal</u></a></li>
 </ul></div>
 

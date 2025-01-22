@@ -1,7 +1,7 @@
 ---
 title: "1. Unlocking the Joy of Gaming: Winning Hearts of Non-Players"
-date: 2025-01-09T05:50:31.134Z
-updated: 2025-01-15T22:21:05.684Z
+date: 2025-01-17T12:33:43.339Z
+updated: 2025-01-22T06:34:42.358Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 ## 1. Unlocking the Joy of Gaming: Winning Hearts of Non-Players
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 * When you play, don't do everything for them. Let them take the lead, get stuck, and fail, so they can experience the joy of figuring things out themselves. Only help them if they're going to give up otherwise.
 
  Not everybody in my life likes video games, but I've got a pretty good track record of getting them excited to play some with me. By picking the right games and choosing my moments wisely, I've gotten some non-gamers to fall in love with games. If you play your cards right, here's how you could see the same success.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pick Your Battles Carefully
 
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
  By the same token, my girlfriend wouldn't have enjoyed _Breath of the Wild_ if I dropped her into it, despite being drawn into the beauty of the world. The controls would have been too much, making the level of challenge much harder than it's intended to be. But when I offered for us to play _Overcooked_ instead, which you can play with a single stick and just the one button, she got obsessed with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Wait for the Perfect Timing
 
  Once you've picked a game you want someone to play, don't jump at them and try playing it straight away. Instead, introduce the idea of that game to them slowly. Bring it up in conversation, talk about what excited you about it, and start softly selling them on the idea of playing together. The idea is to get them to _want_ to play the game, rather than just doing it to appease you.
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  If you can do so without spoiling any gameplay mechanics or story beats, try playing the game around them. Don't force them to sit and watch you, but stick it on if they're scrolling on the sofa next to you of an evening. If you picked a visually appealing game, it's likely to catch their eye and they could start growing interested.
 
  When you're ready to try getting them to actually play, be mindful with your timing. Pick a moment when they're relaxed, in a good mood, with plenty of free time. After they've already fallen in love with the game, it can be a great way to relieve stress. But if they're not already a gamer, it's not going to be what they wanted to do after finishing up a difficult day at work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Let Them Take the Lead for Once
 
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  I much prefer [introducing non-gamers with fun co-op games](https://facebook-videos.techidaily.com/updated-earnings-expertise-for-youtube-creators-fb-insights-and-tactics/), but if you do this, don't rush ahead and do everything for them, while they trail along behind. Let them choose where to go or what to try, and you can simply act as the willing sidekick or be the muscle when you get in a spot of trouble. If the game has a clear "little sibling" option, like [Gooigi](https://www.mariowiki.com/Gooigi) in _Luigi's Mansion 3_, be that character yourself so the person you're playing with has more to do. You already like games, so don't need convincing. Whereas we need this to be as fun as possible for them.
 
  And if you've picked out an [appealing single-player game](https://extra-information.techidaily.com/effortless-techniques-for-stunning-time-lapse-photography-using-samsungs/), like _Journey_ or _Firewatch_, don't tell them exactly what to do. Sit back and let them discover it for themselves. But more on that next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don't Spoil the Joy of Discovery
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
  Of course, you don't want them to get so stuck that they give up entirely, which is what leads us to my last piece of advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  But Don't Leave Them High and Dry Either
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 ![Two people holding PlayStation controllers in front of a TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/two-people-holding-playstation-controllers-in-front-of-a-tv.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Zurijeta](https://www.shutterstock.com/g/zurijeta)[/Shutterstock.com](https://www.shutterstock.com/image-photo/two-boys-sitting-home-playing-video-1575673549)
@@ -112,18 +112,14 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>[Updated] How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photoshop-partners-for-pixel-perfect-grids-and-frames/"><u>[Updated] Photoshop Partners for Pixel-Perfect Grids and Frames</u></a></li>
-<li><a href="https://solve-help.techidaily.com/discover-the-top-10-no-cost-4k-video-players-optimized-for-windows-11-and-mac-computers/"><u>Discover the Top 10 No-Cost 4K Video Players Optimized for Windows 11 and Mac Computers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-c67-4g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme C67 4G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-long-distance-internet-routers-of-2024-reviewed/"><u>Leading Long-Distance Internet Routers of 2024 Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-art-of-print-preparation-with-photoshop/"><u>Mastering the Art of Print Preparation with Photoshop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/monster-hunter-world-a-comprehensive-guide-to-battling-the-most-formidable-foes/"><u>Monster Hunter: World - A Comprehensive Guide to Battling the Most Formidable Foes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reevaluating-linkedins-prestige-is-plus-worth-the-investment/"><u>Reevaluating LinkedIn's Prestige: Is Plus Worth the Investment?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revamped-design-tools-after-acid-pro-era-for-2024/"><u>Revamped Design Tools After ACID Pro Era for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-xperia-5-analysis-compact-design-meets-high-price-point/"><u>Sony Xperia 5 Analysis: Compact Design Meets High Price Point</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sonys-next-gen-console-unveiled-the-playstation-5-a-leap-beyond-enhanced-performance/"><u>Sony's Next-Gen Console Unveiled: The PlayStation 5 - A Leap Beyond Enhanced Performance</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ate-tutorial-simplifying-youtube-subscriptions/"><u>Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211433699-9781466882553-zodiac-spells/"><u>Zodiac Spells | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>[Updated] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elevate-your-streams-from-obs-to-fb-directly/"><u>[Updated] 2024 Approved Elevate Your Streams From OBS to FB Directly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-videography-items-for-travelers/"><u>[Updated] 2024 Approved Top Videography Items for Travelers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-apple-books-application/"><u>Comprehensive Evaluation of the Apple Books Application</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-kooteks-excellent-portable-cpu-cooler-for-computers/"><u>Comprehensive Guide to Kootek's Excellent Portable CPU Cooler for Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dash-and-dot-programmable-robot-a-comprehensive-guide/"><u>Dash and Dot Programmable Robot: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-g42-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia G42 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-40i-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 40i without backup.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tips-selecting-pre-owned-electronic-devices/"><u>Top Tips: Selecting Pre-Owned Electronic Devices</u></a></li>
 </ul></div>
 

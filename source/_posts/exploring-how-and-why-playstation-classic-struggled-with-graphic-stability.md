@@ -1,7 +1,7 @@
 ---
 title: Exploring How and Why PlayStation Classic Struggled with Graphic Stability
-date: 2025-01-13T06:42:35.627Z
-updated: 2025-01-16T03:40:15.144Z
+date: 2025-01-18T03:09:31.634Z
+updated: 2025-01-21T17:03:12.285Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Exploring How and Why PlayStation Classic Struggled with Graphic Stability
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Highlights
 
 * PlayStation 1 lacked FLOPs due to not having an FPU.
@@ -20,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Affine texture mapping caused warping; PS1 trade-offs were speed and cost over complexity.
 
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  It’s All About Floating Points
 
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Z-Buffer Not Found
@@ -44,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
@@ -54,7 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -65,13 +65,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -96,22 +96,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-how-to-make-a-best-tiktok-intro-video-on-mac/"><u>[New] 2024 Approved How to Make a Best Tiktok Intro Video on Mac?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cutting-out-distractions-in-photos/"><u>[Updated] Cutting Out Distractions in Photos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-secrets-for-converting-instagram-vids-into-high-quality-mp4/"><u>[Updated] In 2024, Unveiling Secrets for Converting Instagram Vids Into High-Quality MP4</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-13-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 13 Pro Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amd-zen-amo-upgraded-ayaneo-am01-the-new-minimalist-macintosh-inspired-pc/"><u>AMD Zen Amo Upgraded Ayaneo AM01: The New Minimalist Macintosh-Inspired PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-gold-standard-for-phablet-devices-with-our-expert-review-on-the-samsung-galaxy-note-9/"><u>Discover the Gold Standard for Phablet Devices with Our Expert Review on the Samsung Galaxy Note 9</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-most-advanced-wireless-mesh-networks-of-2024/"><u>Discover the Most Advanced Wireless Mesh Networks of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-maisto-rock-crawler-is-a-must-have-toy-in-every-familys-garage/"><u>Discover Why the Maisto Rock Crawler Is a Must-Have Toy in Every Family's Garage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eclipse-antenna-by-clearstream-unmatched-performance-in-an-effortlessly-user-friendly-design/"><u>Eclipse Antenna by ClearStream: Unmatched Performance in an Effortlessly User-Friendly Design</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-privacy-with-a-vpn-for-apple-vision-pro-step-by-step-installation-and-benefits-techworld-daily/"><u>Enhance Privacy with a VPN for Apple Vision Pro: Step-by-Step Installation and Benefits | TechWorld Daily</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-sunrise-at-home-a-comprehensive-guide-to-totobays-latest-and-budget-friendly-alarm-clock/"><u>Experience Sunrise at Home: A Comprehensive Guide to Totobay's Latest and Budget-Friendly Alarm Clock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-best-in-audio-creatives-sound-blaster-zxr-tested-and-analyzed-2013-model/"><u>Experience the Best in Audio - Creative's Sound Blaster ZxR Tested & Analyzed (2013 Model)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-moto-g-stylus-outstanding-performance-meets-enduring-power-and-smart-pen-capabilities/"><u>Experience the Moto G Stylus: Outstanding Performance Meets Enduring Power and Smart Pen Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-the-most-effective-storm-chasing-tools-for-navigating-2024/"><u>Expert Reviews: The Most Effective Storm Chasing Tools for Navigating 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-se-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone SE If Youve Tried Everything</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-microsoft-store-apps-windows-11s-guide-to-fixes/"><u>Reinstating Microsoft Store Apps: Windows 11'S Guide to Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-the-latest-on-apple-watch-deals-and-special-pricing/"><u>Score the Latest on Apple Watch Deals and Special Pricing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-5-slow-mo-video-recording/"><u>[New] Innovative 5 Slow Mo Video Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-latest-payment-regulations/"><u>[New] YouTube's Latest Payment Regulations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-smart-techniques-save-your-insta-story-videos/"><u>[Updated] Smart Techniques Save Your Insta Story Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immediate-impact-integrating-luts-into-your-ae-workflow/"><u>2024 Approved Immediate Impact Integrating LUTs Into Your AE Workflow</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload/"><u>2024 Approved Speedy Pace FB Videos Innovative Apps & Proxies Ensuring Faster Upload/Download</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210688107-9781958921104-a-new-story-of-wholeness/"><u>A New Story of Wholeness | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-your-connectivity-with-our-picks-for-best-signal-amplifiers-of-2amide-2024/"><u>Ace Your Connectivity with Our Picks for Best Signal Amplifiers of 2Amide 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aeiusys-compact-solar-generator-review-best-fit-for-delicate-electronics-and-medical-appliances-with-psw-inverter/"><u>Aeiusy's Compact Solar Generator Review: Best Fit for Delicate Electronics & Medical Appliances with PSW Inverter</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-poco-m6-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Poco M6 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apc-be600m1-backup-ups-review-optimal-battery-efficiency-and-convenient-usb-charger-feature-for-smartphones-and-tablets/"><u>APC BE600M1 Backup UPS Review: Optimal Battery Efficiency & Convenient USB Charger Feature for Smartphones and Tablets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ar-5-by-arcshell-impressive-performance-meets-budget-friendly-pricing-reviewed/"><u>AR-5 by ArcShell: Impressive Performance Meets Budget-Friendly Pricing Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-c7000-your-ultimate-router-guide/"><u>Comprehensive Analysis of the Netgear Nighthawk C7000 - Your Ultimate Router Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-acurite-pro-weather-station-model-01036m-features-and-ease-of-use/"><u>Comprehensive Guide to the AcuRite Pro Weather Station - Model 01036M Features and Ease of Use</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-maximizing-performance-optimal-settings-for-logitech-webcam/"><u>In 2024, Maximizing Performance Optimal Settings for Logitech Webcam</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-8-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 8 Plus? How to Fix</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-earnings-audit-the-monetization-process/"><u>In 2024, YouTube Earnings Audit The Monetization Process</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sweet-symphony-for-less-than-20-lc-41-speakers/"><u>Sweet Symphony for Less Than $20 - LC-41 Speakers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-troubles-with-chrome-os-on-pixel-slate-insights-and-evaluations/"><u>The Troubles with Chrome OS on Pixel Slate - Insights and Evaluations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-flight-simulation-software-ms-flight-simulator-x-gold-reviewed/"><u>Top-Rated Flight Simulation Software: MS Flight Simulator X (Gold) Reviewed</u></a></li>
 </ul></div>
 
