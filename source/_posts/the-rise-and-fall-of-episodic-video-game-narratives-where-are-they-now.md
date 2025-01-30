@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Fall of Episodic Video Game Narratives: Where Are They Now?"
-date: 2024-10-28T08:45:09.050Z
-updated: 2024-10-30T10:17:58.778Z
+date: 2025-01-23T21:56:58.802Z
+updated: 2025-01-29T21:44:22.865Z
 tags:
   - games
   - tv
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
  For a brief moment in the mid 2000s video game development was on a different path—episodic. Smaller, chopped up game releases that meant more frequent releases and lower prices. It never really took off, so why did the episodic model fail to launch?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Episodic Games Promised to Save Gaming
@@ -37,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
  Episodic game development would be the thing that solved the pain points of AAA game development, or a smart low-risk approach for smaller studios to get some content out there and earning money, allowing them to complete the rest of the game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Episodic Method Is Hard!
@@ -51,15 +45,16 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
 
  I can't even imagine the logistics of assigning work to different people or creating multiple teams who can work on different parts of different episodes, and if we look at how episodic games repeatedly missed their episode release dates, neither could many developers. By the way, when's _Half-Life 2: Episode 3_ coming out?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Modern Games Take Longer to Develop Than Ever
 
 ![Custom Grand Theft Auto VI cover art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/gta6-custom-cover.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Rockstar
@@ -68,16 +63,13 @@ Rockstar
 
  This might be why, in my opinion at least, all the interesting stuff is happening in the [Indie](https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) and "double A" categories. Where development cycles are still of reasonable length, and there isn't a mountain of money at stake. At the high-end of the budgetary scale however, I don't think there's any turning back save perhaps for some sort of market bubble bursting for AAA games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Maybe Episodic Games Never Made Sense
 
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Episodic game development is one of those things that sounds good on paper, but in practice isn't too practical. A few companies have made it work, such as Telltale Games, though what they produced wasn't strictly traditional games but rather interactive fiction. Which lends itself to the episodic model, especially if you never really change your tools or game engine.
 
@@ -102,22 +94,22 @@ Rockstar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tailored-thumbnail-for-social-media-vids/"><u>[New] 2024 Approved Tailored Thumbnail for Social Media Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-beyond-marketing-hype-the-genuine-facts-of-reels-for-2024/"><u>[New] Beyond Marketing Hype The Genuine Facts of Reels for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-5-best-lightweight-action-cameras-for-backpacking-or-hiking/"><u>[New] In 2024, Top 5 Best Lightweight Action Cameras For Backpacking Or Hiking</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-efficiency-with-auto-gpt-tools/"><u>Enhancing Efficiency with Auto-GPT Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-proven-methods-for-conducting-outstanding-interviews/"><u>In 2024, Proven Methods for Conducting Outstanding Interviews</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>In 2024, The Ultimate Showdown Midnight Warrior vs Sunlight Champion</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ring-video-doorbell-pro-evaluated-why-its-a-top-pick-for-savvy-homeowners/"><u>The Ring Video Doorbell Pro Evaluated: Why It's a Top Pick for Savvy Homeowners</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-travel-bookworms-device-a-thorough-analysis-of-the-kobo-clara-hd-e-reader/"><u>The Ultimate Travel Bookworm's Device: A Thorough Analysis of the Kobo Clara HD E-Reader</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-notch-review-on-the-proficient-rca-outdoor-security-camera-for-your-front-door/"><u>Top-Notch Review on the Proficient RCA Outdoor Security Camera for Your Front Door</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlock-your-full-potential-with-a-dell-display-leading-anc-headset-and-professional-webcam/"><u>Unlock Your Full Potential with a Dell Display, Leading ANC Headset, and Professional Webcam</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-elite-17-inch-laptop-picks-for-the-year-2024/"><u>Unveiling the Elite 17-Inch Laptop Picks for the Year 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-and-performance-of-samsungs-galaxy-tab-s7-ideal-for-mid-range-tablet-seekers/"><u>Unveiling the Features and Performance of Samsung's Galaxy Tab S7: Ideal for Mid-Range Tablet Seekers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-sound-extractors-to-extract-sound-from-video-2023/"><u>Updated 2024 Approved Top 10 Sound Extractors to Extract Sound From Video 2023</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/wasteland-2-remastered-review-directors-cut-edition-delivers-an-unforgettable-turn-based-adventure/"><u>Wasteland 2 Remastered Review - Director's Cut Edition Delivers an Unforgettable Turn-Based Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/whats-new-in-microsoft-surface-pro-7-we-dive-into-its-consistent-quality-and-reliable-enhancements/"><u>What's New in Microsoft Surface Pro 7? We Dive Into Its Consistent Quality and Reliable Enhancements</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-realtime-recording-titans/"><u>[New] In 2024, RealTime Recording Titans</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-standout-6-sites-connecting-corporate-leaders/"><u>[New] Standout 6 Sites Connecting Corporate Leaders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-charting-the-future-essential-online-stock-yts/"><u>[Updated] 2024 Approved Charting the Future Essential Online Stock YTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/44cm5pya5paw44kz44ou44o844ks44o844oj5lil44gn44gu44oh44k444k44or44oh44oh44kj44ki44oq44od44kv44ki44od44ox5pa55rov77ya5bcc6zaa5a6244gu44os44oz44oi44cn/"><u>「最新コピーガード下でのデジタルメディアバックアップ方法：専門家のヒント」</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/before-you-invest-in-a-fitness-band-these-5-aspects-are-crucial/"><u>Before You Invest in a Fitness Band, These 5 Aspects Are Crucial</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-methods-to-sync-iphone-and-ipad-communications-discover-the-best-strategies/"><u>Effortless Methods to Sync iPhone and iPad Communications: Discover the Best Strategies!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-logitech-g-hub-failures-tips-for-windows-users/"><u>Fixing Logitech G Hub Failures – Tips for Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/getting-up-close-with-tp-link-archer-a9-excellent-connectivity-at-less-than-100/"><u>Getting Up Close with TP-Link Archer A9 - Excellent Connectivity at Less Than $100</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-master-flying-with-the-economical-syma-107g-hobbyist-rc-helicopter/"><u>How to Master Flying with the Economical Syma 107G Hobbyist RC Helicopter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-nhl-19-digital-gaming-experience/"><u>In-Depth Analysis of NHL '19' Digital Gaming Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-mobvois-latest-the-ticwatch-pro-3-with-gps-and-extended-dual-screen-life-reviewed/"><u>In-Depth Look at Mobvoi's Latest: The TicWatch Pro 3 with GPS and Extended Dual Screen Life Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/soaring-to-new-heights-an-in-depth-review-of-djis-mavic-3-for-advanced-aerial-photographers/"><u>Soaring to New Heights: An In-Depth Review of DJI's Mavic 3 for Advanced Aerial Photographers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-m54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy M54 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stand-stronger-on-your-ergohead-mat-in-depth-analysis-of-durability-and-comfort-for-prolonged-use/"><u>Stand Stronger on Your Ergohead Mat: In-Depth Analysis of Durability & Comfort for Prolonged Use</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-toshibas-fire-tv-edition-a-must-have-screen-for-amazon-prime-enthusiasts/"><u>The Comprehensive Review of Toshiba's Fire TV Edition - A Must-Have Screen for Amazon Prime Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-house-flipper-2-heres-how-to-resolve-pc-malfunctions-and-enjoy-gaming/"><u>Trouble with House Flipper 2? Here's How to Resolve PC Malfunctions and Enjoy Gaming</u></a></li>
 </ul></div>
 

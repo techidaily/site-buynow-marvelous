@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection: Elite Child Watch Devices for the Year 2024"
-date: 2025-01-18T02:15:52.341Z
-updated: 2025-01-22T09:37:28.209Z
+date: 2025-01-24T20:36:34.759Z
+updated: 2025-01-29T23:26:04.697Z
 tags:
   - buying-guides
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  Baby monitors allow you to keep an eye on your little ones from afar. Some even monitor movement and temperature, while others let you keep a watchful eye via video feed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  UPDATE: 02/07/2024
 
  We've reviewed our recommendations and updated our pick for the best baby movement monitor.
@@ -34,6 +30,10 @@ Best Baby Monitor Overall
 * [](https://www.amazon.com/VTech-Rechargeable-Guaranteed-Transmissions-Cystal-Clear/dp/B00JEV5UI8?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce)  
 ![VTech Upgraded Audio Baby Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/vtech-upgraded-audio-baby-monitor.png)  
 #####  VTech DM111  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget Baby Monitor  
 [$16 at Amazon](https://www.amazon.com/VTech-Rechargeable-Guaranteed-Transmissions-Cystal-Clear/dp/B00JEV5UI8?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce)
@@ -62,10 +62,6 @@ Best Baby Movement Monitor
 ![VTech DM1211-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/vtech-dm1211-2.png)  
 #####  VTech DM1211  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best Audio Baby Monitor  
 [$60 at Amazon](https://www.amazon.com/VTech-DM1211-2-Enhanced-Digital-Monitor/dp/B08DF55XYX?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce)
 
@@ -92,10 +88,6 @@ Best Audio Baby Monitor
 
 ![Nanit Baby Monitor on wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/nanit-pro-baby-monitors.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nanit
 
 | Pros                      | Cons                                         |
@@ -118,7 +110,7 @@ Nanit
 ![nanit pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nanit-pro.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -134,7 +126,7 @@ The Nanit Pro Complete Monitoring System gives you peace of mind via live video 
 [$310 at Amazon](https://www.amazon.com/Nanit-Complete-Baby-Monitoring-System/dp/B08R151BX3?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Budget Baby Monitor: [VTech DM111](https://www.amazon.com/VTech-Rechargeable-Guaranteed-Transmissions-Cystal-Clear/dp/B00JEV5UI8?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
@@ -162,14 +154,10 @@ VTech
 
 ![VTech Upgraded Audio Baby Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/vtech-upgraded-audio-baby-monitor.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Budget Baby Monitor
@@ -181,6 +169,10 @@ $16 $22 Save $6
 With a range of up to 1,000 feet, you can listen to your baby from anywhere in your home or yard. Feel more in control with adjustable volume and a convenient belt clip.
 
 [$16 at Amazon](https://www.amazon.com/VTech-Rechargeable-Guaranteed-Transmissions-Cystal-Clear/dp/B00JEV5UI8?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Wi-Fi Baby Monitor: [Owlet Cam 2](https://www.amazon.com/Owlet-Bedtime-Smart-Monitor-Camera/dp/B09RSK54QY?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
 
@@ -207,6 +199,10 @@ Owlet
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Wi-Fi Baby Monitor
 
 #####  Owlet Cam 2
@@ -214,6 +210,10 @@ Best Wi-Fi Baby Monitor
 Stream clear video in 1080p with the Owlet Cam 2 which is available in a variety of colors.
 
 [$159 at Amazon](https://www.amazon.com/Owlet-Bedtime-Smart-Monitor-Camera/dp/B09RSK54QY?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Split-Screen Baby Monitor: [Babysense HD S2](https://www.amazon.com/HD-Split-Screen-Monitor-Babysense-Cameras/dp/B08SL6H83X?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
 
@@ -240,10 +240,6 @@ Babysense
 
 ![Babysense 5inch HD Split-Screen Baby Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/babysense-5inch-hd-split-screen-baby-monitor.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Split-Screen Baby Monitor
@@ -259,7 +255,7 @@ Being able to view multiple children on a baby monitor could get expensive. Howe
 ![Babysense Video & Baby Movement Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/babysense-video-baby-movement-monitor.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 | Pros                                       | Cons                |
@@ -279,7 +275,15 @@ Being able to view multiple children on a baby monitor could get expensive. Howe
 
 ![Babysense Video & Baby Movement Monitor Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/babysense-video-baby-movement-monitor-tag.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Baby Movement Monitor
 
@@ -292,10 +296,6 @@ Enjoy complete peace of mind with the Babysense Video and Baby Movement Monitor,
 ##  Best Audio Baby Monitor: [VTech DM1211](https://www.amazon.com/VTech-DM1211-2-Enhanced-Digital-Monitor/dp/B08DF55XYX?tag=hotoge-20&ascsubtag=UUhtgUeUpU228073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896912%2Fbest-baby-monitors%2F&asc%5Fcampaign=Commerce) 
 
 ![VTech Baby Monitors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/Vtech-baby-monitors.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 VTech
 
@@ -345,21 +345,16 @@ With two parent units included, the VTech DM1211 is ideal for multiple rooms or 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capture-your-world-no-cost-screen-recording-apps-for-pcmac/"><u>[New] In 2024, Capture Your World No-Cost Screen Recording Apps for PC/Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essential-guide-instagram-optimization-through-final-cut-pro-x/"><u>[New] The Essential Guide Instagram Optimization Through Final Cut Pro X</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-examining-the-income-mechanics-of-tseries-on-youtube/"><u>[Updated] Examining the Income Mechanics of TSeries on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>2024 Approved Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-star-wars-squadrons-an-enticing-review-of-space-warfare-extravaganza/"><u>Breaking Down Star Wars Squadrons: An Enticing Review of Space Warfare Extravaganza</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-and-tough-wet-weather-photo-gear-for-youths/"><u>Compact & Tough Wet Weather Photo Gear for Youths</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dell-g5-5090-review-a-comprehensive-analysis-on-its-superiority-as-a-cost-effective-gaming-platform-and-customization-possibilities/"><u>Dell G5 5090 Review - A Comprehensive Analysis on Its Superiority as a Cost-Effective Gaming Platform and Customization Possibilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-best-features-of-tango-text-call-voice-chats/"><u>Discover the Best Features of Tango - Text, Call, Voice Chats!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-budget-friendly-power-with-microsofts-newest-laptop-go-an-in-depth-analysis-for-travelers-and-students/"><u>Experience Budget-Friendly Power with Microsoft's Newest Laptop Go: An In-Depth Analysis for Travelers and Students</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-codegpt-understanding-its-ability-in-coding/"><u>Exploring CodeGPT: Understanding Its Ability in Coding</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-x50-gt-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor X50 GT Phone Network-Ready</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-evaluation-of-the-feature-rich-netgear-nighthawk-x6-wi-fi-expansion-device/"><u>In-Depth Analysis and Evaluation of the Feature-Rich Netgear Nighthawk X6 Wi-Fi Expansion Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kinesis-freestyle2-blue-mac-review/"><u>Kinesis Freestyle2 Blue (Mac) Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/raising-the-decibels-ultimate-tricks-for-increasing-window-11-sound-outputs/"><u>Raising the Decibels: Ultimate Tricks for Increasing Window 11 Sound Outputs</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nubia-red-magic-8s-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nubia Red Magic 8S Pro on Mac</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/wd-cloudgoogle/"><u>WD CloudからGoogleドライブへ自動バックアップ設定：ステップバイステップ説明</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-your-reel-game-on-instagram-in-days/"><u>[New] Transforming Your Reel Game on Instagram in Days</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-integrate-snapchat-into-your-mac-seamlessly/"><u>[Updated] In 2024, Integrate Snapchat Into Your Mac Seamlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>[Updated] Mastering Movement Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-tutorial-for-fb-360-streaming-for-2024/"><u>[Updated] The Ultimate Tutorial for FB 360 Streaming for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-moto-e13-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Moto E13</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-lightzone-pro-top-quality-photo-editing-suite-for-pcs-and-macs/"><u>Review of LightZone Pro: Top-Quality Photo Editing Suite for PCs and Macs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/should-i-jump-on-apple-watchs-newest-model/"><u>Should I Jump on Apple Watch's Newest Model?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplify-your-pets-diet-with-the-arf-automated-feeding-system/"><u>Simplify Your Pet's Diet with the Arf Automated Feeding System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-active-easily-discover-how-the-cubefit-terramat-changes-workouts-while-standing/"><u>Stay Active Easily: Discover How the CubeFit TerraMat Changes Workouts While Standing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stay-in-shape-and-connected-with-the-garmin-vivoactive-3s-built-in-music-player/"><u>Stay in Shape and Connected with the Garmin Vivoactive 3'S Built-In Music Player</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-bring-your-logo-to-life-top-10-free-animated-logo-makers/"><u>Updated In 2024, Bring Your Logo to Life Top 10 Free Animated Logo Makers</u></a></li>
 </ul></div>
 

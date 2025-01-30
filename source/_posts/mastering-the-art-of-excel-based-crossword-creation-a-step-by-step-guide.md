@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide"
-date: 2025-01-18T07:39:31.996Z
-updated: 2025-01-22T05:21:06.815Z
+date: 2025-01-22T21:57:46.220Z
+updated: 2025-01-29T16:58:21.821Z
 tags:
   - games
   - tv
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  I'm going to run through how I create a crossword using Excel, but you can use any spreadsheet program, such as Google Sheets, to do the same thing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 1: Create Your Grid
 
  First, decide how big and what shape you want your crossword to be. Personally, I aim for a large, square-shaped puzzle, but if this is your first shot, it might be worth trying a smaller one—such as a 10 x 10—until you've got the knack of things. If you want a professional layout, [The NYT goes for 15 x 15 for their daily puzzles](https://www.nytimes.com/crosswords/game/daily) and 21 x 21 on a Sunday. [The Guardian's crossword is 13 x 13](https://www.theguardian.com/crosswords/series/quick).
@@ -39,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel spreadsheet with all cell widths changed to 3.43.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-cell-sizes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, select the area that will form your crossword grid, and in the Home tab on the ribbon, open the borders drop-down (grid icon) and click "All Borders."
 
 ![An Excel grid with 'All Borders' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/all-borders-on-grid.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Add Your Words
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  You're now ready to add your words. You can either choose to follow a theme or use random words. I tend to find that following a theme makes things a bit more difficult as you add your words, especially if you have a large grid, so I prefer to create a general knowledge puzzle.
 
 ![An Excel sheet with a crossword grid and some words added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-words-in-crossword.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Every Word Must Cross
 
@@ -73,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  Don't obscure words that people mightn't have encountered before. Getting your quizzer to correctly guess a tiny village in Sweden or a nineteenth-century Japanese art form will simply demotivate them and raise concerns about the solvability of your puzzle. Instead, you can use interesting words that come up in everyday life to fill in parts of the challenging words.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Think About Your Clues
 
  As you add your words, think ahead about how you might lure your solver to guess them. Ask yourself, "How will I tantalize my quizzer with a clever clue?"—and if you can't answer that question, choose another word. Another way to approach this is to use words with more than one meaning, which will give you more flexibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 3: Black Out Empty Squares
 
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 4: Add Your Numbers
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  In order to link your clues to your words, you now need to add numbers. Starting in the top-left corner and working along each row, type a number in front of the first letter of each new word (whether horizontal or vertical). On my crossword, I'll start with "Desperation" and add the number "1" to the "D." Then, moving along the top row, I'll add the number "2" to the letter "S" in "Saga."
 
 ![An Excel containing words in a crossword structure, and numbers added to the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-numbers-to-crossword-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This might seem a straightforward process—and it is—but I've often been caught out and had to go back and change all my numbers because I'd missed one. When you finish a row, go back across to make sure you've not missed any words.
 
@@ -137,16 +137,16 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
 
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
@@ -172,22 +172,18 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[New] 2024 Approved Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comprehensive-insights-into-imovie-techniques-for-youtube-creators/"><u>[New] In 2024, Comprehensive Insights Into iMovie Techniques for YouTube Creators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>[Updated] Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-privacy-first-the-leading-storywatchers-for-2024/"><u>[Updated] Privacy-First The Leading Storywatchers for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-look-at-the-glion-dolly-electric-scooter-balancing-speed-sophistication-and-spending/"><u>A Comprehensive Look at the Glion Dolly Electric Scooter: Balancing Speed, Sophistication & Spending</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/alienware-aurora-r7-assessment-high-performance-at-steep-costs/"><u>Alienware Aurora R7 Assessment: High-Performance at Steep Costs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-review-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Review: The Ultimate Family Entertainment Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/converti-gif-a-formato-flv-free-online-con-movavi/"><u>Converti GIF a Formato FLV Free Online Con Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-gameplay-on-the-asus-vg245h-the-ultimate-gamers-monitor/"><u>Elevate Your Gameplay on the Asus VG245H – The Ultimate Gamer's Monitor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-tech-game-with-skagen-falster-2-a-posh-alternative-to-the-classic-apple-device/"><u>Elevate Your Tech Game with Skagen Falster 2, a Posh Alternative to the Classic Apple Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/extreme-focus-powerhouse-discover-nikons-coolpix-p1000/"><u>Extreme Focus Powerhouse – Discover Nikon's COOLPIX P1000</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-access-complete-high-res-downloads-from-the-2021-mtv-video-music-awards-best-clips-collection/"><u>Free Access: Complete High-Res Downloads From the 2021 MTV Video Music Awards Best Clips Collection</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c02-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C02</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/test-drive-review-the-glion-dolly-expensive-elaborate-and-swift-movement-unveiled/"><u>Test Drive Review: The Glion Dolly - Expensive, Elaborate, and Swift Movement Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-merit-of-paying-for-hulu-services/"><u>Unpacking the Merit of Paying For Hulu Services</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-file-resurrection-4-steps-to-success/"><u>Video File Resurrection: 4 Steps to Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-tvs-features-a-beginners-guide/"><u>[New] 2024 Approved Mastering YouTube TV's Features A Beginner's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instagram-to-tiktok-the-ultimate-connector/"><u>[New] Instagram to TikTok The Ultimate Connector</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-sites-for-downloading-text-aesthetics/"><u>[New] Pioneering Sites for Downloading Text Aesthetics</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-bringing-jujutsu-kaisen-characters-to-life-online/"><u>2024 Approved Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>2024 Approved Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-amazon-kindle-201eon-unpacking-the-value-of-a-budget-friendly-e-reader/"><u>Affordable Amazon Kindle (201Eon): Unpacking the Value of a Budget-Friendly E-Reader</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-qualcomm-atheros-ar938x-drivers-instantly-no-hassle/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Instantly - No Hassle!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazon-fire-hd-10-kids-edition-exceptional-kid-friendly-safeguards/"><u>In-Depth Analysis of Amazon Fire HD 10 Kids Edition: Exceptional Kid-Friendly Safeguards</u></a></li>
+<li><a href="https://win-docs.techidaily.com/reviving-your-external-disks-memories-expert-tips-for-successful-file-restoration-techniques/"><u>Reviving Your External Disk's Memories: Expert Tips for Successful File Restoration Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-re200-ac750-extender-test-delivering-decent-wireless-coverage-without-breaking-the-bank/"><u>TP-Link RE200 AC750 Extender Test: Delivering Decent Wireless Coverage without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-capabilities-of-the-garmin-forerunner-945-top-tier-gps-smartwatch-reviewed/"><u>Unveiling the Powerful Capabilities of the Garmin Forerunner 945 - Top-Tier GPS Smartwatch Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-superiority-of-the-nintendo-switch-in-portable-play/"><u>Unveiling the Superiority of the Nintendo Switch in Portable Play</u></a></li>
 </ul></div>
 

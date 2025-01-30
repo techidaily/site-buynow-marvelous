@@ -1,7 +1,7 @@
 ---
 title: "Seamless Gaming Experience: Connect Your DualSense to Windows 11 Like a Pro!"
-date: 2025-01-18T03:55:40.185Z
-updated: 2025-01-22T12:07:41.227Z
+date: 2025-01-23T23:17:59.601Z
+updated: 2025-01-29T16:22:07.310Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ---
 
 ## Seamless Gaming Experience: Connect Your DualSense to Windows 11 Like a Pro!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,20 +37,20 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  To check this, go to "Settings", click on "System", then on "Sound."
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click on "Manage Sound Devices".
 
@@ -71,11 +71,11 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
- Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -93,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
@@ -105,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -140,20 +140,24 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-top-viewers-playlist-on-youtube-history-for-2024/"><u>[New] Ultimate Top Viewers' Playlist on YouTube History for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mpem4r/"><u>線上自由改變MPE到M4R的方法 – 摩瓦市音符轉換器</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-samsung-galaxy-a20-budget-friendly-powerhouse-or-just-decent/"><u>Analyzing the Samsung Galaxy A20 - Budget-Friendly Powerhouse or Just Decent?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-stealthy-performance-of-the-acer-aspire-c27-compact-yet-capable-all-in-one-pc/"><u>Discover the Stealthy Performance of the Acer Aspire C27: Compact Yet Capable All-in-One PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/episode-unveiling-optimized-by-day-and-time/"><u>Episode Unveiling Optimized by Day & Time</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-tech-evolution-with-apples-m1-powered-macbook-pro-13-inch-laptop-expert-review-and-insights/"><u>Experience Tech Evolution with Apple's M1-Powered MacBook Pro 13-Inch Laptop: Expert Review and Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/garmin-vivoactive-3-enhance-your-fitness-routine-with-built-in-music-and-smart-connectivity/"><u>Garmin Vivoactive 3: Enhance Your Fitness Routine with Built-In Music and Smart Connectivity</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/hdr-mastery-essential-steps-for-sdr-to-hdr-upconversion-for-2024/"><u>HDR Mastery Essential Steps for SDR-to-HDR Upconversion for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a18-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A18 Without Password | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-visual-potential-the-power-of-lut-transformations/"><u>In 2024, Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-petsafes-automatic-feeder-helping-you-maintain-optimal-pet-health-and-weight/"><u>In-Depth Look at PetSafe's Automatic Feeder: Helping You Maintain Optimal Pet Health and Weight</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants-for-2024/"><u>Insta-TikTik Mastery Uniting Two Social Giants for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sonys-compact-bluetooth-beautician-lx310bt/"><u>Sony's Compact Bluetooth Beautician - LX310BT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-sudden-failures-of-wireless-mouse-connectivity-in-windows-11-and-10-environments/"><u>Step-by-Step Fixes for Sudden Failures of Wireless Mouse Connectivity in Windows 11 and 10 Environments</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-school-tech-upgrade-with-free-apple-cash-get-150-off-on-macs-and-ipads-zdnet/"><u>Transform Your School Tech Upgrade with Free Apple Cash! Get $150 Off on Macs and iPads | ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-fresh-take-on-viewing-the-new-lg-bp550-review/"><u>[Updated] A Fresh Take on Viewing The New LG BP550 Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-innovative-recording-screen-and-camera-with-vimeo-record/"><u>2024 Approved Innovative Recording Screen & Camera with Vimeo Record</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vdg-screen-snatcher-synopsis-full-breakdown/"><u>2024 Approved VDG Screen Snatcher Synopsis Full Breakdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-acer-chromebook-cb3-15-with-a-striking-15-inch-display-for-efficient-browsing/"><u>Comprehensive Review of the Acer Chromebook CB3-15 with a Striking 15-Inch Display for Efficient Browsing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-power-in-depth-analysis-of-the-top-race-rc-rock-crawler-for-ultimate-trail-conquest/"><u>Discovering the Power: In-Depth Analysis of the Top Race RC Rock Crawler for Ultimate Trail Conquest</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-all-you-need-to-know-about-the-arlo-video-doorbell-with-built-in-alarm-feature/"><u>Expert Analysis: All You Need to Know About the Arlo Video Doorbell with Built-In Alarm Feature</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max with/without SIM Card</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-vllo-for-mac-the-complete-package-download-and-alternatives/"><u>In 2024, VLLO for Mac The Complete Package - Download and Alternatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-mavix-m9-gaming-chair-ultimate-comfort-for-extended-play/"><u>In-Depth Evaluation of the Mavix M9 Gaming Chair: Ultimate Comfort for Extended Play</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-urban-armor-gears-macbook-pro-shield-robust-design-and-practical-use/"><u>In-Depth Evaluation of Urban Armor Gear's MacBook Pro Shield: Robust Design & Practical Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-tips-tricks-and-reviews-by-toms-hardware-experts/"><u>Mastering Modern Electronics: Tips, Tricks & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-urban-life-seamlessly-with-mods-advanced-easy-sidecar-e-bike-try-it-today/"><u>Navigate Urban Life Seamlessly with Mod's Advanced Easy Sidecar E-Bike – Try It Today!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-of-avi-video-cutters-16-best-options-for-windows-mac-and-android-users/"><u>New In 2024, The Ultimate List of AVI Video Cutters 16 Best Options for Windows, MAC, and Android Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-using-your-ideal-amazonbasics-7-usb-port-power-hub/"><u>The Definitive Guide to Using Your Ideal AmazonBasics 7-USB Port Power Hub</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-iphone-hdr-photography-skills/"><u>The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/alents-merging-photography-and-sound-in-videos-for-2024/"><u>Top Talents Merging Photography & Sound in Videos for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-best-tablet-on-the-market-the-comprehensive-review-of-apples-201/"><u>Unveiling the Best Tablet on the Market: The Comprehensive Review of Apple's 201</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vyncs-link-evaluation-revealed-dependable-tracer-with-perplexing-membership-rates/"><u>Vyncs Link Evaluation Revealed: Dependable Tracer with Perplexing Membership Rates</u></a></li>
 </ul></div>
 

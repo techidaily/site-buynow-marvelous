@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
-date: 2025-01-19T03:22:47.067Z
-updated: 2025-01-22T11:29:40.119Z
+date: 2025-01-23T18:53:50.947Z
+updated: 2025-01-29T22:19:15.434Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/762eb58aca659c7ab398016eac456ae67d371642f
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -66,6 +62,10 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -75,6 +75,10 @@ Lifewire / Erika Rawes
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -86,10 +90,6 @@ Lifewire / Erika Rawes
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -98,11 +98,11 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Range: Could be better**
 
@@ -111,10 +111,6 @@ Lifewire / Erika Rawes
  On my first attempt, I used the included stand, and the auto-programming only picked up four channels. When I placed the antenna on a window facing the TV transmitter tower, however, the omnidirectional HD antenna picked up 23 channels, which is a good amount considering the area.
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Mid-range**
 
@@ -125,7 +121,7 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
@@ -137,6 +133,10 @@ Lifewire / Erika Rawes
 **Works great & looks even better.**
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -169,16 +169,19 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-creative-and-captivating-titles-ready/"><u>2024 Approved Quick, Creative, and Captivating Titles Ready</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/adonit-nest-usb-hub-sale-alert-now-a-steal-at-just-65-for-remote-workers-tech-deals-on-zdnet/"><u>Adonit Nest USB Hub Sale Alert! - Now a Steal at Just $65 for Remote Workers | Tech Deals on ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-revolutionary-lg-gram-156-ultrabook-2018-the-pinnacle-of-lightweight-high-performance-laptops/"><u>Explore the Revolutionary LG Gram 15.6 Ultrabook (2018) - The Pinnacle of Lightweight, High-Performance Laptops</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-best-mac-video-trims-top-6-picks-post-snow-leopard/"><u>In 2024, Best Mac Video Trims Top 6 Picks Post-Snow Leopard</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-harmony-in-powerdirector-a-beginners-guide-to-clip-color-matching/"><u>In 2024, Color Harmony in PowerDirector A Beginners Guide to Clip Color Matching</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kooteks-cutting-edge-device-for-heat-management-a-must-have-accessory/"><u>Kootek's Cutting-Edge Device for Heat Management - A Must-Have Accessory</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rotibox-bluetooth-beanie-headpiece-revealed-an-in-depth-look-at-unparalleled-warmth-and-audio-clarity-synergy/"><u>Rotibox Bluetooth Beanie Headpiece Revealed: An In-Depth Look at Unparalleled Warmth and Audio Clarity Synergy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-eufy-t8200-smart-doorbell-no-subscription-required/"><u>Unboxing Eufy T8200 Smart Doorbell - No Subscription Required!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-adding-and-modifying-audio-in-films-on-filmora/"><u>Updated In 2024, The Ultimate Guide to Adding and Modifying Audio in Films on Filmora</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-video-capture-master-pro-x-for-2024/"><u>[New] Video Capture Master Pro X for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-screen-resolution-in-far-cry-6-gameplay/"><u>Enhancing Screen Resolution in Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-tp-link-av1300-for-wi-fi-coverage-expansion-surprisingly-weak-results/"><u>Evaluating the TP-Link AV1300 for Wi-Fi Coverage Expansion – Surprisingly Weak Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-xbox-series-ss-stellar-hardware-and-compact-design-for-gamers/"><u>Evaluating Xbox Series S's Stellar Hardware & Compact Design for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-samsung-offers-unbeatable-primes-day-bargains/"><u>Exclusive Samsung Offers: Unbeatable Primes Day Bargains</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-premium-features-on-a-budget-deep-dive-into-insignias-alexa-and-ultra-hd-fire-tv-ns-43df710na19/"><u>Experience Premium Features on a Budget: Deep Dive Into Insignia's Alexa & Ultra HD Fire TV NS-43DF710NA19</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-the-preeminent-home-monitoring-device-ring-video-doorbell-2/"><u>Expert Analysis on the Preeminent Home Monitoring Device - Ring Video Doorbell 2.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-on-samsung-galaxy-tab-s4-the-ultimate-versatile-tablet-experience-for-android-users/"><u>Expert Review on Samsung Galaxy Tab S4 - The Ultimate Versatile Tablet Experience for Android Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-arks-stability-and-crash-challenges-successfully/"><u>How to Overcome ARK's Stability and Crash Challenges Successfully</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151595091-securely-engage-with-friends-on-facebook-heres-how/"><u>Securely Engage with Friends on Facebook, Here’s How!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor-for-2024/"><u>The Power of Pixels A Review of the 4K CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-masterclass-advanced-techniques-for-video-commentary-embedding/"><u>YouTube Masterclass Advanced Techniques for Video Commentary Embedding</u></a></li>
 </ul></div>
 

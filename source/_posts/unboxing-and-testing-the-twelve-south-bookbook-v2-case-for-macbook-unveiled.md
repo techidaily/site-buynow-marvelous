@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: The Twelve South BookBook V2 Case for MacBook Unveiled"
-date: 2024-08-09T00:44:02.370Z
-updated: 2024-08-10T00:44:02.370Z
+date: 2025-01-23T22:14:03.818Z
+updated: 2025-01-30T00:09:31.427Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing and Testing: The Twelve South BookBook V2 Case for MacBook Unveiled"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 3.9
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Garmin Vivoactive 3 Music
 
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/mWu92SLDHKWD9Vy5KklQKBAJFPY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivoactive-3-Music-Smart-Watch-1-a182a2ce6d214080bd38bdb1c85e49a1.jpg)
@@ -42,12 +39,13 @@ Lifewire / Andy Zahn
 
 3.9
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Garmin Vivoactive 3 Music
 
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/FeCJ-wziP0Qoo9-pmifuFx9oZ7E=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivoactive-3-Music-Smart-Watch-1-a182a2ce6d214080bd38bdb1c85e49a1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -73,25 +71,19 @@ Lifewire / Andy Zahn
  Smartwatches are incredible devices, and the Garmin Vivoactive 3 Music is no exception. It’s remarkable how much advanced tech is crammed below the glass of this diminutive device. I ran it through its paces to see if it can stand out in a crowded and competitive niche.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Attractive and minimalistic**
 
  At first glance, you could be forgiven for not realizing that the Garmin Vivoactive 3 Music is a[smartwatch](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) . Its round, modern, minimalist design is attractive but subtle. The face of the watch is made of scratch-resistant Corning Gorilla Glass 3, the case is built of rugged polymer, and the strap is silicone. This rugged construction comes with a waterproofing rating of 5 atmospheres (ATM), which means it’s rated down to 163 feet. However, it’s worth noting that this watch isn’t intended for diving use.
 
  The Vivoactive 3 Music is operated using both the touch screen and a single button on the side. A short press of the button switches between the app currently in use and the watch face, while a long press brings up a circular menu with shortcuts to menus and apps. Most navigation is controlled via the touchscreen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/M4iaS5RgiaubncJH8F-ZLVQQ8Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivoactive-3-Music-Smart-Watch-2-a0cd2c48cc0d423d85a3dc1f7e677160.jpg)
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Comfort: On the small side**
 
  The Vivoactive 3 Music is perfectly comfortable if you have small or medium-sized wrists, but the included band was a little small for my extra-large 9-inch wrists. Personally, I couldn’t stand to wear it all day long due to this sizing issue. In order to fully test the watch, I handed it off to a friend with smaller 7-inch wrists, who reported it was extremely comfortable.
@@ -114,16 +106,21 @@ Lifewire / Andy Zahn
 
 The touchscreen interface is responsive, though a bit laggy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery: Variable duration**
 
  How long the battery in the Vivoactive 3 Music lasts depends entirely on how it’s used. If you only use its smartwatch capabilities occasionally then it’s good for a week at a time. However, when I made use of GPS, music, and other power-intensive features, it would run out in less than a full day of use.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/NdBt6UHu7uQUfRZfJN5BzwIEad8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivoactive-3-Music-Smart-Watch-3-18b432ab56ac4ef284ba74ffd1ec7f82.jpg)
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Proprietary ecosystem**
 
@@ -137,9 +134,6 @@ The touchscreen interface is responsive, though a bit laggy.
 
  Of course, the standout feature of the Vivoactive 3 Music is that it can store and play music, which is all that separates the Vivoactive 3 from the Vivoactive 3 Music. It can store up to 500 songs, and I downloaded several albums via Spotify to listen to while out and about. The watch connects to wireless headphones via Bluetooth, which along with the built-in GPS and Wi-Fi means that in many cases you don’t need to lug your phone along with you to use many of the watch's features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/dALT4qb1vS9VNEvePqYoZlqXX0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivoactive-3-Music-Smart-Watch-4-a84ac637f7034353bffd90856070a7d8.jpg)
 
  Lifewire / Andy Zahn
@@ -149,8 +143,9 @@ The touchscreen interface is responsive, though a bit laggy.
  At its MSRP of $249 the Garmin Vivoactive 3 Music is acceptably priced for the features it packs in. However, as it can often be found for around fifty dollars less than this, it's a great value if you can snag it at that discount.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Garmin Vivoactive 3 Music vs. Fossil Sport**
 
  For less than half the cost of the Garmin Vivoactive 3 Music, the[Fossil Sport](https://www.lifewire.com/fossil-sport-review-5069585) (view on[Amazon](https://www.amazon.com/dp/B07HBGGCBP?tag=lifewire-onsite-prod-20&ascsubtag=5069587%7Cna0c1f8774f33409ea16d9544de2db3d309%7C) ) offers a lot of similar capabilities. The Fossil Sport also has a more premium look and a scroll wheel, as well as three dedicated buttons for navigation. Along with Google’s slicker feeling[WearOS](https://www.lifewire.com/best-tips-and-tricks-for-wear-os-4583030) , the Fossil Sport is easier to use and has a much brighter screen, making it significantly easier to read in bright daylight.
@@ -160,6 +155,10 @@ The touchscreen interface is responsive, though a bit laggy.
  **The Garmin Vivoactive 3 Music is a fully-featured smartwatch overflowing with potential but saddled with annoying flaws.**
 
  There’s a lot to like about the Garmin Vivoactive 3 Music, It’s attractive, packed with features, and provides a deep level of fitness tracking. However, I could never fully enjoy using it due to its less than the optimal interface and laggy operation. This might be a good option if you are already invested in Garmin’s products, but for me it’s hard to ignore the flaws.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -182,11 +181,31 @@ The touchscreen interface is responsive, though a bit laggy.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-inspiration-on-a-plate-top-20-instagram-food-photos/"><u>[New] 2024 Approved Inspiration on a Plate Top 20 Instagram Food Photos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pro-level-tips-for-expert-vimeo-recording/"><u>[New] 2024 Approved Pro-Level Tips for Expert Vimeo Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-design-gif-for-sharing/"><u>[New] Design Gif for Sharing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-endless-entertainment-the-science-behind-youtube-loops/"><u>[Updated] Endless Entertainment The Science Behind YouTube Loops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[Updated] In-Depth Tutorial Effective Screenshot Practices on Lenovo</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-saving-on-space-tips-for-storing-mov-in-windows-10-devices/"><u>[Updated] Saving on Space Tips for Storing .mov in Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-corrupted-image-issues-on-your-windows-1011-system/"><u>How to Overcome Corrupted Image Issues on Your Windows 10/11 System</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerhouse-performance-assessment-of-alienware-aurora-r7-a-high-cost-high-value-gaming-pc/"><u>Powerhouse Performance Assessment of Alienware Aurora R7: A High-Cost, High-Value Gaming PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pure-audio-bliss-finding-the-right-earplugs/"><u>Pure Audio Bliss: Finding the Right Earplugs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sleek-design-impressive-performance-discover-the-excellence-of-acer-aspire-c27-all-in-one-computer/"><u>Sleek Design, Impressive Performance – Discover the Excellence of Acer Aspire C27 All-in-One Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-economical-earbud-epic-unpacking-the-oneplus-experience/"><u>The Economical Earbud Epic - Unpacking the OnePlus Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-finest-fit-exploring-cost-efficient-pet-camera-options/"><u>The Finest Fit: Exploring Cost-Efficient Pet Camera Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-linksys-ea9500-experience-high-performance-internet-gateway-with-smart-connectivity/"><u>The Linksys EA9500 Experience: High-Performance Internet Gateway with Smart Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pinnacle-of-audio-our-list-of-excellent-wired-earbuds/"><u>The Pinnacle of Audio: Our List of Excellent Wired Earbuds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-the-toshiba-55lf711u20-why-its-a-game-changer-for-loyal-amazon-prime-members/"><u>The Ultimate Guide to Using the Toshiba 55LF711U20: Why It's a Game-Changer for Loyal Amazon Prime Members</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727788916382-top-rated-childrens-tablets-as-endorsed-by-parents-insights/"><u>Top-Rated Children’s Tablets as Endorsed by Parents - Insights</u></a></li>
+</ul></div>
+

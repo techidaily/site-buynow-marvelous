@@ -1,7 +1,7 @@
 ---
 title: "Collecting Nostalgia: A Comparison of Laserdisc Vs. VHS Value Amongst Enthusiasts"
-date: 2024-10-28T16:23:43.075Z
-updated: 2024-10-29T16:45:16.045Z
+date: 2025-01-29T01:30:08.777Z
+updated: 2025-01-29T20:01:02.781Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 ---
 
 ## Collecting Nostalgia: A Comparison of Laserdisc Vs. VHS Value Amongst Enthusiasts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
 
  VHS tapes are not great from a longevity and durability perspective. Every time you play back a VHS tape, it gets a little more worn out. Not to mention that the tape itself will degrade over time, and it's susceptible to magnets.
@@ -51,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  One thing I do worry about is the longevity of the actual players, since LDs will eventually break down when the lasers don't work anymore, and VHS players are mechanically complex and were unreliable even when new. Well, at least the mainstream models my family could afford were. Whether there will be any way to play these media decades from now is debatable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rarity and Availability
@@ -62,22 +56,12 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Packaging and Artwork
 
 ![A NIghtmare Before Christmas Laserdisc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-nightmare-before-christmas-laserdisc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Erman Gunes / Shutterstock.com](https://www.shutterstock.com/image-photo/ankara-turkey-january-19-2023-old-2251853805)
 
@@ -85,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  VHS tapes, on the other hand, are ugly and spartan. Of course, that's just my opinion, but in this category I just find no merit to them at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Cost
 
  Oddly enough, as I was looking for prices on both VHS players and LD players, it seems that things more or less even out. As for the prices of the media, LDs seem quite a bit more expensive. However, I'd hazard to say that if the LD is in good condition it's probably worth the additional asking price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Cultural and Historical Significance
 
@@ -122,22 +114,22 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-key-approaches-to-microphone-and-computer-speaker-documentation/"><u>[New] 2024 Approved Key Approaches to Microphone & Computer Speaker Documentation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>[Updated] Unlock Potential While Unwinding Top Tasks for Podcast Lovers</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-x50-gt-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X50 GT Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/following-the-future-top-25-social-media-pioneers-on-instagram/"><u>Following The Future Top 25 Social Media Pioneers on Instagram</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>In 2024, 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-this-article-we-are-going-to-take-you-through-some-of-the-best-currently-available-software-and-we-are-going-to-show-you-how-you-can-turn-a-video-int/"><u>New In This Article, We Are Going to Take You Through some of the Best Currently Available Software and We Are Going to Show You How You Can Turn a Video Into a Captivating Cartoon</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/omotn-t1-tablet-support-a-cost-effective-and-reliable-solution-for-users/"><u>Omotn T1 Tablet Support: A Cost-Effective and Reliable Solution for Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/paramountplus-announces-another-round-of-price-hikes-a-predictable-pattern/"><u>Paramount+ Announces Another Round of Price Hikes: A Predictable Pattern</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/philips-somneo-hf365060-sleep-and-wake-up-light-therapy-lamp-review/"><u>Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-j5-tactical-v1-pro-a-compact-beam-for-nighttime-operations-and-resilience/"><u>Reviewing the J5 Tactical V1-Pro: A Compact Beam for Nighttime Operations and Resilience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-propella-7s-n40-the-ideal-choice-for-savvy-shoppers-seeking-lightness-and-efficiency/"><u>Reviewing the Propella 7S N4.0: The Ideal Choice for Savvy Shoppers Seeking Lightness and Efficiency</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-wearables-the-timeless-attractiveness-and-smart-features-of-withings-move/"><u>Revolutionizing Wearables: The Timeless Attractiveness and Smart Features of Withings Move</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-with-exclusive-benq-monitorprojector-promotions-this-prime-day/"><u>Save Big with Exclusive BenQ Monitor/Projector Promotions This Prime Day</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stanley-j5c09-review-large-but-capable/"><u>STANLEY J5C09 Review: Large but Capable</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-fitbit-versa-2-review-merging-fitness-goals-with-smartwatch-technology-for-an-all-in-one-wearable-device/"><u>The Fitbit Versa 2 Review: Merging Fitness Goals With Smartwatch Technology for an All-in-One Wearable Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016020783-trouble-with-astro-a50s-mic-heres-how-you-can-fix-it/"><u>Trouble with Astro A50's Mic? Here’s How You Can Fix It!</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-13-pro-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 13 Pro files after scanning? | Stellar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[New] 2024 Approved Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-filming-friends-directly-share-videos-on-twitter/"><u>[Updated] 2024 Approved Filming Friends Directly Share Videos on Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-5-book-tt-showcases-for-readers/"><u>[Updated] The Ultimate 5 Book TT Showcases for Readers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-ranking-of-smartphone-vr-headsets/"><u>[Updated] The Ultimate Ranking of Smartphone VR Headsets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-acclaim-the-easy-guide-for-followers/"><u>2024 Approved Instagram Acclaim The Easy Guide for Followers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-14-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 14 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/combine-your-passion-for-music-and-exercise-on-the-go-with-the-garmin-vivoactive-3-tracker/"><u>Combine Your Passion for Music and Exercise on the Go with the Garmin Vivoactive 3 Tracker</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lenovo-ideapad-portable-computer-a-blend-of-durability-and-simplicity/"><u>Evaluating the Lenovo IdeaPad Portable Computer: A Blend of Durability & Simplicity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-your-morning-routine-with-philips-hf3505-daylight-wake-up-system-reviews-and-tips/"><u>Evaluating Your Morning Routine with Philips HF3505 Daylight Wake-Up System - Reviews & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-solving-gtfo-software-hangups-effectively/"><u>Expert Advice on Solving GTFO Software Hangups Effectively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gigabyte-upgrade-for-ps3s-default-hdd/"><u>Gigabyte Upgrade for PS3's Default HDD</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-marvels-avengers-a-comprehensive-review-beyond-mediocre-expectations/"><u>Navigating Through Marvel's Avengers: A Comprehensive Review Beyond Mediocre Expectations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pixel-slate-evaluation-navigating-the-chromeos-confusion/"><u>Pixel Slate Evaluation: Navigating the ChromeOS Confusion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-and-lightweight-a-closer-look-at-kensuns-portable-tire-filler/"><u>Reliable & Lightweight: A Closer Look at Kensun’s Portable Tire Filler</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/revolutionizing-online-management-the-2021-guide-to-efficiently-updating-website-content-with-automation-tools/"><u>Revolutionizing Online Management: The 2021 Guide to Efficiently Updating Website Content with Automation Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-breakdown-of-ea-sports-nhl-19-online-experience/"><u>The Ultimate Breakdown of EA Sports' NHL '19 Online Experience</u></a></li>
 </ul></div>
 

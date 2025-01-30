@@ -1,7 +1,7 @@
 ---
 title: Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses
-date: 2024-10-28T22:31:16.659Z
-updated: 2024-10-29T18:00:42.329Z
+date: 2025-01-25T23:27:47.740Z
+updated: 2025-01-29T22:48:54.203Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The catch, of course, is that the service exclusively includes films produced or distributed by Sony in some form. This catalog is still sizable and features the likes of _Spider-Man_ and both _Venom_ films, so it's worth a look if you're wondering what to watch tonight.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Find and Install Sony Pictures Core
 
  Accessing the Sony Pictures Core service is simply a matter of installing the service on your console. If you are on the PS5, you can press the R1 button on your controller while on the console's home screen to access the "Media" tab. This will show media apps like Netflix, Hulu and Amazon Prime.
@@ -46,27 +43,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "TV and Video" section on the PS5's "Media" tab, showing off new movies and TV shows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131024.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scrolling down from here should eventually reveal the Sony Pictures Core App, which you can download for free.
 
 ![The icon for the Sony Pictures Core app on the "TV & Movies" tab on the PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131158-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The "Media" tab on the PS5 is also where you will open the app once it is installed, as all streaming services appear there.
 
  On a PS4 you can launch the PlayStation Store app and search for "Sony Pictures Core" and then launch the app from the main interface.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Find Free Movies on Sony Pictures Core
 
@@ -74,7 +61,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The PlayStation Plus section of Sony Pictures Core that offers free movies for Premium tier subscribers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130349.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, you will find a select library of movies of various genres that are available to stream immediately with no purchase required. Titles range from animated video game tie-ins to classic sci-fi and drama films, with over 100 total movies available as of the time of this writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Purchase or Rent Movies in Core Too
 
@@ -87,10 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The main screen on Sony Pictures Core when users select a film, with the options to rent or purchase it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229124327.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zachary Cimaglio/How-To Geek
@@ -116,15 +108,24 @@ Zachary Cimaglio/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-rise-and-reality-of-magix-paintbox/"><u>2024 Approved The Rise and Reality of MAGIX Paintbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplifying-old-directx-gaming-via-dxvk-powered-upgrades/"><u>Amplifying Old DirectX Gaming via DXVK-Powered Upgrades</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-asus-dvd-driver-downloads-here/"><u>Get the Newest Asus DVD Driver Downloads Here!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/next-level-drivers-route-guides-automotive-edition/"><u>Next-Level Drivers' Route Guides: Automotive Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/now-played-then-made-the-new-console-era/"><u>Now Played, Then Made: The New Console Era</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ourlink-usb-wireless-adapter-model-u631-powerful-performance-in-a-compact-form-factor/"><u>Ourlink USB Wireless Adapter, Model U631: Powerful Performance in a Compact Form Factor</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pruveeos-bargain-basement-fhd-dash-camera-comprehensive-performance-review/"><u>Pruveeo's Bargain Basement FHD Dash Camera: Comprehensive Performance Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/radiation-therapy-may-be-employed-for-pain-management-and-fracture-prevention-in-cases-of-significant-osteoblastic-growths/"><u>Radiation Therapy May Be Employed for Pain Management and Fracture Prevention in Cases of Significant Osteoblastic Growths</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-connection-errors-in-terraria-proven-strategies-to-follow/"><u>Resolving Connection Errors in Terraria: Proven Strategies to Follow</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/untangling-the-web-of-a-sluggish-connection-expert-strategies-inside/"><u>Untangling the Web of a Sluggish Connection: Expert Strategies Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-breakout-rooms/"><u>[New] In 2024, How to Use Zoom Breakout Rooms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-shorts-dividing-profits-among-making-crew/"><u>[Updated] YouTube Shorts Dividing Profits Among Making Crew</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-specs-budget-plans-and-expected-market-introduction-the-complete-guide/"><u>Amazfit Helio Ring Specs, Budget Plans & Expected Market Introduction: The Complete Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-8-an-affordable-entry-level-tablet-review/"><u>Amazon Fire HD 8 : An Affordable Entry-Level Tablet Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-adjustments-the-evolved-design-of-samsungs-s21-series/"><u>Analyzing Adjustments: The Evolved Design of Samsung's S21 Series</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/breaking-through-with-stunning-hdr-portrait-shots-for-2024/"><u>Breaking Through with Stunning HDR Portrait Shots for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-durability-hps-low-cost-15-inch-laptop-with-amd/"><u>Evaluating Performance & Durability: HP's Low-Cost 15-Inch Laptop with AMD</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-dji-mavic-2-pro-unrivaled-professional-drone-choice/"><u>Expert Analysis: DJI Mavic 2 Pro - Unrivaled Professional Drone Choice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/going-mobile-with-sonos-quality-sound-unleashed/"><u>Going Mobile with Sonos: Quality Sound Unleashed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c12-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C12 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-camon-20-pro-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Camon 20 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-chipset-selection-for-uhd-rendering/"><u>Ideal Chipset Selection for UHD Rendering</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-garmin-forerunner-e945-the-pinnacle-of-gps-sport-watches-on-the-market-today/"><u>In-Depth Analysis of Garmin Forerunner E945: The Pinnacle of GPS Sport Watches on the Market Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-transforming-your-ipad-pro-into-a-home-office-workhorse/"><u>Maximizing Productivity: Transforming Your iPad Pro Into a Home Office Workhorse</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/re-establishing-obs-audio-recording-capabilities-for-2024/"><u>Re-Establishing OBS Audio Recording Capabilities for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-apples-innovative-ai-on-the-success-of-iphone-16-insights-from-zdnet/"><u>The Impact of Apple's Innovative AI on the Success of iPhone 16: Insights From ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top Rated Tablet Computers : Comprehensive Reviews by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-top-home-weather-trackers/"><u>Ultimate List of Top Home Weather Trackers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mobvoi-ticwatch-e2-affordable-option-or-missed-opportunity-for-quality/"><u>Unveiling the Mobvoi TicWatch E2: Affordable Option or Missed Opportunity for Quality?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Romer Solar-Powered Lantern Analysis: Durable & Rechargeable Outdoor Torch"
-date: 2024-08-09T00:44:01.357Z
-updated: 2024-08-10T00:44:01.357Z
+date: 2025-01-22T22:25:18.763Z
+updated: 2025-01-30T00:29:49.595Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Romer Solar-Powered Lantern Analysis: Durable & Rechargeable Outdoor Torch"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ## 1byone Amplified Digital HDTV Antenna
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/pWXHOnFpWCs9EltKF9bRUP_y5aU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_HeroSquare-d9b494f43adf438bad5a0b82441039ef.jpg)
 
 Lifewire / Jonno Hill
@@ -42,10 +39,11 @@ Lifewire / Jonno Hill
 
 ## 1byone Amplified Digital HDTV Antenna
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/y6y0rP_H9I7oHwldUMIq-18GrFw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_HeroSquare-d9b494f43adf438bad5a0b82441039ef.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -74,11 +72,19 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Vanilla**
 
  The 1byone Digital Amplified Indoor Antenna uses a flat rectangular design similar to other powered indoor antennas on the market. The 13.25 x 9.25 inch antenna surface is roughly in line with most of the other products I looked at in this category, the only real difference being that the 1byone has a much more rigid surface.
 
  Being a powered antenna, the 1byone uses an external amplifier to boost the signal. This box contains a coaxial input attached via the included 16.5ft cable, and has a power input, which can be supplied by the TV itself if it can support USB power. Otherwise, 1byone includes a USB power adapter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup: Fairly intuitive**
 
@@ -87,13 +93,18 @@ Lifewire / Jonno Hill
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Good enough for most**
 
  The 1byone Digital Amplified Indoor HD TV Antenna didn’t have the best performance of the antennas we’ve tested, falling somewhere in the middle of the pack. In my channel acquisition test, I averaged 59 channels across all the tests performed. This compares to the worst performing antenna at just 47, and the best at 76.
 
  This should be more than suitable for most people living within a city in relatively close proximity to the source of the TV signal. As for those living further, your mileage may vary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Range: Middle of the road**
 
@@ -103,16 +114,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A great deal**
 
  The 1byone Digital Amplified Indoor Antenna costs just $25, making it the least expensive option out of the antennas I tested. It picked up all the major channels that I would actually watch, and didn’t have any issues with the signal. So from my perspective, why would I pay more? I think buyers would probably be best served by seeing if an antenna like this works for them. If you discover you need something more substantial, feel free to move on to a pricier option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **1byone Digital Amplified Indoor HD TV Antenna vs Mohu Leaf 30 TV Antenna**
 
  Another popular manufacturer is Mohu, and the Mohu Leaf 30 TV Antenna offers a simpler, non-amplified solution that only loses out on a hair of performance versus the 1byone. I preferred the build quality of the Mohu Leaf, if only marginally, and like the simplicity of not needing additional wires and boxes hanging out of my TV.
@@ -125,9 +130,6 @@ Lifewire / Jonno Hill
 
  The 1byone Digital Amplified Indoor Antenna offers the best value out of all the indoor antennas that we tested. If you can get the performance you need from the 1byone, it’s the antenna to buy. I wouldn’t consider other options unless you’ve already ruled out this one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Amplified Digital HDTV Antenna
@@ -141,14 +143,11 @@ Lifewire / Jonno Hill
 * Indoor/Outdoor  Indoor
 * Warranty  One year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,3 +155,27 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-simplicity-in-skewing-photographic-content/"><u>[New] In 2024, Simplicity in Skewing Photographic Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-penetrating-the-veil-of-undisclosed-commentary-in-videos/"><u>[New] Penetrating the Veil of Undisclosed Commentary in Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-preventing-unseen-frames-in-video-captures-for-2024/"><u>[New] Preventing Unseen Frames in Video Captures for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhance-your-video-watching-with-top-fire-browser-extensions-for-facebook-videos-2023-edition/"><u>[Updated] Enhance Your Video Watching with Top Fire-Browser Extensions for Facebook Videos, 2023 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-filmmaking-tools-for-gopro/"><u>[Updated] In 2024, Elite Filmmaking Tools for GoPro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-content-duplication-in-language-bots/"><u>Avoiding Content Duplication in Language Bots</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-guide-to-converting-your-favorite-twitch-content-into-high-quality-mp3-files/"><u>Complete Guide to Converting Your Favorite Twitch Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-lg-stylo-6-analysis-elegant-design-with-precision-stylus/"><u>Comprehensive LG Stylo 6 Analysis - Elegant Design with Precision Stylus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/d-link-powerline-2000-performance-testing-effortless-installation-and-accelerated-network-speeds-revealed/"><u>D-Link Powerline 2000 Performance Testing: Effortless Installation & Accelerated Network Speeds Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciphering-linkedin-premium-value-essential-gains-explored/"><u>Deciphering LinkedIn Premium Value: Essential Gains Explored</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/digital-audio-born-from-turntables-audio-techs-at-lp120xusb/"><u>Digital Audio Born From Turntables - Audio-Tech's AT-LP120XUSB</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-how-to-quickly-set-up-adb-drivers-on-windows/"><u>Easy Guide: How to Quickly Set Up Adb Drivers on Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-discreet-and-economical-rexing-v1-dash-camera-for-safe-travels/"><u>Evaluating the Discreet and Economical Rexing V1 Dash Camera for Safe Travels</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-versatility-with-the-lenovo-thinkpad-x12-detachable-featuring-a-stellar-convertible-design-and-top-notch-typing-buttons/"><u>Experience Versatility with the Lenovo ThinkPad X12 Detachable - Featuring a Stellar Convertible Design & Top-Notch Typing Buttons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-thermaltakes-powerful-laptop-chiller-highly-efficient-yet-expensive/"><u>Expert Analysis of Thermaltake's Powerful Laptop Chiller: Highly Efficient Yet Expensive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experts-weigh-in-on-the-best-gaming-powerhouse-the-alienware-aurora-r11/"><u>Experts Weigh In on the Best Gaming Powerhouse - The Alienware Aurora R11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-reimagined-world-of-ratchet-and-clank-a-blend-of-nostalgia-and-innovation-reviewed/"><u>Exploring the Reimagined World of Ratchet & Clank – A Blend of Nostalgia and Innovation Reviewed</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/revealing-historys-best-anime-openers/"><u>Revealing History's Best Anime Openers</u></a></li>
+</ul></div>
+

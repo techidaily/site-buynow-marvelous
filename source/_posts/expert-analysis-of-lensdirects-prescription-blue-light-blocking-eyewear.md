@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of LensDirect's Prescription Blue Light-Blocking Eyewear
-date: 2024-08-09T00:44:01.994Z
-updated: 2024-08-10T00:44:01.994Z
+date: 2025-01-25T00:35:06.605Z
+updated: 2025-01-29T22:14:51.024Z
 categories:
   - BestProducts
 description: This Article Describes Expert Analysis of LensDirect's Prescription Blue Light-Blocking Eyewear
@@ -63,17 +63,14 @@ Lifewire / Zach Sweat
 
  This is where Laminar Research comes in with their next-gen X-Plane 11 Global Flight Simulator—a modern take on flight sims built for more[current hardware](https://www.lifewire.com/best-gaming-consoles-4154610) . While many popular flight simulators are starting to show their age, X-Plane 11 is a breath of fresh air in the genre, and a breathtaking one at that. Read our review below to see how the latest X-Plane release stacks up against classics like FSX.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/KBuJiu3GVH9R41cibSGIkcK_7hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_04-9dedb800bd1340e19901349ee3ca3bda.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: Preflight checklist**
 
  Currently, the game is available to be purchased from a number of online retailers in either disc or digital download format. We opted to go the old-school route and purchased the game in a pack of discs, so we’ll cover this option, but if you want to grab the software online, the steps are mostly the same (even simpler).
@@ -92,9 +89,6 @@ The ultimate burning program for all your needs!</a>
 
  Once you’ve got it hooked up, Windows should recognize the device and download the necessary drivers. When those have completed installing, you should be able to see the HOTAS connected in X-Plane 11 under the control settings. You’ll also be able to fine-tune things based on your preference from there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/O9MXEQGpCTKXA5qNcF6nXai8L2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_03-90ad9c4205af48bcbd8fcc163c630a5a.jpg)
 
  Lifewire / Zach Sweat
@@ -115,11 +109,12 @@ The ultimate burning program for all your needs!</a>
 
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/GF7rAjDnQ1m4Lngb7N3ShcMRA6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_05-4039c04a1e16492e8b1c6024167e28f8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Graphics: Breathtaking visuals, but subpar optimization**
 
  With such a monster storage requirement, it’s no surprise that the details and graphics in X-Plane 11 are pretty remarkable. Planes themselves are the focus here, so the textures are superb. Also because Laminar chose to focus on fewer aircraft overall, the ones they’ve included all feel exceptionally well fleshed out. That tradeoff might not appeal to those who want hundreds of vehicles to select from, but it does make the selection in the game quite impressive.
@@ -140,16 +135,18 @@ The ultimate burning program for all your needs!</a>
 
  Lastly, we do recommend running the game on an SSD if you can, as HDDs are known to create annoying pop-ins while loading landscapes during flights.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/vw51Z13aohls1Ebaej2J6l1z-0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_02-ae4e2d16b4db412aaa3e933fd3dfc7ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: In line with modern games, but pricey DLC not included**
 
  Because X-Plane 11 is a relatively newer game, the price is what you’d expect from most current AAA titles. The game is currently priced at about $60-70 depending on where you purchase it, so it’s not exactly cheap, but it is average for the market.
@@ -159,6 +156,10 @@ The ultimate burning program for all your needs!</a>
  Without a doubt, X-Plane 11 is the best current-generation flight simulator you can currently purchase.
 
  One nice feature with X-Plane is that you do have the option to install mods. These free packs of user-generated content can really spice things up by providing custom aircraft and environments if you’re looking to add content without adding more money. They aren’t as numerous as the mod options for FSX, but they’re there if you want them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **X-Plane 11 Global Flight Simulator vs. Microsoft Flight Simulator X**
 
@@ -178,9 +179,6 @@ The ultimate burning program for all your needs!</a>
 
  Without a doubt, X-Plane 11 is the best current-generation flight simulator you can buy. While there are some issues with optimization, if you’ve got the computer for it, the game is stunning and currently provides the best real-world experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
@@ -199,14 +197,11 @@ The ultimate burning program for all your needs!</a>
 * Genre  Simulator
 * ESRB rating  E
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,3 +209,25 @@ The ultimate burning program for all your needs!</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-realistic-or-risky-vrs-hidden-dangers/"><u>[Updated] In 2024, Realistic or Risky? VR's Hidden Dangers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-video-preservation/"><u>[Updated] In 2024, The Ultimate Guide to Online Video Preservation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-gaomon-pd1560-pen-tablet-assessment/"><u>Comprehensive Gaomon PD1560 Pen Tablet Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discreet-and-economical-an-in-depth-review-of-the-rexing-v1-dashcam/"><u>Discreet & Economical: An In-Depth Review of the Rexing V1 Dashcam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-now-free-winx-movie-editor-official-site-with-professional-dvd-extractor-and-hd-video-transcoder/"><u>Download Now Free: WinX Movie Editor – Official Site with Professional DVD Extractor & HD Video Transcoder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-mohu-blade-tv-antennas-distinctive-layout-and-effective-indoor-reception/"><u>Expert Analysis of the Mohu Blade TV Antenna's Distinctive Layout and Effective Indoor Reception</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-premium-huion-inspiroy-g10t-graphic-tablet-unmatched-quality-and-efficiency-for-creatives/"><u>Expert Review of the Premium Huion Inspiroy G10T Graphic Tablet: Unmatched Quality and Efficiency for Creatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-x-plane-global-flight-simulator-the-pinnacle-of-realism-and-next-gen-innovation/"><u>Expert Review of X-Plane Global Flight Simulator - The Pinnacle of Realism & Next-Gen Innovation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-best-value-in-phones-an-in-depth-look-at-the-samsung-galaxy-a71-with-5g-connectivity/"><u>Exploring the Best Value in Phones: An In-Depth Look at the Samsung Galaxy A71 with 5G Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-pitfalls-of-the-microsoft-surface-duo-a-pricey-device-marred-by-bugs/"><u>Exploring the Pitfalls of the Microsoft Surface Duo: A Pricey Device Marred by Bugs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/farm-to-screen-petcubes-global-pet-love/"><u>Farm-to-Screen: Petcube’s Global Pet Love</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-moto-g24mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Moto G24Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-guide-to-simple-high-dynamic-range-for-2024/"><u>In-Depth Guide to Simple High Dynamic Range for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/precision-practices-for-perfecting-figmas-background-removal-for-2024/"><u>Precision Practices for Perfecting Figma's Background Removal for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-like-a-pro-gopro-quik-review-and-best-pc-alternatives-for-video-editing/"><u>Updated Edit Like a Pro GoPro Quik Review & Best PC Alternatives for Video Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+</ul></div>
+

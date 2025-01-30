@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Disconnect: Understanding Why Modern Gamers Overlook Vintage Video Game Titles"
-date: 2025-01-17T04:30:27.628Z
-updated: 2025-01-21T21:31:32.889Z
+date: 2025-01-27T16:06:50.291Z
+updated: 2025-01-29T22:31:35.669Z
 tags:
   - games
   - tv
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
  I grew up in the early 2000s playing games like _Call of Duty 2_ and _Need for Speed: Most Wanted_, but I also played older games like _Altered Beast_, _Doom_, and _Prince of Persia_. To my surprise, my younger brothers (aged 10 and 13) hadn't even heard of these games, so I asked them why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Poor Platform Availability
@@ -47,15 +47,15 @@ Lucas Gouveia / How-To Geek | [Christos Film](https://www.shutterstock.com/en/im
 
  My younger brothers don't even know what an emulator is, or why they'd have to use one instead of downloading a game from a store, and that's a fair point. Regardless of how easy it is to emulate games now, it's still an extra step over just downloading and playing a game from Steam. Emulators also raise [legal and ethical considerations](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Old Games Can’t Compete With Modern Technology
 
  I initially thought that outdated graphics were the biggest reason today's kids don't like old games. While graphics are a factor, they're not the main one. Kids don't [care about ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) the same way adults do. My 10-year-old brother said he doesn't mind the pixelated graphics in old games at all; in fact, he loves simple graphics and prefers games like _Fortnite_, _Minecraft_, and _Roblox_ over the semi-realistic graphics found in games like _Forza Horizon 5_.
 
 ![A collage of boomer shooters consisting of Ion Fury, Quake, Duke Nukem 3D, and Doom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooter-hero.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 id Software/3D Realms
 
@@ -69,11 +69,11 @@ id Software/3D Realms
 
 ![A pile of retro game controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1065532730.jpg) 
 
-[robtek/Shutterstock.com](https://www.shutterstock.com/image-photo/taipei-taiwan-february-19-2018-pile-1065532730)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+[robtek/Shutterstock.com](https://www.shutterstock.com/image-photo/taipei-taiwan-february-19-2018-pile-1065532730)
 
 ##  Kids Are Constantly Exposed to New Games
 
@@ -85,14 +85,10 @@ id Software/3D Realms
 
 ![An LED TV hanging on the wall of a living room, with a soccer player onscreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/LED-tv-living-room-soccer.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[Vasyl Shulga/Shutterstock.com](https://www.shutterstock.com/image-photo/3d-illustration-living-room-led-tv-728233795)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Lack of Multiplayer
@@ -102,6 +98,10 @@ _[Vasyl Shulga/Shutterstock.com](https://www.shutterstock.com/image-photo/3d-ill
  Playing games on your own is a fun, tailored, and immersive experience, but my brother finds them lonely and monotonous so he rarely plays them for more than an hour at a time. The moment his friends call him to play something together, he's done with whatever adventure game he was chipping away at. To be honest, I often do the same, as I don't always have the time and patience that story-driven single-player games demand.
 
 ![Roblox visible on a PC screen with LED backlight, keyboard, and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/roblox-visible-on-a-pc-screen-with-led-backlight-keyboard-and-mouse.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Cassiano Correia/Shutterstock.com](https://www.shutterstock.com/image-photo/curitiba-brazil-february-9-2021-roblox-1944605680)
 
@@ -134,16 +134,24 @@ _[Vasyl Shulga/Shutterstock.com](https://www.shutterstock.com/image-photo/3d-ill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[New] Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-boosting-your-browser-lightning-speed-profile-hunts/"><u>[Updated] Boosting Your Browser Lightning Speed Profile Hunts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-reno-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Reno 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enjoying-every-moment-of-pokemon-shining-pearl-discover-how/"><u>Enjoying Every Moment of Pokémon Shining Pearl - Discover How!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-fongo-leading-canadian-voice-over-ip-solutions/"><u>Expert Evaluation of Fongo: Leading Canadian Voice over IP Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-ace-3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus Ace 3 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-port-multiplication-with-ankers-superspeed-usb-hub-review/"><u>Mastering Port Multiplication with Anker's SuperSpeed USB Hub Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-guide-saving-preview-images-from-microsoft-word/"><u>Step-by-Step Guide: Saving Preview Images From Microsoft Word</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-compact-mouse-sabrent-mini-model-offers-unmatched-precision-and-cable-connectivity/"><u>The Ultimate Compact Mouse: Sabrent Mini Model Offers Unmatched Precision and Cable Connectivity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726221392276-orf-movavi/"><u>오피니 가격이 없는 모바일용 ORF 펜싱 변환 - Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-4-effective-ways-to-snip-screens-on-chromebook-for-2024/"><u>[New] 4 Effective Ways to Snip Screens On Chromebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-persuasive-prompt-producer-kit/"><u>[New] Persuasive Prompt Producer Kit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-should-you-pay-for-unlimited-youtube-in-2024/"><u>[Updated] Should You Pay for Unlimited YouTube, In 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-buyers-guide-to-selecting-superior-smart-speakers-for-enhanced-home-automation/"><u>A Buyer's Guide to Selecting Superior Smart Speakers for Enhanced Home Automation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-se-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone SE Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capturing-glimpses-auras-digital-frames-revolutionize-viewing/"><u>Capturing Glimpses: Aura's Digital Frames Revolutionize Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cat-s4-2nd-generation-reviewed-unmatched-protection-vs-limited-speed-potential/"><u>CAT S4 2Nd Generation Reviewed: Unmatched Protection vs Limited Speed Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/edges-steady-cycle-managing-on-windows-11/"><u>Edge's Steady Cycle: Managing on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-advantages-and-disadvantages-of-pidgin-im-service/"><u>Evaluating the Advantages and Disadvantages of Pidgin IM Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-the-linksys-wireless-ea8300-optimized-multi-device-data-management-reviewed/"><u>Expert Analysis on the Linksys Wireless EA8300 - Optimized Multi-Device Data Management Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fl55amoor-review-of-the-winegard-flatwave-solid-performance-questionable-pricing/"><u>FL55amoor Review of the Winegard FlatWave - Solid Performance, Questionable Pricing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>In 2024, Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kitty-kicks-a-cat-tastic-playtime/"><u>Kitty Kicks: A Cat-Tastic Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-obstacles-getting-pathfinder-wrath-of-the-righteous-running-after-a-failed-start/"><u>Overcoming Obstacles: Getting Pathfinder: Wrath of the Righteous Running After a Failed Start</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/snappy-vids-guide-essential-info/"><u>Snappy Vids Guide Essential Info</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-changed-monitor-display-size-a-troubleshooting-guide/"><u>Successfully Changed Monitor Display Size - A Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-garmin-vivosmart-4s-body-battery-and-stress-analysis-features-reviewed/"><u>The Ultimate Guide to Understanding Garmin Vivosmart 4'S Body Battery and Stress Analysis Features - Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncover-if-applecareplus-offers-worthwhile-benefits-to-consumers/"><u>Uncover if AppleCare+ Offers Worthwhile Benefits to Consumers</u></a></li>
 </ul></div>
 

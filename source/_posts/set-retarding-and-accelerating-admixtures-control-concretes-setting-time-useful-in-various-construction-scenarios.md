@@ -1,7 +1,7 @@
 ---
 title: Set Retarding and Accelerating Admixtures Control Concrete's Setting Time, Useful in Various Construction Scenarios.
-date: 2025-01-19T09:05:41.404Z
-updated: 2025-01-22T00:19:28.830Z
+date: 2025-01-22T20:04:42.862Z
+updated: 2025-01-29T19:45:53.940Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Set Retarding and Accelerating Admixtures Control Concrete's Setting Time, Useful in Various Construction Scenarios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
@@ -106,6 +106,10 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  I took the Nebula Capsule 3 on a weekend trip to see how it handled being on the road. Because the device is so portable and easy to move around or travel with, I do wish it came with a case or some kind of lens protection. Packaging it in a backpack with some of my other devices made me a little uneasy.
@@ -126,10 +130,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -146,21 +146,17 @@ Jerome Thomas / How-To Geek
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -169,6 +165,10 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -193,16 +193,20 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/aximizing-your-youtube-click-through-rate-upload-schedule-insights-for-2024/"><u>[New] Maximizing Your YouTube Click-Through Rate Upload Schedule Insights for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-user-manual-how-to-use-screen-recording-on-mac-for-2024/"><u>[New] The Complete User Manual How To Use Screen Recording on Mac for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apc-back-ups-pro-ebr)-1500-va-unit-review-excellent-capacity-extensive-port-availability-and-hot-swappable-batteries-feature/"><u>APC Back-UPS Pro Ebr> 1500 VA Unit Review: Excellent Capacity, Extensive Port Availability and Hot Swappable Batteries Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-unbeatable-black-friday-offers-for-apple-airpods-ranked-best-by-zdnet/"><u>Discover Unbeatable Black Friday Offers for Apple AirPods - Ranked Best by ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-g84-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto G84 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-dji-phantom-4-pro-v20-soaring-close-to-aerial-excellence/"><u>In-Depth Analysis of the DJI Phantom 4 Pro v2.0 - Soaring Close to Aerial Excellence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-ms-store-hiccups-in-windows-10-and-11-systems/"><u>Mending MS Store Hiccups in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-recovery-issues-the-ultimate-guide/"><u>Resolving Windows Recovery Issues: The Ultimate Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-motherboard-upgrades/"><u>The Ideal Motherboard Upgrades</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-stanley-j5c09-cutting-machine-big-and-effective-for-demolition-tasks/"><u>The Stanley J5C09 Cutting Machine: Big and Effective for Demolition Tasks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-enhanced-effect-of-a-concentrated-focus-in-marvels-spider-man-miles-morales/"><u>Unpacking the Enhanced Effect of a Concentrated Focus in Marvel's Spider-Man: Miles Morales</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-rtx-3060-ti-driver-for-windows-1111/"><u>[Download] GeForce RTX 3060 Ti Driver for Windows 11/11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[New] From Eyeballs to Earnings The Price of Popular Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximize-your-content-impact-with-insights-from-social-blade-on-youtube/"><u>[Updated] 2024 Approved Maximize Your Content Impact with Insights From Social Blade on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-achieving-financial-gains-via-snapchat/"><u>[Updated] Achieving Financial Gains via Snapchat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-constructing-an-affordable-google-vr-helmet-at-home/"><u>[Updated] Constructing an Affordable Google VR Helmet at Home</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-funimate-android-adventure-the-apk-breakdown/"><u>2024 Approved Funimate Android Adventure The APK Breakdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-fintie-protective-cover-for-macbook-air-13-balancing-value-and-robustness/"><u>Comprehensive Review of the Fintie Protective Cover for MacBook Air 13 - Balancing Value and Robustness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-most-effective-replacements-for-microsoft-office/"><u>Discovering the Most Effective Replacements for Microsoft Office</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-chic-and-efficient-swagtrn-swagger-electric-scooter-experience/"><u>Exploring the Chic and Efficient Swagtrn Swagger Electric Scooter Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-farsi-ancient-insights-future-opportunities/"><u>Mastering Farsi: Ancient Insights, Future Opportunities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/regles-dutilisation-guide-complet-pour-les-conditions-de-service/"><u>Règles D'Utilisation: Guide Complet Pour Les Conditions De Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-power-booster-in-notetaking-in-depth-assessment-of-the-onetastic-plugin-for-microsoft-onenote/"><u>The Power Booster in Notetaking: In-Depth Assessment of the Onetastic Plugin for Microsoft OneNote</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-of-google-nest-wi-fi-speed-ease-and-mesh-network-mastery/"><u>Unveiling the Potential of Google Nest Wi-Fi - Speed, Ease, and Mesh Network Mastery</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wonder-workshops-dash-toy-a-revolutionary-learning-experience-on-wheels/"><u>Wonder Workshop's Dash Toy - A Revolutionary Learning Experience on Wheels!</u></a></li>
 </ul></div>
 

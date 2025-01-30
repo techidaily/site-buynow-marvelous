@@ -1,7 +1,7 @@
 ---
 title: Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
-date: 2025-01-14T19:24:15.191Z
-updated: 2025-01-22T11:16:15.435Z
+date: 2025-01-23T17:32:03.669Z
+updated: 2025-01-30T01:04:10.271Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Lessons From Xbox’s Struggle Against Competitors and Future Moves to Regain Market Dominance
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  By some estimates, the PS5 is outselling both Xbox Series consoles by more than four times to one. Microsoft is now adopting a multi-platform strategy and bringing games to Sony’s platform. So what went wrong, and what happens next?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How the Xbox 360 Won the West
 
  It was unthinkable that Microsoft could eventually find itself in last place during the Xbox 360’s heyday in the late 2000s. When titles like _Halo 3_ and _Gears of War_ dominated, Xbox rose to prominence as a household name not only in its home market of the US but in Europe and around the world (except for Japan). Over console's lifetime Microsoft managed to shift 84 million units.
@@ -38,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Having flirted with success thanks to the introduction of Xbox Live in November 2002, a year after the Xbox launch, the company moved forward with a console that put Xbox Live at the center of the experience. By the time _Halo 3_ came out in November 2007, 8 million people were playing online and sending each other obscene messages via Xbox Live.
 
 ![A white Xbox 360 on a table with a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/ba147733.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [emodpk/Shutterstock.com](https://www.shutterstock.com/image-photo/ayutthaya-thailand-march-6-2018-white-1039536790)
 
@@ -57,10 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unfortunately, this wouldn’t last.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Xbox One Gambled Everything on the Living Room (and Lost)
 
  The Xbox One was an unmitigated disaster for Microsoft. So much went wrong in such a short time that Sony’s brand-new PlayStation 4 was easily able to establish itself as the dominant platform shortly after release.
@@ -72,7 +60,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Xbox One Kinect sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/b950b2b1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -87,11 +75,19 @@ Microsoft
 
  This isn’t to say that Microsoft was devoid of good ideas during this time. The Xbox One saw the introduction of a backward compatibility program, making nearly 200 Xbox 360 titles playable. Microsoft also introduced its wildly successful Game Pass subscription service in 2017.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Correcting Course With the Series X|S
 
  After proving that it could still design great hardware with the One X, Microsoft moved ahead with a two-pronged approach for the next generation. The flagship Xbox Series X has best-in-class thermals and a modern monolithic aesthetic. While even the [redesigned slim PS5](https://facebook-video-share.techidaily.com/updated-from-hobbies-to-hearts-youtubes-path-to-fame/) looks bloated, the Series X’s unapologetic fan-with-console design stands out.
 
 ![Xbox Series X and Xbox Series X consoles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/xbox-x-vs-s-resized.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy-27-december-2020-new-video-1882894459)_
 
@@ -120,6 +116,10 @@ _[ALDECA studio/Shutterstock.com](https://www.shutterstock.com/image-photo/italy
  Microsoft could even one-up Sony by making it possible to install a storefront like Steam, paving the way for Sony’s PC releases to be playable on an Xbox.
 
 ![The start of a multiplayer match in Halo: Infinite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/halo_infinite.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Halo: Infinite_  
 Tim Brookes / How-To Geek
@@ -153,17 +153,18 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-how-to-effortlessly-migrate-to-macos-sierra-version/"><u>[New] How-To Effortlessly Migrate to macOS Sierra Version</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2023-guide-selecting-no-charge-fb-video-and-photo-artists-for-2024/"><u>[Updated] 2023 Guide Selecting No-Charge FB Video & Photo Artists for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-win11s-top-5-cost-free-applications-for-recording-screens/"><u>[Updated] 2024 Approved Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ace-your-desk-setup-with-the-top-tier-wireless-mice/"><u>Ace Your Desk Setup with the Top-Tier Wireless Mice</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/balancing-cost-and-quality-a-closer-look-at-the-pros-and-cons-of-thermopro-tp67/"><u>Balancing Cost and Quality: A Closer Look at the Pros and Cons of ThermoPro TP67</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/imo-messaging-app-evaluation-does-it-meet-your-communication-needs/"><u>Imo Messaging App Evaluation - Does It Meet Your Communication Needs?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-s17-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo S17 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-m6-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco M6 5G Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-google-pixel-8-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Google Pixel 8 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Flip Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-verdict-on-the-nook-glowlight-4-tablet-should-you-buy-it/"><u>In-Depth Analysis & Verdict on the Nook GlowLight 4 Tablet - Should You Buy It?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-and-performance-of-the-jaco-smartpro-digital-tire-inflator/"><u>Unveiling the Features and Performance of the Jaco SmartPro Digital Tire Inflator</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhance-your-graphic-content-canvas-boundary-elimination-trick/"><u>[Updated] Enhance Your Graphic Content Canva's Boundary Elimination Trick</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-closer-look-at-apples-m1-computing-powerhouse/"><u>[Updated] In 2024, A Closer Look at Apple’s M1 Computing Powerhouse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capture-the-now-best-budget-cams-under-100-2024/"><u>Capture the Now - Best Budget Cams Under $100, 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-snappy-driver-installer-version-113-an-in-depth-review/"><u>Comprehensive Analysis: Snappy Driver Installer Version 1.13 - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-expensive-efficiency-a-thorough-review-of-the-thermaltake-massive-laptop-cooler/"><u>Evaluating the Expensive Efficiency: A Thorough Review of the Thermaltake Massive Laptop Cooler</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/free-tango-communication-explore-texting-calling-and-video-chat/"><u>Free Tango Communication: Explore Texting, Calling & Video Chat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/generate-giggle-worthy-graphics/"><u>Generate Giggle-Worthy Graphics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y56-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y56 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>In 2024, Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-huion-kamvas-gt-191-graphics-pad-stunning-large-digital-canvas/"><u>In-Depth Evaluation of the Huion Kamvas GT-191 Graphics Pad: Stunning Large Digital Canvas</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/madden-19-critique-excellent-additions-yet-constrained-by-traditional-format/"><u>Madden 19 Critique: Excellent Additions, Yet Constrained by Traditional Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/reel-in-riches-a-guide-to-earning-on-youtube-shorts-for-2024/"><u>Reel In Riches A Guide to Earning on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-correcting-the-haldll-file-malfunction-across-windows-platforms/"><u>Ultimate Guide: Correcting the hal.dll File Malfunction Across Windows Platforms</u></a></li>
 </ul></div>
 

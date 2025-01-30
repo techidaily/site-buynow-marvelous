@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: My Journey in Creating a 3D Printer-Crafted Aircraft Model"
-date: 2025-01-14T18:01:07.070Z
-updated: 2025-01-22T07:19:47.417Z
+date: 2025-01-26T16:24:28.894Z
+updated: 2025-01-29T23:31:53.702Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  You don't have to be a canny CAD user either, since many talented tinkerers will simply make their 3D printing files available online for free, or for a fee. All you have to do is print the parts out, add additional components such as the motors, speed controllers, etc., and then glue them all together. If all goes well you should be soaring through the sky in no time, or at least having a "fun" time crashing without knowing why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printable Gliders
@@ -34,7 +34,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  This is where I personally want to start my 3D-printed aircraft adventures, because I want to get a feel for printing the fuselages of planes, and seeing how it all works before adding control surfaces and such. There are awesome popular glider designs like the [Stable Flyer VI](https://www.printables.com/model/408967-stable-flyer-vi-small-toy-glider) and the [Super Stratos](https://www.thingiverse.com/thing:97803/files) which you can print in no time at all. Many of these are print-in-place and don't need assembly either.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printable Planes
@@ -46,7 +46,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
  CNC Kitchen has this great video of how they printed and built a plane using 3D Print Labs, so you can check out the whole process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printing My First Glider
@@ -56,7 +56,7 @@ I fly RC helicopters (poorly) and have wanted to try RC planes for a long time, 
 ![A yellow 3D printed glider inside a 3D Printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-inside-a-3d-printer.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -66,7 +66,7 @@ Sydney Louw Butler / How-To Geek
 ![A yellow 3D printed glider held in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-yellow-3d-printed-glider-held-in-a-person-s-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -88,22 +88,22 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-non-copyrighted-meditation-sounds/"><u>[New] In 2024, Non-Copyrighted Meditation Sounds</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-discovering-the-best-vr-camera-for-adventures-for-2024/"><u>[Updated] Discovering the Best VR Camera for Adventures for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>[Updated] In 2024, Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-v30-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-close-up-cinematography-through-zooming/"><u>2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-stand-alone-hold-tight-camera-stability-techniques/"><u>2024 Approved Stand Alone, Hold Tight Camera Stability Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazons-game-changing-halo-device-redefining-invasive-wellbeing-surveillance/"><u>Amazon's Game-Changing Halo Device: Redefining Invasive Wellbeing Surveillance</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-huawei-nova-y71-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Huawei Nova Y71 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-youtube-equipment-for-starting-your-channel/"><u>Essential YouTube Equipment For Starting Your Channel</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-agile-and-pricey-swagtron-swagboard-t1/"><u>Expert Evaluation of the Agile and Pricey Swagtron Swagboard T1</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/game-review-of-cyberpunk-2077-flawed-but-a-gem-among-titles/"><u>Game Review of Cyberpunk 2077: Flawed but a Gem Among Titles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-pixel-5-assessment-striking-a-balance-between-budget-friendly-power-and-luxurious-features/"><u>Google Pixel 5 Assessment: Striking a Balance Between Budget-Friendly Power and Luxurious Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-select-the-right-tablet-a-focus-on-size-and-weight-factors/"><u>How to Select the Right Tablet: A Focus on Size and Weight Factors</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-ps4-camera-positioning-a-comprehensive-guide-to-enhanced-gaming-streams/"><u>Mastering PS4 Camera Positioning: A Comprehensive Guide to Enhanced Gaming Streams</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-companion-for-your-oculus-quest-2-a-comprehensive-review-of-the-premium-elite-strap-and-protective-case-ensemble/"><u>The Ultimate Companion for Your Oculus Quest 2: A Comprehensive Review of the Premium Elite Strap and Protective Case Ensemble</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-value-how-apple-ipad-air-grovels-with-ipad-pro-performance-at-a-lower-price-point/"><u>Unveiling the Value: How Apple iPad Air Grovels with iPad Pro Performance at a Lower Price Point</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50i+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>[New] In 2024, Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-quick-guide-to-faster-tiktok-creation-for-2024/"><u>[Updated] Quick Guide to Faster TikTok Creation for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-most-advanced-and-immersive-htpc-setups-reviewed/"><u>2024'S Most Advanced and Immersive HTPC Setups Reviewed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a70-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aeeusys-compact-solar-power-station-review-best-fit-for-sensitive-healthcare-equipment-with-pure-sine-wave-output/"><u>AEEUSY's Compact Solar Power Station Review: Best Fit for Sensitive Healthcare Equipment with Pure Sine Wave Output</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-ultimate-nighttime-illumination-with-romers-rechargeable-led-flashlight/"><u>Experience the Ultimate Nighttime Illumination with Romer's Rechargeable LED Flashlight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-for-maintaining-a-hygienic-mechanical-keyboard-at-home-or-office/"><u>Expert Advice for Maintaining a Hygienic Mechanical Keyboard at Home or Office</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/exploring-computer-energy-saving-techniques-a-guide-by-yl-computing/"><u>Exploring Computer Energy Saving Techniques: A Guide by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-k11x-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo K11x Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a60s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A60s Phone that is Locked?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>In 2024, Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-pros-and-cons-of-the-pioneer-bdr-xd05b-blu-ray-recorder/"><u>In-Depth Analysis: Pros and Cons of the Pioneer BDR-XD05B Blu-Ray Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-latest-fitbit-charge-groove-features-and-functionality/"><u>In-Depth Look at the Latest Fitbit Charge Groove Features and Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-knack-experience-singular-hero-faces-predictable-challenges/"><u>Inside the Knack Experience: Singular Hero Faces Predictable Challenges</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/making-an-informed-choice-alexa-and-google-assistant-face-off-for-optimal-results/"><u>Making an Informed Choice: Alexa and Google Assistant Face-Off for Optimal Results</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-connecting-zoom-calls-to-your-television-effortlessly/"><u>Ultimate Guide: Connecting Zoom Calls to Your Television Effortlessly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrading-32-bit-windows-11-to-a-64-bit-system/"><u>Upgrading 32-Bit Windows 11 to a 64-Bit System</u></a></li>
 </ul></div>
 

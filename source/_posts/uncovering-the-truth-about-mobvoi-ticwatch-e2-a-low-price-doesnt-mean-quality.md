@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2025-01-16T22:42:39.680Z
-updated: 2025-01-22T10:09:31.010Z
+date: 2025-01-23T19:08:27.653Z
+updated: 2025-01-30T00:40:28.453Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -49,10 +53,6 @@ Lifewire / Emily Isaacs
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Emily Isaacs
 
 [View On Amazon $78](https://www.amazon.com/Fellowes-Microban-Split-Design-Keyboard/dp/B0002CE0XO?tag=lifewire-onsite-prod-20&ascsubtag=4780294%7Cn668ce44e90054ecb91b1dbd3aca2275805%7CB0002CE0XO) [View On Walmart $78](https://www.walmart.com/ip/Fellowes-FEL98915-Split-Design-Ergonomic-Keyboard-with-Microban-1-Black/10363789) [View On Staples](https://www.staples.com/Fellowes-98915-Microban-Split-Design-Corded-Keyboard/product%5F806284)
@@ -74,10 +74,6 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
@@ -95,7 +91,7 @@ Lifewire / Emily Isaacs
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Plug and play**
@@ -117,12 +113,16 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -175,20 +175,19 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[New] In 2024, Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-maximizing-video-memories-3-itunes-saving-methods-for-2024/"><u>[New] Maximizing Video Memories 3 iTunes Saving Methods for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-measures-to-record-mobile-devices/"><u>[Updated] In 2024, Advanced Measures to Record Mobile Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-universal-iptv-access-model/"><u>2024 Approved Universal IPTV Access Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/applecareplus-explained-is-the-extra-coverage-worthwhile/"><u>AppleCare+ Explained: Is the Extra Coverage Worthwhile?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boosting-connectivity-like-never-before-a-detailed-evaluation-of-the-netgear-nighthawk-x6-mesh-wi-fi-expander/"><u>Boosting Connectivity Like Never Before – A Detailed Evaluation of the Netgear Nighthawk X6 Mesh Wi-Fi Expander</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-toshiba-55lf711u20-smart-55-fire-tv-edition-a-prime-choice-for-streaming-enthusiasts/"><u>Expert Analysis of the Toshiba 55LF711U20 Smart 55 Fire TV Edition: A Prime Choice for Streaming Enthusiasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/getting-free-hd-tv-on-your-own-terms-with-the-stylish-ant-and-decorative-antop-at-127-antenna/"><u>Getting Free HD TV on Your Own Terms with The Stylish Ant & Decorative ANTOP AT-127 Antenna</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-lava-yuva-3-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-moto-g-plays-exceptional-battery-life-and-reliable-performance/"><u>The Ultimate Guide to Moto G Play's Exceptional Battery Life and Reliable Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-samsungs-cf591-in-modern-gaming-scenarios/"><u>Unveiling the Performance of Samsung's CF591 in Modern Gaming Scenarios</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-genius-widecam-f100-image-clarity-and-sound-echo-concerns/"><u>Unveiling the Truth About Genius WideCam F100 - Image Clarity and Sound Echo Concerns</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/value-flight-in-depth-analysis-of-holy-stones-hs170-predator-mini-drone/"><u>Value Flight: In-Depth Analysis of Holy Stone's HS170 Predator Mini Drone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/imperator-rome-conquering-power-or-facing-destruction/"><u>'Imperator: Rome': Conquering Power or Facing Destruction?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates/"><u>[New] In 2024, Attract More Viewers Crafting Impressive Youtube Description with Custom Templates</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728486572437-windows-10/"><u>動作不良解決策：Windows 10 スタート画面とタスクバー</u></a></li>
+<li><a href="https://win-news.techidaily.com/comment-chiffrer-votre-contenu-pour-proteger-les-donnees-sensibles-sur-windows-11/"><u>Comment Chiffrer Votre Contenu Pour Protéger Les Données Sensibles Sur Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-oneplus-nord-n10-5g-a-smart-choice-you-cant-overlook/"><u>Expert Analysis of OnePlus Nord N10 5G: A Smart Choice You Can't Overlook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-premium-features-in-spotify-music-service/"><u>Exploring Premium Features in Spotify Music Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fun-filled-cosmic-calamity-as-earthly-cities-collide-with-mars-birth-whirlwind-revelries/"><u>Fun-Filled Cosmic Calamity as Earthly Cities Collide with Mars, Birth Whirlwind Revelries</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-chromecast-vs-firetv-a-comprehensive-showdown/"><u>Google TV Chromecast vs FireTV: A Comprehensive Showdown</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/headlights-revamp-driving-dynamics-improvement-ideas/"><u>Headlights Revamp: Driving Dynamics Improvement Ideas</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-revenue-through-youtube-brand-partnerships-for-2024/"><u>Maximizing Revenue Through Youtube Brand Partnerships for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quickly-connect-scansnap-s510-driver-installation-whats-new/"><u>Quickly Connect: ScanSnap S510 Driver Installation - What's New?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starting-point-auditions-approach-to-soft-volume-increase-for-2024/"><u>Starting Point Audition's Approach to Soft Volume Increase for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-with-a-non-printable-pdf-master-swift-solutions/"><u>Struggling with a Non-Printable PDF? Master Swift Solutions!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-your-unrecognized-gpu-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Your Unrecognized GPU - Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

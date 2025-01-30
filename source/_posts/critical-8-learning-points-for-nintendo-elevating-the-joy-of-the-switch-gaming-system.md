@@ -1,7 +1,7 @@
 ---
 title: "Critical 8 Learning Points for Nintendo: Elevating the Joy of the Switch Gaming System"
-date: 2024-10-23T18:34:06.431Z
-updated: 2024-10-30T10:16:01.616Z
+date: 2025-01-24T00:09:45.757Z
+updated: 2025-01-29T22:40:42.564Z
 tags:
   - games
   - tv
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 ![Nintendo Switch game cases.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/super_mario_wonder_switch.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  This one is the easiest win for Nintendo. If you’re anything like me, you’ve accumulated a vast library of games on your Switch. The value-add of portability has made it not only my go-to system for multi-platform indie titles but also a compelling reason to re-purchase games I love. Being able to carry this collection over to Switch 2 would make it a no-brainer purchase.
@@ -50,10 +43,7 @@ Tim Brookes / How-To Geek
 ![The Legend of Zelda: Breath of the Wild running on a Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/shutterstock_1454397305.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Natalia Lobon/Shutterstock.com](https://www.shutterstock.com/image-photo/boy-playing-zelda-on-nintendo-switch-1454397305)
@@ -84,6 +74,10 @@ Hannah Stryker / How-To Geek
 
 ![Playing Mario Kart for SNES on a Nintendo Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/nintendo-switch-online.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nintendo
 
  We’re probably all tired of Nintendo’s tendency to drip-feed the same NES and SNES titles across a span of years, every generation. But now that the company has established emulated libraries through online services, there’s less reason than ever for them to do it all over again. In fact, improved and expanded functionality should be their M.O. going forward.
@@ -91,13 +85,6 @@ Nintendo
  There’s an abundance of quality-of-life improvements for the Nintendo Switch Online apps. It's become cumbersome to keep up with all the different emulation apps under the service’s umbrella; these should all be combined into a one-stop shop for Nintendo retro gaming. Options to remove filters automatically applied to any system’s games would also be welcome, even if doing so would lead to a less authentic experience. Also, [button mapping](https://techno-recovery.techidaily.com/the-ultimate-list-5-best-video-editing-software-picks/) for specific consoles (or even specific games) would be welcome.
 
  Adding new consoles to the fold like the GameCube would also get people excited, though I wouldn’t hold it against Nintendo to keep that card in their back pocket for a dry season. What’s most important for the Switch 2’s launch is that they simply let us keep what we already have.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Improved Online Paves the Way 
 
@@ -111,23 +98,9 @@ Kris Henges / How-To Geek
 
  I’d be remiss if I didn’t also mention the potential to bring MMOs to a portable system. The likes of _Final Fantasy XIV_ and _World of Warcraft_ don’t currently have dedicated handheld ports, but could massively benefit from the form-factor. I can only imagine how much less of a hassle it would feel like to grab a Switch 2 for my daily Mini Cactpot log-in, or to complete a few side-quests before bed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Give the UI a Facelift 
 
 ![A game is highlit with the cursor on the Nintendo Switch home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/game_highlit.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While I love how the [Switch’s no-nonsense user interface keeps the focus on the games](https://facebook-video-recording.techidaily.com/updated-crafting-powerful-hashtags-for-fb-brand-identity-for-2024/), it’s ripe for improvement.
 
@@ -137,9 +110,17 @@ Kris Henges / How-To Geek
 
  One such way they could do this is by adding themes. Fans have requested this feature ever since the Switch’s launch, both because they were a beloved customization option on 3DS, and the system settings have a menu to support them that’s gone suspiciously unused. This would separate Nintendo from its competition while giving users a way to personalize their devices. It’s a win-win scenario.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7  Pack in a Pro Controller (And Make Old Ones Compatible) 
 
 ![Nintendo Switch Pro Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/032b2cc9-4.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nintendo
 
@@ -150,15 +131,16 @@ Nintendo
  Additionally, we’ve talked about backward compatibility for games, and I believe that should also apply to controllers. Unless there’s a substantial new feature that warrants a refresh, Nintendo should continue supporting Switch controllers. I’d go as far as to say this support outweighs any gimmicks they could add. That said, new models that [fix stick drift issues](https://instagram-video-files.techidaily.com/new-discreet-insta-story-enthusiasts-best-5-tools/) would be appreciated.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Don’t Muddle the Message 
 
 ![Nintendo Switch Joy Cons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/52659706170_2192629c1a_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -187,20 +169,15 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>[Updated] Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-constant-media-recording-specialists/"><u>2024 Approved Constant Media Recording Specialists</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-11-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 11 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-generate-an-iso-file-for-system-installation-on-windows-10-using-native-utilities/"><u>How to Generate an ISO File for System Installation on Windows 10 Using Native Utilities</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-sony-xperia-1-v-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Sony Xperia 1 V to iPad | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-live-streamers/"><u>In 2024, The Ultimate Guide to Exceptional Live Streamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-hyper-analysis-standout-performances-at-an-affordable-price-point/"><u>Motorola One Hyper Analysis: Standout Performances at an Affordable Price Point</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-best-and-brightest-of-netgear-routers/"><u>Navigate Through The Best and Brightest of Netgear Routers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-elgoog-insiders-review-of-the-premier-website-mirroring-service/"><u>Navigating elgooG: Insider's Review of the Premier Website Mirroring Service</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pitfalls-of-pixel-slate-an-investigative-review-of-its-chromeos-capabilities/"><u>Navigating the Pitfalls of Pixel Slate - An Investigative Review of Its ChromeOS Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-fortnite-an-insiders-review-of-the-thrilling-new-seasonal-content/"><u>Rediscovering Fortnite: An Insider's Review of the Thrilling New Seasonal Content</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-caixun-75-inch-4k-television-quality-performance-at-a-low-price-point/"><u>Review of the Caixun 75-Inch 4K Television: Quality Performance at a Low Price Point</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-windowmaster-your-essential-toolkit-for-efficient-files-and-folders-purging/"><u>Stellar WindowMaster: Your Essential Toolkit for Efficient Files & Folders Purging</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-picks-for-integrating-frame-elements-with-images/"><u>Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-stability-mastering-shaky-images/"><u>[New] Capturing Stability Mastering Shaky Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-the-perfect-phrases-for-gamers-videos/"><u>[New] Finding the Perfect Phrases for Gamers' Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-magix-composition-wizard-an-audio-editing-experience-for-2024/"><u>[Updated] Magix Composition Wizard An Audio Editing Experience for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-innovative-techniques-for-next-level-lut-creation/"><u>2024 Approved Innovative Techniques for Next-Level LUT Creation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-conscious-buyers-guide-to-the-lenovo-tab-4/"><u>Budget-Conscious Buyer's Guide to the Lenovo Tab 4</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-x4-wi-fi-mesh-system-performance/"><u>Comprehensive Analysis of the Netgear Nighthawk X4 Wi-Fi Mesh System Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fast-and-furious-meets-photographic-woes-in-our-comprehensive-oneplus-8t-review/"><u>Fast and Furious Meets Photographic Woes in Our Comprehensive OnePlus 8T Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nubia-red-magic-9-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nubia Red Magic 9 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211421933-9781803418391-moon-books-duets-the-morrigan-raven-goddess/"><u>Moon Books Duets - The Morrigan & Raven Goddess | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-economical-and-efficient-amazonbasics-6-sheet-cross-cut-paper-shredder/"><u>Reviewing the Economical and Efficient AmazonBasics 6-Sheet Cross-Cut Paper Shredder</u></a></li>
 </ul></div>
 

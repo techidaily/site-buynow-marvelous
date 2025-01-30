@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing the Docooler USB 2.0: Is This 12Mp Digital Camera as Amazing as Advertised?"
-date: 2024-08-09T00:44:01.748Z
-updated: 2024-08-10T00:44:01.749Z
+date: 2025-01-22T16:12:56.081Z
+updated: 2025-01-30T00:14:42.636Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing and Testing the Docooler USB 2.0: Is This 12Mp Digital Camera as Amazing as Advertised?"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 1.4
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Docooler USB 2.0 12 Megapixel
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/9tSqTK9OEckACvQEhU5iBbHvMfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
@@ -66,12 +63,13 @@ Lifewire / James Huenink
 
  80’s movies promised a lot of cool future tech that hasn’t appeared. We’re not riding on hoverboards, nor do our cars fly. The one thing we did get is inexpensive and simple[video calling](https://www.lifewire.com/apps-for-free-video-chat-3426695) . The Docooler USB 2.0 12 Megapixel promises to make that a reality with an HD camera for the lowest cost in its class. Can this dirt-cheap[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) deliver on its promise to connect us in HD?
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
 
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Flimsy and difficult to use**
 
@@ -79,12 +77,13 @@ Lifewire / James Huenink
 
  The base looks like a binder clip with a hinge on the back end. The front of the camera houses the focus ring, which twists to focus in or out but doesn’t turn very smoothly. When we used it for the first time, it didn’t feel like it was supposed to rotate at all. Just like everything else, the focus ring feels like it will crack or fall out at any moment. One side of the clip has a squishy pad to keep the camera from slipping when it’s mounted on a smooth surface. The two are connected by a ball joint, which allows the camera to spin around 360 degrees and tilt approximately 15 degrees forward or backward or side to side.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
 
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup process: Awkward to position**
 
@@ -100,16 +99,14 @@ Lifewire / James Huenink
 
  We tested the camera’s field of view by placing it 13.5 inches from a wall and measuring the field of view, 8.25 inches. After running those measurements through some trigonometric calculations, we found that it has a 34 degree field of view. The camera also has a surprising amount of distortion. Vertical lines in the background had a significant tilt backwards, and we saw tremendous barrel distortion everywhere except for the very center of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Underwhelming performance in video and audio**
 
  We used[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test out the video and audio performance using the webcam for recording and[conference calls](https://www.lifewire.com/top-free-web-conferencing-tools-2377241) . It was difficult to position the Docooler USB 2.0 12 Megapixel correctly, because by the time we clipped it on and sat down, the camera had slipped out of position. This happened several times before we finally resigned ourselves to using a tilted camera in our calls.
@@ -122,12 +119,13 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Falls short**
 
@@ -144,8 +142,9 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  USB 2.0 12 Megapixel
@@ -163,14 +162,11 @@ Lifewire / James Huenink
 * Frame rate  30fps
 * What’s Included  Docooler USB 2.0 12 Megapixel, Quick Start Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,3 +174,27 @@ Lifewire / James Huenink
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-tight-scenes-minecraft-edition/"><u>[New] 2024 Approved Navigating Tight Scenes Minecraft Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-10-tiktok-sensations-spreading-via-tweets-for-2024/"><u>[New] Top 10 TikTok Sensations Spreading via Tweets for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-digital-collage-creator-8x/"><u>[New] Ultimate Digital Collage Creator 8X</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-content-creation-crossroads-igtv-vs-youtube-which-one-fits-best-for-2024/"><u>[Updated] Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-exclusive-youtube-visuals-top-5-tools-reviewed/"><u>[Updated] Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-faithful-hymns-download-and-modify-guide-for-2024/"><u>Choosing Faithful Hymns Download and Modify Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-quiet-code-effective-fixes-for-pc-players-valheim-audio-issues/"><u>Crack the Quiet Code: Effective Fixes for PC Players' Valheim Audio Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fitbit-sense-the-ultimate-health-centric-competitor-to-the-apple-watch/"><u>Fitbit Sense: The Ultimate Health-Centric Competitor to the Apple Watch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-tv-and-chromecast-unveiled-a-comprehensive-review/"><u>Google TV and Chromecast Unveiled: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-overcome-boredom-these-10-top-video-games-will-keep-your-mind-engaged/"><u>How to Overcome Boredom? These 10 Top Video Games Will Keep Your Mind Engaged!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-windows-backup-to-its-defaults/"><u>How to Reset Windows Backup to Its Defaults</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-asus-ax6000-rt-ax88u-router-assessment-the-ultimate-wi-fi-6-device-for-your-home/"><u>In-Depth Asus AX6000 RT-AX88U Router Assessment: The Ultimate Wi-Fi 6 Device for Your Home</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-moko-travel-bluetooth-keyboard-compact-design-with-full-functionality-anytime-anywhere/"><u>Innovative MoKo Travel Bluetooth Keyboard: Compact Design with Full Functionality Anytime, Anywhere</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/intergalactic-amusement-crafting-whirlwind-joy-from-mars-crash-landings/"><u>Intergalactic Amusement: Crafting Whirlwind Joy From Mars Crash Landings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/investigating-google-for-safe-password-storage/"><u>Investigating Google for Safe Password Storage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-future-here-examining-lenovos-trailblazing-foldable-notebook-x1-fold-review/"><u>Is the Future Here? Examining Lenovo's Trailblazing Foldable Notebook: X1 Fold Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovos-latest-gem-a-detailed-review-of-the-thinkpad-x1-titanium-yoga-perfectly-blending-tradition-and-innovation/"><u>Lenovo's Latest Gem: A Detailed Review of the ThinkPad X1 Titanium Yoga, Perfectly Blending Tradition and Innovation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp2mp3wav/"><u>MP2音声データをMP3・WAV形式に完璧に変更するテクニック</u></a></li>
+<li><a href="https://some-skills.techidaily.com/quick-video-wins-essential-ideas-for-vloggers-for-2024/"><u>Quick Video Wins Essential Ideas for Vloggers for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
-date: 2025-01-15T12:37:04.238Z
-updated: 2025-01-21T17:28:35.213Z
+date: 2025-01-27T16:26:46.405Z
+updated: 2025-01-29T22:43:36.524Z
 categories:
   - BestProducts
 description: This Article Describes Get Ready for On-the-Go Productivity with the Portable MSI Pro MP161 E2 Monitor
@@ -12,10 +12,6 @@ thumbnail: https://www.lifewire.com/thmb/1J0Vm7sbVC-MensEPmh2LK7-GAw=/400x300/fi
 ## The Portable Pro with Extended Zoom - Meet the SX70
 
 4.3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Canon PowerShot SX70
 
@@ -43,17 +39,9 @@ Lifewire / Andy Zahn
 
 4.3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -87,6 +75,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -98,10 +90,6 @@ Lifewire / Andy Zahn
 [Mini HDMI](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) , Remote shutter, USB, and microphone ports are included, though unfortunately for audio monitoring, the SX70 HS lacks a headphone jack and hot shoe mount. The port covers are durable and easy to use, and we appreciated the well-placed location of the 3.5mm microphone jack.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
@@ -145,6 +133,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -183,6 +175,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
@@ -190,7 +186,7 @@ Lifewire / Andy Zahn
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
@@ -209,6 +205,10 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
@@ -216,7 +216,7 @@ Lifewire / Andy Zahn
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -253,18 +253,20 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel-for-2024/"><u>[New] Beginning Basics The Ultimate Guide to Starting a Reviews-Centric YouTube Channel for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-boosting-income-a-complete-guide-to-youtube-ad-profits/"><u>[New] In 2024, Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tools-and-tricks-for-minecraft-recordings/"><u>[Updated] In 2024, Essential Tools and Tricks for Minecraft Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools-for-2024/"><u>[Updated] Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-master-your-media-free-fb-video-conversion-techniques/"><u>2024 Approved Master Your Media - Free FB Video Conversion Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amplify-your-wifi-game-with-netgears-advanced-nighthawk-x6s-extender/"><u>Amplify Your WiFi Game with Netgear's Advanced Nighthawk X6S Extender</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-guide-two-effective-techniques-for-automated-sandisk-pc-data-protection/"><u>Easy Guide: Two Effective Techniques for Automated Sandisk PC Data Protection</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/efficient-wearable-tech-the-ultimate-gadget-to-monitor-possessions/"><u>Efficient Wearable Tech - The Ultimate Gadget to Monitor Possessions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-lenovo-p11-pro-exceptional-tablet-minor-issues-noted/"><u>In-Depth Look at the Lenovo P11 Pro: Exceptional Tablet, Minor Issues Noted</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lg-k51-smartphone-analysis-stunning-design-marred-by-lagging-cpu/"><u>LG K51 Smartphone Analysis: Stunning Design Marred by Lagging CPU</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-tech-dollars-with-the-acer-aspire-e-15-a-comprehensive-review/"><u>Maximizing Your Tech Dollars with the Acer Aspire E 15 - A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-drive-comprehensive-review-of-the-smart-learning-escort-ix-radar-system/"><u>Transform Your Drive: Comprehensive Review of the Smart-Learning Escort iX Radar System</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/wiederherstellung-verlorener-daten-auf-dem-pc-top-strategien-fur-windows-7/"><u>Wiederherstellung Verlorener Daten Auf Dem PC: Top-Strategien Für Windows 7</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-from-kitchen-to-feeds-the-10-hottest-tiktok-treats/"><u>[New] 2024 Approved From Kitchen to Feeds The 10 Hottest TikTok Treats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-the-craft-of-macro-video-production-techniques-for-2024/"><u>[New] Mastering the Craft of Macro Video Production Techniques for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-7-dslr-vlogging-cameras/"><u>[Updated] 2024 Approved Best 7 DSLR Vlogging Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-panasonic-hx-a1-actioncam-in-depth-review/"><u>[Updated] Panasonic HX-A1 ActionCam In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-trust-what-chatgpt-says/"><u>Can We Trust What ChatGPT Says?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/captivating-wallpapers-in-ultra-hd-visual-artistry-from-yl-softwares-image-library/"><u>Captivating Wallpapers in Ultra HD: Visual Artistry From YL Software's Image Library</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-wondershare-filmora-analysis-uncovering-capabilities-and-cost-insights/"><u>Comprehensive Wondershare Filmora Analysis: Uncovering Capabilities and Cost Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-enjoyment-the-delights-of-pokemon-shining-pearl/"><u>Exploring Enjoyment: The Delights of Pokemon Shining Pearl</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/future-proof-your-viewing-experience-the-ultimate-insight-into-the-lightning-quick-amazon-fire-tv-cube/"><u>Future-Proof Your Viewing Experience: The Ultimate Insight Into the Lightning Quick Amazon Fire TV Cube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/galaxy-s24-ultra-vs-galaxy-s23-ultra-a-detailed-head-to-head-comparison/"><u>Galaxy S24 Ultra Vs. Galaxy S23 Ultra: A Detailed Head-to-Head Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gaming-on-a-budget-or-upgrade-the-ultimate-battle-between-switch-lite-and-oled/"><u>Gaming on a Budget or Upgrade? The Ultimate Battle Between Switch Lite & OLED</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-anker-roav-dash-cam-c1-the-ideal-road-safety-partner/"><u>In-Depth Analysis of the Anker Roav Dash Cam C1 – The Ideal Road Safety Partner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-asus-zephyrus-g14-a-game-changer-for-serious-gamers/"><u>In-Depth Look at the Asus Zephyrus G14 - A Game Changer for Serious Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-securely-retrieving-films-via-onionplay/"><u>Step-by-Step Tutorial on Securely Retrieving Films via OnionPlay</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-magic-v2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor Magic V2.</u></a></li>
 </ul></div>
 

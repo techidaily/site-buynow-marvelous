@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2025-01-17T01:47:54.875Z
-updated: 2025-01-21T18:02:51.842Z
+date: 2025-01-25T21:45:40.126Z
+updated: 2025-01-30T01:47:29.163Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
 ## Mastering Console Control: How to Command Gaming Systems with Your TV Remote
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Simplify your entertainment setup by using one remote for all functions with HDMI-CEC compatibility.
@@ -24,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 * Maximize the convenience of using a TV remote on consoles, Chromecast, and Apple TV for easy media control.
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  One Remote for All Functions
 
@@ -41,22 +33,22 @@ Jordan Gloor / How-To Geek
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Ultimate Solution: HDMI-CEC
 
  HDMI Consumer Electronics Control, or HDMI-CEC for short, is essentially a single connection wire that can link multiple devices to one input, which can also be compartmentalized internally. In essence, it lets all your devices communicate with each other directly and respond to inputs from a single TV remote.
 
 ![Labelled HDMI inputs on the back of a television.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
@@ -66,6 +58,10 @@ Jason Fitzpatrick / How-To Geek
  You'll want to be familiar with the name your TV's manufacturer uses to refer to HDMI-CEC functionality since many of them use in-house names. However, in most cases, you will find the option under your TV's general settings, under "External Device Manager" or a similar name, where you will be able to turn it on.
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -81,9 +77,17 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
@@ -102,10 +106,6 @@ Jason Fitzpatrick / How-To Geek
  Apple TV users can always just use their packed-in remote control or [the companion iPhone app](https://ai-video-tools.techidaily.com/vn-video-editor-android-app-is-it-worth-downloading-for-2024/), but for others, any Bluetooth-enabled remote will work just fine. If you're looking for affordable options, an Amazon Fire TV remote is easy to get your hands on, or the PlayStation TV remote, both of which are compatible with Bluetooth devices.
 
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -130,22 +130,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-total-motion-analysis-2023-for-2024/"><u>[Updated] Total Motion Analysis 2023 for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-unveiling-elgoog-the-humorous-mirror-website/"><u>A Comprehensive Review: Unveiling elgooG, The Humorous Mirror Website</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-acer-chromebook-r-11-assessment-elegant-design-meets-portability/"><u>Comprehensive Acer Chromebook R 11 Assessment: Elegant Design Meets Portability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-convenience-of-arfs-advanced-pet-feeding-systems/"><u>Discover the Convenience of Arf's Advanced Pet Feeding Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/drive-better-engagement-on-your-website-using-the-innovative-power-of-cookiebot-technology/"><u>Drive Better Engagement on Your Website Using the Innovative Power of Cookiebot Technology</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-dji-mavic-3-a-comprehensive-image-quality-and-performance-review/"><u>Exploring the Skies with DJI Mavic 3: A Comprehensive Image Quality and Performance Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-collection-free-3d-text-psds-galore/"><u>In 2024, Ultimate Collection FREE 3D Text PSDs Galore</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inverter-box-by-jackery-an-in-depth-review-on-its-integrated-mains-outlet-feature/"><u>Inverter Box by Jackery: An In-Depth Review on Its Integrated Mains Outlet Feature</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958518599-lenovo-x1-carbon-drivers-compatible-with-windows-11-and-windows-7-get-them-now/"><u>Lenovo X1 Carbon Drivers: Compatible with Windows 11 & Windows 7 – Get Them Now!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/newly-discovered-details-on-the-next-gen-iphones-iphone-16-16-pro-and-max-insider-information-revealed/"><u>Newly Discovered Details on the Next-Gen iPhones (iPhone 16, 16 Pro & Max) - Insider Information Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/shining-through-hd-is-it-a-wise-pick-for-hdr-for-2024/"><u>Shining Through HD Is It a Wise Pick for HDR for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-urban-armor-gear-for-macbook-pro-sturdy-and-practical-defense-against-damage/"><u>The Ultimate Guide to the Urban Armor Gear for MacBook Pro: Sturdy & Practical Defense Against Damage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-durable-asus-chromebook-c2/"><u>The Ultimate Review of the Durable Asus Chromebook C2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excitement-of-drone-warfare-dji-robomasters-s1-a-comprehensive-evaluation-for-gamers/"><u>Unveiling the Excitement of Drone Warfare: DJI RoboMasters S1 - A Comprehensive Evaluation for Gamers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-big-sur-basics-system-and-hardware-checklist/"><u>[New] In 2024, Big Sur Basics System & Hardware Checklist</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-5-youtube-link-shortener-you-can-find/"><u>[New] Top 5 YouTube Link Shortener You Can Find</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-speedy-views-on-vimeo-how/"><u>[Updated] In 2024, Speedy Views on Vimeo How?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-uncover-the-top-7-android-alternatives-for-ad-free-browsing/"><u>2024 Approved Uncover the Top 7 Android Alternatives for Ad-Free Browsing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dazzling-performance-and-sturdy-design-in-430ex-iii-rt-review/"><u>Dazzling Performance & Sturdy Design in 430EX III-RT Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-mobile-surfing-with-these-top-7-blockers-for-2024/"><u>Elevate Your Mobile Surfing with These Top 7 Blockers for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-sleep-solution-an-expert-overview-of-the-philips-somneos-superiority-in-alarm-technology/"><u>Elite Sleep Solution - An Expert Overview of the Philips Somneo's Superiority in Alarm Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/energize-and-optimize-the-elite-collection-of-rechargeable-battery-stations-year-end-review/"><u>Energize and Optimize: The Elite Collection of Rechargeable Battery Stations (Year End Review)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nubia-z50-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nubia Z50 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/iphones-premier-video-tools-pick-cameo-over-filmorago-in-2024/"><u>IPhone's Premier Video Tools Pick Cameo Over FilmoraGo, In 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-2024-a-comprehensive-list-of-top-of-the-line-wireless-communication-devices/"><u>Navigating Through 2024: A Comprehensive List of Top-of-the-Line Wireless Communication Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-fallout-the-new-wasteland-chapter-2-directors-cut-a-captivating-rpg-experience-unveiled/"><u>Review of Fallout: The New Wasteland Chapter 2 (Director's Cut) – A Captivating RPG Experience Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalize-your-vintage-intel-imac-a-detailed-diy-component-enhancement-manual/"><u>Revitalize Your Vintage Intel iMac: A Detailed DIY Component Enhancement Manual</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-apple-watch-series-4-the-pinnacle-of-smartwatch-innovation/"><u>The Ultimate Guide to Understanding Apple Watch Series 4 – The Pinnacle of Smartwatch Innovation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wi-fi-mesh-systems-a-smart-investment-or-not/"><u>Wi-Fi Mesh Systems: A Smart Investment or Not?</u></a></li>
 </ul></div>
 

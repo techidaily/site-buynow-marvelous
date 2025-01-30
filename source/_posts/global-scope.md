@@ -1,7 +1,7 @@
 ---
 title: Global Scope
-date: 2024-08-09T00:44:03.395Z
-updated: 2024-08-10T00:44:03.395Z
+date: 2025-01-27T17:04:29.343Z
+updated: 2025-01-29T23:44:26.723Z
 categories:
   - BestProducts
 description: This Article Describes Global Scope
@@ -13,10 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/NILV1-ilnri0wNj8sb5H0xBOyqU=/400x300/fi
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Linksys WRT1900ACS Open Source Wi-Fi Router
 
 ![Linksys WRT1900ACS Open Source Wi-Fi Router](https://www.lifewire.com/thmb/mgUlLYEEfyvcgq24--lleCJID1E=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Linksys_LongRangeRouters_WRT1900ACS_HeroSquare-360fd980f49d4d69829c5aa0208c4039.jpg)
@@ -43,8 +39,9 @@ Lifewire / Erika Rawes
 4.4
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Linksys WRT1900ACS Open Source Wi-Fi Router
 
 ![Linksys WRT1900ACS Open Source Wi-Fi Router](https://www.lifewire.com/thmb/XfagEZIxXHe6wA5tswWwz2HshPM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Linksys_LongRangeRouters_WRT1900ACS_HeroSquare-360fd980f49d4d69829c5aa0208c4039.jpg)
@@ -72,8 +69,9 @@ Lifewire / Erika Rawes
  An[open-source](https://www.lifewire.com/what-is-open-source-software-4147547) router that can also serve as a wireless extender, the Linksys WRT1900ACS is a moderately priced option. It’s a few years old, so it’s not[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) or even MU-MIMO capable, but it offers a unique set of features that make it a contender among its newer competitors. I tested the Linksys WRT1900ACS in the real world along with other Wi-Fi 5 and Wi-Fi 6 routers to see if its combination of design, performance, and features equal a worthwhile investment.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Looks like a toy**
 
  WRT1900ACS’s old school design isn’t for everyone. It’s eye-catching and colorful, so not for those who want a router that’ll blend into the background. The bright blue and black color scheme gives the router a bit of a juvenile, almost toy-like appearance. The Linksys name is boldly printed on the top of the router, and it’s also in small print on the front face and on each of the four antennas.
@@ -82,23 +80,18 @@ Lifewire / Erika Rawes
 
  On the plus side, the router isn’t too large, as it measures less than 10 inches wide and less than eight inches in depth. It has four removable antennas you can swivel in multiple directions. All of the ports—a gigabit[WAN port](https://www.lifewire.com/wide-area-network-816383) , four gigabit[LAN ports](https://www.lifewire.com/what-is-lan-4684071) , a USB 3.0, and a USB 2.0—are ideally positioned on the back of the router along with the button controls. The indicator lights sit along the front face, but the labels for each light are very small and hard to read from any distance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Linksys WRT1900ACS Open Source Wi-Fi Router](https://www.lifewire.com/thmb/glDv3Etm03GwDeXgvHNgfBy8kBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Linksys_LongRangeRouters_WRT1900ACS_03-e5468b6e4e7045d88f517fd6dd155f2f.jpg)
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Setup: Painless**
 
  The setup process is quick and easy. One small detail I really appreciated about the WRT1900ACS is that the company printed the temporary network ID and password in the user guide, so I didn’t have to strain my eyes trying to read the tiny print on the router’s label. You can set up your network in the Linksys app, or you can use the web portal.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: Impressive speeds**
 
  This is an AC1900 dual-band 802.11ac router, so Wi-Fi speeds max out at 1300 Mbps over the[5GHz band](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293) . It can reach up to 600 Mbps over the 2.4 GHz band. The WRT1900ACS has beamforming technology, which allows it to concentrate the signal to connected devices.
@@ -111,9 +104,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## **Key features: Open source, different modes**
 
  The WRT1900ACS can operate in different modes in addition to a wireless router mode. It can serve as an access point, a wired bridge, a wireless bridge, or a wireless repeater. This allows you to use a second Linksys to extend your Wi-Fi signal.
@@ -121,6 +111,10 @@ Lifewire / Erika Rawes
  Because the WRT1900ACS is open-source ready, you can modify the router and customize it for specific functions or even turn it into a web server.
 
  It can serve as an access point, a wired bridge, a wireless bridge, or a wireless repeater.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Linksys app**
 
@@ -131,6 +125,10 @@ Lifewire / Erika Rawes
 ![Linksys WRT1900ACS Open Source Wi-Fi Router](https://www.lifewire.com/thmb/PzcBlwvzuQGKwyt6sLHoRD5v4rM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Linksys_LongRangeRouters_WRT1900ACS_05-f2483a00135c474cb9d032ef7a3ad379.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Worth every penny**
 
@@ -170,14 +168,11 @@ Lifewire / Erika Rawes
 * Range  Very large homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,3 +180,27 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-adept-approaches-for-capturing-high-impact-presentations/"><u>2024 Approved Adept Approaches for Capturing High-Impact Presentations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-improve-your-zoom-meet-by-sharpening-views/"><u>2024 Approved Improve Your Zoom Meet by Sharpening Views</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/can-you-add-this-hardware-to-my-computer-understanding-device-hardware-compatibility-on-windows-tips-from-yl-computing-solutions/"><u>Can You Add This Hardware to My Computer? Understanding Device-Hardware Compatibility on Windows – Tips From YL Computing Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-4-versus-chatgpt-35-why-is-there-a-noticeable-speed-discrepancy/"><u>ChatGPT-4 Versus ChatGPT-3.5: Why Is There a Noticeable Speed Discrepancy?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-giants-outlookcom-and-gmail-battle-for-top-email-provider/"><u>Comparing Giants: Outlook.com and Gmail Battle for Top Email Provider</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-laptops-macbook-air-vs-macbook-pro-unveiling-key-distinctions/"><u>Comparing Laptops: MacBook Air Vs. MacBook Pro - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-tp-link-re505x-range-extender/"><u>Comprehensive Evaluation of the TP-Link RE505X Range Extender</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-oneplus/"><u>Comprehensive OnePlus 지트 포인터 비팅: 스릴라이어 카메라 구현에 장애가 있음</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/construct-and-create-your-dream-city-in-cities-skylines-a-comprehensive-reveal/"><u>Construct and Create Your Dream City in 'Cities: Skylines': A Comprehensive Reveal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-ultimategoog-a-critical-review-of-the-quintessential-mirror-site/"><u>Delving Into Ultimategoog - A Critical Review of The Quintessential Mirror Site</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-superiority-of-netgear-orbi-a-detailed-review-for-unmatched-wireless-performance/"><u>Discover the Superiority of Netgear Orbi - A Detailed Review for Unmatched Wireless Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-windows-10-switch-from-32-bit-to-64-bit/"><u>Elevate Your Windows 10: Switch From 32-Bit to 64-Bit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s17twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S17twith/without a PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>In 2024, Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/speed-up-your-gaming-library-troubleshooting-slower-downloads-in-ubisoft-connect/"><u>Speed Up Your Gaming Library: Troubleshooting Slower Downloads in Ubisoft Connect</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-20-essential-chatgpt-conversation-starters-available-on-github/"><u>Top 20 Essential ChatGPT Conversation Starters Available on GitHub</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-a-nonfunctional-hp-monitor/"><u>Troubleshooting and Fixing a Nonfunctional HP Monitor</u></a></li>
+</ul></div>
+
