@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide"
-date: 2025-01-22T21:57:46.220Z
-updated: 2025-01-29T16:58:21.821Z
+date: 2025-02-05T07:30:46.268Z
+updated: 2025-02-10T06:27:30.406Z
 tags:
   - games
   - tv
@@ -35,17 +35,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel spreadsheet with all cell widths changed to 3.43.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/change-cell-sizes.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, select the area that will form your crossword grid, and in the Home tab on the ribbon, open the borders drop-down (grid icon) and click "All Borders."
 
 ![An Excel grid with 'All Borders' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/all-borders-on-grid.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 2: Add Your Words
 
@@ -53,37 +45,49 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel sheet with a crossword grid and some words added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-words-in-crossword.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Every Word Must Cross
 
  Let me start by emphasizing one golden rule—never have any hanging words. In other words, every word you add must cross another one. This means that each time your solver correctly works out one word, they've got some letters for the next word, and they will soon master a certain region of your puzzle. This is the whole premise of a crossword, so it must be respected at all times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Aim for Symmetry
 
  In my experience, the most challenging part of this process is making the crossword symmetrical—but it's worth it. In the end, you'll have an aesthetically pleasing and professional crossword. You can aim for one line of symmetry (such as the left matching the right), or two lines of symmetry (by making the top mirror the bottom, and the left mirror the right). In my example, I'm going to use two. Start in the top-left corner with a long word downwards and a long word across, and then mirror that structure in the top-right corner. Then, do the same in the bottom corners. Now, any time you add a word stemming from one corner, mirror it in all four corners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  But Don't Add Words for the Sake Of It
 
  Making your crossword symmetrical and trying to fill your grid with as many words as possible can tempt you into squeezing in words that you know, deep down, you're not happy with. Writing a crossword often involves taking two steps forward and one step back—don't be afraid to re-craft an area of your puzzle so that you're completely happy with the outcome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Limit Short Words
 
  You want to avoid two-letter words and limit the number of times you use a three-letter word. In essence, most of your words should be at least four letters long, and the more long words you have, the more flexible you can be with your clues. This approach will also let you use those longer words to generate more words stemming from them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Words to Avoid
 
  Don't obscure words that people mightn't have encountered before. Getting your quizzer to correctly guess a tiny village in Sweden or a nineteenth-century Japanese art form will simply demotivate them and raise concerns about the solvability of your puzzle. Instead, you can use interesting words that come up in everyday life to fill in parts of the challenging words.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Think About Your Clues
 
  As you add your words, think ahead about how you might lure your solver to guess them. Ask yourself, "How will I tantalize my quizzer with a clever clue?"—and if you can't answer that question, choose another word. Another way to approach this is to use words with more than one meaning, which will give you more flexibility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 3: Black Out Empty Squares
 
@@ -93,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 ![An Excel sheet containing a cross-grid of words, and the empty cells are selected. The color-fill drop-down is opened and 'black' is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/color-the-squares-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you've filled in all the empty squares, take a moment to appreciate that much of the hard work is done!
 
 ![An Excel sheet containing words in the form of a crossword and the empty cells colored black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/empty-squares-colored-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 4: Add Your Numbers
 
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  As you create your clues, strike a balance between challenging and achievable. You want your solver to have to think (sometimes outside the box), but you don't want them to lose motivation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 6: Remove the Words
 
  You're pretty much done! All you need to do now is remove the letters from your crossword.
@@ -138,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![A crossword grid in Excel with numbers in the cells where words begin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbers-on-crossword-grid.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, format the numbers so that they're in the top-left corner of their squares, and leave enough room for your solver to write their answers.
@@ -146,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![A fully compiled crossword in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/crossword-completed.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 7: Test Your Puzzle
@@ -172,18 +172,22 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-tvs-features-a-beginners-guide/"><u>[New] 2024 Approved Mastering YouTube TV's Features A Beginner's Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instagram-to-tiktok-the-ultimate-connector/"><u>[New] Instagram to TikTok The Ultimate Connector</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pioneering-sites-for-downloading-text-aesthetics/"><u>[New] Pioneering Sites for Downloading Text Aesthetics</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-bringing-jujutsu-kaisen-characters-to-life-online/"><u>2024 Approved Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>2024 Approved Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-amazon-kindle-201eon-unpacking-the-value-of-a-budget-friendly-e-reader/"><u>Affordable Amazon Kindle (201Eon): Unpacking the Value of a Budget-Friendly E-Reader</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-free-qualcomm-atheros-ar938x-drivers-instantly-no-hassle/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Instantly - No Hassle!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazon-fire-hd-10-kids-edition-exceptional-kid-friendly-safeguards/"><u>In-Depth Analysis of Amazon Fire HD 10 Kids Edition: Exceptional Kid-Friendly Safeguards</u></a></li>
-<li><a href="https://win-docs.techidaily.com/reviving-your-external-disks-memories-expert-tips-for-successful-file-restoration-techniques/"><u>Reviving Your External Disk's Memories: Expert Tips for Successful File Restoration Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-re200-ac750-extender-test-delivering-decent-wireless-coverage-without-breaking-the-bank/"><u>TP-Link RE200 AC750 Extender Test: Delivering Decent Wireless Coverage without Breaking the Bank</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-capabilities-of-the-garmin-forerunner-945-top-tier-gps-smartwatch-reviewed/"><u>Unveiling the Powerful Capabilities of the Garmin Forerunner 945 - Top-Tier GPS Smartwatch Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-superiority-of-the-nintendo-switch-in-portable-play/"><u>Unveiling the Superiority of the Nintendo Switch in Portable Play</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-complete-guide-to-transforming-your-footages-hue/"><u>[New] In 2024, The Complete Guide to Transforming Your Footage's Hue</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-extensive-audit-unveiling-the-dji-inspire-1-drone-for-2024/"><u>[Updated] Extensive Audit Unveiling the DJI Inspire 1 Drone for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-20plus-amazing-youtube-shortcuts-you-should-know/"><u>[Updated] In 2024, 20+ Amazing YouTube Shortcuts You Should Know</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screenprime-pro-for-advanced-users/"><u>[Updated] ScreenPrime Pro for Advanced Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/acer-predator-triton-300se-in-depth-analysis-and-insights-on-the-compact-powerhouse/"><u>Acer Predator Triton 300SE - In-Depth Analysis and Insights on the Compact Powerhouse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-in-mobile-tech-an-in-depth-look-at-the-oneplus-6t/"><u>Affordable Excellence in Mobile Tech: An In-Depth Look at the OnePlus 6T</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-syma-s111g-rc-helicopter-a-comprehensive-review-of-thrilling-indoor-entertainment/"><u>Affordable Syma S111G R/C Helicopter: A Comprehensive Review of Thrilling Indoor Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/alienware-aurora-r11-review-the-best-gaming-pc-of-2021/"><u>Alienware Aurora R11 Review: The Best Gaming PC of 2021</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ampace-andes-1500-in-action-real-world-testing-of-an-all-in-one-portable-energy-source/"><u>Ampacē Andes 1500 in Action: Real-World Testing of an All-in-One Portable Energy Source</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/antenna-evaluation-the-clearstream-eclipse-delivers-outstanding-results-in-a-no-fuss-package/"><u>Antenna Evaluation: The ClearStream Eclipse Delivers Outstanding Results in a No-Fuss Package</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/antonis-antop-at-127-antenna-evaluation-cutting-edge-design-brings-you-crisp-clear-television-for-free/"><u>ANTONIS Antop AT-127 Antenna Evaluation: Cutting-Edge Design Brings You Crisp, Clear Television for Free</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/family-fun-with-the-holy-stone-remote-control-cartoon-racer-detailed-review/"><u>Family Fun with the Holy Stone Remote Control Cartoon Racer - Detailed Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-discovering-contact-information-via-the-web/"><u>Guide: Discovering Contact Information via the Web</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722922115643-horizon-hours-the-ultimate-guide-to-automotive-engineering-books-and-blogs-edition-in-new-york-city-book-five-of-fourth-series/"><u>Horizon Hours - The Ultimate Guide to Automotive Engineering Books & Blogs Edition in New York City, Book Five of Fourth Series!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-cancel-your-access-to-paramountplus/"><u>How To Seamlessly Cancel Your Access to Paramount+</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-control-youtube-audio-mobiledesktop-approach/"><u>In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-efficient-portable-battery-boosters-for-vehicles-20224-zdnets-expert-selection/"><u>Ultimate Guide to the Most Efficient Portable Battery Boosters for Vehicles, 202^[24: ZDNet's Expert Selection</u></a></li>
 </ul></div>
 

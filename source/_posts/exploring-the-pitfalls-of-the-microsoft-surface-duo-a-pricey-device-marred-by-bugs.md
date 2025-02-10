@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Pitfalls of the Microsoft Surface Duo: A Pricey Device Marred by Bugs"
-date: 2024-08-09T00:44:05.058Z
-updated: 2024-08-10T00:44:05.058Z
+date: 2025-02-04T16:58:31.203Z
+updated: 2025-02-10T08:39:35.281Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Pitfalls of the Microsoft Surface Duo: A Pricey Device Marred by Bugs"
@@ -40,11 +40,12 @@ Lifewire / Emily Isaacs
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LG OLED C9 65" 4K Smart TV
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
 
 Lifewire / Emily Isaacs
@@ -71,7 +72,15 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Smart and sleek**
 
@@ -83,16 +92,14 @@ Lifewire / Emily Isaacs
 
  For customers with multiple external devices, such as Blu-ray players or gaming consoles, ports are located along the TV’s left-hand side and directly on its backside. These connection options include 4[HDMI](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) 2.1 ports, 3[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) ports, one cable/antenna input, one LAN port, and audio connections. The HDMI 2.1 ports are especially important since consoles began emerging in 2020 that rely on HDMI 2.1 such as the Playstation 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Do it yourself worthy, but you’ll need a hand**
 
  Due to its large size and fragile nature, consider where the LG C9 will be most secure before moving ahead with setup. It shouldn’t be placed anywhere where there’s a risk it could be knocked down or climbed on, for instance, so choose a location safely tucked away from pets and children.
@@ -107,6 +114,10 @@ Lifewire / Emily Isaacs
 
  Once the TV has been installed, LG’s WebOS guides the first-time setup process by prompting inputs for settings ranging from time zone and language up to and including any necessary user agreements. The LG C9 will complete a scan in order to identify the devices and then you’re free to customize the TV’s settings by pressing the gear button on the LG Magic Remote. The first setting we changed was the Auto Power Saving (APS) picture mode, which reduces power use by dimming the brightness of the TV. The other important setting to disable is TruMotion, which smooths motion in TV shows and movies by altering the frame rate of the programming. If your LG’s picture looks a bit too much like a soap opera, chances are you need to disable this setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Image Quality: Stunning picture**
 
  The image quality on the LG C9 is, frankly, stunning thanks in large part to its excellent contrast and wide range of colors, combined with the OLED panel’s ability to turn individual pixels on and off. Even from wide viewing angles, the 4K picture maintains its excellence, with limited washing out and color loss.
@@ -117,9 +128,6 @@ Lifewire / Emily Isaacs
 
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio: Better than expected**
 
  While OLED TVs aren’t generally known for their great sound quality, the LG C9 has a surprisingly good sound system all things considered—but a soundbar would still be recommended. Audio in TV or movies is generally good, but it struggles to regulate loud and soft noises in a scene. Streaming Lizzo’s_Cuz I Love You_ on Spotify produces a surprising depth of sound, but it’s simply not comparable to a more robust system that a soundbar or home theater system would provide.
@@ -128,11 +136,6 @@ Lifewire / Emily Isaacs
 
 Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## **Software: Smooth and easy to use**
 
  As with earlier models, the LG WebOS powers the C9\. It’s a user-friendly interface that makes navigating the TV incredibly smooth, enabling you to switch between apps and features built into the[smart TV](https://www.lifewire.com/best-smart-tvs-4135681) with ease. Meanwhile, the LG Magic Remote can function as a traditional remote control, as a mouse would for a computer screen, or issue voice commands with Google Assistant and Alexa, making navigating the menus second nature. While most major streaming services are already included (Hulu, Netflix, Amazon Prime, Google Play Movies & TV, to name a few) it’s also possible to download additional apps through the LG store. The drawback to the store, however, is that the apps are somewhat limited in availability.
@@ -147,9 +150,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
  It’s easy to see why the LG C9 is such an attractive model. Between its many bells and whistles, it offers superior quality at a premium price. For users looking for a more down-to-earth price point, QLED TV models offer great picture quality at a lower cost and are a major competitor for OLED models.
@@ -170,10 +170,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  OLED C9 65" 4K Smart TV
@@ -200,14 +196,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Audio  Dolby Atmos 2.2 Channel 40 Watts
 * Additional Audio Features  Bluetooth audio streaming, Intelligent Voice Recognition, LG Sound Sync
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,3 +208,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-guides.techidaily.com/iphoneiso/"><u>「IPhoneへのISO画像取り込み・再生ガイド：シンプルでわかりやすい手順」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chasing-the-crash-action-cameras-reviewed/"><u>2024 Approved Chasing the Crash Action Cameras Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-viral-harmony-essential-soundtracks-for-popular-video-shorts/"><u>2024 Approved Viral Harmony Essential Soundtracks For Popular Video Shorts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723035435915-add-statistical-evidence-or-expert-testimonials-after-each-paragraph-discussing-treatment-efficacy/"><u>Add Statistical Evidence or Expert Testimonials After Each Paragraph Discussing Treatment Efficacy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-teslas-upcoming-robotaxi-price-predictions-specs-and-launch-timeline/"><u>All You Need to Know About Tesla's Upcoming Robotaxi: Price Predictions, Specs & Launch Timeline</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-star-wars-squadrons-an-enticing-review-of-space-warfare-extravaganza/"><u>Breaking Down Star Wars Squadrons: An Enticing Review of Space Warfare Extravaganza</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-tough-wet-weather-photo-gear-for-youths/"><u>Compact & Tough Wet Weather Photo Gear for Youths</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-g5-5090-review-a-comprehensive-analysis-on-its-superiority-as-a-cost-effective-gaming-platform-and-customization-possibilities/"><u>Dell G5 5090 Review - A Comprehensive Analysis on Its Superiority as a Cost-Effective Gaming Platform and Customization Possibilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-best-features-of-tango-text-call-voice-chats/"><u>Discover the Best Features of Tango - Text, Call, Voice Chats!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-budget-friendly-power-with-microsofts-newest-laptop-go-an-in-depth-analysis-for-travelers-and-students/"><u>Experience Budget-Friendly Power with Microsoft's Newest Laptop Go: An In-Depth Analysis for Travelers and Students</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-simplified-path-to-mastery-in-using-cc-licenses/"><u>In 2024, Simplified Path to Mastery in Using CC Licenses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-evaluation-of-the-feature-rich-netgear-nighthawk-x6-wi-fi-expansion-device/"><u>In-Depth Analysis and Evaluation of the Feature-Rich Netgear Nighthawk X6 Wi-Fi Expansion Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kinesis-freestyle2-blue-mac-review/"><u>Kinesis Freestyle2 Blue (Mac) Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/navigating-your-way-in-graphic-design-careers/"><u>Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/resolving-sccms-pxe-boot-problem-effective-troubleshooting-techniques-revealed/"><u>Resolving SCCM's PXE Boot Problem: Effective Troubleshooting Techniques Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revealed-top-10-powerful-fcp-plugin-tools-for-2024/"><u>Revealed Top 10 Powerful FCP Plugin Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unveiling-the-secrets-of-captivating-imagery-puzzles/"><u>Unveiling the Secrets of Captivating Imagery Puzzles</u></a></li>
+</ul></div>
+

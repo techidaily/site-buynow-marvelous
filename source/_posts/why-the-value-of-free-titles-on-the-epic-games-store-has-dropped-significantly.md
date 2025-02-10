@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2025-01-26T21:46:29.993Z
-updated: 2025-01-29T22:13:19.630Z
+date: 2025-02-06T19:47:05.850Z
+updated: 2025-02-10T11:49:33.737Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Games Aren't What They Used to Be
 
  When the Epic Games Store launched its free games initiative, it captivated gamers by giving away blockbuster titles such as _Pathfinder: Kingmaker_, _Civilization VI_, and _Mirror's Edge_. These are high-quality, well-known games that Epic hopes would attract a broad audience. Even for [beginner PC gamers](https://tech-revival.techidaily.com/ethical-study-habits-sidestepping-chatgpt-misuse/), this was a big deal.
@@ -30,16 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
@@ -59,12 +59,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
@@ -87,16 +91,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
@@ -118,20 +118,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-videoapp-insight-a-comprehensive-evaluation/"><u>[Updated] VideoApp Insight A Comprehensive Evaluation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-instagrams-financial-opportunities-a-comprehensive-guide/"><u>2024 Approved Navigating Instagram's Financial Opportunities A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/asus-vg245h-an-exceptional-monitor-for-console-gaming/"><u>Asus VG245H: An Exceptional Monitor for Console Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-capabilities-gpts-excluded-commands/"><u>Beyond Capabilities: GPT's Excluded Commands</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/blue-freestyle2-app-review-the-top-contender-for-your-mac-experience/"><u>Blue Freestyle2 App Review: The Top Contender for Your Mac Experience!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-revolutionary-lg-gram-156-ultrabook-2018-the-pinnacle-of-lightweight-high-performance-laptops/"><u>Explore the Revolutionary LG Gram 15.6 Ultrabook (2018) - The Pinnacle of Lightweight, High-Performance Laptops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey-for-2024/"><u>From Standard Pixels to Dynamic Range Extremes A Transformation Journey for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/high-quality-audio-nomad-sonos-on-the-move/"><u>High-Quality Audio Nomad: Sonos on the Move</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-exploring-the-possibilities-of-360-degree-fisheye-images/"><u>In 2024, Exploring the Possibilities of 360-Degree Fisheye Images</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kooteks-cutting-edge-device-for-heat-management-a-must-have-accessory/"><u>Kootek's Cutting-Edge Device for Heat Management - A Must-Have Accessory</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sounds-a-guide-for-no-audio-anthem-players-in-windows-10/"><u>Restoring Sounds: A Guide for No-Audio Anthem Players in Windows 10</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rotibox-bluetooth-beanie-headpiece-revealed-an-in-depth-look-at-unparalleled-warmth-and-audio-clarity-synergy/"><u>Rotibox Bluetooth Beanie Headpiece Revealed: An In-Depth Look at Unparalleled Warmth and Audio Clarity Synergy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sleek-60-second-fades-for-2024/"><u>Sleek 60-Second Fades for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-activating-gpts-advanced-features-for-web-browsers-and-plugins-in-beta-mode/"><u>Step-by-Step: Activating GPT's Advanced Features for Web Browsers and Plugins in Beta Mode</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-eufy-t8200-smart-doorbell-no-subscription-required/"><u>Unboxing Eufy T8200 Smart Doorbell - No Subscription Required!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-20plus-cool-metaverse-memes-a-deep-dive-guide/"><u>[New] 20+ Cool Metaverse Memes A Deep Dive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[New] 2024 Approved Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-tips-for-picking-leading-free-srt-translation-tools/"><u>[Updated] 2024 Approved Essential Tips for Picking Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>[Updated] 2024 Approved Rise Above Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-zoom-expertise-in-a-flash/"><u>[Updated] From Zero to Zoom Expertise in a Flash</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/checkpoint-inhibitors-are-drugs-that-block-proteins-like-ctla-4-and-pd-1pd-l1-which-act-as-brakes-on-the-immune-system/"><u>Checkpoint Inhibitors Are Drugs that Block Proteins Like CTLA-4 and PD-1/PD-L1, Which Act as Brakes on the Immune System.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-spyro-reignited-trilogy-tiny-heros-huge-impact/"><u>In-Depth Analysis of Spyro Reignited Trilogy: Tiny Hero's Huge Impact</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-lensdirects-anti-blue-light-glasses-with-prescriptions/"><u>In-Depth Look at LensDirect’s Anti-Blue Light Glasses with Prescriptions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-elgoog-unraveling-secrets-behind-the-world-renowned-ultimate-looking-glass-website/"><u>Inside ElgooG: Unraveling Secrets Behind the World-Renowned Ultimate Looking Glass Website</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/instant-photography-essentials-under-100-2024-edition/"><u>Instant Photography Essentials - Under $100, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-mopher-powerstation-ac-a-convenient-choice-despite-its-high-cost/"><u>Is the Mopher Powerstation AC a Convenient Choice Despite Its High Cost?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-winegard-fl5500a-worth-it-an-in-depth-review-of-performance-and-price-tag/"><u>Is the Winegard FL5500A Worth It? An In-Depth Review of Performance and Price Tag</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/learning-on-the-go-a-thorough-review-of-asus-chromebook-c202sa-as-a-durable-study-buddy-for-kids-and-students/"><u>Learning on the Go: A Thorough Review of ASUS Chromebook C202SA as a Durable Study Buddy for Kids and Students</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovos-thinkpad-x1-titanium-yoga-evaluation-the-ultimate-laptop-for-traditionalists-turned-flexibles/"><u>Lenovo's ThinkPad X1 Titanium Yoga Evaluation - The Ultimate Laptop for Traditionalists Turned Flexibles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-installation-of-amd-vega-graphics-card-drivers-gamers-guide/"><u>Quick and Easy Installation of AMD Vega Graphics Card Drivers: Gamer's Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices-for-2024/"><u>Tailored Techniques to Cut Off Unwanted YouTube Content on Devices for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-video-editing-apps/"><u>Updated 2024 Approved Unleash Your Creativity The Best Video Editing Apps</u></a></li>
 </ul></div>
 

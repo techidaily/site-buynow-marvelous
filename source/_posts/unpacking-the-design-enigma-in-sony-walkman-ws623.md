@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Design Enigma in Sony Walkman WS623
-date: 2025-01-28T20:15:25.888Z
-updated: 2025-01-29T16:54:31.126Z
+date: 2025-02-09T11:49:31.300Z
+updated: 2025-02-10T09:53:40.913Z
 categories:
   - BestProducts
 description: This Article Describes Unpacking the Design Enigma in Sony Walkman WS623
@@ -39,16 +39,12 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 3.6
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -74,7 +70,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Standard Sony**
@@ -97,25 +93,21 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
@@ -124,6 +116,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Starting off with some of this unit’s strengths, this particular series uses an IPS panel for the screen, which means you’re going to get vibrant colors, a nice backlight for viewing in bright rooms, and excellent viewing angles. This all adds up to a superb experience if you’ve got a big living room that’s brightly lit by windows, where viewers might not be able to sit completely centered.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -138,6 +134,10 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  Lastly, let’s take a look at motion blur and response times for the XBR65X850F. This particular Sony does very well in this area thanks to the 120Hz refresh rate. While watching some fast-paced action scenes and playing games in 4K, we didn't notice any real ghosting or stutters. This means your content should be nice and buttery smooth. However, there isn’t an option for variable refresh tech like FreeSync here, so the TV won’t be the best for gaming (though it is perfectly fine for this, bolstered by that high refresh rate). Response time here is another strength, as the XBR65X850F is very fast in this department.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -162,7 +162,7 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Not bad for the size, but not the cheapest**
@@ -220,20 +220,22 @@ thumbnail: https://www.lifewire.com/thmb/-Cr0-SCaIqkQaWKOAtau13mGySQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/star-wars-squadrons-a-journey-through-the-ranks-of-intense-space-tactics-and-adventure/"><u>'Star Wars: Squadrons' – A Journey Through the Ranks of Intense Space Tactics and Adventure</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-revolutionizing-broadcast-media-with-chroma-key-expertise-for-2024/"><u>[New] Revolutionizing Broadcast Media with Chroma Key Expertise for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-join-the-fortune-changing-club-free-50-banners-await/"><u>[Updated] 2024 Approved Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-guide-to-overcoming-blackout-in-obs-fullscreen-for-2024/"><u>[Updated] Guide to Overcoming Blackout in OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-record-good-audio-without-a-microphone-in-2024/"><u>[Updated] How to Record Good Audio Without a Microphone, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-examining-the-effectiveness-of-iscreen-recording/"><u>[Updated] In 2024, Examining the Effectiveness of iScreen Recording</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guard-against-cyber-threats-recognizing-the-menace-of-these-nine-counterfeit-chatgpt-virus-and-malware-programs/"><u>Guard Against Cyber Threats: Recognizing the Menace of These Nine Counterfeit ChatGPT Virus and Malware Programs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-winegards-fl55n0a-flat-wave-antenna-a-balance-between-quality-and-costly-pricing/"><u>Review of Winegard's FL55n0A Flat Wave Antenna - A Balance Between Quality and Costly Pricing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-on-tech-amazons-prime-day-discount-sweepstakes/"><u>Save Big on Tech: Amazon's Prime Day Discount Sweepstakes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/spyro-reignited-trilogy-analysis-tiny-heroes-enormous-worth/"><u>Spyro Reignited Trilogy Analysis: Tiny Heroes, Enormous Worth</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/surviving-a-sandbox-world-the-ultimate-guide-and-critique-for-7-days-to-die/"><u>Surviving a Sandbox World: The Ultimate Guide and Critique for '7 Days To Die'</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-logitech-c615-review-how-performance-meets-budget-friendly-pricing/"><u>The Logitech C615 Review: How Performance Meets Budget-Friendly Pricing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-selecting-premium-vertical-mice/"><u>The Ultimate Guide to Selecting Premium Vertical Mice</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-the-power-of-windows-11-get-a-bootable-drive-in-three-easy-ways/"><u>Unleash the Power of Windows 11: Get a Bootable Drive in Three Easy Ways</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-free-filmora-13-editor-download-for-windows-and-mac/"><u>Updated Free Filmora 13 Editor Download For Windows and Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-laptop-editing-beyond-inshot-tools/"><u>[New] 2024 Approved Laptop Editing Beyond Inshot Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-public-domain-soundtracks-downloadable-playing-games-for-2024/"><u>[Updated] Public Domain Soundtracks Downloadable, Playing Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-maximizing-spotify-ad-reach/"><u>[Updated] Step-by-Step Guide Maximizing Spotify Ad Reach</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitmedia-mastery-elevate-your-tweet-game/"><u>2024 Approved TwitMedia Mastery Elevate Your Tweet Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-fitbit-charge-does-it-maintain-its-competitive-edge/"><u>Evaluating the Fitbit Charge ³: Does It Maintain Its Competitive Edge?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-microsoft-surface-duos-issues-expensive-erratic-performance/"><u>Evaluating the Microsoft Surface Duo's Issues: Expensive, Erratic Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-earbud-lineup-for-home-theaters/"><u>Exclusive Earbud Lineup for Home Theaters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-pixelbook-go-review/"><u>Google Pixelbook Go Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hands-on-experience-with-arlos-advanced-home-protection/"><u>Hands-On Experience with Arlo's Advanced Home Protection</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ibuypowers-customized-powerhouse-pc-for-gamers-performance-meets-affordability-review/"><u>IBuypower's Customized Powerhouse PC for Gamers: Performance Meets Affordability Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-amazonbasics-security-micro-cut-shredder-with-12-sheets-capacity/"><u>In-Depth Evaluation: AmazonBasics Security Micro-Cut Shredder with 12 Sheets Capacity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-nintendo-switch-leading-choice-for-on-the-go-game-lovers/"><u>In-Depth Look at the Nintendo Switch – Leading Choice for On-the-Go Game Lovers</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/navigating-security-concerns-and-volatility-in-cryptocurrency-markets-expertise-by-yl-computing-yl-software/"><u>Navigating Security Concerns and Volatility in Cryptocurrency Markets - Expertise by YL Computing, YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-offers-for-july-2024-exclusive-bargains-featured-by-zdnet/"><u>Top Apple Watch Offers for July 2024 - Exclusive Bargains Featured by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correctly-address-steam-writable-disk-issues/"><u>Troubleshooting Tips to Correctly Address Steam Writable Disk Issues</u></a></li>
 </ul></div>
 

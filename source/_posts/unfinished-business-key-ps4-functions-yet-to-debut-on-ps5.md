@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2025-01-27T20:30:47.373Z
-updated: 2025-01-29T17:10:00.055Z
+date: 2025-02-08T23:20:08.581Z
+updated: 2025-02-10T11:28:22.767Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ---
 
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  Although the PlayStation 5 was initially criticized for lacking many useful features seen in its predecessor, the console has gradually added these features via software updates. Despite this, PS5 owners are still waiting for the return of a few notable PS4 features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Menu Themes 
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  Themes added a new background image, but many also changed the music, menu icons, and sound effects. These themes could be downloaded from the PlayStation Store, earned from certain games and demos, or [customized with your own pictures](https://vimeo-videos.techidaily.com/clip-of-fame-vimeo-quick-look/).
 
 ![A custom theme on the PlayStation 4 home menu based on "Xenoblade Chronicles X."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-custom-theme.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unfortunately, the PlayStation 5 doesn't support themes at all. Any themes you own on your PS4 will be left behind when upgrading to the PS5, including those you paid for or received alongside certain games. The lack of themes is one of the most disappointing aspects of the PS5 for many console owners, but there are a few reasons for their omission.
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  There's still a chance that custom themes might eventually come to the PS5, and fans would surely welcome the opportunity to add some personality to the home menu again. However, it's unlikely that PS5 owners will see this feature anytime soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2  Update History 
 
  The PlayStation 4 includes an "Update History" page for each game, allowing you to view patch notes directly from your console. For games that frequently receive new content, such as _Stardew Valley_ and _No Man's Sky_, the "Update History" allows players to quickly find out what new features were added with each update.
@@ -65,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  A Fully Functional Web Browser 
 
  The PlayStation 5 technically has a browser for opening web pages, but it's extremely limited and difficult to access compared to the PS4 browser. You can only open the PS5 browser through links found in applications or by opening social media pages on your console. Furthermore, the browser's search bar is locked, meaning you can't access most websites through traditional means. There are ways to bypass this restriction and [freely use the PS5's hidden browser](https://win-solutions.techidaily.com/comprehensive-solutions-to-overcome-hearthstone-pc-game-crashing-problems/), but it's hardly worth the effort.
 
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
 
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  USB Backup for PS5 Saves 
 
  The PlayStation 4 provides the option to [back up your save files](https://driver-error.techidaily.com/fixed-sm-bus-control-improvements-for-win11/) in cloud storage (if you have a PlayStation Plus subscription) or on a USB drive. Although there are some advantages to storing backups on [cloud storage](https://youtube-tips.techidaily.com/astering-video-visibility-settings-on-youtube-for-2024/), being able to use [your own external drive](https://extra-support.techidaily.com/in-2024-kodi-streaming-service-windows-media-replacement/) allows you to preserve your save files without needing a subscription or internet connection.
@@ -93,11 +93,11 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![PS5 Saved Data and Game App Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-saved-data-and-game-app-settings.jpg) 
 
- In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
 
 ## 5  Why Is the PS5 Still Missing These Features? 
 
@@ -120,17 +120,21 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc-for-2024/"><u>[New] Digital Director's Diary An In-Depth Look at Capturing Live TV on Windows PC for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-elite-preview-screenplay-series/"><u>[New] Elite Preview Screenplay Series</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/action-spectacle-evaluating-hero5b-vs-hero5-session-performance-for-2024/"><u>Action Spectacle Evaluating Hero5B vs Hero5 Session Performance for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/back-4-blood-performance-boosted-say-no-more-pc-freezes-and-errors/"><u>Back 4 Blood Performance Boosted - Say No More PC Freezes and Errors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/durability-against-freeze-thaw-cycles-may-be-improved-with-certain-types-of-synthetic-aggregates/"><u>Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fortnite-performance-upgrade-achieve-higher-fps-for-a-more-fluid-playthrough/"><u>Fortnite PERFORMANCE UPGRADE: Achieve Higher FPS for a More Fluid Playthrough</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-index-functionality-in-windows/"><u>Modifying Index Functionality in Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-affordable-yet-capable-samsung-galaxy-a20/"><u>The Ultimate Guide to the Affordable Yet Capable Samsung Galaxy A20</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-speed-test-review-outstanding-performance-hindered-by-lackluster-design-choices/"><u>TP-Link AV2000 Speed Test Review: Outstanding Performance Hindered by Lackluster Design Choices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-repairing-a-malfunctioning-corsair-hs70-microphone/"><u>Troubleshooting Tips for Repairing a Malfunctioning Corsair HS70 Microphone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-marvels-of-razer-blade-stealth-13s-performance-leap-in-the-ultrabook-arena/"><u>Unveiling the Marvels of Razer Blade Stealth 13'S Performance Leap in the Ultrabook Arena</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/z7-review-achieving-photographic-perfection-in-a-single-camera/"><u>Z7 Review: Achieving Photographic Perfection in a Single Camera</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enhance-your-movies-leading-3d-blu-ray-equipment-for-2024/"><u>[New] Enhance Your Movies Leading 3D Blu-Ray Equipment for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-follow-the-flow-of-forum-fancies-for-2024/"><u>[New] Follow the Flow of Forum Fancies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-imagemosaic-supreme-online-blend-and-designers-choice/"><u>[New] ImageMosaic Supreme Online Blend & Designer's Choice</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-engage-your-audience-discover-the-top-5-tiktok-caption-styles/"><u>[Updated] 2024 Approved Engage Your Audience Discover the Top 5 TikTok Caption Styles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highlighted-20-anime-melodies-at-start/"><u>[Updated] Highlighted 20 Anime Melodies at Start</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-software-suite-for-pc-and-mac-enthusiasts-discover-my-top-picks-reviews/"><u>Essential Software Suite for PC & Mac Enthusiasts: Discover My Top Picks Reviews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-features-face-off-ipad-air-4-versus-galaxy-tab-s7plus-unveiled/"><u>Premium Features Face Off: IPad Air 4 Versus Galaxy Tab S7+ Unveiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pushing-limits-review-of-jabra-steel-tier-buds/"><u>Pushing Limits: Review of Jabra Steel-Tier Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-motorola-one-hyper-standout-features-in-a-competitive-mid-range-phone-market/"><u>Reviewing the Motorola One Hyper - Standout Features in a Competitive Mid-Range Phone Market</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-vinyl-playback-with-audio-techs-turntable-at-lp120xusb/"><u>Revolutionizing Vinyl Playback with Audio-Tech's Turntable, AT-LP120XUSB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syma-x8-series-flyer-test-flight-budget-friendly-indoor-drone-experience/"><u>Syma X8 Series Flyer Test Flight: Budget-Friendly Indoor Drone Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-acer-chromebook-15-exposed-balancing-size-and-efficiency-for-a-top-browser-experience/"><u>The Acer Chromebook 15 Exposed - Balancing Size and Efficiency for a Top Browser Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-garmins-elite-forerunner-e-745-a-game-changer-in-fitness-tracking-technology/"><u>The Comprehensive Review of Garmin's Elite Forerunner E 745: A Game-Changer in Fitness Tracking Technology</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-htc-u23-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On HTC U23? | Dr.fone</u></a></li>
 </ul></div>
 

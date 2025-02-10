@@ -1,7 +1,7 @@
 ---
 title: "Eclipse Photography Safely: Preserving Your Phone From Solar Harm - Essential Guidelines"
-date: 2025-01-23T17:49:48.969Z
-updated: 2025-01-29T19:37:21.552Z
+date: 2025-02-04T22:24:45.501Z
+updated: 2025-02-09T21:03:06.060Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  A total solar eclipse may be a once in a lifetime event, but that doesn't mean you should be careless. Here is how you can protect your phone from any accidental damage, and take the best possible photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Photograph the Eclipse with your Phone
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  NASA says that it is [safe to view totality without wearing eye protection](https://science.nasa.gov/eclipses/safety/). Just be sure that you don't start looking too early or keep watching too late.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Use a Filter Until Totality
@@ -66,7 +66,7 @@ Nick Lewis / How-to Geek
  If you're wondering if you can use a solar filter (like those found on eclipse glasses) in **front** of a regular clip on telephoto lens, the answer is yes–it'll work. However, it is a bit too easy to accidentally drop the filter away from the front of the lens and damage your phone. We don't recommend it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Use a Tripod
@@ -75,22 +75,22 @@ Nick Lewis / How-to Geek
 
  Just be sure to keep an eye on it. The sun and moon move across the sky faster than you might expect, and you may find that they move out of frame if you don't adjust your tripod regularly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Use Burst Mode and Lock Your Focus
 
 [Burst mode](https://extra-lessons.techidaily.com/add-cinematic-shake-to-images-using-ps-for-2024/), if your phone supports it, is a great way to capture the motion of the moon across the face of the sun.
 
  We also highly recommend that you go into your camera app's settings and set the focus to infinity. That will prevent autofocus from interfering with your perfect shot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Buy Safe Solar Eclipse Glasses or Filters
 
  There are fake, unsafe solar eclipse glasses for sale. The American Astronomical Society has put together [a list of safe solar filters and glasses](https://eclipse.aas.org/eye-safety/viewers-filters), and we'd recommend you buy from that list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Test Solar Eclipse Glasses and Filters
@@ -120,24 +120,19 @@ Nick Lewis / How-to Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-harnessing-the-full-potential-of-luts-in-adobe-premiere-pro/"><u>[New] 2024 Approved Harnessing the Full Potential of LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-winning-strategies-the-best-5-methods-for-game-recording-in-windows-11/"><u>[New] In 2024, Winning Strategies The Best 5 Methods for Game Recording in Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-essential-guide-to-live-broadcasts-optimizing-with-obs-for-youtube-and-twitch/"><u>2024 Approved The Essential Guide to Live Broadcasts Optimizing with OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-symphony-of-surroundings-maximizing-your-animal-haven/"><u>A Symphony of Surroundings: Maximizing Your Animal Haven</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-sony-xperia-5-small-size-great-cost/"><u>Comprehensive Analysis of the Sony Xperia 5: Small Size, Great Cost</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-logitech-c920-hd-webcam-examination-high-definition-vision-online/"><u>Comprehensive Logitech C920 HD Webcam Examination: High-Definition Vision Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-logitechs-c615-model-where-savings-meet-superior-performance/"><u>Comprehensive Review of Logitech's C615 Model – Where Savings Meet Superior Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cujnv1984george-orwells-1-984-an-unflinching-examination-of-the-dangers-posed-by-totalitarianism-that-remains-relevant-in-light-of-contemporary-political-la528/"><u>Cujnv1984George Orwell's 1 984 – An Unflinching Examination of the Dangers Posed by Totalitarianism that Remains Relevant in Light of Contemporary Political Landscapes and Has a Lasting Impact on Societal Discourse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-apples-latest-upgrades-for-all-airpods-variants-the-ultimate-showcase-of-their-4-premier-improvements/"><u>Discover Apple's Latest Upgrades for All AirPods Variants - The Ultimate Showcase of Their 4 Premier Improvements</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/first-impressions-of-the-amazfit-bip-series-the-perfect-starter-smartwatch/"><u>First Impressions of the Amazfit BiP Series – The Perfect Starter Smartwatch?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mophie-ac-charging-station-examined-evaluating-comfort-versus-convenience-against-its-price-tag/"><u>Mophie AC Charging Station Examined: Evaluating Comfort Versus Convenience Against Its Price Tag</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-cutting-edge-technology-of-the-sony-smart-led-tv-4k-49-xbr49x900f-review/"><u>Navigate The Cutting-Edge Technology Of The Sony Smart LED TV (4K, 49) - XBR49X900F Review</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sing-your-heart-out-top-karaoke-devices-to-enjoy/"><u>Sing Your Heart Out: Top Karaoke Devices to Enjoy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-truth-about-working-in-prompt-engineering-9-critical-factors-for-consideration/"><u>The Truth About Working in Prompt Engineering: 9 Critical Factors for Consideration</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-prime-day-bargains-exclusive-2024-acer-offers/"><u>Top Prime Day Bargains: Exclusive 2024 Acer Offers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-doom-eternal-fixes-to-stop-game-crashes/"><u>Troubleshooting DOOM Eternal - Fixes to Stop Game Crashes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-mute-audio-from-video-for-2024/"><u>Updated How to Mute Audio From Video for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-user-guide-adjust-your-pcs-network-discovery-preferences/"><u>Windows 11 User Guide: Adjust Your PC's Network Discovery Preferences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-screen-animating-stories-using-wmm/"><u>[New] From Script to Screen Animating Stories Using WMM</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nderstanding-legal-bounds-of-youtube-video-screencaps-for-2024/"><u>[New] Understanding Legal Bounds of YouTube Video Screencaps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-narrative-template-for-online-educational-videos-for-2024/"><u>[Updated] Crafting a Narrative Template for Online Educational Videos for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-skills-for-youtube-success-8-free-online-courses/"><u>2024 Approved Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-and-modifying-proxy-settings-in-windows-11-os/"><u>Exploring and Modifying Proxy Settings in Windows 11 OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-secret-messaging-safety-questioned/"><u>Facebook's Secret Messaging Safety Questioned</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-strides-toward-intelligent-wearables-with-venu-2-plus-unveiled-a-zdnet-critique/"><u>Garmin's Strides Toward Intelligent Wearables with Venu 2 Plus Unveiled - A ZDNET Critique</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-reviews-for-affordable-1byone-amplified-tv-antennas-your-ultimate-budget-solution/"><u>Top-Ranking Reviews for Affordable 1byOne Amplified TV Antennas: Your Ultimate Budget Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-discord-fails-to-launch-successfully/"><u>Troubleshooting Steps When Discord Fails to Launch Successfully</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-power-with-the-dazzling-flash-of-430ex-iii-rt-review/"><u>Unleash Power with the Dazzling Flash of 430EX III-RT Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-fire-breathing-fun-in-depth-analysis-of-the-spyro-remake-series/"><u>Unleashing Fire-Breathing Fun: In-Depth Analysis of the Spyro Remake Series</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-exclusive-fun-the-cream-of-the-crop-google-play-passs-top-games/"><u>Unlocking Exclusive Fun: The Cream of the Crop, Google Play Pass's Top ^Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-of-jabra-talk-45-top-tier-audio-endurance-battery/"><u>Unveiling the Secrets of Jabra Talk 45 - Top-Tier Audio, Endurance Battery</u></a></li>
 </ul></div>
 

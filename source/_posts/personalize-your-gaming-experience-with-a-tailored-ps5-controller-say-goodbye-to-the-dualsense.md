@@ -1,7 +1,7 @@
 ---
 title: Personalize Your Gaming Experience with a Tailored PS5 Controller – Say Goodbye to the DualSense
-date: 2025-01-22T16:56:42.316Z
-updated: 2025-01-30T01:04:45.234Z
+date: 2025-02-03T01:45:33.735Z
+updated: 2025-02-10T07:41:37.962Z
 tags:
   - games
   - tv
@@ -21,13 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sony's DualSense PS5 controller seems to be a hit with many, but it's certainly not for everyone. If you're not enjoying the DualSense, you can pick up a custom controller for a more enjoyable experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Makes a Good Custom PS5 Controller?
 
 ![PDP Victrix Pro with parts around it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pdp-victrix-pro-3.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Kris Henges / How-To Geek
 
@@ -40,7 +40,7 @@ Kris Henges / How-To Geek
  Whether you need the customization to lower hand strain or just because you like a special grip or joystick, customizing your own controller is the way to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where Can I Get a Custom PS5 Controller?
@@ -48,7 +48,7 @@ Kris Henges / How-To Geek
 ![The Nacon Revolution Pro 5 Controller and its accessories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53329709296_b4c6d167ae_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -57,22 +57,22 @@ Sergio Rodriguez / How-To Geek
 
  Alternatively, you can look for third-party controllers that meet your needs. For example, while the [PDP Victrix Pro](https://www.amazon.com/gp/product/B0CRZ7KFKZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004061&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdualsense-not-doing-it-for-you-get-a-custom-ps5-controller-instead%2F&asc%5Fcampaign=Evergreen) is not something you can customize with the retailer, you'll get enough options out of the box to swap things out to your tastes. This includes joysticks of different heights, and sometimes even the ability to customize button layouts (like the Victrix Pro's Fightpad).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Be Prepared to Spend More on a Custom Controller
 
  If you want a custom controller, you'll need to be prepared to pay a premium price. The [DualSense](https://www.amazon.com/PlayStation-DualSense%C2%AE-Wireless-Controller-Midnight-5/dp/B0CQKKHT5J?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004061&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdualsense-not-doing-it-for-you-get-a-custom-ps5-controller-instead%2F&asc%5Fcampaign=Evergreen) retails at $69, which is no small amount, but custom controllers easily go above $100, and many can get past $200\. When I made a custom Reflex controller with SCUF, it was over $300 and didn't include all the bells and whistles. Meanwhile, the Victrix Pro is $180, but the controller is missing rumble features, which are standard in many controllers.
 
  It can be hard to justify the price if you think the DualSense is 'good enough'. You can easily buy two standard DualSense controllers for the price of one custom one. But if you're serious about your PS5 gameplay experience, it's worth the investment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The DualSense Edge Feels Like a Custom Controller
 
 ![Thumstick caps on the DualSense Edge controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_thumstick_caps.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sony
@@ -100,17 +100,17 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>[Updated] 2024 Approved The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-world-apart-torment-tides-of-numenera-and-its-stellar-approach-to-science-fiction-rpg/"><u>A World Apart: 'Torment - Tides of Numenera' And Its Stellar Approach to Science Fiction RPG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-selecthighlight-issues-in-pdfs-on-windows-pcs/"><u>Fix Select/Highlight Issues in PDFs on Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968289994-get-your-xerox-printing-essentials-free-window-compatible-printer-drivers-here/"><u>Get Your Xerox Printing Essentials: Free Window-Compatible Printer Drivers Here</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/leading-list-of-16-youtube-openers-for-audience-expansion/"><u>Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-the-art-of-technological-advancement-with-this-guide/"><u>Master the Art of Technological Advancement with This Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-gigabyte-motherboard-design-supports-weight-up-to-128-pounds-on-graphics-cards-but-cracking-concerns-remain-with-reinforced-slots/"><u>New Gigabyte Motherboard Design: Supports Weight Up to 128 Pounds on Graphics Cards - But Cracking Concerns Remain with Reinforced Slots</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nokia-31-reviewed-a-comprehensive-look-at-the-ultimate-starter-smartphone-model/"><u>Nokia 3.1 Reviewed: A Comprehensive Look at the Ultimate Starter Smartphone Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-art-of-empire-in-imperator-rome-insights-and-reviews/"><u>The Art of Empire in Imperator: Rome – Insights & Reviews</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-netgear-nighthawk-ac3200-tri-band-excellence-meets-household-harmony/"><u>The Ultimate Review of the Netgear Nighthawk AC3200 – Tri-Band Excellence Meets Household Harmony</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/webex-online-workshops-a-deep-dive-into-its-strengths-and-weaknesses/"><u>WebEx Online Workshops: A Deep Dive Into Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>[New] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-by-step-manual-for-youtube-shorts-templates-perfection-for-2024/"><u>A Step-by-Step Manual for YouTube Shorts Templates Perfection for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/revolutionizing-reading-how-the-onyx-boox-palma-is-redefining-e-books-like-the-apple-ipod/"><u>Revolutionizing Reading: How the Onyx Boox Palma Is Redefining E-Books Like the Apple iPod</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/secure-boot-activation-on-user-mode-systems-a-step-by-step-fix/"><u>Secure Boot Activation on User Mode Systems: A Step-by-Step Fix</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-beat-of-instagram-music-strategies/"><u>The Beat of Instagram Music Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-apple-tv-4k-review-202ebeef8-796b-45d2-acf3-6a5c66691eeeen/"><u>The Ultimate Apple TV 4K Review (202Ebeef8-796b-45d2-Acf3-6a5c66691eee/en/)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-evaluation-of-ambient-weathers-expensive-ws-1n-wifi-climate-monitor-does-it-deliver-top-value/"><u>The Ultimate Evaluation of Ambient Weather's Expensive WS-1n WiFi Climate Monitor - Does It Deliver Top Value?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-guide-to-reverse-films-on-android-for-2024/"><u>The Ultimate Guide to Reverse Films on Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-pillars-behind-chatgpts-surge-in-popularity/"><u>Top 5 Pillars Behind ChatGPT’s Surge in Popularity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tablet-showdown-why-samsungs-galaxy-tab-s7-tops-the-list-among-android-fans/"><u>Top Tablet Showdown: Why Samsung's Galaxy Tab S7 Tops the List Among Android Fans</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-c80-the-top-choice-for-fast-connectivity-under-100/"><u>TP-Link Archer C80 - The Top Choice for Fast Connectivity Under $100</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-work-experience-with-apples-102-ipad-7th-generation-and-innovative-ipados-upgrades/"><u>Transform Your Work Experience with Apple's 10.2 iPad (7Th Generation) and Innovative iPadOS Upgrades</u></a></li>
 </ul></div>
 

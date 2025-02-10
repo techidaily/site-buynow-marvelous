@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Mighty Gaming Engine Within the Minuscule Xbox Series S Console
-date: 2024-08-09T00:44:05.514Z
-updated: 2024-08-10T00:44:05.514Z
+date: 2025-02-09T09:56:21.386Z
+updated: 2025-02-10T03:05:41.554Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Mighty Gaming Engine Within the Minuscule Xbox Series S Console
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/FGI8xerKt3icyDzp_h8bugBgHPo=/400x300/fi
 
 ## Apple Mac Mini
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/PGUiYeMYsiySzInCVShXLUY3Wqs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Mac-Mini-M1-2020-Computer-1-c63ec986a9944869ab0f9ff7b7a0b01d.jpg)
 
 Jeremy Laukkonen / Lifewire
@@ -78,9 +75,6 @@ Jeremy Laukkonen / Lifewire
 
  Jeremy Laukkonen / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Same sleek aluminum chassis
 
  The big changes here are all under the hood, as Apple opted to leave the overall design of the Mac mini (M1, 2020) unchanged from the previous model. It’s still a block of milled aluminum with the same rounded corners, satin finish, and shiny Apple logo emblazoned on the top. The top is smooth and unmarked aside from the logo, and the front and sides of the case are completely featureless aside from a small LED on the front that lets you know when the system is powered on.
@@ -95,17 +89,14 @@ Jeremy Laukkonen / Lifewire
 
  The biggest disappointment here, aside from the fact that the M1 Mac mini didn’t receive any sort of aesthetic update, is that Apple removed two Thunderbolt ports and the ability to upgrade your memory. The first isn’t that big of an issue, since the Mac mini looked great before and still looks great. The lack of Thunderbolt ports, similarly, isn’t a huge deal, because there are a ton of ways to get around such a limitation. The lack of upgradeability certainly removes a degree of flexibility from the hardware, though, making it much more important to select the amount of memory and storage that you’ll be comfortable with for the life of the device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/xpt3pmIvU6FTBUo0tBDpyp3BERE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-3-844f657110aa424db6f1e5bac1b19eda.jpg)
 
  Jeremy Laukkonen / Lifewire
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setup Process: Fast and painless, but you can’t use a Bluetooth keyboard or mouse
 
  If you’ve ever set up a macOS device before, the setup process isn’t any different here. It’s just a matter of accepting some terms, tweaking some initial settings, and connecting your Apple ID. As always, setup is going to be easier if you have access to another functional piece of Apple hardware that you’re already logged into.
@@ -134,6 +125,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Jeremy Laukkonen / Lifewire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Gaming: Limited but promising
 
  This is one area where Apple’s decision to switch from Intel to their own bespoke silicon is unlikely to pay off for a while. The issue is that while the M1 chip is powerful, it’s going to take a while for game developers to offer any kind of real support for it. That means the already anemic Mac gaming scene could be even more anemic until devs see a reason to put substantial resources into games that run natively on the ARM-based M1 hardware. In the long term, cross-compatibility between macOS and iOS apps could end up being a massive game-changer.
@@ -154,9 +149,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Aside from lack of support from game developers, the only real drawback here in terms of gaming comes from the HDMI port itself. While the M1 Mac mini can pump out[4K graphics](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) , it’s limited to a 60Hz refresh rate. That’s fine for most casual gamers, but anyone who has fallen in love with their high refresh rate monitor will experience a bit of pain here.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Productivity: Ready for work
 
  The great thing about the Mac mini line is that it’s always been so flexible. You can use a Mac mini for work, but the size and relative affordability of the hardware means you aren’t locked into using it that way. If you do aim to use an M1 Mac mini for work though, it’s more than up to the task. Native apps and the operating system itself run fast and smooth as you could possibly hope, with none of the sitting around looking at spinning beach balls that you may have gotten used to with older hardware.
@@ -169,22 +161,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Multitasking also works flawlessly, and I was able to juggle an impressive number of browser windows, intensive apps like Photoshop and Handbrake, voice and video chat over Discord, and more without running into any real problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Audio: It’s there if you need it
 
  The M1 Mac mini is great in almost every category, but audio isn’t one of them. There’s a speaker inside that sleek aluminum block, but it isn’t one you’ll care to listen to. It’s tinny and hollow, and absolutely a placeholder for more capable external speakers. You’ll want to hook up headphonesor some kind of speakers or soundbar shortly after setting the M1 Mac mini up, because the built-in speaker isn’t really even suitable for watching YouTube videos, let alone listening to music or streaming your favorite shows or movies.
 
  The M1 Mac mini does include a 3.5mm headphone jack on the back along with built-in Bluetooth, so you have a lot of options. Just make sure to budget for some sort of external speakers or headphones, because you don’t want to get stuck with the built-in speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/OZrKjTPGUmo00carhaedBa9WhTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-5-bc84da59dfdf440c8d53a096509c232b.jpg)
 
  Jeremy Laukkonen / Lifewire
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Network: Solid Ethernet and Wi-Fi 6 connectivity
 
  The Mac mini includes a wired gigabit Ethernet jack, support for Bluetooth 5.0, and a[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) network card that’s also 801.11a/b/g/n/ac compatible. Performance from the wired and wireless networking options was uniformly strong, with fast download speeds and no issues streaming 4K video or video chatting.
@@ -194,8 +188,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  I also tested the wireless connection, hooking the M1 Mac mini to my[Eero mesh network](https://www.lifewire.com/eero-pro-mesh-wi-fi-system-review-4797008) . When connected wirelessly, I measured a respectable 284 Mbps down and 54 Mbps up. At the same time, in the same location, my[HP Spectre x360](https://www.lifewire.com/hp-spectre-x360-15t-touch-laptop-review-4773540) measured 254Mbps down and 63Mbps up.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Software: So long, Windows compatibility
 
  Software is the biggest stumbling block for M1 hardware during these early days, as there isn’t a whole lot out there that’s actually designed to run on Apple Silicon. Big Sur was built specifically for this hardware and to integrate seamlessly with Rosetta 2 for running legacy Intel macOS apps, and a number of first party Apple apps also run natively, but that’s about it at launch.
@@ -208,16 +203,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  For the time being, the trade off is that Big Sur and native apps like Safari run extremely well, and with remarkably low power consumption and heat generation compared to Intel Macs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Price: More affordable than ever
 
  The Mac mini saw a price increase alongside its last major retool, but Apple actually played against tradition and handed us a price reduction with the transition to M1 hardware. The baseline M1 Mac mini is actually hundreds of dollars cheaper than the previous iteration of the hardware, which is remarkable considering how much more powerful it is. The last Intel Mac mini was already a good deal, so the even cheaper M1 Mac mini looks even better in comparison. Considering its capabilities, it’s also a good deal when compared to non-Apple mini desktop hardware like the Intel NUC lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Mac mini](https://www.lifewire.com/thmb/G2V98ugnO-cdk-GaL11FUP0RWvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-7-c899b9f13f09448699fee766ab51a2bd.jpg)
 
  Jeremy Laukkonen / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mac Mini M1 vs. Mac Mini Intel
 
@@ -243,9 +243,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 * [Apple iPad Air 4](https://www.lifewire.com/apple-ipad-air-4-review-5091874)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Mac Mini
@@ -264,14 +261,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * Connectivity  Wi-Fi 6, Ethernet
 * Software  macOS Big Sur
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -279,3 +273,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/torment-tides-of-numenera-unveiling-a-masterclass-in-science-fiction-role-playing-games/"><u>'Torment: Tides of Numenera': Unveiling a Masterclass in Science Fiction Role-Playing Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-digital-portraits-proven-the-science-of-social-snap-validation/"><u>[Updated] In 2024, Digital Portraits Proven The Science of Social Snap Validation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screens-on-record-unveiling-the-leading-screencap-software/"><u>2024 Approved Screens on Record Unveiling The Leading Screencap Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-six-quick-tips-for-efficient-beginner-edits-in-ps/"><u>2024 Approved Six Quick Tips for Efficient Beginner Edits in PS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/screen-reporter-toolkit-for-youtube-streamers-for-2024/"><u>Best Screen Reporter Toolkit for YouTube Streamers for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-security-apps-for-iphone-users-expertly-chosen-selection-of-antivirus-programs/"><u>Best Security Apps for iPhone Users: Expertly Chosen Selection of Antivirus Programs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/conquer-system-limitations-upgrading-from-windows-7-to-10/"><u>Conquer System Limitations: Upgrading From Windows 7 to 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-analysis-of-the-sony-playstation-5-beyond-superiority-in-processing/"><u>Detailed Analysis of the Sony PlayStation 5: Beyond Superiority in Processing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discovering-top-notch-hdr-cameras-an-expedition-for-2024/"><u>Discovering Top-Notch HDR Cameras An Expedition for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-melodies-of-america-with-karaoke-usa-unmatched-enjoyment-for-a-budget-friendly-150-or-less/"><u>Dive Into the Melodies of America with Karaoke USA: Unmatched Enjoyment for a Budget-Friendly $150 or Less</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ensuring-flawless-operation-from-previous-os-to-catalina/"><u>Ensuring Flawless Operation: From Previous OS to Catalina</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-integrate-new-epson-printer-drivers-with-your-windows-10-device-a-comprehensive-guide/"><u>How To Seamlessly Integrate New Epson Printer Drivers with Your Windows 10 Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-features-on-linkedin-are-they-worth-the-extra-spend/"><u>Premium Features on LinkedIn: Are They Worth The Extra Spend?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-nokia-150-2023-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Nokia 150 (2023) has been deleted.</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-stranded-status-on-xbox-for-pc-a-practical-approach/"><u>Solving ‘Stranded’ Status on Xbox for PC: A Practical Approach</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-the-years-longest-distance-wifi-boosters/"><u>Ultimate Selection of the Year's Longest-Distance WiFi Boosters</u></a></li>
+</ul></div>
+

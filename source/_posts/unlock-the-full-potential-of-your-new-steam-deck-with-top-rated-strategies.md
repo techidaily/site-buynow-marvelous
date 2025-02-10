@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Your New Steam Deck with Top-Rated Strategies
-date: 2025-01-23T23:53:11.418Z
-updated: 2025-01-30T00:19:29.067Z
+date: 2025-02-07T22:37:21.999Z
+updated: 2025-02-10T07:48:39.066Z
 tags:
   - games
   - tv
@@ -33,7 +33,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  I’ve been using a Steam Deck for more than a year, and in that time, I’ve discovered a plethora of cool tips and tricks that have improved my experience. Here are some pointers to get the most out of your Deck and SteamOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Calibrate the Display After You Turn on Your Deck for the First Time
@@ -43,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To calibrate your screen, press the Steam button and go to the “Settings” tab. Next, go to the “Display” menu and select the “Adjust Display Colors” option. Once there, calibrate the display to your liking.
 
 ![Steam Deck Display menu showing the display calibration button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-01.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I recommend Steam Deck LCD owners boost the color vibrance almost to the max, since the LCD model has a dingy screen that doesn’t cover the whole sRGB [color space](https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-s23plus-phone-unlock-it-now-by-drfone-android/). Boosting color vibrance won’t magically improve the screen quality but will make games look punchier and add a bit of contrast.
 
@@ -60,11 +64,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![List of Steam Deck Game Mode Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-004.jpg) 
 
- In addition to Game Mode, SteamOS has many different shortcuts in Desktop Mode. To learn more about those, read [our full guide to Steam Deck shortcuts](https://os-tips.techidaily.com/the-ultimate-top-8-messaging-app-restoration-tools-best-free-and-paid-options-for-iphone-and-android/).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ In addition to Game Mode, SteamOS has many different shortcuts in Desktop Mode. To learn more about those, read [our full guide to Steam Deck shortcuts](https://os-tips.techidaily.com/the-ultimate-top-8-messaging-app-restoration-tools-best-free-and-paid-options-for-iphone-and-android/).
 
 ##  Control In-Game Brightness With the Left Analog Stick and Quick Access Button
 
@@ -77,10 +81,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  I recommend tweaking notifications to your liking before launching your first game on your new Deck. To do this, go to “Settings” then enter the “Notifications” sub-menu.
 
 ![Toggling various notifications toggles in the Steam Deck notifications menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-04.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There, you can tweak individual notifications, turn notification toasts off completely, and disable notification sounds. Just scroll to the end and tweak every single option to your liking, and then you can start gaming without the annoying pop-ups.
 
@@ -100,6 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Note that if you want to activate the gyro via thumbsticks—to set the gyro to activate once you touch the right thumbstick, for instance—you shouldn’t cover said thumbstick. You can always set gyro activation by pressing any other key or touching one of the two trackpads instead. Personally, I’ve set the right trackpad to activate the gyro and it works for me.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use an Angled Charging Adapter to Charge and Play
 
  The position of the sole USB-C port on the Steam Deck isn’t great, especially if you often game on your Deck while charging.
@@ -112,17 +116,9 @@ Goran Damnjanovic / How-To Geek
 
 ![Steam Deck charging adapter sitting flush against the case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-charging-adapter-sideways.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Goran Damnjanovic / How-To Geek
 
  Before we move on, note that the Steam Deck supports pass-through charging. Once the battery is full, the charger bypasses the cell and delivers power directly to your Deck. In other words, don’t worry about [Steam Deck battery degradation](https://facebook-videos.techidaily.com/updated-2024-approved-decode-facebooks-algorithm-change-and-protect-your-reach/), and feel free to game while charging your Deck.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Improve Steam Deck LCD Download Speeds
 
@@ -146,6 +142,10 @@ Goran Damnjanovic / How-To Geek
 
  If you own an OLED Deck, you shouldn’t have issues with download speeds and stability since the OLED version uses a much better [Wi-Fi 6](https://buynow-info.techidaily.com/getting-the-most-out-of-your-new-echo-dot-3rd-gen-a-comprehensive-breakdown-for-seamless-alexa-integration/) card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prevent Your Deck From Sleeping When Downloading Games
 
  Getting a new Deck means downloading some games so you can enjoy your new handheld. I recommend turning off sleep when plugged in so your Deck doesn't betray you and enter sleep mode while downloads complete. You can also disable sleep while on battery, but I don’t recommend that for obvious reasons.
@@ -154,9 +154,17 @@ Goran Damnjanovic / How-To Geek
 
 ![Disabling sleep on a Steam Deck while plugged in in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-08.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another tip I have is to set your Deck to Offline mode when you plan on using it at a location with spotty or no internet coverage. To do this, open “Settings,” go to the “Internet” tab, and click the “Enter Offline Mode” button.
 
 ![Enabling Offline Mode on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-09.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create Game Collections For Easier Game Library Navigation
 
@@ -183,7 +191,7 @@ Goran Damnjanovic / How-To Geek
 ![Enabling All Games filter in a Steam Deck library filters menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-14.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Learn to Use the Performance Quick Access Menu
@@ -195,7 +203,7 @@ Goran Damnjanovic / How-To Geek
  Probably the most helpful feature here is the performance overlay that shows your frame rate, power used by the CPU and GPU, CPU and GPU usage, frame time graph, and more. I recommend setting the performance overlay to level 2, which includes most of the data you’ll need. If you want to see the frame time graph, set the overlay to level 3\. To see the usage of individual CPU cores, battery life left, fan RPM, and more details, set the overlay to level 4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set Refresh Rate to 45Hz (OLED) or 40Hz (LCD)
@@ -210,20 +218,12 @@ Goran Damnjanovic / How-To Geek
 
 ![Setting frame limit to 40 FPS on a Steam Deck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/steam-deck-tips-and-tricks-16.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, to get more detailed information about battery life, turn on the battery percentage next to the battery icon in the header. Do this by opening “Settings,” then the “General” tab, and there you can turn the “Battery Percentage” toggle on.
 
 ![Enabling Battery Percentage toggle in SteamOS General settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/how-to-check-battery-health-and-levels-on-a-steam-deck-08.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Try out Local Game Streaming if You Own a Gaming PC
@@ -253,21 +253,14 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-day-jobs-and-digital-passion-striking-a-balance/"><u>[Updated] In 2024, Day Jobs & Digital Passion Striking a Balance</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-g54-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722584432842-can-the-samsung-cf591-deliver-an-exceptional-gaming-experience-an-experts-insight/"><u>Can the Samsung CF591 Deliver an Exceptional Gaming Experience? An Expert's Insight.</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/configuring-your-firewall-and-network-adapter-integration-expert-tips-from-yl-computing/"><u>Configuring Your Firewall and Network Adapter Integration - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decode-the-technique-stop-game-frame-drops-and-sustain-high-frames-per-second-fps/"><u>Decode the Technique: Stop Game Frame Drops and Sustain High Frames per Second (FPS) !</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722922082625-exclusive-prime-day-offers-save-big-on-iphones-and-macbooks/"><u>Exclusive Prime Day Offers: Save Big on iPhones & MacBooks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mastery-in-gameye-advanced-recording-tips/"><u>In 2024, Mastery in GamEye Advanced Recording Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-agile-success-with-6-key-principles-enhancing-the-software-development-lifecycle-zdnet/"><u>Master Agile Success with 6 Key Principles Enhancing the Software Development Lifecycle | ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/portable-wireless-hotspot-compact-and-convenient-tp-links-tl-wr9amo/"><u>Portable Wireless Hotspot: Compact and Convenient - TP-Link's TL-WR9amo</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-balanced-beast-in-depth-look-at-the-google-pixel-5s-flagship-features-meet-modest-muscle/"><u>The Balanced Beast: In-Depth Look at the Google Pixel 5'S Flagship Features Meet Modest Muscle</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-best-running-watches-of-2024/"><u>The Best Running Watches of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-features-and-capabilities-unraveling-the-samsung-gear-s3-frontier/"><u>The Ultimate Guide to Features and Capabilities: Unraveling the Samsung Gear S3 Frontier</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-functions-a-complete-review-of-truecaller/"><u>Unveiling the Functions: A Complete Review of TrueCaller</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-the-netgeer-nighthawk-x4-a-detailed-look-at-an-exceptional-mesh-extender/"><u>Unveiling the Power of the Netgeer Nighthawk X4 – A Detailed Look at an Exceptional Mesh Extender</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-apex-titles-for-hd-video-recording-technologies-for-2024/"><u>[New] Apex Titles for HD Video Recording Technologies for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-tiletime-effortless-video-mosaics-on-both-oses/"><u>[New] In 2024, TileTime Effortless Video Mosaics on Both OSes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-avi-playback-software-for-pcmobile-users/"><u>[Updated] Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-philips-hf3520-timepiece-assessment-a-cost-effective-solution-for-your-mornings/"><u>Affordable Philips HF3520 Timepiece Assessment: A Cost-Effective Solution for Your Mornings</u></a></li>
+<li><a href="https://article-files.techidaily.com/deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>Deconstructing Digital Dimensions The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-creativity-with-the-xp-pen-artist-16-pro-an-expert-drawing-tablet-evaluation/"><u>Unveiling the Power of Creativity with the XP-Pen Artist 16 Pro – An Expert Drawing Tablet Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-top-rated-netgear-routers-to-upgrade-your-network/"><u>Unveiling the Top-Rated Netgear Routers to Upgrade Your Network</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/which-iphone-is-best-for-gaming/"><u>Which iPhone Is Best for Gaming?</u></a></li>
 </ul></div>
 

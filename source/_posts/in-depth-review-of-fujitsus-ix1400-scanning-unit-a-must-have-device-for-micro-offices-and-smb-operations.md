@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review of Fujitsu's iX1400 Scanning Unit: A Must-Have Device for Micro Offices & SMB Operations"
-date: 2024-08-09T00:44:07.690Z
-updated: 2024-08-10T00:44:07.690Z
+date: 2025-02-05T14:37:28.274Z
+updated: 2025-02-10T08:35:26.228Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Review of Fujitsu's iX1400 Scanning Unit: A Must-Have Device for Micro Offices & SMB Operations"
@@ -13,11 +13,12 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 
 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Days to Die
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/VJoNxFQndEBfEN4NQeMVjVAovNk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -42,14 +43,8 @@ Lifewire / Rebecca Isaacs
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 7 Days to Die
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/mKaiRcg5xaWaOPRj0Ph1dRjUbSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -74,10 +69,11 @@ Lifewire / Rebecca Isaacs
 
  Everyone loves zombies, but there are so many zombie shooters, it can be hard to tell them apart. But when we played 7 Days to Die, we jumped for joy and grabbed our digital cricket bats, fully prepared to go full Shaun of the Dead on hordes of the undead. A game loosely based around a nuclear fallout that ends with the fall of civilization and the spawning of undead, hungry friends sounds like a good time. Racking up over 500 hours on the game, we’ve tested it across four major alpha updates, taking note of gameplay, plot, ease of use, and price. Read on to find out our thoughts.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/MW5wYA5ujBjG5LdXn-w9bTJd5WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-2-a59091cd21c04d99a42270199349fc2a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -91,9 +87,6 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Plot: Open world horror sandbox**
 
  When you first begin gameplay, it takes about 20 seconds for it to boot up, and then you’re gasping, holding your bare hands out before you, drinking in the landscape of one of five biomes: snow, forest, desert, wasteland, and burnt.
@@ -106,12 +99,17 @@ Lifewire / Rebecca Isaacs
 
  The other, titular part of the plot: every seven days, a zombie horde descends upon you. They know your location. They will find you and claw their way to you, and you have to fend yourself and your base from them. As the 7 days pass, they get harder to defeat. Our understanding is that the end goal of 7 Days is to add a story, but right now they’re focused on honing in general gameplay. We hope that the story will be optional since as a survival horror sandbox, it works very well.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gameplay: Could be better, but solid overall**
 
@@ -135,9 +133,6 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## **Graphics: Outdated, but detailed on optimal**
 
  For a game that was released in 2013 originally, the graphics could be a little better, even if you play on optimal settings. Back in the day, we played on lower settings rather than splurge on a fancy graphics card. If you play on the lower settings, it’s cringeworthy, though not as cringeworthy as the Witcher 3’s lowest settings.
@@ -146,6 +141,10 @@ Lifewire / Rebecca Isaacs
 
  Because the graphics are a rather mixed bag, the frames per second (fps) can vary dramatically. We experienced drops as low as 18 fps when playing. When surrounded by a horde, that can cost you your life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Platform: It’s complicated**
 
  7 Days to Die runs on many platforms:[PC](https://www.lifewire.com/what-is-a-mac-4155662) ,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and[Xbox 360](https://www.lifewire.com/xbox-360-buyers-guide-3562451) . We played 7 Days on PC, and at the time of writing, they released a teaser for the Alpha 18 update which would roll out to the PC version of the game.
@@ -153,8 +152,9 @@ Lifewire / Rebecca Isaacs
  Last time we checked, the company that owned all console rights, Telltale, went bust, and The Fun Pimps (the developer) were in legal limbo trying to reacquire their own rights. There’s a good chance that there will not be an update in the console versions of the game anytime soon as this issue makes its way through the courts. Therefore, we strongly recommend that you purchase the PC version if you decide this is a game you might like to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Average for an alpha game**
 
  At around $25, 7 Days isn’t the most expensive zombie game on the market. However, it is the most expensive alpha zombie game out there. Because you can purchase it on[Steam](https://www.lifewire.com/what-is-steam-4177380) or Humble Bumble, we recommend waiting for a Steam sale and getting it for a discount, especially since it’s still in progress. This way, if you decide you don’t like it in the future, you aren’t out the full price.
@@ -189,14 +189,11 @@ Lifewire / Rebecca Isaacs
 * Graphics  1 GB Dedicated Memory
 * Game Updates  Alpha 17.4 out; Alpha 18 Announced
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,3 +201,25 @@ Lifewire / Rebecca Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/elightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>[New] Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-rated-apps-for-taking-screenshots-in-windows-8-for-2024/"><u>[New] Top-Rated Apps for Taking Screenshots in Windows 8 for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehensive-overview-of-leading-online-communities-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Overview of Leading Online Communities: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-jackery-powerbar-charging-solution-featuring-a-unique-inbuilt-ac-outlet/"><u>Evaluating Jackery PowerBar Charging Solution - Featuring a Unique Inbuilt AC Outlet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nokia-c12-plus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nokia C12 Plus to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterful-marksmanship-how-a-gratis-gaming-app-enhanced-my-accuracy-in-battle-royale/"><u>Masterful Marksmanship: How a Gratis Gaming App Enhanced My Accuracy in Battle Royale</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-console-control-how-to-command-gaming-systems-with-your-tv-remote/"><u>Mastering Console Control: How to Command Gaming Systems with Your TV Remote</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-art-of-excel-based-crossword-creation-a-step-by-step-guide/"><u>Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-investment-top-5-strategies-for-enjoying-every-penny-with-apple-music/"><u>Maximize Your Investment: Top 5 Strategies for Enjoying Every Penny with Apple Music</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-revamps-xbox-game-pass-introducing-a-standard-tier-and-adjusted-pricing/"><u>Microsoft Revamps Xbox Game Pass: Introducing a 'Standard' Tier & Adjusted Pricing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/newly-added-miniplayer-functionality-enhances-listening-experience-on-desktop-version-of-spotify-platform/"><u>Newly Added Miniplayer Functionality Enhances Listening Experience on Desktop Version of Spotify Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/office-chairs-vs-gaming-chairs-why-functionality-and-comfort-should-be-priority-for-long-term-savings/"><u>Office Chairs Vs. Gaming Chairs: Why Functionality and Comfort Should Be Priority for Long-Term Savings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/personalize-your-gaming-experience-with-a-tailored-ps5-controller-say-goodbye-to-the-dualsense/"><u>Personalize Your Gaming Experience with a Tailored PS5 Controller – Say Goodbye to the DualSense</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uncovering-10-premier-youtube-sources-for-history-buffs-for-2024/"><u>Uncovering 10 Premier YouTube Sources for History Buffs for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-free-talking-stock-photo-sites/"><u>Updated Top 6 Free Talking Stock Photo Sites</u></a></li>
+</ul></div>
+

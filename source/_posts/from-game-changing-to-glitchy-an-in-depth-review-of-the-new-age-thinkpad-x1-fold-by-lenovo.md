@@ -1,7 +1,7 @@
 ---
 title: From Game-Changing to Glitchy - An In-Depth Review of The New Age Thinkpad X1 Fold by Lenovo
-date: 2024-08-09T00:44:07.653Z
-updated: 2024-08-10T00:44:07.653Z
+date: 2025-02-08T06:30:06.849Z
+updated: 2025-02-10T01:34:27.326Z
 categories:
   - BestProducts
 description: This Article Describes From Game-Changing to Glitchy - An In-Depth Review of The New Age Thinkpad X1 Fold by Lenovo
@@ -15,10 +15,11 @@ thumbnail: https://www.lifewire.com/thmb/AEe-qDWS5Ow23scMyPrW_CUdINM=/400x300/fi
 
 ## 7 Days to Die
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/VJoNxFQndEBfEN4NQeMVjVAovNk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -43,13 +44,11 @@ Lifewire / Rebecca Isaacs
 4
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7 Days to Die
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/mKaiRcg5xaWaOPRj0Ph1dRjUbSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -78,9 +77,6 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Easy thanks to Steam**
 
  7 Days to Die for PC can be located on Steam, making it easy to set up. It takes a little while to download, but once it boots up, you’re in. You’ll press the “New Game” button and you’ll need to create a new character, which is easy if you choose one of the preset characters from the list. If you’d like to make a unique character, it’s easy with a creation system similar to Skyrim. Everything, down to the very arch on the eyebrows, is customizable.
@@ -103,16 +99,14 @@ Lifewire / Rebecca Isaacs
 
  The other, titular part of the plot: every seven days, a zombie horde descends upon you. They know your location. They will find you and claw their way to you, and you have to fend yourself and your base from them. As the 7 days pass, they get harder to defeat. Our understanding is that the end goal of 7 Days is to add a story, but right now they’re focused on honing in general gameplay. We hope that the story will be optional since as a survival horror sandbox, it works very well.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: Could be better, but solid overall**
 
  7 Days to Die boasts two playable maps: Navezgane, which is a massive square map consisting of five biomes in which you can use the sandbox world to your advantage; and random map generation, which is a map that randomly spawns cities and biomes. The latter is for players who want a greater challenge, as no random map is the same. The former, however, has fun elements like a school, complete with charging football zombies, and a strip club. From these two kinds of maps alone, gameplay can last for hours (as we said, we’ve clocked in 500 hours at this point).
@@ -135,6 +129,10 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated, but detailed on optimal**
 
  For a game that was released in 2013 originally, the graphics could be a little better, even if you play on optimal settings. Back in the day, we played on lower settings rather than splurge on a fancy graphics card. If you play on the lower settings, it’s cringeworthy, though not as cringeworthy as the Witcher 3’s lowest settings.
@@ -143,9 +141,6 @@ Lifewire / Rebecca Isaacs
 
  Because the graphics are a rather mixed bag, the frames per second (fps) can vary dramatically. We experienced drops as low as 18 fps when playing. When surrounded by a horde, that can cost you your life.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Platform: It’s complicated**
 
  7 Days to Die runs on many platforms:[PC](https://www.lifewire.com/what-is-a-mac-4155662) ,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and[Xbox 360](https://www.lifewire.com/xbox-360-buyers-guide-3562451) . We played 7 Days on PC, and at the time of writing, they released a teaser for the Alpha 18 update which would roll out to the PC version of the game.
@@ -169,13 +164,18 @@ Lifewire / Rebecca Isaacs
  Despite flaws in graphics, there’s a lot to love about 7 Days to Die. The challenging skill tree system and dangerous intelligent zombies add an element that’s not typically found in zombie shooters. If you want a game to commit to for hours on end, building bases and exploring dungeon-like homes while slaying zombie cheerleaders, then 7 Days to Die could be a fun way to ease some stress after a long day of work.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * The Last of Us Remastered
 * [Days Gone](https://www.lifewire.com/days-gone-review-4778364)
 * [Dying Light](https://www.lifewire.com/dying-light-review-4778324)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -189,14 +189,11 @@ Lifewire / Rebecca Isaacs
 * Graphics  1 GB Dedicated Memory
 * Game Updates  Alpha 17.4 out; Alpha 18 Announced
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,3 +201,23 @@ Lifewire / Rebecca Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-beginners-guide-to-customizing-your-instagram-snapshonscape/"><u>[New] In 2024, A Beginner's Guide to Customizing Your Instagram Snapshonscape</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-achieving-audiovisual-consistency-in-premiers/"><u>[New] In 2024, Achieving Audiovisual Consistency in Premiers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback-in-2024/"><u>[Updated] Average Earnings Per View What's the Income for YouTubers per Ad Playback, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-key-insights-mastering-win11-features/"><u>[Updated] In 2024, Key Insights Mastering Win11 Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1-unlocking-the-joy-of-gaming-winning-hearts-of-non-players/"><u>1. Unlocking the Joy of Gaming: Winning Hearts of Non-Players</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>2024 Approved Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ankermake-m5c-3d-printing-guide-affordable-and-easy-to-use-designer-machine-ideal-for-beginners/"><u>AnkerMake M5C 3D Printing Guide - Affordable and Easy to Use Designer Machine Ideal for Beginners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-entertainment-utilizing-your-tv-remote-for-game-console-management-and-more/"><u>Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blancco-a-commercial-data-wiping-solution-offering-multiple-features-for-securely-deleting-sensitive-information-from-various-types-of-storage-devices-inclu23/"><u>Blancco: A Commercial Data Wiping Solution Offering Multiple Features for Securely Deleting Sensitive Information From Various Types of Storage Devices, Including Mobile and IoT Gadgets.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-fresh-tunes-with-apple-music-radio-your-gateway-to-the-latest-hits/"><u>Discover Fresh Tunes with Apple Music Radio: Your Gateway to the Latest Hits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scriptwriting-secrets-for-docu-films/"><u>In 2024, Scriptwriting Secrets for Docu-Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>In 2024, Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-ftd2xxdll-error-a-step-by-step-guide/"><u>Resolving ftd2XX.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-switching-to-online-comic-book-subscriptions-is-a-game-changer/"><u>Why Switching to Online Comic Book Subscriptions Is a Game-Changer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-youtube-premium-stands-out-as-my-unparalleled-streaming-choice-a-must-read-explanation/"><u>Why YouTube Premium Stands Out as My Unparalleled Streaming Choice - A Must-Read Explanation</u></a></li>
+</ul></div>
+

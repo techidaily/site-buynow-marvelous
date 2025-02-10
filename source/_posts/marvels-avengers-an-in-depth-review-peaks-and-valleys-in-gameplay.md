@@ -1,7 +1,7 @@
 ---
 title: "Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay"
-date: 2025-01-22T16:24:50.440Z
-updated: 2025-01-29T22:18:29.805Z
+date: 2025-02-04T10:02:43.143Z
+updated: 2025-02-10T12:46:51.913Z
 categories:
   - BestProducts
 description: "This Article Describes Marvel's Avengers - An In-Depth Review: Peaks and Valleys in Gameplay"
@@ -36,13 +36,13 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -62,10 +62,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -73,7 +69,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -83,6 +79,10 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -104,6 +104,10 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -112,14 +116,10 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -165,21 +165,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-attention-a-look-at-the-best-15-video-intro-plans/"><u>[New] In 2024, Crafting Attention A Look at the Best 15 Video Intro Plans</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhancing-facial-dynamics-using-picsarts-motion-blur/"><u>[New] In 2024, Enhancing Facial Dynamics Using Picsart's Motion Blur</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-master-the-art-of-editing-story-remix-and-windows-photos-synergy-for-2024/"><u>[Updated] Master the Art of Editing Story Remix & Windows Photos Synergy for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-beginners-guide-to-making-money-on-youtubers/"><u>[Updated] Your Beginner's Guide to Making Money on YouTubers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>2024 Approved The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-netgear-ex6200-ac1200-wi-fi-range-extender-a-comprehensive-review/"><u>Expert Analysis: Netgear EX6200 AC1200 Wi-Fi Range Extender - A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-leading-usb-wi-fi-dongles/"><u>Expert Picks: Leading USB Wi-Fi Dongles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-budget-friendly-apeman-c450-dash-camera-is-it-worth-your-money/"><u>Expert Review of the Budget-Friendly Apeman C450 Dash Camera: Is It Worth Your Money?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-sonos-go-with-you-high-end-mobility-music/"><u>Explore Sonos Go-With-You: High-End Mobility Music</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/five-headlight-upgrades-for-better-brightness-and-beam-patterns/"><u>Five Headlight Upgrades for Better Brightness and Beam Patterns</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-great-sound-on-a-shoestring-the-senso-way/"><u>Get Great Sound on a Shoestring: The Senso Way</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-nest-hub-2nd-gen-review/"><u>Google Nest Hub 2Nd Gen Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/inside-the-tp-link-archer-c80-an-affordable-speed-demon-under-100/"><u>Inside the TP-Link Archer C80: An Affordable Speed Demon Under $100</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/superior-mp4-integrator-with-fb/"><u>Superior MP4 Integrator with FB</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-industry-standard-adobe-premiere-pro-for-mac-video-editors/"><u>Updated The Industry Standard Adobe Premiere Pro for Mac Video Editors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-complete-periscope-users-handbook/"><u>[New] 2024 Approved The Complete Periscope User's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-in-ms-teams-by-harnessing-the-power-of-copilot/"><u>Boost Your Productivity in MS Teams by Harnessing the Power of Copilot</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-microsoft-sculpt-keyboard-exceptional-worth-and-design/"><u>Comprehensive Evaluation of the Microsoft Sculpt Keyboard - Exceptional Worth & Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-these-8-important-criteria-when-selecting-your-next-tablet-device/"><u>Discover These 8 Important Criteria When Selecting Your Next Tablet Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-deep-into-360-vr-a-look-at-insta360-one-x2-review/"><u>Dive Deep Into 360 VR: A Look at Insta360 One X2 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ensure-regular-feeding-with-the-petsafe-automatic-6-port-feeder-device/"><u>Ensure Regular Feeding With The PetSafe Automatic 6-Port Feeder Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ergohead-standing-desk-pad-reviewed-ensuring-comfort-throughout-your-workday/"><u>Ergohead Standing Desk Pad Reviewed: Ensuring Comfort Throughout Your Workday!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-webex-an-in-depth-look-at-its-strengths-and-weaknesses/"><u>Evaluating WebEx: An In-Depth Look at Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/excellence-in-audio-the-finest-wired-headphones-of-2024/"><u>Excellence in Audio: The Finest Wired Headphones of 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tune-treasure-hunt-finding-the-perfect-audio-for-2024/"><u>Tune Treasure Hunt Finding the Perfect Audio for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-best-free-online-movie-making-software/"><u>Updated 2024 Approved The Best Free Online Movie Making Software</u></a></li>
 </ul></div>
 

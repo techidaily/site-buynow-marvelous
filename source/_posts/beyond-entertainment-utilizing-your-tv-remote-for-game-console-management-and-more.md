@@ -1,7 +1,7 @@
 ---
 title: "Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More"
-date: 2025-01-25T22:40:51.799Z
-updated: 2025-01-29T18:21:57.413Z
+date: 2025-02-04T23:51:18.997Z
+updated: 2025-02-10T10:32:00.500Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ## Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Simplify your entertainment setup by using one remote for all functions with HDMI-CEC compatibility.
@@ -25,25 +21,21 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
 
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  You can scroll through menus, browse streaming services and even control the volume of what you're watching from the comfort of your couch just like you would a TV. If you have multiple devices in your media repertoire, however, you can go even further and set up a system where your devices will turn on and display themselves on your screen automatically.
 
  With the right settings, you can even have it so turning on one device automatically powers up the TV as well, making media playback seamless, or changing the volume of each device independently. The benefits do not end there, though, especially for those with a robust home media setup, and it is all made possible through the power of HDMI-CEC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Ultimate Solution: HDMI-CEC
 
@@ -54,10 +46,6 @@ Jordan Gloor / How-To Geek
 Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
 
@@ -71,6 +59,10 @@ Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use a TV Remote on a Console
 
  Using a TV remote on a console might initially seem a bit counter-intuitive since these machines already come packaged with a perfectly good controller. However, if your Xbox or PlayStation is a regular part of your media setup, it may be worth controlling it like you would a TV.
@@ -81,9 +73,17 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
@@ -104,7 +104,7 @@ Jason Fitzpatrick / How-To Geek
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -130,20 +130,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-console-capturer-pro-report/"><u>[New] 2024 Approved Console Capturer Pro Report</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-eyeview-scrutiny-exploration/"><u>[Updated] Eyeview Scrutiny Exploration</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-proficiently-follow-facebook-live-updates/"><u>[Updated] In 2024, How to Proficiently Follow Facebook Live Updates</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-your-itunes-recordings/"><u>[Updated] In 2024, Unlocking the Potential of Your iTunes Recordings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/aminy-ufo-review/"><u>Aminy UFO Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lg-stylo-6-where-sophisticated-aesthetics-meet-efficient-note-taking/"><u>Comprehensive Review of the LG Stylo 6: Where Sophisticated Aesthetics Meet Efficient Note-Taking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-affordable-tech-marvels-with-our-comprehensive-oneplus-nord-n100-assessment/"><u>Discovering Affordable Tech Marvels with Our Comprehensive OnePlus Nord N100 Assessment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-unlocking-new-features-with-onetastic-for-microsoft-onenote/"><u>Expert Evaluation: Unlocking New Features with Onetastic for Microsoft OneNote</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-cumuluspro-mat-for-ergonomic-standing-workspaces-a-review/"><u>Expert Insights on CumulusPRO Mat for Ergonomic Standing Workspaces: A Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-prevent-starcraft-ii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Prevent StarCraft II From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>In 2024, Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>Pro Photo & Video with GoPro Hero5 Black Mastery Essentials</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-100-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-apples-latest-ipad-8th-gen-a-budget-pick-surpassing-expectations/"><u>The Ultimate Guide to Apple's Latest iPad (8Th Gen): A Budget Pick Surpassing Expectations</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-compressing-webm-videos-online-for-2024/"><u>The Ultimate Guide to Compressing WebM Videos Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-eye-catching-insta-highlights-unveiling-3-secrets/"><u>[Updated] Eye-Catching Insta Highlights Unveiling 3 Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-ways-your-work-could-get-compromised-using-chatgpt/"><u>10 Ways Your Work Could Get Compromised Using ChatGPT</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-essential-steps-to-compress-youtube-video-spaces/"><u>2024 Approved The Essential Steps to Compress YouTube Video Spaces</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-sound-quality-how-tvos-18-upgrades-apple-tv-conversations-for-improved-listening-experience/"><u>Boosting Sound Quality: How tvOS 18 Upgrades Apple TV Conversations for Improved Listening Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-affordability-and-intuitiveness-in-z-edges-z3-plus-dashcam/"><u>Discovering Affordability and Intuitiveness in Z-Edge's Z3 Plus Dashcam</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/drm-free-conversion-transform-epub-and-pdf-files-on-mac-with-no-restrictions/"><u>DRM-Free Conversion: Transform EPUB and PDF Files on Mac with No Restrictions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/economical-ssl-solutions-debated/"><u>Economical SSL Solutions Debated</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-mophie-powerstation-ac-charger-balancing-cost-and-convenience-for-tech-enthusiasts/"><u>Evaluating the Mophie Powerstation AC Charger - Balancing Cost and Convenience for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-next-gen-with-the-high-performance-xbox-series-x-the-complete-review/"><u>Experience Next-Gen with the High-Performance Xbox Series X - The Complete Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-premier-selection-of-8-games-for-google-play-pass-subscribers/"><u>Explore the Premier Selection of 8 Games for Google Play Pass Subscribers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-novice-to-expert-a-comprehensive-review-of-lenovos-best-yet-the-thinkpad-x1-titanium-yoga-for-devoted-thinkpad-users/"><u>From Novice to Expert: A Comprehensive Review of Lenovo's Best Yet, the ThinkPad X1 Titanium Yoga for Devoted ThinkPad Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-troubleshooting-pc-instability-in-cyberpunk-2077-gameplay/"><u>Solved: Troubleshooting PC Instability in Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-common-steam-errors-the-e84-solution/"><u>Tackling Common Steam Errors: The E84 Solution</u></a></li>
 </ul></div>
 

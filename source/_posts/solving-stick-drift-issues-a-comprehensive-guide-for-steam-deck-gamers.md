@@ -1,7 +1,7 @@
 ---
 title: "Solving Stick Drift Issues: A Comprehensive Guide for Steam Deck Gamers"
-date: 2025-01-23T16:36:41.833Z
-updated: 2025-01-30T00:52:13.688Z
+date: 2025-02-08T23:00:49.199Z
+updated: 2025-02-09T17:55:04.935Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 * [Replace the Thumbsticks on Your Steam Deck](https://some-techniques.techidaily.com/in-2024-filmographys-finest-shots-the-best-camera-and-lighting-tips/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 * If all else fails, replace the entire joystick module with one matching your Steam Deck's joystick type.
 
  If one of the thumbsticks on your Steam Deck develops stick drift, there are several solutions you can try to fix the issue. They range from the simple, like recalibrating the stick, to DIY adventures like opening your Deck and replacing the joystick module. Let’s go through them all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Restart Your Steam Deck and Try Again
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 ![Steam Deck Desktop Mode with the Application Launcher menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-02-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open Konsole, pull up the virtual keyboard by pressing the X button, type the following:
@@ -59,13 +63,13 @@ thumbstick_cal
 
 ![Steam Deck thumbstick recalibration tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-03.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now follow instructions to complete the calibration process. Firstly, let go of both sticks and press the A button. Next, tap the taskbar at the bottom of the desktop so that your cursor is out of focus of the Konsole window, and then rotate both joysticks 360 degrees two times, tap on the Konsole window to get back into focus, and press the A button again. That’s it.
 
  Now you can return to Game Mode and test the affected stick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Increase the Joystick Deadzone in Game Mode
 
@@ -73,13 +77,13 @@ thumbstick_cal
 
 ![Steam Deck calibration & advanced settings tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-04.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the “Left Joystick Deadzone” option and press the Y button to test its deadzone. If your right stick is drifting, select the “Right Joystick” option instead, with the R1 button.
 
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
 
@@ -88,10 +92,6 @@ thumbstick_cal
  In fact, I can drop the deadzone to about 5400 and still be fine. If you're noticing drift, you’ll most likely have to increase the deadzone above the default value of 8192\. The max value is set at 18000.
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
@@ -150,24 +150,22 @@ thumbstick_cal
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-websites-to-download-a-youtube-ringtone/"><u>[New] In 2024, Best Websites To Download A YouTube Ringtone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-swiftswirl-momentmirror-recording/"><u>[New] SwiftSwirl MomentMirror Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-splitting-vision-assessing-splitcams-camera-excellence/"><u>2024 Approved Splitting Vision Assessing SplitCam's Camera Excellence</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-assessment-of-the-superior-dji-air-2s-quadcopter-model/"><u>Comprehensive Assessment of the Superior DJI Air 2S Quadcopter Model</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-for-your-brother-hl-l2380dw-printer-windows-driver-downloads-here/"><u>Effortless Setup for Your Brother HL-L2380DW Printer - Windows Driver Downloads Here!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-the-lenovo-thinkpad-x12s-detachable-prototype-exceptional-dual-functionality-and-top-notch-typing-experience/"><u>Expert Analysis on the Lenovo ThinkPad X12's Detachable Prototype: Exceptional Dual Functionality and Top-Notch Typing Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-6-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 6 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-the-revamped-echo-dot-gen-4-unveiled/"><u>In-Depth Analysis: The Revamped Echo Dot (Gen 4) Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862875747-introducing-the-icraft-b760m-motherboard-where-intel-meets-anime-aesthetics-in-a-pastel-package/"><u>Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel Package</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/paww-acoustic-tech-3-evaluation-economical-audio-earpieces/"><u>Paww Acoustic Tech 3 Evaluation: Economical Audio Earpieces</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-michael-kors-access-gen-nv0718-08-fashion-and-utility-in-one/"><u>Review: Michael Kors' Access Gen Nv0718-08 Fashion and Utility in One</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/snag-your-dream-tech-at-exclusive-prices-during-the-amazing-amazon-prime-day-2024/"><u>Snag Your Dream Tech at Exclusive Prices During the Amazing Amazon Prime Day 2024!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-editors-archive-curating-timeless-vhs-effects-for-the-digital-age/"><u>The Editor's Archive Curating Timeless VHS Effects for the Digital Age</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-preservation-pathway-digitizing-and-safeguarding-old-family-photos-for-2024/"><u>The Preservation Pathway Digitizing & Safeguarding Old Family Photos for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-lenovo-ideapad-130s-navigating-through-limited-power-with-astonishing-usability/"><u>The Pros and Cons of Lenovo IdeaPad 130S: Navigating Through Limited Power with Astonishing Usability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mohu-blade-antennas-unique-style-and-reliable-in-home-television-signal/"><u>The Ultimate Guide to the Mohu Blade Antenna's Unique Style and Reliable In-Home Television Signal</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-what-you-need-to-know-before-purchasing-an-off-contract-mobile-device/"><u>The Ultimate Guide: What You Need to Know Before Purchasing an Off-Contract Mobile Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-selection-hits-the-cutting-edge-youtube-unboxing-channels-of-2024/"><u>Ultimate Selection Hits The Cutting-Edge YouTube Unboxing Channels of 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-making-money-with-vimeo-monetization/"><u>[New] In 2024, The Ultimate Guide to Making Money with Vimeo Monetization</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-rapid-share-tactics-for-youtube-lists/"><u>[Updated] 2024 Approved Rapid Share Tactics for YouTube Lists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[Updated] In 2024, Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-on-instagram-stories-with-branded-emojis/"><u>[Updated] Unleash Creativity on Instagram Stories with Branded Emojis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/connect-to-googles-meeting-platform-a-guide-for-2024/"><u>Connect to Google's Meeting Platform A Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-troubleshooting-steps-for-the-cs-go-user-not-logged-dilemma/"><u>Essential Troubleshooting Steps for the CS: GO 'User Not Logged' Dilemma</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y200e-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-analyzing-the-positives-and-negatives-of-implementing-webex-in-your-business-operations/"><u>Inside Look: Analyzing the Positives and Negatives of Implementing Webex in Your Business Operations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-motorola-edgeplus-up-to-par-with-top-flagship-devices-a-thorough-review/"><u>Is the Motorola Edge+ Up to Par with Top Flagship Devices? A Thorough Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-2n4lh4830-streaming-television-affordable-quality-without-compromises/"><u>LG 2N4lh4830 Streaming Television: Affordable Quality without Compromises</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-art-of-game-sharing-among-friends-on-your-xbox-one-console/"><u>Mastering the Art of Game Sharing Among Friends on Your Xbox One Console</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maxoaks-185-wh-5000-grove-bank-a-one-stop-energy-solution-detailed-product-analysis/"><u>MaxOak's 185 Wh / 50,00 Grove Bank: A One-Stop Energy Solution - Detailed Product Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-19-stunning-visuals-meet-unexpected-role-playing-twists/"><u>MLB The Show 19 - Stunning Visuals Meet Unexpected Role-Playing Twists!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/most-affordable-benq-monitors-and-projectors-at-the-annual-prime-day-bonanza/"><u>Most Affordable BenQ Monitors & Projectors at the Annual Prime Day Bonanza!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-pros-and-cons-of-the-costly-but-superb-google-pixelbook-go-laptop/"><u>Navigating Through the Pros and Cons of the Costly, But Superb Google Pixelbook Go Laptop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-correcting-error-message-14-on-iphone-devices/"><u>Step-by-Step Solution: Correcting Error Message 14 on iPhone Devices</u></a></li>
 </ul></div>
 

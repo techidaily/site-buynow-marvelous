@@ -1,7 +1,7 @@
 ---
 title: Top-Notch Performance Meets Pricey Tag in Thermaltake's Massive TM Notebook Cooler Review
-date: 2025-01-23T17:12:26.068Z
-updated: 2025-01-29T19:43:48.521Z
+date: 2025-02-05T12:59:37.189Z
+updated: 2025-02-10T04:54:23.385Z
 categories:
   - BestProducts
 description: This Article Describes Top-Notch Performance Meets Pricey Tag in Thermaltake's Massive TM Notebook Cooler Review
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/gdviREpEz9Ur19uHT9g2urpd1vY=/540x405/fi
 ## 1byone Amplified Digital HDTV Antenna
 
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/pWXHOnFpWCs9EltKF9bRUP_y5aU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_HeroSquare-d9b494f43adf438bad5a0b82441039ef.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -74,25 +78,21 @@ Lifewire / Jonno Hill
 
  Being a powered antenna, the 1byone uses an external amplifier to boost the signal. This box contains a coaxial input attached via the included 16.5ft cable, and has a power input, which can be supplied by the TV itself if it can support USB power. Otherwise, 1byone includes a USB power adapter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup: Fairly intuitive**
 
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas. Simply attach the 16.5ft coaxial cable to the external amplifier, connect the power to a USB power source, and then attach the coaxial cable from the amplifier to your TV.
 
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance: Good enough for most**
 
  The 1byone Digital Amplified Indoor HD TV Antenna didn’t have the best performance of the antennas we’ve tested, falling somewhere in the middle of the pack. In my channel acquisition test, I averaged 59 channels across all the tests performed. This compares to the worst performing antenna at just 47, and the best at 76.
 
  This should be more than suitable for most people living within a city in relatively close proximity to the source of the TV signal. As for those living further, your mileage may vary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Range: Middle of the road**
 
@@ -101,22 +101,18 @@ Lifewire / Jonno Hill
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/6y-ITpY8n7xf8BteMqdJjYm-paU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_05-178a02351af040cc89c86169b88a6de2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A great deal**
 
  The 1byone Digital Amplified Indoor Antenna costs just $25, making it the least expensive option out of the antennas I tested. It picked up all the major channels that I would actually watch, and didn’t have any issues with the signal. So from my perspective, why would I pay more? I think buyers would probably be best served by seeing if an antenna like this works for them. If you discover you need something more substantial, feel free to move on to a pricier option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **1byone Digital Amplified Indoor HD TV Antenna vs Mohu Leaf 30 TV Antenna**
 
@@ -129,6 +125,10 @@ Lifewire / Jonno Hill
 **The overall best value.**
 
  The 1byone Digital Amplified Indoor Antenna offers the best value out of all the indoor antennas that we tested. If you can get the performance you need from the 1byone, it’s the antenna to buy. I wouldn’t consider other options unless you’ve already ruled out this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -158,20 +158,18 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-heartfelt-goodbyes-free-or-subscribed-video-endings/"><u>[New] Heartfelt Goodbyes Free or Subscribed Video Endings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-moziscreen-plugins-for-firefox-for-2024/"><u>[New] MoziScreen Plugins for Firefox for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] 2024 Approved How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-efficient-approaches-to-picture-resource-sourcing-for-2024/"><u>[Updated] Efficient Approaches to Picture Resource Sourcing for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-amateur-to-pro-excelling-at-instagram-editing/"><u>[Updated] In 2024, From Amateur to Pro Excelling at Instagram Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>[Updated] The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-mass-effect-legendary-edition-dealing-with-game-crashing-problems-on-pc-and-xbox/"><u>Fix Your Mass Effect Legendary Edition: Dealing with Game-Crashing Problems on PC & Xbox</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-the-new-usb-c-apple-earpods-became-an-irresistible-prime-day-find-insights-from-a-tech-enthusiast-at-zdnet/"><u>How the New USB-C Apple EarPods Became an Irresistible Prime Day Find: Insights From a Tech Enthusiast at ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-premier-music-selections-for-movie-making/"><u>In 2024, Premier Music Selections for Movie Making</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-cyberpower-cp685avrg-the-reliable-backup-power-solution/"><u>In-Depth Analysis of Cyberpower CP685AVRG: The Reliable Backup Power Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-linksys-velop-the-ultimate-guide-to-a-robust-mesh-wifi-network/"><u>In-Depth Analysis of Linksys Velop: The Ultimate Guide to a Robust Mesh WiFi Network</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-apple-watch-series-9/"><u>In-Depth Analysis of the Apple Watch Series 9</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-analyzing-the-positives-and-negatives-of-implementing-webex-in-your-business-operations/"><u>Inside Look: Analyzing the Positives and Negatives of Implementing Webex in Your Business Operations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-motorola-edgeplus-up-to-par-with-top-flagship-devices-a-thorough-review/"><u>Is the Motorola Edge+ Up to Par with Top Flagship Devices? A Thorough Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lg-2n4lh4830-streaming-television-affordable-quality-without-compromises/"><u>LG 2N4lh4830 Streaming Television: Affordable Quality without Compromises</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>[New] 2024 Approved Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-save-youtube-playback-a-comprehensive-screencast-guide-at-no-cost/"><u>[New] Save YouTube Playback A Comprehensive Screencast Guide at No Cost</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-green-filming-gurus-on-yt-transform-your-set-with-greenscreens-for-2024/"><u>[Updated] Green Filming Gurus on YT Transform Your Set with Greenscreens for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vibration-victory-clearer-cinematography/"><u>[Updated] Vibration Victory Clearer Cinematography</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-easily-download-your-favorites-handpicked-tools-reviewed/"><u>2024 Approved Easily Download Your Favorites Handpicked Tools Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-abyss-in-dying-light-an-immersive-co-op-and-parkour-survival-quest/"><u>Explore the Abyss in Dying Light: An Immersive Co-Op and Parkour Survival Quest</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-with-hero7-black-a-superior-action-cam-review/"><u>Explore with HERO7 Black - A Superior Action Cam Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/flipping-order-inverting-the-flow-of-your-youtube-watch-list/"><u>Flipping Order Inverting the Flow of Your YouTube Watch List</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/from-game-changing-to-glitchy-an-in-depth-review-of-the-new-age-thinkpad-x1-fold-by-lenovo/"><u>From Game-Changing to Glitchy - An In-Depth Review of The New Age Thinkpad X1 Fold by Lenovo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gamers-guide-the-five-must-know-tips-when-buying-your-next-gaming-device/"><u>Gamers' Guide: The Five Must-Know Tips When Buying Your Next Gaming Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nokia-c32-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nokia C32 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-oneplus-9-are-the-numbers-adding-up-to-a-winning-device/"><u>In-Depth Assessment of OnePlus 9 - Are The Numbers Adding Up to a Winning Device?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
 </ul></div>
 

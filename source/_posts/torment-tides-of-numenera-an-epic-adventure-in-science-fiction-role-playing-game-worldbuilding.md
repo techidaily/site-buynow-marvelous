@@ -1,7 +1,7 @@
 ---
 title: "'Torment: Tides of Numenera' - An Epic Adventure in Science Fiction Role-Playing Game Worldbuilding"
-date: 2024-08-09T00:44:06.000Z
-updated: 2024-08-10T00:44:06.000Z
+date: 2025-02-03T23:41:13.038Z
+updated: 2025-02-10T00:45:38.075Z
 categories:
   - BestProducts
 description: "This Article Describes 'Torment: Tides of Numenera' - An Epic Adventure in Science Fiction Role-Playing Game Worldbuilding"
@@ -38,13 +38,11 @@ Lifewire / Thomas Hindmarch
 3.4
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mohawk Games Offworld Trading Company
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/iiFooF4dDeVcP3L3UfgO6Uv4jso=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4145806_Offworld-Hero-Shot-e2bcf25749f14c0cb98b6c6e4743d630.jpg)
 
 Lifewire / Thomas Hindmarch
@@ -70,32 +68,24 @@ Lifewire / Thomas Hindmarch
 
  Your eventual goal is to eliminate all other players from the game, by buying a majority share of stock in their companies and staging a hostile takeover. At the same time, you must keep your profits high and debt low, to make it infeasibly expensive for other players to buy some of your own stock. Along the way, you can seize control of various useful commodities, buy and sell resources on an open market, and use underworld contacts to sabotage your opponents.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/d_YtN6HUMwxC62jqMOnJl6csGzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-2-13a8624d0ff64b5c95cc1b640598737f.jpg)
 
  Lifewire / Thomas Hindmarch
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: A short, painless installation**
 
  Offworld Trading Company can be purchased for your PC via digital storefronts, with its multiplayer available as a free-to-play service. Simply pay your money and wait for it to finish.
 
  At this point, you can spend a surprising amount of money on the game by grabbing all its expansions at once. However, you’d do better to try the base game first, just to make sure you’re interested before you go all in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/lOC0APAKrRycWJJCB5UAbnwuLtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-5-4c671b58f2944c249dc9529f0ceb477d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Thomas Hindmarch
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## **Plot: Welcome to the new gold rush**
 
  It’s the distant future, and several different economic blocs have come to Mars to capitalize on its newly available resources. As one of these corporations, ranging from a couple of obsessed scientists to a surprisingly sarcastic all-robot team, you race to stake your claims, open mines, acquire materials, and turn those materials into facilities and a solid profit. It’s all delivered with the gleeful matter-of-fact immorality of a PG-rated Gordon Gecko, through a handful of signature characters of varying degrees of eccentricity.
@@ -107,6 +97,10 @@ Lifewire / Thomas Hindmarch
  The game come into its own once you’ve got three or more human players wheeling and dealing, which is more or less the intended experience. In fact, the game’s Deluxe Edition specifically includes a gift key for the game, so you can give it to a friend and play with them. If you set up a local network game, or coordinate with an online community, it’s a fun, relatively non-violent way to spend an evening or a weekend.
 
 ![Offworld Trading Company](https://www.lifewire.com/thmb/2ycy8UPCnntgJJUoQc3Q6stRD6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-4-6b81f56e46534564868d750e40dd68a8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Thomas Hindmarch
 
@@ -137,8 +131,9 @@ Lifewire / Thomas Hindmarch
  Lifewire / Thomas Hindmarch
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Graphics: Simple, but effective**
 
  You don’t actually see much in Offworld Trading Company. It’s all flying drones and Martian landscapes, viewed from an omniscient perspective. It’s actually nice to look at, more so than it needed to be.
@@ -147,16 +142,21 @@ Lifewire / Thomas Hindmarch
 
 ![Offworld Trading Company](https://www.lifewire.com/thmb/yPBqB1TT1FOpODHzS8W8uWZ8wIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-7-7f0c8a93144c441a81593c64dbdaa025.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Thomas Hindmarch
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Price: Cheap to start, potentially expensive if you get involved**
 
  Offworld Trading Company’s multiplayer mode is free-to-play as of February 28th, 2019\. You can buy the deluxe edition from[Steam](https://www.lifewire.com/what-is-steam-4177380) or Stardock for $39.99, or a standard edition with a few less bells and whistles for $29.99; a deep-discount bundle on Steam which includes multiple downloadable content packs is currently $55.40.
 
  The multiplayer is really where the meat of the game lies, so try it for free and see if it grabs you, ideally with a few interested friends along for the ride. After that, you can pick up the main game and its DLC to expand your options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: A handful of super-smart, addictive contenders**
 
@@ -181,14 +181,11 @@ Lifewire / Thomas Hindmarch
 * Price  Free (multiplayer); US$29.99 (standard edition); US$39.99 (deluxe edition)
 * Players  1-8
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,3 +193,25 @@ Lifewire / Thomas Hindmarch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-curated-collection-best-free-footage-websites-ranked-for-2024/"><u>[New] Curated Collection Best Free Footage Websites Ranked for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>[New] In 2024, Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>[Updated] Mastering StoryRemix for Windows 11 Enhancing Videos with Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blueears-fashionable-beanie-headset-with-bluetooth-technology-review-highlights-sound-quality/"><u>Blueear's Fashionable Beanie Headset with Bluetooth Technology - Review Highlights Sound Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-s21-ultra-leading-android-choice/"><u>Comprehensive Analysis of the Samsung Galaxy S21 Ultra - Leading Android Choice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-comedic-calls-ringtones-best-picks-online/"><u>In 2024, Comedic Calls Ringtones' Best Picks Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagrams-filter-techniques-for-2024/"><u>Mastering Instagram's Filter Techniques for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/regular-inspections-by-the-atf-are-part-of-maintaining-an-explosives-license/"><u>Regular Inspections by the ATF Are Part of Maintaining an Explosives License.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-touch-problems-with-our-guide-to-its-top-7-responsive-issues/"><u>Solve Your iPhone's Touch Problems with Our Guide to Its Top 7 Responsive Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-8-best-mobile-games/"><u>The 8 Best Mobile Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-rechargeable-battery-chargers-of-2024/"><u>The Best Rechargeable Battery Chargers of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-chic-and-trendy-taotronics-tt-dl16-led-lamp-features-benefits-and-more/"><u>The Ultimate Guide to the Chic & Trendy TaoTronics TT-DL16 LED Lamp: Features, Benefits, And More</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-gimps-power-as-a-gratis-and-versatile-graphic-design-software/"><u>Unveiling GIMP's Power as a Gratis and Versatile Graphic Design Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-kobo-nia-the-rising-star-in-ebook-readers-against-kindle/"><u>Unveiling Kobo Nia: The Rising Star in Ebook Readers Against Kindle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-power-of-gamesirs-g8-galileo-a-new-contender-in-the-world-of-portable-consoles/"><u>Unveiling the Power of GameSir's G8 Galileo: A New Contender in the World of Portable Consoles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723047629609-unveiling-the-sealocs-sleek-and-resilient-55-inch-4k-outdoor-tv-a-perfect-blend-of-style-performance-and-weather-resistance-our-in-depth-review/"><u>Unveiling the Sealoc's Sleek & Resilient 55-Inch 4K Outdoor TV: A Perfect Blend of Style, Performance & Weather Resistance - Our In-Depth Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wrapping-the-world-in-one-frame-not-two-sides/"><u>Wrapping the World in One Frame, Not Two Sides</u></a></li>
+</ul></div>
+

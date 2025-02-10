@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Technological Devices for Savvy Travellers in 2E24
-date: 2025-01-26T18:01:58.620Z
-updated: 2025-01-29T22:46:29.732Z
+date: 2025-02-05T03:06:59.406Z
+updated: 2025-02-10T01:38:58.251Z
 tags:
   - buying-guides
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Before heading out on that month-long vacation or quick business trip, don't forget to gear up. From noise-canceling headphones and Bluetooth trackers to plug adapters and travel routers, these devices are the best tech travel companions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  UPDATE: 07/17/2024
 
  We've reviewed our recommendations and are confident these are still the best gadgets for traveling to pick up.
@@ -31,7 +35,7 @@ Best eReader
 #####  EPICKA Universal Travel Adapter  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best International Plug Adapter  
@@ -39,10 +43,6 @@ Best International Plug Adapter
 * [](https://www.amazon.com/dp/B09XS7JWHH?tag=htgprimedaysite-20)  
 ![sony xm5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/sony-xm5.png)  
 #####  Sony WH-1000XM5  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Noise-Cancelling Headphones  
 [$298 at Amazon](https://www.amazon.com/dp/B09XS7JWHH?tag=htgprimedaysite-20)
@@ -64,6 +64,10 @@ Best Bluetooth Tracker
 ![instax mini 90](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/instax-mini-90.png)  
 #####  Fujifilm Instax Mini Neo Classic 90  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Instant Film Camera  
 [$210 at Amazon](https://www.amazon.com/Fujifilm-Instax-Mini-Neo-Classic/dp/B00FR85IRK?tag=htgprimedaysite-20)
 * [](https://www.amazon.com/Nintendo-Switch-Neon-Blue-Joy%E2%80%91/dp/B07VGRJDFY?tag=htgprimedaysite-20)  
@@ -75,6 +79,10 @@ Best Portable Gaming System
 * [](https://www.amazon.com/Apple-2022-10-9-inch-iPad-Wi-Fi/dp/B0BJLCWFNM?tag=htgprimedaysite-20)  
 ![ipad 10th gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ipad-10th-gen.png)  
 #####  Apple iPad (10th-generation)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Tablet  
 [$320 at Amazon](https://www.amazon.com/Apple-2022-10-9-inch-iPad-Wi-Fi/dp/B0BJLCWFNM?tag=htgprimedaysite-20)
@@ -207,6 +215,10 @@ A great gadget to pack in your international luggage, this travel adapter is sma
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Noise-Cancelling Headphones
 
 #####  Sony WH-1000XM5
@@ -216,10 +228,6 @@ $298 $400 Save $102
 With the WH-1000XM5, Sony has shown once again why it is the current king of noise-canceling wireless headphones. These headphones are better than ever with gestures, improved noise cancellation, and better battery life.
 
 [See at crutchfield](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.crutchfield.com%2FI-rNARc1ECQ%2Fp%255F158100XM5S%2FSony-WH-1000XM5-Silver.html) [$298 at Amazon](https://www.amazon.com/dp/B09XS7JWHH?tag=htgprimedaysite-20) [See at Best Buy](https://howl.me/cmGJTVFqUIU) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Portable Charger: [Anker PowerCore Slim 1000](https://www.amazon.com/Anker-Ultra-Compact-High-Speed-VoltageBoost-Technology/dp/B07QXV6N1B?tag=htgprimedaysite-20) 
 
@@ -244,10 +252,6 @@ With the WH-1000XM5, Sony has shown once again why it is the current king of noi
 
 ![anker portable charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/anker-portable-charger.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Portable Charger
@@ -259,10 +263,6 @@ $20 $22 Save $2
 This charger has a 10,000mAh capacity, PowerIQ/VoltageBoost for optimized charging, and an ultra-slim profile.
 
 [$20 at Amazon](https://www.amazon.com/Anker-Ultra-Compact-High-Speed-VoltageBoost-Technology/dp/B07QXV6N1B?tag=htgprimedaysite-20) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Bluetooth Tracker: [Tile Mate](https://www.amazon.com/dp/B09B2XXBFR?tag=htgprimedaysite-20) 
 
@@ -300,6 +300,10 @@ A handy Bluetooth tracker with an easy-to-use accompanying app that will help yo
 
 [$48 at Amazon](https://www.amazon.com/dp/B09B2XXBFR?tag=htgprimedaysite-20) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Instant Film Camera: [Fujifilm Instax Mini 90 Neo Classic](https://www.amazon.com/Fujifilm-Instax-Mini-Neo-Classic/dp/B00FR85IRK?tag=htgprimedaysite-20) 
 
 [](https://www.amazon.com/Fujifilm-Instax-Mini-Neo-Classic/dp/B00FR85IRK)
@@ -307,7 +311,7 @@ A handy Bluetooth tracker with an easy-to-use accompanying app that will help yo
 [![Instax Mini 90 on yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/fujifilm-instax.jpg) Fujifilm](https://www.amazon.com/Fujifilm-Instax-Mini-Neo-Classic/dp/B00FR85IRK)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [](https://www.amazon.com/Fujifilm-Instax-Mini-Neo-Classic/dp/B00FR85IRK) 
@@ -326,6 +330,10 @@ A handy Bluetooth tracker with an easy-to-use accompanying app that will help yo
 
 ![instax mini 90](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/instax-mini-90.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Instant Film Camera
@@ -335,10 +343,6 @@ Best Instant Film Camera
 This mini instant film camera from Fujifilm is a top-tier option for capturing your trip.
 
 [$210 at Amazon](https://www.amazon.com/Fujifilm-Instax-Mini-Neo-Classic/dp/B00FR85IRK?tag=htgprimedaysite-20) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Handheld Gaming Machine: [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Neon-Blue-Joy%E2%80%91/dp/B07VGRJDFY?tag=htgprimedaysite-20) 
 
@@ -363,6 +367,10 @@ _Corbin Davenport / How-To Geek_
  If you're a PC gamer, you might also want to look into the [Steam Deck](https://store.steampowered.com/steamdeck/), to play your PC gaming library on the go.
 
 ![nintendo switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/nintendo-switch.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
@@ -434,15 +442,7 @@ The 10th-generation iPad from Apple gets a modern redesign with faster performan
 
 ![K480 keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/k480-keyboard.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Tablet Keyboard
 
@@ -451,6 +451,10 @@ Best Tablet Keyboard
 This keyboard is super comfortable to use, allows you to switch easily between three different Bluetooth devices, and has a built-in cradle for your tablet.
 
 [$36 at Amazon](https://www.amazon.com/Logitech-Bluetooth-Multi-Device-Keyboard-K480/dp/B00MUTWLW4?tag=htgprimedaysite-20) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Travel Router: [TP-Link AC750 Wireless Travel Router](https://www.amazon.com/TP-Link-Wireless-Travel-Router-TL-WR902AC/dp/B01N5RCZQH?tag=htgprimedaysite-20) 
 
@@ -478,10 +482,6 @@ This keyboard is super comfortable to use, allows you to switch easily between t
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best Travel Router
 
 #####  TP-Link AC750 Wireless Travel Router
@@ -507,18 +507,16 @@ TP-LINK's AC750 Travel Router is a solid option for connecting to consistently g
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-profit-potentials-in-producing-product-centric-youtube-clips/"><u>[Updated] 2024 Approved Profit Potentials in Producing Product-Centric YouTube Clips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-c65-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bust-the-glitch-correcting-gray-zone-warfare-game-crashes-in-windows/"><u>Bust the Glitch: Correcting Gray Zone Warfare Game Crashes in Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-dell-g5-5090-analysis-an-affordable-powerhouse-for-gamers-with-endless-customization/"><u>Comprehensive Dell G5 5090 Analysis: An Affordable Powerhouse for Gamers with Endless Customization</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-a71-5g-an-affordable-alternative-that-stands-up-against-top-tier-phones/"><u>Comprehensive Guide to the Samsung Galaxy A71 5G - An Affordable Alternative That Stands Up Against Top-Tier Phones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/creating-on-a-grand-scale-unveiling-the-artistry-and-functionality-in-huions-kamvas-gt-191-pen-display-review/"><u>Creating on a Grand Scale: Unveiling The Artistry & Functionality in Huion's Kamvas GT-191 Pen Display Review.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-benefits-of-the-propella-7s-40-the-best-blend-of-lightness-and-affordability/"><u>Discovering the Benefits of the Propella 7S 4.0 - The Best Blend of Lightness & Affordability</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevating-care-delivery-through-effective-fb-ads/"><u>Elevating Care Delivery Through Effective FB Ads</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-thrilling-teamwork-in-dying-lights-first-person-co-op-adventure/"><u>Experience Thrilling Teamwork in Dying Light's First-Person Co-Op Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-top-home-theater-pcs-dominating-the-market-this-year/"><u>Expert Picks: The Top Home Theater PCs Dominating the Market This Year</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-a-non-functional-google-hangouts-mic-issue/"><u>Quick Solutions for a Non-Functional Google Hangouts Mic Issue</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/"><u>The Best AI Naming Assistants for Podcast Innovation for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728499830378-win10/"><u>Win10のユーザープロファイル回復ガイド - 失われたデータを救え！</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-essential-handbook-to-planning-zoom-sessions/"><u>[New] 2024 Approved The Essential Handbook to Planning Zoom Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>[New] From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>[Updated] 2024 Approved A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>2024 Approved PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/construct-and-create-your-dream-city-in-cities-skylines-a-comprehensive-reveal/"><u>Construct and Create Your Dream City in 'Cities: Skylines': A Comprehensive Reveal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-ultimategoog-a-critical-review-of-the-quintessential-mirror-site/"><u>Delving Into Ultimategoog - A Critical Review of The Quintessential Mirror Site</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-superiority-of-netgear-orbi-a-detailed-review-for-unmatched-wireless-performance/"><u>Discover the Superiority of Netgear Orbi - A Detailed Review for Unmatched Wireless Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-paradox-of-value-and-vision-in-the-microsoft-surface-go-unveiled/"><u>Navigating the Paradox of Value and Vision in the Microsoft Surface Go Unveiled</u></a></li>
 </ul></div>
 

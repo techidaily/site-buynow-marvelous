@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Performance: Detailed Review of the 185Wh / 50,000mAh MaxOak Portable Charger"
-date: 2024-08-09T00:44:06.136Z
-updated: 2024-08-10T00:44:06.136Z
+date: 2025-02-09T05:59:07.873Z
+updated: 2025-02-10T06:03:59.856Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Performance: Detailed Review of the 185Wh / 50,000mAh MaxOak Portable Charger"
@@ -37,12 +37,13 @@ Lifewire / Bill Thomas
 
 3.4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -68,9 +69,6 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
@@ -85,12 +83,13 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Setup: Nice and simple
 
@@ -102,6 +101,10 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -110,9 +113,6 @@ Lifewire / Bill Thomas
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -121,17 +121,18 @@ Lifewire / Bill Thomas
 
  Thankfully, this means that an attached router would be able to keep up, which is what we’d recommend. The wireless performance isn’t great and you’re going to have a much better experience with a separate router.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Software: No frills
 
  We prefer a network backend that’s straight to the point, and that’s exactly what we got with the Netgear C3700.
@@ -157,17 +158,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  C3700 Cable Modem Router
@@ -194,11 +193,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[New] 2024 Approved Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-fraps-for-gamers-a-screen-record-review/"><u>[New] In 2024, Fraps for Gamers A Screen Record Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-8-most-critical-blunders-to-elude-as-a-rookie-youtuber/"><u>[New] The 8 Most Critical Blunders to Elude as a Rookie YouTuber</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-eradicate-dark-playback-on-obs-for-2024/"><u>[Updated] Eradicate Dark Playback on OBS for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11-windows-7/"><u>保全数据，直接转换Windows 11的 Windows 7用户指南</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-timekeeping-a-comprehensive-evaluation-of-the-philips-hf3520-alarm-clock/"><u>Affordable Timekeeping: A Comprehensive Evaluation of the Philips HF3520 Alarm Clock</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ete-walkthrough-to-grab-youtube-playlists-for-2024/"><u>Complete Walkthrough to Grab YouTube Playlists for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-apple-books-application/"><u>Comprehensive Evaluation of the Apple Books Application</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-kooteks-excellent-portable-cpu-cooler-for-computers/"><u>Comprehensive Guide to Kootek's Excellent Portable CPU Cooler for Computers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/customizing-your-pc-experience-how-to-switch-browsers-in-the-control-panel-with-yl-software-advice/"><u>Customizing Your PC Experience: How to Switch Browsers in the Control Panel with YL Software Advice</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dash-and-dot-programmable-robot-a-comprehensive-guide/"><u>Dash and Dot Programmable Robot: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-efficiency-with-the-dell-xps-13-convertible-laptop-review/"><u>Experience Unmatched Efficiency with the Dell XPS 13 Convertible Laptop Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-love-in-motion-youtube-and-vimeos-top-9-premium-marriage-films/"><u>In 2024, Love in Motion YouTube & Vimeo's Top 9 Premium Marriage Films</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-rugged-asus-chromebook-c202sa-ideal-choice-for-students-and-kids/"><u>In-Depth Review of the Rugged ASUS Chromebook C202SA: Ideal Choice for Students and Kids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/seaside-and-aquatic-bliss-gadget-essentials-list/"><u>Seaside and Aquatic Bliss: Gadget Essentials List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-and-utilizing-the-nvidia-chat-with-rtx-ai-on-pc/"><u>Step-by-Step Guide: Integrating and Utilizing the Nvidia Chat with RTX AI on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tips-selecting-pre-owned-electronic-devices/"><u>Top Tips: Selecting Pre-Owned Electronic Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transformative-design-robust-m1-powerhouse-a-detailed-review-of-apples-new-imac-experience/"><u>Transformative Design, Robust M1 Powerhouse: A Detailed Review of Apple's New iMac Experience</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-list-of-100-must-have-plex-media-enhancements-and-plugin-boosters/"><u>Ultimate List of 100 Must-Have Plex Media Enhancements and Plugin Boosters</u></a></li>
+</ul></div>
+

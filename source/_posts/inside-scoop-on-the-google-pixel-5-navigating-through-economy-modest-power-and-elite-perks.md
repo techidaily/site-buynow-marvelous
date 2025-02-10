@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop on the Google Pixel 5: Navigating Through Economy Modest Power and Elite Perks"
-date: 2024-08-09T00:44:06.469Z
-updated: 2024-08-10T00:44:06.469Z
+date: 2025-02-07T19:13:42.254Z
+updated: 2025-02-10T04:46:39.612Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop on the Google Pixel 5: Navigating Through Economy Modest Power and Elite Perks"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -40,15 +37,13 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -71,6 +66,10 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -79,12 +78,17 @@ Lifewire / Erika Rawes
 
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup: Easier than most**
 
@@ -94,9 +98,6 @@ Lifewire / Erika Rawes
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -107,9 +108,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -122,10 +120,11 @@ Lifewire / Erika Rawes
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -155,14 +154,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,3 +166,25 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-showcase-of-top-movie-teasers/"><u>[New] In 2024, Showcase of Top Movie Teasers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ideo-platform-profiles-vimeo-vs-youtube-comparison/"><u>[New] Video Platform Profiles Vimeo vs YouTube Comparison</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-first-time-filmmaker-guide-setting-up-logitech-cam/"><u>[Updated] First-Time Filmmaker Guide Setting up Logitech Cam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-revolutionize-patient-engagement-with-ad-insights/"><u>[Updated] Revolutionize Patient Engagement with Ad Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-hurdles-comprehensive-solution-to-steelseries-arctis-es-mic-issues/"><u>Bypassing the Hurdles - Comprehensive Solution to SteelSeries Arctis E's Mic Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-acer-chromebook-r-11-analysis-sleek-design-meets-portability/"><u>Comprehensive Acer Chromebook R 11 Analysis: Sleek Design Meets Portability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-reading-with-kobo-ebooks-on-your-ipad/"><u>Dive Into Reading with Kobo eBooks on Your iPad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-perfect-bargain-black-friday-deals-on-your-next-roku-device/"><u>Hunt for the Perfect Bargain: Black Friday Deals on Your Next Roku Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-meizu-21-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Meizu 21 Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-notebook-assessment-an-efficient-device-with-impressive-design/"><u>Lenovo Ideapad Notebook Assessment: An Efficient Device with Impressive Design</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-with-confidence-the-revolutionary-features-of-twelve-south-compass-pro-for-optimal-steadiness-in-any-terrain/"><u>Navigating with Confidence: The Revolutionary Features of Twelve South Compass Pro for Optimal Steadiness in Any Terrain</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pruveeo-f5-superior-clarity-dash-camera-review-at-unbeatable-prices/"><u>Pruveeo F5 Superior Clarity Dash Camera Review at Unbeatable Prices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-device-opens-on-audacity-in-windows-os/"><u>Remedying Device Opens on Audacity in Windows OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/stanleys-j5c09-reviewed-big-capacity-efficient-performance/"><u>Stanley's J5C09 Reviewed: Big Capacity, Efficient Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-home-theater-pcs-for-an-immersive-media-journey/"><u>The Ultimate Selection of Home Theater Pcs for an Immersive Media Journey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/these-lesions-can-be-detected-by-imaging-techniques-like-bone-scans-ct-or-mri-appearing-dark-due-to-decreased-radioactive-uptakecuate-environment-that-suppo106/"><u>These Lesions Can Be Detected by Imaging Techniques Like Bone Scans, CT, or MRI, Appearing Dark Due to Decreased Radioactive uptake.cuate Environment that Supports Tumor Growth Alongside Normal Bone Remodeling.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile/"><u>Updated In 2024, Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile</u></a></li>
+</ul></div>
+

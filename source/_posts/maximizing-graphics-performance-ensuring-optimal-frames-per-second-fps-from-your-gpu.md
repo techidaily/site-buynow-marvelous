@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Graphics Performance: Ensuring Optimal Frames Per Second (FPS) From Your GPU"
-date: 2025-01-26T16:36:56.053Z
-updated: 2025-01-29T19:32:50.590Z
+date: 2025-02-02T19:14:55.834Z
+updated: 2025-02-10T09:57:24.100Z
 tags:
   - games
   - tv
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
  There's nothing worse than the sinking feeling of disappointment you get after purchasing a shiny new graphics card when you realize that it doesn't work correctly. Before you lose your cool and return it, follow these troubleshooting tips to make sure the card was installed correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Video Cable
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 Ismar Hrnjicevic / How-To Geek
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check the Power Cables
 
  This and the following step require you to touch your computer's internal power cables. Make sure that your computer is off so that you don't get hurt, and be aware that [static electricity can damage your computer parts](https://youtube-blog.techidaily.com/is-filmora-certified-creative-program-and-how-to-become-an-fcc-in-2024/) if incorrectly handled.
@@ -56,7 +52,7 @@ Ismar Hrnjicevic / How-To Geek
 ![A graphics card inside a computer iwth a missing 6-pin power supply cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_17h16_49.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
@@ -70,10 +66,6 @@ Ismar Hrnjicevic / How-To Geek
  To reseat the graphics card, first turn off your computer and disconnect all video cables from the back. Next, shut off the power supply switch and remove the side panel on your case. Remove the screws on the left that hold the graphics card in place, and disconnect any power supply cables plugged into the card. Gently pull on the PCIe retention clip until you feel the graphics card "unlock."
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -93,25 +85,33 @@ Jason Fitzpatrick / How-To Geek
 
  If it's within the [graphics card's specs sheet](https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/), overheating probably isn't the issue. But if it _is_ overheating, it can cause the graphics card to slow down and consequently drop frames. To fix it, you should first check the [fans to see whether they're spinning](https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-xiaomi-by-fonelab-android-recover-contacts/). If they are, try boosting the fan to see if anything changes. If it's an older graphics card, you might have to tear the graphics card apart to change the thermal paste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Graphics Card BIOS
 
  If you bought a used graphics card, there's always a small chance that the BIOS has been tampered with. For instance, miners typically use a modified BIOS to increase cryptocurrency yields. Custom firmware isn't necessarily bad, but it can change how your graphics card works.
 
 ![MSI GeForce RTX 4070 Ti SUPER displayed next to other GPUs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/msi-geforce-rtx-4070-ti-super-displayed-next-to-other-gpus.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  You can check what BIOS your graphics card has through AMD or NVIDIA software, but it might not tell you the full version. For instance, AMD doesn't show the last few numbers that identify your exact graphics card model. Instead, download and install [GPU-Z](https://www.techpowerup.com/gpuz/). It'll tell you the BIOS version under the "Graphics Card" tab, which you can check against [TechPowerUp's repository](https://www.techpowerup.com/) by selecting your graphics card model. If it's a match, that's great, but if not, you'll have to download and [flash the stock BIOS](https://appuals.com/how-to-flash-the-bios-on-an-amd-gpu/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try Running a Different Game
 
  Certain PC games can be poorly optimized or just won't play ball with your particular graphics card. When that happens, your graphics card can't run the game at its full potential. If you're the type of person who only plays one or two games, you should be sure to test the graphics card in a few other games too.
 
  So, open up your dusty Steam library and download a few recent triple-A titles. If your graphics card has great FPS in those titles, it's the original game that's at fault and not your graphics card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Play Around With Windows Settings
 
@@ -140,18 +140,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-step-1-to-50-building-a-foundation-for-mukbang-creation/"><u>[New] 2024 Approved Step 1 to 50 Building a Foundation for Mukbang Creation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlined-approaches-to-documenting-whatsapp-discussions/"><u>[New] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-divergence-in-channels-identities-and-names/"><u>[New] Mastering the Art of Divergence in Channels' Identities and Names</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transforming-channel-visibility-into-subscriber-stardom-on-youtube/"><u>[New] Transforming Channel Visibility Into Subscriber Stardom on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leading-ladies-of-livestreams-top-10-female-youtubers-unveiled/"><u>[Updated] 2024 Approved Leading Ladies of Livestreams Top 10 Female YouTubers Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-auditory-data-extraction-and-analysis-for-2024/"><u>[Updated] Auditory Data Extraction & Analysis for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/galaxys-most-entertaining-urban-project-mars-city-construction-sparks-cosmic-twisters/"><u>Galaxy's Most Entertaining Urban Project: Mars City Construction Sparks Cosmic Twisters!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-mobile-spectrum-elite-list-of-signal-boosters-dominating-2024/"><u>Navigate the Mobile Spectrum: Elite List of Signal Boosters Dominating 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-tablet-buying-decisions-with-these-8-critical-points/"><u>Navigating Tablet Buying Decisions with These 8 Critical Points</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/node-local-and-link-local-multicasts-cannot-leave-their-immediate-network-or-link-respectively/"><u>Node-Local and Link-Local Multicasts Cannot Leave Their Immediate Network or Link, Respectively.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-elite-selection-of-uninterruptible-power-supplies-for-optimal-reliability/"><u>The Elite Selection of Uninterruptible Power Supplies for Optimal Reliability</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-motorola-edge-40-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Motorola Edge 40</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecoding-youtubes-top-mp3-conversion-apps-for-2024/"><u>[New] Decoding YouTube's Top MP3 Conversion Apps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-effortlessly-arrange-your-iphones-memories-into-ordered-albums-for-icloud/"><u>[Updated] 2024 Approved Effortlessly Arrange Your iPhone's Memories Into Ordered Albums for iCloud</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-strategies-for-ppt-on-google-meet-laptopiosandroid/"><u>[Updated] 2024 Approved Essential Strategies for PPT on Google Meet Laptop/iOS/Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star/"><u>[Updated] A Child’s Fortune The Wealthy World of YouTube’s Youngest Star</u></a></li>
+<li><a href="https://techtrends.techidaily.com/binkw32dll-missing-heres-how-you-can-quickly-resolve-this-common-error/"><u>Binkw32.dll Missing? Here's How You Can Quickly Resolve This Common Error.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-c22-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia C22 Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/start-your-glow-journey-with-studio-agg814-kit/"><u>Start Your Glow Journey with Studio AGG814 Kit</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-the-newly-reviewed-super-portable-samsung-galaxy-chromebook-2/"><u>The Definitive Guide to the Newly Reviewed, Super-Portable Samsung Galaxy Chromebook 2</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-flexispot-theodore-examined-a-stylish-modern-choice-for-your-professional-space/"><u>The Flexispot Theodore Examined: A Stylish, Modern Choice for Your Professional Space</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-syma-x5c-rc-quadcopter-unveiled-ideal-for-budget-conscious-hovercraft-enthusiasts/"><u>The SYMA X5C R/C Quadcopter Unveiled - Ideal for Budget Conscious Hovercraft Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-top-value-hd-petcam-a-petcube-showcase/"><u>The Top Value HD Petcam: A Petcube Showcase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-comparison-how-vive-cosmos-stacks-up-against-its-formidable-rivalry-in-vr-tech/"><u>The Ultimate Comparison: How Vive Cosmos Stacks Up Against Its Formidable Rivalry in VR Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-power-of-zoom-in-kinemaster-editing/"><u>Unveiling the Power of Zoom in Kinemaster Editing</u></a></li>
 </ul></div>
 

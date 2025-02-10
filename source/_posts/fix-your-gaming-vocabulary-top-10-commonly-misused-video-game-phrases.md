@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gaming Vocabulary: Top 10 Commonly Misused Video Game Phrases"
-date: 2025-01-22T22:00:44.574Z
-updated: 2025-01-30T01:02:35.041Z
+date: 2025-02-07T12:48:45.256Z
+updated: 2025-02-09T19:39:57.452Z
 tags:
   - games
   - tv
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  There's a lot of jargon and a lot of passion in the video game hobby. That's a recipe for miscommunication, and I've been seeing a lot of that as the industry becomes larger and more popular. In particular, some people use these ten terms in odd and often incorrect ways.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Walking Simulator
 
  The term "walking simulator" is a derogatory term gamers came up with for titles like _What Remains of Edith Finch, Gone Home,_ and _Firewatch._ Since these titles are not actually games, but linear interactive stories, people who are interested in actual gameplay were understandably not impressed. Of course, there's nothing wrong with an interactive story, and not everything you experience with a controller in your hands has to be a true game, but nonetheless, the term "walking simulator" applies to these non-game, interactive digital experiences.
 
 ![Death Stranding's Capital Knot City.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/death_stranding.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Death Stranding_  
 Tim Brookes / How-To Geek
@@ -50,7 +50,7 @@ Tim Brookes / How-To Geek
 ![Flying over Westminster in Microsoft Flight Simulator 2020](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/flight_sim.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Microsoft Flight Simulator 2020_  
@@ -64,16 +64,12 @@ Tim Brookes / How-To Geek
 
 ![Fallout 2 from Black Isle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fallout_2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Interplay/Bethesda Softworks
 
  The silliest use I've seen myself is in reference to _Baldur's Gate 3,_which is a true 3D game, with a movable camera that can be moved from a top-down perspective all the way down to an over-the-shoulder view. So it's not isometric in any sense of the word. To be even more pedantic, many "isometric" games from the classic gaming era weren't isometric either. The first _Fallout_ game, for example, was trimetric.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  RPG
@@ -82,13 +78,17 @@ Interplay/Bethesda Softworks
 
 ![Screenshot from Bethesda RPG Starfield on Xbox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/starfield.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Starfield_  
 Tim Brookes / How-To Geek
 
  In recent years, more and more games outside the RPG genre have adopted elements of these games into their own designs. However, just like bolting wings to your car does not make it a plane, adding XP and item stats to an action adventure game does not make it a true RPG.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pay-To-Win
@@ -122,15 +122,15 @@ Arrowhead Game Studios
 
 ![A screenshot of a ceiling with light reflections from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204826.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
 
 [Ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) is a graphics rendering technique that simulates how light in the real world interacts with objects. It's the closest we've come to truly photorealistic graphics, but plenty of people can't tell when something is an example of ray tracing or not. There's a misconception that any reflections in a game that look realistic means the game has ray tracing, but that's simply not true. To muddy things even more, ray tracing can be applied selectively to global lights like the sun, to local light, to reflections, and to shadows. For example, many games with ray tracing on current-generation consoles have ray-traced shadows, but not reflections. Yet many players think the reflections are ray-traced. Here's a tip: ray-traced reflections usually reflect objects that are not currently visible on-screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Indie Games
 
@@ -155,16 +155,22 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-a1x-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo A1x 5G without App | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-rax80-experience-lightning-fast-wi-fi-6-connectivity/"><u>Comprehensive Analysis of the Netgear Nighthawk RAX80: Experience Lightning-Fast Wi-Fi 6 Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-choose-a-motherboard-7-factors-to-consider/"><u>How to Choose a Motherboard: 7 Factors to Consider</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-m14-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy M14 4G online without jailbreak</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-youtube-presence-with-expert-idevice-screen-techniques/"><u>In 2024, Elevate Your YouTube Presence with Expert iDevice Screen Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-galaxys-f-150-rc-behemoth-a-comprehensive-tricked-out-truck-review/"><u>In-Depth Analysis: Galaxy's F-150 RC Behemoth - A Comprehensive Tricked-Out Truck Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/redefining-the-sony-s3700-video-experience-for-2024/"><u>Redefining the Sony S3700 Video Experience for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-this-prime-day-with-amazing-discounts-on-tribit-audio-gear/"><u>Save Big This Prime Day with Amazing Discounts on Tribit Audio Gear!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-w11w10-with-effective-synapse-fixes/"><u>Streamlining W11/W10 with Effective Synapse Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-high-quality-body-cams-for-law-enforcement-2024-edition/"><u>The Ultimate Selection of High-Quality Body Cams for Law Enforcement, 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-broadcast-brilliance-how-to-prevent-live-video-halts-on-facebook-for-2024/"><u>[New] Broadcast Brilliance How to Prevent Live Video Halts on Facebook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-master-the-art-of-installing-vrecorder/"><u>[Updated] In 2024, Master the Art of Installing VRecorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovative-auditory-transitions-with-logic-pro-x-for-2024/"><u>[Updated] Innovative Auditory Transitions with Logic Pro X for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-airwaves-gratis-applications-to-revolutionize-your-vocal-artistry/"><u>[Updated] Master the Airwaves Gratis Applications to Revolutionize Your Vocal Artistry</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-simple-sync-obs-plus-zoom-journey-for-2024/"><u>[Updated] Unveiling Simple Sync OBS + Zoom Journey for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-cycwagens-cutting-edge-cargo-electric-bike-hands-on-trial-report/"><u>A Closer Look at CycWagen's Cutting Edge Cargo Electric Bike: Hands-On Trial Report</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-symphony-of-luxury-with-beoplay-h8i/"><u>A Symphony of Luxury with Beoplay H8i</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-flight-fun-with-holy-stone-hs170-predator-mini-quadcopter-ultimate-reviews-and-insights/"><u>Affordable Flight Fun with Holy Stone HS1,70 Predator Mini Quadcopter – Ultimate Reviews & Insights!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-vivobook-11-evaluation-compact-budget-friendly-versatile-notebook/"><u>Asus Vivobook 11 Evaluation: Compact, Budget-Friendly, Versatile Notebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blade-blh4100-rc-helicopter-unveiled-a-complete-guide-to-flying-your-new-toys-outdoors/"><u>Blade BLH4100 RC Helicopter Unveiled: A Complete Guide to Flying Your New Toys Outdoors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/capture-your-travels-with-canons-powershot-g9x2/"><u>Capture Your Travels with Canon's PowerShot G9X2</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effective-strategies-for-copying-drives-with-multiple-partitions/"><u>Effective Strategies for Copying Drives with Multiple Partitions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reflect-and-paraphrase-restate-what-youve-heard-in-your-own-words-to-ensure-comprehension-and-ask-clarifying-questions-if-needed/"><u>In 2024, Reflect and Paraphrase Restate What You've Heard in Your Own Words to Ensure Comprehension, and Ask Clarifying Questions if Needed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-narzo-n55-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme Narzo N55? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Xiaomi Redmi Note 12 4G.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/v770-a-cheap-luxury-discovery/"><u>V770 - A Cheap Luxury Discovery</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/viair-88p-compact-air-compressor-evaluation-strong-performance-with-minor-flaws/"><u>Viair 88P Compact Air Compressor Evaluation: Strong Performance with Minor Flaws</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10"
-date: 2025-01-25T21:48:17.315Z
-updated: 2025-01-29T19:06:47.583Z
+date: 2025-02-06T11:09:32.415Z
+updated: 2025-02-09T16:12:19.381Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ## Wireless Connectivity: Setting Up Your PS5 DualSense Controller with Windows 10
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 * [Pairing Your PS5 Controller to a Windows 10 PC](https://instagram-video-files.techidaily.com/updated-tricks-to-improve-instagram-video-load-speeds-mobile/)
 * [Pairing and Configuring a PS5 Controller for Steam](https://buynow-info.techidaily.com/navigating-photoscapes-features-a-detailed-analysis-of-free-high-quality-image-editing-software/)
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
@@ -57,11 +57,19 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click on "Manage Sound Devices".
 
@@ -71,14 +79,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers/"><u>[New] 2024 Approved PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>[New] In 2024, Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[Updated] 2024 Approved The Screen Recording Faceoff Bandicam Versus Camtasia'enas</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-cutting-edge-design-practices-for-career-advancement/"><u>[Updated] In 2024, Cutting-Edge Design Practices for Career Advancement</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-5-superior-ps2-android-gaming-simulators-reviewed-for-2024/"><u>[Updated] The 5 Superior PS2 Android Gaming Simulators Reviewed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>2024 Approved How to Make the Most Out of Spotify's Advertising Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amplify-your-wifi-game-with-netgears-advanced-nighthawk-x6s-extender/"><u>Amplify Your WiFi Game with Netgear's Advanced Nighthawk X6S Extender</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/efficient-wearable-tech-the-ultimate-gadget-to-monitor-possessions/"><u>Efficient Wearable Tech - The Ultimate Gadget to Monitor Possessions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-budget-lenovo-tab-4s-strengths-and-weaknesses-on-android/"><u>Exploring the Budget Lenovo Tab 4'S Strengths & Weaknesses on Android</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-lenovo-p11-pro-exceptional-tablet-minor-issues-noted/"><u>In-Depth Look at the Lenovo P11 Pro: Exceptional Tablet, Minor Issues Noted</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lg-k51-smartphone-analysis-stunning-design-marred-by-lagging-cpu/"><u>LG K51 Smartphone Analysis: Stunning Design Marred by Lagging CPU</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-tech-dollars-with-the-acer-aspire-e-15-a-comprehensive-review/"><u>Maximizing Your Tech Dollars with the Acer Aspire E 15 - A Comprehensive Review</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-superior-10-audio-enhancement-solutions-your-guide-to-richer-mobile-sound/"><u>New 2024 Approved Superior 10 Audio Enhancement Solutions Your Guide to Richer Mobile Sound</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-video-blur-effects-apps-for-mobile-devices/"><u>New Top Video Blur Effects Apps for Mobile Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/theta-sc2-360-degree-adventures-in-minimalism/"><u>Theta SC2: 360-Degree Adventures in Minimalism</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-links-re305-a-detailed-assessment-of-the-ac1200-wireless-repeater-and-its-performance/"><u>TP-Link's RE305: A Detailed Assessment of the AC1200 Wireless Repeater and Its Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-drive-comprehensive-review-of-the-smart-learning-escort-ix-radar-system/"><u>Transform Your Drive: Comprehensive Review of the Smart-Learning Escort iX Radar System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unbelievable-bargain-alert-iphone-problem-how-many-ways-can-you-arrange-n-distinct-objects-in-groups-of-r-with-no-two-groups-being-alike-this-is-known-as-th198/"><u>Unbelievable Bargain Alert! IPhone # Problem: How Many Ways Can You Arrange N Distinct Objects in Groups of R, with No Two Groups Being Alike? (This Is Known as the Number of Combinations.)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-flipping-fun-facts-into-memes-with-kinemaster-for-2024/"><u>[New] Flipping Fun Facts Into Memes with KineMaster for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-asmr-can-boost-your-health-and-happiness-for-2024/"><u>[Updated] How ASMR Can Boost Your Health & Happiness for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-the-power-of-personal-branding-insider-secrets-for-flawless-biographies/"><u>[Updated] In 2024, Unlock the Power of Personal Branding Insider Secrets for Flawless Biographies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-assistance-premier-tone-designers-for-iphones/"><u>[Updated] Optimal Assistance Premier Tone Designers for iPhones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>2024 Approved 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-elite-circle-of-online-av-masters/"><u>2024 Approved The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost-for-2024/"><u>Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-6-finest-free-alternatives-to-photoshop-in-our-list/"><u>Explore the 6 Finest Free Alternatives to Photoshop in Our List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-12-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 12 Pro Max Smoothly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-k92-analysis-is-5g-capability-enough-for-a-higher-rating/"><u>LG K92 Analysis: Is 5G Capability Enough for a Higher Rating?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-9-quick-remedies-for-social-media-video-for-2024/"><u>Master 9 Quick Remedies for Social Media Video for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-mobile-power-needs-with-the-innovative-ampace-andes-1500/"><u>Maximize Your Mobile Power Needs with the Innovative Ampace Andes 1500</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-analysis-unveiling-a-costly-device-marred-by-glitches/"><u>Microsoft Surface Duo Analysis: Unveiling a Costly Device Marred by Glitches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-review-falls-short-of-flagship-excellence/"><u>Motorola Edge+ Review: Falls Short of Flagship Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/"><u>Navigating the Pre-Owned iPad Market: A Buyer's Top Five Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-nickwatch-comes-to-us-during-kids-choice-awards/"><u>New NickWatch Comes to US During Kids' Choice Awards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pocket-friendly-pleasures-with-oneplus-buds/"><u>Pocket-Friendly Pleasures with OnePlus Buds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/post-weld-treatments-are-often-necessary-to-enhance-mechanical-properties/"><u>Post-Weld Treatments Are Often Necessary to Enhance Mechanical Properties.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-digital-experience-with-the-cutting-edge-dell-display-immersive-noise-blocking-headset-and-top-tier-webcam-technology/"><u>Revolutionize Your Digital Experience with the Cutting-Edge Dell Display, Immersive Noise Blocking Headset & Top-Tier Webcam Technology</u></a></li>
 </ul></div>
 
