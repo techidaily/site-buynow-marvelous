@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Successful: Transforming Broken MacBook Into a High-Performance Plex Server"
-date: 2025-01-22T17:30:18.375Z
-updated: 2025-01-29T20:11:33.246Z
+date: 2025-02-15T05:24:15.857Z
+updated: 2025-02-20T03:34:47.224Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 ## Unexpectedly Successful: Transforming Broken MacBook Into a High-Performance Plex Server
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Plex is a great way to make your personal media library available to all devices on your local network, but for a laptop user like me it's hard to have a Plex server that's always plugged in. Until I ended up with a MacBook that's just broken enough for the job.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Mac Too Expensive to Fix, but Too Valuable to Throw Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Without the top row of "keys" and that annoying, eye-searing flashing, the MacBook Pro is effectively unusable as a laptop, and not worth the money to fix. Otherwise, it's in perfect condition and still a cracking little computer. So I decided I'd hook it up permanently, and turn it into (among other things) our Plex server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Up Plex and Drives Was Easy
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  I have a dual-port USB-C dock connected to the Mac, which is in turn connected to a Dell monitor with a built-in USB hub, and that's what my media drive is connected to. One way or another, I recommend a powered USB hub rather than running the drives from the MacBook's internal power, since even one big drive might put too much strain on the little guy as a permanently-connected media drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Zero Performance Issues
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  The M1 has four performance cores and four efficiency cores, and this model has 8GB of RAM and a 512GB SSD. I tried watching multiple 4K streams on different devices, and it went off without a hitch. So far I haven't found a way to make the little MacBook choke, so I can only imagine that any Apple Silicon Mac would be simply great at this job. Like an M1 Mac Mini that you pick up used for a bargain, perhaps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s My New Desktop Mac Too!
@@ -80,20 +80,22 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-dodging-derailed-video-playback-at-your-photo-booth/"><u>[New] Dodging Derailed Video Playback at Your Photo Booth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-windows-11-photo-and-video-import-magic/"><u>2024 Approved Mastering Windows 11 Photo & Video Import Magic</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-lensdirects-prescription-eyeglasses-effectively-neutralizing-blue-light/"><u>Comprehensive Review of LensDirect's Prescription Eyeglasses: Effectively Neutralizing Blue Light</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-vyncs-analytics-platform-an-evaluation-of-its-solid-core-with-intricate-subscription-tiers/"><u>Decoding VyNCs Analytics Platform – An Evaluation of Its Solid Core with Intricate Subscription Tiers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-pro-keyboard-woes-heres-how-to-bring-it-back-to-life/"><u>MacBook Pro Keyboard Woes? Here’s How to Bring It Back to Life</u></a></li>
-<li><a href="https://extra-information.techidaily.com/preserving-your-periscope-content-a-detailed-process/"><u>Preserving Your Periscope Content A Detailed Process</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/surprising-twists-unveiled-in-a-comprehhemount-review-of-yokus-island-express-games/"><u>Surprising Twists Unveiled in a Comprehhemount Review of Yoku’s Island Express Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tamiltunes-handbook-downloading-and-trimming-melodies-for-calls-for-2024/"><u>TamilTunes Handbook Downloading & Trimming Melodies for Calls for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-enhanced-canon-eos-t7-camera-in-focus/"><u>The Enhanced Canon EOS T7 Camera in Focus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-sunrise-alarm-for-optimal-rest-reviews-of-heimvisions-advanced-series-a80s-model/"><u>The Ultimate Guide to Choosing a Sunrise Alarm for Optimal Rest: Reviews of HeimVision's Advanced Series A80S Model</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-gaming-displays-why-asus-vg245h-rules-them-all/"><u>The Ultimate Guide to Gaming Displays: Why Asus VG245H Rules Them All</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-list-best-cellphone-deals-for-elders/"><u>The Ultimate List: Best Cellphone Deals for Elders</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-guide-how-to-fix-issues-with-tiktok-crashing-or-being-blocked/"><u>Troubleshooting Guide: How to Fix Issues with TikTok Crashing or Being Blocked</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-two-fold-approach-to-capturing-google-hangoutsmeet/"><u>[New] In 2024, The Two-Fold Approach to Capturing Google Hangouts/Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-optimal-plot-generation-portal-for-2024/"><u>[New] Optimal Plot Generation Portal for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimizing-video-income-on-youtube-a-practical-guide/"><u>[New] Optimizing Video Income on Youtube A Practical Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-gym-music-lineup/"><u>2024'S Ultimate Gym Music Lineup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-breakdown-of-the-microsoft-sculpt-ergonomic-keyboards-unbeatable-price-to-performance-ratio/"><u>A Breakdown of the Microsoft Sculpt Ergonomic Keyboard's Unbeatable Price-to-Performance Ratio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/achieving-gaming-excellence-with-the-xbox-one-elite-series-2-the-pinnacle-of-gamepad-performance-reviewed/"><u>Achieving Gaming Excellence with the Xbox One Elite Series 2 - The Pinnacle of Gamepad Performance Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-photoshop-strategies-for-flawless-print-production/"><u>Advanced Photoshop Strategies for Flawless Print Production</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-fitness-tracking-in-depth-look-at-the-fitbit-versa-lite/"><u>Affordable Fitness Tracking: In-Depth Look at the Fitbit Versa Lite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-intuitive-performance-the-in-depth-review-of-z-edges-z3-plus-dashcam/"><u>Affordable, Intuitive Performance: The In-Depth Review of Z-Edge's Z3 Plus Dashcam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-reno-11f-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo Reno 11F 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-adding-beats-to-your-instagram-media-a-step-by-step-guide/"><u>In 2024, Adding Beats to Your Instagram Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-optimizing-your-livestream-youtube-twitch-with-obs/"><u>In 2024, Optimizing Your Livestream YouTube, Twitch with OBS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unlock-your-creativity-top-3d-animation-software-free-and-paid/"><u>New In 2024, Unlock Your Creativity Top 3D Animation Software Free and Paid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-level-windows-photos-shortcut-guide/"><u>Pro-Level Windows Photos Shortcut Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-impact-of-curved-ultrawide-screens-on-my-gaming-world/"><u>The Impact of Curved Ultrawide Screens on My Gaming World</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-an-in-depth-review-of-the-performance-driven-dell-xps-nt-13-foldable-notebook/"><u>Unveiling the Pros and Cons: An In-Depth Review of the Performance-Driven Dell XPS N't 13 Foldable Notebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-strong-battery-feature-in-moto-g-power-a-tech-review-insight/"><u>Unveiling the Strong Battery Feature in Moto G Power: A Tech Review Insight</u></a></li>
 </ul></div>
 

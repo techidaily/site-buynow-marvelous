@@ -1,7 +1,7 @@
 ---
 title: The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package
-date: 2025-02-07T05:39:21.510Z
-updated: 2025-02-10T13:53:16.641Z
+date: 2025-02-12T20:30:57.742Z
+updated: 2025-02-20T04:10:54.456Z
 tags:
   - games
   - tv
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Back in 2018, Retro Games Ltd. released THEC64 Mini, a plug-and-play console and computer modeled on one of the best-selling computers of all time, the Commodore 64\. That was followed in 2019 by a full-sized THEC64 and THEVIC20, complete with working keyboards, as well as THEA500 Mini in 2022, which miniaturized the popular Commodore Amiga 500\. Now, nostalgic Atari 8-bit computer fans get to join in on the fun with [THE400 Mini](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority).
 
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  THE400 Mini
 
@@ -77,6 +81,10 @@ THE400 Mini and THECXSTICK in front of a television.
 
 ![Showing Package Contents of cables and accessories of THE400 Mini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-package-contents.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
 Everything that comes in the THE400 Mini box.
@@ -84,10 +92,6 @@ Everything that comes in the THE400 Mini box.
  With so many different case designs to choose from and good arguments for each, mimicking the look of the Atari 400 in mini form is somewhat controversial. With that said, the 400 was meant as the entry-level model versus the more professional 800, complete with an initial 8K of memory and an infamous membrane keyboard, targeted more to games and light computing than its more expensive sibling.
 
 ![THE400 Mini sitting on top of an original Atari 800 computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-sitting-on-top-of-an-original-atari-800-computer.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -99,19 +103,23 @@ THE400 Mini on top of an original Atari 800 computer.
 
 ![THE400 Mini - Rear](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-rear.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
 The rear of THE400 Mini.
 
  On the rear of THE400 Mini is a USB-A port, HDMI port, USB-C port, and power button. On the front are four additional USB-A ports. The five USB-A ports support additional controllers, memory sticks, and keyboards. Most games only support one or two players, but one of the games, "M.U.L.E.," supports up to four players at once.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Interface and Software: Retro, but Modern** 
 
 ![THE400 Mini Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-joystick.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -129,17 +137,9 @@ Close
 
  THE400 Mini supports FAT32-formatted USB sticks, although I did have to try a few different brands to find one that was properly recognized. When inserting a compatible blank USB stick, a version of the [BASIC programming language](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20BASIC) is installed. Similarly, THE400 Mini didn't like my wireless Logitech K400r keyboard but had no issues with a wired [Razer BlackWidow V3 Pro](https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B08FQPLCNC/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority). Not every key on a modern keyboard maps correctly to the Atari 8-bit keyboard layout, but using the legend on the Mini can provide some clues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Games and Gameplay: Past Blasts** 
 
 ![THE400 Mini Front with USB-A ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-front.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -169,6 +169,10 @@ Close
 
  Finally, if you don't like the included THECXSTICK or just want more than one controller and don't want to use another THECXSTICK, THEJOYSTICK, or THEGAMEPAD, modern Microsoft Xbox, Sony PlayStation, and Nintendo Switch controllers can be used. For instance, I was able to use an [8BitDo USB Wireless Adapter 2](https://www.amazon.com/8Bitdo-Wireless-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) with an Xbox One controller for a nice wireless option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Should You Buy the Atari THE400 Mini?** 
 
  Retro Games Ltd. knows what they're doing when it comes to designing mass-market nostalgia plays. [THE400 Mini](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) from Atari does a great job of making a past platform accessible to those interested in exploring what one of the most popular computer gaming platforms of all time was all about. It gives a great taste of what some of the best 1970s and 1980s gaming was like and shows how deep Atari's back catalog of systems really is.
@@ -176,10 +180,6 @@ Close
  Of course, a product like THE400 Mini is not for everyone. The 25 games included are proven titles that, despite generally looking and sounding good for their time, are not anywhere near modern standards. Control and playability are also from a bygone era, requiring some patience at times, particularly for the less action-oriented titles. And trying to do more than just play the included games can be something of a hassle. Nevertheless, for those willing to invest some time beyond just the built-in games, THE400 Mini at $120 gives a good taste of what gaming and computing were like way back when.
 
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  THE400 Mini
 
@@ -206,24 +206,19 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-youtubes-functionality-following-uploaded-videos-for-2024/"><u>[New] Exploring YouTube’s Functionality Following Uploaded Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-15-youtube-openers-that-boost-viewership-and-engagement/"><u>[New] Top 15 YouTube Openers That Boost Viewership and Engagement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-maximize-impact-with-proficient-facebook-live-recording/"><u>[Updated] 2024 Approved Maximize Impact with Proficient Facebook Live Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elitescreensnap-for-windows-xxp/"><u>[Updated] EliteScreenSnap for Windows X/XP</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-omni-directional-vision-and-its-distinctive-features/"><u>[Updated] Omni-Directional Vision and Its Distinctive Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/budding-builders-simple-stylish-mc-habitats-for-2024/"><u>Budding Builders Simple, Stylish MC Habitats for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/te-your-videos-with-these-proven-seo-tools-for-more-clicks-for-2024/"><u>Elevate Your Videos with These Proven SEO Tools for More Clicks for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-order-and-use-the-photo-stars-repair-software-for-windows-systems/"><u>How to Order and Use the Photo Stars Repair Software for Windows Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-essential-tutorial-on-using-snapchat-spotlight/"><u>In 2024, The Essential Tutorial on Using Snapchat Spotlight</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/master-your-hashtags-the-path-to-6-figure-youtube-success/"><u>Master Your Hashtags The Path to 6-Figure Youtube Success</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rise-to-power-with-expert-insights-on-offworld-trading-company-navigating-a-harsh-marketplace/"><u>Rise to Power with Expert Insights on Offworld Trading Company: Navigating a Harsh Marketplace</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-active-2-analysis-enhanced-connection-and-smart-management-features/"><u>Samsung Galaxy Watch Active 2 Analysis: Enhanced Connection & Smart Management Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-intriguing-power-struggle-within-tropico-a-comprehensive-game-review/"><u>The Intriguing Power Struggle Within Tropico: A Comprehensive Game Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-rotibox-beanie-hat-review-seamless-bluetooth-connectivity-meets-plush-coziness/"><u>The Rotibox Beanie Hat Review: Seamless Bluetooth Connectivity Meets Plush Coziness</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-samsung-galaxy-a20-unveiled-comprehensive-guide-to-a-value-packed-android-device/"><u>The Samsung Galaxy A20 Unveiled: Comprehensive Guide to a Value-Packed Android Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-assessment-of-price-performance-and-value-the-mohu-leaf-30-reviewed/"><u>The Ultimate Assessment of Price, Performance & Value: The Mohu Leaf 30 Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-byb-e430-led-lamppost-review-is-it-worth-your-investment/"><u>The Ultimate BYB E430 LED Lamppost Review - Is It Worth Your Investment?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-kobo-forma-guide-how-this-e-reader-revolutionizes-book-lovers-habits/"><u>The Ultimate Kobo Forma Guide: How This E-Reader Revolutionizes Book Lovers' Habits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-philips-somneo-alarm-clock-review-insights/"><u>Top Rated Philips Somneo Alarm Clock Review Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>[New] 2024 Approved Gameplay Revolution Elevating Ram Usage for Minecraft</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ios-screen-recording-a-no-nonsense-approach/"><u>[New] In 2024, IOS Screen Recording A No-Nonsense Approach</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-essential-tactics-for-youtube-advertising-with-banners/"><u>[Updated] 2024 Approved Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-crashing-issues-discover-easy-fixes-and-tips-for-stable-gameplay-update/"><u>Dead By Daylight Crashing Issues? Discover Easy Fixes and Tips for Stable Gameplay Update</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-lineup-best-in-class-smart-optics-of-2024/"><u>Exclusive Lineup: Best-in-Class Smart Optics of 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-exclusive-audio-refinement-with-klipschs-flexus-200-soundbar/"><u>Experience Exclusive Audio Refinement with Klipsch's Flexus 200 Soundbar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-capabilities-of-netgear-orbi-range-extender-rbs52-for-ultimate-yard-connectivity/"><u>Exploring the Capabilities of Netgear Orbi Range Extender (RBS52) for Ultimate Yard Connectivity</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/getting-familiar-with-apples-cutting-edge-device-the-iphone-15-pro-a-comprehensive-guide/"><u>Getting Familiar with Apple's Cutting Edge Device - The iPhone 15 Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/godfall-on-ps5-from-exclusive-game-to-boring-experience/"><u>Godfall on PS5: From Exclusive Game to Boring Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-how-the-motorola-edgeplus-struggles-with-flagship-quality/"><u>In-Depth Analysis: How the Motorola Edge+ Struggles with Flagship Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors-for-2024/"><u>Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-open-macbook-display-despite-closing-the-lid-a-comprehensive-guide/"><u>Maintain Open MacBook Display Despite Closing the Lid - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-integrity-4-premier-tools-that-educators-and-leaders-need-to-detect-ai-generated-texts/"><u>Mastering Integrity: 4 Premier Tools That Educators & Leaders Need to Detect AI-Generated Texts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-malfunctioning-usb-input-devices-in-windows-7-systems/"><u>Solving the Dilemma of Malfunctioning USB Input Devices in Windows 7 Systems</u></a></li>
 </ul></div>
 

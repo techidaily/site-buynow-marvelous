@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
-date: 2025-02-08T13:23:30.242Z
-updated: 2025-02-10T07:18:16.374Z
+date: 2025-02-13T16:38:14.941Z
+updated: 2025-02-19T21:56:04.490Z
 categories:
   - BestProducts
 description: "This Article Describes Uncovering the Truth About Mobvoi TicWatch E2: A Low Price Doesn't Mean Quality"
@@ -13,17 +13,9 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -48,6 +40,10 @@ Lifewire / Emily Isaacs
 [View On Amazon $78](https://www.amazon.com/Fellowes-Microban-Split-Design-Keyboard/dp/B0002CE0XO?tag=lifewire-onsite-prod-20&ascsubtag=4780294%7Cn668ce44e90054ecb91b1dbd3aca2275805%7CB0002CE0XO) [View On Walmart $78](https://www.walmart.com/ip/Fellowes-FEL98915-Split-Design-Ergonomic-Keyboard-with-Microban-1-Black/10363789) [View On Staples](https://www.staples.com/Fellowes-98915-Microban-Split-Design-Corded-Keyboard/product%5F806284)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fellowes Microban Split Design Keyboard
 
@@ -74,6 +70,10 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
@@ -90,10 +90,6 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
@@ -101,10 +97,14 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Features: Multimedia hotkeys for ease of use**
 
@@ -117,7 +117,7 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
@@ -175,18 +175,15 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-best-asmr-youtube-channels-for-2024/"><u>[Updated] The Best ASMR YouTube Channels for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos/"><u>Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortlessly-access-all-files-a-tutorial-for-activating-and-using-the-stealthy-finders-panel/"><u>Effortlessly Access All Files: A Tutorial for Activating and Using the Stealthy Finders Panel</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-13-assessment-in-depth-performance-analysis/"><u>IPhone 13 Assessment: In-Depth Performance Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-mac-computer-mice-to-look-out-for/"><u>Leading Mac Computer Mice to Look Out For</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-portable-battery-solutions-for-on-the-go-professionals-2024-reviews/"><u>Leading Portable Battery Solutions for On-the-Go Professionals: 2024 Reviews</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-yoga-a940-review/"><u>Lenovo Yoga A940 Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mobvoi-ticwatch-pro-3-with-gps-tracking-a-comprehensive-reveiw-on-long-lasting-dual-screens/"><u>Mobvoi TicWatch Pro 3 with GPS Tracking - A Comprehensive Reveiw on Long-Lasting Dual Screens</u></a></li>
-<li><a href="https://extra-information.techidaily.com/online-method-for-altering-video-proportions/"><u>Online Method for Altering Video Proportions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quintessential-5-filters-for-depth-video/"><u>Quintessential 5 Filters for Depth Video</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamlined-strategy-to-create-your-custom-youtube-queue-for-2024/"><u>Streamlined Strategy to Create Your Custom YouTube Queue for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-choices-elite-webcam-holders-for-2024/"><u>Superior Choices Elite Webcam Holders for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>2024 Approved Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-explanation-of-gpt-3-shared-link-utilization/"><u>A Comprehensible Explanation of GPT-3 Shared Link Utilization</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-ipv6-address-consists-of-128-bits-typically-represented-as-eight-groups-of-four-hexadecimal-digits/"><u>An IPv6 Address Consists of 128 Bits, Typically Represented as Eight Groups of Four Hexadecimal Digits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-vip-racing-edition-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 VIP Racing Edition Bootloader Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-13-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi 13 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-powerhouse-asus-rt-ac88u-for-gamers-networks/"><u>In-Depth Review of the Powerhouse Asus RT-AC88U for Gamers' Networks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/petsafe-healthy-pet-automatic-feeder-review/"><u>PetSafe Healthy Pet Automatic Feeder Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-stop-dota-2-from-crashing/"><u>Step-by-Step Solution to Stop Dota 2 From Crashing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-portable-and-reliable-wi-fi-solution-discover-the-ourlink-u631-dongle/"><u>Ultra Portable & Reliable Wi-Fi Solution - Discover the Ourlink U631 Dongle</u></a></li>
+<li><a href="https://facebook.techidaily.com/wearable-tech-update-facebooks-watch-might-double-up-on-cams/"><u>Wearable Tech Update: Facebook's Watch Might Double Up on Cams</u></a></li>
 </ul></div>
 

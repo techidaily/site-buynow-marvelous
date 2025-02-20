@@ -1,7 +1,7 @@
 ---
 title: "Beyond Gaming: 10 Mind-Blowing Alternatives Where DOOM Thrives"
-date: 2025-01-27T19:05:14.890Z
-updated: 2025-01-29T18:04:26.503Z
+date: 2025-02-18T04:57:39.901Z
+updated: 2025-02-20T10:32:59.843Z
 tags:
   - games
   - tv
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Many of us have fond memories of playing _DOOM_. For some of us, it was our first game ever. With the rise of porting _DOOM_ to things, it's amazing what sort of hardware you can find that runs the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  A Pregnancy Test 
 
  At least one person has thought: "You know what would be cool? Playing _DOOM_ on a pregnancy test!" By replacing the original chip with a small microcontroller and rewriting the display driver, a developer [managed to play DOOM on this tiny screen](https://www.popularmechanics.com/science/a33957256/this-programmer-figured-out-how-to-play-doom-on-a-pregnancy-test/). The primary limitations are the minuscule display size and a lack of traditional controls, making it more a feat of ingenuity than a practical gaming experience.
 
  The process involved significant hardware modifications, including soldering a microcontroller onto the test's PCB and creating a simplified version of _DOOM_. The screen's size and monochrome display severely limit the gameplay experience, turning it into a pixelated and slow-moving version of the game. Congratulations, it's a space marine!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  An ATM 
 
@@ -40,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Hacking an ATM to run _DOOM_ requires bypassing its security systems and [installing custom firmware](https://hardware-updates.techidaily.com/intel-chips-propel-modelfarms-unreal-engine-success-cutting-down-failure-rates-transition-to-amd-ryzen-for-faster-single-threaded-performance/) capable of supporting the game. This hack highlights potential vulnerabilities in ATM software, though in this case, it's more of a demonstration of technical prowess than a security threat. Imagine having to actually slip your card into the machine to open a door. Wild!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  Smartwatch 
 
  Smartwatches are pretty amazing little devices, but can they run _DOOM_? Of course they can! Porting the game to a smartwatch [involves significant modification](https://www.kitguru.net/lifestyle/mobile/android/matthew-wilson/you-can-play-doom-and-minecraft-on-a-smartwatch/) to adapt the game’s code for the watch’s operating system. Despite the tiny screen and cumbersome controls, playing _DOOM_ on your wrist showcases the game's adaptability.
 
  Arguably the biggest challenge to engineers working on this port this was making the code fit into the small pool of available storage space. It's a good test of how much efficiency an engineer can wring out of the code.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  Digital Camera 
 
@@ -57,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  Rewriting the firmware of a digital camera is complex, often involving reverse engineering and custom code. Developers [typically use external tools to load the game](https://www.pcgamesn.com/doom/camera) onto the camera, leveraging its small screen for display.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Thermostat 
@@ -66,15 +74,15 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  This hack involves installing custom firmware on the thermostat. Developers often use lightweight versions of _DOOM_ for this purpose. While they're still better than the tiny devices of yesteryear, they still don't have a ton of processing power to dedicate to a game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Printer 
 
  No, we're not talking about printing out individual frames (which one can possibly do). We're talking about running _DOOM_ on the printer's tiny display. By hacking the printer’s firmware, developers have managed to use small, often monochrome, displays to run _DOOM_. The playability is extremely limited, but it serves as a [unique proof of concept](https://www.wired.com/2014/09/doom-printer/).
 
  Hacking a printer to run DOOM involves using security bypasses and utilizing its control panel for gameplay. It's cool to see it running, but the gameplay experience leaves a lot to be desired.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7  E. coli Cells 
 
@@ -88,19 +96,11 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Porting _DOOM_ to a graphing calculator requires detailed knowledge of the device’s hardware and software. Even so, there are [handy guides that teach people](https://swedesintech.se/content/how-to-install-and-play-doom-on-your-ti-84-plus) how to turn their TI-83+ into a _DOOM_ machine. The result is a playable, if rudimentary, version of _DOOM_ that brings a bit of fun to the classroom.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9  McDonald's Cash Register 
 
  Playing games at work is usually forbidden so installing _DOOM_ on a cash register probably counts as a fireable offense. This hack exploits the register’s hardware to run custom software. It's probably not going to fly in a retail outlet, but it's better than serving customers.
 
  Hacking a McDonald's cash register to run _DOOM_ involves accessing its operating system and installing the game’s software. McDonald's registers run a [custom operating system called PC POS](https://www.baselinemag.com/news/McDonalds-Wants-It-Their-Way/). This often requires bypassing security measures and adapting the game’s controls to the register’s interface.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10  Flipper Zero 
 
@@ -125,14 +125,24 @@ _DOOM_ is a cultural phenomenon. Since its inception in 1993, it's remained a cu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-explore-top-10-iphoneandroid-intro-creation-software/"><u>[Updated] 2024 Approved Explore Top 10 iPhone/Android Intro Creation Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/56k65a6f44gr44oh44o844k5q6l44gv44ga5yplusk44ge44or44k944kz44oz44gu44kv44oq44ki5pa55rov/"><u>確実にデータ残さず古いパソコンのクリア方法</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-your-script-crisis-essential-solutions-for-windows-errors/"><u>Clear Your Script Crisis: Essential Solutions for Windows Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/die-besten-programme-zum-bearbeiten-von-gopro-videos-eine-umfassende-liste-fur-profis-und-enthusiasten/"><u>Die Besten Programme Zum Bearbeiten Von GoPro Videos: Eine Umfassende Liste Für Profis Und Enthusiasten</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-how-netgear-orbi-rbs70w-unit-transforms-your-backyard-wi-fi-experience/"><u>In-Depth Evaluation: How Netgear Orbi RBS70W Unit Transforms Your Backyard Wi-Fi Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-19-review-an-eye-catching-sports-experience-enhanced-by-hidden-rpg-aspects/"><u>MLB The Show 19 Review: An Eye Catching Sports Experience Enhanced by Hidden RPG Aspects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-visionary-studio-guide-detailed-xreviewers-digest-for-2024/"><u>The Visionary Studio Guide Detailed XReviewer's Digest for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-amazon-fire-hd-the-ultimate-all-in-one-media-device-for-families/"><u>Unveiling the Amazon Fire HD 지오: The Ultimate All-in-One Media Device for Families</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-tropico-6-a-paradise-under-siege/"><u>Unveiling the Truth About Tropico 6: A Paradise Under Siege</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-embedding-echoes-adding-audio-to-your-powerpoint-slides/"><u>[New] 2024 Approved Embedding Echoes Adding Audio to Your PowerPoint Slides</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-autonomous-exposure-control-the-magic-behind-auto-and-smart-hdr-for-2024/"><u>[New] Autonomous Exposure Control The Magic Behind Auto and Smart HDR for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-soundscape-windows-10-audio-tips/"><u>[New] Elevate Your Soundscape Windows 10 Audio Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unveiling-top-asmr-for-iphone-users/"><u>[Updated] 2024 Approved Unveiling Top ASMR for iPhone Users</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-unveiling-the-causes-behind-startup-error-messages-on-your-pc-insights-by-yl-computing-and-software-solutions/"><u>1. Unveiling the Causes Behind Startup Error Messages on Your PC - Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/methods-for-integrating-multiple-ebooks-in-epub-format/"><u>Methods for Integrating Multiple eBooks in EPUB Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-romer-solar-powered-flashlights-the-ultimate-guide/"><u>Top Romer Solar-Powered Flashlights - The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-gateway-devices/"><u>Top-Rated Wireless Gateway Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-bibliophiles-habit-with-the-best-ai-book-suggestion-tools/"><u>Transforming Bibliophiles' Habit with the Best AI Book Suggestion Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-your-next-tablet-why-the-apple-ipad-pro-2018-leads-the-pack/"><u>Ultimate Guide to Choosing Your Next Tablet: Why the Apple iPad Pro 2018 Leads the Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-first-impressions-of-the-advanced-apple-iphone-n15-pro-an-interactive-guide/"><u>Unboxing & First Impressions of the Advanced Apple iPhone N15 Pro: An Interactive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-exploring-the-features-a-comprehensive-review-of-the-samsung-qn55q60rafxza-4k-tv-with-hdr10plus-technology/"><u>Unboxing and Exploring the Features: A Comprehensive Review of the Samsung QN55Q60RAFXZA 4K TV with HDR10+ Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-your-digital-library-with-an-audible-membership/"><u>Unlocking Your Digital Library with an Audible Membership</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-benefits-microsoft-sculpt-keyboards-ultimate-comfort-and-quality/"><u>Unpacking the Benefits: Microsoft Sculpt Keyboard's Ultimate Comfort & Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-capabilities-a-detailed-look-at-the-netgear-nighthawk-x4-wireless-mesh-extender-functionality-and-efficiency/"><u>Unpacking the Capabilities: A Detailed Look at the Netgear Nighthawk X4 Wireless Mesh Extender Functionality and Efficiency</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-topmate-c302-an-economical-and-efficient-laptop-cooler-assessment/"><u>Unveiling the TopMate C302 - An Economical and Efficient Laptop Cooler Assessment</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yl-software-insights-mastering-image-sequence-customization-in-windows-photo-viewer/"><u>YL Software Insights: Mastering Image Sequence Customization in Windows Photo Viewer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Duo Assessment: An Overpriced Device with Glitches and Poor Usability"
-date: 2024-08-09T00:44:10.810Z
-updated: 2024-08-10T00:44:10.810Z
+date: 2025-02-18T12:56:50.663Z
+updated: 2025-02-19T18:14:56.187Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft Surface Duo Assessment: An Overpriced Device with Glitches and Poor Usability"
@@ -40,8 +40,9 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 [Jump to Review](https://www.lifewire.com/#toc-easiest-on-the-budget-garmin-vivoactive-5)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Just Buy This (All Around Best)
 
 [Apple Watch Series 9 GPS + Cellular 45mm](https://www.amazon.com/Apple-Cellular-Smartwatch-Midnight-Aluminum/dp/B0CHXFH656?tag=lifewire-onsite-prod-20&ascsubtag=8681634%7Cn8ba5509124b34540838774b103ec3bdb16%7CB0CHXFH656)
@@ -89,9 +90,6 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 * **Who else recommends it?** Digital Trends, TechRadar, CNET, ZDNet, and PCMag all recommend the Apple Watch Series 9.
 * **What do buyers think?** The Apple Watch Series 9 has over 2,400 ratings on Amazon, with 83% of those giving the watch five stars for an average rating of 4.7 out of 5.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Android Smartwatch
 
 [Samsung Galaxy Watch 6](https://www.amazon.com/SAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced/dp/B0C792QRW6/?tag=lifewire-onsite-prod-20&ascsubtag=8681634%7Cn8ba5509124b34540838774b103ec3bdb16%7CB0C792QRW6)
@@ -105,8 +103,9 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 **TL;DR:** Sleek and stylish, the Samsung Galaxy Watch 6 has some great features provided you’re an Android phone owner. Its body composition tool is a particular highlight.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why We Recommend This
 
  The Samsung Galaxy Watch 6 looks and feels lovely to use. Its circular watch face feels more natural than the angular edges of the Apple Watch. The AMOLED screen lights up nicely but in a warm and inviting way rather than harsh.
@@ -136,6 +135,10 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 
 * **Who else recommends it?** TechRadar, BuzzFeed, PCMag, T3, Tom’s Guide, and Digital Trends all recommend the Samsung Galaxy Watch 6\.
 * **What do buyers think?** The Samsung Galaxy Watch 6 has over 3,900 ratings on Amazon, with 88% of those rating the watch either five or four stars. The overall average rating is 4.5 out of 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easiest on the Budget
 
@@ -182,8 +185,9 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 * **What do buyers think?** The Garmin Vivoactive 5 has over 1,800 ratings on Amazon, with 76% of them rating it five or four stars. Its average rating is 4.4 out of 5.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How We Test
 
  I reviewed each smartwatch based on the following factors:
@@ -199,8 +203,9 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
  I used all the devices for several weeks, with some smartwatches used for months. I wore them daily while working, exercising, relaxing, and asleep.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Look For
 
  Buying a smartwatch involves finding the right balance between looks and practicality. Consider where you plan on wearing it, such as in the office or when walking, and plan accordingly.
@@ -213,10 +218,6 @@ The best smartwatches balance beauty and practicality, so you can proudly wear t
 
 [The Best Fitness Trackers of 2024](https://www.lifewire.com/best-fitness-trackers-8656291)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Other Smartwatches We Reviewed
 
  The[Google Pixel Watch 2](https://www.amazon.com/Google-Pixel-Watch-Best-Fitbit/dp/B0CCQ7DNQL?tag=lifewire-onsite-prod-20&ascsubtag=8681634%7Cn8ba5509124b34540838774b103ec3bdb16%7C) is potentially the most beautiful smartwatch, so it can’t cope with a rugged lifestyle. It is a bit limited at times and pricey, which means it isn’t the best around, but it’s certainly eye-catching.
@@ -243,11 +244,31 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-replacement-for-magixs-acid-pro/"><u>[New] Finding the Best Replacement for Magix's ACID Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-characters-animation-basics-in-wmm/"><u>[Updated] 2024 Approved Crafting Characters Animation Basics in WMM</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-swagtron-swagger-the-epitome-of-elegant-rapid-commuting-devices/"><u>Comprehensive Review: Swagtron Swagger – The Epitome of Elegant, Rapid Commuting Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-propella-7s-40-compact-design-at-a-great-price/"><u>Exploring the Features of Propella 7S 4.0: Compact Design at a Great Price</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 6s Plus?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jumpstart-gpt-capabilities-best-9-plugin-guide-revealed/"><u>Jumpstart GPT Capabilities – Best 9 Plugin Guide Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-efficiency-a-comprehensive-look-at-apples-new-ipad-os-and-its-impact-on-usability/"><u>Mastering Efficiency: A Comprehensive Look at Apple's New iPad OS and Its Impact on Usability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-audio-experience-why-audible-memberships-triumph/"><u>Maximizing Audio Experience: Why Audible Memberships Triumph</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/offres-speciales-sur-movavi-video-editor-pro-plus-achat-en-toute-securite-avec-rabais-exclusifs/"><u>Offres Spéciales Sur Movavi Video Editor Pro + : Achat en Toute Sécurité Avec Rabais Exclusifs !</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/should-i-invest-in-the-newest-features-from-apple-watch-upgrade/"><u>Should I Invest in the Newest Features From Apple Watch Upgrade?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sunbritetvs-55-outdoor-led-television-the-ultimate-4k-hdtv-for-durability-and-stunning-hdr-quality/"><u>SunBriteTV's 55 Outdoor LED Television - The Ultimate 4K HDTV for Durability & Stunning HDR Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-classy-rivalry-skagen-falster-2-vs-apples-mobile-monarchs-reviewed/"><u>The Classy Rivalry: Skagen Falster 2 Vs. Apple's Mobile Monarchs Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-ergonomic-keyboard-picks-for-2/"><u>Top-Rated Ergonomic Keyboard Picks for 2#</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-global-communication-late-is-just-a-number/"><u>Unlocking Global Communication: Late Is Just a Number</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-new-perspectives-streaming-aerial-content-on-facebook/"><u>Unveiling New Perspectives Streaming Aerial Content on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/whats-happening-with-alan-wake-2-expert-advice-on-getting-it-running-smoothly/"><u>What's Happening with Alan Wake 2? Expert Advice on Getting It Running Smoothly</u></a></li>
+</ul></div>
+

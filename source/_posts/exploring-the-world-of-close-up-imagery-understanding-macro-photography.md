@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Close-Up Imagery: Understanding Macro Photography"
-date: 2025-01-28T19:49:11.906Z
-updated: 2025-01-29T16:07:14.880Z
+date: 2025-02-17T08:10:59.706Z
+updated: 2025-02-20T13:19:40.557Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ## Exploring the World of Close-Up Imagery: Understanding Macro Photography
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Macro photography is kind of a big deal, but many people don't know what it is despite having the hardware to take macro photos. So let's clear up the big and small details of this fascinating photographic art.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Macro Photography Is About Getting Close and Personal
 
  Macro photography is all about extreme close-up photography of small subjects. If you want to get technical, then it's a form of photography where the aim is to get a 1:1 (life-size), 2:1 (double life-size), or 1:2 (half life-size) ratio of the subject's true size on the camera sensor (or film). Of course, this is just a rough rule of thumb, and generally all detailed, close-up photography of small subjects falls into the broad category of macro photography.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  So, if you see a finely-detailed image of a tiny subject, but it's still something you can see with the naked eye, then you're almost certainly looking at macro photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Macro Lenses, Macro Smartphone Cameras, and Macro Compact Camera Modes
@@ -65,15 +61,15 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
  Finally, though they are rare to see these days, many compact dedicated digital cameras also have a "macro mode", but the results from this mode have never been great, and really don't let you get nearly as close to the subject as a true macro lens does.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Macro Photography Lighting Can Be a Challenge
 
  With their extremely short focal distances, and very shallow depth of field, macro photos often suffer from a lack of good lighting. Lighting is paramount in any sort of photography (it literally means the capture of light after all), but perhaps never more than with macro shots. This is why many macro lenses, and macro cameras on some phones have a built-in LED ring to light up the subject.
 
  Some of the most specialized (and expensive!) macro lenses are called ["probe" lenses](https://www.amazon.com/Venus-Laowa-24mm-14-Probe/dp/B07JYHGNHQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002766&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-is-macro-photography%2F&asc%5Fcampaign=Evergreen), which can be inserted into tight spaces such as the inside of a log or into crevices. These lenses almost always have built-in lights for the same reason. When I take macro photos with my phone, I often use a supplementary light, such as the flashlight from someone else's phone, or even a dedicated ring light. For natural outdoor lighting, it's all about the angle and letting direct or bouncing from the sun illuminate the subject.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Best Subjects for Macro Photography
 
@@ -83,21 +79,25 @@ A superb macro lens with image stabilization that offers a nice balance between 
 
 ![Macro photo of mushroom on forest floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-mushroom-on-forest-floor.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  Likewise, up close, the carapace of this beetle seems like it's almost infused with gold.
 
 ![Macro photo of beetle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-beetle.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  I will never, ever get tired of shooting photos of these teeny-tiny jumping spiders.
 
 ![Macro photo of jumping spider on a leaf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/macro-photo-of-jumping-spider-on-a-leaf.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-to Geek
 
@@ -126,24 +126,20 @@ Sydney Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-chromatic-confluence-blending-colors-with-flair/"><u>[New] In 2024, Chromatic Confluence Blending Colors with Flair</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-insta-exiting-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Insta Exiting A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lightning-methods-ios-media-on-windows/"><u>2024 Approved Lightning Methods IOS Media on Windows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-transforming-your-youtube-channel-via-wirecast/"><u>2024 Approved The Ultimate Guide to Transforming Your Youtube Channel via WireCast</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/active-and-focused-with-the-cubefit-terramat-standing-exercise-mat-reviewed/"><u>Active and Focused with the CubeFit TerraMat Standing Exercise Mat Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dismantling-windows-11-security-features-with-rufus-mastery/"><u>Dismantling Windows 11 Security Features with Rufus Mastery</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-zero-5g-2023-turbo-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Zero 5G 2023 Turbo Without PUK Codes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-beyerdynamics-new-record-breaking-speaker-the-ultimate-audio-solution-for-the-modern-hybrid-professional/"><u>Introducing Beyerdynamics' New Record-Breaking Speaker: The Ultimate Audio Solution for the Modern Hybrid Professional</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/modern-upgrades-wrapped-in-a-classic-appeal-a-detailed-look-at-the-samsung-galaxy-watch3/"><u>Modern Upgrades Wrapped in a Classic Appeal: A Detailed Look at the Samsung Galaxy Watch3</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/motorola-one-5g-ace-showcase-unmatched-5g-speed-and-enduring-battery-life-reviewed/"><u>Motorola One 5G Ace Showcase: Unmatched 5G Speed and Enduring Battery Life Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-to-the-finest-sites-with-top-picks-for-movie-preview-viewing/"><u>Navigate to the Finest Sites with Top Picks for Movie Preview Viewing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-choices-in-modern-gaming-hardware-of/"><u>Navigating the Best Choices in Modern Gaming Hardware Of</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-webm-m4a-web-m3a-mp4/"><u>Online Webm-M4a 전환: 무료 도구를 사용한 쉽고 효율적인 WEB M3A MP4 변환</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-change-mp4-files-to-mts-on-your-pc/"><u>Step-by-Step Tutorial: Change MP4 Files to MTS on Your PC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-of-1byones-high-performance-digital-indoor-tv-antenna-stretching-budgets-further-than-ever/"><u>The Definitive Review of 1Byone's High-Performance Digital Indoor TV Antenna – Stretching Budgets Further Than Ever!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-gamers-dream-accessory-pack-evaluating-the-oculus-quest-2-elite-support-band-enhanced-battery-life-and-sleek-carrying-solution/"><u>The Gamer's Dream Accessory Pack – Evaluating the Oculus Quest 2 Elite Support Band, Enhanced Battery Life & Sleek Carrying Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-using-the-lenovo-tab-p11-pro-our-detailed-review/"><u>The Pros and Cons of Using the Lenovo Tab P11 Pro - Our Detailed Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-assessment-of-lensdirects-protective-eyewear-against-blue-light-with-tailored-prescription-options/"><u>The Ultimate Assessment of LensDirect’s Protective Eyewear Against Blue Light with Tailored Prescription Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-of-oneplus-8t-exceptional-speed-meets-disappointing-cameras/"><u>Unveiling the Pros and Cons of OnePlus 8T - Exceptional Speed Meets Disappointing Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/isual-branding-mastery-implementing-watermarks-and-logos-into-video-content/"><u>[New] Visual Branding Mastery Implementing Watermarks & Logos Into Video Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-instant-understanding-of-keying-concepts-for-2024/"><u>[Updated] Instant Understanding of Keying Concepts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>2024 Approved The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audio-war-comparing-apples-airpods-pro-and-samsungutas-pro/"><u>Audio War: Comparing Apple's AirPods Pro and Samsung'utas Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-fire-hd-10-family-friendly-tablet-overview/"><u>Comprehensive Amazon Fire HD 10 Family-Friendly Tablet Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-gaomon-pd1560-pen-tablet-assessment/"><u>Comprehensive Gaomon PD1560 Pen Tablet Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discreet-and-economical-an-in-depth-review-of-the-rexing-v1-dashcam/"><u>Discreet & Economical: An In-Depth Review of the Rexing V1 Dashcam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-mohu-blade-tv-antennas-distinctive-layout-and-effective-indoor-reception/"><u>Expert Analysis of the Mohu Blade TV Antenna's Distinctive Layout and Effective Indoor Reception</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-premium-huion-inspiroy-g10t-graphic-tablet-unmatched-quality-and-efficiency-for-creatives/"><u>Expert Review of the Premium Huion Inspiroy G10T Graphic Tablet: Unmatched Quality and Efficiency for Creatives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy F34 5G FRP?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/must-try-best-6-fb-lite-videos-for-download-for-2024/"><u>Must-Try Best 6 FB Lite Videos for Download for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimizing-privacy-settings-in-your-childs-facebook-messenger/"><u>Optimizing Privacy Settings in Your Child's Facebook Messenger</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-tecno-camon-20-premier-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Premier 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-to-claude-3-heres-why-it-beats-gpt-3/"><u>Switching to Claude 3? Here's Why It Beats GPT-3</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/understanding-snapchats-emojis-more-than-just-fun/"><u>Understanding Snapchat's Emojis More Than Just Fun</u></a></li>
 </ul></div>
 

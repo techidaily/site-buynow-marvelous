@@ -1,7 +1,7 @@
 ---
 title: Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly
-date: 2025-02-06T19:47:05.850Z
-updated: 2025-02-10T11:49:33.737Z
+date: 2025-02-19T08:37:20.431Z
+updated: 2025-02-20T10:48:38.436Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Games Aren't What They Used to Be
@@ -32,10 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  However, the quality of the free games [has seen a noticeable decline](https://tools.techidaily.com). Recent offerings have included less popular or niche titles, such as _Hell is Others_, _Adios_, and _Recipe for Disaster_"​ These games aren't necessarily terrible, but they don't have the same broad appeal as earlier offerings.
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
@@ -51,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8BitDo
 
  When I was young, I had fewer games available so I could dedicate more time to them. Fast-forward to today, and the Epic Games Store's free games are making a bad problem worse. I already have a [backlog of titles that I've bought and haven't picked up yet](https://bypass-frp.techidaily.com/in-2024-about-poco-m6-pro-4g-frp-bypass-by-drfone-android/). The additional pressure of collecting free games I might never play only serves to pad my library.
@@ -59,16 +59,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
@@ -91,12 +87,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
@@ -118,22 +118,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-20plus-cool-metaverse-memes-a-deep-dive-guide/"><u>[New] 20+ Cool Metaverse Memes A Deep Dive Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[New] 2024 Approved Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-tips-for-picking-leading-free-srt-translation-tools/"><u>[Updated] 2024 Approved Essential Tips for Picking Leading Free SRT Translation Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>[Updated] 2024 Approved Rise Above Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-zoom-expertise-in-a-flash/"><u>[Updated] From Zero to Zoom Expertise in a Flash</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/checkpoint-inhibitors-are-drugs-that-block-proteins-like-ctla-4-and-pd-1pd-l1-which-act-as-brakes-on-the-immune-system/"><u>Checkpoint Inhibitors Are Drugs that Block Proteins Like CTLA-4 and PD-1/PD-L1, Which Act as Brakes on the Immune System.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-spyro-reignited-trilogy-tiny-heros-huge-impact/"><u>In-Depth Analysis of Spyro Reignited Trilogy: Tiny Hero's Huge Impact</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-lensdirects-anti-blue-light-glasses-with-prescriptions/"><u>In-Depth Look at LensDirect’s Anti-Blue Light Glasses with Prescriptions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-elgoog-unraveling-secrets-behind-the-world-renowned-ultimate-looking-glass-website/"><u>Inside ElgooG: Unraveling Secrets Behind the World-Renowned Ultimate Looking Glass Website</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/instant-photography-essentials-under-100-2024-edition/"><u>Instant Photography Essentials - Under $100, 2024 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-mopher-powerstation-ac-a-convenient-choice-despite-its-high-cost/"><u>Is the Mopher Powerstation AC a Convenient Choice Despite Its High Cost?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-the-winegard-fl5500a-worth-it-an-in-depth-review-of-performance-and-price-tag/"><u>Is the Winegard FL5500A Worth It? An In-Depth Review of Performance and Price Tag</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/learning-on-the-go-a-thorough-review-of-asus-chromebook-c202sa-as-a-durable-study-buddy-for-kids-and-students/"><u>Learning on the Go: A Thorough Review of ASUS Chromebook C202SA as a Durable Study Buddy for Kids and Students</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovos-thinkpad-x1-titanium-yoga-evaluation-the-ultimate-laptop-for-traditionalists-turned-flexibles/"><u>Lenovo's ThinkPad X1 Titanium Yoga Evaluation - The Ultimate Laptop for Traditionalists Turned Flexibles</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-installation-of-amd-vega-graphics-card-drivers-gamers-guide/"><u>Quick and Easy Installation of AMD Vega Graphics Card Drivers: Gamer's Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices-for-2024/"><u>Tailored Techniques to Cut Off Unwanted YouTube Content on Devices for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-video-editing-apps/"><u>Updated 2024 Approved Unleash Your Creativity The Best Video Editing Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-spark-inspiration-free-soundtracks-to-enhance-projects/"><u>[New] In 2024, Spark Inspiration - Free Soundtracks to Enhance Projects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hort-form-success-strategic-hashtags-for-social-media-stardom-for-2024/"><u>[New] Short-Form Success Strategic Hashtags for Social Media Stardom for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-precision-and-panache-advanced-tiktok-editing-skills/"><u>[Updated] 2024 Approved Precision and Panache Advanced TikTok Editing Skills</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unleash-the-potential-of-pip-in-microsoft-edge-browser-for-2024/"><u>[Updated] Unleash the Potential of PIP in Microsoft Edge Browser for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-latest-methods-verifying-your-powershell-version-on-windows-11/"><u>Discover the Latest Methods: Verifying Your PowerShell Version on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-list-of-cell-boosters-to-upgrade-your-signal/"><u>Discover the Ultimate List of Cell Boosters to Upgrade Your Signal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/effective-tips-and-tricks-to-optimize-blog-income-with-buyselladscom/"><u>Effective Tips and Tricks to Optimize Blog Income with BuySellAds.com</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-connection-learn-how-to-pair-your-bose-soundlink-speakers-today/"><u>Effortless Connection: Learn How to Pair Your Bose Soundlink Speakers Today!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-elements-you-need-to-know-before-investing-in-a-new-print-device/"><u>Essential Elements You Need To Know Before Investing in A New Print Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-performance-of-the-modestly-priced-dell-inspiron-3671-desktop-pc/"><u>Evaluating the Performance of the Modestly Priced Dell Inspiron 3671 Desktop PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-propella-7s-40-an-economical-choice-for-a-quick-and-compact-device/"><u>Evaluating the Propella ^7S ^4.0 - An Economical Choice for a Quick and Compact Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unprecedented-wi-fi-speeds-an-expert-review-of-the-acclaimed-netgear-nighthawk-rax120/"><u>Experience Unprecedented Wi-Fi Speeds: An Expert Review of the Acclaimed Netgear Nighthawk RAX120</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-with-samsung-galaxy-budsplus-a-hands-on-analysis/"><u>Experience with Samsung Galaxy Buds+ - A Hands-On Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-curated-list-elite-usb-stick-choices/"><u>Expertly Curated List: Elite USB Stick Choices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-evolution-from-older-mac-to-catalnia/"><u>Navigating the Evolution From Older Mac to Catalnia</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-ubisoft-connect-speeds-for-faster-game-installation/"><u>Optimizing Ubisoft Connect Speeds for Faster Game Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-tips-using-command-prompt-within-windows-folders-efficiently/"><u>Quick Tips: Using Command Prompt Within Windows Folders Efficiently</u></a></li>
 </ul></div>
 

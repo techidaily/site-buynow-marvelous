@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Handheld Gamepad Controllers for On-the-Go Players
-date: 2025-02-04T10:12:08.933Z
-updated: 2025-02-10T07:05:12.556Z
+date: 2025-02-17T11:52:23.593Z
+updated: 2025-02-20T05:05:09.704Z
 tags:
   - buying-guides
 categories:
@@ -38,7 +38,7 @@ Best Mobile Gaming Controller for Android
 [$60 at Amazon](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Look for in a Mobile Gaming Controller
@@ -58,9 +58,17 @@ Best Mobile Gaming Controller for Android
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Mobile Gaming Controller Overall: [GameSir G8 Galileo](https://www.amazon.com/GameSir-G8-Galileo-Controller-Joysticks/dp/B0CM3C9HRG?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![GameSir G8 Galileo mobile controller being played by someone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/53377539428_9bf62b7e4a_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -79,10 +87,6 @@ Sergio Rodriguez / How-To Geek
 ![Coros Apex 2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/coros-apex-2-pro.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Mobile Gaming Controller Overall
 
@@ -142,10 +146,6 @@ Jason Montoya / How-To Geek
 
 ![Backbone One PlayStation Edition for Android showing Backbone app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/ocase.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mobile Gaming Controller for iPhone
@@ -156,16 +156,12 @@ Good-feeling buttons, large triggers, and rounded edges, the Backbone One is a c
 
 [$100 at Amazon](https://www.amazon.com/BACKBONE-Mobile-Gaming-Controller-Android-iOS/dp/B0CCT2LWT8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbackbone-one-usb-c-mobile-gaming-controller-for-iphone-15-series-and-android-2nd-generation-black%2F6558725.p%3FskuId%3D6558725) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best Mobile Gaming Controller for Android: [Razer Kishi V2](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) 
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -184,6 +180,10 @@ Bertel King / How-To Geek
 
 ![razer kishi v2 connected to android device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/razer-kishi-v2-connected-to-android-device.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Mobile Gaming Controller for Android
@@ -196,21 +196,17 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 [$60 at Amazon](https://www.amazon.com/dp/B0B16NGTCT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004345&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-controllers-for-mobile-gaming%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Razer-Kishi-V2-Mobile-Gaming-Controller-iPhone-Console-Quality-Controls-Universal-Fit-Stream-PC-Xbox-PlayStation-Games-Customizable-Triggers-Ergonomi/407553024) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What controllers work with my mobile device?
 
  For controllers, it's on a case-by-case basis. Some controllers, like the GameSir G8 Galileo, support both Android and iOS. Others, like the Razer Kishi V2, have separate models configured for both operating systems.
 
  What's important is that you read the fine print and double-check the controller supports your operating system and version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can I use a PS5 controller with my phone?
 
@@ -223,7 +219,7 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
  Alternatively, you can connect your PS5 controller via USB-C cable and directly connect to your phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can I use an Xbox Core controller with my phone?
@@ -235,6 +231,10 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 3. On your phone, select the Xbox Core controller from the Bluetooth menu and pair.
 
  As with the PS5 controller, you can go for a direct connection too, using a USB cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Will phone controllers also work with tablets?
 
@@ -255,20 +255,24 @@ The Razer Kishi V2 says goodbye to touchscreen controls by letting you map them 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-enhanced-virtual-storefronts-analysis-for-2024/"><u>[New] Enhanced Virtual Storefronts Analysis for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-changes-in-instagrams-algorithm-user-perspectives/"><u>[Updated] 2024 Approved Changes in Instagram's Algorithm User Perspectives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-proven-strategies-elevating-your-mobile-capture-game-with-mobizens-expertise-for-2024/"><u>[Updated] Proven Strategies Elevating Your Mobile Capture Game with Mobizen's Expertise for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-based-chatter-replicating-real-life-discussions/"><u>AI-Based Chatter: Replicating Real-Life Discussions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/an-insight-into-the-popular-app-instagram/"><u>An Insight Into the Popular App, Instagram</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fortnites-exciting-return-a-comprehensive-analysis-of-the-latest-season/"><u>Fortnite's Exciting Return: A Comprehensive Analysis of the Latest Season</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gps-vs-cellular-the-ultimate-guide-to-choosing-your-apple-watch/"><u>GPS Vs. Cellular – The Ultimate Guide To Choosing Your Apple Watch</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-6s-plus-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 6s Plus Display? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-profitability-the-dos-and-donts-of-youtube-monetization/"><u>In 2024, Maximize Profitability – The Do's and Don'ts of YouTube Monetization</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-acer-predator-triton-300se-the-compact-powerhouse-with-remarkable-bargain/"><u>In-Depth Analysis of Acer Predator Triton 300SE - The Compact Powerhouse with Remarkable Bargain</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-lenovo-ideapad-notebook-solid-construction-with-fundamental-functions/"><u>In-Depth Analysis of the Lenovo Ideapad Notebook: Solid Construction with Fundamental Functions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-appraisal-of-the-apple-homepod-mini-a-deep-dive-on-music-streaming-siri-interactions-and-extra-benefits/"><u>In-Depth Appraisal of the Apple HomePod Mini - A Deep Dive on Music Streaming, Siri Interactions & Extra Benefits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-hp-zbook-firefly-15-g8-evaluation-a-portable-powerhouse/"><u>In-Depth HP ZBook Firefly 15 G8 Evaluation: A Portable Powerhouse</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-the-art-of-productivity-convert-your-google-to-do-list-to-a-kanban-layout-with-tasksboard-featured-by-zdnet/"><u>Master the Art of Productivity: Convert Your Google To-Do List to a Kanban Layout with TasksBoard, Featured by ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-light-and-color-interplay-for-images/"><u>[New] Light & Color Interplay for Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-practices-leveraging-videos-to-boost-education/"><u>[Updated] 2024 Approved Best Practices Leveraging Videos to Boost Education</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mini-stories-decoded-whats-inside/"><u>2024 Approved Mini Stories Decoded What's Inside?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-itel-s23plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Itel S23+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comment-combiner-plusieurs-photos-en-une-serie-techniques-de-fusion-image/"><u>Comment Combiner Plusieurs Photos en Une Série: Techniques De Fusion Image</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/complete-guide-to-restore-accidentally-deleted-images-from-your-iphone-111314/"><u>Complete Guide to Restore Accidentally Deleted Images From Your iPhone 11/13/14</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-affordable-action-cam-top-picks/"><u>In 2024, Affordable Action Cam Top Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-6-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-depth-look-at-facetune-a-photographers-best-friend-for-2024/"><u>In-Depth Look at Facetune A Photographer’s Best Friend for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/offline-entertainment-essentials-downloading-movies-and-tv-shows-for-in-flight-viewing/"><u>Offline Entertainment Essentials: Downloading Movies & TV Shows for In-Flight Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/overcoming-hurdles-for-successful-xbox-cloud-streaming-essential-fixes-needed-by-microsoft/"><u>Overcoming Hurdles for Successful Xbox Cloud Streaming: Essential Fixes Needed by Microsoft</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/post-discount-period-kicks-in-comcast-introduces-affordable-30-internet-plans/"><u>Post-Discount Period Kicks In, Comcast Introduces Affordable $30 Internet Plans</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premium-spotify-vs-free-version-a-comparative-analysis-on-whether-you-should-consider-an-upgrade/"><u>Premium Spotify Vs. Free Version: A Comparative Analysis on Whether You Should Consider an Upgrade</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-solar-lantern-perfect-companion-for-camping-trips-and-unexpected-blackouts/"><u>Reliable Solar Lantern: Perfect Companion for Camping Trips and Unexpected Blackouts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-makeover-google-tv-introduces-a-brand-new-streamlined-home-interface/"><u>Revolutionary Makeover: Google TV Introduces a Brand New Streamlined Home Interface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/section-3a-the-role-of-admixtures-in-concrete-performance/"><u>Section 3A: The Role of Admixtures in Concrete Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-eraser-an-open-source-software-tool-that-provides-users-with-an-easy-way-to-perform-multiple-overwriting-patterns-on-their-drives-according-to-nist-n27/"><u>Secure Eraser: An Open-Source Software Tool that Provides Users with an Easy Way to Perform Multiple Overwriting Patterns on Their Drives According to NIST (National Institute of Standards and Technology) or DoD (Department of Defense) Standards.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonos-enhances-user-experience-with-revamped-mobile-application-and-introduces-innovative-web-platform/"><u>Sonos Enhances User Experience with Revamped Mobile Application and Introduces Innovative Web Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-and-rectifying-invalid-blob-tag-issue/"><u>Troubleshooting and Rectifying Invalid Blob Tag Issue</u></a></li>
 </ul></div>
 

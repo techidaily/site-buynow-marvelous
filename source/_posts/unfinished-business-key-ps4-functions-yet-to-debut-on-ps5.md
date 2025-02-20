@@ -1,7 +1,7 @@
 ---
 title: "Unfinished Business: Key PS4 Functions Yet to Debut on PS5"
-date: 2025-02-08T23:20:08.581Z
-updated: 2025-02-10T11:28:22.767Z
+date: 2025-02-15T12:05:10.500Z
+updated: 2025-02-19T16:24:19.324Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ## Unfinished Business: Key PS4 Functions Yet to Debut on PS5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  Although the PlayStation 5 was initially criticized for lacking many useful features seen in its predecessor, the console has gradually added these features via software updates. Despite this, PS5 owners are still waiting for the return of a few notable PS4 features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Menu Themes 
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![The PlayStation 4's update history page for World of Final Fantasy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps4-update-history-world-of-final-fantasy.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "Update History" page is unlikely to return on the PS5\. Most players and even developers frequently ignored it, and anybody interested in reading the details for a new update could just as easily find them online. Even so,it was a useful feature and led to some unexpectedly hilarious patch notes.
 
 ## 3  A Fully Functional Web Browser 
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  The PlayStation 5 technically has a browser for opening web pages, but it's extremely limited and difficult to access compared to the PS4 browser. You can only open the PS5 browser through links found in applications or by opening social media pages on your console. Furthermore, the browser's search bar is locked, meaning you can't access most websites through traditional means. There are ways to bypass this restriction and [freely use the PS5's hidden browser](https://win-solutions.techidaily.com/comprehensive-solutions-to-overcome-hearthstone-pc-game-crashing-problems/), but it's hardly worth the effort.
 
 ![The How-To Geek homepage in the PS5's hidden browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/htg-website-hidden-browser-ps5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apart from the basic programs needed to load web pages with text and images, the PS5 browser lacks most of the standard features found on nearly every other browser. For example, you can't bookmark web pages, open multiple tabs, or check your browsing history. Browser applications that require WebGL or similar [APIs](https://extra-resources.techidaily.com/2024-approved-best-unsung-free-speech-to-text-apps-for-your-mac/) won't work on the PS5, either.
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
  With PS5 owners still finding loopholes around the current browser's restrictions, it's possible that the old browser may return in a future update. However, between the potential risks and Sony's shift away from non-gaming services on their consoles, the browser doesn't seem to be a current priority for PlayStation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  USB Backup for PS5 Saves 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 ![PS5 Saved Data and Game App Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ps5-saved-data-and-game-app-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In contrast to the PS5's other omissions, there doesn't seem to be any reason for this change other than pushing console owners to subscribe to PlayStation Plus. Unfortunately, this paywall blocks one of the PS5's most important features. Without a PlayStation Plus subscription, there's no way to recover save data for your PS5 games if anything happens to your console or storage device.
@@ -120,21 +120,20 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-enhance-your-movies-leading-3d-blu-ray-equipment-for-2024/"><u>[New] Enhance Your Movies Leading 3D Blu-Ray Equipment for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-follow-the-flow-of-forum-fancies-for-2024/"><u>[New] Follow the Flow of Forum Fancies for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-imagemosaic-supreme-online-blend-and-designers-choice/"><u>[New] ImageMosaic Supreme Online Blend & Designer's Choice</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-engage-your-audience-discover-the-top-5-tiktok-caption-styles/"><u>[Updated] 2024 Approved Engage Your Audience Discover the Top 5 TikTok Caption Styles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-highlighted-20-anime-melodies-at-start/"><u>[Updated] Highlighted 20 Anime Melodies at Start</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-software-suite-for-pc-and-mac-enthusiasts-discover-my-top-picks-reviews/"><u>Essential Software Suite for PC & Mac Enthusiasts: Discover My Top Picks Reviews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premium-features-face-off-ipad-air-4-versus-galaxy-tab-s7plus-unveiled/"><u>Premium Features Face Off: IPad Air 4 Versus Galaxy Tab S7+ Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pushing-limits-review-of-jabra-steel-tier-buds/"><u>Pushing Limits: Review of Jabra Steel-Tier Buds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-motorola-one-hyper-standout-features-in-a-competitive-mid-range-phone-market/"><u>Reviewing the Motorola One Hyper - Standout Features in a Competitive Mid-Range Phone Market</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-vinyl-playback-with-audio-techs-turntable-at-lp120xusb/"><u>Revolutionizing Vinyl Playback with Audio-Tech's Turntable, AT-LP120XUSB</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/syma-x8-series-flyer-test-flight-budget-friendly-indoor-drone-experience/"><u>Syma X8 Series Flyer Test Flight: Budget-Friendly Indoor Drone Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-acer-chromebook-15-exposed-balancing-size-and-efficiency-for-a-top-browser-experience/"><u>The Acer Chromebook 15 Exposed - Balancing Size and Efficiency for a Top Browser Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-garmins-elite-forerunner-e-745-a-game-changer-in-fitness-tracking-technology/"><u>The Comprehensive Review of Garmin's Elite Forerunner E 745: A Game-Changer in Fitness Tracking Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-htc-u23-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-20-easygoing-country-rhythms-to-boogie-down-and-unwind-on-tiktok-for-2024/"><u>[New] 20 Easygoing Country Rhythms to Boogie Down & Unwind on TikTok for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quickcapture-studio-chrome-os-snapper/"><u>[New] QuickCapture Studio Chrome OS Snapper</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-echoes-in-the-stream-full-year-tweet-video-analysis-for-2024/"><u>[Updated] Echoes in the Stream - Full Year Tweet Video Analysis for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-pc-troubleshooting-how-to-restore-audio-functionality/"><u>Black Ops Cold War PC Troubleshooting - How to Restore Audio Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-samsungs-newest-galaxy-watch-active-2-with-advanced-connections-and-insightful-tracking/"><u>Comprehensive Review of Samsung's Newest Galaxy Watch Active 2 with Advanced Connections & Insightful Tracking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-through-cosmic-commerce-with-offworld-trading-company-a-complete-empire-blueprint/"><u>Cutting Through Cosmic Commerce with Offworld Trading Company - A Complete Empire Blueprint</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-inspiron-3671-computer-analysis-the-balanced-midrange-desktop-evaluation/"><u>Dell Inspiron 3671 Computer Analysis: The Balanced Midrange Desktop Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demystifying-the-print-tool-expert-techniques-in-adobe-photoshop/"><u>Demystifying the Print Tool: Expert Techniques in Adobe Photoshop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-budget-friendly-audio-tech-in-senso-activbuds/"><u>Discover Budget-Friendly Audio Tech in Senso ActivBuds</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-selection-of-high-performance-cellphone-signal-amplifiers-for-unparalleled-connectivity-2024-rankings/"><u>Elite Selection of High-Performance Cellphone Signal Amplifiers for Unparalleled Connectivity - 2024 Rankings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/examining-if-amazon-prime-membership-delivers-value/"><u>Examining If Amazon Prime Membership Delivers Value</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-key-choices-in-procuring-a-laptop-windows-style/"><u>Navigating Key Choices in Procuring a Laptop Windows Style</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/swift-visualizer-windows-high-speed-image-viewer/"><u>Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tablet-faceoff-determining-the-best-between-ipad-kindle-and-nook/"><u>Tablet Faceoff: Determining the Best Between iPad, Kindle, and Nook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermalright-phantom-spirit-120-evo-assessment-a-domination-not-just-a-contest/"><u>Thermalright Phantom Spirit 120 EVO Assessment: A Domination, Not Just a Contest</u></a></li>
 </ul></div>
 

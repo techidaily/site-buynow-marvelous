@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Control: How to Command Gaming Systems with Your TV Remote"
-date: 2025-02-08T16:42:03.693Z
-updated: 2025-02-09T23:30:30.555Z
+date: 2025-02-17T23:51:29.103Z
+updated: 2025-02-19T21:35:53.149Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ## Mastering Console Control: How to Command Gaming Systems with Your TV Remote
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
  Are you sick of constantly looking for the Apple TV remote, or having to use your phone or game controller every time you want to watch something? Today we're going to show you how to unite all of your (compatible) devices with the remote that came with your TV.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  One Remote for All Functions
 
  The benefits of being able to control all your entertainment devices through one single remote are fairly self-explanatory. There's the fact that having just one remote is good for convenience's sake, but it goes a little deeper than that.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ![Person holding a Chromecast remote infront of a tv with Google TV open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/googletv_remote.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -56,7 +52,7 @@ Jason Fitzpatrick / How-To Geek
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set up HDMI-CEC on Your TV
@@ -66,6 +62,10 @@ Jason Fitzpatrick / How-To Geek
  You'll want to be familiar with the name your TV's manufacturer uses to refer to HDMI-CEC functionality since many of them use in-house names. However, in most cases, you will find the option under your TV's general settings, under "External Device Manager" or a similar name, where you will be able to turn it on.
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -95,6 +95,10 @@ Jason Fitzpatrick / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -102,10 +106,6 @@ Jason Fitzpatrick / How-To Geek
  Apple TV users can always just use their packed-in remote control or [the companion iPhone app](https://ai-video-tools.techidaily.com/vn-video-editor-android-app-is-it-worth-downloading-for-2024/), but for others, any Bluetooth-enabled remote will work just fine. If you're looking for affordable options, an Amazon Fire TV remote is easy to get your hands on, or the PlayStation TV remote, both of which are compatible with Bluetooth devices.
 
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -130,21 +130,20 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-4-simplified-techniques-to-embed-youtube-content-in-powerpoint/"><u>[New] 2024 Approved 4 Simplified Techniques to Embed YouTube Content in PowerPoint</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/avigating-through-digital-profit-landscapes-for-2024/"><u>[New] Navigating Through Digital Profit Landscapes for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-step-by-step-guide-to-hilarious-memes/"><u>[Updated] 2024 Approved Step-by-Step Guide to Hilarious Memes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-survey-diverse-categories-in-visual-media-tech/"><u>[Updated] Survey Diverse Categories in Visual Media Tech</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/can-you-rely-on-windows-defender-for-shielding-against-phishing-threats-discover-more-from-yl-computings-expertise/"><u>Can You Rely on Windows Defender for Shielding Against Phishing Threats? Discover More From YL Computing's Expertise</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-ensuring-longevity-for-androidmac-snapshots/"><u>In 2024, Ensuring Longevity for Android/Mac Snapshots</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-seamless-integration-of-snaps-in-zoom-virtual-meetings/"><u>In 2024, Seamless Integration of Snaps in Zoom Virtual Meetings</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/is-regularly-refreshing-your-cpu-driver-necessary-for-windows-optimization-tips-from-yl-software/"><u>Is Regularly Refreshing Your CPU Driver Necessary for Windows Optimization? Tips From YL Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-secrets-to-longer-battery-life-the-role-of-dual-displays-on-the-new-mobvoi-ticwatch-pro-3-with-built-in-gps/"><u>Uncovering the Secrets to Longer Battery Life – The Role of Dual Displays on the New Mobvoi TicWatch Pro 3 with Built-In GPS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/under-100-doorbells-unveiled-in-depth-look-at-the-remobell-features-and-quality/"><u>Under-$100 Doorbells Unveiled - In-Depth Look at the RemoBell Features and Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/understanding-the-benefits-of-garmin-vivosmart-4-comprehensive-review-on-health-monitoring-features/"><u>Understanding the Benefits of Garmin Vivosmart 4: Comprehensive Review on Health Monitoring Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uninspired-launch-for-godfall-why-sonys-only-ps5-exclusive-falls-short/"><u>Uninspired Launch for Godfall: Why Sony's Only PS5 Exclusive Falls Short</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-the-secrets-successfully-connecting-a-paired-bluetooth-device-in-windows-11/"><u>Unlocking the Secrets: Successfully Connecting a Paired Bluetooth Device in Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-differences-between-ipad-and-ipad-air-models/"><u>Unraveling the Differences Between iPad and iPad Air Models</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-ps4-pros-potential-the-quest-for-ultimate-4k-gaming-experience/"><u>Unveiling PS4 Pro's Potential: The Quest for Ultimate 4K Gaming Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/vikings-adventure-and-betrayal-a-comprehensive-review-of-assassins-creed-valhalla-in-the-medieval-landscape/"><u>Vikings, Adventure & Betrayal: A Comprehensive Review of Assassin's Creed Valhalla in the Medieval Landscape</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-premier-yoga-educators-on-youtube/"><u>[New] 10 Premier Yoga Educators on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-tips-to-effortlessly-insert-music-into-video-editing-sessions/"><u>[New] 2024 Approved Tips to Effortlessly Insert Music Into Video Editing Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-creative-lens-based-text-twists/"><u>[New] In 2024, Creative Lens-Based Text Twists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-xiaomi-11-series-where-every-snapshot-becomes-a-masterpiece/"><u>[New] In 2024, Xiaomi 11 Series Where Every Snapshot Becomes a Masterpiece</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-blueprint-to-youtube-success-top-tips-for-outstanding-shorts-for-2024/"><u>[New] Your Blueprint to Youtube Success Top Tips for Outstanding Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-break-through-noise-effective-utilization-of-video-templates/"><u>[Updated] In 2024, Break Through Noise Effective Utilization of Video Templates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse-for-2024/"><u>[Updated] Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-c32-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia C32 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-portal-examination-the-ultimate-gamers-wi-fi-solution/"><u>Razer Portal Examination: The Ultimate Gamer's Wi-Fi Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-corsairs-best-fusion-computer-yet-the-one-pro-for-gamers-and-creatives/"><u>Review of Corsair's Best Fusion Computer Yet - The One Pro for Gamers and Creatives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-days-gone-thrilling-adventures-and-biker-tactics-against-hordes-of-zombies/"><u>Reviewing 'Days Gone': Thrilling Adventures and Biker Tactics Against Hordes of Zombies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-best-in-e-readers-barnes-and-nobles-nook-glowlight-plus-unveiled/"><u>Reviewing the Best in E-Readers: Barnes & Noble's Nook GlowLight Plus Unveiled!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviving-old-iphones-or-ipods-is-it-worth-it/"><u>Reviving Old iPhones or iPods – Is It Worth It?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-personal-fitness-chatgpts-role-in-crafting-individual-exercise-routines/"><u>Revolutionizing Personal Fitness: ChatGPT's Role in Crafting Individual Exercise Routines</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sturdy-yet-inexpensive-the-verdict-on-the-omotein-t1-tablet-holder/"><u>Sturdy Yet Inexpensive: The Verdict on the Omotein T1 Tablet Holder</u></a></li>
 </ul></div>
 

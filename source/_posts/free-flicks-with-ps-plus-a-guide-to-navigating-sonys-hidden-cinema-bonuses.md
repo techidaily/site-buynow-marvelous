@@ -1,7 +1,7 @@
 ---
 title: Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses
-date: 2025-01-25T23:27:47.740Z
-updated: 2025-01-29T22:48:54.203Z
+date: 2025-02-14T09:20:24.068Z
+updated: 2025-02-19T22:06:28.404Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Free Flicks with PS Plus - A Guide to Navigating Sony's Hidden Cinema Bonuses
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,15 +33,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The catch, of course, is that the service exclusively includes films produced or distributed by Sony in some form. This catalog is still sizable and features the likes of _Spider-Man_ and both _Venom_ films, so it's worth a look if you're wondering what to watch tonight.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Find and Install Sony Pictures Core
 
  Accessing the Sony Pictures Core service is simply a matter of installing the service on your console. If you are on the PS5, you can press the R1 button on your controller while on the console's home screen to access the "Media" tab. This will show media apps like Netflix, Hulu and Amazon Prime.
 
 ![The "Media" tab on the PS5's home screen, where all streaming apps are accessible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130831.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, find an icon called "TV & Video." Select this and then navigate to the various logos underneath the banner ads until you find "All Apps."
 
 ![The "TV and Video" section on the PS5's "Media" tab, showing off new movies and TV shows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229131024.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scrolling down from here should eventually reveal the Sony Pictures Core App, which you can download for free.
 
@@ -51,25 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  On a PS4 you can launch the PlayStation Store app and search for "Sony Pictures Core" and then launch the app from the main interface.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Find Free Movies on Sony Pictures Core
 
  In addition to exclusive weekly discounts, subscribers to the Premium tier of PlayStation Plus also have access to a select catalog of films available at no extra cost. In the Sony Pictures Core app, navigate to the sidebar by pressing left on your controller's directional pad until the menu appears. Then, select the tab called "Included With PlayStation Plus" indicated by a checkmark icon.
 
 ![The PlayStation Plus section of Sony Pictures Core that offers free movies for Premium tier subscribers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229130349.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here, you will find a select library of movies of various genres that are available to stream immediately with no purchase required. Titles range from animated video game tie-ins to classic sci-fi and drama films, with over 100 total movies available as of the time of this writing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Purchase or Rent Movies in Core Too
 
@@ -82,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The main screen on Sony Pictures Core when users select a film, with the options to rent or purchase it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20240229124327.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zachary Cimaglio/How-To Geek
@@ -108,24 +108,16 @@ Zachary Cimaglio/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-breakout-rooms/"><u>[New] In 2024, How to Use Zoom Breakout Rooms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-shorts-dividing-profits-among-making-crew/"><u>[Updated] YouTube Shorts Dividing Profits Among Making Crew</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-specs-budget-plans-and-expected-market-introduction-the-complete-guide/"><u>Amazfit Helio Ring Specs, Budget Plans & Expected Market Introduction: The Complete Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-8-an-affordable-entry-level-tablet-review/"><u>Amazon Fire HD 8 : An Affordable Entry-Level Tablet Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-adjustments-the-evolved-design-of-samsungs-s21-series/"><u>Analyzing Adjustments: The Evolved Design of Samsung's S21 Series</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/breaking-through-with-stunning-hdr-portrait-shots-for-2024/"><u>Breaking Through with Stunning HDR Portrait Shots for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-durability-hps-low-cost-15-inch-laptop-with-amd/"><u>Evaluating Performance & Durability: HP's Low-Cost 15-Inch Laptop with AMD</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-dji-mavic-2-pro-unrivaled-professional-drone-choice/"><u>Expert Analysis: DJI Mavic 2 Pro - Unrivaled Professional Drone Choice</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/going-mobile-with-sonos-quality-sound-unleashed/"><u>Going Mobile with Sonos: Quality Sound Unleashed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c12-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C12 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-camon-20-pro-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Camon 20 Pro 5G Through Google Earth?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-chipset-selection-for-uhd-rendering/"><u>Ideal Chipset Selection for UHD Rendering</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-garmin-forerunner-e945-the-pinnacle-of-gps-sport-watches-on-the-market-today/"><u>In-Depth Analysis of Garmin Forerunner E945: The Pinnacle of GPS Sport Watches on the Market Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-transforming-your-ipad-pro-into-a-home-office-workhorse/"><u>Maximizing Productivity: Transforming Your iPad Pro Into a Home Office Workhorse</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/re-establishing-obs-audio-recording-capabilities-for-2024/"><u>Re-Establishing OBS Audio Recording Capabilities for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-impact-of-apples-innovative-ai-on-the-success-of-iphone-16-insights-from-zdnet/"><u>The Impact of Apple's Innovative AI on the Success of iPhone 16: Insights From ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top Rated Tablet Computers : Comprehensive Reviews by Industry Experts | ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-top-home-weather-trackers/"><u>Ultimate List of Top Home Weather Trackers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mobvoi-ticwatch-e2-affordable-option-or-missed-opportunity-for-quality/"><u>Unveiling the Mobvoi TicWatch E2: Affordable Option or Missed Opportunity for Quality?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-peering-into-mr-beasts-economic-landscape/"><u>[New] 2024 Approved Peering Into Mr. Beast's Economic Landscape</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-breathing-life-into-images-mastering-face-motion-blur-in-picsart-for-2024/"><u>[New] Breathing Life Into Images Mastering Face Motion Blur in Picsart for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-in-depth-zte-blade-a3y-analysis-and-value-assessment/"><u>Affordable Excellence: In-Depth ZTE Blade A3Y Analysis & Value Assessment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-device-a-comprehensive-guide-to-ipad-pro-vs-macbook-pro/"><u>Choosing Your Device: A Comprehensive Guide to iPad Pro Vs. MacBook Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-the-latest-iphone-15-plus-vs-pro-max-which-one-wins/"><u>Comparing the Latest: IPhone 15 Plus Vs. Pro Max - Which One Wins?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-aeony-portable-solar-power-station-evaluation-ideal-for-high-precision-health-gadgets/"><u>Comprehensive AeonY Portable Solar Power Station Evaluation - Ideal for High-Precision Health Gadgets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-midland-lxt50nvp3-transceiver-a-powerful-radio-with-unmet-expectations/"><u>Comprehensive Analysis of the Midland LXT50nVp3 Transceiver: A Powerful Radio with Unmet Expectations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-transforming-webm-videos-into-mpeg-4-format/"><u>Easy Guide to Transforming WebM Videos Into MPEG-4 Format</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-overcoming-creative-roadblocks-in-short-form-videos/"><u>In 2024, Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-capabilities-of-the-affordable-and-portable-asus-vivobook-11/"><u>Uncovering The Capabilities Of The Affordable And Portable ASUS VivoBook 11</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 10</u></a></li>
 </ul></div>
 

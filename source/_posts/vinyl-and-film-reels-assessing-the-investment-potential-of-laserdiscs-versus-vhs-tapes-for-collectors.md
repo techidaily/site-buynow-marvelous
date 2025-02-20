@@ -1,7 +1,7 @@
 ---
 title: "Vinyl and Film Reels: Assessing the Investment Potential of LaserDiscs Versus VHS Tapes for Collectors"
-date: 2025-01-25T21:09:23.143Z
-updated: 2025-01-29T18:47:43.010Z
+date: 2025-02-15T04:35:49.397Z
+updated: 2025-02-19T22:44:09.629Z
 tags:
   - games
   - tv
@@ -25,20 +25,20 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  As it dawns on us that the internet isn't forever, and you don't really have control over your digital media, it's becoming more popular to collect physical media. While DVDs and Blu-ray media are a non-issue, what about older formats like LaserDisc and VHS? Should anyone be collecting these? If so, which one makes the most sense?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Quality and Format Differences
 
  LaserDisc is a higher quality format than VHS, period. LaserDisc offered almost twice as many horizontal lines of detail than VHS, so there really is no comparison. However, with LaserDisc you'll have to flip the disc over partway through most films. Like me, you probably have rose-tinted memories of what VHS looked like, but if you head to YouTube and look at digitized VHS recordings, you'll soon realize we could barely see what was going on. While LDs are still short of DVDs in quality, on the right equipment it can still look great.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Longevity and Durability
 
 ![Retro disassembled video cassette recorders with broken VHS cassette with unwound tape isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/vhs-tape-stuck-in-player-with-tape-visible.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [PhotoVrStudio / Shutterstock.com](https://www.shutterstock.com/image-photo/retro-disassembled-video-cassette-recorders-broken-2300677303)
@@ -55,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  LaserDisc was a relatively rare format at the best of times. One of the main reasons VHS became so popular was affordability, and the sheer number of VHS titles released. So finding VHS from the late 90s and onward should still be relatively easy. That said, you'll find plenty of LaserDisc listings on sites like Ebay. Not as many as VHS titles based on my casual browsing, but they're still available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Packaging and Artwork
 
 ![A NIghtmare Before Christmas Laserdisc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-nightmare-before-christmas-laserdisc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Erman Gunes / Shutterstock.com](https://www.shutterstock.com/image-photo/ankara-turkey-january-19-2023-old-2251853805)
@@ -73,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  VHS tapes, on the other hand, are ugly and spartan. Of course, that's just my opinion, but in this category I just find no merit to them at all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Cost
 
  Oddly enough, as I was looking for prices on both VHS players and LD players, it seems that things more or less even out. As for the prices of the media, LDs seem quite a bit more expensive. However, I'd hazard to say that if the LD is in good condition it's probably worth the additional asking price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Cultural and Historical Significance
 
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
  However, there is the nostalgia factor with VHS, and in the case of LDs, there might be historical value to some of them. After all, for a long time the widescreen LaserDisc releases of the original Star Wars trilogy was the only untouched version of the original theatrical edits of those movies, untouched by George Lucas' "improvements."
 
  There's no winner here, other than LD being the better option for preservation if no newer media of that content exists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Community and Fandom
 
@@ -114,16 +114,24 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-master-the-art-of-pc-game-memories-with-these-6-steps/"><u>[New] 2024 Approved Master the Art of PC Game Memories with These 6 Steps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>[New] In 2024, The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-seamless-youtube-to-file-conversion-techniques/"><u>[Updated] 2024 Approved Seamless YouTube to File Conversion Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-watch-active-evaluation-your-ultimate-health-companion/"><u>Comprehensive Samsung Galaxy Watch Active Evaluation: Your Ultimate Health Companion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-utilizing-chatgpt-for-personal-automotive-modification-assistance/"><u>Effective Strategies: Utilizing ChatGPT for Personal Automotive Modification Assistance</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-ace-3-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Ace 3 FRP?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-control-how-the-xbox-one-elite-series-2-sets-a-new-standard-for-gamepads/"><u>Mastering Control: How the Xbox One Elite Series 2 Sets a New Standard for Gamepads</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-powerline-surge-protector-analysis-impressive-speed-performance-with-mediocre-aesthetics/"><u>TP-Link AV2000 Powerline Surge Protector Analysis: Impressive Speed Performance with Mediocre Aesthetics</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-apple-watch-series-4-a-revolutionary-step-forward-in-smartwatch-technology/"><u>Unboxing Apple Watch Series ‪4: A Revolutionary Step Forward in Smartwatch Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-charms-of-online-hockey-in-ea-sports-nhl-19-review/"><u>Unpacking the Charms of Online Hockey in EA Sports NHL '19 Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-guide-to-free-cloud-communication-software-for-2024/"><u>[New] Comprehensive Guide to Free Cloud Communication Software for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-snapchat-blueprint-for-effective-marketing/"><u>[New] The Snapchat Blueprint for Effective Marketing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-camera-to-community-shared-videos-on-twtplustumble/"><u>[Updated] 2024 Approved From Camera to Community Shared Videos on Twt+Tumble</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-subtitle-integration-on-instagram-tv/"><u>[Updated] Mastering Subtitle Integration on Instagram TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-under-1k-laptop-selection-for-2n4-in-depth-analysis-and-reviews-by-pros-cnet/"><u>Discover the Ultimate Under $1K Laptop Selection for 2N4: In-Depth Analysis and Reviews by Pros | CNET</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-methods-to-take-screenshots-on-acer-tablets-and-laptops-comprehensive-guide/"><u>Easy Methods to Take Screenshots on Acer Tablets & Laptops - Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixes-for-the-droopy-effect-in-monitors/"><u>Fixes for the 'Droopy' Effect in Monitors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-view-adding-captions-on-windows-media-player/"><u>In 2024, Streamline Your View Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-itel-a60s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Itel A60s FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-asus-rog-gt-ac5300-evaluation-a-dream-for-gamers-and-tech-professionals/"><u>In-Depth Asus ROG GT-AC5300 Evaluation: A Dream for Gamers & Tech Professionals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722931883509-maximize-your-network-range-with-the-netgear-nighthawk-x4-mesh-extender-expert-review-inside/"><u>Maximize Your Network Range with the Netgear Nighthawk X4 Mesh Extender - Expert Review Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-at-127-stylish-and-superior-signal-for-your-screen/"><u>The Ultimate Guide to the AT-127: Stylish and Superior Signal for Your Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultra-portable-camera-with-extreme-capability-g7x-ii/"><u>The Ultra-Portable Camera with Extreme Capability: G7X II</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-unparalleled-audio-adventure-of-the-logitech-g533/"><u>The Unparalleled Audio Adventure of the Logitech G533</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-best-features-of-the-compact-and-economical-propella-absolutely-here-are-five-new-best-seo-titles/"><u>Unveiling the Best Features of the Compact and Economical Propella Absolutely, Here Are Five New Best SEO Titles:</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-budget-champion-an-in-depth-review-of-tp-links-archer-a6/"><u>Unveiling the Budget Champion: An In-Depth Review of TP-Link's Archer A6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-groundbreaking-features-of-the-latest-imac-powered-by-m1-chip-a-comprehensive-review/"><u>Unveiling the Groundbreaking Features of the Latest iMac Powered by M1 Chip: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-samsungs-galaxy-tab-s7-tablet-deserves-your-attention-an-in-depth-review/"><u>Why Samsung's Galaxy Tab S7 Tablet Deserves Your Attention: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-series-s-powerhouse-analysis-unpacking-the-mighty-compact-gaming-console/"><u>Xbox Series S Powerhouse Analysis: Unpacking the Mighty Compact Gaming Console</u></a></li>
 </ul></div>
 

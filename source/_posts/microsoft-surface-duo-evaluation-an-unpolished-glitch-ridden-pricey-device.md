@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Duo Evaluation: An Unpolished, Glitch-Ridden, Pricey Device"
-date: 2024-08-09T00:44:13.223Z
-updated: 2024-08-10T00:44:13.223Z
+date: 2025-02-14T08:32:57.966Z
+updated: 2025-02-20T07:38:42.048Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft Surface Duo Evaluation: An Unpolished, Glitch-Ridden, Pricey Device"
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Microsoft Flight Simulator X: Gold Edition
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/-o00S2NMqAuV6ju2tL_3_pNbMMk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_HeroSquare-ff9662e0ea894d8e8964aa8b64e9af9f.jpg)
 
  Lifewire / Zach Sweat
@@ -43,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Microsoft Flight Simulator X: Gold Edition
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/qdqiCl5ARAuMH7mtUAu6szKbUM0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_HeroSquare-ff9662e0ea894d8e8964aa8b64e9af9f.jpg)
@@ -72,16 +63,14 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
  So how does this legendary flight simulator hold up today? It’s not without its flaws, but the experience is still a solid one. Check out our review here and see for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/uwjre5Sam8ge-OfnA-CJEUdp8Vo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_02-308281f4a45a45439f265538706d4f33.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## **Setup Process: Please insert disc 1**
 
  Setting up a game this old isn’t quite as easy as a modern game, but it’s not a terrible process overall. Now your particular setup will vary a bit, but it should be mostly the same.
@@ -106,11 +95,12 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/q7UBmrCRA6IrC6gs4BrRYIfrWRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_03-a1872076dd974dc1a989684c97e2d45f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: Dated, but still solid**
 
  Given that FSX is now quite old, the gameplay still holds up for the most part, but feels somewhat dated in certain areas. Because this game comes complete with all the original content and expansions, there’s a daunting amount of content to sift through, which keeps replayability high.
@@ -137,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Like traveling back in time**
 
  It’s no surprise that a game made all the way back in 2006 feels old when it comes to graphics. You won’t be impressed by the lackluster textures, lighting effects or animations in FSX if you’ve never played it in the past.
@@ -156,6 +150,10 @@ Lifewire / Zach Sweat
  For Steam users, however, the game has an insane amount of DLC options. While most of these aren’t necessary to have, they can really add up if you’re someone who likes to have it all. Currently, the Steam version has almost $2,000 worth of DLC, but no one really needs to get all that to have a good time with FSX, so choose what you want, or simply enjoy the base game and download mods to supplement the content for free.
 
  We should also mention here that there are plans in place for FSX to finally get a true successor in the near future with Microsoft’s Flight Simulator 2020 just on the horizon, so it may be worth it to hold off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Microsoft Flight Simulator X vs. X-Plane 11 Global Flight Simulator**
 
@@ -180,8 +178,9 @@ Lifewire / Zach Sweat
 * [Overwatch](https://www.lifewire.com/overwatch-review-4769890)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Flight Simulator X: Gold Edition
@@ -194,14 +193,11 @@ Lifewire / Zach Sweat
 * Genre  Simulator
 * ESRB rating  E
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -209,3 +205,23 @@ Lifewire / Zach Sweat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>[Updated] In 2024, The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-game-changer-for-travelers-and-nature-enthusiasts-nikon-coolpix-p1000/"><u>A Game-Changer for Travelers & Nature Enthusiasts – Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-guide-preserving-screen-images-for-future-reference-in-microsoft-word/"><u>Complete Guide: Preserving Screen Images for Future Reference in Microsoft Word</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-the-apple-watch-series-9-stack-up-an-in-depth-product-assessment/"><u>How Does the Apple Watch Series 9 Stack Up? An In-Depth Product Assessment</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-fast-track-to-fame-masterful-use-of-insta-likes-and-vids/"><u>In 2024, Fast Track to Fame Masterful Use of Insta Likes and Vids</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovative-techniques-for-lecture-to-audio-conversion-in-education/"><u>In 2024, Innovative Techniques for Lecture to Audio Conversion in Education</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-new-ps5-worth-its-price-discover-four-benefits/"><u>Is the New PS5 Worth Its Price? Discover Four Benefits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-home-security-how-a-facial-recognition-smart-lock-triumphed-over-traditional-devices-according-to-my-test-zdnet/"><u>Revolutionizing Home Security: How a Facial Recognition Smart Lock Triumphed Over Traditional Devices, According to My Test | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-a20-analysis-exceptional-value-in-affordable-smartphones/"><u>Samsung Galaxy A20 Analysis - Exceptional Value in Affordable Smartphones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-gamers-choice-unveiled-the-comprehensive-guide-to-samsung-q6nq60r-smart-tv/"><u>Top Gamers' Choice Unveiled: The Comprehensive Guide to Samsung Q6nQ60R Smart TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reasons-to-buy-cheap-and-quick-the-truth-about-affordable-anker-car-chargers/"><u>Top Reasons to Buy Cheap and Quick: The Truth About Affordable Anker Car Chargers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On HTC U23 Pro | Dr.fone</u></a></li>
+</ul></div>
+

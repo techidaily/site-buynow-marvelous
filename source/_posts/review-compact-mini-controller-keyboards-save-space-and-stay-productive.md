@@ -1,7 +1,7 @@
 ---
 title: "Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive"
-date: 2025-01-22T19:01:00.578Z
-updated: 2025-01-29T18:49:01.591Z
+date: 2025-02-15T01:28:18.706Z
+updated: 2025-02-20T08:08:38.127Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ## Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
  As the range of games available on consoles expands to include genres previously exclusive to PC, many couch gamers are seeking to add a Bluetooth keyboard to their arsenal. One popular option is a keypad that plugs into the bottom of your controller, but are these gadgets as nifty as they appear?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Controllers Weren't Designed with Keypads In Mind
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![A PlayStation 5 DualSense controller with mini keypad connected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6258.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -52,7 +52,7 @@ Tim Rattray / How-To Geek
  It didn’t need to be this way. The DualSense’s speaker is located below its touchpad and therefore isn’t obfuscated by this device. While this won’t seem like an important flaw to many gamers, it makes the keypad feel distractingly cheap every time sounds are played (something common for _Final Fantasy XIV_, the most popular game that benefits from a Bluetooth keyboard).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Not Entirely Useless
@@ -64,7 +64,7 @@ Tim Rattray / How-To Geek
 ![Bottom of a clip-on controller keypad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_6259.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -94,21 +94,20 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-hero5-vs-yi-evaluating-cutting-edge-cameras/"><u>[New] 2024 Approved Hero5 Vs. YI Evaluating Cutting-Edge Cameras</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-embracing-the-future-with-benq-sw320s-4k-display-technology-for-2024/"><u>[New] Embracing the Future with BenQ SW320's 4K Display Technology for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premium-video-capture-devices-for-windows-os/"><u>[Updated] In 2024, Premium Video Capture Devices for Windows OS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/agpteks-budget-mp3-player-reviewed/"><u>AGPTEK's Budget MP3 Player Reviewed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-google-nest-hub-gen-2-why-adding-a-camera-could-be-game-changing/"><u>Analyzing the Google Nest Hub Gen 2: Why Adding a Camera Could Be Game-Changing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-ergonomic-keyboard-supports-expert-picks-for-optimal-wrist-health/"><u>Elite Ergonomic Keyboard Supports - Expert Picks for Optimal Wrist Health</u></a></li>
-<li><a href="https://facebook.techidaily.com/essential-techniques-for-efficient-fb-link-management/"><u>Essential Techniques for Efficient FB Link Management</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expand-your-nes-collection-a-step-by-step-guide-to-adding-new-titles/"><u>Expand Your NES Collection: A Step-by-Step Guide to Adding New Titles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-rapid-transit-with-the-gotrax-gxl-v2-a-review-of-urban-electric-scooters/"><u>Experience Rapid Transit with the Gotrax GXL V2 - A Review of Urban Electric Scooters</u></a></li>
-<li><a href="https://games-able.techidaily.com/getting-the-best-out-of-fortnite-playstation-5-strategy/"><u>Getting the Best Out of Fortnite: PlayStation 5 Strategy</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-laserjet-1018-installable-ppds-and-drivers-for-windows-and-macos/"><u>HP LaserJet 1018 Installable PPDs & Drivers for Windows & MacOS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-thinkpad-x12-detachable-tablet-excellent-convertible-features-and-superior-typing-experience/"><u>Lenovo ThinkPad X12 Detachable Tablet: Excellent Convertible Features & Superior Typing Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4gifmovavi/"><u>MP4ファイルから効率的に動画GIFへの変換手順【Movaviで学ぶ】</u></a></li>
-<li><a href="https://article-posts.techidaily.com/srt-mastery-curating-the-best-mac-and-windows-turbo-boosts/"><u>SRT Mastery Curating the Best Mac & Windows Turbo Boosts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-the-leading-wireless-range-routers/"><u>Ultimate Selection: The Leading Wireless Range Routers</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fixes-overcoming-firefox-page-load-issues-in-windows/"><u>Win Fixes: Overcoming Firefox Page Load Issues in Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[New] In 2024, Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-making-yt-thumbnails-pop-a-mac-centric-approach/"><u>[New] Making YT Thumbnails Pop A Mac-Centric Approach</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[Updated] 2024 Approved Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-mastery-in-converting-classic-vhs-into-high-quality-pictures/"><u>[Updated] 2024 Approved Mastery in Converting Classic VHS Into High-Quality Pictures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-making-online-gaming-more-intimate-via-xbox-zoom-for-2024/"><u>[Updated] Making Online Gaming More Intimate via Xbox Zoom for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-to-grips-with-resident-evil-5-pc-boot-problems-a-comprehensive-guide/"><u>Get to Grips with Resident Evil 5 PC Boot Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209849943-9781945558214-healing-toxic-habits/"><u>Healing Toxic Habits | Free Book</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-your-sporty-online-presence-with-mac-for-2024/"><u>Initiating Your Sporty Online Presence with Mac for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterful-techniques-for-arranging-your-playstation-4-camera/"><u>Masterful Techniques for Arranging Your PlayStation 4 Camera</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-vn-video-editor-mobile-app-review-editing-on-the-go/"><u>New 2024 Approved VN Video Editor Mobile App Review Editing on the Go</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/panasonic-hc-v770-value-and-excellence-unite/"><u>Panasonic HC-V770: Value & Excellence Unite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pd-301-teatronics-sleek-design-premium-audio/"><u>PD-301 TeaTronics: Sleek Design, Premium Audio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/photographic-brilliance-with-user-interface-issues-in-nikon-a10/"><u>Photographic Brilliance with User Interface Issues in Nikon A10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-production-pro-the-alluring-tascam-cd-200bt-unveiled-and-reviews/"><u>Professional Production Pro: The Alluring Tascam CD-200BT Unveiled and Reviews</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reading-revolution-for-commuters-unveiling-the-features-and-benefits-of-the-kobo-clara-hd-in-this-comprehensive-review/"><u>Reading Revolution for Commuters: Unveiling the Features and Benefits of the Kobo Clara HD in This Comprehensive Review</u></a></li>
 </ul></div>
 

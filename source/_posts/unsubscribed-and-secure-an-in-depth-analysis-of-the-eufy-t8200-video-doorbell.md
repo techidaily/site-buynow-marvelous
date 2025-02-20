@@ -1,7 +1,7 @@
 ---
 title: "Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
-date: 2025-02-06T01:12:14.450Z
-updated: 2025-02-10T05:43:14.918Z
+date: 2025-02-14T16:07:11.150Z
+updated: 2025-02-19T18:31:41.097Z
 categories:
   - BestProducts
 description: "This Article Describes Unsubscribed and Secure: An In-Depth Analysis of the Eufy T8200 Video Doorbell"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 ## Acer Chromebook 15 CB3-532
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/mI8oEA75yJYzLdjtmBldzjFtccE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_HeroSquare-362ddb9951d04861a4b66cea1c000233.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jason Schneider
 
@@ -42,7 +46,7 @@ Lifewire / Jason Schneider
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/de6GmnZf-POMS25HOUd4hX7ytI8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_HeroSquare-362ddb9951d04861a4b66cea1c000233.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jason Schneider
@@ -77,14 +81,10 @@ Lifewire / Jason Schneider
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/KPrvN1kvoH081BHRUonphp9CIeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_02-c3813ec58fc848e6a715abe090ebe6b1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jason Schneider
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design: Slightly bulky with a couple of nice touches**
 
@@ -93,10 +93,6 @@ Lifewire / Jason Schneider
  The color scheme feels very modern, looking very similar to Apple’s space gray. There’s a soft brushed-aluminum-style texture on the top, and a dark, roughened plastic base and inner bezels. There are also two large, round-rectangle speaker grilles flanking the speakers that give it a more assertive look than the usual, simple aesthetic used by other laptops.
 
  The hinge is actually two small contact points that roll into the laptop chassis, which feels dated when the laptop is open but makes it look interesting when it’s closed. The whole laptop is made of plastic, and measures right around one 1-inch thick, weighing in at almost 4.5 pounds. That’s a double-edged sword because while the laptop feels really sturdy and premium despite the plastic material, it isn’t terribly portable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup Process: As seamless as a mobile device**
 
@@ -120,10 +116,6 @@ Lifewire / Jason Schneider
 
  To be fair, Chromebook users likely keep more files in cloud storage drives, and Google includes 100GB of drive storage for free with the purchase for 2 years. So, you might not notice the limited capacity, but I would have preferred at least 32GB.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Productivity and Component Quality: Plenty of screen real estate, and passable features**
 
  There’s an interesting case to be made for this Acer Chromebook in terms of productivity. Chrome OS is a very light operating system, which means that it runs quick and light, at least initially. This also means that you can load up more than a few Chrome tabs—something that hogs a lot of power use on Windows laptops. Add that in with the larger 15.6-inch display, giving you lots of room for multiple windows and apps, and this Chromebook is great for those who want to multitask. However, because it isn’t a full OS, you won’t be able to run a whole lot of programs out of the box, and you’re limited to what’s available in the Play Store.
@@ -140,10 +132,6 @@ Lifewire / Jason Schneider
 
  Lifewire / Jason Schneider
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Network and connectivity: Modern, fast, and optimized for Chrome OS**
 
  Despite the lighter OS, the Chromebook 15 offers modern, well-equipped network features. First off, there’s an 802.11ac-capable Wi-Fi card built-in, which means you’ll get less interference than the N-protocol Wi-Fi, and you’ll have access to the[5GHz bands](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293) common in most modern routers. There’s also Bluetooth 4.2 capability which provided me with a plenty-stable connection for my Bluetooth headphones, and will work nicely if you want to connect a mouse or other peripherals.
@@ -156,6 +144,10 @@ Lifewire / Jason Schneider
 
  This is likely because Google is calling this an[HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) \-capable webcam, meaning the software is increasing the ISO to give you clear performance. This gives you good color response as I’ve noted, but it does also result in that graininess. This shouldn’t be a breaking point in either direction for considering a laptop like this, but if you do a lot of video calls, it’s an important thing to consider.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery life: Very reliable with smart optimization**
 
  As a light OS, it wasn’t that surprising to see excellent battery life on the Chromebook 15, but I was pleased with just how long the battery lasted. There’s a 3,920mAh lithium-polymer battery that Acer pins at about 12 hours of use. That holds true, perhaps trending toward a little less.
@@ -164,21 +156,25 @@ Lifewire / Jason Schneider
 
  Chrome OS is a very light operating system, which means that it runs quick and light, at least initially.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Light and fast with very little customization**
 
  Using Chrome OS is more reliable than you might think. You have most of the functions you’ll need from Google Docs to web browsing to file storage. However, you’ll be missing a lot of more specialized programs, like the full Adobe Creative Suite, or PC-based media programs. Due to the low-powered processor and limited shared Graphics capability, you wouldn’t be able to use this laptop for video editing anyway, even if it did run Windows. So, even though it’s limiting, it’s on purpose.
 
  That said, the Chromebook 15 runs so well, though likely only because of the lightweight operating system and limited app capabilities. Chrome OS is kind of like just using a Chrome window with a bunch of tabs on a regular PC. For most people, the OS is more than capable of handling most of your browsing needs. This Chromebook is a great example of how far you can push Chrome OS on a budget device, with a big bright screen for watching movies, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Really affordable with plenty to offer**
 
  The list price for this Acer Chromebook sits at just about $400 (MSRP), but most of the time you can find it on Amazon for between $150-$250\. I picked up my unit for about $185, and it tends to hover just around there.
 
  For the money, I can confidently say this laptop is worth the price, as long as you have the right applications in mind for it. If you want a cheap starter laptop, or a machine for an older family member that’s easy to use, but you don’t want to spend half a grand getting there, this is a great choice. I can’t say it’s quite as travel-friendly as some of the other budget laptops out there, due to the size and weight. But if you want an affordable machine that’s great for light productivity tasks, and is an excellent movie machine, then you should consider this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Acer Chromebook 15 vs. Lenovo Chromebook S330 14**
 
@@ -189,6 +185,10 @@ Lifewire / Jason Schneider
  **A solid Chromebook for productivity, but limited in portability.**
 
  This is a great Chromebook with a lot of impressive things to offer. The bright screen has plenty of room for vibrant video viewing and multiple windows of productivity. The excellent battery life means you won’t be tethered to a desk, and the light, fast Chrome OS means it will take a lot to slow the Acer Chromebook 15 down. However, the limited onboard storage, bulky size and weight, and the lack of full app choices might limit you a bit too much. At the end of the day, at this price point, it’s perfect for light, basic use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -217,20 +217,20 @@ Lifewire / Jason Schneider
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-8-best-photo-grid-online-makers-to-polish-your-pictures/"><u>[New] 8 Best Photo Grid Online Makers to Polish Your Pictures</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-blueprint-for-building-an-iconic-online-identity-on-youtube/"><u>[New] The Blueprint for Building an Iconic Online Identity on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-top-10-sites-for-vector-graphics-collection/"><u>2024 Approved Top 10 Sites for Vector Graphics Collection</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-6-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic 6 Lite Unlock Without Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-meizu-21-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Meizu 21</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-innovative-marker-use-in-digital-filmmaking/"><u>In 2024, Innovative Marker Use in Digital Filmmaking</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>In 2024, Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-photoshops-handy-hacks-for-horizontal-and-vertical-warping/"><u>In 2024, Photoshop's Handy Hacks for Horizontal and Vertical Warping</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/prime-spots-for-buying-cutting-edge-mobile-technology/"><u>Prime Spots for Buying Cutting-Edge Mobile Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/raspberry-pi-400-analysis-portable-mini-pc-designed-as-a-keyboard/"><u>Raspberry Pi 400 Analysis: Portable Mini PC Designed as a Keyboard</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/razer-portal-examination-the-ultimate-gamers-wi-fi-solution/"><u>Razer Portal Examination: The Ultimate Gamer's Wi-Fi Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-corsairs-best-fusion-computer-yet-the-one-pro-for-gamers-and-creatives/"><u>Review of Corsair's Best Fusion Computer Yet - The One Pro for Gamers and Creatives</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-days-gone-thrilling-adventures-and-biker-tactics-against-hordes-of-zombies/"><u>Reviewing 'Days Gone': Thrilling Adventures and Biker Tactics Against Hordes of Zombies</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-best-in-e-readers-barnes-and-nobles-nook-glowlight-plus-unveiled/"><u>Reviewing the Best in E-Readers: Barnes & Noble's Nook GlowLight Plus Unveiled!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-engine-issues-with-the-steelseries-gg-controller-in-windows/"><u>Troubleshooting: Fixing Engine Issues with the SteelSeries GG Controller in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-exclusive-youtube-visuals-top-5-tools-reviewed/"><u>[New] Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[Updated] 2024 Approved Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deciding-on-a-smart-doorbell-heres-how-ring-stacks-up-against-nest/"><u>Deciding on a Smart Doorbell? Here's How Ring Stacks Up Against Nest</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-factors-to-evaluate-when-purchasing-your-next-printer/"><u>Essential Factors to Evaluate When Purchasing Your Next Printer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/flourishing-in-virtual-dialogue-top-strategies-to-master-zoom-chats/"><u>Flourishing in Virtual Dialogue Top Strategies to Master ZOOM Chats</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huion-inspiroy-g10t-tablet-an-ultimate-guide-to-its-exceptional-durability-and-superior-drawing-capabilities/"><u>Huion Inspiroy G10T Tablet: An Ultimate Guide to Its Exceptional Durability & Superior Drawing Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ibuypower-gaming-rig-assessment-unmatched-performance-and-exceptional-value/"><u>IBuyPower Gaming Rig Assessment: Unmatched Performance & Exceptional Value</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>In 2024, Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elevate-your-short-form-content-top-10-edits-for-iosandroid/"><u>In 2024, Elevate Your Short-Form Content Top 10 Edits for iOS/Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-assessment-solid-construction-on-a-fundamental-machine/"><u>Lenovo Ideapad Assessment: Solid Construction on a Fundamental Machine</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-playstation-5-analysis-beyond-increased-performance/"><u>Sony PlayStation 5 Analysis: Beyond Increased Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-trailers-for-virtual-broadcasts/"><u>Tailoring Trailers for Virtual Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-fuhrende-programme-zum-ausschneiden-von-dvds-kopierschutz-freie-software/"><u>Top 10 Führende Programme Zum Ausschneiden Von DVDs - Kopierschutz-Freie Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-converting-mpeg-files-to-crystal-clear-wav-audio/"><u>Ultimate Guide: Converting MPEG Files to Crystal-Clear WAV Audio</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zoom-into-adventure-powershot-sx420-review-reveals-42x-focus/"><u>Zoom Into Adventure: PowerShot SX420 Review Reveals 42X Focus</u></a></li>
 </ul></div>
 

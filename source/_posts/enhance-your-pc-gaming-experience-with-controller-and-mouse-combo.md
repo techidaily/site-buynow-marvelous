@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC Gaming Experience with Controller & Mouse Combo
-date: 2025-01-28T16:12:16.550Z
-updated: 2025-01-29T22:01:47.247Z
+date: 2025-02-14T01:27:53.447Z
+updated: 2025-02-19T18:16:24.181Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Enhance Your PC Gaming Experience with Controller & Mouse Combo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The "Why Not Both?" meme is more than a little overused when it comes to decisions between two good things, but it's the perfect answer to the question of whether you should use a controller or a mouse to play your favorite games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Keyboards Suck for Movement, Controllers Suck for Aim
 
  The main problem is that keyboards are not analogue. A key is either depressed or it isn't. This makes it essentially impossible to implement manual movement control for games using a keyboard. You have a walking speed and a sprinting speed, with nothing in between, and a significant amount of imprecision as a result. That analog thumb stick on the controller lets you precisely control the velocity of your character, and it's intuitive.
@@ -33,10 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So we have two halves of a good control scheme, which brings us back to...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why Not Both?
 
  The idea is basic—use the left half of a console controller for movement of your character and your mouse for all the aiming. This lets you get the best movement scheme in total for your game. Sure, there will be a learning curve, but you'll get the hang of it quickly if you persevere.
@@ -44,6 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  However, you've probably already spotted one major flaw with this—a lack of buttons! With your left hand on the keyboard, you have access to numerous buttons beyond movement. With just a standard controller in your hands, you have movement, you can click the stick, and you have one trigger and one bumper. If you have a fancy controller with paddles, then you might have one or two additional buttons, which could be enough in some games.
 
  There are a few ways to address this beyond what I just mentioned. For example, many mice these days have numerous side and thumb buttons that can be assigned to take over common things you might want to do during a game, such as tossing a grenade or melee attacks. Also, don't forget that you have an entire D-pad on the left side of a standard controller, which is perfect for common functions like using a healing item or swapping weapons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Configure Controller and Mouse Together
 
@@ -54,16 +58,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, all that's left is to dig through the key binding settings for your game, and assign the right function to the right button either on your controller or mouse. If you're lucky, they should all sort into something that's quite playable!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Dedicated Combo Peripherals
 
 ![Hori Tactical Assault Commander controller combo with half controller and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hori-tactical-assault-commander.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hori
 
@@ -72,7 +72,7 @@ Hori
  There's the [SplitFish Shark](https://eu.splitfish.com/fragfx-game-controllers/fragfx-shark-ps4.html?%5F%5F%5Fstore=english&%5F%5F%5Ffrom%5Fstore=default) which has various iterations for different consoles. Even HORI, which is one of the most eminent controller makers in the world, took a stab at it with the [HORI Tactical Assault Commander G2](https://www.amazon.com/Tactical-Assault-Commander-KeyPad-Gamepad-Controller/dp/B01L8QL2N8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002794&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fforget-picking-between-controller-or-mouse-for-pc-gaming-use-both-and-never-look-back%2F&asc%5Fcampaign=Evergreen).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is Dual-Wielding Better?
@@ -96,17 +96,15 @@ Hori
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-peak-performance-packages-best-converters-for-srt-systems-on-macwin/"><u>[New] In 2024, Peak Performance Packages Best Converters for SRT Systems on Mac/Win</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blitz-through-edits-with-windows-11-pro-tips/"><u>Blitz Through Edits with Windows 11 Pro Tips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-ageing-technology-of-netgear-c300n-modemrouter-combo-is-it-effective-anymore/"><u>Exploring the Ageing Technology of Netgear C300n Modem/Router Combo – Is It Effective Anymore?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1124182-9780892545650-finding-success-in-the-horoscope/"><u>Finding Success in the Horoscope | Free Book</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-retrieve-lost-youtube-content-5-proven-strategies-for-video-restoration-successfully/"><u>How to Retrieve Lost YouTube Content: 5 Proven Strategies for Video Restoration Successfully</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-setup-windows-11-on-a-brand-new-ssdhdd/"><u>How to Successfully Setup Windows 11 on a Brand-New SSD/HDD</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/jumping-from-windows-how-to-get-to-windows-11/"><u>Jumping From Windows How to Get to Windows 11?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-ergohead-mat-enhancing-prolonged-comfort-on-adjustable-height-desks/"><u>Review of the Ergohead Mat - Enhancing Prolonged Comfort on Adjustable Height Desks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/secure-online-methods-convert-youtube-audio-to-mp3-effortlessly-and-safely-for-2024/"><u>Secure Online Methods Convert YouTube Audio to MP3 Effortlessly & Safely for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-creme-de-la-creme-ranking-the-best-eight-games-for-your-subscription-on-google-play/"><u>The Crème De La Crème: Ranking the Best Eight Games for Your Subscription on Google Play</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-netgear-nighthawk-rax80-experience-wi-fi-6-with-style-and-speed/"><u>Ultimate Guide to the Netgear Nighthawk RAX80: Experience Wi-Fi 6 with Style and Speed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/raft-engaging-videos-with-7-free-premium-soundscapes/"><u>[New] Craft Engaging Videos with 7 Free, Premium Soundscapes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-master-of-moneymaking-skills-for-2024/"><u>[New] YouTube Master of Moneymaking Skills for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-color-grading-mastery-with-an-insight-into-lut-usage/"><u>[Updated] Color Grading Mastery with an Insight Into LUT Usage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-immediate-visuals-the-fastest-4-ways-to-snip-on-chrome-os/"><u>2024 Approved Immediate Visuals The Fastest 4 Ways To Snip on Chrome OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/game-on-the-undisputed-leader-a-detailed-review-of-alienware-aurora-r11-for-gaming-excellence/"><u>Game On! The Undisputed Leader – A Detailed Review of Alienware Aurora R11 for Gaming Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/grand-odyssey-awaits-in-yokus-island-express-your-ultimate-review-guide/"><u>Grand Odyssey Awaits in Yoku's Island Express - Your Ultimate Review Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/handheld-audio-brilliance-top-cd-players/"><u>Handheld Audio Brilliance - Top CD Players</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-navigate-the-world-of-choosing-smart-tvs/"><u>How to Navigate the World of Choosing Smart TVs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-xr-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone XR for Free</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-system-latest-geforce-rtx-2070-drivers-for-seamless-gaming-on-windows-11-8-and-7/"><u>Update Your System: Latest GeForce RTX 2070 Drivers for Seamless Gaming on Windows 11, 8 & 7</u></a></li>
 </ul></div>
 

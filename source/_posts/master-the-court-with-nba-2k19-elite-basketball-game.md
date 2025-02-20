@@ -1,7 +1,7 @@
 ---
 title: Master the Court with NBA 2K19 - Elite Basketball Game
-date: 2024-08-09T00:44:09.611Z
-updated: 2024-08-10T00:44:09.611Z
+date: 2025-02-15T21:14:53.591Z
+updated: 2025-02-19T16:59:19.515Z
 categories:
   - BestProducts
 description: This Article Describes Master the Court with NBA 2K19 - Elite Basketball Game
@@ -13,15 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Epic Games Fortnite Battle Royale
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fortnite Battle Royale](https://www.lifewire.com/thmb/DMGMgrBEv5v68pMF79BSGG86pwg=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fortnite_Battle-Royale_Standard-Mode_HeroSquare-2f7eb4d812104cb290c513cb5db717fd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -46,6 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 [View On Amazon](https://www.amazon.com/Warner-Bros-Fortnite-Freeze-Bundle-PlayStation/dp/B07HFTGBZL/?tag=lifewire-onsite-prod-20&ascsubtag=4780857%7Cnfbec125106e649d48fa9a707bc1b5f4910%7CB07HFTGBZL) [View On Epicgames.com](https://www.epicgames.com/fortnite/en-US/home)
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Epic Games Fortnite Battle Royale
 
@@ -86,11 +88,16 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 
 ![Fortnite Battle Royale](https://www.lifewire.com/thmb/u0p3ac203yN2fyC3DvKLcXMqdAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fornite_BattleRoyale_StandardMode_02-8da4487c33dc4aed81eabc862664a1f8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Gameplay: Simple for easy pick up and play**
 
  To win the Victory Royale, players compete solo, with a partner, or in squads of three to four people. Games are quick, lasting anywhere from 15-20 minutes once you get the hang of things, although it’s always possible to die earlier. The game starts by placing 100 players on Spawn Island while it queues up the teams. Once ready, everyone on the island is transported onto a Battle Bus which floats over the Fortnite map, allowing players to leap down and begin their quest to the top.
@@ -101,9 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 
  The storm is an ever-encroaching threat that closes over set intervals and deals damage that increases over time to players trapped within its boundaries, forcing everyone closer together as the safe zone shrinks. The last team standing will claim the Victory Royale for themselves.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Good, campy fun**
 
  Fortnite’s graphics are campy, oversaturated, and brightly-colored fun making them a treat to look at. Unlike competitors such as PUBG or Apex Legends, Fortnite’s graphics trade realism for cartoonish, exaggerated features. When combined with the emotes and skins earned throughout the game, these can create some very entertaining in-game visuals.
@@ -114,9 +118,6 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Building Mechanics: Build, build and build some more**
 
  A battle royale it may be, but Fortnite’s unique building mechanics truly set the game apart and turn the heat up a notch. All that harvesting you’re doing will pay off, because for every 10 stacks of a material such as wood or stone you have, you can build a structure. Be aware that durability and build time will vary based on the selected material, so take time to experiment and find what techniques work best for you.
@@ -125,9 +126,6 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 
  For the more casual player, these building controls can be found on the keyboard, but binding the building keys to unused mouse buttons can quickly become an asset on the battlefield where every second counts. A seamless defense can be the difference between victory and defeat.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Seasons: The down and dirty on the Battle Pass**
 
  The seasonal Battle Pass system offers rewards to players as they gain experience in the game, a change from the previous system Chapter 1 used which relied on leveling up through Battle Stars earned from Weekly Challenges. The shift to experience-based leveling feels much more intuitive. And honestly, it’s fun to watch the experience bar increase during the match, although it’d be better if you could toggle its presence to collapse or display in the HUD.
@@ -142,6 +140,10 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Modes: Limited-time and alternative game modes for variety**
 
  As if the game mechanics and the cosmetics weren’t thrilling enough, Epic Games takes the shake-ups a step further by offering alternative modes, limited-time game modes, and events with unique rewards.
@@ -151,15 +153,13 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
  If you love earning a variety of rewards, are intrigued by building mechanics, or just appreciate a casual game you can pick up and play, Fortnite’s Battle Royale is the clear winner.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Free to play**
 
  The only decision players need to make is whether or not they want to pick up the Battle Pass, which retails for 950 V-Bucks ($9.50). Otherwise,[Fortnite Battle Royale](https://www.lifewire.com/game-play-and-streaming-4781449) is free and available on almost every major platform: PC/Mac, Xbox One, PS4, iOS, Android, and Nintendo Switch. What’s better—cross-platform gameplay is also supported, so you can pick up and play with friends anywhere, anytime.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Apex Legends vs. Fortnite Battle Royale**
 
  Battle royale games have seen a lot of shake-up in the field lately, with the latest challenger arriving in February 2019 thanks to Respawn Entertainment’s[Apex Legends](https://www.ea.com/games/apex-legends) . Apex Legends is a first-person shooter meets battle royale game where 60 players are dropped onto a map competing with squads of three for domination.
@@ -190,14 +190,11 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
 * Platforms  PC/Mac, Xbox One, PS4, iOS, Android, and Nintendo Switch
 * Languages Supported  English, French, German, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish (Latin America, Spain), Turkish
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,3 +202,25 @@ thumbnail: https://www.lifewire.com/thmb/nRScZfZVQWaoiNcc0W9_9SRRzv8=/400x300/fi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-list-superior-gaming-live-options/"><u>[New] Expert List Superior Gaming Live Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlined-strategies-for-gaming-screen-recording/"><u>[New] Streamlined Strategies for Gaming Screen-Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[Updated] 2024 Approved Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-into-vr-wonderland-youtubes-finest-vr-content-list/"><u>[Updated] Step Into VR Wonderland YouTube's Finest VR Content List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-and-science-of-striking-youtube-live-images/"><u>[Updated] The Art and Science of Striking YouTube Live Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-how-to-download-facebook-status-videos/"><u>2023 | How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-dynamic-photographic-ensembles/"><u>2024 Approved Building Dynamic Photographic Ensembles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cost-effective-solution-in-depth-analysis-of-the-philips-hf3520-alarm-device/"><u>Cost-Effective Solution: In-Depth Analysis of the Philips HF3520 Alarm Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-hidden-treasures-in-spyro-reignited-trilogy-how-a-small-sized-dragon-packed-big-worthwhile-experience/"><u>Discovering Hidden Treasures in Spyro Reignited Trilogy – How a Small-Sized Dragon Packed Big Worthwhile Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/distinguished-vehicle-cypher-crafters-2024-edition/"><u>Distinguished Vehicle Cypher Crafters, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/durable-sunbriteveranda-55/"><u>Durable SunBriteVeranda 55</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embrace-the-journey-with-adaptive-patekfly-12s-support/"><u>Embrace the Journey with Adaptive Patekfly 12'S Support</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-acurite-pro-weather-station-model-01036m-user-friendly-setup-and-reliable-design-reviewed/"><u>Evaluating the AcuRite Pro Weather Station (Model 01036M): User-Friendly Setup & Reliable Design Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-razer-portal-for-gamers-unveiling-the-ultimate-wireless-setup/"><u>Expert Insight on Razer Portal for Gamers: Unveiling the Ultimate Wireless Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-which-ipad-is-right-for-you-a-detailed-analysis/"><u>Expert Reviews: Which iPad Is Right for You? A Detailed Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-tips-for-captivate-based-demos/"><u>In 2024, Expert Tips for Captivate-Based Demos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-curve-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze Curve 5G by Phone Number | Dr.fone</u></a></li>
+</ul></div>
+

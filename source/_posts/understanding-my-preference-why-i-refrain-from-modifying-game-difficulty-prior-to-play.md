@@ -1,7 +1,7 @@
 ---
 title: "Understanding My Preference: Why I Refrain From Modifying Game Difficulty Prior to Play"
-date: 2025-01-24T22:52:54.126Z
-updated: 2025-01-29T21:30:45.024Z
+date: 2025-02-16T04:30:46.473Z
+updated: 2025-02-19T18:14:14.139Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 ## Understanding My Preference: Why I Refrain From Modifying Game Difficulty Prior to Play
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Normal difficulty is usually the intended experience designed by developers for balanced gameplay.
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  The challenge of video games is a huge part of the appeal, but there are some players who only consider the hardest difficulty level even worth their time. That's definitely not me, and in fact, I'd go as far as saying that starting your games on "hard" might make gaming less enjoyable overall. Here's why I play on the default difficulty setting when starting a new game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Normal Is (Normally) the Intended Experience
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Games are built around a specific balanced difficulty level. In other words, most of the time, the "normal" difficulty level is what the [whole game is designed around](https://location-social.techidaily.com/in-2024-does-honor-90-gt-have-find-my-friends-drfone-by-drfone-virtual-android/). Often, in the difficulty settings, the game will outright say something like "the intended experience" or something to that effect. Perhaps the most notable exception are some games such as Halo 4, where the "Heroic" difficulty level is how the game was intended. By not experiencing the game on normal difficulty, I feel like I'm not really in a position to judge the game and whether it's well-balanced or fun.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Can’t Predict the Difficulty Curve
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  All games have a difficulty curve, which teaches you the game, and then ramps up the difficulty as you progress. So, if you're a [veteran gamer](https://screen-mirror.techidaily.com/a-guide-realme-c53-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/), chances are "normal" will feel far too easy at the outset. However, you don't know how hard the game will be at the end. If the game is initially at a challenging level for you on hard mode, then it's likely to become too hard as you progress along the curve. So you shouldn't judge the challenge of a game too soon, or assume you have to start on a hard mode to get the right level of challenge for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Modern Games Let You Change Difficulty on the Fly
@@ -47,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  Of course, you could make the same argument about starting on hard and then toning it down later, which is fair, but I think psychologically it feels better to turn things up later, rather than hit a brick wall and have to move things back down to normal again with your tail between your legs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Plenty of Developers Don’t Know How to Increase Difficulty
 
  One of the biggest reasons by far I rarely start games on higher difficulty levels, is that few developers seem to know how to scale difficulty properly. For many games, increased difficulty levels simply mean that enemies become bullet sponges, or there are just more of them, or your character is nerfed in some way. That's not a true increase in difficulty. Games that introduce new varieties of enemies, make enemies smarter, or introduce new mechanics that increase the challenge are worth exploring harder levels for, but those that just give you a sort of "normal+" mode are rarely more fun to play.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Harder Difficulties Are More Fun in Future Playthroughs
@@ -82,22 +82,20 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-talent-hunters-unite-top-10-video-roundup/"><u>[New] 2024 Approved Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-showdown-bandicams-prowess-against-camtasia/"><u>[New] 2024 Approved The Ultimate Showdown Bandicam's Prowess Against Camtasia</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/5-astuces-simples-pour-reduire-et-organiser-le-folder-winsxs-sous-windows-10-and-7/"><u>5 Astuces Simples Pour Réduire Et Organiser Le Folder WinSxS Sous Windows 10 & 7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-and-control-expert-strategies-for-windows-telnet-client-usage/"><u>Connect and Control: Expert Strategies for Windows Telnet Client Usage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-collection-7-prime-websites-offering-movie-teasers/"><u>Discover The Ultimate Collection: 7 Prime Websites Offering Movie Teasers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-restoring-sound-on-skype-conferencing/"><u>Easy Solutions for Restoring Sound on Skype Conferencing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-mac-experience-with-the-chic-and-functional-blue-freestyle2-case-reviewed-here/"><u>Elevate Your Mac Experience with the Chic and Functional Blue Freestyle2 Case Reviewed Here</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/from-portability-to-performance-spotlight-on-stellar-rechargeable-battery-chargers/"><u>From Portability to Performance: Spotlight on Stellar Rechargeable Battery Chargers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-document-and-picture-scanner-technologies-of-2024-unveiled/"><u>Leading Document and Picture Scanner Technologies of 2024 Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-great-outdoors-with-garmins-top-rated-gpsmap-64st-a-complete-overview/"><u>Mastering the Great Outdoors with Garmin's Top-Rated GPSMAP 64St - A Complete Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-second-display-recognition-problems-in-windows-7/"><u>Step-by-Step Solution for Second Display Recognition Problems in Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-vanguard-toms-authoritative-hardware-evaluations/"><u>Tech Vanguard - Tom’s Authoritative Hardware Evaluations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-picks-feature-the-intelligent-technology-within-the-robust-linksys-ea9500-router/"><u>Top Picks Feature - The Intelligent Technology Within the Robust Linksys EA9500 Router</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-picks-the-ultimate-guide-to-the-premier-gaming-consoles-in-2/"><u>Top Picks: The Ultimate Guide to the Premier Gaming Consoles in 2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-netgear-router-models/"><u>Top-Ranking Netgear Router Models</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-kickstart-your-zoom-webinar-journey-for-2024/"><u>[New] How to Kickstart Your Zoom Webinar Journey for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-sims-4-filming-a-comprehensive-guide/"><u>[New] In 2024, Mastering Sims 4 Filming A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamline-your-seo-strategy-with-the-leading-7-online-youtube-tags-tools/"><u>[New] Streamline Your SEO Strategy with the Leading 7 Online Youtube Tags Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-behind-the-curtain-peek-tracking-insta-post-watchers-for-2024/"><u>[Updated] Behind-the-Curtain Peek Tracking Insta Post Watchers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-free-youtube-intros-and-templates/"><u>[Updated] The Ultimate Guide to Free YouTube Intros & Templates</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revamp-your-laptop-graphics-with-ease/"><u>Revamp Your Laptop Graphics with Ease</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-yokus-island-express-beyond-traditional-adventure-gaming/"><u>Reviewing Yoku's Island Express: Beyond Traditional Adventure Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/seamlessly-enhance-your-apple-device-with-our-expert-freestyle2-blue-software-review/"><u>Seamlessly Enhance Your Apple Device with Our Expert Freestyle2 Blue Software Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/see-every-angle-in-water-clarity-with-insta360-x2-review/"><u>See Every Angle in Water Clarity with Insta360 X2 Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/swagtron-swagger-electric-scooter-review-fashionable-sleek-commuting/"><u>Swagtron Swagger Electric Scooter Review: Fashionable, Sleek Commuting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-beginners-guide-to-the-nokia-31-device-a-review-of-its-user-friendly-capabilities/"><u>The Beginner's Guide to the Nokia 3.1 Device: A Review of Its User-Friendly Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cat-s42-resilient-phone-a-comprehensive-guide-to-its-sturdy-design-and-fair-speed/"><u>The CAT S42 Resilient Phone: A Comprehensive Guide to Its Sturdy Design & Fair Speed</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web-for-2024/"><u>The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web for 2024</u></a></li>
 </ul></div>
 
